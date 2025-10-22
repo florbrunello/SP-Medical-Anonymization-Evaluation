@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pratricia</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Martín RIvera</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1037856</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">37 89569705 33</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Plaza de los molinos, 28, 4, A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Málaga</TAG>.
+    CP: <TAG TYPE="TERRITORIO">29010</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/11/1979</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">38 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">07/06/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Victoria</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ramos Medina</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">29 29 55710</TAG>.
+    Informe clínico del paciente: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">38 años</TAG> de edad diagnosticada de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">esclerosis múltiple</TAG> en tratamiento con <TAG TYPE="PROFESION">interferón beta</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">espondilitis anquilosante</TAG> tratada con <TAG TYPE="PROFESION">ibuprofeno</TAG> y <TAG TYPE="PROFESION">metamizol</TAG>. El familiar que convivía con ella refiere que llevaba tres días sin defecar, con dolor y distensión abdominal. Sobre las 01:30 horas se administró un enema de 240 ml (de los denominados laxantes por vía rectal) y se acostó. El referido familiar la encuentra a las 05 horas inconsciente y con restos de vómito verde oscuro en el rostro y en su entorno. Asistió el servicio médico de emergencias, que la encontró con signos de muerte cierta y no aplicó medidas de reanimación.
+    Hallazgos de la autopsia: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">1,54 m</TAG>; <TAG TYPE="PESO">52 kg</TAG>; índice de masa corporal, normal (<TAG TYPE="PESO">21,9 kg/m2</TAG>); restos de líquido verde oscuro en orificios nasales, en el interior y alrededor de la boca; distensión abdominal; al abrir el abdomen, gran dilatación del estómago y el duodeno que ocupa la mayor parte de la cavidad abdominal visible, llegando hasta la pelvis menor ; las restantes vísceras abdominales quedan ocultas por el estómago, el cual se encuentra totalmente repleto de líquido verde oscuro (bilis y escasos restos hemáticos en forma de "posos de café"); las paredes del estómago están adelgazadas y con áreas de aspecto hemorrágico en la mucosa ; el estomago contiene <TAG TYPE="PESO">3,5 litros</TAG> de líquido de coloración verde oscura; contenido gástrico en la vía aérea.
+    El estudio histopatológico diagnosticó, en el estómago, congestión en los vasos de la lámina propia y autólisis del epitelio glandular ; en el encéfalo, placas inactivas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">esclerosis múltiple</TAG> ; y además aspiración broncoalveolar.
+    El cribado toxicológico sólo detectó concentraciones subterapéuticas de <TAG TYPE="PROFESION">metoclopramida</TAG>, <TAG TYPE="PROFESION">ibuprofeno</TAG> y <TAG TYPE="PROFESION">diazepam</TAG>.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Victoria</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ramos Medina</TAG> <TAG TYPE="INSTITUCION">Instituto de Medicina Legal, Ciudad de la Justicia Fiscal Luis Portero, 6</TAG> <TAG TYPE="TERRITORIO">29010 Málaga</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">valentin.ramos.ius@juntadeandalucia.es</TAG>
+  </TEXT>
+</MEDDOCAN>

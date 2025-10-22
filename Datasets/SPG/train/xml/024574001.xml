@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Domingo Andres Rueda
+DNI: 28516683H
+Fecha de nacimiento: 17/01/1925
+Género: H
+Domicilio: Calle del Olivar 25, 1T
+Ciudad: Cáceres, Las Palmas, Canarias
+Código postal: 35742
+Email: domingo_andres.rueda890@yahoo.com
+Teléfono fijo: +34 928 08 25 88
+Teléfono móvil: +34 628 90 97 74
+NHC: 1989491
+NASS: 376695209004
+Condición de riesgo: Trabajador de Servicios de Limpieza
+
+Datos asistenciales.
+Médico: Dra. María Guillen González. NC 433866782. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/02/1998
+Episodio: 22838334
+Hospital: Hospital Universitario Puerta de Hierro Majadahonda
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 73 años de edad, acompañado de su yerno. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Domingo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Andres Rueda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="28516683H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="17/01/1925" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="140" text="Calle del Olivar 25, 1T" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="156" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="168" text="Las Palmas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="178" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="194" end="199" text="35742" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="207" end="240" text="domingo_andres.rueda890@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 928 08 25 88" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="289" end="305" text="+34 628 90 97 74" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="311" end="318" text="1989491" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="325" end="337" text="376695209004" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="359" end="394" text="Trabajador de Servicios de Limpieza" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="677" end="687" text="17/02/1998" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="698" end="706" text="22838334" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="717" end="768" text="Hospital Universitario Puerta de Hierro Majadahonda" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="812" end="838" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="842" end="849" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="876" end="881" text="yerno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

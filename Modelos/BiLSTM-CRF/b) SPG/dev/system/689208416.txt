@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Santiago Contreras Lara
+DNI: 73588084K
+Fecha de nacimiento: 27/04/1990
+Género: Masculino
+Domicilio: Calle de Santa Ana 14
+Ciudad: Jerez de la Frontera, Gerona, Cataluña
+Código postal: 17789
+Email: contreras@ub.edu
+Teléfono fijo: +34 972 69 81 69
+Teléfono móvil: +34 772 82 75 73
+NHC: 2744331
+Condición de riesgo: Químico
+
+Datos asistenciales.
+Médico: Dra. María Esther Luna Montoya. NC 495373470. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 10/11/1997
+Episodio: 90438953
+Hospital: Hospital Clínic Universitario San Cecilio
+
+Informe clínico del paciente:
+Paciente transeúnte de 7 años de edad, acompañado de su padre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.73.156, con dirección MAC 52:01:7C:4A:F0:F3. Se registró una sesión de huella dactilar, el código obtenido para revisarla es IC731UKF907. 

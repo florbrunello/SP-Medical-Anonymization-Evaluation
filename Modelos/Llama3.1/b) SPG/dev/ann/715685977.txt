@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Sergio Robles Parra
+DNI: 98400034P
+Fecha de nacimiento: 28/06/1974
+Género: V
+Domicilio: Calle de Miguel Ángel 95
+Ciudad: Ermua, Granada, Andalucía
+Código postal: 18340
+Email: robles_parra@aol.com
+Teléfono fijo: +34 958 90 41 00
+Teléfono móvil: +34 658 98 22 89
+NHC: 0749116
+NASS: 331141463537
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dr. Agustín Mesa Calvo. NC 340104133. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 08/05/1975
+Episodio: 41152028
+Centro de salud: Centro de Salud Sevilla Norte
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 10 meses de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.221.125, con dirección MAC 51:95:8D:E1:13:D8. Se registró una sesión de firma biométrica, el código obtenido para revisarla es WY763BRK049. 

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan Manuel</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Garcia Estrada</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">438754</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">14 50756985 67</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Monte Compatri, 2</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Calahorra, La Rioja, La Rioja</TAG>.
+    CP: <TAG TYPE="TERRITORIO">26500</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/06/1980</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA"></TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">15/09/2017</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Urgencias</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Daniel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sánchez Zalabardo</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">26 26 46123</TAG>.
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> de edad, sin antecedentes médicos de interés, que acude a <TAG TYPE="PROFESION">Urgencias</TAG> custodiado por agentes de policía desde el aeropuerto por sospecha de ingesta y transporte intraabdominal de envoltorios de droga (BP).
+    Exploración física: A su llegada, el paciente presentaba: presión arterial <TAG TYPE="FECHAS">157/88 mmHg</TAG>, frecuencia cardiaca <TAG TYPE="FECHAS">108 lat/min</TAG>, temperatura <TAG TYPE="FECHAS">37 ºC</TAG> y saturación O2 <TAG TYPE="FECHAS">94%</TAG>. A la exploración, el abdomen estaba distendido y mate a la percusión, no doloroso, con palpación de múltiples cuerpos extraños en mesogastrio y sin peritonismo. A nivel neurológico mostraba pupilas ligeramente midriáticas, Glasgow <TAG TYPE="FECHAS">15</TAG> y ausencia de focalidad neurológica.
+    Resumen de pruebas complementarias: La radiografía abdominal confirmó la presencia de múltiples cuerpos extraños intraabdominales radio-opacos. Los hallazgos analíticos más relevantes fueron: leucocitos <TAG TYPE="FECHAS">14,1 x 10^9/l</TAG> (neutrófilos: <TAG TYPE="FECHAS">86%</TAG>), creatinina <TAG TYPE="FECHAS">1,7 mg/dl</TAG> y glucosa <TAG TYPE="FECHAS">131 mg/dl</TAG>. El electrocardiograma mostraba una taquicardia sinusal. El análisis de orina resultó positivo para cocaína y sus metabolitos y benzodiazepinas.
+    Evolución y comentarios: El enfermo permaneció <TAG TYPE="FECHAS">24 horas</TAG> en observación en una unidad de vigilancia intensiva. Inició peristalsis y dieta oral al segundo día postoperatorio. El paciente presentó una correcta evolución posterior, recibiendo el alta hospitalaria al cuarto día postoperatorio.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Daniel Sánchez Zalabardo</TAG>. <TAG TYPE="INSTITUCION">Fundación Hospital de Calahorra</TAG> <TAG TYPE="CALLE">Ctra. de Logroño, s/n</TAG> - <TAG TYPE="TERRITORIO">26500 Calahorra</TAG> (<TAG TYPE="TERRITORIO">La Rioja</TAG>) Tel.: <TAG TYPE="NUMERO_TELEFONO">941 151 000</TAG> E-mail autor: <TAG TYPE="CORREO_ELECTRONICO">dsanchez@fhcalahorra.com</TAG> Información artículo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Nota clínica</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Javier Espinosa Reyes
+DNI: 46315440H
+Fecha de nacimiento: 31/12/2006
+Género: Masculino
+Domicilio: Calle del León 41
+Ciudad: Burgos, Valencia, Comunidad Valenciana
+Código postal: 46734
+Email: josejavier-espinosa-reyes@ciberehd.org
+Teléfono fijo: +34 960 17 32 25
+Teléfono móvil: +34 660 61 15 62
+NHC: 0443550
+
+Datos asistenciales.
+Médico: Dr. Antonio Jiménez Quintana. NC 699280028. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/06/2015
+Hospital: Hospital Universitario Virgen del Rocío
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 8 años de edad, acompañado de su hermano. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.68.131, con dirección MAC 25:1E:90:FC:69:85. Se realizó un expediente con URL http://example-ophthalmology.net//29762585R. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="José Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="54" text="Espinosa Reyes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="46315440H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="31/12/2006" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="119" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="131" end="148" text="Calle del León 41" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="163" text="Burgos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="173" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="195" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="211" end="216" text="46734" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="224" end="262" text="josejavier-espinosa-reyes@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="278" end="294" text="+34 960 17 32 25" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="311" end="327" text="+34 660 61 15 62" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="333" end="340" text="0443550" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="375" end="399" text="Antonio Jiménez Quintana" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="404" end="413" text="699280028" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="415" end="450" text="Neurólogo Especialista en Alzheimer" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="452" end="541" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="543" end="572" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="574" end="579" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="581" end="587" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="589" end="595" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="615" end="625" text="17/06/2015" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T24" start="636" end="675" text="Hospital Universitario Virgen del Rocío" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T25" start="719" end="743" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T26" start="747" end="753" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T27" start="780" end="787" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="895" end="912" text="25:1E:90:FC:69:85" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <OTHER id="T29" start="947" end="975" text="http://example-ophthalmology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

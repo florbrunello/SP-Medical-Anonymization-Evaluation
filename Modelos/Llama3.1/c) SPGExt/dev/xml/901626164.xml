@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rosa</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Benito</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Conde</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">11634310J</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/09/1943</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Áncora 99, 1B</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">13789</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariarosa_conde68@ual.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 98 24 84</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 726 13 81 83</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9174691</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">468043486571</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente con antecedentes de enfermedades crónicas</TAG>.
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rosario</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Díaz Otero</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">709333066</TAG>. <TAG TYPE="PROFESION">Investigadora Clínica en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">29/04/2015</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Pozuelo de Alarcón</TAG>.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedad pulmonar obstructiva crónica (EPOC)</TAG>. Ha tenido varios episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca</TAG> en el pasado y ha sido sometido a un procedimiento de <TAG TYPE="OTRO_NUMERO_IDENTIF">angioplastia coronaria</TAG>.
+    Evolución y comentarios:
+    El paciente fue ingresado en la unidad de cuidados intensivos debido a un episodio de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca aguda</TAG>. Fue sometido a un tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">diuréticos</TAG> y medicamentos inotrópicos, y se le realizó un seguimiento estricto de su estado clínico. A pesar de los esfuerzos terapéuticos, el paciente no mejoró significativamente y se mantuvo en estado de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca grave</TAG>.
+    Informe clínico del paciente:
+    El paciente es un hombre de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">71 años</TAG> de edad, de ascendencia <TAG TYPE="OTRO_NUMERO_IDENTIF">africana</TAG>, que fue ingresado en la unidad de cuidados intensivos debido a un episodio de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca aguda</TAG>. El paciente tiene antecedentes de enfermedades crónicas, incluyendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">EPOC</TAG>. Fue sometido a un tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">diuréticos</TAG> y medicamentos inotrópicos, pero no mejoró significativamente. Se le realizó un seguimiento estricto de su estado clínico, pero el paciente se mantuvo en estado de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca grave</TAG>.
+    Exploración física:
+    La exploración física reveló signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca grave</TAG>, incluyendo <TAG TYPE="OTRO_NUMERO_IDENTIF">disnea</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">edema periférico</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">taquicardia</TAG>. El paciente también presentaba signos de <TAG TYPE="OTRO_NUMERO_IDENTIF">hipotensión</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">oliguria</TAG>.
+    Pruebas diagnósticas:
+    Se realizaron varias pruebas diagnósticas, incluyendo <TAG TYPE="OTRO_NUMERO_IDENTIF">electrocardiograma</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">ecocardiograma</TAG> y análisis de sangre. Los resultados mostraron signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca grave</TAG> y daño cardíaco.
+    Tratamiento:
+    El paciente recibió un tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">diuréticos</TAG> y medicamentos inotrópicos, pero no mejoró significativamente. Se le realizó un seguimiento estricto de su estado clínico, pero el paciente se mantuvo en estado de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca grave</TAG>.
+    Pronóstico:
+    El pronóstico del paciente es <TAG TYPE="OTRO_NUMERO_IDENTIF">grave</TAG>, ya que la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca aguda</TAG> es una condición potencialmente mortal. Es importante continuar con el tratamiento y el seguimiento estricto del estado clínico del paciente.
+    Remitido por:
+    El paciente fue remitido a la unidad de cuidados intensivos debido a un episodio de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca aguda</TAG>. El paciente fue sometido a un tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">diuréticos</TAG> y medicamentos inotrópicos, pero no mejoró significativamente. Se le realizó un seguimiento estricto de su estado clínico, pero el paciente se mantuvo en estado de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca grave</TAG>.
+  </TEXT>
+</MEDDOCAN>

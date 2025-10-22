@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Luis Miguel</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Suárez Castro</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">15 50201565 22</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Avda. de los Empresarios 15, 1F</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Cádiz</TAG>.
+    CP: <TAG TYPE="TERRITORIO">11319</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">76194955</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/05/1992</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">25 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">03/06/2018</TAG>.
+    Especialidad: <TAG TYPE="PROFESION">Urología</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Manuel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Soto Delgado</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">11 11 26484</TAG>.
+    Antecedentes: sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedentes personales de interés</TAG>.
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">25 años</TAG> de edad que consulta por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumoración</TAG> en ambos <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">testes</TAG> de dos semanas de evolución.
+    Exploración física:  Masa dura que ocupa más de la mitad del <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">testículo izquierdo</TAG>. <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">Teste derecho</TAG> aumentado de consistencia sobre todo en su parte posterior.
+    Resumen de pruebas complementarias: Eco escrotal : <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">Tumoración sólida</TAG> de 37x21 mm, hipoecoica en <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">teste derecho</TAG>. Dos lesiones sólidas en <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">teste izquierdo</TAG> de 32x17 mm y de 7 mm de características ecográficas similares a las encontradas en <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">teste derecho</TAG>. Todo ello compatible compatible con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">neoplasia testicular bilateral multicéntrica</TAG>. <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">Varicocele izquierdo</TAG>.
+    Marcadores tumorales: <TAG TYPE="OTRO_NUMERO_IDENTIF">AFP</TAG>: normal; <TAG TYPE="OTRO_NUMERO_IDENTIF">ß-HCG</TAG>: 6,15 mUI/ml (valor normal: < de 2,5 mUI/ml); <TAG TYPE="OTRO_NUMERO_IDENTIF">LDH</TAG>: normal.
+    Estudio de extensión (TAC toracoabdominopélvico): crecimientos adenopáticos a nivel retroperitoneal (N2) y lesiones metastásicas hepáticas (M1).
+    Tratamiento quirúrgico: <TAG TYPE="PROFESION">Orquiectomía</TAG> radical bilateral por vía inguinal. El paciente desechó la posibilidad de colocar prótesis.
+    Diagnóstico Principal: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">seminoma</TAG> con elevado índice mitótico e invasión vascular (pT2) en ambos <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">testes</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">seminoma anaplásico</TAG>).
+    Tratamiento: <TAG TYPE="PROFESION">Quimioterapia</TAG> sistémica con el esquema etopósido y cisplatino (4 ciclos).
+    Evolución: Actualmente, y tras 24 meses de seguimiento, hay negativización de marcadores tumorales con ausencia de adenopatías retroperitoneales y metástasis hepáticas (remisión completa).
+    El paciente declinó la posibilidad de congelar el <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">semen</TAG> previo a la cirugía radical.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Manuel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Soto Delgado</TAG>. <TAG TYPE="INSTITUCION">Servicio de Urología</TAG>. <TAG TYPE="HOSPITAL">Hospital Puerto Real</TAG>. <TAG TYPE="DIREC_PROT_INTERNET">Ctra. Nacional IV, Km 665</TAG>. <TAG TYPE="TERRITORIO">11510 Puerto Real - Cádiz</TAG>. Tel.: <TAG TYPE="NUMERO_TELEFONO">956 005 000</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">manuelsotocorreo@yahoo.es</TAG>
+  </TEXT>
+</MEDDOCAN>

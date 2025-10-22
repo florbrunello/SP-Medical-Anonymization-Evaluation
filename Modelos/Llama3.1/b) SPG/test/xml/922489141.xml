@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Consuelo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Beltran</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ortega</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">25526068R</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/04/1930</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Valverde 21, 7E</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Marbella</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">28656</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">consuelo-beltran@us.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 918 15 73 36</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 611 87 65 47</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4359814</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">178508371400</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Técnico de Laboratorio</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José María Romero Montero</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">234703631</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Epidemiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/06/1967</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de A Coruña</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3928LRM</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Hyundai Elantra</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSKWCCHIURH705635</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">conviviente</TAG>.
+    El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-research.net</TAG>
+  </TEXT>
+</MEDDOCAN>

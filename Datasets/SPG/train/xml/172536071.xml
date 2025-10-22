@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Consuelo Castillo Garrido
+DNI: 23304828D
+Fecha de nacimiento: 14/01/1946
+Género: Mujer
+Domicilio: Calle de la Alameda 77
+Ciudad: Ibiza, Alicante, Comunidad Valenciana
+Código postal: 03968
+Email: consuelo.garrido131@ioba.med.uva.es
+Teléfono fijo: +34 965 65 44 87
+FAX: +34 965 74 07 95
+NHC: 3916279
+NASS: 388480611410
+Condición de riesgo: Soldador
+
+Datos asistenciales.
+Médico: Dra. Verónica Mateos De la Fuente. NC 163518868. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/12/1964
+Episodio: 77013253
+Hospital: Hospital Clínic Barcelona
+
+Informe clínico del paciente:
+Paciente de tez blanca de 18 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Consuelo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="53" text="Castillo Garrido" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="23304828D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="14/01/1946" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="114" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="148" text="Calle de la Alameda 77" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="162" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="172" text="Alicante" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="194" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="03968" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="258" text="consuelo.garrido131@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="274" end="290" text="+34 965 65 44 87" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="296" end="312" text="+34 965 74 07 95" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="318" end="325" text="3916279" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="332" end="344" text="388480611410" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="366" end="374" text="Soldador" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="654" end="664" text="12/12/1964" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="675" end="683" text="77013253" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="694" end="719" text="Hospital Clínic Barcelona" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="763" end="773" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="777" end="784" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ángel</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Higueras Patiño</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">974556</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">08 76457156 14</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Rúa Profesor Filgueira Valverde, 10, 8G</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Pontevedra</TAG>.
+    CP: <TAG TYPE="TERRITORIO">36004</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/07/1959</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">58 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/09/2017</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Urgencias</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carmen</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Blanco-Rivera</TAG>  NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">36 36 79436</TAG>.
+    Motivo de ingreso: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor ocular intenso con pérdida visual</TAG>.
+    Historia Actual: varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">58 años</TAG> que acudió por <TAG TYPE="PROFESION">urgencias</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor ocular intenso</TAG> acompañado de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pérdida visual</TAG> progresiva en su ojo izquierdo. 
+    Antecedentes: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">glaucoma agudo secundario a dicha masa presente en cámara anterior</TAG>.
+    Exploración física: La exploración <TAG TYPE="PROFESION">oftalmológica</TAG> mostró una masa pigmentada en el ángulo iridocorneal que protuía a cámara anterior afectando al iris. 
+    Resumen de pruebas complementarias: La <TAG TYPE="PROFESION">oftalmoscopía</TAG> mostró una masa pigmentada de gran tamaño y aspecto irregular, con zonas más sobreelevadas. Las características que presentó en la <TAG TYPE="PROFESION">ecografía ocular</TAG> fueron compatibles con un <TAG TYPE="OTRO_NUMERO_IDENTIF">melanoma ocular</TAG> de gran tamaño y extensión difusa. La <TAG TYPE="PROFESION">Resonancia Nuclear Magnética (RNM)</TAG> mostró una masa con base de 17 mm discretamente hiperintensa en T1 e hipointensa en T2, compatible con el diagnóstico de <TAG TYPE="OTRO_NUMERO_IDENTIF">melanoma de coroides</TAG> (1). El Servicio de <TAG TYPE="PROFESION">Oncología</TAG> realizó un estudio de extensión que descartó diseminación metastásica. Dada la extensión tumoral, la sintomatología del paciente y la ausencia de posibilidad de recuperación visual se planteó el tratamiento mediante enucleación (1,3).
+    El examen visual macroscópico del globo ocular, tras su extracción, evidenció la presencia de invasión escleral.
+    Evolución y comentarios: El paciente evolucionó favorablemente, conservando la motilidad ocular y un aspecto satisfactorio con la prótesis ocular externa, manteniendo una buena calidad de vida, presentando, únicamente, dificultad para realizar tareas cotidianas que requiriesen una buena visión binocular.
+    El examen macroscópico de cortes seriados del globo ocular mostró una masa circunferencial de crecimiento endofítico abarcando prácticamente toda la coroides extendiéndose hasta cuerpo ciliar e iris, correspondiendo histológicamente a una proliferación de células fusiformes y epitelioides con citoplasma amplio, pigmentado, núcleos ovalados con nucleolos prominentes con un grado de atipia significativa. El número de mitosis fue elevado, evidenciándose focos hemorrágicos y necróticos. Estos datos anatomopatológicos confirmaron el diagnóstico de <TAG TYPE="OTRO_NUMERO_IDENTIF">melanoma uveal difuso</TAG>, con perforación de la pared escleral alcanzando la superficie externa de la misma.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carmen</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Blanco-Rivera</TAG> <TAG TYPE="PROFESION">Servicio de Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Complejo Hospitalario Universitario de Vigo (CHUVI)</TAG>. <TAG TYPE="CALLE">C/ Pizarro, s/n</TAG> <TAG TYPE="TERRITORIO">36204</TAG> <TAG TYPE="TERRITORIO">Vigo</TAG> (<TAG TYPE="TERRITORIO">Pontevedra</TAG>) <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">mcarmenbr@wanadoo.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

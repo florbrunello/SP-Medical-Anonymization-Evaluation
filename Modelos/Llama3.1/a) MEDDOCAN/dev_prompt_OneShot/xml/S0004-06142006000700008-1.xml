@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Arturo</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mendez Gomez</TAG>.
+    CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc-739146</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">71 33043712 35</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Dr. Joaquín Aznar Molina 2, 3F</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Zaragoza</TAG>.
+    CP: <TAG TYPE="TERRITORIO">50009</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">739146</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/02/1938</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA"> Sexo:</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">15/03/2014</TAG>.
+    Especialidad: <TAG TYPE="PROFESION">Urologia</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Miguel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Martínez Rodríguez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">50 50 98653</TAG>.
+    Motivo de ingreso: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">molestias testiculares</TAG>.
+    Antecedentes: paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">76 años</TAG> de edad, sin alergias conocidas, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dislipemia</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infarto agudo de miocardio antiguo</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">triple derivación aorto-coronaria por enfermedad de los 3 vasos de un año de antigüedad</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">RTU por hiperplasia leiomioadenomatosa de próstata de dos años de antigüedad</TAG>. No se refiere ningún <TAG TYPE="OTROS_SUJETO_ASISTENCIA">traumatismo testicular previo</TAG>. Tampoco presenta antecedentes clínicos, radiológicos ni analíticos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tuberculosis</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">brucelosis</TAG>.
+    Historia Actual: Acude a la consulta de urología por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">molestias testiculares</TAG>, consistentes en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor leve crónico intermitente</TAG>, de 4 meses de evolución.
+    Exploración física: apreciándose a la exploración <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nódulo duro e irregular</TAG> en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">testículo derecho</TAG> sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor acompañante espontáneo</TAG> ni a la palpación.
+    Resumen de pruebas complementarias: Los hallazgos ecográficos revelan una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lesión focal nodular</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lobulada</TAG> y de baja ecogenicidad de 2 cm de diámetro en polo inferior del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">testículo derecho</TAG>, vascularizada, siendo, por tanto compatible con neoformación. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Testículo izquierdo</TAG> sin hallazgos patológicos de interés.
+    En la TAC abdómino pélvico con contraste no se evidencian <TAG TYPE="OTROS_SUJETO_ASISTENCIA">adenopatías retroperitoneales</TAG>.
+    El análisis sanguíneo muestra valores dentro de la normalidad para <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alfa-feto proteína</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">HCG</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">LDH</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">HCG</TAG>: 1,74 U/l; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Alfa-feto proteína</TAG>: 2.07 ng/ml; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">LDH</TAG>: 299 mU/ml). El estudio anatomopatológico macroscópico muestra <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bolsa escrotal</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hidrocele</TAG> de 8 x 5 x 2,5 cm con 5 cm de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">conducto epididimario</TAG>. A la sección se observa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">testículo</TAG> de 5,5 x 2,5 x 2,5 cm, de consistencia fibrosa, sin lesiones macroscópicas compatibles con neoplasia. El estudio microscópico muestra <TAG TYPE="OTROS_SUJETO_ASISTENCIA">parénquima testicular</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">degeneración vacuolada</TAG> de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">células germinales</TAG> y de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Sertoli</TAG>, con núcleo vesicular, apreciándose en las paredes de los <TAG TYPE="OTROS_SUJETO_ASISTENCIA">túbulos seminíferos</TAG> un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infiltrado inflamatorio mononuclear</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">linfocitos</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">células plasmáticas</TAG>. Se distinguen numerosas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">formaciones granulomatosas</TAG> con abundantes <TAG TYPE="OTROS_SUJETO_ASISTENCIA">células multinucleadas gigantes</TAG> ubicadas en el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estroma</TAG> entre los <TAG TYPE="OTROS_SUJETO_ASISTENCIA">túbulos seminíferos</TAG> y, alguna de ellas, en el interior de los mismos. No se observa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">celularidad neoplásica</TAG>. Al efectuarse las <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tinciones de PAS y Ziehl Nielsen</TAG> no se observan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">microorganismos micóticos</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">micobacterias</TAG>.
+    Evolución y comentarios: El paciente es sometido a una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">orquiectomía inguinal derecha</TAG>
+    Diagnóstico Principal: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">orquitis idiopática granulomatosa</TAG>
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Miguel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Martínez Rodríguez</TAG> <TAG TYPE="PROFESION">Servicio de Urología</TAG>. <TAG TYPE="CALLE">Calle Vicente Blasco Ibáñez, 23</TAG> <TAG TYPE="TERRITORIO">45010 Valencia</TAG>. (<TAG TYPE="PAIS">España</TAG>) <TAG TYPE="CORREO_ELECTRONICO">miguelmartinez@val.es</TAG>
+  </TEXT>
+</MEDDOCAN>

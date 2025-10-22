@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Leyre</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santana Prados</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2784056</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle los MOlinos</TAG>, <TAG TYPE="NUMERO">32</TAG>, <TAG TYPE="NUMERO">8 D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28014</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">20/04/2002</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">27/08/2015</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Manuel Jesús</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodríguez-López</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 90914</TAG>.
+    Informe clínico del paciente: Niña de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> de edad con cuadro de SDRC de extremidad inferior derecha secundario también a un esguince de tobillo ocurrido seis meses antes de su llegada a la Unidad. La actitud a seguir fue colocación en quirófano, baja anestesia general, de un electrodo octopolar (Octrode) en cordones medulares posteriores a nivel de T9-T12 y conexión a un generador de impulsos eléctricos externo. Una vez recuperada de la anestesia se llevó a cabo la programación del sistema con muy buena localización de las parestesias sobre la zona afectada. Se revisó una semana más tarde en la Unidad observándose una buena respuesta tanto para el dolor como para el edema y resto de signos, se volvió a revisar una semana más tarde en la cual se comprobó el mantenimiento de la situación de control del dolor y de la alodinia, lo que había permitido que la paciente iniciara los ejercicios de rehabilitación que había tenido que suspender por el dolor severo que le desencadenaba la movilización de la extremidad. Ante esta situación y, de acuerdo con los padres, se decidió la conexión, en quirófano y bajo anestesia general, a un generador de impulsos eléctricos programable marca Génesis.
+    Se evaluó a los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15</TAG> y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30</TAG> días después de la implantación del generador, continuando en la misma situación de alivio del dolor y sintomatología acompañante. Seis meses más tarde la paciente acudió a consulta a la Unidad, manteniéndose tanto el alivio del dolor, como del resto de la sintomatología, habiendo desaparecido la alodinia y gran parte del edema y del resto de los síntomas acompañantes, la paciente ya podía apoyar el pie y continuaba con la rehabilitación, comunicándonos la familia que desde hacía dos meses no habían utilizado el generador al que mantenían desconectado, sin que ni el dolor ni los síntomas acompañantes hubiesen hecho su aparición.
+    Ante esta situación, se decidió revisar a la paciente en un plazo de cuatro semanas continuando durante ese tiempo con los ejercicios de rehabilitación. Se evaluó cuatro semanas más tarde y ante la persistencia de la situación anterior, se decidió, de mutuo acuerdo con la familia, explantar tanto el generador como el eléctrodo medular, cosa que se hizo de nuevo en quirófano y bajo anestesia general. La paciente, en la actualidad continua asintomática y realizando su vida normal.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Manuel Jesús</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodríguez-López</TAG> Dirección: <TAG TYPE="CORREO_ELECTRONICO">maje1946@yahoo.es</TAG>
+  </TEXT>
+</MEDDOCAN>

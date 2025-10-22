@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Héctor</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Reyes</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marcos</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">23635538W</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">08/08/1999</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle Serrano 69</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Denia</TAG>, <TAG TYPE="TERRITORIO">Valladolid</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">47535</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">hector-reyes@uhu.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 983 54 84 61</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 783 90 42 74</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2910772</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">909834854638</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de la Construcción</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alfonso Gómez Muñoz</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">560606668</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardiólogo Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">08/11/2000</TAG>
+  Episodio: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">98887972</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Benalmádena</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6945LHV</TAG>
+  Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Chevrolet Silverado</TAG>
+  VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSRRJQ4HX6B923485</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>.
+  </TEXT>
+</MEDDOCAN>

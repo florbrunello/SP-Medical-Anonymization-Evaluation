@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Daniel Alejandro</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Campos Espinosa</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Teatinos 180</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Santiago</TAG>.
+    CP: <TAG TYPE="TERRITORIO">1650000</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1375648</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/12/1955</TAG>.
+    País: <TAG TYPE="PAIS">Chile</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">56</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">31/05/2012</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ignacio Manuel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Castillo</TAG>.
+    Historia Actual: Paciente masculino de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">56</TAG> años de edad con antecedentes de serologia positiva para <TAG TYPE="OTROS_SUJETO_ASISTENCIA">HIV</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hepatitis B</TAG> que presenta cuadro de <TAG TYPE="OTRO_NUMERO_IDENTIF">colecistitis aguda</TAG> por la cual se le realiza <TAG TYPE="PROFESION">colecistectomia laparoscopica de urgencia</TAG>.
+    Durante el post-operatorio tardío, al mes de la cirugía, el paciente presenta un <TAG TYPE="OTRO_NUMERO_IDENTIF">bilioma</TAG> el cual es evacuado en forma percutánea. A su vez también se realiza una derivación biliar mediante <TAG TYPE="PROFESION">colangiografia endoscopica</TAG>.
+    Producto de la anterior el paciente presenta una <TAG TYPE="OTRO_NUMERO_IDENTIF">pancreatitis aguda</TAG> asociándose a ésta una <TAG TYPE="OTRO_NUMERO_IDENTIF">colección peri-pancreática</TAG>. Dicha colección se evacua mediante un drenaje percutáneo inicial, el cual prueba ser insuficiente presentando el paciente una importante <TAG TYPE="OTRO_NUMERO_IDENTIF">colección retroperitoneal</TAG>. Sin presentar mejoría, y con un débito persistente por el drenaje asociado a <TAG TYPE="OTRO_NUMERO_IDENTIF">fiebre</TAG> y deterioro del estado general, se realiza <TAG TYPE="PROFESION">tomografía computada de abdomen y pelvis</TAG>. Ésta informa líquido encapsulado con nivel hidroaéreo en el flanco derecho adyacente a la pared abdominal extendiéndose 17 cm en el sentido cráneo-caudal y 11 x 3 cm en diámetro transverso.
+    Con diagnostico de <TAG TYPE="OTRO_NUMERO_IDENTIF">absceso parietocólico derecho extraperitoneal</TAG> se realizo drenaje mediante <TAG TYPE="PROFESION">lumboscopia</TAG>, evacuando abundante material necrotico y purulento.
+    Se colocaron dos drenajes de silicona pura enfrentados, confeccionando un sistema de lavado continuo, utilizando solución fisiológica a goteo lento.
+    El paciente evolucionó en forma favorable con escasos registros febriles. Presentó un cultivo positivo para <TAG TYPE="OTRO_NUMERO_IDENTIF">Pseudomona Aureaginosa</TAG>, la cual fue tratada con <TAG TYPE="PROFESION">Meropenem</TAG> durante la hospitalización. Al cuarto día postoperatorio se reemplazó el lavado continuo por un sistema de hemosuctor y fue dado de alta.
+    Durante los controles, el paciente continuó afebril retirándose el drenaje tras cesar el debito del mismo.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Ignacio Manuel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Castillo</TAG>. <TAG TYPE="CALLE">Santiago de Chile</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">ignaciocastillo@vtr.net</TAG>
+  </TEXT>
+</MEDDOCAN>

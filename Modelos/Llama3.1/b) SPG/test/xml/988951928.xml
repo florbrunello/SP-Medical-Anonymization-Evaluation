@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carlota</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Robles Rivera</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">11905245P</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/10/2012</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Piamonte 3</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Torrelodones</TAG>, <TAG TYPE="TERRITORIO">Sevilla</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">41727</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">carlota.robles@imibic.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 59 99 15</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 754 14 33 61</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0662313</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Albañil</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jonathan Salas Salas</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">412288762</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/05/2022</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">25795548</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alhaurín de la Torre</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>.
+  </TEXT>
+</MEDDOCAN>

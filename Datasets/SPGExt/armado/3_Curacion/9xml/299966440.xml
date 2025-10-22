@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Antonio Fuentes Aguilera</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">66735688S</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/12/2001</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Cabeza del Rey Don Pedro 64, 9S</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Vilanova i la Geltrú</TAG>, <TAG TYPE="TERRITORIO">Sevilla</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">41737</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">aguilera@yahoo.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 93 19 04</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 754 44 66 80</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3613379</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">101135111153</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Laboratorio</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rafael Merino Rico</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">697622836</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/12/2009</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">67624947</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Barajas</TAG>.
+    Informe clínico del paciente:
+    Paciente exfumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 años</TAG> de edad, acompañado de su hermana. La exploración física revela: Tª <TAG TYPE="FECHAS">36,5 C</TAG>; T.A: <TAG TYPE="FECHAS">110/70 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">80 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">14,2 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">10.500/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>); plaquetas <TAG TYPE="FECHAS">200.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">20 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">95%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">90 mg/dl</TAG>; urea <TAG TYPE="FECHAS">15 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">0,8 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,8 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">12 U/l</TAG>; GPT <TAG TYPE="FECHAS">20 U/l</TAG>; GGT <TAG TYPE="FECHAS">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">120 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Durante el ingreso se solicitan pruebas de imagen (Ecografía abdominal, TAC craneal) que no evidencian patología significativa. Con el diagnóstico de asma se instaura tratamiento sintomático (broncodilatadores, antiinflamatorios, reposo) y tratamiento preventivo con corticosteroides inhalados. El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio con seguimiento médico regular.
+    Antecedentes:
+    El paciente tiene antecedentes de asma desde los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años</TAG> de edad, con episodios recurrentes de asma grave en el pasado.
+    Evolución y comentarios:
+    El paciente ha sido tratado con broncodilatadores y corticosteroides inhalados con buena respuesta. Sin embargo, ha requerido ingreso hospitalario en varias ocasiones por episodios de asma grave.
+    Remitido por:
+    El paciente ha sido remitido por su médico de cabecera para valoración y tratamiento de su asma.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ángel</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pérez Soler</TAG>.
+    CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc-32182565</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">13 06423578 65</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Avenida las naciones 125, 3B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Huesca</TAG>.
+    CP: <TAG TYPE="TERRITORIO">22005</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">32182565</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">29/09/1954</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">61</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">13/12/2015</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Paloma</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Delgado Bavai</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">22 22 26452</TAG>.
+    Historia Actual y antecedentes: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">61</TAG> años, con antecedentes de <TAG TYPE="OTRO_NUMERO_IDENTIF">prostatectomía radical</TAG> con <TAG TYPE="OTRO_NUMERO_IDENTIF">linfadenectomía obturatriz</TAG> de estadiaje por <TAG TYPE="OTRO_NUMERO_IDENTIF">carcinoma de próstata</TAG> medianamente diferenciado (suma <TAG TYPE="OTRO_NUMERO_IDENTIF">Gleason 5</TAG>), con afectación microscópica limitada de los márgenes de resección. A los tres meses de la cirugía prostática consulta por un aumento de volumen testicular derecho, con marcadores de tumor testicular negativos, masa con áreas irregulares en ecografía y disminución de flujo vascular en estudio doppler. La evaluación preoperatoria había incluido un <TAG TYPE="PROFESION">TAC</TAG> abdominal sin hallazgos. El <TAG TYPE="PROFESION">TAC</TAG> post orquiectomía detecta <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">adenopatías retroperitoneales</TAG> desde área inguinal hasta bifurcación de renales.
+    Tras practicarle una <TAG TYPE="PROFESION">orquiectomía</TAG> inguinal fue diagnosticado de <TAG TYPE="OTRO_NUMERO_IDENTIF">linfoma testicular</TAG> difuso de <TAG TYPE="OTRO_NUMERO_IDENTIF">célula grande</TAG> tipo B.
+    Se le administró una primera pauta de <TAG TYPE="PROFESION">quimioterapia</TAG> citorreductiva según esquema <TAG TYPE="PROFESION">R-CHOPx8</TAG>, con remisión completa tras la inducción. Presentó una recidiva precoz tratada en segunda línea mediante esquema <TAG TYPE="PROFESION">IFOVM</TAG> / <TAG TYPE="PROFESION">DHAP</TAG>, con remisión inicial tras tres ciclos y posteriormente una nueva recidiva, falleciendo a los 14 meses del diagnóstico.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Paloma</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Delgado Bavai</TAG>. <TAG TYPE="CALLE">Calle Tarbes, 8 - 2º B</TAG> <TAG TYPE="TERRITORIO">22005</TAG> <TAG TYPE="TERRITORIO">Huesca</TAG>. (<TAG TYPE="PAIS">España</TAG>) <TAG TYPE="CORREO_ELECTRONICO">paldel77@yahoo.es</TAG>
+  </TEXT>
+</MEDDOCAN>

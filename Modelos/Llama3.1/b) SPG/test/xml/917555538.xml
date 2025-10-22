@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Hugo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Camacho Benito</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">77180559B</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">31/10/2000</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Ayala 50</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Cádiz</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">11784</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">hugo.camacho@imibic.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 53 61 96</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 656 51 33 84</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5318033</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">836658992799</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Residuos Sólidos</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Nieves Molina Mateos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">037367945</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/01/2016</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">10510478</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Benalmádena</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2867HHY</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Ford F-150</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSLJGEACJPL791856</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-nutrition.net</TAG>.
+  </TEXT>
+</MEDDOCAN>

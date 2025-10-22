@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Ana María Gil Giménez
+DNI: 18704936W
+Fecha de nacimiento: 13/03/1982
+Género: M
+Domicilio: Calle de la Princesa 13, 4S
+Ciudad: Navalcarnero, Barcelona, Cataluña
+Código postal: 08608
+Email: anamaria_gimenez@aol.com
+Teléfono fijo: +34 932 74 94 66
+Teléfono móvil: +34 638 76 57 54
+NHC: 5098535
+NASS: 709334190551
+Condición de riesgo: Operador de Maquinaria Pesada
+
+Datos asistenciales.
+Médico: Dra. Elisa Martín Escudero. NC 226475831. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/07/2023
+Episodio: 01895115
+Hospital: Hospital Universitario Rey Juan Carlos de Mostoles
+Matrícula del coche: 8090SAR
+Modelo: Honda CR-V
+VIN: VSQM6ICM9MS302307
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 41 años de edad, acompañado de su compañero de estudio. 

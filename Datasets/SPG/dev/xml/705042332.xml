@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Iván Marti García
+DNI: 42445385N
+Fecha de nacimiento: 15/10/1990
+Género: M
+Domicilio: Calle de las Infantas 9
+Ciudad: Tarragona, Jaén, Andalucía
+Código postal: 23858
+Email: ivangarcia@uhu.es
+Teléfono fijo: +34 953 22 73 00
+Teléfono móvil: +34 753 40 12 70
+NHC: 7347774
+Condición de riesgo: Plomero
+
+Datos asistenciales.
+Médico: Dr. Ignacio Hurtado Segura. NC 172377762. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 02/04/2024
+Episodio: 34211471
+Hospital: Hospital Universitario Virgen de la Victoria
+
+Informe clínico del paciente:
+Paciente no fumador de 33 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.35.108, con dirección MAC 91:C4:4B:FF:A6:80. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es CK661DEO337. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es PC588EDU784. Se registró una sesión de firma biométrica, el código obtenido para revisarla es UL362TVN865. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Iván" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="45" text="Marti García" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="42445385N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="15/10/1990" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="137" text="Calle de las Infantas 9" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="155" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="161" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="163" end="172" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="188" end="193" text="23858" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="201" end="218" text="ivangarcia@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="234" end="250" text="+34 953 22 73 00" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="267" end="283" text="+34 753 40 12 70" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="289" end="296" text="7347774" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="318" end="325" text="Plomero" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="360" end="382" text="Ignacio Hurtado Segura" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="387" end="396" text="172377762" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="398" end="438" text="Investigador Clínico en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="440" end="507" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="509" end="536" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="538" end="543" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="545" end="552" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="554" end="560" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="580" end="590" text="02/04/2024" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="601" end="609" text="34211471" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="620" end="664" text="Hospital Universitario Virgen de la Victoria" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="705" end="715" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="719" end="726" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="753" end="758" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="866" end="883" text="91:C4:4B:FF:A6:80" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <ID id="T31" start="967" end="978" text="CK661DEO337" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T32" start="1066" end="1077" text="PC588EDU784" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T33" start="1160" end="1171" text="UL362TVN865" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

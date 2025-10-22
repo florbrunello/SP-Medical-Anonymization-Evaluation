@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Rosario Gómez Molina</TAG>.
+  DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">37664039K</TAG>.
+  Fecha de nacimiento: <TAG TYPE="FECHAS">03/05/1960</TAG>.
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+  Domicilio:  <TAG TYPE="CALLE">Calle de las Letras 78</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">San Sebastián</TAG>, <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+  Código postal: <TAG TYPE="TERRITORIO">34745</TAG>.
+  Email: <TAG TYPE="CORREO_ELECTRONICO">mariarosario_gomez.molina1138@imibic.org</TAG>.
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 45 42 55</TAG>.
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 779 00 19 51</TAG>.
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3850769</TAG>.
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">473477488614</TAG>.
+  Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Cirujano</TAG>.
+  Datos asistenciales.
+  Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Albert</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Avila Palacios</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">508286995</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">19/05/1977</TAG>.
+  Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Cartagena</TAG>.
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3659UKI</TAG>.
+  Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Tesla Model 3</TAG>.
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSLUUJTOK4Y967293</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">19/05/1977</TAG>.
+  Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Complejo Hospitalario Universitario de Cartagena</TAG>
+  </TEXT>
+</MEDDOCAN>

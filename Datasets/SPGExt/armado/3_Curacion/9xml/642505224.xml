@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Manuel Jesús Escudero Rivero</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">16970780T</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/03/2020</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Fúcar 48</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Jaén</TAG>, <TAG TYPE="TERRITORIO">Vizcaya</TAG>, <TAG TYPE="PAIS">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">48592</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">escudero.rivero@ub.edu</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 946 56 32 36</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 946 46 47 68</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1960195</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">467823481492</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Técnico de Radiología</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Leo Sáez Robles</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 655312885</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/03/2021</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">13492216</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuengirola</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2777DIJ</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mercedes-Benz C-Class</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSNT0EOLAAG691753</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTRO_NUMERO_IDENTIF">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año de edad</TAG>, acompañado de su tía.
+    Antecedentes:
+    El paciente fue referido por su pediatra debido a una posible infección respiratoria. El paciente ha estado con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fiebre</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tos</TAG> durante los últimos tres días.
+    Evolución y comentarios:
+    Al llegar al hospital, el paciente presentaba una temperatura de <TAG TYPE="OTRO_NUMERO_IDENTIF">38,5°C</TAG> y una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tos seca</TAG>. La exploración física reveló una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">respiración superficial y rápida</TAG>. Se realizaron análisis de sangre para determinar la causa de la infección.
+    Remitido por:
+    Se remitió al paciente a la unidad de pediatría para seguimiento y tratamiento.
+  </TEXT>
+</MEDDOCAN>

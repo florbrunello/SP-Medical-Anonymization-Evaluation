@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gregorio Gracia Moya
+DNI: 94447021M
+Fecha de nacimiento: 08/02/1971
+Género: V
+Domicilio: Calle de Arganzuela 61
+Ciudad: Aranda de Duero, Ciudad Real, Castilla-La Mancha
+Código postal: 13888
+Email: gregorio-gracia.moya1148@salud.madrid.org
+Teléfono fijo: +34 926 14 02 52
+Teléfono móvil: +34 626 64 04 40
+NHC: 7483885
+NASS: 477875223915
+Condición de riesgo: Trabajador Agrícola
+
+Datos asistenciales.
+Médico: Dra. Catalina Esteban Calvo. NC 762482850. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/10/2009
+Episodio: 69072733
+Centro de salud: Centro de Salud Aluche
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 38 años de edad, acompañado de su hija. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.180.180, con dirección MAC 50:74:2A:3C:93:91. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Gregorio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="48" text="Gracia Moya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="94447021M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="08/02/1971" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="139" text="Calle de Arganzuela 61" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="163" text="Aranda de Duero" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="176" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="196" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="212" end="217" text="13888" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="225" end="266" text="gregorio-gracia.moya1148@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="282" end="298" text="+34 926 14 02 52" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="315" end="331" text="+34 626 64 04 40" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="337" end="344" text="7483885" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="351" end="363" text="477875223915" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="385" end="404" text="Trabajador Agrícola" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="684" end="694" text="07/10/2009" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="705" end="713" text="69072733" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="731" end="753" text="Centro de Salud Aluche" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="797" end="823" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="827" end="834" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="861" end="865" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="974" end="991" text="50:74:2A:3C:93:91" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

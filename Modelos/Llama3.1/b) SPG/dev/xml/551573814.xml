@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alicia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Palacios Rey</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">32445969F</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/06/2024</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Ayala 55</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Santander</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">18422</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">palacios-rey@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 09 61 12</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 658 41 24 67</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7142430</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Maquinaria Pesada</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Luis García Hurtado</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">245161456</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardiólogo Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">07/03/2025</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">76542738</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Moratalaz</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 meses</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">firma biométrica</TAG>, el <TAG TYPE="IDENTIF_BIOMETRICOS">código obtenido</TAG> para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">WO609FRZ037</TAG>.
+  </TEXT>
+</MEDDOCAN>

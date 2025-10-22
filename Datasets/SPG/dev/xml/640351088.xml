@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Adolfo Delgado Gil
+DNI: 61426169T
+Fecha de nacimiento: 23/07/2015
+Género: Masculino
+Domicilio: Calle del Fúcar 29
+Ciudad: Plasencia, Salamanca, Castilla y León
+Código postal: 37760
+Email: delgado@isciii.es
+Teléfono fijo: +34 923 58 39 28
+Teléfono móvil: +34 723 78 83 34
+NHC: 0127020
+NASS: 383322212349
+
+Datos asistenciales.
+Médico: Dr. Eric Villanueva Silva. NC 406969874. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/01/2023
+Episodio: 33338772
+Hospital: Hospital Universitario Reina Sofía de Córdoba
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 7 años de edad, acompañado de su abuela. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.102.131, con dirección MAC F9:5B:6B:95:2A:3F. El servidor para envío de información desde cual el usuario se comunica es smtp://example-hospital.org. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Adolfo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="46" text="Delgado Gil" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="61426169T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="23/07/2015" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="111" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="141" text="Calle del Fúcar 29" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="159" text="Plasencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="170" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="187" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="37760" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="233" text="delgado@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 923 58 39 28" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 723 78 83 34" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="304" end="311" text="0127020" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="318" end="330" text="383322212349" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="365" end="386" text="Eric Villanueva Silva" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="391" end="400" text="406969874" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="402" end="436" text="Residente de 4° año en Cardiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="438" end="524" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="526" end="555" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="557" end="562" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="564" end="570" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="572" end="578" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="598" end="608" text="21/01/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="619" end="627" text="33338772" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="638" end="683" text="Hospital Universitario Reina Sofía de Córdoba" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="724" end="745" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="749" end="755" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="782" end="788" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="897" end="914" text="F9:5B:6B:95:2A:3F" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <OTHER id="T31" start="991" end="1014" text="smtp://example-hospital" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mercedes</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rico Acosta</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">29899424E</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/01/1972</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Yeserías 76, 7K</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">San Pedro del Pinatar</TAG>, <TAG TYPE="TERRITORIO">Ibiza</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07110</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mercedes-acosta@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 12 79 55</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 671 26 75 65</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9936105</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">233773981514</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Limpiador</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Susana Bernal Palacios</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">125859519</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/07/1995</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">26464917</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Valdemoro</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">23 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

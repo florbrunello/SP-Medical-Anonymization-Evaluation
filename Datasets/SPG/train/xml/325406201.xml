@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Paloma Conde Heredia
+DNI: 83322106Y
+Fecha de nacimiento: 08/02/2017
+Género: Mujer
+Domicilio: Calle de Alcalá 65, 9M
+Ciudad: Castellón de la Plana, Salamanca, Castilla y León
+Código postal: 37745
+Email: paloma-conde-heredia1171@yahoo.com
+Teléfono fijo: +34 923 48 84 25
+Teléfono móvil: +34 723 93 98 51
+NHC: 2975416
+NASS: 864763116185
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dr. Moisés Costa Guillen. NC 023117161. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/04/2020
+Hospital: Hospital Universitario Severo Ochoa
+Matrícula del coche: 7199CBW
+Modelo: Chevrolet Silverado
+VIN: VSF9YVEDSVZ457658
+
+Informe clínico del paciente:
+Paciente de tez blanca de 3 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Paloma" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Conde Heredia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="83322106Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="08/02/2017" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="143" text="Calle de Alcalá 65, 9M" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="173" text="Castellón de la Plana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="175" end="184" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="186" end="201" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="217" end="222" text="37745" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="230" end="264" text="paloma-conde-heredia1171@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="280" end="296" text="+34 923 48 84 25" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="313" end="329" text="+34 723 93 98 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="335" end="342" text="2975416" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="349" end="361" text="864763116185" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="383" end="391" text="Granjero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="426" end="446" text="Moisés Costa Guillen" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="451" end="460" text="023117161" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="462" end="502" text="Residente de 3° año en Gastroenterología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="504" end="597" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="599" end="628" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="630" end="635" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="637" end="643" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="645" end="651" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="671" end="681" text="03/04/2020" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="692" end="727" text="Hospital Universitario Severo Ochoa" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="749" end="756" text="7199CBW" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="790" end="807" text="VSF9YVEDSVZ457658" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="851" end="861" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="865" end="871" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="898" end="903" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

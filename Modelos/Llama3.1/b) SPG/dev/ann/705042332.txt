@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Iván Marti García
+DNI: 42445385N
+Fecha de nacimiento: 15/10/1990
+Género: M
+Domicilio: Calle de las Infantas 9
+Ciudad: Tarragona, Jaén, Andalucía
+Código postal: 23858
+Email: ivangarcia@uhu.es
+Teléfono fijo: +34 953 22 73 00
+Teléfono móvil: +34 753 40 12 70
+NHC: 7347774
+Condición de riesgo: Plomero
+
+Datos asistenciales.
+Médico: Dr. Ignacio Hurtado Segura. NC 172377762. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 02/04/2024
+Episodio: 34211471
+Hospital: Hospital Universitario Virgen de la Victoria
+
+Informe clínico del paciente:
+Paciente no fumador de 33 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.35.108, con dirección MAC 91:C4:4B:FF:A6:80. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es CK661DEO337. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es PC588EDU784. Se registró una sesión de firma biométrica, el código obtenido para revisarla es UL362TVN865. 

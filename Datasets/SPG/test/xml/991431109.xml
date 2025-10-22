@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Ramón Segura Exposito
+DNI: 91227227G
+Fecha de nacimiento: 21/10/1956
+Género: V
+Domicilio: Calle de San Ildefonso 44, 3U
+Ciudad: Ibiza, La Rioja, La Rioja
+Código postal: 26255
+Email: joseramon_exposito@udc.es
+Teléfono fijo: +34 941 17 04 22
+Teléfono móvil: +34 641 49 46 85
+NHC: 7607301
+Condición de riesgo: Ama de casa
+
+Datos asistenciales.
+Médico: Dra. Alba Menendez Vidal. NC 674912935. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 22/07/1964
+Episodio: 96179842
+Centro de salud: Centro de Salud Málaga Sur
+
+Informe clínico del paciente:
+Paciente refugiado de 7 años de edad, acompañado de su abuela. Se realizó un expediente con URL http://example-dermatology.org//50515210P. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="José Ramón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="54" text="Segura Exposito" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="91227227G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="21/10/1956" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="111" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="152" text="Calle de San Ildefonso 44, 3U" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="161" end="166" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="176" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="186" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="26255" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="240" text="joseramon_exposito@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 941 17 04 22" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="289" end="305" text="+34 641 49 46 85" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="311" end="318" text="7607301" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="340" end="351" text="Ama de casa" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="600" end="610" text="22/07/1964" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="621" end="629" text="96179842" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="647" end="673" text="Centro de Salud Málaga Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="714" end="723" text="refugiado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="727" end="733" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="760" end="766" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="801" end="827" text="http://example-dermatology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

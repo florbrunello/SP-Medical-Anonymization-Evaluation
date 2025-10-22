@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Manuel Lorenzo Rivas
+DNI: 14268531K
+Fecha de nacimiento: 29/03/1972
+Género: Masculino
+Domicilio: Calle del Sombrerete 69, 3K
+Ciudad: Salamanca, Cáceres, Extremadura
+Código postal: 10433
+Email: rivas@gmail.com
+Teléfono fijo: +34 927 07 05 01
+Teléfono móvil: +34 727 91 21 07
+NHC: 1622100
+NASS: 279972636892
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. Enrique Álvarez Nieto. NC 384470542. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 27/05/1990
+Episodio: 90476906
+Hospital: Hospital Universitario Fundació Jiménez Díaz
+Matrícula del coche: 2782IWF
+Modelo: Hyundai Elantra
+VIN: VSSKN2Q4ZJE561387
+
+Informe clínico del paciente:
+Paciente no fumador de 18 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.92.22, con dirección MAC 3E:CD:2A:10:85:C5. Se registró una sesión de huella dactilar, el código obtenido para revisarla es XH503IOV825. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="José Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="53" text="Lorenzo Rivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="14268531K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="29/03/1972" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="118" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="130" end="157" text="Calle del Sombrerete 69, 3K" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="166" end="175" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="177" end="184" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="186" end="197" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="10433" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="241" text="rivas@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 927 07 05 01" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="290" end="306" text="+34 727 91 21 07" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="312" end="319" text="1622100" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="326" end="338" text="279972636892" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="360" end="385" text="Trabajador de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="420" end="441" text="Enrique Álvarez Nieto" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="446" end="455" text="384470542" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="457" end="495" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="497" end="564" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="566" end="593" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="595" end="600" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="602" end="609" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="611" end="617" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="637" end="647" text="27/05/1990" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="658" end="666" text="90476906" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="677" end="721" text="Hospital Universitario Fundació Jiménez Díaz" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="743" end="750" text="2782IWF" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="780" end="797" text="VSSKN2Q4ZJE561387" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="838" end="848" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="852" end="859" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="974" end="991" text="3E:CD:2A:10:85:C5" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <ID id="T33" start="1073" end="1084" text="XH503IOV825" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

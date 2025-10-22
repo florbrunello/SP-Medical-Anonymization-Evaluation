@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alex</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iglesias Fernandez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3456543</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle Villa de Marin, 6, 10, C</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28029</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/01/2000</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">15/03/2013</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rebeca</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Parada López</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 32501</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG>, sin antecedentes personales de interés, que acude a la consulta del centro de salud porque desde hace unos meses ha notado una lesión en la pierna izquierda que no ocasiona ninguna sintomatología y no ha variado de tamaño. Refiere un posible traumatismo sobre dicha zona dos años antes tras una caída con patines.
+    Presenta un buen estado general y se encuentra asintomático. Se palpa prominencia de aproximadamente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">1,5-2 cm</TAG> de consistencia ósea alrededor de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3-4 cm</TAG> por encima del <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">maléolo interno izquierdo</TAG>. No se objetiva inflamación local, hematoma ni dolor a la palpación. Tampoco existen alteraciones neurovasculares distales ni impotencia funcional.
+    Se solicita una radiografía simple de la pierna afecta, anteroposterior y lateral, donde se visualiza una lesión de carácter óseo. El informe radiológico da el diagnóstico: "La radiografía anteroposterior y lateral del tobillo muestra un relieve óseo bien delimitado, a expensas de la cortical, sin aparente afectación de partes blandas, en cara medial de tercio distal de la tibia izquierda compatible con <TAG TYPE="OTRO_NUMERO_IDENTIF">osteocodroma</TAG>".
+    Dado que se trata de una masa asintomática y se ha mantenido estable conservando su tamaño, se decide seguir la evolución en la consulta y ante posibles cambios realizar prueba de imagen y/o citarlo en consultas de traumatología para revisión.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rebeca</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Parada López</TAG> <TAG TYPE="CORREO_ELECTRONICO">rebecaparada@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

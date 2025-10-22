@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Francisco Manuel Lorenzo Salazar
+DNI: 30170068W
+Fecha de nacimiento: 19/11/2018
+Género: M
+Domicilio: Calle de la Reina 79, 4F
+Ciudad: Bormujos, Córdoba, Andalucía
+Código postal: 14112
+Email: franciscomanuel.lorenzosalazar@hotmail.com
+Teléfono fijo: +34 957 71 53 50
+Teléfono móvil: +34 657 63 99 41
+NHC: 3388850
+NASS: 858201709193
+Condición de riesgo: Pintor de Construcción
+
+Datos asistenciales.
+Médico: Dr. Adrián Velasco Jiménez. NC 015887777. Neurólogo Investigador en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 20/02/2025
+Episodio: 17901372
+Centro de salud: Centro de Salud Málaga Oeste
+Matrícula del coche: 3011KSS
+Modelo: Ford F-150
+VIN: VSMGE2J4IAH629221
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 6 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="44" text="Francisco Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="45" end="60" text="Lorenzo Salazar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="66" end="75" text="30170068W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="97" end="107" text="19/11/2018" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="116" end="117" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="129" end="153" text="Calle de la Reina 79, 4F" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="162" end="170" text="Bormujos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="179" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="181" end="190" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="14112" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="261" text="franciscomanuel.lorenzosalazar@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="277" end="293" text="+34 957 71 53 50" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="310" end="326" text="+34 657 63 99 41" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="332" end="339" text="3388850" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="346" end="358" text="858201709193" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="380" end="402" text="Pintor de Construcción" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="437" end="459" text="Adrián Velasco Jiménez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="464" end="473" text="015887777" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="475" end="522" text="Neurólogo Investigador en Trastornos Cognitivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="524" end="596" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="598" end="621" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="623" end="628" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="630" end="636" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="638" end="644" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="664" end="674" text="20/02/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="685" end="693" text="17901372" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="711" end="739" text="Centro de Salud Málaga Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="761" end="768" text="3011KSS" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="793" end="810" text="VSMGE2J4IAH629221" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="851" end="868" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="872" end="878" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="905" end="912" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Cristóbal Izquierdo Galvez
+DNI: 44411487M
+Fecha de nacimiento: 30/03/1926
+Género: V
+Domicilio: Calle de Don Ramón de la Cruz 22
+Ciudad: Puertollano, Teruel, Aragón
+Código postal: 44462
+Email: cristobal-galvez607@aol.com
+Teléfono fijo: +34 978 17 81 99
+Teléfono móvil: +34 678 52 86 95
+NHC: 8487742
+NASS: 054668140926
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dra. Rosa Herrera Casas. NC 555331042. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 31/05/1969
+Hospital: Complejo Hospitalario Universitario de Cartagena
+Matrícula del coche: 2044RUF
+Modelo: Honda CR-V
+VIN: VSMZHND3XND952861
+
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 43 años de edad, acompañado de su padre. Se registró una sesión de huella dactilar, el código obtenido para revisarla es IY601DNI192. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Cristóbal" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="54" text="Izquierdo Galvez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="44411487M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="30/03/1926" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="111" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="155" text="Calle de Don Ramón de la Cruz 22" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="164" end="175" text="Puertollano" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="177" end="183" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="185" end="191" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="44462" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="247" text="cristobal-galvez607@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="263" end="279" text="+34 978 17 81 99" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="296" end="312" text="+34 678 52 86 95" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="318" end="325" text="8487742" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="332" end="344" text="054668140926" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="366" end="391" text="Trabajador de Laboratorio" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="659" end="669" text="31/05/1969" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="680" end="728" text="Complejo Hospitalario Universitario de Cartagena" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="750" end="757" text="2044RUF" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="782" end="799" text="VSMZHND3XND952861" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="843" end="873" text="ascendencia africana del norte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="877" end="884" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="911" end="916" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T24" start="998" end="1009" text="IY601DNI192" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

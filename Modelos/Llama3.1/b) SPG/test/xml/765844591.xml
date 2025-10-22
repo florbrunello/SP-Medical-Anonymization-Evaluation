@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cristian</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Bernal Bravo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">76360563B</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">12/03/1933</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Rollo 100</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Dos Hermanas</TAG>, <TAG TYPE="TERRITORIO">Sevilla</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">41469</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">cristian.bravo@uca.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 70 29 96</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 954 22 22 69</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5794168</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">775108628355</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Dentista</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Diana Trujillo Ramos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">030635879</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">30/05/1954</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">07469300</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Sur</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">21 años</TAG> de edad. Se registró una sesión de <TAG TYPE="PROFESION">escaneo retiniano</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">OE658FSK196</TAG>.
+  </TEXT>
+</MEDDOCAN>

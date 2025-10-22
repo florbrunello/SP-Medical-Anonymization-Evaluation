@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Amparo Rodríguez Gómez
+DNI: 75819483Y
+Fecha de nacimiento: 26/06/1934
+Género: Mujer
+Domicilio: Calle de las Tres Cruces 83
+Ciudad: Ciudad Real, Orense, Galicia
+Código postal: 32086
+Email: LEwBSUM@aol.com
+Teléfono fijo: +34 988 33 21 72
+Teléfono móvil: +34 688 22 95 42
+NHC: 5108890
+NASS: 311410828087
+
+Datos asistenciales.
+Médico: Dra. Daniela Rubio Carrillo. NC 917833155. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 05/02/1946
+Centro de salud: Centro de Salud Alcalá de Henares
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 11 años de edad, acompañado de su hermano. Se realizó un expediente con URL http://example-healthcare.net//58277333N. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es OY318XUX303. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es EX741IZO590. 

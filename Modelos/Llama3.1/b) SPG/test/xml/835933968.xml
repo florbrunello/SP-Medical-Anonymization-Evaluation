@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sofía</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cortés Varela</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">59387570Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/04/2003</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de San Millán 21</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Lugo</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">27758</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">sofia_cortes_varela2022@us.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 982 45 13 23</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 982 70 65 40</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3352522</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cristina Medina Villanueva</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">301557185</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">06/04/2019</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">96709797</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Santiago</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5375BLS</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Tesla Model 3</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSTWZSII0SR051494</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="RELIGIÓN">judío</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">GD897ISJ176</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">escaneo retiniano</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">WJ032MQH115</TAG>.
+  </TEXT>
+</MEDDOCAN>

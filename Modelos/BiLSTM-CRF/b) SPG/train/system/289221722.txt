@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: María Paz Galan Vargas
+DNI: 34945412V
+Fecha de nacimiento: 02/07/1934
+Género: M
+Domicilio: Calle de la Cabeza del Rey Don Pedro 91
+Ciudad: Benidorm, Castellón, Comunidad Valenciana
+Código postal: 12748
+Email: mariapaz_galan_vargas@uca.es
+Teléfono fijo: +34 964 42 51 07
+Teléfono móvil: +34 764 88 59 20
+NHC: 2039293
+NASS: 568181697043
+
+Datos asistenciales.
+Médico: Dra. Miriam Campos Crespo. NC 123850296. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/07/1993
+Episodio: 57513897
+Centro de salud: Centro de Salud Carabanchel
+Matrícula del coche: 3066JLT
+Modelo: Tesla Model 3
+VIN: VSL00ON80EL749365
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena centroamericana de 59 años de edad, acompañado de su compañero. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.124.56, con dirección MAC 4E:1A:4F:D6:2E:B3. Se realizó un expediente con URL http://example-neurology.com//84321044D. 

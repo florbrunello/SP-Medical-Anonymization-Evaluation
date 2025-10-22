@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Agustín Vidal Zamora
+DNI: 69795567C
+Fecha de nacimiento: 15/09/1973
+Género: Masculino
+Domicilio: Calle de San Bernardo 61
+Ciudad: Getafe, León, Castilla y León
+Código postal: 24803
+Email: zamora@protonmail.com
+Teléfono fijo: +34 987 23 22 51
+FAX: +34 987 26 69 80
+NHC: 4985019
+
+Datos asistenciales.
+Médico: Dr. Mateo Macias Blazquez. NC 234184436. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/03/1996
+Episodio: 05020615
+Hospital: Hospital Universitario 12 de Octubre
+
+Informe clínico del paciente:
+Paciente vegano de 22 años de edad, acompañado de su hija. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Agustín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Vidal Zamora" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="69795567C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="15/09/1973" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="113" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="149" text="Calle de San Bernardo 61" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="164" text="Getafe" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="170" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="187" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="24803" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="237" text="zamora@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 987 23 22 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="275" end="291" text="+34 987 26 69 80" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="297" end="304" text="4985019" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="339" end="360" text="Mateo Macias Blazquez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="365" end="374" text="234184436" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="376" end="411" text="Neuropsicólogo Clínico Investigador" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="413" end="483" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="485" end="514" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="516" end="521" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="523" end="529" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="531" end="537" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="557" end="567" text="05/03/1996" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="578" end="586" text="05020615" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="597" end="633" text="Hospital Universitario 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="674" end="680" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="684" end="691" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="718" end="722" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="799" end="823" text="smtp://example-nutrition" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

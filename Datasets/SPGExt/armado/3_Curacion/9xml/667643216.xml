@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marina</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Miguel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Serrano</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">22051979Q</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/01/1962</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Barquillo 9</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Yecla</TAG>, <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">13757</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">marinaserrano@icloud.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 05 49 30</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 626 32 84 03</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7017409</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Científico de Investigación</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Clara</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ortiz Andres</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 306945233</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">22/05/2002</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Hospital Clínic Universitario de Valencia</TAG>.
+    Informe clínico del paciente:
+    La paciente, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG>, fue atendida en el Servicio de Urgencias por presentar síntomas de dolor torácico irradiado a la espalda, acompañado de una sensación de opresión en el pecho. La paciente es no fumadora y no tiene antecedentes médicos relevantes. La exploración física revela una tensión arterial de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">120/80 mmHg</TAG>, frecuencia cardíaca de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">70 lpm</TAG> y oxígeno arterial de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">95%</TAG> en el aire ambiente. La paciente se encuentra consciente y orientada, pero presenta una expresión facial de dolor.
+    Se solicitan pruebas de imagen para evaluar la causa del dolor torácico, incluyendo una ecocardiografía y una tomografía computarizada del tórax. Los resultados de las pruebas muestran una enfermedad coronaria en una de las arterias coronarias, lo que explica los síntomas de dolor torácico y opresión en el pecho.
+    Se instaura un tratamiento de revascularización coronaria mediante angioplastia y colocación de una stent en la arteria afectada. La paciente se encuentra estable y sin complicaciones en la unidad de cuidados intensivos. Se le prescribe un tratamiento antiagregante plaquetario y un seguimiento en el Servicio de Cardiología para evaluar la progresión de la enfermedad.
+    La paciente es una científica de investigación y tiene un alto riesgo de desarrollar enfermedades cardiovasculares debido a su estilo de vida sedentario y su exposición a factores de estrés. Es importante que la paciente modifique su estilo de vida para prevenir la progresión de la enfermedad y reducir el riesgo de complicaciones cardiovasculares.
+    Evolución y comentarios:
+    La paciente se encuentra estable y sin complicaciones en la unidad de cuidados intensivos. Se le prescribe un tratamiento antiagregante plaquetario y un seguimiento en el Servicio de Cardiología para evaluar la progresión de la enfermedad.
+    Remitido por:
+    El paciente fue remitido por el Servicio de Urgencias del Hospital Clínic Universitario de Valencia.
+  </TEXT>
+</MEDDOCAN>

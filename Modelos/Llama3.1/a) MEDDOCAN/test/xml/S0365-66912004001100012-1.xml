@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gabriel</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Fernandez Alonso</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7356284</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Raymundo Fdz Villaverde, 4, 1 D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Ferrol</TAG>.
+    CP: <TAG TYPE="TERRITORIO">15405</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/09/2008</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">03/11/2017</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Enrique</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Freiré Vila</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">15 15 23910</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG>, sin antecedentes de interés, que refiere miodesopsias de dos días de evolución en OI.
+    En la exploración oftalmológica, en urgencias, destaca: agudeza visual (AV) en ojo izquierdo (OI) 1.
+    La biomicroscopía uveítis anterior leve y una imagen funduscópica de un foco de coriorretinitis activa a un diámetro de la papila.
+    Dadas las características del foco y la localización del mismo se le diagnostica de coriorretinitis toxoplásmica y se le pauta tratamiento con sulfadiacina, pirimetamina y ácido folínico vía oral a dosis ajustadas por kg de peso.
+    Tras 9 días de tratamiento acude de nuevo a urgencias con fiebre de 39º C, exantema papulo-eritematoso en tórax, espalda y cara, vesículas en mucosa oral, neumonitis y balanitis.
+    A nivel oftalmológico presenta hiposfagma bilateral superior, conjuntivitis membranosa con componente exudativo y queratopatía superficial en ambos ojos.
+    Se solicita hemocultivo, perfil hepato-renal, frotis de mucosa oral para virus, serología herpes y micoplasma.
+    Todos los resultados fueron negativos y la serología para toxoplasma fue de IgG>500, IgM negativa.
+    Ante la sospecha se SSJ secundario a la sulfadiacina, se retira inmediatamente toda la medicación para la toxoplasmosis ocular y se realizan revisiones periódicas de su fondo de ojo, el cual evolucionó hacia la cicatrización espontánea sin complicaciones.
+    Desde el día del ingreso precisó cuidados exhaustivos de piel y mucosa oral, nutrición parenteral y analgesia con cloruro mórfico intravenoso (i.v).
+    Posteriormente se añadió metilprednisolona 1 mg/kg/día i.v descendiendo la pauta hasta el alta.
+    A nivel oftalmológico se le pautaron lágrimas artificiales sin conservantes tipo hialuronato sódico cada _ hora, pomada lubricante nocturna, colirio de rifamicina y dexametasona cada 4 horas para disminuir los cambios mucosinequiantes.
+    Se realiza simblefaron-lisis cada 12 horas de membranas inicialmente muy exudativas, abundantes y fácilmente extraíbles y posteriormente más adheridas, fibrosas requiriendo escarificación para retirarlas.
+    Después de 3 semanas de tratamiento se observa un hiposfagma residual, engrosamiento del pliegue semilunar del canto interno, queratinización con engrosamiento del borde libre y leve acortamiento del fórnix inferior.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Enrique Freiré Vila</TAG> <TAG TYPE="CALLE">Secretaría del Servicio de Anestesiología, Reanimación y Tratamiento del Dolor</TAG> <TAG TYPE="INSTITUCION">Hospital Arquitecto Marcide / Prof. Novoa Santos</TAG> <TAG TYPE="CALLE">Área Sanitaria de Ferrol</TAG> <TAG TYPE="CALLE">C/ Estrada San Pedro de Leixa-Catabois, s/n</TAG> <TAG TYPE="TERRITORIO">15405 Ferrol</TAG> <TAG TYPE="TERRITORIO">(Coruña, La)</TAG>, <TAG TYPE="PAIS">Spain</TAG> Tel.: <TAG TYPE="NUMERO_TELEFONO">981.33.40.00</TAG> (Ext): <TAG TYPE="NUMERO_TELEFONO">138-137</TAG> Fax: <TAG TYPE="NUMERO_FAX">981.33.40.15</TAG> <TAG TYPE="CORREO_ELECTRONICO">enriquefreire2000@yahoo.es</TAG>
+  </TEXT>
+</MEDDOCAN>

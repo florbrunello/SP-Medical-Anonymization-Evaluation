@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Martina Valero Otero</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">43713674N</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/12/1981</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Nuncio 18</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Estepa</TAG>, <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">34625</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">martinavalero@us.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 56 86 33</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 779 75 54 11</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7055862</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">690502960027</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador Agrícola</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alberto Diez Costa</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 671640038</TAG>. <TAG TYPE="PROFESION">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/12/2003</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">34307941</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Cartagena</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/12/2003</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Complejo Hospitalario Universitario de Cartagena</TAG>.
+    Informe clínico del paciente:
+    Paciente no fumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22 años</TAG> de edad, acompañado de su hija. Presenta una historia de antecedentes familiares de enfermedad de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Huntington</TAG>, por lo que se le ha solicitado una evaluación genética. La exploración física revela una persona con buen estado de nutrición y hidratación, sin signos de enfermedad activa. La evaluación neurológica es normal, sin signos de deterioro cognitivo o motor.
+    La evaluación genética ha mostrado una mutación en el gen HTT, asociada con la enfermedad de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Huntington</TAG>. Sin embargo, el paciente no presenta signos de enfermedad activa y su edad es relativamente joven, por lo que se le ha recomendado una vigilancia regular para detectar cualquier síntoma temprano.
+    Se le ha ofrecido la opción de participar en un estudio de investigación para evaluar la efectividad de un tratamiento experimental para la enfermedad de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Huntington</TAG>. El paciente ha aceptado participar en el estudio y se le ha explicado los riesgos y beneficios asociados con la participación.
+    En resumen, el paciente es un joven de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22 años</TAG> con una historia de antecedentes familiares de enfermedad de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Huntington</TAG>, que ha sido diagnosticado con una mutación en el gen HTT. Se le ha recomendado una vigilancia regular y se le ha ofrecido la opción de participar en un estudio de investigación para evaluar un tratamiento experimental para la enfermedad.
+  </TEXT>
+</MEDDOCAN>

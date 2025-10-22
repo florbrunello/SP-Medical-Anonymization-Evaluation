@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ainhoa Mora Conde</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">76595321P</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">01/07/1987</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Doctor Esquerdo 93, 5Z</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Onda, Alicante, Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">03775</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ainhoa@protonmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 965 21 35 48</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 665 53 20 43</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4482468</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">912085073820</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente pediátrico</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ángel Romero Calvo</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 502996941</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="DIREC_PROT_INTERNET">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/03/1994</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">14489728</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic San Carlos</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia del medio oriente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años de edad</TAG>, acompañado de su madre, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alergia a los frutos secos</TAG> y una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">episodios recurrentes de asma bronquial</TAG>. La madre informa que el paciente ha estado experimentando <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas de dolor abdominal</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG> durante las últimas 48 horas.
+    La exploración física revela: <TAG TYPE="FECHAS">temperatura 37,5°C</TAG>; <TAG TYPE="FECHAS">presión arterial 90/60 mmHg</TAG>; <TAG TYPE="FECHAS">frecuencia cardíaca 120 lpm</TAG>. El paciente se encuentra <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consciente</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">orientado</TAG> y con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">buen estado de nutrición e hidratación</TAG>. En la exploración abdominal, se aprecia un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">aumento de la sensibilidad</TAG> en la región epigástrica, con ausencia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">masas o megalias</TAG>.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hemograma normal</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bioquímica</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">glucosa 90 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urea 20 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina 0,8 mg/dl</TAG>. Se solicitan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">análisis adicionales</TAG>, incluyendo una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">exploración de la función hepática y renal</TAG>.
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gastroenteritis viral</TAG>, se instaura <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tratamiento sintomático</TAG>, incluyendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hidratación</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">medicación antiemética</TAG>. El paciente se encuentra en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">observación en la unidad de cuidados pediátricos</TAG>.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alergia a los frutos secos</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">asma bronquial</TAG>. La madre informa que el paciente ha estado experimentando <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas de dolor abdominal</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG> durante las últimas 48 horas.
+    Evolución y comentarios:
+    El paciente se encuentra en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">observación en la unidad de cuidados pediátricos</TAG>. Se seguirá <TAG TYPE="OTROS_SUJETO_ASISTENCIA">monitoreando su evolución</TAG> y se realizarán <TAG TYPE="OTROS_SUJETO_ASISTENCIA">análisis adicionales</TAG> para confirmar el diagnóstico y determinar la mejor estrategia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tratamiento</TAG>.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ángel Romero Calvo</TAG>, <TAG TYPE="PROFESION">Residente de 4° año en Medicina Interna</TAG>, <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>.
+  </TEXT>
+</MEDDOCAN>

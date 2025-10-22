@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA" start="0" end="9">Verónica</TAG>
+    <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA" start="12" end="31">Garzón Ramos</TAG>
+    <TAG TYPE="ID_SUJETO_ASISTENCIA" start="34" end="41">567537</TAG>
+    <TAG TYPE="ID_ASEGURAMIENTO" start="44" end="71">35 47654787 08</TAG>
+    <TAG TYPE="CALLE" start="74" end="88">Calle Pacífico, 44 1B</TAG>
+    <TAG TYPE="TERRITORIO" start="90" end="96">Málaga</TAG>
+    <TAG TYPE="TERRITORIO" start="98" end="102">29004</TAG>
+    <TAG TYPE="FECHAS" start="104" end="113">10/01/1957</TAG>
+    <TAG TYPE="PAIS" start="115" end="120">España</TAG>
+    <TAG TYPE="EDAD_SUJETO_ASISTENCIA" start="122" end="129">59 años</TAG>
+    <TAG TYPE="SEXO_SUJETO_ASISTENCIA" start="131" end="132">M</TAG>
+    <TAG TYPE="FECHAS" start="134" end="143">15/06/2016</TAG>
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO" start="145" end="155">Inmaculada</TAG>
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO" start="157" end="174">Santos Amaya</TAG>
+    <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO" start="176" end="206">29 29 46698</TAG>
+    <TAG TYPE="TEXTO" start="208" end="257">Mujer de 59 años sin antecedentes de interés que ingresó por dolor en epigastrio-hipocondrio derecho irradiado a la escápula junto con ictericia e intolerancia alimenticia de 5 días de evolución.</TAG>
+    <TAG TYPE="TEXTO" start="259" end="292">A la exploración estaba con una frecuencia cardiaca de 80 lpm, afebril (36,3º), con ictericia de piel y mucosas y a la palpación el abdomen era blando, depresible y no doloroso.</TAG>
+    <TAG TYPE="TEXTO" start="294" end="321">La analítica de urgencias mostró una bilirrubina total de 11,63 a expensas sobre todo de la directa (7,12), amilasa de 135, GPT 221, LDH 557, leucocitosis de 14.400 y eosinofilia de 5.480 (valor normal: 0-0,8).</TAG>
+    <TAG TYPE="TEXTO" start="323" end="347">Se realizó la ecografía abdominal que evidenció en el lóbulo hepático derecho una lesión quística bien delimitada de 6,9 x 6 cm compatible con quiste hidatídico, junto a múltiples litiasis biliares.</TAG>
+    <TAG TYPE="TEXTO" start="349" end="354">Vesícula, cuerpo de páncreas, riñones, bazo y vejiga normales.</TAG>
+    <TAG TYPE="TEXTO" start="356" end="360">No líquido libre peritoneal.</TAG>
+    <TAG TYPE="TEXTO" start="362" end="368">Ante los hallazgos la paciente comenzó en tratamiento con albendazol.</TAG>
+    <TAG TYPE="TEXTO" start="370" end="382">Tras un día de ingreso la paciente presentó un episodio de shock anafiláctico con disnea y desaturación (pO2 50 mmHg, SatO2 86,9), fiebre (38º), sibilancias bilaterales, lesiones cutaneas eritematosas y eosinofilia.</TAG>
+    <TAG TYPE="TEXTO" start="384" end="397">La TC abdominal de urgencias no evidenció datos nuevos respecto a la ecografía y tras administrarle 80 mg i.v. de urbasón y 1 ampolla i.v. de Polaramine®, fue intervenida de urgencias por anafilaxia con los siguientes hallazgos:</TAG>
+    <TAG TYPE="TEXTO" start="399" end="416">quiste hidatídico parcialmente calcificado en segmento V-VII y VIII, íntimamente adherido a diafragma.</TAG>
+    <TAG TYPE="TEXTO" start="418" end="426">La ecografía intraoperatoria mostró un quiste en contacto con vena cava inferior y vena suprahepática derecha.</TAG>
+    <TAG TYPE="TEXTO" start="428" end="437">Se le realizó punción, aspiración y esterilización con salino hipertónico además de colecistectomía y coledocotomía.</TAG>
+    <TAG TYPE="TEXTO" start="439" end="453">Tras mejoría clínica y analítica a los 15 días la paciente fue dada de alta en tratamiento con albendazol.</TAG>
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO" start="455" end="465">Inmaculada</TAG>
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO" start="467" end="484">Santos Amaya</TAG>
+    <TAG TYPE="CALLE" start="486" end="504">Departamento de Anatomía y Medicina Legal.</TAG>
+    <TAG TYPE="CALLE" start="506" end="516">Facultad de Medicina.</TAG>
+    <TAG TYPE="CALLE" start="518" end="533">Universidad de Málaga</TAG>
+    <TAG TYPE="CALLE" start="535" end="548">Boulevard Louis Pasteur, 32.</TAG>
+    <TAG TYPE="TERRITORIO" start="550" end="556">29071</TAG>
+    <TAG TYPE="TERRITORIO" start="558" end="562">Málaga</TAG>
+    <TAG TYPE="CORREO_ELECTRONICO" start="564" end="574">isantos@uma.es</TAG>
+  </TEXT>
+</MEDDOCAN>

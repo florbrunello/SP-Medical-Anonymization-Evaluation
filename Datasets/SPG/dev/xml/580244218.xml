@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Blanca Reyes Robles
+DNI: 20719097F
+Fecha de nacimiento: 23/12/1963
+Género: Femenino
+Domicilio: Calle de Ibiza 72
+Ciudad: Onda, La Coruña, Galicia
+Código postal: 15288
+Email: reyes-robles@salud.madrid.org
+Teléfono fijo: +34 981 59 68 88
+Teléfono móvil: +34 781 39 84 33
+NHC: 3912144
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dra. Inés Soto Benito. NC 426355949. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/10/1987
+Episodio: 83696914
+Centro de salud: Centro de Salud Benalmádena
+
+Informe clínico del paciente:
+Paciente vegano de 23 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.130.8, con dirección MAC 86:88:59:20:0F:6B. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Blanca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Reyes Robles" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="20719097F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="23/12/1963" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="111" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="140" text="Calle de Ibiza 72" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="153" text="Onda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="164" text="La Coruña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="173" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="189" end="194" text="15288" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="202" end="231" text="reyes-robles@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 981 59 68 88" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 781 39 84 33" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="3912144" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="331" end="341" text="Paramédico" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="608" end="618" text="09/10/1987" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="629" end="637" text="83696914" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="655" end="682" text="Centro de Salud Benalmádena" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="723" end="729" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="733" end="740" text="23 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="855" end="872" text="86:88:59:20:0F:6B" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

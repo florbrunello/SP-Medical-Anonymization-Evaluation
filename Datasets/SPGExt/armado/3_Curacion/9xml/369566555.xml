@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Julia Gómez Heredia</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">99073561A</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">16/07/2008</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Alameda 33</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Socuéllamos</TAG>, <TAG TYPE="TERRITORIO">Guipúzcoa</TAG>, <TAG TYPE="PAIS">Pais Vasco</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">20810</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">julia-gomez@aol.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 943 69 33 40</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 643 01 87 72</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4727670</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Cirujano</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mohammed</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Abad Heredia</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">688587530</TAG>. <TAG TYPE="PROFESION">Residente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3° año</TAG> en <TAG TYPE="PROFESION">Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">80931588</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alcorcón</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3041ATS</TAG>.
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Audi A4</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSI6J79HOYA106406</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alcorcón</TAG>.
+    Informe clínico del paciente:
+    Paciente no fumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">16 años</TAG> de edad, acompañado de su compañero. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">CD789FCW130</TAG>.
+  </TEXT>
+</MEDDOCAN>

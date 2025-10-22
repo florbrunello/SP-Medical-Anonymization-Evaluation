@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Manuel Vila Mesa</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">43146852W</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">16/03/1986</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Paseo de la Castellana 96</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="TERRITORIO">Las Palmas</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">35071</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">manuel@aol.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 928 24 66 68</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 928 27 40 90</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8568434</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">602629766430</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. José Ángel Santos Casas</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">555658920</TAG>. <TAG TYPE="PROFESION">Neurólogo Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">21/03/2022</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">21495814</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Norte</TAG>
+    Informe clínico del paciente:
+    El paciente, un hombre de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">36 años</TAG>, se presenta con una historia de consumo excesivo de alcohol. La exploración física revela signos de malnutrición y deshidratación. La evaluación neurológica muestra alteraciones en la coordinación y equilibrio, así como una leve disminución de la conciencia. Se solicitan análisis de sangre para determinar los niveles de alcohol y otros posibles trastornos. El paciente es ingresado en la unidad de cuidados intensivos para recibir tratamiento y monitorización continua.
+    Antecedentes:
+    El paciente tiene una historia de consumo excesivo de alcohol durante los últimos 5 años, lo que ha llevado a problemas de salud relacionados con el alcoholismo. Ha tenido episodios de desmayos y ha presentado signos de malnutrición y deshidratación.
+    Evolución y comentarios:
+    El paciente ha sido ingresado en la unidad de cuidados intensivos para recibir tratamiento y monitorización continua. Se le ha administrado fluidos intravenosos para rehidratarlo y se han iniciado tratamientos para abordar los problemas de salud relacionados con el alcoholismo. El paciente está siendo monitoreado de cerca para determinar su progreso y ajustar el tratamiento según sea necesario.
+    Remitido por:
+    El paciente fue remitido por su médico de cabecera debido a su estado de salud crítico. Se le ha solicitado a la familia que se mantenga en contacto con el equipo de salud para recibir actualizaciones sobre el progreso del paciente.
+  </TEXT>
+</MEDDOCAN>

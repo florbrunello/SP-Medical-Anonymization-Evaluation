@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Agustín Delgado Montoya
+DNI: 20012421Y
+Fecha de nacimiento: 29/10/1932
+Género: Masculino
+Domicilio: Calle de los Jardines 17
+Ciudad: MelillaHuesca, Palencia, Castilla y León
+Código postal: 34542
+Email: agustin-delgado_montoya@h12o.es
+Teléfono fijo: +34 979 90 33 95
+Teléfono móvil: +34 779 93 23 51
+NHC: 2882885
+NASS: 124565572873
+Condición de riesgo: Técnico de Laboratorio
+
+Datos asistenciales.
+Médico: Dra. Purificación Parra Navarro. NC 296724121. Neuropsicóloga Clínica Investigadora. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/12/1933
+Episodio: 55361933
+Centro de salud: Centro de Salud Alcorcón
+Matrícula del coche: 8785OLQ
+Modelo: Chevrolet Silverado
+VIN: VSG76HSUR3N003772
+
+Informe clínico del paciente:
+Paciente vegano de un año de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Agustín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="51" text="Delgado Montoya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="20012421Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="29/10/1932" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="116" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="152" text="Calle de los Jardines 17" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="161" end="174" text="MelillaHuesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="176" end="184" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="186" end="201" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="217" end="222" text="34542" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="230" end="261" text="agustin-delgado_montoya@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="277" end="293" text="+34 979 90 33 95" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="310" end="326" text="+34 779 93 23 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="332" end="339" text="2882885" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="346" end="358" text="124565572873" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="380" end="402" text="Técnico de Laboratorio" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="662" end="672" text="17/12/1933" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="683" end="691" text="55361933" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="709" end="733" text="Centro de Salud Alcorcón" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="755" end="762" text="8785OLQ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="796" end="813" text="VSG76HSUR3N003772" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="854" end="860" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="864" end="870" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="897" end="903" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

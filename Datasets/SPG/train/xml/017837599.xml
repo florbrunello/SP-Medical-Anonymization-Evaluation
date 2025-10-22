@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Matilde Rey Álvarez
+DNI: 61612036G
+Fecha de nacimiento: 20/01/1948
+Género: M
+Domicilio: Calle de Santa Isabel 60, 1P
+Ciudad: Cádiz, La Rioja, La Rioja
+Código postal: 26060
+Email: rJTETSFjJaz@gmail.com
+Teléfono fijo: +34 941 29 29 71
+FAX: +34 941 20 27 72
+NHC: 0244389
+
+Datos asistenciales.
+Médico: Dr. Rafael Roca Heredia. NC 846608819. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 09/11/1963
+Episodio: 95358618
+Hospital: Hospital Universitario Virgen Macarena
+Matrícula del coche: 8101EHO
+Modelo: Ford Mustang
+VIN: VSTWKY3A3VO790828
+
+Informe clínico del paciente:
+Paciente vegetariano de 15 años de edad, acompañado de su madre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-therapy.org. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Matilde" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="47" text="Rey Álvarez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="61612036G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="20/01/1948" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="144" text="Calle de Santa Isabel 60, 1P" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="158" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="168" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="178" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="194" end="199" text="26060" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="207" end="228" text="rJTETSFjJaz@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="244" end="260" text="+34 941 29 29 71" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="266" end="282" text="+34 941 20 27 72" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="288" end="295" text="0244389" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="330" end="349" text="Rafael Roca Heredia" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="354" end="363" text="846608819" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="365" end="400" text="Residente de 3° año en Oftalmología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="402" end="460" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="462" end="486" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="488" end="493" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="495" end="505" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="507" end="513" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="533" end="543" text="09/11/1963" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="554" end="562" text="95358618" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="573" end="611" text="Hospital Universitario Virgen Macarena" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="633" end="640" text="8101EHO" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="667" end="684" text="VSTWKY3A3VO790828" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="725" end="736" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="740" end="747" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="774" end="779" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="856" end="878" text="smtp://example-therapy" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

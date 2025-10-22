@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alvaro</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Guillen Gomez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7803410</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">70 33744569 30</TAG>.
+    Domicilio: <TAG TYPE="CALLE">P/ de Llanos, 23</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Murcia</TAG>.
+    CP: <TAG TYPE="TERRITORIO">30512</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/11/1982</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">34 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">04/07/2016</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mariano</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Valdés Mas</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">30 30 25896</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">34 años</TAG> que consultó por dolor con parestesias en el borde cubital de la mano y dedos cuarto y quinto derechos de dos semanas de evolución, después de un campeonato de tenis.
+    Presentaba edema difuso en cara volar de la zona cubital de la muñeca y mano, con Tinnel positivo sobre el pisiforme.
+    La radiología y la ecografía fueron normales. Tras infiltrarle un corticoide con anestésico local, fue inmovilizado con muñequera en posición neutra. El estudio neurofisiológico mostró una neuropatía compresiva del nervio cubital en el canal de Guyon. El paciente recibió tratamiento sintomático con crioterapia, ortesis, analgésicos complejo vitamínico B y fisioterapia.
+    En la Tomografía Axial Computerizada (TAC) de muñeca, solicitada por persistencia de dolor a los nueve meses, mostró una pseudoartrosis de la apófisis unciforme del ganchoso, con fragmento de gran tamaño. Fue intervenido mediante abordaje palmar, disección de paquete neurovascular cubital, cruentado del lecho de pseudoartrosis y osteosíntesis con dos tornillos de titanio de 1.5mm de diámetro Compact Hand (Synhes®).
+    Mantuvo una férula antebraquial, incluyendo los dedos, durante tres semanas, al cabo de las cuales comenzó la fisioterapia.
+    A los cuatro meses de la cirugía, el paciente estaba libre de síntomas, salvo hipoestesia del cuarto dedo, con movilidad completa, fuerza recuperada y reincorporación a su actividad laboral (de fuerza) y deportiva.
+    La TAC a los dos meses, y la radiografía a los tres, mostraron una fusión parcial. Una nueva TAC a los cuatro meses demostró la unión completa.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Mariano</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Valdés Mas</TAG>. <TAG TYPE="INSTITUCION">Unidad de Hepatología</TAG>. <TAG TYPE="HOSPITAL">Hospital Universitario Virgen de la Arrixaca</TAG>. <TAG TYPE="CALLE">Ctra. Madrid-Cartagena, s/n</TAG>. <TAG TYPE="TERRITORIO">30120 El Palmar</TAG>, <TAG TYPE="TERRITORIO">Murcia</TAG>. <TAG TYPE="CORREO_ELECTRONICO">marianovaldesmas@yahoo.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

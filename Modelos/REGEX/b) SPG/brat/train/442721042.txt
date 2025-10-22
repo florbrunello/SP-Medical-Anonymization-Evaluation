@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Julián Vega Ruiz
+DNI: 18551445J
+Fecha de nacimiento: 26/03/1959
+Género: M
+Domicilio: Calle de los Jardines 9, 4U
+Ciudad: San Vicente del Raspeig, Madrid, Madrid
+Código postal: 28025
+Email: julianruiz1796@isciii.es
+Teléfono fijo: +34 912 64 05 85
+Teléfono móvil: +34 615 96 47 37
+NHC: 0547559
+NASS: 470158077604
+
+Datos asistenciales.
+Médico: Dr. Jordi Arias Hurtado. NC 774042125. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/03/1969
+Episodio: 36286060
+Centro de salud: Centro de Salud Aranjuez
+Matrícula del coche: 7024UKW
+Modelo: Ford F-150
+VIN: VSI5XKC39NK399544
+
+Informe clínico del paciente:
+Paciente exfumador de 10 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-clinica.com//69785856J. 

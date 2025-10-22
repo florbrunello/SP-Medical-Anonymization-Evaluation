@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Encarnación Rico Tomas
+DNI: 85831973K
+Fecha de nacimiento: 01/06/1945
+Género: F
+Domicilio: Calle de Almagro 98
+Ciudad: Xirivella, Santa Cruz de Tenerife, Canarias
+Código postal: 38093
+Email: encarnacion143@isciii.es
+Teléfono fijo: +34 922 43 52 79
+Teléfono móvil: +34 622 52 71 43
+NHC: 0780023
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dra. Mireia Santana Vega. NC 897905393. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 24/04/1984
+Episodio: 42249707
+Centro de salud: Centro de Salud Málaga Norte
+
+Informe clínico del paciente:
+Paciente musulman de 38 años de edad, acompañado de su abuela. El servidor para envío de información desde cual el usuario se comunica es smtp://example-medical.edu. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es WX981HNG013. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="Encarnación" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="50" text="Rico Tomas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="85831973K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="01/06/1945" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="138" text="Calle de Almagro 98" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="156" text="Xirivella" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="180" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="182" end="190" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="38093" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="243" text="encarnacion143@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 922 43 52 79" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="292" end="308" text="+34 622 52 71 43" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="314" end="321" text="0780023" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="343" end="351" text="Granjero" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="612" end="622" text="24/04/1984" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="633" end="641" text="42249707" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="659" end="687" text="Centro de Salud Málaga Norte" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="728" end="736" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="740" end="747" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="774" end="780" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="857" end="879" text="smtp://example-medical" TYPE="URL_WEB" comment=""/>
+        <ID id="T23" start="966" end="977" text="WX981HNG013" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

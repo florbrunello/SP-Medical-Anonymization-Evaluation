@@ -1,0 +1,41 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 34	Carmen Herrero Giménez
+T2	ID_SUJETO_ASISTENCIA 40 52	35217769P
+T3	FECHAS 64 70	02/04/1995
+T4	SEXO_SUJETO_ASISTENCIA 84 85	F
+T5	CALLE 108 121	Calle de Génova 17
+T6	TERRITORIO 133 141	Onda
+T7	TERRITORIO 143 151	Santa Cruz de Tenerife
+T8	TERRITORIO 161 169	Canarias
+T9	TERRITORIO 173 181	38531
+T10	CORREO_ELECTRONICO 195 217	carmen-herrerogimenez@isciii.es
+T11	NUMERO_TELEFONO 220 232	+34 922 16 91 07
+T12	NUMERO_TELEFONO 244 256	+34 722 30 03 94
+T13	ID_SUJETO_ASISTENCIA 270 278	4885945
+T14	ID_SUJETO_ASISTENCIA 290 298	416217339812
+T15	OTRO_NUMERO_IDENTIF 312 324	Repartidor
+T16	NOMBRE_PERSONAL_SANITARIO 338 362	Dra. Sandra Durán Cruz
+T17	ID_TITULACION_PERSONAL_SANITARIO 385 396	935795080
+T18	PROFESION 410 418	Cardióloga
+T19	NOMBRE_INSTITUCIONAL 430 446	Unidad de Cuidados Intensivos
+T20	NOMBRE_INSTITUCIONAL 458 474	Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)
+T21	CALLE 498 512	Avenida de Córdoba, s/n
+T22	TERRITORIO 524 532	28041
+T23	PAIS 544 550	España
+T24	FECHAS 564 574	27/09/2007
+T25	ID_CONTACTO_ASISTENCIAL 598 606	41726908
+T26	NOMBRE_INSTITUCIONAL 620 636	Centro de Salud Barajas
+T27	NUMERO_VEHICULO 660 674	2295HKW
+T28	MARCA_VEHICULO 686 696	Chrysler Pacifica
+T29	NUMERO_VEHICULO 710 724	VSXS4NUVUXH483591
+T30	INFORME_CLINICO 746 774	Paciente usuario de drogas de 12 años de edad, acompañado de su hermana, presenta un cuadro de intoxicación aguda por sustancias psicoactivas.
+T31	EDAD_SUJETO_ASISTENCIA 798 806	12 años de edad
+T32	EDAD_SUJETO_ASISTENCIA 820 828	12 años de edad
+T33	INFORME_CLINICO 850 868	La exploración física revela: Tª 38,5 C; T.A: 110/70 mmHg; Fc: 90 lpm.
+T34	INFORME_CLINICO 900 918	Se encuentra consciente, orientado, con buen estado de nutrición e hidratación.
+T35	INFORME_CLINICO 960 978	En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular.
+T36	INFORME_CLINICO 1020 1038	Auscultación cardíaca rítmica, sin soplos, roces ni extratonos.
+T37	INFORME_CLINICO 1090 1108	Auscultación pulmonar con conservación del murmullo vesicular.
+T38	INFORME_CLINICO 1140 1158	Abdomen blando, depresible, sin masas ni megalias.
+T39	INFORME_CLINICO 1200 1218	En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad.
+T40	INFORME_CLINICO 1260 1278	Extremidades sin varices ni edemas.
+T41	INFORME_CLINICO 1320 1340	Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 15

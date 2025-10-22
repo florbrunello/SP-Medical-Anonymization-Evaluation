@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Ana Isabel Ferrer Aguilar
+DNI: 60795359B
+Fecha de nacimiento: 12/01/1956
+Género: F
+Domicilio: Calle de Segovia 49
+Ciudad: Lugo, Cuenca, Castilla-La Mancha
+Código postal: 16390
+Email: ferreraguilar@hotmail.com
+Teléfono fijo: +34 969 57 64 09
+Teléfono móvil: +34 669 18 57 43
+NHC: 9077909
+Condición de riesgo: Plomero
+
+Datos asistenciales.
+Médico: Dra. María Soledad Benítez Pereira. NC 513471993. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 14/04/2022
+Episodio: 45709775
+Hospital: Hospital General Universitario Morales Meseguer
+
+Informe clínico del paciente:
+Paciente fumador de 66 años de edad. 

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Beatriz Medina Ortiz
+DNI: 48093779C
+Fecha de nacimiento: 07/01/1985
+Género: F
+Domicilio: Calle Gran Vía 22, 6V
+Ciudad: Segovia, Teruel, Aragón
+Código postal: 44149
+Email: beatrizortiz@uhu.es
+Teléfono fijo: +34 978 37 64 54
+Teléfono móvil: +34 678 16 95 94
+NHC: 4255183
+NASS: 742123376751
+Condición de riesgo: Trabajador de Línea de Producción
+
+Datos asistenciales.
+Médico: Dr. Juan Miguel Bravo Calvo. NC 525276403. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 08/08/1986
+Episodio: 44871839
+Centro de salud: Centro de Salud Conde de Casal
+
+Informe clínico del paciente:
+Paciente no fumador de un año de edad, acompañado de su hermana. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es GF283NTQ894. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Beatriz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Medina Ortiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="48093779C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="07/01/1985" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="138" text="Calle Gran Vía 22, 6V" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="154" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="162" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="170" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="186" end="191" text="44149" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="199" end="218" text="beatrizortiz@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="234" end="250" text="+34 978 37 64 54" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="267" end="283" text="+34 678 16 95 94" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="289" end="296" text="4255183" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="303" end="315" text="742123376751" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="337" end="370" text="Trabajador de Línea de Producción" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="405" end="428" text="Juan Miguel Bravo Calvo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="433" end="442" text="525276403" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="444" end="482" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="484" end="551" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="553" end="580" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="582" end="587" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="589" end="596" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="598" end="604" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="624" end="634" text="08/08/1986" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="645" end="653" text="44871839" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="671" end="701" text="Centro de Salud Conde de Casal" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="742" end="752" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="756" end="762" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="789" end="796" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="879" end="890" text="GF283NTQ894" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Cristina Durán Pacheco
+DNI: 41271818C
+Fecha de nacimiento: 28/07/1999
+Género: Femenino
+Domicilio: Calle de las Huertas 25, 9D
+Ciudad: Eibar, Madrid, Madrid
+Código postal: 28928
+Email: duran_pacheco@ciberehd.org
+Teléfono fijo: +34 912 35 74 19
+FAX: +34 910 16 84 85
+NHC: 3140597
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dra. Sofía Paredes García. NC 181073094. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/06/2016
+Centro de salud: Centro de Salud Málaga Este
+
+Informe clínico del paciente:
+Paciente sobreviviente de violencia de 16 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.124.56, con dirección MAC DA:E1:4D:DF:D5:70. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="42" text="María Cristina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="43" end="56" text="Durán Pacheco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="62" end="71" text="41271818C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="93" end="103" text="28/07/1999" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="112" end="120" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="132" end="159" text="Calle de las Huertas 25, 9D" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="168" end="173" text="Eibar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="175" end="181" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="183" end="189" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="28928" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="244" text="duran_pacheco@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 912 35 74 19" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 910 16 84 85" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="304" end="311" text="3140597" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="333" end="339" text="Minero" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="609" end="619" text="05/06/2016" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="637" end="664" text="Centro de Salud Málaga Este" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T18" start="705" end="731" text="sobreviviente de violencia" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="735" end="742" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="858" end="875" text="DA:E1:4D:DF:D5:70" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

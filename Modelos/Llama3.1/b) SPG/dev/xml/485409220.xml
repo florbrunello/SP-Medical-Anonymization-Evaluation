@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Araceli</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sierra Lorenzo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">53398368G</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/04/1960</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Gobernador 83</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Langreo</TAG>, <TAG TYPE="TERRITORIO">Zamora</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">49632</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">araceli.sierra.lorenzo582@uhu.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 980 83 20 26</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 980 00 07 41</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7314813</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">888843696261</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gregorio Ortiz Mora</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">024515863</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Gastroenterólogo Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/06/1974</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">88906248</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Regional Universitario de Málaga</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5461NSC</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Toyota RAV4</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSBKPL2EZ4C553029</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia europea oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. Se registró una <TAG TYPE="PROFESION">sesión de huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">LL378LXM344</TAG>.
+  </TEXT>
+</MEDDOCAN>

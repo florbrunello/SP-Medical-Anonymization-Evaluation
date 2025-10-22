@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sergi Román Escobar</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">80129853S</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/09/1943</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Ana 12</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Zamora</TAG>, <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">37293</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">sergi-roman@ciberisciii.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 48 17 97</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 623 52 12 05</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7447608</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">814792540742</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Almacén</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Lorena</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Hurtado Parra</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 498476123</TAG>. <TAG TYPE="PROFESION">Residente de 2° año en Pediatría</TAG>.
+    Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). <TAG TYPE="INSTITUCION">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/04/1996</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="HOSPITAL">Hospital Universitario Fundació Jiménez Díaz</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="SEXO_SUJETO_ASISTENCIA">testigo de Jehová</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">52 años</TAG> de edad, acompañado de su yerno, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>. Presenta <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor de cabeza</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">mareos</TAG> desde hace <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3 días</TAG>, con pérdida de apetito y fatiga. La exploración física revela <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">160/100 mmHg</TAG>), <TAG TYPE="OTROS_SUJETO_ASISTENCIA">taquicardia</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">120 latidos/minuto</TAG>), y signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">deshidratación</TAG>. Se solicitan análisis de sangre y orina para determinar la causa subyacente de sus síntomas.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, tratados con medicamentos orales. Ha sido sometido a un programa de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dieta</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ejercicio</TAG> para controlar su condición.
+    Evolución y comentarios:
+    El paciente ha estado bajo tratamiento con medicamentos orales para controlar su <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>. Sin embargo, en los últimos días ha presentado <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor de cabeza</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">mareos</TAG>, con pérdida de apetito y fatiga. Se ha solicitado una exploración física y análisis de sangre y orina para determinar la causa subyacente de sus síntomas.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Lorena</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Hurtado Parra</TAG>, <TAG TYPE="PROFESION">Residente de 2° año en Pediatría</TAG>, <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>.
+  </TEXT>
+</MEDDOCAN>

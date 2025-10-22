@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Jonathan Serra León
+DNI: 54297832F
+Fecha de nacimiento: 05/07/1994
+Género: Masculino
+Domicilio: Calle Serrano 34
+Ciudad: Fuenlabrada, Lugo, Galicia
+Código postal: 27619
+Email: jonathan.serra-leon@ioba.med.uva.es
+Teléfono fijo: +34 982 10 59 74
+Teléfono móvil: +34 782 47 86 52
+NHC: 2440356
+NASS: 407441728374
+Condición de riesgo: Operador de Maquinaria Pesada
+
+Datos asistenciales.
+Médico: Dr. José Manuel Vila Blazquez. NC 856346707. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/02/2015
+Episodio: 68759125
+Centro de salud: Centro de Salud Collado Villalba
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 20 años de edad, acompañado de su hijo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Jonathan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="47" text="Serra León" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="54297832F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="05/07/1994" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="112" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="140" text="Calle Serrano 34" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="160" text="Fuenlabrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="166" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="175" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="27619" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="239" text="jonathan.serra-leon@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 982 10 59 74" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 782 47 86 52" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="2440356" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="324" end="336" text="407441728374" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="358" end="387" text="Operador de Maquinaria Pesada" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="422" end="447" text="José Manuel Vila Blazquez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="452" end="461" text="856346707" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="463" end="494" text="Especialista en Genética Médica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="496" end="571" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="573" end="602" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="604" end="609" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="611" end="617" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="619" end="625" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="645" end="655" text="20/02/2015" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="666" end="674" text="68759125" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="692" end="724" text="Centro de Salud Collado Villalba" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="765" end="786" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="790" end="797" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="824" end="828" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

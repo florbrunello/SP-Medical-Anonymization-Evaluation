@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Montserrat Exposito Carrillo
+DNI: 61221950K
+Fecha de nacimiento: 01/02/1966
+Género: F
+Domicilio: Calle del Pez 18
+Ciudad: Vilanova i la Geltrú, Formentera, Islas Baleares
+Código postal: 07782
+Email: TWoM7@gmail.com
+Teléfono fijo: +34 971 72 27 07
+Teléfono móvil: +34 771 06 93 57
+NHC: 1103139
+Condición de riesgo: Inspector de Seguridad Minera
+
+Datos asistenciales.
+Médico: Dr. Salvador Cruz Franco. NC 324187869. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/08/2018
+Hospital: Hospital Universitario de Gran Canaria Dr. Negrín
+Matrícula del coche: 4948ECN
+Modelo: Hyundai Elantra
+VIN: VSXPT7ZVLKJ094539
+
+Informe clínico del paciente:
+Paciente fumador de 52 años de edad, acompañado de su nuera. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.150.220, con dirección MAC A5:CC:3B:7D:47:12. Se realizó un expediente con URL http://example-labs.com//83680731M. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es HD601CZS340. 

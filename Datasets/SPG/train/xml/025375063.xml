@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Omar Marti Montoya
+DNI: 99776476S
+Fecha de nacimiento: 13/04/1979
+Género: V
+Domicilio: Calle de Embajadores 91
+Ciudad: Lleida, La Coruña, Galicia
+Código postal: 15117
+Email: omarmartimontoya@ucm.es
+Teléfono fijo: +34 981 59 05 74
+Teléfono móvil: +34 681 59 22 74
+NHC: 9887514
+NASS: 556483648723
+
+Datos asistenciales.
+Médico: Dra. Remedios Flores Castillo. NC 630937888. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 11/07/1989
+Episodio: 33044365
+Centro de salud: Centro de Salud Carabanchel
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 10 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Omar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="46" text="Marti Montoya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="99776476S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="13/04/1979" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="138" text="Calle de Embajadores 91" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="153" text="Lleida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="164" text="La Coruña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="173" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="189" end="194" text="15117" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="202" end="225" text="omarmartimontoya@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 981 59 05 74" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 681 59 22 74" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="296" end="303" text="9887514" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="310" end="322" text="556483648723" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="577" end="587" text="11/07/1989" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="598" end="606" text="33044365" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="624" end="651" text="Centro de Salud Carabanchel" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="695" end="728" text="ascendencia indígena sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="732" end="739" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="766" end="772" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

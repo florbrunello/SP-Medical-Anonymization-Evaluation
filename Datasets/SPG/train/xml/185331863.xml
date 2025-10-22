@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Paloma Carrillo Rueda
+DNI: 74283059M
+Fecha de nacimiento: 13/11/1986
+Género: Femenino
+Domicilio: Calle de Argumosa 77, 6P
+Ciudad: Ciudad Real, Tarragona, Cataluña
+Código postal: 43351
+Email: carrillo1177@uhu.es
+Teléfono fijo: +34 977 40 61 54
+Teléfono móvil: +34 777 29 68 83
+NHC: 8261788
+NASS: 317403205192
+Condición de riesgo: Técnico de Cuidados Auxiliares de Enfermería
+
+Datos asistenciales.
+Médico: Dra. Esperanza Caballero De la Fuente. NC 089925327. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/03/2016
+Episodio: 19389691
+Hospital: Hospital Universitario Doctor Peset
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 29 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Paloma" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Carrillo Rueda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="74283059M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="13/11/1986" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="113" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="149" text="Calle de Argumosa 77, 6P" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="169" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="180" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="182" end="190" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="43351" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="238" text="carrillo1177@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 977 40 61 54" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 777 29 68 83" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="8261788" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="323" end="335" text="317403205192" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="357" end="401" text="Técnico de Cuidados Auxiliares de Enfermería" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="694" end="704" text="27/03/2016" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="715" end="723" text="19389691" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="734" end="769" text="Hospital Universitario Doctor Peset" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="813" end="842" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="846" end="853" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

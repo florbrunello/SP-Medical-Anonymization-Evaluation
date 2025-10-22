@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vanessa Iglesias Romero</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">11189076J</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/12/1939</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Serrano 71</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcalá de Henares</TAG>, <TAG TYPE="TERRITORIO">Menorca</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">07923</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">vanessaiglesiasromero@yahoo.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 54 79 77</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 971 01 91 54</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9254530</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">905321360137</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Minería</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Guillermo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Costa Rey</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">542058470</TAG>. Investigador Principal en <TAG TYPE="PROFESION">Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/11/1968</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Delicias</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">28 años</TAG> de edad, acompañado de su abuelo, presenta un cuadro de disminución progresiva de la movilidad y coordinación en los últimos 6 meses, con dificultades para realizar tareas cotidianas y actividades físicas. Antecedentes de exposición a sustancias tóxicas en el trabajo como minero.
+    La exploración física revela: Tª <TAG TYPE="OTROS_SUJETO_ASISTENCIA">36,5 C</TAG>; T.A: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120/80 mmHg</TAG>; Fc: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica se aprecian signos de <TAG TYPE="PROFESION">parkinsonismo</TAG>, con rigidez y bradiquinesia en los miembros inferiores.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="OTROS_SUJETO_ASISTENCIA">14,5 g/dl</TAG>; leucocitos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8.500/mm3</TAG> (neutrófilos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">70%</TAG>); plaquetas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">250.000/ mm3</TAG>. VSG: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90%</TAG>; TTPA <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">110 mg/dl</TAG>; urea <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 mg/dl</TAG>; creatinina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">1,2 mg/dl</TAG>; sodio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">135 mEq/l</TAG>; potasio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">4,2 mEq/l</TAG>; GOT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">15 U/l</TAG>; GPT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 U/l</TAG>; GGT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120 U/l</TAG>; calcio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía cerebral, TAC craneal) que no evidencian patología significativa. Se instaura tratamiento sintomático (antiparkinsonianos) y se realiza seguimiento regular para ajustar la terapia.
+    Evolución y comentarios:
+    El paciente presenta una evolución estable en los últimos 3 meses, con mejoría en la movilidad y coordinación. Se mantiene bajo seguimiento regular para ajustar la terapia y evitar complicaciones.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Guillermo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Costa Rey</TAG>, <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Investigador Principal en</TAG> <TAG TYPE="PROFESION">Parkinson</TAG>, <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>.
+  </TEXT>
+</MEDDOCAN>

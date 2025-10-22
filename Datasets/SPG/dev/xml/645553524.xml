@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Jesús Avila Velasco
+DNI: 89257628X
+Fecha de nacimiento: 25/08/1971
+Género: V
+Domicilio: Calle de San Millán 33, 7S
+Ciudad: Alcalá de Henares, Tarragona, Cataluña
+Código postal: 43953
+Email: jesusavila.velasco@udc.es
+Teléfono fijo: +34 977 46 96 82
+Teléfono móvil: +34 677 75 05 72
+NHC: 8997439
+
+Datos asistenciales.
+Médico: Dr. Pedro Aparicio Merino. NC 801107528. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/01/2015
+Centro de salud: Centro de Salud Alcalá de Henares
+
+Informe clínico del paciente:
+Paciente vegetariano de 43 años de edad, acompañado de su pareja. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Jesús" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Avila Velasco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="89257628X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="25/08/1971" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="142" text="Calle de San Millán 33, 7S" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="168" text="Alcalá de Henares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="179" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="181" end="189" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="43953" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="243" text="jesusavila.velasco@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 977 46 96 82" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="292" end="308" text="+34 677 75 05 72" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="314" end="321" text="8997439" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="356" end="377" text="Pedro Aparicio Merino" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="382" end="391" text="801107528" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="393" end="428" text="Neurólogo Especialista en Alzheimer" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="430" end="519" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="521" end="550" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="552" end="557" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="559" end="565" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="567" end="573" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="593" end="603" text="06/01/2015" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T24" start="621" end="654" text="Centro de Salud Alcalá de Henares" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T25" start="695" end="706" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T26" start="710" end="717" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T27" start="744" end="750" text="pareja" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

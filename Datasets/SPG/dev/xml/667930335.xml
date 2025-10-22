@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Manuel Calderon Aranda
+DNI: 95205364S
+Fecha de nacimiento: 27/12/1968
+Género: Masculino
+Domicilio: Calle de O'Donnell 33
+Ciudad: Zamora, Segovia, Castilla y León
+Código postal: 40059
+Email: josemanuel_calderon265@ciberisciii.es
+Teléfono fijo: +34 921 89 36 25
+Teléfono móvil: +34 721 95 28 78
+NHC: 6828779
+NASS: 327500176129
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dra. Sonia Vega Plaza. NC 906865249. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/12/1983
+Episodio: 24557144
+Centro de salud: Centro de Salud Barajas
+Matrícula del coche: 5606MIR
+Modelo: Ford Mustang
+VIN: VSIMNT1AA6X173115
+
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 14 años de edad, acompañado de su madre. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es XM351GGZ256. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="José Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="55" text="Calderon Aranda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="95205364S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="27/12/1968" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="120" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="132" end="153" text="Calle de O'Donnell 33" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="162" end="168" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="177" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="194" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="40059" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="260" text="josemanuel_calderon265@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="276" end="292" text="+34 921 89 36 25" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="309" end="325" text="+34 721 95 28 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="331" end="338" text="6828779" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="345" end="357" text="327500176129" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="379" end="410" text="Operador de Maquinaria Agrícola" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="669" end="679" text="12/12/1983" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="690" end="698" text="24557144" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="716" end="739" text="Centro de Salud Barajas" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="761" end="768" text="5606MIR" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="795" end="812" text="VSIMNT1AA6X173115" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="856" end="873" text="ascendencia árabe" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="877" end="884" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="911" end="916" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T25" start="999" end="1010" text="XM351GGZ256" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

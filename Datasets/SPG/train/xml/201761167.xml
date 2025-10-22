@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sofía López Pascual
+DNI: 21709184J
+Fecha de nacimiento: 13/11/1932
+Género: M
+Domicilio: Calle de Segovia 36
+Ciudad: Torrelodones, Valencia, Comunidad Valenciana
+Código postal: 46843
+Email: sofialopez707@icloud.com
+Teléfono fijo: +34 960 24 41 99
+Teléfono móvil: +34 660 84 85 45
+NHC: 5683615
+NASS: 445383590298
+Condición de riesgo: Ama de casa
+
+Datos asistenciales.
+Médico: Dr. Ricardo Lorenzo Rivas. NC 923821260. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 27/03/2000
+Episodio: 44210910
+Centro de salud: Centro de Salud Chamartín
+Matrícula del coche: 9786IUM
+Modelo: Ram 1500
+VIN: VSM7YF8CQ8M993930
+
+Informe clínico del paciente:
+Paciente vegano de 67 años de edad, acompañado de su esposa. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es GR452KZT659. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Sofía" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="López Pascual" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="21709184J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="13/11/1932" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="135" text="Calle de Segovia 36" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="144" end="156" text="Torrelodones" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="166" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="188" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="46843" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="241" text="sofialopez707@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 960 24 41 99" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="290" end="306" text="+34 660 84 85 45" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="312" end="319" text="5683615" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="326" end="338" text="445383590298" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="360" end="371" text="Ama de casa" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="406" end="427" text="Ricardo Lorenzo Rivas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="432" end="441" text="923821260" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="443" end="486" text="Cardiólogo de Unidad de Cuidados Intensivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="488" end="560" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="562" end="585" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="587" end="592" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="594" end="600" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="602" end="608" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="628" end="638" text="27/03/2000" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="649" end="657" text="44210910" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="675" end="700" text="Centro de Salud Chamartín" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="722" end="729" text="9786IUM" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="752" end="769" text="VSM7YF8CQ8M993930" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="810" end="816" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="820" end="827" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="854" end="860" text="esposa" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T33" start="944" end="955" text="GR452KZT659" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

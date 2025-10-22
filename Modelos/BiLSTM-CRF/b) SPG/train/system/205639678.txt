@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Alejandro Delgado Prieto
+DNI: 50482429M
+Fecha de nacimiento: 24/02/1948
+Género: V
+Domicilio: Calle de Juan Bravo 89, 6S
+Ciudad: Santander, Guipúzcoa, Pais Vasco
+Código postal: 20741
+Email: alejandro-delgadoprieto@ub.edu
+Teléfono fijo: +34 943 97 39 43
+FAX: +34 943 52 38 49
+NHC: 3367163
+Condición de riesgo: Operador de Máquina
+
+Datos asistenciales.
+Médico: Dr. Hugo Exposito Montes. NC 817967618. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 19/02/2023
+Episodio: 71370080
+Centro de salud: Centro de Salud Villaverde
+
+Informe clínico del paciente:
+Paciente de tez blanca de 74 años de edad. Se registró una sesión de huella dactilar, el código obtenido para revisarla es LE337JZA524. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es YO026ZOB747. 

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Lorenzo Ferrer Mendoza
+DNI: 85257330X
+Fecha de nacimiento: 03/01/2016
+Género: M
+Domicilio: Calle de Velázquez 60, 4N
+Ciudad: Santa Cruz de Tenerife, Ciudad Real, Castilla-La Mancha
+Código postal: 13409
+Email: lorenzo@gmail.com
+Teléfono fijo: +34 926 49 18 86
+FAX: +34 926 57 74 63
+NHC: 2692178
+NASS: 942788918205
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dra. María Manzano Vargas. NC 242697586. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 02/08/2020
+Episodio: 89948137
+Centro de salud: Centro de Salud San Sebastián de los Reyes
+
+Informe clínico del paciente:
+Paciente fumador de 4 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Lorenzo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Ferrer Mendoza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="85257330X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="03/01/2016" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="144" text="Calle de Velázquez 60, 4N" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="175" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="177" end="188" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="190" end="208" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="224" end="229" text="13409" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="237" end="254" text="lorenzo@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="270" end="286" text="+34 926 49 18 86" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="292" end="308" text="+34 926 57 74 63" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="314" end="321" text="2692178" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="328" end="340" text="942788918205" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="362" end="370" text="Granjero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="632" end="642" text="02/08/2020" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="653" end="661" text="89948137" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="679" end="721" text="Centro de Salud San Sebastián de los Reyes" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="762" end="769" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="773" end="779" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="806" end="813" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Joan Salazar Montes</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">45672076X</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/03/1948</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Rollo 82, 1S</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Liria, Sevilla, Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">41415</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">joan@udc.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 55 69 64</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 754 21 38 08</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0537744</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">709291308886</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Operador de Máquina</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Francisco José Rodríguez Varela</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">740849411</TAG>. <TAG TYPE="PROFESION">Residente de 3° año en Psiquiatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/09/1971</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">59228142</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Delicias</TAG>.
+    Informe clínico del paciente:
+    Paciente consumidor de alcohol de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">23 años</TAG> de edad, con antecedentes de episodios de abstinencia y reintegración a la bebida. Presenta síntomas de ansiedad y depresión, con alteraciones en el estado de ánimo y pensamientos autodestructivos. La exploración física revela signos de desnutrición y alteraciones en la función hepática. Los datos analíticos muestran elevaciones en los niveles de AST y ALT, así como un aumento en la bilirrubina indirecta.
+    La evolución clínica ha sido marcada por episodios de crisis de abstinencia, con síntomas de ansiedad, temblores y sudoración. La exploración neurológica ha revelado signos de alteraciones en la función cognitiva, con dificultades para la concentración y la memoria. La ecografía hepática ha mostrado signos de cirrosis hepática en etapa temprana.
+    El tratamiento ha consistido en la administración de medicamentos para la abstinencia, así como la implementación de un programa de rehabilitación para el consumo de alcohol. El paciente ha mostrado una buena respuesta al tratamiento, con una reducción en la frecuencia y la gravedad de los episodios de abstinencia.
+    Evolución y comentarios:
+    El paciente ha sido seguido de cerca en las consultas posteriores, con una reducción significativa en la frecuencia y la gravedad de los episodios de abstinencia. La función hepática ha mejorado significativamente, con una reducción en los niveles de AST y ALT. El paciente ha mostrado una mayor estabilidad emocional, con una reducción en la frecuencia de crisis de ansiedad y depresión.
+    Remitido por:
+    El paciente ha sido remitido a la consulta de seguimiento para continuar con el tratamiento y la rehabilitación. Se le ha recomendado un seguimiento regular para monitorear la evolución clínica y la respuesta al tratamiento.
+  </TEXT>
+</MEDDOCAN>

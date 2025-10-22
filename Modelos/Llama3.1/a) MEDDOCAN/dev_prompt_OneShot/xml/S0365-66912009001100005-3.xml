@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Luis</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ortega Marin</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">364563</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle prados 45, 6A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28028</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/04/2014</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">06/06/2017</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Oftalmologia</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ignacio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Genol Saavedra</TAG>  NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 74136</TAG>.
+    Historia Actual del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años</TAG> que estaba siendo estudiado por <TAG TYPE="PROFESION">neurólogos</TAG> por sospecha de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">neurofibromatosis tipo 1</TAG> ya que cumplía al menos un criterio diagnóstico mayor (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">manchas café con leche diseminadas</TAG>). Presentaba <TAG TYPE="OTROS_SUJETO_ASISTENCIA">exoftalmos axial OD</TAG> desde hace 5 meses. Su AV con test de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Pigassou</TAG> era de 1. Se realizó una <TAG TYPE="PROFESION">RMN</TAG> que se informó como <TAG TYPE="OTROS_SUJETO_ASISTENCIA">engrosamiento bien delimitado, homogéneo e isodenso del NO</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">meninges intactas</TAG> compatible con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">glioma del NO</TAG> en su porción intracanalicular e intraorbitaria confirmándose así el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">neurofibromatosis tipo 1</TAG> pues cumplía dos criterios diagnósticos mayores. Dado que no presentaba <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lagoftalmos</TAG> y su AV estaba conservada se optó por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">revisiones cada 3 meses</TAG> durante el primer año, y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">controles cada 6 meses</TAG> durante el segundo año. Aunque los criterios de progresión de los <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gliomas ópticos</TAG> no están universalmente definidos, en este caso 4 años después de su diagnóstico, tanto la AV como el tamaño radiológico de la lesión se mantienen estables, por lo que de momento no planteamos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tratamiento quimioterápico</TAG> y controlamos al paciente cada 6 meses, realizándose <TAG TYPE="PROFESION">RMN</TAG> anualmente.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ignacio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Genol Saavedra</TAG>. <TAG TYPE="CALLE">C/. Piamonte, 7, 3.o B</TAG> <TAG TYPE="TERRITORIO" >28004</TAG> <TAG TYPE="TERRITORIO" >Madrid</TAG>. <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">ignaciogenol@gmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

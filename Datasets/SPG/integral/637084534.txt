@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Esteban Aranda Reyes
+DNI: 88879819E
+Fecha de nacimiento: 16/08/1964
+Género: Masculino
+Domicilio: Calle de Génova 42
+Ciudad: Majadahonda, Navarra, Navarra
+Código postal: 31613
+Email: aranda-reyes@uhu.es
+Teléfono fijo: +34 948 84 10 84
+Teléfono móvil: +34 748 60 60 31
+NHC: 4662438
+NASS: 699060343131
+Condición de riesgo: Repartidor
+
+Datos asistenciales.
+Médico: Dra. Aitana Marti Gallardo. NC 573673862. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/10/1974
+Centro de salud: Centro de Salud Latina
+Matrícula del coche: 5010NTK
+Modelo: Hyundai Elantra
+VIN: VSABG9HZQKX841134
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 10 años de edad, acompañado de su hermana. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.151.60, con dirección MAC B4:18:73:95:29:9C. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es YB150EOV965. 

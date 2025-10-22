@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Francisca</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Martinez Rivera</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3746531</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">89 46587920 56</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Principe Felipe, 96, 3 A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28029</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/04/1946</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">66 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/08/2012</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jennifer</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Millán Rodríguez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 65690</TAG>.
+    Informe clínico del paciente:.
+    Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">66 años</TAG> de edad remitida a nuestro Servicio por clínica de uveítis en ojo derecho desde hacía un año. La paciente refería disminución de visión en dicho ojo pero no contaba miodesopsias, ni metamorfopsias. Entre los antecedentes médicos destacaba que hace doce años sufrió una hemorragia intracraneal que requirió intervención quirúrgica y transfusión de dos unidades de concentrado de hematíes.
+    En la exploración oftalmológica la mejor agudeza visual corregida (MAVC) era <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8/20</TAG> en el ojo derecho y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10/20</TAG> en el ojo izquierdo. En el examen con lámpara de hendidura se observaban restos celulares en vítreo sin signos de actividad. En el examen de fondo de ojo se observaba membrana epimacular en ambos ojos, no se encontraron signos de vasculitis retiniana, ni la presencia de snowballs o snowbanks. Con la tomografía de coherencia óptica se confirmaba la membrana epimacular. Se le diagnósticó una uveítis intermedia de etiología desconocida.
+    En los meses siguientes la paciente desarrolló debilidad progresiva en miembros inferiores llegando a desarrollar incapacidad para la marcha. Asimismo, consultó por un episodio de vitritis ++ que remitió con triamcinolona transeptal (TRIGON depot).
+    En el estudio etiológico, tras descartar otras causas del cuadro neurológico, con resonancia magnética nuclear normal, ante la asociación de uveítis y mielopatía idiopática con hiperreflexia patelar, se solicitó serología para el VLHT-1 que resultó positiva por enzimoinmunoanálisis (EIA) para la detección de anticuerpos frente a VLHT-1 (ABBOTT HTLV-1/HTLV-2, Innogenetics N.V.). Las muestras por EIA se analizaron mediante un inmunoblot en tira, (INNO-LIATM HTLV I/II, Innogenetics N.V.) que confirmaron la presencia de anticuerpos frente al HTLV-1. Se estableció entonces el diagnóstico de paraparesia espástica tropical y uveítis intermedia por VLHT-1. Se le pautó tratamiento con prednisona oral mejorando su clínica neurológica así como su MAVC, alcanzando una visión de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14/20</TAG> en ojo derecho y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">18/20</TAG> en ojo izquierdo.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Jennifer</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Millán Rodríguez</TAG> Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">janoft@yahoo.es</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Jesús María Martín Estevez
+DNI: 63252975P
+Fecha de nacimiento: 04/01/1927
+Género: V
+Domicilio: Calle de la Reina 68, 8U
+Ciudad: Málaga, Alicante, Comunidad Valenciana
+Código postal: 03944
+Email: martin@gmail.com
+Teléfono fijo: +34 965 85 02 45
+Teléfono móvil: +34 765 37 31 25
+NHC: 9771276
+NASS: 507690967914
+
+Datos asistenciales.
+Médico: Dra. Matilde Sanz Guerrero. NC 309939307. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/09/1994
+Episodio: 53892375
+Centro de salud: Centro de Salud Valdemoro
+
+Informe clínico del paciente:
+Paciente migrante de 67 años de edad, acompañado de su hijo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="Jesús María" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="54" text="Martín Estevez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="63252975P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="04/01/1927" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="111" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="147" text="Calle de la Reina 68, 8U" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="162" text="Málaga" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="172" text="Alicante" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="194" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="03944" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="239" text="martin@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 965 85 02 45" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 765 37 31 25" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="9771276" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="324" end="336" text="507690967914" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="609" end="619" text="06/09/1994" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="630" end="638" text="53892375" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="656" end="681" text="Centro de Salud Valdemoro" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="722" end="730" text="migrante" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="734" end="741" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="768" end="772" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

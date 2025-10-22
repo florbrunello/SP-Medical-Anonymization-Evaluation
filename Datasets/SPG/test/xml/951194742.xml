@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Nieves Mendoza Ruiz
+DNI: 72782110J
+Fecha de nacimiento: 17/11/1979
+Género: M
+Domicilio: Calle de Ibiza 16, 10P
+Ciudad: Fuenlabrada, Gerona, Cataluña
+Código postal: 17534
+Email: marianieves-ruiz1520@salud.madrid.org
+Teléfono fijo: +34 972 88 61 34
+Teléfono móvil: +34 772 72 54 11
+NHC: 8443009
+NASS: 997244982767
+Condición de riesgo: Guardia de Seguridad
+
+Datos asistenciales.
+Médico: Dra. María Ángeles Galvez Castro. NC 482838612. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/12/1996
+Episodio: 98067548
+Hospital: Hospital Universitario Doctor Peset
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 17 años de edad, acompañado de su abuelo. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es HD563YJV509. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="María Nieves" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="53" text="Mendoza Ruiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="72782110J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="17/11/1979" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="144" text="Calle de Ibiza 16, 10P" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="164" text="Fuenlabrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="172" text="Gerona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="182" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="17534" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="248" text="marianieves-ruiz1520@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="264" end="280" text="+34 972 88 61 34" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="297" end="313" text="+34 772 72 54 11" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="319" end="326" text="8443009" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="333" end="345" text="997244982767" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="367" end="387" text="Guardia de Seguridad" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="665" end="675" text="30/12/1996" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="686" end="694" text="98067548" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="705" end="740" text="Hospital Universitario Doctor Peset" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="784" end="810" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="814" end="821" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="848" end="854" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="937" end="948" text="HD563YJV509" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

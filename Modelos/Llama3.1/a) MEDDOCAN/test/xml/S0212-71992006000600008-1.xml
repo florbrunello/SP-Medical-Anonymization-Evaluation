@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Paula</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Quevedo Sanz</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">21412043</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">36 97845126 38</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. del Paraŀlel, 139 4D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Barcelona</TAG>.
+    CP: <TAG TYPE="TERRITORIO">08004</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/04/1945</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">73 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">16/05/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pablo Javier</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marchena Iglesias</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">08 28 54781</TAG>.
+    Motivo de ingreso: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mujer de 73 años de edad que acudió al hospital por cuadro de hiperreactividad bronquial secundaria a infección respiratoria.</TAG>
+    Antecedentes: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">asma bronquial tratada con broncodilatadores a demanda.</TAG> No refería <TAG TYPE="OTROS_SUJETO_ASISTENCIA">factores de riesgo cardiovascular.</TAG>
+    Exploración física: refería un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor dorsal opresivo</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sudoración</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">disnea</TAG> desde hacía 8 meses que se desencadena con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">esfuerzos moderados</TAG>, que cedía con el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG> y que en todo este tiempo no se había modificado. A la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">auscultación cardiaca</TAG> estaba <TAG TYPE="OTROS_SUJETO_ASISTENCIA">rítmica</TAG>, presentaba un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tercer ruido</TAG>, un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">soplo sistólico</TAG> y diastólico fluctuante y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">signos de insuficiencia cardiaca</TAG>. En la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">auscultación pulmonar</TAG> destacaban los <TAG TYPE="OTROS_SUJETO_ASISTENCIA">roncus</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sibilantes</TAG> compatibles con la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hiperreactividad bronquial</TAG> que motivó el ingreso.
+    Resumen de pruebas complementarias: La <TAG TYPE="OTROS_SUJETO_ASISTENCIA">analítica</TAG> mostraba <TAG TYPE="OTROS_SUJETO_ASISTENCIA">anemia</TAG> con aumento discreto de los <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reactantes de fase aguda</TAG>. Los <TAG TYPE="OTROS_SUJETO_ASISTENCIA">biomarcadores cardiacos</TAG> fueron negativos. El <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ECG</TAG> fue normal y en la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">radiografía de tórax</TAG> se apreciaba una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cardiomegalia</TAG>, no presente en una previa de hacía un año. Con la sospecha inicial de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hiperreactividad bronquial</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">angina de esfuerzo estable</TAG> e <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardiaca secundaria</TAG> se solicitó un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ecocardiograma</TAG> que mostró una masa de 4 x 5 cm dependiente de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">aurícula izquierda</TAG> y que partiendo de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fosa oval</TAG> protuía en diástole hacia el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ventrículo</TAG> produciendo una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estenosis mitral</TAG>. Posteriormente se realizó un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cateterismo cardiaco</TAG> en el que no se objetivaron lesiones coronarias angiográficamente significativas. Con la sospecha de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">mixoma auricular</TAG> la paciente fue intervenida quirúrgicamente confirmándose el diagnóstico por la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">histología</TAG>.
+    Evolución y comentarios: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Cuatro meses después de la intervención</TAG> la paciente está <TAG TYPE="OTROS_SUJETO_ASISTENCIA">asintomática</TAG> y sin datos de recidiva.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Pablo Javier</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marchena Iglesias</TAG>. <TAG TYPE="CALLE">C/ Berlín, 63-65, 2º 3ª esc B.</TAG> <TAG TYPE="TERRITORIO">08029</TAG> <TAG TYPE="TERRITORIO">Barcelona</TAG>. e-mail: <TAG TYPE="CORREO_ELECTRONICO">pjmy1@yahoo.es</TAG>
+  </TEXT>
+</MEDDOCAN>

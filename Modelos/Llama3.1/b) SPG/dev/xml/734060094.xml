@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Christian</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Roldan</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marti</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">58673108Q</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/12/1961</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Ferraz 6, 2B</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">San Sebastián</TAG>, <TAG TYPE="TERRITORIO">Formentera</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07004</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">christian_roldan1030@uca.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 84 93 16</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 671 91 60 29</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0487138</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">190211718057</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Carpintero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Josefa Blazquez Pardo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">579742834</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/09/1975</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">15959265</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Crúces</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6423BKD</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Toyota Corolla</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSV6AKEMTVW987441</TAG>
+    
+    Informe clínico del paciente:
+    Paciente usuario de drogas de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

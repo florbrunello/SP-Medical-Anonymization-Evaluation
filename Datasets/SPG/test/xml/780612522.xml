@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Manuel Vila Mesa
+DNI: 43146852W
+Fecha de nacimiento: 16/03/1986
+Género: M
+Domicilio: Paseo de la Castellana 96
+Ciudad: Córdoba, Las Palmas, Canarias
+Código postal: 35071
+Email: manuel@aol.com
+Teléfono fijo: +34 928 24 66 68
+FAX: +34 928 27 40 90
+NHC: 8568434
+NASS: 602629766430
+
+Datos asistenciales.
+Médico: Dr. José Ángel Santos Casas. NC 555658920. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/03/2022
+Episodio: 21495814
+Centro de salud: Centro de Salud Málaga Norte
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 36 años de edad, acompañado de su marido. Se registró una sesión de huella dactilar, el código obtenido para revisarla es YR690OMT006. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="44" text="Vila Mesa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="43146852W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="16/03/1986" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="101" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="113" end="138" text="Paseo de la Castellana 96" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="154" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="166" text="Las Palmas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="176" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="192" end="197" text="35071" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="205" end="219" text="manuel@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="235" end="251" text="+34 928 24 66 68" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="257" end="273" text="+34 928 27 40 90" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="279" end="286" text="8568434" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="293" end="305" text="602629766430" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="340" end="363" text="José Ángel Santos Casas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="368" end="377" text="555658920" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="379" end="414" text="Neurólogo Especialista en Alzheimer" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="416" end="505" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="507" end="536" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="538" end="543" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="545" end="551" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="553" end="559" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="579" end="589" text="21/03/2022" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="600" end="608" text="21495814" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="626" end="654" text="Centro de Salud Málaga Norte" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="695" end="716" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="720" end="727" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="754" end="760" text="marido" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="842" end="853" text="YR690OMT006" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

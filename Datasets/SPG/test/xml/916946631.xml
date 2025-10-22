@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Adolfo Rivas Miranda
+DNI: 12371790K
+Fecha de nacimiento: 04/12/1930
+Género: Varón
+Domicilio: Calle del Doctor Esquerdo 36
+Ciudad: Burgos, Zaragoza, Aragón
+Código postal: 50194
+Email: adolfo@h12o.es
+Teléfono fijo: +34 976 92 86 89
+Teléfono móvil: +34 676 53 51 91
+NHC: 1114695
+Condición de riesgo: Trabajador de Sanitización
+
+Datos asistenciales.
+Médico: Dra. Ana Isabel Gracia Aranda. NC 524284575. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 21/04/2010
+Episodio: 42600945
+Hospital: Hospital Universitario Rey Juan Carlos de Mostoles
+Matrícula del coche: 7518RJM
+Modelo: BMW 3 Series
+VIN: VSSJH9RVYVR579168
+
+Informe clínico del paciente:
+Paciente de tez blanca de 79 años de edad, acompañado de su hija. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es BR500QXS297. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Adolfo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Rivas Miranda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="12371790K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="04/12/1930" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="149" text="Calle del Doctor Esquerdo 36" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="164" text="Burgos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="174" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="182" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="50194" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="225" text="adolfo@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 976 92 86 89" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 676 53 51 91" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="296" end="303" text="1114695" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="325" end="351" text="Trabajador de Sanitización" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="603" end="613" text="21/04/2010" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="624" end="632" text="42600945" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="643" end="693" text="Hospital Universitario Rey Juan Carlos de Mostoles" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="715" end="722" text="7518RJM" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="749" end="766" text="VSSJH9RVYVR579168" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="810" end="820" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="824" end="831" text="79 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="858" end="862" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T24" start="946" end="957" text="BR500QXS297" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

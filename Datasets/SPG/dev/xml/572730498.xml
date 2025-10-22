@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gregorio Galan Conde
+DNI: 85295202R
+Fecha de nacimiento: 17/05/1949
+Género: H
+Domicilio: Calle de los Embajadores 83
+Ciudad: Vigo, León, Castilla y León
+Código postal: 24627
+Email: gregoriogalan@ioba.med.uva.es
+Teléfono fijo: +34 987 43 54 89
+Teléfono móvil: +34 687 71 72 96
+NHC: 1493995
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dra. Clara Plaza Carrillo. NC 554548869. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/05/1981
+Episodio: 98057893
+Hospital: Hospital Universitario Virgen del Rocío
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 31 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-neurology.com//17097882O. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Gregorio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="48" text="Galan Conde" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="85295202R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="17/05/1949" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="144" text="Calle de los Embajadores 83" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="157" text="Vigo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="163" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="180" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="24627" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="238" text="gregoriogalan@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 987 43 54 89" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 687 71 72 96" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="1493995" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="338" end="344" text="Médico" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="615" end="625" text="05/05/1981" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="636" end="644" text="98057893" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="655" end="694" text="Hospital Universitario Virgen del Rocío" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="735" end="752" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="756" end="763" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="790" end="795" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="830" end="854" text="http://example-neurology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

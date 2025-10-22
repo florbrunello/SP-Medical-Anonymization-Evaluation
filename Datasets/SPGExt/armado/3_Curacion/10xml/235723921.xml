@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Belén Heredia Vega</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">43556396P</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">31/12/1931</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Amparo 51</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Jaén, Navarra, Navarra</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">31376</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">Rbi3ySyA@imibic.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 948 01 74 98</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 748 68 09 10</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2124665</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">085892494072</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Mantenimiento</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Silvia Casado Durán</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 277210753</TAG>. <TAG TYPE="PROFESION">Investigadora Principal en Optometría Clínica</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/02/2005</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">37301400</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Conde de Casal</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">73 años</TAG> de edad, acompañado de su esposa, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, que refiere una semana de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cefaleas</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos recurrentes</TAG>. La exploración física revela: Tª <TAG TYPE="OTROS_SUJETO_ASISTENCIA">37,5 C</TAG>; T.A: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120/80 mmHg</TAG>; Fc: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración ni fiebre, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica se detectan signos de meningeo, con rigidez de cuello y fotofobia. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, controladas con medicación oral.
+    Evolución y comentarios:
+    El paciente fue ingresado en la unidad de cuidados intensivos por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cefaleas</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos recurrentes</TAG>. Se realizaron pruebas de imagen (<TAG TYPE="PROFESION">Ecografía craneal</TAG>, <TAG TYPE="PROFESION">TAC craneal</TAG>) que mostraron un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematoma subdural izquierdo</TAG>. Se instauró tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">antitérmicos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antiinflamatorios</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG>) y se realizó una exploración quirúrgica para evacuar el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematoma</TAG>.
+    Remitido por:
+    El paciente fue remitido por su médico de cabecera, quien se quejaba de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cefaleas</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos recurrentes</TAG> en el paciente.
+  </TEXT>
+</MEDDOCAN>

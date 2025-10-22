@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Inmaculada Otero Tomas
+DNI: 92693715N
+Fecha de nacimiento: 05/11/1992
+Género: M
+Domicilio: Calle de Áncora 31
+Ciudad: Socuéllamos, Cádiz, Andalucía
+Código postal: 11527
+Email: inmaculada_tomas@ciberer.es
+Teléfono fijo: +34 956 63 60 39
+Teléfono móvil: +34 756 09 31 08
+NHC: 2355476
+NASS: 244459166040
+Condición de riesgo: Enfermera
+
+Datos asistenciales.
+Médico: Dr. Isaac Miranda Beltran. NC 573612853. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/06/2001
+Centro de salud: Centro de Salud Málaga Sur
+
+Informe clínico del paciente:
+Paciente refugiado de 8 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Inmaculada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="50" text="Otero Tomas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="92693715N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="05/11/1992" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="137" text="Calle de Áncora 31" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="157" text="Socuéllamos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="164" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="175" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="11527" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="231" text="inmaculada_tomas@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 956 63 60 39" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 756 09 31 08" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="2355476" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="316" end="328" text="244459166040" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="350" end="359" text="Enfermera" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="394" end="415" text="Isaac Miranda Beltran" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="420" end="429" text="573612853" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="431" end="475" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="477" end="563" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="565" end="594" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="596" end="601" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="603" end="609" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="611" end="617" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="637" end="647" text="21/06/2001" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="665" end="691" text="Centro de Salud Málaga Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="732" end="741" text="refugiado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="745" end="751" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="778" end="783" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

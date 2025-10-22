@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iván Marti</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">García</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">42445385N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/10/1990</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Infantas 9</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Tarragona</TAG>, <TAG TYPE="TERRITORIO">Jaén</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">23858</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ivangarcia@uhu.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 953 22 73 00</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 753 40 12 70</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7347774</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Plomero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ignacio Hurtado Segura</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">172377762</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">02/04/2024</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">34211471</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Virgen de la Victoria</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una consulta virtual desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP (en red interna)</TAG> <TAG TYPE="NUMERO_IP">192.168.35.108</TAG>, con <TAG TYPE="IDENTIF_BIOMETRICOS">dirección MAC</TAG> <TAG TYPE="IDENTIF_BIOMETRICOS">91:C4:4B:FF:A6:80</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">escaneo retiniano</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código obtenido</TAG> para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">CK661DEO337</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">reconocimiento facial</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código obtenido</TAG> para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">PC588EDU784</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">firma biométrica</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código obtenido</TAG> para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">UL362TVN865</TAG>.
+  </TEXT>
+</MEDDOCAN>

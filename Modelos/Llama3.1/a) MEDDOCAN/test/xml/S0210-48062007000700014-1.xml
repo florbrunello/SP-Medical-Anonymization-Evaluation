@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sandro</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Reye Oviedo</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7438498</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">83 45978369 13</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Avda. Diego de León, 24</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Barcelona</TAG>.
+    CP: <TAG TYPE="TERRITORIO">08025</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/05/1968</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">03/06/2014</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Urología</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Raúl</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Hernando Martínez-Rodríguez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">08 08 22845</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG> de edad, sin antecedentes patológicos de interés salvo vasectomía a los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">42 años</TAG>, que acudió al servicio de urgencias por tumoración perineal de inicio insidioso y aumento progresivo del tamaño en los últimos días, sin repercusión sobre la capacidad eréctil ni la micción. Negaba rotundamente antecedente traumático. A la exploración presentaba tumoración perineal de localización paracavernosa izquierda, no fluctuante, no dolorosa, de consistencia fibroelástica.
+    Se realizó ecografía de partes blandas con orientación diagnóstica hacia hematoma perineal dependiente de porción proximal de cuerpo cavernoso izquierdo.
+    En la Resonancia Magnética Nuclear se describía área hipointensa de aproximadamente 8x2x0,8 cm. localizada en región posterior de cuerpo cavernoso izquierdo con integridad de túnica albugínea y fascia de Buck.
+    Se realizó estudio bacteriológico de material obtenido mediante punción con cultivo negativo.
+    Se instauró tratamiento antiagregante vía oral y medidas físicas presentando reabsorción del hematoma y resolución completa a los 4 meses.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Raúl</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Hernando Martínez-Rodríguez</TAG> <TAG TYPE="PROFESION">Servicio de Urología</TAG>. <TAG TYPE="INSTITUCION">Fundación Puigvert</TAG>. <TAG TYPE="CALLE">Cartagena, 340-350</TAG> - <TAG TYPE="TERRITORIO">08025</TAG> <TAG TYPE="TERRITORIO">Barcelona</TAG>. Tel.: <TAG TYPE="NUMERO_TELEFONO">934 169 700</TAG> E-mail autor: <TAG TYPE="CORREO_ELECTRONICO">dr.rmartinez@yahoo.es</TAG>
+  </TEXT>
+</MEDDOCAN>

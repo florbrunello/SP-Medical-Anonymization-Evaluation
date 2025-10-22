@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rosa María Costa Cortés
+DNI: 17418926Z
+Fecha de nacimiento: 13/02/1985
+Género: Mujer
+Domicilio: Calle de las Letras 76, 4T
+Ciudad: Ponferrada, Valencia, Comunidad Valenciana
+Código postal: 46653
+Email: rosamaria@gmail.com
+Teléfono fijo: +34 960 54 80 21
+Teléfono móvil: +34 760 77 13 95
+NHC: 2656132
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dr. Marco Crespo Merino. NC 632872034. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/07/2002
+Episodio: 75950661
+Centro de salud: Centro de Salud Arganzuela
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 17 años de edad, acompañado de su hijo. Se registró una sesión de huella dactilar, el código obtenido para revisarla es NC419RHQ290. Se registró una sesión de firma biométrica, el código obtenido para revisarla es AZ505LYE082. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es IQ227ZFD432. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Rosa María" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="51" text="Costa Cortés" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="17418926Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="13/02/1985" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="112" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="150" text="Calle de las Letras 76, 4T" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="169" text="Ponferrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="179" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="181" end="201" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="217" end="222" text="46653" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="230" end="249" text="rosamaria@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="265" end="281" text="+34 960 54 80 21" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="298" end="314" text="+34 760 77 13 95" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="320" end="327" text="2656132" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="349" end="355" text="Médico" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="390" end="409" text="Marco Crespo Merino" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="414" end="423" text="632872034" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="425" end="456" text="Especialista en Genética Médica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="458" end="533" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="535" end="564" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="566" end="571" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="573" end="579" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="581" end="587" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="607" end="617" text="25/07/2002" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="628" end="636" text="75950661" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="654" end="680" text="Centro de Salud Arganzuela" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="724" end="750" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="754" end="761" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="788" end="792" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="874" end="885" text="NC419RHQ290" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T31" start="968" end="979" text="AZ505LYE082" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T32" start="1062" end="1073" text="IQ227ZFD432" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

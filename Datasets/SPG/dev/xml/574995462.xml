@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Valentín Mesa Cruz
+DNI: 37577807Q
+Fecha de nacimiento: 14/12/1950
+Género: M
+Domicilio: Calle del Marqués de Urquijo 48
+Ciudad: Ermua, Córdoba, Andalucía
+Código postal: 14798
+Email: valentin-cruz@ucm.es
+Teléfono fijo: +34 957 00 46 51
+Teléfono móvil: +34 757 35 21 59
+NHC: 8996334
+NASS: 737159522557
+Condición de riesgo: Pintor de Construcción
+
+Datos asistenciales.
+Médico: Dr. Darío Aparicio Aranda. NC 189646969. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/04/2010
+Episodio: 22837416
+Hospital: Hospital Regional Universitario de Málaga
+Matrícula del coche: 4069HLM
+Modelo: Hyundai Elantra
+VIN: VSS8ZH70S6D410478
+
+Informe clínico del paciente:
+Paciente vegetariano de 59 años de edad, acompañado de su tío. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.11.167, con dirección MAC 45:B0:06:2C:79:40. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Valentín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="46" text="Mesa Cruz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="37577807Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="14/12/1950" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="146" text="Calle del Marqués de Urquijo 48" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="160" text="Ermua" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="169" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="180" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="14798" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="229" text="valentin-cruz@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="245" end="261" text="+34 957 00 46 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 757 35 21 59" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="300" end="307" text="8996334" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="314" end="326" text="737159522557" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="348" end="370" text="Pintor de Construcción" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="405" end="426" text="Darío Aparicio Aranda" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="431" end="440" text="189646969" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="442" end="489" text="Investigador Clínico en Enfermedades Digestivas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="491" end="584" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="586" end="615" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="617" end="622" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="624" end="630" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="632" end="638" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="658" end="668" text="10/04/2010" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="679" end="687" text="22837416" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="698" end="739" text="Hospital Regional Universitario de Málaga" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="761" end="768" text="4069HLM" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="798" end="815" text="VSS8ZH70S6D410478" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="856" end="867" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="871" end="878" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="905" end="908" text="tío" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T33" start="1016" end="1033" text="45:B0:06:2C:79:40" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

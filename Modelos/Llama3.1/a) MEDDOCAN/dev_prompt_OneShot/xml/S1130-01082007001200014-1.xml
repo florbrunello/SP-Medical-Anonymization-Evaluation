@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lorena</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Bernabé Ramos</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7324651</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">28 38956749 65</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. Conde de Casal, 19</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28007</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/03/1958</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">57 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">04/06/2015</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cristina</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cuerda</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 23660</TAG>.
+    Informe clínico del paciente: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">57 años</TAG> de edad, en tratamiento farmacológico por depresión e hipertensión arterial, fue encontrada muerta en su domicilio. Cuatro días antes había consultado por dolor abdominal inespecífico en un Servicio de Urgencias, iniciando tratamiento con fármacos antiinflamatorios.
+    Hallazgos de autopsia: aparte de obesidad (IMC <TAG TYPE="OTROS_SUJETO_ASISTENCIA">34,9 kg/m2</TAG>), el único hallazgo significativo fue que la vesícula biliar estaba marcadamente distendida y aumentada de tamaño, conteniendo un gran cálculo biliar (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">4,5 x 2,5 cm</TAG>) impactado en el cuello de la vesícula. La pared de la vesícula estaba engrosada y la mucosa hiperémica con hemorragia focal. No se observó exudado purulento, perforación, abscesos, fístulas o peritonitis. Los conductos cístico y colédoco estaban permeables. El análisis toxicológico detectó <TAG TYPE="OTROS_SUJETO_ASISTENCIA">benzodiazepinas</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">mianserina</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ibuprofeno</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ketoprofeno</TAG> en concentraciones terapéuticas.
+    Hallazgos microscópicos: en las arterias de pequeño calibre, arteriolas y capilares alveolares de los pulmones se identificaron numerosos émbolos biliares positivos con la técnica de Hall. También se identificaron émbolos biliares en el hígado (sinusoides y venas portales), en la mucosa de la vesícula biliar y en el bazo. Otros hallazgos microscópicos de interés fueron la presencia de numerosos trombos de fibrina en las arteriolas y capilares alveolares de los pulmones y en ramas de la vena porta y en sinusoides hepáticos; la existencia de necrosis focal de hepatocitos, leucocitosis en los sinusoides hepáticos y en los pequeños vasos sanguíneos del pulmón; así como la presencia ocasional de émbolos de colesterol en los pulmones. La vesícula biliar mostraba colecistitis gangrenosa. Adheridos a su mucosa se observaron agregados biliares y cristales de colesterol.
+    A la vista de estos hallazgos se estableció como causa de muerte el embolismo biliar en asociación con coagulación intravascular diseminada y probable sepsis.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Cristina Cuerda</TAG>. Unidad de Nutrición. <TAG TYPE="HOSPITAL">Hospital General Universitario Gregorio Marañón</TAG>. <TAG TYPE="CALLE">c/ Doctor Esquerdo, 46</TAG>. <TAG TYPE="TERRITORIO">28007 Madrid</TAG>. E-mail: <TAG TYPE="CORREO_ELECTRONICO">mcuerda.hgugm@salud.madrid.org</TAG>
+  </TEXT>
+</MEDDOCAN>

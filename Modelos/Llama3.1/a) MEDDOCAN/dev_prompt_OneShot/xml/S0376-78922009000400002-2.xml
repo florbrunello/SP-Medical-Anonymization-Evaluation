@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Roberto</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Maeso Quezada</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5875874</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">68 93835967 54</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Averroes, 40</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28007</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/04/1952</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">65 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">23/06/2017</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Cirugía Plástica y Reparadora</TAG>.
+    Episodio: <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">7892563</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lasso</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 54710</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">65 años</TAG> con mediastinitis producida por <TAG TYPE="OTRO_NUMERO_IDENTIF">Stafilococcus aureus</TAG>. Tras cirugía de reconstrucción aórtica con prótesis de <TAG TYPE="OTRO_NUMERO_IDENTIF">Dacron</TAG>®, presentó exposición de la misma a los <TAG TYPE="FECHAS">12 días</TAG> de la intervención, con alto riesgo de diseminación de la infección local y posibilidad de rotura por desecación. Desde que se decidió la apertura de la herida quirúrgica, se hacían lavados con suero fisiológico cada <TAG TYPE="FECHAS">8 horas</TAG> y curas con <TAG TYPE="OTRO_NUMERO_IDENTIF">Sulfadiacina argéntica</TAG>. El paciente precisó intubación continuada desde el día de la intervención, manteniendo estabilidad hemodinámica gracias al uso de drogas vasoactivas.
+    Se decidió realizar restitución de la pared torácica con colgajos de músculo pectoral. Tras legrado de esternón en la línea media, se elaboró una ventana en el extremo superior del mismo, (margen izquierdo), a la altura de las costillas <TAG TYPE="FECHAS">3a y 4a</TAG>, para envolver con el músculo pectoral izquierdo la prótesis aórtica. El músculo pectoral derecho se avanzó sobre el esternón una vez realizadas nuevas osteosíntesis con alambres y posteriormente cierre directo de los colgajos cutáneos. El paciente permaneció en la UCI durante <TAG TYPE="FECHAS">2 días</TAG> con tratamiento antibiótico, y luego fue dado de alta a planta sin incidencias. Dos años después permanece asintomático.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. José María Lasso</TAG>. <TAG TYPE="PROFESION">Jefe de Sección de Microcirugía</TAG>. <TAG TYPE="PROFESION">Cirugía Plástica y Reparadora</TAG>. <TAG TYPE="HOSPITAL">Hospital Gregorio Marañón</TAG>. <TAG TYPE="DIREC_PROT_INTERNET">Área 3400</TAG>. <TAG TYPE="CALLE">Dr Esquerdo 46</TAG>, <TAG TYPE="TERRITORIO">28007</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Nerea Galvez Rodríguez
+DNI: 10581151R
+Fecha de nacimiento: 20/01/1943
+Género: M
+Domicilio: Calle de Moratín 2, 3K
+Ciudad: San Fernando, Valencia, Comunidad Valenciana
+Código postal: 46448
+Email: nerea.rodriguez@outlook.com
+Teléfono fijo: +34 960 04 64 75
+Teléfono móvil: +34 760 73 48 18
+NHC: 4930568
+Condición de riesgo: Pintor de Construcción
+
+Datos asistenciales.
+Médico: Dr. Enrique Tomas Romero. NC 525289785. Investigador Clínico en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/04/1997
+Episodio: 48469515
+Centro de salud: Centro de Salud San Blas
+Matrícula del coche: 3853ERB
+Modelo: Chrysler Pacifica
+VIN: VSDN8MIXXFY574656
+
+Informe clínico del paciente:
+Paciente de ascendencia centroasiática de 54 años de edad, acompañado de su padre. Se realizó un expediente con URL http://example-pharma.org//70652149W. Se registró una sesión de firma biométrica, el código obtenido para revisarla es KV558HDV817. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Nerea" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="50" text="Galvez Rodríguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="10581151R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="20/01/1943" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="141" text="Calle de Moratín 2, 3K" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="162" text="San Fernando" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="172" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="194" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="46448" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="250" text="nerea.rodriguez@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="266" end="282" text="+34 960 04 64 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="299" end="315" text="+34 760 73 48 18" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="321" end="328" text="4930568" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="350" end="372" text="Pintor de Construcción" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="407" end="427" text="Enrique Tomas Romero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="432" end="441" text="525289785" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="443" end="489" text="Investigador Clínico en Insuficiencia Cardíaca" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="491" end="577" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="579" end="608" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="610" end="615" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="617" end="623" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="625" end="631" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="651" end="661" text="17/04/1997" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="672" end="680" text="48469515" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="698" end="722" text="Centro de Salud San Blas" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="744" end="751" text="3853ERB" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="783" end="800" text="VSDN8MIXXFY574656" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="844" end="870" text="ascendencia centroasiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="874" end="881" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="908" end="913" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="948" end="969" text="http://example-pharma" TYPE="URL_WEB" comment=""/>
+        <ID id="T33" start="1067" end="1078" text="KV558HDV817" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Emilia Quintana Navarro
+DNI: 39283859C
+Fecha de nacimiento: 25/01/1954
+Género: M
+Domicilio: Calle de la Fe 95, 9L
+Ciudad: Lorca, Valencia, Comunidad Valenciana
+Código postal: 46120
+Email: emiliaquintana.navarro460@isciii.es
+Teléfono fijo: +34 960 23 84 60
+Teléfono móvil: +34 760 66 88 66
+NHC: 5476532
+NASS: 071508245032
+Condición de riesgo: Pintor de Construcción
+
+Datos asistenciales.
+Médico: Dr. Francisco Manuel Palacios Cabrera. NC 540746062. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/05/2007
+Episodio: 17660956
+Hospital: Hospital Universitario Nuestra Señora de Candelaria
+
+Informe clínico del paciente:
+Paciente vegano de 53 años de edad, acompañado de su hijo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Emilia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="51" text="Quintana Navarro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="39283859C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="25/01/1954" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="141" text="Calle de la Fe 95, 9L" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="155" text="Lorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="165" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="167" end="187" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="46120" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="251" text="emiliaquintana.navarro460@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="267" end="283" text="+34 960 23 84 60" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="300" end="316" text="+34 760 66 88 66" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="322" end="329" text="5476532" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="336" end="348" text="071508245032" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="370" end="392" text="Pintor de Construcción" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="427" end="460" text="Francisco Manuel Palacios Cabrera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="465" end="474" text="540746062" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="476" end="520" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="522" end="608" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="610" end="639" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="641" end="646" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="648" end="654" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="656" end="662" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="682" end="692" text="09/05/2007" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="703" end="711" text="17660956" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="722" end="773" text="Hospital Universitario Nuestra Señora de Candelaria" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="814" end="820" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="824" end="831" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="858" end="862" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

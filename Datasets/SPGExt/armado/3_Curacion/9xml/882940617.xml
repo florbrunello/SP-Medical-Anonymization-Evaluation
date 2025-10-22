@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan Miguel Gómez González</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">64804836J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/04/1962</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Atocha 58</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Aranda de Duero, León, Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">24587</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">juanmiguel_gonzalez@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 987 61 05 44</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 787 95 76 86</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7675671</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">796145935172</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Pintor de Construcción</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Víctor Manuel López Crespo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">455976563</TAG>. <TAG TYPE="PROFESION">Neuropsicólogo Clínico Investigador</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/08/1963</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">57382960</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Arganzuela</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia árabe</TAG> de un año de edad, acompañado de su abuela. Presenta una temperatura corporal de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">37,5°C</TAG>, sin signos de fiebre ni escalofríos. La exploración física revela un estado general bueno, sin signos de malestar ni dolor. La exploración neurológica es normal, sin signos de alteración en la conciencia, la orientación ni la coordinación.
+    Antecedentes:
+    El paciente tiene un antecedente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alergia a la leche de vaca</TAG>, por lo que se le ha sustituido por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">leche de soja</TAG> en su dieta. No tiene antecedentes de enfermedades crónicas ni de tratamiento médico actual.
+    Evolución y comentarios:
+    El paciente ha estado en observación durante <TAG TYPE="OTROS_SUJETO_ASISTENCIA">24 horas</TAG>, sin presentar signos de complicación ni deterioro. Se le ha realizado un análisis de sangre, que muestra resultados normales. Se le ha prescrito un tratamiento de mantenimiento con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antibióticos</TAG>, por medida de precaución.
+    Remitido por:
+    Se le ha remitido al paciente a su domicilio, con instrucciones de seguir el tratamiento prescrito y realizar una revisión en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">7 días</TAG>. Se le ha proporcionado información sobre la importancia de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">higiene</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">prevención de infecciones</TAG>.
+  </TEXT>
+</MEDDOCAN>

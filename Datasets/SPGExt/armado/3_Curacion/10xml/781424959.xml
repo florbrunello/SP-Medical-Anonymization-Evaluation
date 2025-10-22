@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lara Heredia Rubio</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">94087329X</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">18/11/1949</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Rollo 79</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Guadix, Teruel, Aragón</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">44287</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">lara.heredia-rubio@protonmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 978 12 64 87</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 678 18 06 62</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4069146</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">932298415797</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">No especificada</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Albert</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Diez Mora</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 806880457</TAG>. <TAG TYPE="PROFESION">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/06/1966</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Río Hortega</TAG>.
+    Informe clínico del paciente:
+    Paciente no fumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">16 años</TAG> de edad, que acude al servicio de urgencias con síntomas de...
+    dolor abdominal crónico y pérdida de peso en los últimos meses. La exploración física revela: temperatura <TAG TYPE="FECHAS">37,5°C</TAG>; presión arterial <TAG TYPE="FECHAS">120/80 mmHg</TAG>; frecuencia cardíaca <TAG TYPE="FECHAS">80 lpm</TAG>. Se encuentra consciente, orientado, sin dolor y con buen estado de nutrición e hidratación. En la exploración abdominal se aprecia una masa abdominal palpable en la región epigástrica.
+    Los datos analíticos muestran los siguientes resultados: hemograma normal; bioquímica: glucosa <TAG TYPE="FECHAS">90 mg/dl</TAG>; urea <TAG TYPE="FECHAS">15 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">0,8 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">140 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">4,5 mEq/l</TAG>. Se solicitan pruebas de imagen (ecografía abdominal) que revelan una masa abdominal en la región epigástrica con características de un tumor.
+    Con el diagnóstico de tumor abdominal, se instaura tratamiento quirúrgico y se refiere al paciente al servicio de oncología para seguir su seguimiento y tratamiento.
+    Evolución y comentarios:
+    El paciente se somete a una cirugía abdominal y se le diagnostica un tumor de células gastrointestinales. Se le comienza un tratamiento con quimioterapia y radioterapia para tratar de controlar la enfermedad. El paciente se encuentra en una evolución estable y sigue siendo seguido por el servicio de oncología.
+    Remitido por:
+    Se remite al paciente al servicio de oncología para seguir su seguimiento y tratamiento.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Pol Conde Velasco
+DNI: 65295328F
+Fecha de nacimiento: 07/08/1947
+Género: H
+Domicilio: Calle de Piamonte 74
+Ciudad: Torrejón de Ardoz, La Coruña, Galicia
+Código postal: 15044
+Email: conde657@hotmail.com
+Teléfono fijo: +34 981 30 89 42
+Teléfono móvil: +34 781 51 83 16
+NHC: 4160106
+NASS: 475519357793
+
+Datos asistenciales.
+Médico: Dra. Celia Espinosa Palacios. NC 658105003. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/02/1954
+Centro de salud: Centro de Salud Carabanchel
+
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 6 años de edad, acompañado de su madre. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es DD447WZJ877. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Pol" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="45" text="Conde Velasco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="65295328F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="07/08/1947" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="134" text="Calle de Piamonte 74" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="143" end="160" text="Torrejón de Ardoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="171" text="La Coruña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="180" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="15044" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="229" text="conde657@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="245" end="261" text="+34 981 30 89 42" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 781 51 83 16" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="300" end="307" text="4160106" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="314" end="326" text="475519357793" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="607" end="617" text="18/02/1954" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="635" end="662" text="Centro de Salud Carabanchel" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T18" start="706" end="736" text="ascendencia africana del norte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="740" end="746" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="773" end="778" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T21" start="861" end="872" text="DD447WZJ877" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

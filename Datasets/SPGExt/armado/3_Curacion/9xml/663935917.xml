@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Valentín Beltran Padilla</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">17199268Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/08/1996</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle Gran Vía 13, 8D</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Tarragona</TAG>, <TAG TYPE="TERRITORIO">Sevilla</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">41865</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">valentin.beltran-padilla520@ioba.med.uva.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 52 92 04</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 754 34 04 48</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9951096</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">755065481723</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Laboratorio</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Josep Carmona Román</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 165971978</TAG>. <TAG TYPE="PROFESION">Psiquiatra</TAG> <TAG TYPE="PROFESION">Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/09/2023</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">79365274</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Coslada</TAG>
+    Informe clínico del paciente:
+    Paciente exfumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">27 años</TAG> de edad, con antecedentes de consumo de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cannabis</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alcohol</TAG> en la adolescencia. Presenta una evolución clínica de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">6 meses</TAG> con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad generalizada</TAG>, dificultad para conciliar el sueño y aumento de la frecuencia cardíaca. En la exploración física, se observa una tensión arterial de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120/80 mmHg</TAG>, frecuencia cardíaca de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">100 lpm</TAG> y temperatura corporal de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">36,5°C</TAG>. El paciente se encuentra consciente y orientado, con buen estado de nutrición e hidratación. Se solicitan análisis de sangre para evaluar la función hepática y renal, así como una ecografía abdominal para evaluar la función hepática.
+    Evolución y comentarios:
+    El paciente ha estado recibiendo tratamiento con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sertralina</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">50 mg/día</TAG> durante <TAG TYPE="OTROS_SUJETO_ASISTENCIA">4 semanas</TAG>, con una respuesta parcial a los síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG>. Se decide aumentar la dosis a <TAG TYPE="OTROS_SUJETO_ASISTENCIA">100 mg/día</TAG> y agregar un antidepresivo no estimulante para mejorar la calidad del sueño. Se programan sesiones de terapia cognitivo-conductual para abordar los patrones de pensamiento y comportamiento que contribuyen a la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG>.
+    Remitido por:
+    Se reenvía al paciente al <TAG TYPE="PROFESION">Servicio de Psiquiatría</TAG> para seguimiento y ajuste del tratamiento. Se solicita una cita para una revisión en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">2 semanas</TAG>.
+  </TEXT>
+</MEDDOCAN>

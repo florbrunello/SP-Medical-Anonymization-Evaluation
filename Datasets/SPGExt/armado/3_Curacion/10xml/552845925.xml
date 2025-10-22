@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Víctor Manuel Rivero Flores</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">56605065H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/06/1936</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Eduardo Dato 22</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Béjar, León, Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">24584</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">riveroflores@ioba.med.uva.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 987 26 01 31</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 787 26 11 84</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9919438</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">208817886050</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Raúl</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Moya Gómez</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 721097702</TAG>. <TAG TYPE="PROFESION">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/03/1985</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Pozuelo de Alarcón</TAG>
+    Informe clínico del paciente:
+    El paciente, <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Víctor Manuel Rivero Flores</TAG>, es un hombre de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">48 años</TAG> de edad, que fue ingresado en el <TAG TYPE="CENTRO_SALUD">Centro de Salud Pozuelo de Alarcón</TAG> el día <TAG TYPE="FECHAS">17 de marzo de 1985</TAG>. El paciente tiene una discapacidad física significativa y es acompañado por su marido.
+    La historia clínica del paciente es la siguiente: el paciente ha sido diagnosticado con una enfermedad crónica que afecta su sistema inmunológico. Ha tenido varias infecciones en el pasado, incluyendo una infección grave por una bacteria resistente a los antibióticos. En el momento del ingreso, el paciente presentaba síntomas de infección, incluyendo fiebre, dolor de cabeza y malestar general.
+    La exploración física reveló: temperatura corporal de 38,5°C, frecuencia cardíaca de 120 latidos por minuto, presión arterial de 140/90 mmHg, y una exploración pulmonar normal. El paciente estaba consciente y orientado, pero presentaba signos de malestar y dolor.
+    Se realizaron varias pruebas diagnósticas, incluyendo análisis de sangre, cultivo de orina y radiografías de tórax y abdomen. Los resultados de las pruebas mostraron una infección grave por una bacteria resistente a los antibióticos, que se estaba extendiendo a otros órganos del cuerpo.
+    El tratamiento iniciado fue un antibiótico de amplio espectro, que se administró por vía intravenosa. El paciente también recibió un tratamiento de soporte, incluyendo fluidos y oxígeno. En las primeras 24 horas del tratamiento, el paciente mostró una mejora significativa en sus síntomas, pero en las siguientes 48 horas, su condición empeoró y se desarrollaron signos de insuficiencia renal y cardíaca.
+    La evolución del paciente fue complicada y requirió la intervención de varios especialistas. El paciente fue sometido a un tratamiento de soporte intensivo, que incluyó la administración de fluidos y medicamentos para mejorar la función renal y cardíaca. A pesar de los esfuerzos del equipo médico, el paciente no mejoró y falleció el día <TAG TYPE="FECHAS">25 de marzo de 1985</TAG>.
+    La causa de la muerte del paciente fue la infección grave por una bacteria resistente a los antibióticos, que se extendió a otros órganos del cuerpo y causó insuficiencia renal y cardíaca.
+  </TEXT>
+</MEDDOCAN>

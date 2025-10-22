@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Albert Mesa Varela
+DNI: 17653659D
+Fecha de nacimiento: 22/02/1939
+Género: H
+Domicilio: Calle de la Cabeza 37
+Ciudad: Castellón de la Plana, Córdoba, Andalucía
+Código postal: 14632
+Email: albert@salud.madrid.org
+Teléfono fijo: +34 957 41 99 96
+Teléfono móvil: +34 657 84 23 05
+NHC: 9976322
+Condición de riesgo: Trabajador de Mantenimiento
+
+Datos asistenciales.
+Médico: Dr. Miguel Peña Blazquez. NC 906971153. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/01/2006
+Episodio: 67380414
+Hospital: Hospital Universitario Central de Asturias
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena americana de 66 años de edad, acompañado de su nuera. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.205.188, con dirección MAC B0:86:11:E7:C7:0F. Se registró una sesión de firma biométrica, el código obtenido para revisarla es RI671GQL916. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Albert" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="46" text="Mesa Varela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="17653659D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="22/02/1939" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="136" text="Calle de la Cabeza 37" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="166" text="Castellón de la Plana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="175" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="186" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="14632" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="238" text="albert@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 957 41 99 96" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 657 84 23 05" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="9976322" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="338" end="365" text="Trabajador de Mantenimiento" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="400" end="420" text="Miguel Peña Blazquez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="425" end="434" text="906971153" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="436" end="471" text="Investigador Principal en Parkinson" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="473" end="562" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="564" end="593" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="595" end="600" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="602" end="608" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="610" end="616" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="636" end="646" text="28/01/2006" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="657" end="665" text="67380414" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="676" end="718" text="Hospital Universitario Central de Asturias" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="762" end="792" text="ascendencia indígena americana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="796" end="803" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="830" end="835" text="nuera" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="944" end="961" text="B0:86:11:E7:C7:0F" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <ID id="T31" start="1044" end="1055" text="RI671GQL916" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

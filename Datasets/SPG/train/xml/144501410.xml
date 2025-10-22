@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Antonio Jesús Ramos Castro
+DNI: 35596181R
+Fecha de nacimiento: 17/04/1939
+Género: H
+Domicilio: Calle de Narváez 95, 8O
+Ciudad: Almería, Málaga, Andalucía
+Código postal: 29072
+Email: castro609@ciberehd.org
+Teléfono fijo: +34 951 71 14 75
+Teléfono móvil: +34 751 03 43 45
+NHC: 2255629
+NASS: 770282201535
+Condición de riesgo: Inspector de Seguridad Minera
+
+Datos asistenciales.
+Médico: Dra. Susana Díaz Paredes. NC 979479479. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 14/07/2000
+Episodio: 82215429
+Hospital: Hospital Universitario Príncipe de Asturias
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 61 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.160.49, con dirección MAC 74:73:8A:51:60:FF. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es RC051XHH304. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="Antonio Jesús" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="54" text="Ramos Castro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="35596181R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="17/04/1939" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="111" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="146" text="Calle de Narváez 95, 8O" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="162" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="170" text="Málaga" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="181" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="29072" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="232" text="castro609@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 951 71 14 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 751 03 43 45" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="2255629" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="770282201535" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="351" end="380" text="Inspector de Seguridad Minera" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="624" end="634" text="14/07/2000" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="645" end="653" text="82215429" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="664" end="707" text="Hospital Universitario Príncipe de Asturias" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="751" end="779" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="783" end="790" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="906" end="923" text="74:73:8A:51:60:FF" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <ID id="T23" start="1011" end="1022" text="RC051XHH304" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

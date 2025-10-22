@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Eva</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Montoya Bravo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">81285838C</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/01/1971</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de los Embajadores 59</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Aranda de Duero</TAG>, <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">34009</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">eva1865@uca.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 21 96 12</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 679 21 60 41</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3230880</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">576975368297</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Guardia de Seguridad</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Catalina Márquez Martín</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">412822056</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">06/08/1978</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">12267483</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitari Vall d'Hebron</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6712NOW</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Toyota Corolla</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSJTMKM8T5T051732</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Emilio</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Salgado Ulloa</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8947356</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">78 03465063 30</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">C/ Maspalomas, 13</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Getafe</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28905</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/02/1972</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/05/2018</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">7802456</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sara</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gómez Rodríguez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 98320</TAG>.
+    Historia Actual: paciente varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG> sin antecedentes de interés, que acude a consulta por presentar pérdida de fuerza brusca en los miembros inferiores. Este cuadro se presenta de manera reiterada y episódica, autolimitándose en unas horas. Generalmente afecta a los miembros inferiores, aunque lo puede hacer de manera generalizada. Refiere episodios previos que han ido aumentando en frecuencia e intensidad en el último año. Durante el interrogatorio dirigido refiere pérdida ponderal de 20 kilos en los últimos cuatro meses sin disminución de la ingesta, temblor ocasional, irritabilidad y nerviosismo.
+    Exploración física: En la exploración física no se detectó disminución de fuerza en los miembros ni alteraciones en los reflejos osteotendinosos. Presentaba una marcha estable no patológica, sin dismetrías. Según refería, había recuperado progresivamente la fuerza muscular hacía unos minutos. Se descubrió un temblor fino distal, sin exoftalmos. La frecuencia cardiaca era de 120 latidos por minuto, presentando a la palpación un tiroides de tamaño aumentado sin palparse nódulos. 
+    Pruebas complementarias: Se realizó una analítica de urgencia en la que se detectó: creatinina <TAG TYPE="MEDIDA">0,59 mg/dl</TAG> (<TAG TYPE="MEDIDA">0,60-1,35</TAG>), sodio <TAG TYPE="MEDIDA">142 mEq/L</TAG> (<TAG TYPE="MEDIDA">135-145</TAG>), potasio <TAG TYPE="MEDIDA">2,07 mEq/l</TAG> (<TAG TYPE="MEDIDA">3,5-5</TAG>), magnesio <TAG TYPE="MEDIDA">1,64 mg/dl</TAG> (<TAG TYPE="MEDIDA">1,7-2,5</TAG>), calcio <TAG TYPE="MEDIDA">8,01 mg/dl</TAG> (<TAG TYPE="MEDIDA">8,50-10,50</TAG>), calcio iónico <TAG TYPE="MEDIDA">3,95 mg/dl</TAG> (<TAG TYPE="MEDIDA">4,1-5,3</TAG>), proteínas totales <TAG TYPE="MEDIDA">6,47 mg/dl</TAG> (<TAG TYPE="MEDIDA">6,00-8,50</TAG>). Un cuadro de pérdida de fuerza coincidiendo con hipopotasemia nos orientó hacia el diagnóstico de parálisis periódica. Dada la presencia de semiología característica de patología tiroidea, se solicitó un estudio hormonal, hallándose un hipertiroidismo primario de origen autoinmune con los siguientes parámetros: T4L <TAG TYPE="MEDIDA">4,07 ng/dl</TAG> (<TAG TYPE="MEDIDA">0,9-1,7</TAG>), TSH < <TAG TYPE="MEDIDA">0,008 mcgU/l</TAG> (<TAG TYPE="MEDIDA">0,4-4,8</TAG>), T3L <TAG TYPE="MEDIDA">15,58 pg/ml</TAG> (<TAG TYPE="MEDIDA">2,3-4,2</TAG>), anticuerpos antitiroglobulina <TAG TYPE="MEDIDA">62,7 UI/ml</TAG> (<TAG TYPE="MEDIDA">0-60</TAG>), anticuerpos antiperoxidasa <TAG TYPE="MEDIDA">1269 UI/ml</TAG> (<TAG TYPE="MEDIDA">0-60</TAG>), TSI <TAG TYPE="MEDIDA">5,7 UI/l</TAG> (<TAG TYPE="MEDIDA">0-1,75</TAG>). La vitamina D y PTH fueron normales (<TAG TYPE="MEDIDA">28 ng/mL</TAG> [<TAG TYPE="MEDIDA">20-55</TAG>] y <TAG TYPE="MEDIDA">26 pg/mL</TAG> [<TAG TYPE="MEDIDA">11-80</TAG>], respectivamente). La primera prueba complementaria que debemos solicitar ante un hipertiroidismo es una gammagrafía tiroidea, que en nuestro caso mostraba una hipercaptación difusa. Todos estos datos nos orientaban a una enfermedad de Graves como causante del cuadro. En el momento agudo se inicia tratamiento con <TAG TYPE="MEDIDA">40 mEq</TAG> de potasio intravenoso consiguiendo la normalización de las cifras (<TAG TYPE="MEDIDA">4,1 mEq/L</TAG>), y de forma domiciliaria se propone propranolol <TAG TYPE="MEDIDA">10 mg</TAG> y metimazol <TAG TYPE="MEDIDA">30 mg</TAG> diarios con disminución de dosis progresiva. 
+    Evolución: En el momento actual mantiene tratamiento con metimazol <TAG TYPE="MEDIDA">5 mg</TAG> al día con remisión parcial de los síntomas y función tiroidea normal, sin haber presentado nuevos episodios de parálisis.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sara</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gómez Rodríguez</TAG> <TAG TYPE="HOSPITAL">Hospital Universitario de Getafe</TAG> <TAG TYPE="CALLE">Ctra. de Toledo, Km. 12,500</TAG> <TAG TYPE="TERRITORIO">28905</TAG> <TAG TYPE="TERRITORIO">Getafe</TAG> (<TAG TYPE="PAIS">Madrid</TAG>). <TAG TYPE="CORREO_ELECTRONICO">patsara8@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

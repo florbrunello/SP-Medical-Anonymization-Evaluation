@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Noa Castaño Conde
+DNI: 69668668N
+Fecha de nacimiento: 17/08/2009
+Género: F
+Domicilio: Calle de la Libertad 8
+Ciudad: MelillaHuesca, Ibiza, Islas Baleares
+Código postal: 07254
+Email: castano.conde@ub.edu
+Teléfono fijo: +34 971 03 62 38
+Teléfono móvil: +34 671 55 53 14
+NHC: 5702764
+NASS: 040866424983
+
+Datos asistenciales.
+Médico: Dr. Omar Tomas Vidal. NC 245073831. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/03/2013
+Episodio: 13272199
+Hospital: Complejo Hospitalario Universitario de Lugo
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 3 años de edad, acompañado de su tía. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.195.133, con dirección MAC B0:07:0B:87:AC:69. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es QT214GKR895. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Noa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="45" text="Castaño Conde" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="69668668N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="17/08/2009" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="136" text="Calle de la Libertad 8" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="158" text="MelillaHuesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="165" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="167" end="181" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="07254" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="230" text="castano.conde@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="246" end="262" text="+34 971 03 62 38" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="279" end="295" text="+34 671 55 53 14" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="301" end="308" text="5702764" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="315" end="327" text="040866424983" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="362" end="378" text="Omar Tomas Vidal" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="383" end="392" text="245073831" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="394" end="433" text="Residente de 4° año en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="435" end="519" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="521" end="550" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="552" end="557" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="559" end="565" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="567" end="573" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="593" end="603" text="15/03/2013" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="614" end="622" text="13272199" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="633" end="676" text="Complejo Hospitalario Universitario de Lugo" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="720" end="746" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="750" end="756" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="783" end="786" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="895" end="912" text="B0:07:0B:87:AC:69" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <ID id="T31" start="996" end="1007" text="QT214GKR895" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

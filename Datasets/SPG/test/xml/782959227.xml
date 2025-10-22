@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Lidia Morales Galan
+DNI: 45148863R
+Fecha de nacimiento: 02/04/1942
+Género: F
+Domicilio: Calle de Ibiza 76, 5L
+Ciudad: Badajoz, Salamanca, Castilla y León
+Código postal: 37746
+Email: lidia_moralesgalan@yahoo.com
+Teléfono fijo: +34 923 09 41 45
+Teléfono móvil: +34 723 18 80 82
+NHC: 7937596
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dr. Joaquín Serrano Hernández. NC 717384222. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 07/02/1974
+Episodio: 38905088
+Centro de salud: Centro de Salud Torrejón de Ardoz
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 31 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Lidia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Morales Galan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="45148863R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="02/04/1942" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="137" text="Calle de Ibiza 76, 5L" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="153" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="164" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="181" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="37746" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="238" text="lidia_moralesgalan@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 923 09 41 45" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 723 18 80 82" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="7937596" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="338" end="346" text="Granjero" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="381" end="406" text="Joaquín Serrano Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="411" end="420" text="717384222" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="422" end="465" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="467" end="525" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="527" end="551" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="553" end="558" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="560" end="570" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="572" end="578" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="598" end="608" text="07/02/1974" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="619" end="627" text="38905088" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="645" end="678" text="Centro de Salud Torrejón de Ardoz" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="722" end="743" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="747" end="754" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ivan</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Renedo Quevedo</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5674805</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Paseo de las Americas, 34</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28032</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/08/2013</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 meses</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">30/11/2013</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García Iglesias</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 30257</TAG>.
+    Informe clínico del paciente: Niño de tres meses que presenta eritema y edema en la hemicara derecha, y el brazo y la mano homolaterales.
+    Presenta una lesión en el dorso de la mano derecha desde que nació, que se ha intensificado coincidiendo con el enrojecimiento generalizado. Se trata de una placa eritematosa de tonalidad amarillenta-amarronada de 25x18 mm de diámetro, con una zona central más indurada de 10x15 mm.
+    Es citado en la consulta de Dermatología para la valoración de un posible mastocitoma, y allí se confirma el diagnóstico y se recomienda tratamiento conservador.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García Iglesias</TAG> <TAG TYPE="CORREO_ELECTRONICO">fgicadiz@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

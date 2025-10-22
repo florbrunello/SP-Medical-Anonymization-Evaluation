@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gema</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Castro Ruiz</TAG>.
+  DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">52899090X</TAG>.
+  Fecha de nacimiento: <TAG TYPE="FECHAS">16/02/1990</TAG>.
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+  Domicilio: <TAG TYPE="CALLE">Calle de San Millán 4, 8A</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Alcázar de San Juan</TAG>, <TAG TYPE="TERRITORIO">Valladolid</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+  Código postal: <TAG TYPE="TERRITORIO">47224</TAG>.
+  Email: <TAG TYPE="CORREO_ELECTRONICO">gema464@protonmail.com</TAG>.
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 983 19 91 80</TAG>.
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 783 03 86 21</TAG>.
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8260300</TAG>.
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">929191855912</TAG>.
+  Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Operador de Maquinaria Agrícola</TAG>.
+  Datos asistenciales.
+  Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Concepción</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Soto Merino</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">809841125</TAG>. <TAG TYPE="PROFESION">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">10/11/2012</TAG>.
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">00243015</TAG>.
+  Hospital: <TAG TYPE="HOSPITAL">Hospital General Universitario Reina Sofía</TAG>.
+  Informe clínico del paciente:
+  Paciente consumidor de alcohol de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22 años</TAG> de edad, con antecedentes de episodios de intoxicación alcohólica en el pasado. Se presenta con síntomas de ansiedad y depresión, con dificultades para conciliar el sueño y una tendencia a la automedicación con alcohol.
+  La exploración física revela: Tª <TAG TYPE="FECHAS">36,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. Se encuentra consciente, orientado, pero con evidentes signos de abstinencia alcohólica, incluyendo sudoración y temblores. No se detectan signos de infección o lesiones.
+  Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">14,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">8.500/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">15 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">95%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">90 mg/dl</TAG>; urea <TAG TYPE="FECHAS">20 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,0 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">140 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,8 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">15 U/l</TAG>; GPT <TAG TYPE="FECHAS">20 U/l</TAG>; GGT <TAG TYPE="FECHAS">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">120 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal.
+  Se solicitan pruebas de imagen (Ecografía hepática y Ecografía renal) y se instaura un tratamiento de abstinencia alcohólica, incluyendo medicación para la ansiedad y la depresión. El paciente muestra una respuesta favorable al tratamiento y se le prescribe una terapia de rehabilitación para abordar sus problemas de consumo de alcohol.
+  Evolución y comentarios:
+  El paciente ha estado bajo seguimiento durante <TAG TYPE="FECHAS">6 meses</TAG> y ha logrado mantenerse libre de consumo de alcohol. Ha participado activamente en la terapia de rehabilitación y ha mostrado una mejora significativa en su calidad de vida.
+  Remitido por:
+  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Concepción</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Soto Merino</TAG>, <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+  </MEDDOCAN>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ignacio Cortés Silva
+DNI: 12596676J
+Fecha de nacimiento: 24/08/2003
+Género: Varón
+Domicilio: Calle de Arganzuela 38
+Ciudad: Vigo, Valencia, Comunidad Valenciana
+Código postal: 46176
+Email: cortes-silva@protonmail.com
+Teléfono fijo: +34 960 92 30 66
+FAX: +34 960 96 32 85
+NHC: 8667250
+NASS: 235931208140
+Condición de riesgo: Trabajador de Sanitización
+
+Datos asistenciales.
+Médico: Dra. Ainhoa Román Camacho. NC 154396748. Neuropsicóloga Clínica Investigadora. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/07/2004
+Centro de salud: Centro de Salud Ronda
+Matrícula del coche: 9864HXS
+Modelo: Tesla Model 3
+VIN: VSM3QFDQ3ED115676
+
+Informe clínico del paciente:
+Paciente vegetariano de 10 meses de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Ignacio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Cortés Silva" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="12596676J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="24/08/2003" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="143" text="Calle de Arganzuela 38" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="156" text="Vigo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="166" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="188" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="46176" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="244" text="cortes-silva@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 960 92 30 66" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 960 96 32 85" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="304" end="311" text="8667250" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="318" end="330" text="235931208140" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="352" end="378" text="Trabajador de Sanitización" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="632" end="642" text="07/07/2004" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="660" end="681" text="Centro de Salud Ronda" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="703" end="710" text="9864HXS" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="738" end="755" text="VSM3QFDQ3ED115676" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="796" end="807" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="811" end="819" text="10 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="846" end="852" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

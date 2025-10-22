@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Isabel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alonso Abad</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">24108511A</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/01/1969</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Prado 28</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">San Vicente del Raspeig</TAG>, <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">37157</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">alonso_abad52@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 82 97 28</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 623 28 07 26</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1906896</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">250456451500</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Limpiador</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mohamed Moya Peña</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">890514913</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/06/1977</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">24717729</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Regional Universitario de Málaga</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia del medio oriente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">WD711TPE157</TAG>.
+  </TEXT>
+</MEDDOCAN>

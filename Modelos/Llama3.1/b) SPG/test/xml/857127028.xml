@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Nicolás</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Galan Rivera</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">97555800N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/04/2000</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Ferraz 44</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Yecla</TAG>, <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">34673</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">29pFpI991418@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 68 66 41</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 779 45 71 69</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4140169</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">534908467763</TAG>
+    Condición de riesgo: 
+    <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia indígena centroamericana</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lourdes Guillen Montero</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">408364027</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/09/2003</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">01728100</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Sur</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7716JEJ</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Honda Civic</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSR0ZT8DRMZ124918</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia indígena centroamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermano</TAG>. Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">http://example-cardiology.com//25966586E</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Elena</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Moya López</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">64442651D</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/11/1958</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del León 93, 6A</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Teruel</TAG>, <TAG TYPE="TERRITORIO">Álava</TAG>, <TAG TYPE="TERRITORIO">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">01982</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">lopez@ciberisciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 945 16 69 51</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 745 51 16 25</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2645536</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">144063284518</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Microbiólogo</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Victoria Macias Espinosa</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">464152117</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">04/07/2020</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">17389152</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuencarral</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática del sudeste</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">61 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">nuera</TAG>. Se registró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP</TAG> (<TAG TYPE="DIREC_PROT_INTERNET">192.168.203.49</TAG>), con <TAG TYPE="DIREC_PROT_INTERNET">dirección MAC</TAG> (<TAG TYPE="DIREC_PROT_INTERNET">B4:A1:71:D3:0F:E5</TAG>). Se realizó un <TAG TYPE="URL_WEB">expediente con URL</TAG> (<TAG TYPE="URL_WEB">http://example-hospital.org//32339937J</TAG>).
+  </TEXT>
+</MEDDOCAN>

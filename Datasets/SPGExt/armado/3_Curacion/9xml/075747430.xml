@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Clara</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Soto Ferrer</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">56185062H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/12/1975</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Luna 55</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Santander</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">18939</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">clara-soto1765@uca.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 88 24 20</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 658 90 60 43</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2190784</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">728559860263</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Conductor de Camión</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Laia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Segura Paredes</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 937127912</TAG>. <TAG TYPE="PROFESION">Neuróloga Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">02/02/1992</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">21246782</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Oeste</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">4982EAA</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Toyota RAV4</TAG>
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSVKX1P0GRP335462</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">47 años</TAG> de edad, acompañado de su madre. Se presenta con un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor lumbar crónico</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fatiga generalizada</TAG>. La exploración física revela: Tª <TAG TYPE="OTROS_SUJETO_ASISTENCIA">36,5 C</TAG>; T.A: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120/80 mmHg</TAG>; Fc: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">80 lpm</TAG>. Se encuentra consciente, orientado, sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sudoración ni fiebre</TAG>. En cabeza y cuello no se palpan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">adenopatías ni bocio</TAG>. Auscultación cardíaca rítmica, sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">soplos ni roces</TAG>. Auscultación pulmonar con conservación del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">murmurio vesicular</TAG>. Abdomen blando, depresible, sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">masas ni megalias</TAG>. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="OTROS_SUJETO_ASISTENCIA">13,5 g/dl</TAG>; leucocitos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">7.500/mm3</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">neutrófilos 60%</TAG>); plaquetas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">250.000/mm3</TAG>. VSG: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">10 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90%</TAG>; TTPA <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90 mg/dl</TAG>; urea <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 mg/dl</TAG>; creatinina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">1,2 mg/dl</TAG>; sodio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">140 mEq/l</TAG>; potasio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3,5 mEq/l</TAG>; GOT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">15 U/l</TAG>; GPT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 U/l</TAG>; GGT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120 U/l</TAG>; calcio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8,5 mg/dl</TAG>. Orina: sedimento normal. Se solicitan estudios de imágenes (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">Rx lumbar</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ecografía abdominal</TAG>) que no evidencian patología significativa. Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor lumbar crónico</TAG> se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo, fisioterapia y medicación antiinflamatoria</TAG>). El paciente mejora significativamente de su cuadro tras una semana de tratamiento.
+  </TEXT>
+</MEDDOCAN>

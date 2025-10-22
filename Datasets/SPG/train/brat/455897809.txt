@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Julia Campos Jiménez
+DNI: 12490499G
+Fecha de nacimiento: 21/09/1949
+Género: F
+Domicilio: Calle de Jesús y María 6, 10K
+Ciudad: Alcobendas, Guipúzcoa, Pais Vasco
+Código postal: 20599
+Email: julia.jimenez909@ub.edu
+Teléfono fijo: +34 943 92 59 67
+Teléfono móvil: +34 743 53 83 45
+NHC: 1671645
+NASS: 998580827520
+
+Datos asistenciales.
+Médico: Dra. Encarnación Conde Bravo. NC 186957701. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/08/2000
+Episodio: 47853159
+Hospital: Hospital Universitario de Gran Canaria Dr. Negrín
+Matrícula del coche: 7910YUF
+Modelo: Ram 1500
+VIN: VSCF8CRZTBN153562
+
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 50 años de edad. Se realizó un expediente con URL http://example-medical.edu//86287795C. El servidor para envío de información desde cual el usuario se comunica es smtp://example-medical.edu. 

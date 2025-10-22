@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Nuria Padilla Valero
+DNI: 78649432N
+Fecha de nacimiento: 28/10/1984
+Género: F
+Domicilio: Calle de Bravo Murillo 53
+Ciudad: Marbella, Lugo, Galicia
+Código postal: 27984
+Email: nuria_valero@outlook.com
+Teléfono fijo: +34 982 90 12 32
+FAX: +34 982 90 11 15
+NHC: 5260079
+NASS: 318087188292
+Condición de riesgo: Inspector de Seguridad Minera
+
+Datos asistenciales.
+Médico: Dr. Juan Ramón Velasco Lorenzo. NC 485498658. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 75810585
+Hospital: Hospital Regional Universitario de Málaga
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 40 años de edad. Se registró una sesión de huella dactilar, el código obtenido para revisarla es ZA576LFV165. Se registró una sesión de firma biométrica, el código obtenido para revisarla es YA484WVJ985. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Nuria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Padilla Valero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="78649432N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="28/10/1984" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="142" text="Calle de Bravo Murillo 53" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="159" text="Marbella" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="165" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="167" end="174" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="27984" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="227" text="nuria_valero@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="243" end="259" text="+34 982 90 12 32" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="265" end="281" text="+34 982 90 11 15" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="287" end="294" text="5260079" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="301" end="313" text="318087188292" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="335" end="364" text="Inspector de Seguridad Minera" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="399" end="425" text="Juan Ramón Velasco Lorenzo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="430" end="439" text="485498658" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="441" end="474" text="Residente de 5° año en Neurología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="476" end="565" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="567" end="596" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="598" end="603" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="605" end="611" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="613" end="619" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="639" end="649" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="660" end="668" text="75810585" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="679" end="720" text="Hospital Regional Universitario de Málaga" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="764" end="788" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="792" end="799" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="889" end="900" text="ZA576LFV165" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T31" start="983" end="994" text="YA484WVJ985" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

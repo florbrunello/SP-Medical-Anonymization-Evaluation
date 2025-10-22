@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Laia</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Martinez Rico</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7086454</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle Sangenjo, 27, 3D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28029</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/05/2010</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/11/2017</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Luz Belén</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Zambrano Centeno</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 65802</TAG>.
+    Historia Actual: Niña de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> sin antecedentes de interés remitida desde su centro de atención primaria por presentar una lesión en la mejilla derecha, algo pruriginosa y dolorosa, que no había mejorado tras tratamiento oral con amoxicilina/clavulánico, pautado prácticamente desde su inicio durante las dos semanas anteriores.
+    Exploración física: A la exploración mostraba en la mejilla derecha un nódulo eritematovioláceo, frío y blando al tacto, bien delimitado, de 1,5 cm de diámetro. No se palpaban adenomegalias regionales, aunque sí una leve queratosis pilar en la piel de las mejillas.
+    Evolución: Ante la sospecha clínica de GAFI, e informados los padres sobre la benignidad del proceso, se consensuó con ellos no realizar biopsia cutánea y pautar seguimiento periódico, junto con terapia con metronidazol gel por la noche. Dos semanas más tarde se produjo el drenaje espontáneo de un material sanguino-purulento desde el centro de la lesión, con posterior resolución progresiva del nódulo en el transcurso de unas 6 semanas. Los cultivos para bacterias, hongos y micobacterias del exudado de drenaje resultaron ser negativos. No obstante, tras la resolución de la lesión nodular, persistieron unas telangiectasias residuales en el área afecta, que se han ido atenuando lentamente durante los 10 meses de seguimiento. Aconsejamos revisiones a la paciente hasta la resolución completa del proceso y alertamos sobre la necesidad de consultar ante la aparición de síntomas o signos clínicos sugerentes de rosácea ocular (sequedad o enrojecimiento ocular, blefaritis, chalazion, fotofobia, pérdida de agudeza visual).
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Luz Belén</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Zambrano Centeno</TAG>. Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">bezamce@yahoo.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

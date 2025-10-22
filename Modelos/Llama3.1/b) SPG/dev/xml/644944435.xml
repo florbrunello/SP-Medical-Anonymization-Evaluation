@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ainhoa</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Silva Mendoza</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">78392274V</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/09/1937</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Recoletos 91, 4W</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Santander</TAG>, <TAG TYPE="TERRITORIO">Lérida</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">25942</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ainhoa-silvamendoza1401@uhu.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 973 85 72 93</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 773 65 35 64</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6399407</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Maquinaria Agrícola</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Soledad Lara Delgado</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">229291052</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Gastroenteróloga Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/03/1985</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Boadilla del Monte</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3625QAF</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Honda CR-V</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSIQWQM67YW877030</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">47 años</TAG> de edad. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-cardiology.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

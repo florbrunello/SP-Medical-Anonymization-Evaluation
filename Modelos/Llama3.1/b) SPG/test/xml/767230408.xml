@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lourdes</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Guerrero Garrido</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">13227582Y</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">09/11/1925</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Zurbano 49</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Estepa</TAG>, <TAG TYPE="TERRITORIO">Soria</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">42751</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">EVWk5ViRfm@yahoo.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 975 60 80 15</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 975 62 36 42</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6562709</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">612701882373</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Minero</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Manuel Vila Salas</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">941848986</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardiólogo Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">20/09/1991</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">56464832</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Sur</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">65 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermano</TAG>. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-pharma.org</TAG>. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">ZJ083MBN644</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Enrique Estevez Arroyo
+DNI: 30639711P
+Fecha de nacimiento: 25/05/1992
+Género: H
+Domicilio: Calle de Argumosa 43
+Ciudad: Ponferrada, Las Palmas, Canarias
+Código postal: 35477
+Email: 277ZNv1@ioba.med.uva.es
+Teléfono fijo: +34 928 27 51 12
+Teléfono móvil: +34 628 15 39 00
+NHC: 5429269
+Condición de riesgo: Químico
+
+Datos asistenciales.
+Médico: Dra. Emilia Roca Lozano. NC 408164126. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/05/2006
+Centro de salud: Centro de Salud Sevilla Norte
+
+Informe clínico del paciente:
+Paciente no fumador de 13 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.208.249, con dirección MAC 07:AC:18:28:D1:B2. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Enrique" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Estevez Arroyo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="30639711P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="25/05/1992" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="139" text="Calle de Argumosa 43" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="158" text="Ponferrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="170" text="Las Palmas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="180" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="35477" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="232" text="277ZNv1@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 928 27 51 12" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 628 15 39 00" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="5429269" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="332" end="339" text="Químico" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="607" end="617" text="09/05/2006" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="635" end="664" text="Centro de Salud Sevilla Norte" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T18" start="705" end="715" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="719" end="726" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="753" end="758" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="867" end="884" text="07:AC:18:28:D1:B2" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

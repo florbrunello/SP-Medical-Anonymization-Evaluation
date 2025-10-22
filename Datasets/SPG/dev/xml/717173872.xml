@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Tomás Santiago Guerrero
+DNI: 31877668J
+Fecha de nacimiento: 10/07/1992
+Género: V
+Domicilio: Calle de Santa Ana 22, 7M
+Ciudad: Lugo, Navarra, Navarra
+Código postal: 31206
+Email: tomas.santiago_guerrero874@hotmail.com
+Teléfono fijo: +34 948 35 69 50
+Teléfono móvil: +34 748 27 64 84
+NHC: 8307550
+NASS: 517576977788
+
+Datos asistenciales.
+Médico: Dra. Tamara Martínez Santamaria. NC 036531733. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/02/2011
+Episodio: 22855131
+Hospital: Hospital Universitario 12 de Octubre
+Matrícula del coche: 7964YBM
+Modelo: Subaru Outback
+VIN: VSCTBH344VF896879
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 18 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Tomás" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="51" text="Santiago Guerrero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="31877668J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="10/07/1992" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="145" text="Calle de Santa Ana 22, 7M" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="158" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="167" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="176" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="192" end="197" text="31206" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="205" end="243" text="tomas.santiago_guerrero874@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 948 35 69 50" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="292" end="308" text="+34 748 27 64 84" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="314" end="321" text="8307550" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="328" end="340" text="517576977788" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="618" end="628" text="21/02/2011" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="639" end="647" text="22855131" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="658" end="694" text="Hospital Universitario 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="716" end="723" text="7964YBM" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="752" end="769" text="VSCTBH344VF896879" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="813" end="846" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="850" end="857" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="884" end="889" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

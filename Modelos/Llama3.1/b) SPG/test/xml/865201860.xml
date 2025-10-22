@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vanessa</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marcos Paredes</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">40409494N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/04/1929</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Toledo 32</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Socuéllamos</TAG>, <TAG TYPE="TERRITORIO">Albacete</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">02007</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">vanessa-marcosparedes@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 967 79 90 62</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 667 60 38 92</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8748390</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">731363117416</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Conserje</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Ramón Estevez Pastor</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">840883027</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardiólogo de Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/02/1937</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">19509512</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuenlabrada</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. Se registró una consulta virtual desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP (en red interna)</TAG> <TAG TYPE="NUMERO_IP">192.168.215.154</TAG>, con <TAG TYPE="IDENTIF_BIOMETRICOS">dirección MAC</TAG> <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5B:95:8A:61:8B:FD</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">huella dactilar</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código obtenido</TAG> para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">KZ184EAA582</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ramón Hurtado Exposito</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">62542647N</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/08/1953</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Fortuny 96, 10P</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Málaga</TAG>, <TAG TYPE="TERRITORIO">Soria</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">42253</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">hurtado.exposito710@isciii.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 975 50 91 50</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 775 58 51 60</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9185553</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">987770381427</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paramédico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Valeria</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rubio Santana</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">239717251</TAG>. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/12/1983</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">31055972</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Benalmádena</TAG>.
+    Informe clínico del paciente:
+    Paciente musulman de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30 años</TAG> de edad, acompañado de su hija, que acude al servicio de urgencias con dolor abdominal crónico de 2 meses de evolución, acompañado de náuseas y vómitos. La exploración física revela: Tª <TAG TYPE="FECHAS">37,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen doloroso en el epigastrio, con rigidez y rebound negativo, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">13,2 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">12.000/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">70%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">20 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">90%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">110 mg/dl</TAG>; urea <TAG TYPE="FECHAS">25 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,0 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,8 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">15 U/l</TAG>; GPT <TAG TYPE="FECHAS">25 U/l</TAG>; GGT <TAG TYPE="FECHAS">35 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">130 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía abdominal y TAC abdominal) que revelan una lesión hepática de <TAG TYPE="FECHAS">5 cm</TAG> de diámetro en la lóbulos superior derecho, con signos de necrosis y hemorragia. Con el diagnóstico de hepatitis por virus C se instaura tratamiento específico con interferón alfa y ribavirina durante <TAG TYPE="FECHAS">6 meses</TAG>.
+    Evolución y comentarios:
+    El paciente se encuentra en observación en la unidad de cuidados intensivos, con monitorización continua de la función hepática y la coagulación. Se le administra oxígeno suplementario y se le realiza una exploración física periódica para evaluar la evolución de la lesión hepática.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Valeria</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rubio Santana</TAG>, Investigadora Clínica en Medicina Interna, Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC).
+  </TEXT>
+</MEDDOCAN>

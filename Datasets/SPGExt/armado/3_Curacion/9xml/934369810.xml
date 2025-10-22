@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Encarnación Galán Santos</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">99079498Y</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/02/2009</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Bailén 8</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Navalcarnero</TAG>.
+    Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">45520</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">santos1107@ual.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 915 59 36 33</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 660 11 22 79</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8986842</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">022153253208</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Estudiante de Educación Secundaria</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco Manuel Pardo Carmona</TAG>.
+    N.C.: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">569098428</TAG>.
+    Cargo: <TAG TYPE="PROFESION">Gastroenterólogo Especialista en Enfermedades Hepáticas</TAG>.
+    Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)
+    <TAG TYPE="INSTITUCION">Avenida Monforte de Lemos 3-5. 28029. Madrid. España</TAG>
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/03/2023</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Este</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="TERRITORIO">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> de edad, acompañado de su abuela, que refiere dolores abdominales de localización variable en el último mes, con episodios de vómitos y diarrea. La paciente tiene una historia previa de gastroenteritis viral, pero en la última semana ha presentado un cuadro de mal absorción de nutrientes, con pérdida de peso y debilidad general.
+    La exploración física revela: Tª <TAG TYPE="FECHAS">37,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración ni fiebre, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">12,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">10.200/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/ mm3</TAG>. VSG: <TAG TYPE="FECHAS">20 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">95%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">90 mg/dl</TAG>; urea <TAG TYPE="FECHAS">20 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">0,8 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,8 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">12 U/l</TAG>; GPT <TAG TYPE="FECHAS">20 U/l</TAG>; GGT <TAG TYPE="FECHAS">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">120 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Durante el ingreso se solicitan pruebas de imagen (Ecografía abdominal y TAC abdominal) que no evidencian patología significativa. Con el diagnóstico de gastroenteritis viral aguda se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la cama) y tratamiento de rehidratación oral.
+    Evolución y comentarios:
+    El paciente ha estado en observación en la unidad de cuidados intensivos durante <TAG TYPE="FECHAS">3 días</TAG>, sin presentar complicaciones ni signos de deterioro clínico. La paciente ha mejorado significativamente de su cuadro, con reducción de los síntomas gastrointestinales y recuperación de la función digestiva. Se ha decidido el alta a su domicilio, donde continuará el tratamiento de rehidratación oral y se realizarán revisiones sucesivas en consultas para controlar la evolución.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco Manuel Pardo Carmona</TAG>
+    <TAG TYPE="PROFESION">Gastroenterólogo Especialista en Enfermedades Hepáticas</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sonia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Silva Carmona</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">72996977Z</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/04/1937</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Luna 47</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Girona</TAG>, <TAG TYPE="TERRITORIO">Formentera</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07199</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">sonia@ual.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 21 37 06</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 971 60 95 91</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8792692</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">259879799941</TAG>
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Esteban Torres Robles</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">867441530</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">04/02/1972</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">15117030</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Torrejón de Ardoz</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">34 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">primo</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP</TAG> (<TAG TYPE="TERRITORIO">192.168.152.119</TAG>) (en <TAG TYPE="TERRITORIO">red interna</TAG>), con <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">dirección MAC</TAG> <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">49:7B:BB:1B:DF:88</TAG>.
+  </TEXT>
+</MEDDOCAN>

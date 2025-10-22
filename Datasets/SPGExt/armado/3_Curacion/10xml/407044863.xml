@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Ángeles Paredes Blanco</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">11425707C</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/07/1999</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Virgen de los Peligros 64</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Las Palmas de Gran Canaria</TAG>, <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">13680</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariaangeles568@udc.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 73 48 01</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 626 43 19 34</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9033480</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">315293642709</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ingeniero de Minas</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marta Ortiz Contreras</TAG>. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">NC 017456301</TAG>. <TAG TYPE="PROFESION">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">13/03/2023</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Ciudad Lineal</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática del sudeste</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">23 años</TAG> de edad, que refiere sentirse <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiosa y nerviosa</TAG> durante los últimos meses, con dificultades para conciliar el sueño y un aumento en la frecuencia cardíaca y la presión arterial. Presenta un historial de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">estrés y ansiedad</TAG> en la familia, y ha experimentado cambios significativos en su vida reciente, incluyendo un cambio de trabajo y una separación de su pareja.
+    La exploración física revela: Tª <TAG TYPE="FECHAS">36,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">14,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">8.500/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">20 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">95%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">90 mg/dl</TAG>; urea <TAG TYPE="FECHAS">15 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">0,8 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">140 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">4,2 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">10 U/l</TAG>; GPT <TAG TYPE="FECHAS">20 U/l</TAG>; GGT <TAG TYPE="FECHAS">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">120 U/l</TAG>; calcio <TAG TYPE="FECHAS">9,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía cerebral, TAC craneal) y se instaura tratamiento sintomático (relajación, ejercicio físico, terapia cognitivo-conductual) y tratamiento farmacológico (antidepresivos selectivos de reciente generación).
+    La evolución clínica es favorable, con una mejoría significativa en los síntomas de ansiedad y estrés. El paciente se muestra comprometido con el tratamiento y dispuesto a seguir las recomendaciones del equipo de salud.
+    Evolución y comentarios:
+    El paciente ha mostrado una buena adherencia al tratamiento y ha presentado una mejoría significativa en sus síntomas de ansiedad y estrés. Se le ha recomendado seguir con la terapia cognitivo-conductual y el tratamiento farmacológico para mantener la mejoría y prevenir recaídas.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marta Ortiz Contreras</TAG>. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

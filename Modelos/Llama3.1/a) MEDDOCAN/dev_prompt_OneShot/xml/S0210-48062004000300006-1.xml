@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jesus</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Hernando Juncal</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4876242</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">47 25789649 44</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. Carlos V, 13, 3 D.</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Valladolid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">47005</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">01/06/1940</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">69 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">30/04/2010</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Victoria</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">de Juan Herráez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">47 47 57200</TAG>.
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">69 años</TAG> que acude a nosotros para revisión de síndrome prostático en tratamiento con un alfa-bloqueante.
+    Antecedentes: Como antecedentes destaca haber sido intervenido de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cadera derecha</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipoacusia</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">angores repetidos</TAG>. Episodio de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">traumatismo costolumbar izquierdo</TAG> hacía unos 30 años. Como antecedentes urológicos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematuria</TAG> en dos ocasiones, la última vez hacía un año.
+    Exploración física: En la exploración la próstata es de características <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fibroadenomatosas</TAG>, volumen <TAG TYPE="OTROS_SUJETO_ASISTENCIA">II/IV</TAG>, sin nodulaciones. Destaca a la palpación abdominal <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gran masa</TAG> situada en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipocondrio y vacío izquierdo</TAG>, dolorosa a la palpación.
+    Pruebas complementarias: Analítica: Hb <TAG TYPE="OTROS_SUJETO_ASISTENCIA">14,6 gr/dl</TAG>, Hcto. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">43,1%</TAG>, VSG <TAG TYPE="OTROS_SUJETO_ASISTENCIA">9 mm/h</TAG> y bioquímica dentro de la normalidad. PSA: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3,1 ng/ml</TAG>.
+    Rx simple: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gran efecto</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">masa</TAG> situada en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipocondrio y vacío izquierdo</TAG>, de forma <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ovoide</TAG> totalmente calcificada.
+    Ante estos hallazgos se plantea diagnóstico diferencial con cualquier <TAG TYPE="OTROS_SUJETO_ASISTENCIA">masa</TAG> situada en el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">retroperitoneo</TAG> que presente este tipo de calcificación:
+    - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Tumores retroperitoneales primitivos</TAG>
+    - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Tumores suprarrenales</TAG>
+    - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Tumores renales</TAG>
+    - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Tumores metastásicos</TAG>
+    - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Patología infecciosa</TAG>
+    Se realizan determinaciones sanguíneas de actividad de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">renina plasmática</TAG> antes y después de la deambulación, así como la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">aldosterona</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cortisol</TAG> a las 8 y 20 horas, siendo los resultados dentro de la normalidad. Los niveles en orina de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">17-cetosteroides</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">corticosteroides</TAG>, así como las <TAG TYPE="OTROS_SUJETO_ASISTENCIA">catecolaminas</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">metanefrinas</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vanilmandelato</TAG> eran normales. Todo lo anterior descartaba <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumor adrenal funcionante</TAG>.
+    También se realizaron <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tinciones</TAG> para <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bacilos ácido alcohol resistentes</TAG> en orina y esputo siendo negativo, así como el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">test de Mantoux</TAG>.
+    Se planteó la posibilidad de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">quiste hidatídico calcificado</TAG>, pero la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">serología</TAG> era negativa. Asímismo se pensó en el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">traumatismo costolumbar izquierdo</TAG>, antes sufrido, como posible causa de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">masa suprarrenal calcificada</TAG>.
+    Evolución: Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">masa retroperitoneal sin filiar</TAG> se practicó <TAG TYPE="OTROS_SUJETO_ASISTENCIA">laparotomía exploradora</TAG> encontrando lesión sobresaliente en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipocondrio izquierdo</TAG>, dura a la palpación, con fijación a planos profundos y lesiones difusas repartidas por todo el peritoneo, siendo el informe anatomopatológico intraoperatorio de las mismas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">grasa peritoneal infiltrada por tumor maligno de probable origen mesenquimal</TAG>. Se decide cierre de cavidad abdominal al tratarse de un proceso maligno diseminado. El informe patológico definitivo es de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">liposarcoma pleomórfico</TAG>, siendo las técnicas inmunohistoquímicas de: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">S100: positiva</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Oil-Red: positiva</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vimentina: positiva</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">PS 3: positiva</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">desmina: negativa</TAG>.
+    El paciente es dado de alta al séptimo día de la intervención, falleciendo posteriormente a las dos semanas en su domicilio.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Victoria</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">de Juan Herráez</TAG> <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG> <TAG TYPE="CALLE">Edificio Ciencias de la Salud Avda. Ramón y Cajal, 7</TAG> <TAG TYPE="TERRITORIO">47005 Valladolid</TAG>, <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">victoria@ioba.med.uva.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

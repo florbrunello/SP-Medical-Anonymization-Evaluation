@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan José</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ulloa Origel</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av Montes Pirineos 770</TAG>, <TAG TYPE="TERRITORIO">Lomas de Chapultepec V Secc.</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Ciudad de México</TAG>.
+    CP: <TAG TYPE="TERRITORIO">11010</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5221413</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/06/1962</TAG>.
+    País: <TAG TYPE="PAIS">México</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">54</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">16</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Antonio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García Morúa</TAG>.
+    Motivo de ingreso: Paciente varón, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">54</TAG> años de edad, acudió a nuestro servicio por cuadro de 1 mes de evolución, caracterizado por la presencia de lesiones ampulosas en el glande, asintomáticas, que progresaron a úlceras una semana después; posteriormente, refirió dolor intenso en el glande e hipocromía, motivo por el que consultó.
+    Antecedentes: diabetes mellitus tipo 2 desde los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30</TAG> años de edad, insuficiencia renal crónica desde hacía <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2</TAG> años, tratado con hemodiálisis. Se le realizó una amputación supracondílea del miembro pélvico derecho <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4</TAG> años atrás.
+    Exploración física: A la exploración física, se apreciaba un glande hipocrómico, hipotérmico, con una lesión necrótica de aproximadamente <TAG TYPE="EDAD_SUJETO_ASISTENCIA">1,5</TAG> cm en la cara ventral, además de secreción purulenta transuretral e induración del tercio distal del cuerpo del pene.
+    Resumen de pruebas complementarias: La biometría hemática informó: hemoglobina <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10,1</TAG> g/dl, leucocitos <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4.890</TAG>, plaquetas <TAG TYPE="EDAD_SUJETO_ASISTENCIA">283.000</TAG>; química sanguínea: glucosa <TAG TYPE="EDAD_SUJETO_ASISTENCIA">55</TAG> mg/dl, creatinina <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7,88</TAG> mg/dl, BUN <TAG TYPE="EDAD_SUJETO_ASISTENCIA">65,5</TAG> mg/dl; electrolitos séricos: sodio <TAG TYPE="EDAD_SUJETO_ASISTENCIA">145,3</TAG> mmol/l, potasio <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4,81</TAG> mmol/l, cloro <TAG TYPE="EDAD_SUJETO_ASISTENCIA">99</TAG> mmol/l, calcio <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8,3</TAG>, mmol/l y fósforo <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9,21</TAG> mmol/l. Las pruebas de función hepática informaron: TGO <TAG TYPE="EDAD_SUJETO_ASISTENCIA">18</TAG>, TGP <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14</TAG> y fosfatasa alcalina <TAG TYPE="EDAD_SUJETO_ASISTENCIA">64</TAG>.
+    Se realizó un ultrasonido Doppler peneano con Caverject, evidenciándose de esta manera la ausencia total de flujos al <TAG TYPE="EDAD_SUJETO_ASISTENCIA">100%</TAG> del pene.
+    Se propuso al paciente el manejo quirúrgico y decidió acudir a realizarlo a otra institución.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Antonio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García Morúa</TAG>. Email: <TAG TYPE="CORREO_ELECTRONICO">dr.morua@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Isabel María Vega Benito
+DNI: 65897611N
+Fecha de nacimiento: 16/05/2000
+Género: F
+Domicilio: Calle de Zurbano 63, 10C
+Ciudad: Huelva, León, Castilla y León
+Código postal: 24537
+Email: isabelmaria-benito@ciberehd.org
+Teléfono fijo: +34 987 81 39 30
+Teléfono móvil: +34 687 57 54 62
+NHC: 5793287
+NASS: 699645757112
+Condición de riesgo: Electricista
+
+Datos asistenciales.
+Médico: Dra. Matilde Acosta López. NC 920172207. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 23/05/2010
+Episodio: 74112296
+Centro de salud: Centro de Salud San Blas
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena americana de 10 años de edad, acompañado de su hermano. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="Isabel María" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="52" text="Vega Benito" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="65897611N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="16/05/2000" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="145" text="Calle de Zurbano 63, 10C" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="160" text="Huelva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="166" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="183" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="199" end="204" text="24537" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="212" end="243" text="isabelmaria-benito@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 987 81 39 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="292" end="308" text="+34 687 57 54 62" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="314" end="321" text="5793287" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="328" end="340" text="699645757112" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="362" end="374" text="Electricista" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="636" end="646" text="23/05/2010" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="657" end="665" text="74112296" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="683" end="707" text="Centro de Salud San Blas" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="751" end="781" text="ascendencia indígena americana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="785" end="792" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="819" end="826" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

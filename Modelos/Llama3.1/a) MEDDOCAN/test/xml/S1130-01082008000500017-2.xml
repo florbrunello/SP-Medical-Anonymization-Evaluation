@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carlos</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ferrero Ferrero</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8925673</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">43 56365937 85</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Rita Hermoso, 4, 7 A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28029</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/10/1990</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">27 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">11/11/2017</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ajenor</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">España López</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 57410</TAG>.
+    Informe clínico del paciente: paciente varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">27 años</TAG> de edad, también nativo de <TAG TYPE="PAIS">Senegal</TAG> y sin antecedentes previos de interés, que consulta por vómitos y dolor abdominal. El paciente refería cuadro de astenia y anorexia de un mes de evolución, con molestias difusas en abdomen desde el comienzo del cuadro. Ante progresión de la clínica y aparición de vómitos acude a urgencias. En la exploración física presentaba un aceptable estado general, destacando únicamente un gran dolor a la palpación en epigastrio e hipocondrio derecho, palpándose una zona de empastamiento compatible con masa a ese nivel. No se evidenciaron signos de irritación peritoneal, aunque sí presentaba defensa voluntaria. La analítica mostraba una moderada hipertransaminasemia y una leve coagulopatía.
+    Se realizó una ecografía objetivándose la presencia de una gran masa hepática (de aproximadamente <TAG TYPE="EDAD_SUJETO_ASISTENCIA">12 cm</TAG> de diámetro) con numerosos nódulos satélites. La RNM confirmó la naturaleza hipervascular de dichas lesiones. Finalmente, las serologías virales revelaron una infección crónica por <TAG TYPE="PROFESION">VHB</TAG> y la alfafetoproteína era de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">12.687 ng/ml</TAG>, por lo que el paciente fue diagnosticado de <TAG TYPE="PROFESION">HCC</TAG> gigante con satelitosis e infección por <TAG TYPE="PROFESION">VHB</TAG>. Se instauró tratamiento sintomático paliativo, falleciendo pocos meses después.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Ajenor</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">España López</TAG>. Correo Electrónico: <TAG TYPE="CORREO_ELECTRONICO">ajep@ugr.es</TAG>
+  </TEXT>
+</MEDDOCAN>

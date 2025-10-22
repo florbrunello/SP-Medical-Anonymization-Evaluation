@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alfonso Andres Camacho</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">31373659A</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/10/1973</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Almagro 76</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Getafe</TAG>, <TAG TYPE="TERRITORIO">Teruel</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">44702</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">alfonso_andres_camacho@uhu.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 978 35 24 04</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 678 29 92 32</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0215437</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">448729669155</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Mantenimiento</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Izan Paredes Díaz</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">460271844</TAG>. <TAG TYPE="PROFESION">Residente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5° año</TAG> en <TAG TYPE="PROFESION">Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">13/07/2024</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Barcelona</TAG>.
+    Informe clínico del paciente:
+    Paciente consumidor de alcohol de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">50 años</TAG> de edad, con antecedentes de consumo excesivo de alcohol durante los últimos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">10 años</TAG>, presentó un episodio de convulsiones generalizadas en el hogar, lo que motivó su ingreso en el Servicio de Urgencias del Hospital Clínic Barcelona. Al llegar al hospital, el paciente se encontraba confundido y con dificultades para hablar, pero sin signos de trauma o lesiones evidentes.
+    La exploración física reveló: Tª <TAG TYPE="FECHAS">37,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">80 lpm</TAG>. El paciente se encontraba consciente, pero con dificultades para hablar y con una coordinación motora alterada. No se encontraron signos de infección o trauma en la exploración neurológica.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">14,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">12.000/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">70%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">95%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">90 mg/dl</TAG>; urea <TAG TYPE="FECHAS">20 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,2 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">4,2 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">25 U/l</TAG>; GPT <TAG TYPE="FECHAS">30 U/l</TAG>; GGT <TAG TYPE="FECHAS">50 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">120 U/l</TAG>; calcio <TAG TYPE="FECHAS">9,5 mg/dl</TAG>.
+    El paciente fue sometido a una resonancia magnética cerebral, que mostró signos de encefalopatía alcohólica con atrofia cortical y lesiones vasculares. Se inició tratamiento con metadona para la dependencia alcohólica y se le recomendó un programa de rehabilitación para abordar su consumo excesivo de alcohol.
+    Evolución y comentarios:
+    El paciente ha estado en el hospital durante <TAG TYPE="FECHAS">5 días</TAG>, durante los cuales ha recibido tratamiento para su dependencia alcohólica y ha participado en un programa de rehabilitación. Ha mostrado una mejoría significativa en su estado de ánimo y ha sido capaz de hablar y caminar sin dificultades. Se le ha recomendado seguir un programa de seguimiento para abordar su consumo excesivo de alcohol y prevenir futuros episodios de encefalopatía alcohólica.
+    Remitido por:
+    El paciente ha sido remitido a su domicilio, donde continuará recibiendo tratamiento y seguimiento por parte de su equipo de salud. Se le ha recomendado que busque ayuda para abordar su consumo excesivo de alcohol y que siga un programa de rehabilitación para prevenir futuros episodios de encefalopatía alcohólica.
+  </TEXT>
+</MEDDOCAN>

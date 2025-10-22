@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Emma Avila González
+DNI: 49703139R
+Fecha de nacimiento: 26/02/1945
+Género: F
+Domicilio: Calle de Toledo 65
+Ciudad: Lorca, La Rioja, La Rioja
+Código postal: 26166
+Email: emma_avila@h12o.es
+Teléfono fijo: +34 941 04 28 71
+Teléfono móvil: +34 741 17 64 09
+NHC: 1657520
+
+Datos asistenciales.
+Médico: Dr. Héctor Díaz Martín. NC 961910790. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/02/1962
+Episodio: 89060788
+Centro de salud: Centro de Salud Centro
+
+Informe clínico del paciente:
+Paciente musulman de 16 años de edad. Se realizó un expediente con URL http://example-healthcare.net//79390181D. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es HA882RXU853. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Emma" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="47" text="Avila González" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="49703139R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="26/02/1945" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="134" text="Calle de Toledo 65" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="143" end="148" text="Lorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="150" end="158" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="160" end="168" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="184" end="189" text="26166" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="197" end="215" text="emma_avila@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="231" end="247" text="+34 941 04 28 71" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="264" end="280" text="+34 741 17 64 09" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="286" end="293" text="1657520" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="328" end="346" text="Héctor Díaz Martín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="351" end="360" text="961910790" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="362" end="395" text="Residente de 5° año en Neurología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="397" end="486" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="488" end="517" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="519" end="524" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="526" end="532" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="534" end="540" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="560" end="570" text="15/02/1962" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="581" end="589" text="89060788" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="607" end="629" text="Centro de Salud Centro" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="670" end="678" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="682" end="689" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="732" end="757" text="http://example-healthcare" TYPE="URL_WEB" comment=""/>
+        <ID id="T29" start="860" end="871" text="HA882RXU853" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Elena Moya López
+DNI: 64442651D
+Fecha de nacimiento: 09/11/1958
+Género: F
+Domicilio: Calle del León 93, 6A
+Ciudad: Teruel, Álava, Pais Vasco
+Código postal: 01982
+Email: lopez@ciberisciii.es
+Teléfono fijo: +34 945 16 69 51
+Teléfono móvil: +34 745 51 16 25
+NHC: 2645536
+NASS: 144063284518
+Condición de riesgo: Microbiólogo
+
+Datos asistenciales.
+Médico: Dra. Victoria Macias Espinosa. NC 464152117. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/07/2020
+Episodio: 17389152
+Centro de salud: Centro de Salud Fuencarral
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática del sudeste de 61 años de edad, acompañado de su nuera. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.203.49, con dirección MAC B4:A1:71:D3:0F:E5. Se realizó un expediente con URL http://example-hospital.org//32339937J. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="María Elena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="50" text="Moya López" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="64442651D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="09/11/1958" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="140" text="Calle del León 93, 6A" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="155" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="162" text="Álava" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="174" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="01982" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="223" text="lopez@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="239" end="255" text="+34 945 16 69 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="272" end="288" text="+34 745 51 16 25" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="294" end="301" text="2645536" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="308" end="320" text="144063284518" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="342" end="354" text="Microbiólogo" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="639" end="649" text="04/07/2020" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="660" end="668" text="17389152" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="686" end="712" text="Centro de Salud Fuencarral" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="756" end="788" text="ascendencia asiática del sudeste" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="792" end="799" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="826" end="831" text="nuera" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="939" end="956" text="B4:A1:71:D3:0F:E5" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <OTHER id="T24" start="991" end="1014" text="http://example-hospital" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Héctor Reyes Marcos
+DNI: 23635538W
+Fecha de nacimiento: 08/08/1999
+Género: H
+Domicilio: Calle Serrano 69
+Ciudad: Denia, Valladolid, Castilla y León
+Código postal: 47535
+Email: hector-reyes@uhu.es
+Teléfono fijo: +34 983 54 84 61
+Teléfono móvil: +34 783 90 42 74
+NHC: 2910772
+NASS: 909834854638
+Condición de riesgo: Trabajador de la Construcción
+
+Datos asistenciales.
+Médico: Dr. Alfonso Gómez Muñoz. NC 560606668. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/11/2000
+Episodio: 98887972
+Centro de salud: Centro de Salud Benalmádena
+Matrícula del coche: 6945LHV
+Modelo: Chevrolet Silverado
+VIN: VSRRJQ4HX6B923485
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de un año de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Héctor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Reyes Marcos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="23635538W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="08/08/1999" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="132" text="Calle Serrano 69" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="141" end="146" text="Denia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="148" end="158" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="160" end="175" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="47535" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="223" text="hector-reyes@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="239" end="255" text="+34 983 54 84 61" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="272" end="288" text="+34 783 90 42 74" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="294" end="301" text="2910772" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="308" end="320" text="909834854638" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="342" end="371" text="Trabajador de la Construcción" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="406" end="425" text="Alfonso Gómez Muñoz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="430" end="439" text="560606668" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="441" end="485" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="487" end="573" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="575" end="604" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="606" end="611" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="613" end="619" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="621" end="627" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="647" end="657" text="08/11/2000" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="668" end="676" text="98887972" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="694" end="721" text="Centro de Salud Benalmádena" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="743" end="750" text="6945LHV" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="784" end="801" text="VSRRJQ4HX6B923485" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="845" end="871" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="875" end="881" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="908" end="914" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

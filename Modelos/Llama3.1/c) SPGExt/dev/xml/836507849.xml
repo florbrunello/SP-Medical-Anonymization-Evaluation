@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alejandro</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santana Crespo</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">91313101L</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/08/1934</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Bailén 15</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Eibar</TAG>, <TAG TYPE="TERRITORIO">Valladolid</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">47214</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">crespo1687@ual.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 983 03 47 28</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 683 71 19 29</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8596779</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">552870307763</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente de riesgo</TAG>.
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Margarita</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lorenzo Álvarez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">687201500</TAG>. <TAG TYPE="PROFESION">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">02/12/1954</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">15877992</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Chamartín</TAG>.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedad renal crónica</TAG> en estadio 3, con una función renal residual del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">40%</TAG>.
+    Evolución y comentarios:
+    El paciente fue ingresado en el servicio de nefrología con un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia renal aguda</TAG>, que se caracterizó por una elevación de la creatinina sérica y una disminución de la función renal. Se inició tratamiento con <TAG TYPE="PROFESION">diálisis peritoneal</TAG> y se le administraron medicamentos para controlar la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">anemia</TAG>.
+    Informe clínico del paciente:
+    El paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> de edad, de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG>, fue ingresado en el servicio de nefrología con un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia renal aguda</TAG>. El paciente presentaba una elevación de la creatinina sérica y una disminución de la función renal. Se inició tratamiento con <TAG TYPE="PROFESION">diálisis peritoneal</TAG> y se le administraron medicamentos para controlar la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">anemia</TAG>. El paciente mostró una buena respuesta al tratamiento y su función renal se estabilizó.
+    Remitido por:
+    El paciente fue remitido por el servicio de urgencias con un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia renal aguda</TAG>. El paciente fue evaluado y se inició tratamiento con <TAG TYPE="PROFESION">diálisis peritoneal</TAG> y medicamentos para controlar la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">anemia</TAG>. El paciente fue estabilizado y se le recomendó continuar con el tratamiento en el servicio de nefrología.
+  </TEXT>
+</MEDDOCAN>

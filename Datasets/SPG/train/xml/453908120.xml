@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Soledad Beltran Blanco
+DNI: 79217823G
+Fecha de nacimiento: 09/05/1944
+Género: M
+Domicilio: Calle del Sombrerete 87, 5D
+Ciudad: Segovia, Orense, Galicia
+Código postal: 32195
+Email: mariasoledad@hotmail.com
+Teléfono fijo: +34 988 54 72 14
+Teléfono móvil: +34 788 42 43 18
+NHC: 8113488
+
+Datos asistenciales.
+Médico: Dr. Cristian Izquierdo Carrillo. NC 664647438. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 25/04/2003
+Episodio: 95380124
+Hospital: Hospital Universitario Fundació Jiménez Díaz
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena americana de 58 años de edad, acompañado de su esposa. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Soledad" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="56" text="Beltran Blanco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="62" end="71" text="79217823G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="93" end="103" text="09/05/1944" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="112" end="113" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="152" text="Calle del Sombrerete 87, 5D" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="161" end="168" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="176" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="185" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="32195" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="238" text="mariasoledad@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 988 54 72 14" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 788 42 43 18" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="8113488" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="351" end="378" text="Cristian Izquierdo Carrillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="383" end="392" text="664647438" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="394" end="438" text="Investigador Principal en Optometría Clínica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="440" end="498" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="500" end="524" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="526" end="531" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="533" end="543" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="545" end="551" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="571" end="581" text="25/04/2003" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="592" end="600" text="95380124" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="611" end="655" text="Hospital Universitario Fundació Jiménez Díaz" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="699" end="729" text="ascendencia indígena americana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="733" end="740" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="767" end="773" text="esposa" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

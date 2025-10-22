@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ángela</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Castaño Flores</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">68359410Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/05/1968</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Magdalena 12</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Guadix</TAG>, <TAG TYPE="TERRITORIO">Cádiz</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">11290</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">angela.castano@icloud.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 60 79 41</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 656 18 19 00</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9176318</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">949277871491</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Guardia de Seguridad</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Miguel Ángel Fernández Castillo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">286279668</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">21/05/2006</TAG>
+    Episodio: <TAG TYPE="OTRO_NUMERO_IDENTIF">98400903</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Oeste</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">4534NQG</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Hyundai Elantra</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSL7SGYNDFQ503057</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">suegra</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP</TAG> (<TAG TYPE="DIREC_PROT_INTERNET">en red interna</TAG>) <TAG TYPE="DIREC_PROT_INTERNET">192.168.152.119</TAG>, con <TAG TYPE="DIREC_PROT_INTERNET">dirección MAC</TAG> <TAG TYPE="DIREC_PROT_INTERNET">1B:8E:58:31:C6:8E</TAG>.
+  </TEXT>
+</MEDDOCAN>

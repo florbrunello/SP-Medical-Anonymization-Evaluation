@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carlota</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sierra Acosta</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">52184315Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/11/2024</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Lechuga 7</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Dos Hermanas</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">18885</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">iNtA4H6iNJdSIS@ciberned.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 75 90 90</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 758 46 84 07</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0981628</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">540355735773</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Laboratorio</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sebastián Gómez Avila</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">540948233</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">17623862</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Latina</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">descendencia africana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 meses</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Javier Andres Lozano
+DNI: 60333706Z
+Fecha de nacimiento: 30/10/1956
+Género: H
+Domicilio: Calle de la Magdalena 4
+Ciudad: Ronda, Santa Cruz de Tenerife, Canarias
+Código postal: 38247
+Email: javier-andres694@imibic.org
+Teléfono fijo: +34 922 86 16 80
+Teléfono móvil: +34 722 81 74 41
+NHC: 7913899
+NASS: 722294721197
+Condición de riesgo: Repartidor
+
+Datos asistenciales.
+Médico: Dr. Miguel Ángel Otero Escobar. NC 889745930. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/06/1996
+Centro de salud: Centro de Salud Tetuán
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 39 años de edad. Se realizó un expediente con URL http://example-cardiology.com//21947427K. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Andres Lozano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="60333706Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="30/10/1956" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="140" text="Calle de la Magdalena 4" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="154" text="Ronda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="178" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="180" end="188" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="38247" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="244" text="javier-andres694@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 922 86 16 80" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="293" end="309" text="+34 722 81 74 41" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="315" end="322" text="7913899" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="329" end="341" text="722294721197" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="363" end="373" text="Repartidor" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="408" end="434" text="Miguel Ángel Otero Escobar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="439" end="448" text="889745930" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="450" end="485" text="Neuropsicólogo Clínico Investigador" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="487" end="557" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="559" end="588" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="590" end="595" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="597" end="603" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="605" end="611" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="631" end="641" text="25/06/1996" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="659" end="681" text="Centro de Salud Tetuán" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="725" end="746" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="750" end="757" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="800" end="825" text="http://example-cardiology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

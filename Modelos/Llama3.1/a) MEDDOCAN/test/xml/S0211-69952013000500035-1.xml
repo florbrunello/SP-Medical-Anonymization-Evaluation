@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jose Antonio</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Diaz Navarro</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9784844</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">78 43657846 54</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Fermín Caballero, 24</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28034</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/01/1951</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">64 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">04/08/2015</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Florencio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García Martín</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 57880</TAG>.
+    Informe clínico del paciente: varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">64 años</TAG> sin antecedentes de interés, que consulta por pérdida de 17 kg de peso, astenia, anorexia y anemia.
+    Se realizó una colonoscopia que mostraba cambios inflamatorios inespecíficos de la mucosa colónica y una gastroscopia que evidenciaba neoplasia gástrica y gastropatía antral, con toma de biopsias.
+    La histología de la biopsia gástrica confirmó una proliferación neoplásica con patrón sólido sugestiva de <TAG TYPE="OTRO_NUMERO_IDENTIF">GIST</TAG>, y la inmunohistoquímica presentaba positividad para <TAG TYPE="OTRO_NUMERO_IDENTIF">CD117</TAG>.
+    Se observaron depósitos de amiloide AA en las biopsias de la mucosa gástrica, del tumor y de la mucosa colónica.
+    Posteriormente, comenzó con edemas en los miembros inferiores y diarrea.
+    En la analítica destacaba: hemoglobina <TAG TYPE="NUMERO_FAX">8,7 g/dl</TAG>, hematocrito <TAG TYPE="NUMERO_FAX">28%</TAG>, volumen corpuscular medio <TAG TYPE="NUMERO_FAX">75</TAG>, creatinina sérica <TAG TYPE="NUMERO_FAX">1,3 mg/dl</TAG>; proteínas totales <TAG TYPE="NUMERO_FAX">5,9 g/dl</TAG>; albúmina <TAG TYPE="NUMERO_FAX">1,36 g/dl</TAG>; colesterol <TAG TYPE="NUMERO_FAX">96 mg/dl</TAG>; índice de saturación de transferrina <TAG TYPE="NUMERO_FAX">13%</TAG>.
+    Proteinuria de <TAG TYPE="NUMERO_FAX">5,1 g/día</TAG> y sedimento con <TAG TYPE="NUMERO_FAX">4-6 hematíes/campo</TAG>.
+    Dada la mala situación del paciente, no se realizó biopsia renal y se asumió que la amiloidosis previamente observada en las biopsias gastrointestinales era la responsable del síndrome nefrótico y la diarrea.
+    Se descartó amiloidosis cardíaca mediante ecocardiograma.
+    Se inició tratamiento con un inhibidor selectivo de la tirosina cinasa de cKit, <TAG TYPE="OTRO_NUMERO_IDENTIF">Imatinib</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">Glivec</TAG>), <TAG TYPE="NUMERO_FAX">100 mg</TAG> diarios.
+    A los <TAG TYPE="NUMERO_FAX">15</TAG> meses del diagnóstico se decidió la extirpación quirúrgica tras observarse una disminución de la masa tumoral en el estudio por tomografía por emisión de positrones/tomografía computarizada.
+    En la anatomía patológica se confirmó la afectación del estómago y el ángulo esplénico del colon extirpados.
+    En este sentido, se clasificó como un <TAG TYPE="OTRO_NUMERO_IDENTIF">GIST</TAG> de alto riesgo (> <TAG TYPE="NUMERO_FAX">5</TAG> cm de tamaño, > <TAG TYPE="NUMERO_FAX">5</TAG> mitosis por campo de gran aumento).
+    La función renal continuó deteriorándose, por lo que finalmente entra en programa de hemodiálisis periódica, un año y siete meses después del hallazgo del <TAG TYPE="OTRO_NUMERO_IDENTIF">GIST</TAG>, con el diagnóstico de insuficiencia renal crónica secundaria a amiloidosis AA.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Florencio García Martín</TAG>, <TAG TYPE="PROFESION">Servicio de Nefrología</TAG>, <TAG TYPE="HOSPITAL">Hospital 12 de Octubre</TAG>, <TAG TYPE="CALLE">Ginzo de Limia 55, 9o C</TAG>, <TAG TYPE="TERRITORIO">28034</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG> <TAG TYPE="CORREO_ELECTRONICO">florenciogarcia@yahoo.es</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Manuel Jesús Rico Lozano
+DNI: 54126855N
+Fecha de nacimiento: 30/12/1988
+Género: Masculino
+Domicilio: Calle de Atocha 66
+Ciudad: Elche, Navarra, Navarra
+Código postal: 31706
+Email: manueljesusrico@ual.es
+Teléfono fijo: +34 948 46 21 70
+Teléfono móvil: +34 648 10 07 92
+NHC: 1042981
+NASS: 640918844538
+Condición de riesgo: Técnico de Cuidados Auxiliares de Enfermería
+
+Datos asistenciales.
+Médico: Dr. Andrés Campos Escudero. NC 826820483. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 25/02/1997
+Episodio: 81923641
+Centro de salud: Centro de Salud Torrejón de Ardoz
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 8 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="Manuel Jesús" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="52" text="Rico Lozano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="54126855N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="30/12/1988" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="117" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="129" end="147" text="Calle de Atocha 66" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="161" text="Elche" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="170" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="179" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="31706" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="230" text="manueljesusrico@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="246" end="262" text="+34 948 46 21 70" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="279" end="295" text="+34 648 10 07 92" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="301" end="308" text="1042981" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="315" end="327" text="640918844538" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="349" end="393" text="Técnico de Cuidados Auxiliares de Enfermería" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="428" end="450" text="Andrés Campos Escudero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="455" end="464" text="826820483" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="466" end="501" text="Residente de 3° año en Oftalmología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="503" end="561" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="563" end="587" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="589" end="594" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="596" end="606" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="608" end="614" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="634" end="644" text="25/02/1997" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="655" end="663" text="81923641" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="681" end="714" text="Centro de Salud Torrejón de Ardoz" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="758" end="791" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="795" end="801" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="828" end="833" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

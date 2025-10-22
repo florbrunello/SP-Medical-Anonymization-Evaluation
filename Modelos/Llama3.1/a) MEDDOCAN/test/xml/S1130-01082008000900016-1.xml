@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Andrés</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rivera Guijarro</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7865748</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">28 76134805 13</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Avda. Islas Filipinas, 34</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28047</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/02/1948</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">68 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">03/03/2017</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Anestesiología, Reanimación y Terapéutica del Dolor</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">6-473-803</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ricardo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Navarro Suay</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 57981</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">68 años</TAG> asintomático, sin antecedentes de interés, remitido para estudio de una lesión a nivel del proceso uncinado del páncreas. La misma fue detectada incidentalmente por ecografía abdominal realizada para el estudio una de lumbalgia.
+    En la imagen de la tomografía computerizada de abdomen se describe una masa inhomogénea a nivel del proceso uncinado con un diámetro en sentido anteroposterior de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3,6 cm</TAG>, borrosidad de la grasa peripancreática y dilatación del conducto pancreático principal.
+    Se procede a una exploración con equipo lineal de ecoendoscopia (PENTAX UX 3630) donde se excluye la invasión de vía biliar y estructuras adyacentes. El estudio citológico del material obtenido por PAAF guiada por ecoendoscopia fue negativo para malignidad.
+    Con la sospecha de adenocarcinoma se realiza una duodenopancreatectomía cefálica con disección de ganglios linfáticos. Macroscópicamente se describe una lesión grisácea bien delimitada de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">1,8 cm x 1 cm</TAG> de consistencia blanda con aspecto necrótico en su centro con diagnóstico histopatológico de quiste linfoepitelial.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Ricardo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Navarro Suay</TAG> <TAG TYPE="PROFESION">Servicio de Anestesiología, Reanimación y Terapéutica del Dolor</TAG> <TAG TYPE="HOSPITAL">Hospital Universitario Central de la Defensa "Gómez Ulla"</TAG> <TAG TYPE="CALLE">Glorieta del Ejército, 1</TAG> <TAG TYPE="TERRITORIO">28047</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG> e-mail: <TAG TYPE="CORREO_ELECTRONICO">r_navarro_suay@yahoo.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

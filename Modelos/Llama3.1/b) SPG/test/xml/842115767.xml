@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Adam</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Molina Calderon</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">46699568T</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">25/06/1926</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Gobernador 94, 1Y</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">MelillaHuesca</TAG>, <TAG TYPE="TERRITORIO">Guipúzcoa</TAG>, <TAG TYPE="TERRITORIO">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">20198</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">adammolinacalderon@icloud.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 943 03 84 54</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 643 19 16 26</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7925343</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Esteban Andres Santiago</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">704660312</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuropsicólogo Clínico Investigador</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">11/04/1971</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">49820763</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Sur</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">exfumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">44 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

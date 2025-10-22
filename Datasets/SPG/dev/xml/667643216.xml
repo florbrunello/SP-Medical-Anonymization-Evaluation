@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Marina Miguel Serrano
+DNI: 22051979Q
+Fecha de nacimiento: 26/01/1962
+Género: Mujer
+Domicilio: Calle del Barquillo 9
+Ciudad: Yecla, Ciudad Real, Castilla-La Mancha
+Código postal: 13757
+Email: marinaserrano@icloud.com
+Teléfono fijo: +34 926 05 49 30
+Teléfono móvil: +34 626 32 84 03
+NHC: 7017409
+Condición de riesgo: Científico de Investigación
+
+Datos asistenciales.
+Médico: Dra. Clara Ortiz Andres. NC 306945233. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/05/2002
+Hospital: Hospital Clínic Universitario de Valencia
+Matrícula del coche: 2397UKN
+Modelo: Honda Civic
+VIN: VSDLQLWW8MY475472
+
+Informe clínico del paciente:
+Paciente no fumador de 40 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Marina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Miguel Serrano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="22051979Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="26/01/1962" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="110" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="143" text="Calle del Barquillo 9" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="157" text="Yecla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="170" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="190" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="13757" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="243" text="marinaserrano@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 926 05 49 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="292" end="308" text="+34 626 32 84 03" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="314" end="321" text="7017409" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="343" end="370" text="Científico de Investigación" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="636" end="646" text="22/05/2002" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="657" end="698" text="Hospital Clínic Universitario de Valencia" TYPE="HOSPITAL" comment=""/>
+        <ID id="T18" start="720" end="727" text="2397UKN" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="753" end="770" text="VSDLQLWW8MY475472" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="811" end="821" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="825" end="832" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="859" end="864" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gonzalo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Herrera Maldonado</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">68657961V</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/05/1937</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Luna 4</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Motril</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">28481</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">maldonado@protonmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 915 34 01 59</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 610 65 41 11</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8198277</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">693195254045</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Limpiador</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Luisa Aguilera Aguilar</TAG>. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Aguilera Aguilar</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 702453788</TAG>. <TAG TYPE="PROFESION">Neuróloga Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/08/2007</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Hospital Clínic Universitario Virgen de la Arrixaca</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">70 años</TAG> de edad, acompañado de su hermana, refiere un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">deterioro cognitivo progresivo</TAG> con pérdida de memoria reciente y dificultad para realizar actividades diarias. Presenta un historial de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>. En la exploración física, se encuentra con un estado de ánimo alterado, con signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">depresión</TAG>. La exploración neurológica revela un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">deterioro</TAG> en la función cognitiva, con dificultad para realizar pruebas de memoria y atención. Los datos analíticos muestran un aumento en la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">glucemia</TAG> y una disminución en la función renal.
+    La evolución clínica del paciente ha sido gradual, con un aumento en la gravedad de los síntomas en las últimas semanas. El paciente ha presentado episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">confusión</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">desorientación</TAG>, con dificultad para reconocer a familiares y amigos. La exploración de la base del cráneo no ha revelado signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hemorragia</TAG> o <TAG TYPE="OTROS_SUJETO_ASISTENCIA">edema cerebral</TAG>.
+    Se han solicitado pruebas de imagen, incluyendo una <TAG TYPE="PROFESION">resonancia magnética cerebral</TAG>, que ha revelado un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">atrofia cortical difusa</TAG> y una disminución en la función cognitiva. El diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">demencia alzhéimer</TAG> se ha confirmado mediante la exploración de la base del cráneo y la evaluación de la función cognitiva.
+    El tratamiento del paciente ha consistido en la administración de medicamentos para controlar la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, así como la realización de <TAG TYPE="PROFESION">terapia cognitiva</TAG> para mejorar la función cognitiva del paciente. El paciente y su familia han sido informados sobre la gravedad de la enfermedad y la necesidad de un seguimiento regular para controlar la evolución clínica del paciente.
+    Evolución y comentarios:
+    El paciente ha mostrado una respuesta favorable al tratamiento, con una disminución en la gravedad de los síntomas en las últimas semanas. Sin embargo, la evolución clínica del paciente sigue siendo incierta, y es necesario un seguimiento regular para controlar la evolución de la enfermedad.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Luisa Aguilera Aguilar</TAG>. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Aguilera Aguilar</TAG>. <TAG TYPE="PROFESION">Neuróloga Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

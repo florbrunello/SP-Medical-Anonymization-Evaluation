@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sonia Giménez Mateo
+DNI: 28458568R
+Fecha de nacimiento: 12/10/1979
+Género: F
+Domicilio: Calle de Amor de Dios 28
+Ciudad: Málaga, Región de Murcia, Región de Murcia
+Código postal: 30174
+Email: sonia-mateo@udc.es
+Teléfono fijo: +34 968 81 89 78
+Teléfono móvil: +34 668 04 26 48
+NHC: 3502518
+NASS: 148472849379
+
+Datos asistenciales.
+Médico: Dra. Remedios Torres Gutiérrez. NC 729610890. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 22/01/1987
+Hospital: Hospital Universitario de Basurto
+Matrícula del coche: 4884RKT
+Modelo: Toyota RAV4
+VIN: VSU906M506F437481
+
+Informe clínico del paciente:
+Paciente de ascendencia gitana de 7 años de edad, acompañado de su hermana. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es FZ253TPZ757. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es OS931MNR959. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Sonia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Giménez Mateo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="28458568R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="12/10/1979" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="140" text="Calle de Amor de Dios 28" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="155" text="Málaga" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="173" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="191" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="30174" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="238" text="sonia-mateo@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 968 81 89 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 668 04 26 48" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="3502518" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="323" end="335" text="148472849379" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="595" end="605" text="22/01/1987" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="616" end="649" text="Hospital Universitario de Basurto" TYPE="HOSPITAL" comment=""/>
+        <ID id="T18" start="671" end="678" text="4884RKT" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="704" end="721" text="VSU906M506F437481" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="765" end="783" text="ascendencia gitana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="787" end="793" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="820" end="827" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="915" end="926" text="FZ253TPZ757" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T24" start="1009" end="1020" text="OS931MNR959" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

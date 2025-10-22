@@ -1,0 +1,42 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 32	Ana María Pardo García
+T2	ID_SUJETO_ASISTENCIA 46 65	53129515K
+T3	FECHAS 101 111	09/07/2017
+T4	SEXO_SUJETO_ASISTENCIA 122 123	M
+T5	CALLE 136 152	Calle del Rollo 99
+T6	TERRITORIO 161 173	Cuenca, Santa Cruz de Tenerife, Canarias
+T7	TERRITORIO 183 189	38646
+T8	CORREO_ELECTRONICO 218 236	garcia62@imibic.org
+T9	NUMERO_TELEFONO 240 253	+34 922 09 37 64
+T10	NUMERO_TELEFONO 264 279	+34 622 75 77 35
+T11	ID_SUJETO_ASISTENCIA 291 300	3845390
+T12	ID_SUJETO_ASISTENCIA 312 321	816355158466
+T13	CONDICION_DE_RIESGO 334 343	Paciente pediátrico
+T14	NOMBRE_PERSONAL_SANITARIO 355 390	Dra. Marta Marín Román
+T15	ID_TITULACION_PERSONAL_SANITARIO 412 423	397898362
+T16	PROFESION 435 443	Cardióloga Especialista en Electrofisiología
+T17	INSTITUCION 446 465	Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)
+T18	CALLE 476 494	Avenida Monforte de Lemos 3-5
+T19	TERRITORIO 506 515	28029
+T20	PAIS 517 523	España
+T21	FECHAS 526 536	30/05/2019
+T22	HOSPITAL 558 578	Hospital Universitario Marqués de Valdecilla
+T23	NOMBRE_PERSONAL_SANITARIO 599 633	Dr. Carlos García López
+T24	ID_TITULACION_PERSONAL_SANITARIO 665 676	654321987
+T25	PROFESION 687 695	Pediatra Especialista en Cardiología Infantil
+T26	HOSPITAL 706 726	Hospital Universitario La Paz
+T27	CALLE 737 755	Paseo de la Castellana 261
+T28	TERRITORIO 766 772	28046
+T29	PAIS 773 779	España
+T30	INFORME_CLINICO 780 809	Paciente de descendencia africana de un año de edad, acompañado de su tía, con antecedentes de hipertensión materna durante el embarazo.
+T31	FECHAS 810 820	37,5 C
+T32	NUMERO_FAMILIARES 832 839	110/70 mmHg
+T33	NUMERO_FAMILIARES 850 855	120 lpm
+T34	ESTADO_GENERAL 866 875	Consciente, orientado, sin sudoración, eupneico, con buen estado de nutrición e hidratación
+T35	EXPLORACION_FISICA 886 903	Tª 37,5 C; T.A: 110/70 mmHg; Fc: 120 lpm
+T36	EXPLORACION_FISICA 914 931	Se encuentra consciente, orientado, sin sudoración, eupneico, con buen estado de nutrición e hidratación
+T37	EXPLORACION_FISICA 958 975	Auscultación cardíaca sin soplos, roces ni extratonos
+T38	EXPLORACION_FISICA 1006 1023	Auscultación pulmonar con conservación del murmullo vesicular
+T39	EXPLORACION_FISICA 1054 1071	Abdomen blando, depresible, sin masas ni megalias
+T40	EXPLORACION_FISICA 1102 1119	En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad
+T41	EXPLORACION_FISICA 1147 1164	Extremidades sin varices ni edemas
+T42	EXPLORACION_FISICA 1202 121

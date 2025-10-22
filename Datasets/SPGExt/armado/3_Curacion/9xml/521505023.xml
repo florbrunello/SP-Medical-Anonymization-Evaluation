@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mercedes Calvo Jurado</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">74616840X</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/10/2022</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de las Tres Cruces 68, 2W</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">San Pedro del Pinatar</TAG>, <TAG TYPE="TERRITORIO">Cantabria</TAG>, <TAG TYPE="TERRITORIO">Cantabria</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">39830</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jurado@outlook.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 942 65 36 13</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 642 76 22 82</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0561216</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ingeniero de Minas</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Carmen Morales Iglesias</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 042296619</TAG>. <TAG TYPE="PROFESION">Investigadora Clínica en Epidemiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/06/2023</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">52387905</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Regional Universitario de Málaga</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTRO">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 meses de edad</TAG>, acompañado de su hermana.
+    Antecedentes:
+    La paciente fue derivada desde el Servicio de Pediatría del <TAG TYPE="HOSPITAL">Hospital de San Pedro del Pinatar</TAG> con una historia de diarrea persistente y vómitos durante las últimas 48 horas. La madre informó que la paciente había estado bien hasta hace 3 días, cuando comenzó a presentar síntomas de gastroenteritis.
+    Evolución y comentarios:
+    La paciente se encuentra en buen estado general, con signos vitales normales. La exploración física revela: temperatura <TAG TYPE="FECHAS">37,2°C</TAG>; frecuencia cardíaca <TAG TYPE="FECHAS">120/min</TAG>; frecuencia respiratoria <TAG TYPE="FECHAS">40/min</TAG>. La paciente está consciente y orientada, con buen estado de hidratación.
+    Pruebas diagnósticas:
+    Se han solicitado pruebas de laboratorio para determinar la causa subyacente de la gastroenteritis, incluyendo análisis de heces, sangre y orina. También se ha solicitado una radiografía de abdomen para evaluar la presencia de obstrucciones o otras complicaciones.
+    Tratamiento:
+    La paciente ha sido tratada con líquidos orales y antibióticos para prevenir la infección bacteriana. También se le ha administrado un régimen de antieméticos para controlar los vómitos.
+    Pronóstico:
+    La paciente se encuentra en buen estado general y se espera que recupere rápidamente de la gastroenteritis. Se le será seguida de cerca para asegurarse de que no haya complicaciones.
+    Remitido por:
+    El paciente fue remitido por el <TAG TYPE="HOSPITAL">Servicio de Pediatría del Hospital de San Pedro del Pinatar</TAG>.
+  </TEXT>
+</MEDDOCAN>

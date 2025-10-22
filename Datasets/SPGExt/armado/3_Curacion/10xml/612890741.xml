@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Emilio Espinosa Marín</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">84904537Z</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/04/2021</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Génova 74, 2S</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Cáceres</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">17725</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">espinosa@outlook.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 53 59 43</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 672 72 34 89</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3197232</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">751046541559</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Operador de Maquinaria Agrícola</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jesús</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Campos Lara</TAG> <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 909703787</TAG> <TAG TYPE="PROFESION">Residente de 2° año en Pediatría</TAG> <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG> <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG> <TAG TYPE="TERRITORIO">28029</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG> <TAG TYPE="PAIS">España</TAG>
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/05/2024</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">15998402</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Cabueñes</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia europea oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años de edad</TAG>, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuelo</TAG>, que acude a la consulta con una temperatura de <TAG TYPE="FECHAS">38,5°C</TAG> y un estado general de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">malestar</TAG>. El paciente ha estado con <TAG TYPE="FECHAS">fiebre durante las últimas 48 horas</TAG> y ha presentado <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor de garganta</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tos seca</TAG>. El abuelo informa que el paciente ha estado en contacto con un familiar que tiene una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infección respiratoria</TAG>.
+    Exploración física:
+    La exploración física revela: temperatura de <TAG TYPE="FECHAS">38,5°C</TAG>, pulso de <TAG TYPE="FECHAS">120 bpm</TAG>, frecuencia respiratoria de <TAG TYPE="FECHAS">30 rpm</TAG>. El paciente está consciente, orientado y con buen estado de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nutrición e hidratación</TAG>. La exploración de la cabeza y cuello no muestra <TAG TYPE="OTROS_SUJETO_ASISTENCIA">adenopatías</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bocio</TAG>. La exploración cardíaca es normal y la exploración pulmonar muestra conservación del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">murmurio vesicular</TAG>.
+    Pruebas diagnósticas:
+    Se solicitan pruebas para determinar la causa de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infección respiratoria</TAG>, incluyendo una <TAG TYPE="FECHAS">radiografía de tórax</TAG> y una prueba de detección de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antígenos respiratorios</TAG>.
+    Tratamiento:
+    Se prescribe un tratamiento con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antibióticos</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antipiréticos</TAG> para aliviar los síntomas y prevenir complicaciones. El paciente se le recomienda <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hidratación adecuada</TAG>.
+    Evolución y comentarios:
+    El paciente se encuentra en observación en la unidad de hospitalización y se le sigue de cerca para determinar la evolución de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infección</TAG>. Se realizarán pruebas adicionales para determinar la causa exacta de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infección</TAG> y ajustar el tratamiento según sea necesario.
+    Remitido por:
+    El paciente fue remitido por el médico de cabecera, <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pérez García</TAG>, quien informó sobre la presencia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fiebre</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor de garganta</TAG> en el paciente.
+  </TEXT>
+</MEDDOCAN>

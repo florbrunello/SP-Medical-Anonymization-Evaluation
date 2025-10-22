@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carolina</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ardoain Artiles</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">52564</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">32 50689435 45</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle puerto principe 18, 8C</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Menorca</TAG>.
+    CP: <TAG TYPE="TERRITORIO">07703</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/03/1975</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">43 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">06/04/2018</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Oftalmologia</TAG>.
+    Episodio: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">58244</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jordi</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bosch Valero</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">07 08 94861</TAG>.
+    Historia Actual: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mujer de 43 años con dolor en OI y fotofobia</TAG>. Antecedente de intervención de <TAG TYPE="OTRO_NUMERO_IDENTIF">Scopinaro</TAG> un año atrás, cursando un postoperatorio con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">anemia</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">varices en extremidades inferiores</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipocalcemia</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gonartritis seronegativa</TAG>.
+    En la exploración del OI se apreciaba un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">abceso marginal</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">epiteliopatía difusa</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">queratinización conjuntival</TAG>. AV corregida de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0,6</TAG> en OD y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0,3</TAG> en OI. Tras resolverse con <TAG TYPE="OTRO_NUMERO_IDENTIF">ciclopentolato</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">Ciclopléjico</TAG>®, <TAG TYPE="INSTITUCION">AlconCusí, S.A.</TAG>, <TAG TYPE="PAIS">Barcelona, España</TAG>) y una <TAG TYPE="OTRO_NUMERO_IDENTIF">quinolona tópica</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">Chibroxín</TAG>®, <TAG TYPE="INSTITUCION">Thea S.A.</TAG>, <TAG TYPE="PAIS">Barcelona, España</TAG>), se apreció que la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">epiteliopatía</TAG> no mejoraba pese al tratamiento lubricante (<TAG TYPE="OTRO_NUMERO_IDENTIF">Viscofresh</TAG>® <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0,5%</TAG>, <TAG TYPE="INSTITUCION">Allergan S.A.</TAG>), manteniendo una AV de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6/10</TAG> en OD y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5/10</TAG> en OI. Se añadió <TAG TYPE="OTRO_NUMERO_IDENTIF">pilocarpina oral</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">Salagen</TAG>®, <TAG TYPE="INSTITUCION">Novartis SA</TAG>, <TAG TYPE="PAIS">Barcelona, España</TAG>) <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 mg</TAG> cada <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 horas</TAG>, sin modificación del test de <TAG TYPE="OTRO_NUMERO_IDENTIF">Schirmer</TAG> (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">2-3 mm</TAG> en OD y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 mm</TAG> en OI). Al persistir la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">queratinización conjuntival</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">epiteliopatía difusa</TAG> se añadió <TAG TYPE="OTRO_NUMERO_IDENTIF">suero autólogo al 20%</TAG>. En tres semanas aumentó la <TAG TYPE="OTRO_NUMERO_IDENTIF">película lagrimal</TAG> (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">Schirmer</TAG> <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 mm</TAG> en OD y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 mm</TAG> en OI) remitiendo la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hiperqueratinización conjuntival</TAG>, con una AV final de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8/10</TAG> en AO.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jordi</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bosch Valero</TAG>. <TAG TYPE="CALLE">Carrer de la Pampa, 17</TAG> <TAG TYPE="TERRITORIO">07703 Mahón</TAG> (<TAG TYPE="TERRITORIO">Menorca</TAG>) <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">jordiperebosch@yahoo.es</TAG>
+  </TEXT>
+</MEDDOCAN>

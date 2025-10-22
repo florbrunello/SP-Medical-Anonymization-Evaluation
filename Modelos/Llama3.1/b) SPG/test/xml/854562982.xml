@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Nuria</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Padilla Valero</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">78649432N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/10/1984</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Bravo Murillo 53</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Marbella</TAG>, <TAG TYPE="TERRITORIO">Lugo</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">27984</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">nuria_valero@outlook.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 982 90 12 32</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 982 90 11 15</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5260079</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">318087188292</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Inspector de Seguridad Minera</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Ramón Velasco Lorenzo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">485498658</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">75810585</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Regional Universitario de Málaga</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> de edad. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">ZA576LFV165</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">firma biométrica</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">YA484WVJ985</TAG>.
+  </TEXT>
+</MEDDOCAN>

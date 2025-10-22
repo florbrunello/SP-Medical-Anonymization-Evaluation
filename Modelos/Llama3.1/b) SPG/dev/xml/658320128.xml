@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gerard</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santos Ibáñez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">67138750W</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/09/1985</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Paz 58</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Cáceres</TAG>, <TAG TYPE="TERRITORIO">Formentera</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07493</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">gerard-santos@outlook.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 04 65 32</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 771 59 16 90</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8944290</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">393782043599</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Ingeniero de Minas</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Abel Rojas Bernal</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">097338198</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Endocrinólogo Especialista en Diabetes</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/07/2014</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Fundació Jiménez Díaz</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5587JSP</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Honda Civic</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSZWKS46AXY417226</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">28 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

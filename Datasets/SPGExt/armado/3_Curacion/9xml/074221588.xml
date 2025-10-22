@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Dolores</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Abad Gil</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">54333063W</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/03/2012</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio:  <TAG TYPE="CALLE">Calle del Sacramento 27</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Béjar</TAG>, <TAG TYPE="TERRITORIO">Pontevedra</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">36683</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariadolores-abad.gil@uca.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 986 06 53 49</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 786 94 91 82</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8655875</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">659416185562</TAG>
+    Datos asistenciales.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mateo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Diez Mateos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">311954286</TAG>. <TAG TYPE="PROFESION">Residente</TAG> de <TAG TYPE="PROFESION">3° año</TAG> en <TAG TYPE="PROFESION">Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/10/2016</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">15933269</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Barajas</TAG>
+  </TEXT>
+</MEDDOCAN>

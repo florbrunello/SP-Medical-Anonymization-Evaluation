@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Martina Herrero Manzano
+DNI: 44052423V
+Fecha de nacimiento: 03/12/2019
+Género: Mujer
+Domicilio: Calle de Alberto Aguilera 63, 6B
+Ciudad: Torrejón de Ardoz, Valladolid, Castilla y León
+Código postal: 47192
+Email: martina.manzano@uhu.es
+Teléfono fijo: +34 983 96 68 56
+Teléfono móvil: +34 783 77 53 99
+NHC: 2423796
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. Ismael Ramos Abad. NC 804565623. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/07/2022
+Hospital: Hospital Universitari Vall d'Hebron
+
+Informe clínico del paciente:
+Paciente de ascendencia oceánica de 2 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Martina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="51" text="Herrero Manzano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="44052423V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="03/12/2019" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="112" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="156" text="Calle de Alberto Aguilera 63, 6B" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="165" end="182" text="Torrejón de Ardoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="184" end="194" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="196" end="211" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="227" end="232" text="47192" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="240" end="262" text="martina.manzano@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="278" end="294" text="+34 983 96 68 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="311" end="327" text="+34 783 77 53 99" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="333" end="340" text="2423796" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="362" end="387" text="Trabajador de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="422" end="439" text="Ismael Ramos Abad" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="444" end="453" text="804565623" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="455" end="494" text="Residente de 4° año en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="496" end="580" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="582" end="611" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="613" end="618" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="620" end="626" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="628" end="634" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="654" end="664" text="12/07/2022" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="675" end="710" text="Hospital Universitari Vall d'Hebron" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="754" end="774" text="ascendencia oceánica" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="778" end="784" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="811" end="816" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

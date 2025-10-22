@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Andrea Vera</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Crespo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">26440757A</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/06/1933</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Ana 23</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Jaén</TAG>, <TAG TYPE="TERRITORIO">Castellón</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">12150</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">crespo@h12o.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 964 82 02 51</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 664 32 70 86</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2479114</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tomás Del Rio Marín</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">271829060</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">22/09/1937</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Oeste</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2584JHD</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ford Mustang</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSRFRCMDHNG242967</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática del sudeste</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se registró una sesión de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="ID_CONTACTO_ASISTENCIAL">FD665GEN105</TAG>.
+  </TEXT>
+</MEDDOCAN>

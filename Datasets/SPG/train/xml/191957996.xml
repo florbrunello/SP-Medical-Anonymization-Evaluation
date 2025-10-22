@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Elena Aparicio Castro
+DNI: 47780168Z
+Fecha de nacimiento: 01/03/2012
+Género: Mujer
+Domicilio: Calle de las Letras 23
+Ciudad: Ronda, Ciudad Real, Castilla-La Mancha
+Código postal: 13678
+Email: mariaelena@uhu.es
+Teléfono fijo: +34 926 40 36 29
+Teléfono móvil: +34 626 75 07 87
+NHC: 9048235
+
+Datos asistenciales.
+Médico: Dr. José Luis Cuesta Aguilera. NC 613317502. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 12/06/2016
+Episodio: 84731653
+Centro de salud: Centro de Salud Málaga Sur
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 4 años de edad, acompañado de su madre. Se registró una sesión de huella dactilar, el código obtenido para revisarla es HU346GXF600. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="María Elena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="55" text="Aparicio Castro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="47780168Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="01/03/2012" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="116" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="150" text="Calle de las Letras 23" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="164" text="Ronda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="177" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="197" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="13678" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="243" text="mariaelena@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 926 40 36 29" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="292" end="308" text="+34 626 75 07 87" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="314" end="321" text="9048235" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="356" end="381" text="José Luis Cuesta Aguilera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="386" end="395" text="613317502" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="397" end="434" text="Residente de 4° año en Endocrinología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="436" end="503" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="505" end="532" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="534" end="539" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="541" end="548" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="550" end="556" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="576" end="586" text="12/06/2016" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="597" end="605" text="84731653" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="623" end="649" text="Centro de Salud Málaga Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="693" end="714" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="718" end="724" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="751" end="756" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T29" start="838" end="849" text="HU346GXF600" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

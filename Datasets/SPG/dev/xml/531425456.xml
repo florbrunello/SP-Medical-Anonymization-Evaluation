@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Vicente Salazar Miguel
+DNI: 97261304P
+Fecha de nacimiento: 22/09/1973
+Género: H
+Domicilio: Calle de Moratín 89
+Ciudad: Cáceres, Asturias, Asturias
+Código postal: 33744
+Email: vicentemiguel@ciberer.es
+Teléfono fijo: +34 984 69 77 47
+FAX: +34 984 08 60 77
+NHC: 9190058
+NASS: 982960571712
+
+Datos asistenciales.
+Médico: Dr. Mateo Torres Escobar. NC 344612175. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/06/1994
+Hospital: Hospital Universitari i Politècnic La Fe
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 20 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Vicente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Salazar Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="97261304P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="22/09/1973" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="138" text="Calle de Moratín 89" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="154" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="164" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="174" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="33744" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="227" text="vicentemiguel@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="243" end="259" text="+34 984 69 77 47" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="265" end="281" text="+34 984 08 60 77" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="287" end="294" text="9190058" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="301" end="313" text="982960571712" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="348" end="368" text="Mateo Torres Escobar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="373" end="382" text="344612175" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="384" end="419" text="Investigador Principal en Parkinson" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="421" end="510" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="512" end="541" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="543" end="548" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="550" end="556" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="558" end="564" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="584" end="594" text="26/06/1994" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="605" end="645" text="Hospital Universitari i Politècnic La Fe" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="686" end="703" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="707" end="714" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

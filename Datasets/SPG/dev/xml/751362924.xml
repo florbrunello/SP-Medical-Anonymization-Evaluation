@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Jaime Ibáñez Herrera
+DNI: 64235475V
+Fecha de nacimiento: 21/01/1983
+Género: Varón
+Domicilio: Calle de los Relatores 20
+Ciudad: Tarragona, Badajoz, Extremadura
+Código postal: 06248
+Email: herrera@ciberned.es
+Teléfono fijo: +34 924 06 49 55
+FAX: +34 924 40 90 66
+NHC: 5790024
+Condición de riesgo: Farmacéutico
+
+Datos asistenciales.
+Médico: Dr. Alberto Castaño Guerra. NC 805772201. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/01/2024
+Hospital: Hospital Universitario La Paz
+
+Informe clínico del paciente:
+Paciente migrante de 40 años de edad, acompañado de su amiga. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Jaime" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Ibáñez Herrera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="64235475V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="21/01/1983" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="146" text="Calle de los Relatores 20" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="164" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="173" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="186" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="06248" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="234" text="herrera@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 924 06 49 55" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="272" end="288" text="+34 924 40 90 66" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="294" end="301" text="5790024" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="323" end="335" text="Farmacéutico" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="370" end="392" text="Alberto Castaño Guerra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="397" end="406" text="805772201" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="408" end="442" text="Residente de 3° año en Psiquiatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="444" end="514" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="516" end="545" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="547" end="552" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="554" end="560" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="562" end="568" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="588" end="598" text="18/01/2024" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="609" end="638" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="679" end="687" text="migrante" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="691" end="698" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="725" end="730" text="amiga" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

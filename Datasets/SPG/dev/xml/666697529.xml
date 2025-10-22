@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Alfonso Andres Camacho
+DNI: 31373659A
+Fecha de nacimiento: 11/10/1973
+Género: Hombre
+Domicilio: Calle de Almagro 76
+Ciudad: Getafe, Teruel, Aragón
+Código postal: 44702
+Email: alfonso_andres_camacho@uhu.es
+Teléfono fijo: +34 978 35 24 04
+Teléfono móvil: +34 678 29 92 32
+NHC: 0215437
+NASS: 448729669155
+Condición de riesgo: Trabajador de Mantenimiento
+
+Datos asistenciales.
+Médico: Dr. Izan Paredes Díaz. NC 460271844. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/07/2024
+Episodio: 26181587
+Hospital: Hospital Clínic Barcelona
+Matrícula del coche: 9597AWV
+Modelo: Mazda CX-5
+VIN: VSM46ZGMYDL453338
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 50 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Alfonso" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Andres Camacho" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="31373659A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="11/10/1973" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="112" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="143" text="Calle de Almagro 76" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="158" text="Getafe" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="166" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="174" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="44702" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="232" text="alfonso_andres_camacho@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 978 35 24 04" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 678 29 92 32" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="0215437" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="448729669155" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="351" end="378" text="Trabajador de Mantenimiento" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="413" end="430" text="Izan Paredes Díaz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="435" end="444" text="460271844" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="446" end="479" text="Residente de 5° año en Neurología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="481" end="570" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="572" end="601" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="603" end="608" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="610" end="616" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="618" end="624" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="644" end="654" text="13/07/2024" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="665" end="673" text="26181587" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="684" end="709" text="Hospital Clínic Barcelona" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="731" end="738" text="9597AWV" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="763" end="780" text="VSM46ZGMYDL453338" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="821" end="842" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="846" end="853" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

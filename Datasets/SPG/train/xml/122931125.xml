@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Antonia Vicente Marcos
+DNI: 44876949Q
+Fecha de nacimiento: 08/11/1925
+Género: Mujer
+Domicilio: Calle de Mesón de Paredes 32, 1W
+Ciudad: Pamplona, Ciudad Real, Castilla-La Mancha
+Código postal: 13507
+Email: antonia-marcos1886@ciberer.es
+Teléfono fijo: +34 926 74 30 11
+Teléfono móvil: +34 726 45 73 27
+NHC: 7617992
+NASS: 860866347794
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dr. Antonio José Hurtado Cuesta. NC 049265131. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/11/2009
+Hospital: Hospital Universitario La Paz
+Matrícula del coche: 2505HXN
+Modelo: Toyota RAV4
+VIN: VSJK4RZ123X922226
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 84 años de edad, acompañado de su hermana. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es JU615FWK451. Se registró una sesión de firma biométrica, el código obtenido para revisarla es TK089NQF430. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es XA170LCE499. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Antonia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Vicente Marcos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="44876949Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="08/11/1925" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="155" text="Calle de Mesón de Paredes 32, 1W" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="164" end="172" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="174" end="185" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="187" end="205" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="221" end="226" text="13507" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="234" end="263" text="antonia-marcos1886@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="279" end="295" text="+34 926 74 30 11" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="312" end="328" text="+34 726 45 73 27" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="334" end="341" text="7617992" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="348" end="360" text="860866347794" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="382" end="400" text="Ingeniero de Minas" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="435" end="462" text="Antonio José Hurtado Cuesta" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="467" end="476" text="049265131" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="478" end="513" text="Neurólogo Especialista en Alzheimer" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="515" end="604" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="606" end="635" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="637" end="642" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="644" end="650" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="652" end="658" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="678" end="688" text="27/11/2009" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="699" end="728" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="750" end="757" text="2505HXN" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="783" end="800" text="VSJK4RZ123X922226" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="844" end="872" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="876" end="883" text="84 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="910" end="917" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T32" start="1005" end="1016" text="JU615FWK451" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T33" start="1099" end="1110" text="TK089NQF430" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T34" start="1193" end="1204" text="XA170LCE499" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

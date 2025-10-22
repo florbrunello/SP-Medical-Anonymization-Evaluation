@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Diego Plaza Esteban
+DNI: 23776990G
+Fecha de nacimiento: 28/02/1953
+Género: H
+Domicilio: Calle de la Ribera 32
+Ciudad: Ferrol, Lérida, Cataluña
+Código postal: 25798
+Email: plaza639@gmail.com
+Teléfono fijo: +34 973 32 47 81
+Teléfono móvil: +34 773 83 93 36
+NHC: 9207980
+NASS: 887850916449
+
+Datos asistenciales.
+Médico: Dr. Hugo Fuentes León. NC 894498282. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/07/2014
+Centro de salud: Centro de Salud Málaga Oeste
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 61 años de edad, acompañado de su yerno. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Diego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Plaza Esteban" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="23776990G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="28/02/1953" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="137" text="Calle de la Ribera 32" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="152" text="Ferrol" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="154" end="160" text="Lérida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="162" end="170" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="186" end="191" text="25798" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="199" end="217" text="plaza639@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="233" end="249" text="+34 973 32 47 81" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="266" end="282" text="+34 773 83 93 36" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="288" end="295" text="9207980" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="302" end="314" text="887850916449" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="349" end="366" text="Hugo Fuentes León" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="371" end="380" text="894498282" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="382" end="422" text="Especialista en Enfermedades Infecciosas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="424" end="508" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="510" end="539" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="541" end="546" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="548" end="554" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="556" end="562" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="582" end="592" text="26/07/2014" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="610" end="638" text="Centro de Salud Málaga Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="679" end="696" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="700" end="707" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="734" end="739" text="yerno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gregorio</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gracia Moya</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">94447021M</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/02/1971</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Arganzuela 61</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Aranda de Duero</TAG>, <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">13888</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">gregorio-gracia.moya1148@salud.madrid.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 14 02 52</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 626 64 04 40</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7483885</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">477875223915</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador Agrícola</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Catalina Esteban Calvo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">762482850</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardióloga Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">07/10/2009</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">69072733</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Aluche</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">38 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hija</TAG>. Se registró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP (en red interna)</TAG> <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">192.168.180.180</TAG>, con <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">dirección MAC</TAG> <TAG TYPE="IDENTIF_BIOMETRICOS">50:74:2A:3C:93:91</TAG>.
+  </TEXT>
+</MEDDOCAN>

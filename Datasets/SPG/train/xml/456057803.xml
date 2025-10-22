@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Vicente Izquierdo Méndez
+DNI: 77262568W
+Fecha de nacimiento: 29/08/1981
+Género: Varón
+Domicilio: Calle de Moratín 84
+Ciudad: Murcia, Navarra, Navarra
+Código postal: 31167
+Email: vicente_izquierdo@ual.es
+Teléfono fijo: +34 948 50 43 05
+Teléfono móvil: +34 748 28 75 65
+NHC: 3284393
+Condición de riesgo: Guardia de Seguridad
+
+Datos asistenciales.
+Médico: Dr. Gregorio González Palacios. NC 290445250. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 08/06/2010
+Centro de salud: Centro de Salud Arganzuela
+
+Informe clínico del paciente:
+Paciente vegano de 28 años de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es SI802WOB977. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Vicente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="52" text="Izquierdo Méndez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="77262568W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="29/08/1981" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="113" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="144" text="Calle de Moratín 84" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="159" text="Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="168" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="177" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="193" end="198" text="31167" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="206" end="230" text="vicente_izquierdo@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="246" end="262" text="+34 948 50 43 05" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="279" end="295" text="+34 748 28 75 65" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="301" end="308" text="3284393" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="330" end="350" text="Guardia de Seguridad" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="385" end="411" text="Gregorio González Palacios" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="416" end="425" text="290445250" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="427" end="470" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="472" end="530" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="532" end="556" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="558" end="563" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="565" end="575" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="577" end="583" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="603" end="613" text="08/06/2010" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="631" end="657" text="Centro de Salud Arganzuela" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="698" end="704" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="708" end="715" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T28" start="807" end="818" text="SI802WOB977" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

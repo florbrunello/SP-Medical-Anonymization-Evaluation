@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iñigo Salas Escobar</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">97746584B</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/02/1990</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Fe 85</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Fuenlabrada</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">17588</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">salas-escobar@imibic.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 96 66 31</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 672 22 06 86</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1182930</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">498914918497</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Sanitización</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Enrique Vila Villar</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">218427771</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/04/2007</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Sur</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">17 años</TAG> de edad, con <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">descendencia africana</TAG>, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedades respiratorias crónicas</TAG>, fue ingresado en el Servicio de Urgencias por presentar <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas de tos y dificultad para respirar</TAG>. La exploración física reveló <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fiebre alta, taquipnea y estertores en ambos pulmones</TAG>. Se solicitó <TAG TYPE="OTRO_NUMERO_IDENTIF">radiografía de tórax</TAG>, que mostró una imagen de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consolidación pulmonar en el lóbulo superior derecho</TAG>.
+    La evolución clínica del paciente fue rápida, con una gran producción de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">esputo y dificultad para respirar</TAG>, lo que llevó a la instalación de un <TAG TYPE="OTRO_NUMERO_IDENTIF">ventilador mecánico</TAG> para mantener la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">oxigenación adecuada</TAG>. Se realizaron pruebas de laboratorio, incluyendo <TAG TYPE="OTRO_NUMERO_IDENTIF">hemograma, bioquímica y cultivo de esputo</TAG>, que mostraron una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infección por Klebsiella pneumoniae</TAG>.
+    El tratamiento se centró en la administración de <TAG TYPE="OTRO_NUMERO_IDENTIF">antibióticos específicos</TAG> para la infección, así como la <TAG TYPE="OTRO_NUMERO_IDENTIF">ventilación mecánica</TAG> para mantener la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">oxigenación adecuada</TAG>. El paciente recibió <TAG TYPE="OTRO_NUMERO_IDENTIF">oxígeno suplementario</TAG> y se le administraron <TAG TYPE="OTRO_NUMERO_IDENTIF">analgésicos</TAG> para aliviar el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor y la incomodidad</TAG>.
+    La evolución del paciente fue favorable, con una mejora significativa en los <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas y la capacidad respiratoria</TAG>. El paciente fue <TAG TYPE="OTRO_NUMERO_IDENTIF">extubado</TAG> y se le permitió <TAG TYPE="OTRO_NUMERO_IDENTIF">caminar y realizar actividades físicas</TAG> para mejorar la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">función pulmonar</TAG>. Se le realizó un <TAG TYPE="OTRO_NUMERO_IDENTIF">seguimiento estrecho</TAG> para detectar cualquier <TAG TYPE="OTROS_SUJETO_ASISTENCIA">complicación o recaída</TAG>.
+    Evolución y comentarios:
+    El paciente fue dado de alta después de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 días</TAG> de ingreso, con una mejora significativa en la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">capacidad respiratoria y la calidad de vida</TAG>. Se le recomendó seguir un <TAG TYPE="OTRO_NUMERO_IDENTIF">tratamiento de rehabilitación</TAG> para mejorar la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">función pulmonar y prevenir recaídas en el futuro</TAG>.
+    Remitido por:
+    El paciente fue remitido a su <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">médico de cabecera</TAG> para un <TAG TYPE="OTRO_NUMERO_IDENTIF">seguimiento estrecho</TAG> y para que se le realicen <TAG TYPE="OTRO_NUMERO_IDENTIF">pruebas de rutina</TAG> para detectar cualquier <TAG TYPE="OTROS_SUJETO_ASISTENCIA">complicación o recaída</TAG>. Se le recomendó que se <TAG TYPE="OTRO_NUMERO_IDENTIF">mantenga en reposo</TAG> y evite <TAG TYPE="OTRO_NUMERO_IDENTIF">actividades físicas intensas</TAG> durante un período de tiempo para permitir la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">recuperación completa de los pulmones</TAG>.
+  </TEXT>
+</MEDDOCAN>

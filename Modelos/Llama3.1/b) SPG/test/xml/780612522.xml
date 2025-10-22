@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Manuel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vila Mesa</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">43146852W</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">16/03/1986</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Paseo de la Castellana 96</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="TERRITORIO">Las Palmas</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">35071</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">manuel@aol.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 928 24 66 68</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 928 27 40 90</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8568434</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">602629766430</TAG>
+    Condición de riesgo: 
+    <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Ángel Santos Casas</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">555658920</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neurólogo Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">21/03/2022</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">21495814</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Norte</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">36 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">marido</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">YR690OMT006</TAG>.
+  </TEXT>
+</MEDDOCAN>

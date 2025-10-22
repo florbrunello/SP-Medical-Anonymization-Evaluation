@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alvaro</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rubio Benito</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3496345</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">46 38264865 44</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Avenida del planetario 66, 4D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28034</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/12/1979</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">38 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">15/03/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Noelia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rubio Álvaro</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 55478</TAG>.
+    Informe clínico del paciente: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">38 años</TAG>, sin antecedentes de interés, diagnosticado de síndrome depresivo y en tratamiento con <TAG TYPE="PROFESION">venlafaxina</TAG> (<TAG TYPE="MEDDOCAN">75 mg</TAG>- <TAG TYPE="MEDDOCAN">150 mg</TAG> - <TAG TYPE="MEDDOCAN">150 mg</TAG> v.o.) y <TAG TYPE="PROFESION">alprazolam</TAG> (<TAG TYPE="MEDDOCAN">1-2 mg</TAG> v.o. /8 h). Acude al médico de Atención Primaria tras un episodio de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor torácico opresivo</TAG>, no irradiado y sin cortejo vegetativo, que oscila de intensidad durante el día pero que no cede a pesar del reposo. Se le realiza <TAG TYPE="PROFESION">electrocardiograma</TAG> (ECG) en el que se aprecia <TAG TYPE="OTROS_SUJETO_ASISTENCIA">taquicardia sinusal</TAG> en torno a <TAG TYPE="MEDDOCAN">120 lpm</TAG> con alteraciones en la repolarización.
+    Trasladado al hospital es ingresado en la Unidad de Cuidados Intensivos, donde un nuevo ECG confirma <TAG TYPE="OTROS_SUJETO_ASISTENCIA">taquicardia sinusal persistente</TAG> con alteraciones muy difusas en la repolarización, así como <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ondas T negativas</TAG> en la cara anterior y una prolongación del espacio QT en torno a <TAG TYPE="MEDDOCAN">500 msg</TAG>. Se diagnostica como un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Síndrome Coronario Agudo</TAG> y se inicia tratamiento convencional con <TAG TYPE="PROFESION">doble antiagregación</TAG> (<TAG TYPE="PROFESION">ácido acetilsalicílico</TAG> <TAG TYPE="MEDDOCAN">100 mg</TAG> v.o./24 h y <TAG TYPE="PROFESION">clopidogrel</TAG> <TAG TYPE="MEDDOCAN">75 mg</TAG> v.o. /24 h), <TAG TYPE="PROFESION">anticoagulación</TAG> (<TAG TYPE="PROFESION">enoxaparina</TAG> <TAG TYPE="MEDDOCAN">80 mg</TAG> s.c./24 h) e infusión intravenosa de <TAG TYPE="PROFESION">nitroglicerina</TAG> a <TAG TYPE="MEDDOCAN">10 ml/hora</TAG>. Al continuar con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">taquicardia sinusal</TAG> se inicia tratamiento con dosis bajas de <TAG TYPE="PROFESION">betabloqueantes</TAG> (<TAG TYPE="PROFESION">atenolol</TAG> <TAG TYPE="MEDDOCAN">25 mg</TAG> v.o./12 h).
+    La ausencia de alteraciones de marcadores cardíacos fue motivo de un nuevo ECG que indicó alteraciones regionales en la contractilidad. La realización de un estudio <TAG TYPE="PROFESION">angiográfico coronario</TAG> mostró un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ventrículo izquierdo</TAG> normal con una fracción de eyección del <TAG TYPE="MEDDOCAN">65%</TAG> y un análisis segmentario normal, mostrando unas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">arterias coronarias epicárdicas</TAG> sin estenosis angiográficas significativas, descartando la existencia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedad coronaria activa</TAG>.
+    Ante la sospecha de que los efectos cardiovasculares puedan ser producidos por la <TAG TYPE="PROFESION">venlafaxina</TAG>, se retira el fármaco y se instaura tratamiento con <TAG TYPE="PROFESION">sertralina</TAG> <TAG TYPE="MEDDOCAN">50 mg</TAG> v.o./ día, disminuyendo la dosis de <TAG TYPE="PROFESION">nitroglicerina</TAG> a <TAG TYPE="MEDDOCAN">5 ml/h</TAG> hasta su posterior suspensión. El paciente progresó adecuadamente y continuó en tratamiento con <TAG TYPE="PROFESION">sertralina</TAG> y <TAG TYPE="PROFESION">atenolol</TAG>, acortándose el intervalo QT y manteniendo unas frecuencias cardíacas de alrededor de <TAG TYPE="MEDDOCAN">80 lpm</TAG>, con evolución del ECG hacia la normalización de la repolarización.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Noelia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rubio Álvaro</TAG> Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">noerual@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

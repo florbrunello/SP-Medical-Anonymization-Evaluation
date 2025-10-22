@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Leo Roca Acosta
+DNI: 26836105G
+Fecha de nacimiento: 08/05/2000
+Género: Varón
+Domicilio: Calle de Tribulete 15
+Ciudad: Liria, Lugo, Galicia
+Código postal: 27195
+Email: leo_roca1659@icloud.com
+Teléfono fijo: +34 982 30 27 05
+FAX: +34 982 79 95 52
+NHC: 5360199
+NASS: 828692478599
+
+Datos asistenciales.
+Médico: Dr. José Ignacio Domínguez Mateos. NC 252690467. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 22/07/2014
+Episodio: 69856048
+Centro de salud: Centro de Salud Collado Villalba
+Matrícula del coche: 5554HHO
+Modelo: Jeep Wrangler
+VIN: VSWPZ7I3WEG118766
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 14 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Leo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="43" text="Roca Acosta" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="49" end="58" text="26836105G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="80" end="90" text="08/05/2000" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="99" end="104" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="137" text="Calle de Tribulete 15" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="151" text="Liria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="157" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="159" end="166" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="182" end="187" text="27195" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="195" end="218" text="leo_roca1659@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="234" end="250" text="+34 982 30 27 05" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="256" end="272" text="+34 982 79 95 52" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="278" end="285" text="5360199" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="292" end="304" text="828692478599" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="339" end="368" text="José Ignacio Domínguez Mateos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="373" end="382" text="252690467" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="384" end="415" text="Residente de 5° año en Urología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="417" end="489" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="491" end="514" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="516" end="521" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="523" end="529" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="531" end="537" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="557" end="567" text="22/07/2014" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="578" end="586" text="69856048" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="604" end="636" text="Centro de Salud Collado Villalba" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="658" end="665" text="5554HHO" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="693" end="710" text="VSWPZ7I3WEG118766" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="754" end="778" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="782" end="789" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="816" end="821" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

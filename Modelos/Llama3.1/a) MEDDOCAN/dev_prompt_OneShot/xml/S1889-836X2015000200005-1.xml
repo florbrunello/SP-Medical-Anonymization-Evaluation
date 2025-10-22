@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Natalia</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gonzalez Garrido</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">87083603</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">54 70862039 05</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Miguel Servet, 33, 4B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Zaragoza</TAG>.
+    CP: <TAG TYPE="TERRITORIO">50002</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">29/05/1963</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">47 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">03/06/2010</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Reumatología</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">25963778</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pilar</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">del Río Martínez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">50 28 94763</TAG>.
+    Informe clínico del paciente:.
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">47 años</TAG> en seguimiento por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">espondiloartritis psoriásica</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fibromialgia</TAG>, en tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">leflunomida</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">celecoxib</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">gabapentina</TAG>, sin antecedentes de interés y que mantiene ciclos menstruales regulares. No refería hábitos tóxicos y su índice de masa corporal (IMC) era normal. En una revision rutinaria, refirió dolor en pies y tobillos, sin antecedente de traumatismo, de ritmo mecánico, que fue aumentando progresivamente hasta producirle claudicación a la marcha, con modificación de la estática de pies por el dolor. A la exploración, destacaba inflamación de tobillos y pies, con dolor a la presión y fóvea bilateral. Se practicó una ecografía en consulta, que puso de manifiesto una inflamación muy marcada de tejido celular subcutáneo (TCS) sin signos de sinovitis ni señal Doppler. Se solicitó una Rx de pies, que no mostró hallazgos patológicos. Debido al importante edema de TCS, la paciente fue derivada a <TAG TYPE="PROFESION">Angiología</TAG> para valoración. Desde este Servicio, se solicitó una linfografía que confirmó una insuficiencia linfática bilateral severa. Al persistir la clínica de dolor intenso con claudicación, se indicó la realización de <TAG TYPE="PROFESION">RMN</TAG> de pies, que mostró en el pie derecho callo de fractura en 3er y 4o MTT y edema en 2o MTT ; y en el pie izquierdo una línea de fractura en 1er MTT, y edema en 3er y 4o MTT y en tejido circundante. Dados los hallazgos de la <TAG TYPE="PROFESION">RMN</TAG>, la paciente fue valorada por el Servicio de <TAG TYPE="PROFESION">Traumatología</TAG>, indicando tratamiento conservador con descarga y rehabilitación (magnetoterapia). Por el hallazgo de múltiples fracturas por estrés, se procedió a estudio en nuestras consultas, realizándose análisis con función renal, calcio sérico y urinario, calcio iónico, magnesio y PTH, que fueron normales. Se constató únicamente una vitamina D de 19,5 ng/ml, por lo que se indicó tratamiento con suplementos.
+    Valorando el caso de esta paciente en conjunto, nos planteamos, como factor predisponente para la aparición de fracturas de estrés, la importante alteración de la estática de pies antiálgica que había desarrollado debido al dolor que le producía la severa insuficiencia linfática que padecía.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pilar</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">del Río Martínez</TAG>. <TAG TYPE="PROFESION">Servicio de Reumatología</TAG> <TAG TYPE="INSTITUCION">Hospital Clínico Universitario "Lozano Blesa"</TAG> <TAG TYPE="CALLE">Avda. San Juan Bosco, 15</TAG> <TAG TYPE="TERRITORIO">50009</TAG> <TAG TYPE="TERRITORIO">Zaragoza</TAG> <TAG TYPE="PAIS">(España)</TAG> Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">psdelrio@yahoo.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

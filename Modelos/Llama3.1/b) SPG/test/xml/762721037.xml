@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mario Medina</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Crespo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">29843389S</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/11/1930</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Narváez 16</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ronda</TAG>, <TAG TYPE="TERRITORIO">Orense</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">32765</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mario-medina@hotmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 988 90 43 54</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 788 98 36 48</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8778030</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">146086434989</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Conserje</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sandra Trujillo Montoya</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">377421880</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">02/01/1949</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Asistencial Universitario Salamanca</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia indígena centroamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">18 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se realizó un expediente con <TAG TYPE="URL_WEB">http://example-biotech.com//80000839Q</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">PT515VQM088</TAG>.
+  </TEXT>
+</MEDDOCAN>

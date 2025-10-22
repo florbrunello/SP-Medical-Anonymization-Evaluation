@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Martina Valero Otero
+DNI: 43713674N
+Fecha de nacimiento: 04/12/1981
+Género: M
+Domicilio: Calle del Nuncio 18
+Ciudad: Estepa, Palencia, Castilla y León
+Código postal: 34625
+Email: martinavalero@us.es
+Teléfono fijo: +34 979 56 86 33
+Teléfono móvil: +34 779 75 54 11
+NHC: 7055862
+NASS: 690502960027
+Condición de riesgo: Trabajador Agrícola
+
+Datos asistenciales.
+Médico: Dr. Alberto Diez Costa. NC 671640038. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/12/2003
+Episodio: 34307941
+Hospital: Complejo Hospitalario Universitario de Cartagena
+
+Informe clínico del paciente:
+Paciente no fumador de 22 años de edad, acompañado de su hija. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Martina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Valero Otero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="43713674N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="04/12/1981" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="136" text="Calle del Nuncio 18" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="151" text="Estepa" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="161" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="163" end="178" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="194" end="199" text="34625" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="207" end="226" text="martinavalero@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="242" end="258" text="+34 979 56 86 33" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="275" end="291" text="+34 779 75 54 11" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="297" end="304" text="7055862" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="311" end="323" text="690502960027" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="345" end="364" text="Trabajador Agrícola" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="399" end="417" text="Alberto Diez Costa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="422" end="431" text="671640038" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="433" end="464" text="Especialista en Genética Médica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="466" end="541" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="543" end="572" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="574" end="579" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="581" end="587" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="589" end="595" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="615" end="625" text="10/12/2003" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="636" end="644" text="34307941" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="655" end="703" text="Complejo Hospitalario Universitario de Cartagena" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="744" end="754" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="758" end="765" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="792" end="796" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

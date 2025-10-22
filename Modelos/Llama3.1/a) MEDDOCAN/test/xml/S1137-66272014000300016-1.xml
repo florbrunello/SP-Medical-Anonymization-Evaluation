@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lara</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rico Alvarez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8309567</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">29 23785939 09</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Paseo San Ramón, 23, 3A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Málaga</TAG>.
+    CP: <TAG TYPE="TERRITORIO">29560</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/08/1980</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">36 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">03/03/2016</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Medicina Interna</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">3587632</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Antonio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ruiz Serrato</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">29 29 68530</TAG>.
+    Informe clínico del paciente: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">36 años</TAG> sin antecedentes médicos o epidemiológicos de interés que es ingresada en la Unidad de Cuidados Intensivos por sepsis y meningitis por meningococo tipo B aislado en cultivos sanguíneos y de líquido cefalorraquídeo. Recibió soporte fluidoterápico, ceftriaxona y vancomicina durante 10 días con desaparición de parámetros clínicos y analíticos de sepsis aunque con persistencia de fiebre diaria de 38o vespertina bien tolerada, sin otra focalidad infecciosa en las pruebas complementarias que incluían: hemocultivos seriados, urocultivo, radiografía de tórax, ecografía abdominal y TAC de cráneo.
+    Ingresa en planta de medicina interna para completar estudio y evolución; permanece en estabilidad hemodinámica y buen estado general, fiebre de hasta 38,5oC bien tolerada, acceso venoso central subclavio derecho sin datos de infección, escasas petequias en extremidades inferiores en fase de regresión siendo el resto de la exploración general y neurológica normal.
+    El hemograma, la hemostasia, el perfil renal, hepático, tiroideo y lipídico fueron normales, destacando un valor de ferritina de 775 µg/dl, VSG 90 mm1a hora, la PCR en 23,8 mg/dl (VN <0,3 mg/dl) y procalcitonina en 0,22 ng/ml. La serología a virus de la hepatitis B y C, VIH, VEB, CMV, VHS tipos 1 y 2, Coxiella burnetti y Rickettsias fue negativa; autoinmunidad con ANA, ANCA, factor reumatoide, inmunoglobulinas y complementos fueron normales o negativos. Reacción de Mantoux negativa; hemocultivos a través de catéter central, sangre periférica y urocultivos fueron reiteradamente negativos; el líquido cefalorraquídeo de control era de características normales excepto una proteinorraquia de 65 mg/dl con baciloscopia y cultivo también negativos. El fondo de ojo, electrocardiograma, ecocardiografía y la TAC tóraco-abdominal con contraste también resultaron normales.
+    Se solicitó una RMN craneal con contraste donde se apreciaba una discreta captación meníngea generalizada y múltiples lesiones de entre 7-10 mm, hipointensas en T1 e hiperintensas en T2 y Flair, en sustancia blanca temporal, en cápsula externa izquierda, periventricular derecha, frontal y parietal anterior bilateral con marcada captación periférica de contraste en anillo y edema perilesional asociado. Ante los hallazgos compatibles con abscesos cerebrales múltiples secundarios a la meningococemia, se realizó una extensa búsqueda bibliográfica (guías práctica clínica, revisiones sistemáticas, bases de datos bibliográficas, metabuscadores y revistas no indexadas relacionadas) que confirmó los escasos datos reportados con respecto a dicha complicación. En este punto se decidió la realización de un PET-TAC con el objetivo de descartar otros posibles hallazgos/focos que justificasen la persistencia del cuadro febril, corroborando dicha prueba la captación hipermetabólica de las lesiones cerebrales descritas, y ausencia de captación a otro nivel corporal.
+    Descartándose otro foco infeccioso/inflamatorio, se mantuvo el tratamiento con ceftriaxona parenteral durante 8 semanas, con desaparición lenta pero progresiva de la fiebre, descenso paulatino hasta la normalización de PCR y VSG, así como desaparición de abscesos cerebrales en control de RMN tras finalizar tratamiento, sin presentar complicaciones ni recidiva del cuadro en el seguimiento ambulatorio posterior.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Antonio Ruiz Serrato</TAG> <TAG TYPE="PROFESION">Servicio Medicina Interna</TAG> <TAG TYPE="HOSPITAL">Hospital de Antequera</TAG> <TAG TYPE="CALLE">Avda Poeta Muñoz Rojas s/n</TAG> <TAG TYPE="TERRITORIO">29200</TAG> <TAG TYPE="TERRITORIO">Antequera</TAG> <TAG TYPE="TERRITORIO">Málaga</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">ito.ruizserrato@gmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

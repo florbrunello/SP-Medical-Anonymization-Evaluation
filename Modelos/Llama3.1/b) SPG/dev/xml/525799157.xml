@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Antonio</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Castaño Izquierdo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">35134311V</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/02/2005</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Virgen de los Peligros 35, 7M</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Zafra</TAG>, <TAG TYPE="TERRITORIO">Teruel</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">44484</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">antonioizquierdo@isciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 978 04 01 67</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 778 09 54 45</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1644295</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">559826683621</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Noa Romero Castro</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">446924642</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuróloga Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/10/2016</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">88889869</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alhaurín de la Torre</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">11 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermana</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">GE525SKZ043</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">escaneo del iris</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">EK461OKV738</TAG>.
+  </TEXT>
+</MEDDOCAN>

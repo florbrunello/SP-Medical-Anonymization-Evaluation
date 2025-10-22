@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Eric Acosta Hidalgo
+DNI: 19889792J
+Fecha de nacimiento: 06/05/1990
+Género: V
+Domicilio: Calle de Eduardo Dato 2, 6K
+Ciudad: Yecla, Ibiza, Islas Baleares
+Código postal: 07123
+Email: acosta@yahoo.com
+Teléfono fijo: +34 971 97 17 78
+Teléfono móvil: +34 671 51 69 24
+NHC: 9507191
+NASS: 873500562782
+Condición de riesgo: Trabajador Agrícola
+
+Datos asistenciales.
+Médico: Dr. Francisco Esteban Gutiérrez. NC 912537559. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/09/1990
+Episodio: 53141998
+Centro de salud: Centro de Salud Leganés
+Matrícula del coche: 3446GKN
+Modelo: Jeep Wrangler
+VIN: VSTVCF6WZRG583399
+
+Informe clínico del paciente:
+Paciente de ascendencia australiana de 4 meses de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Eric" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="47" text="Acosta Hidalgo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="19889792J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="06/05/1990" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="143" text="Calle de Eduardo Dato 2, 6K" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="157" text="Yecla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="164" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="180" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="07123" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="225" text="acosta@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 971 97 17 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 671 51 69 24" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="296" end="303" text="9507191" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="310" end="322" text="873500562782" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="344" end="363" text="Trabajador Agrícola" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="398" end="425" text="Francisco Esteban Gutiérrez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="430" end="439" text="912537559" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="441" end="476" text="Neuropsicólogo Clínico Investigador" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="478" end="548" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="550" end="579" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="581" end="586" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="588" end="594" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="596" end="602" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="622" end="632" text="11/09/1990" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="643" end="651" text="53141998" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="669" end="692" text="Centro de Salud Leganés" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="714" end="721" text="3446GKN" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="749" end="766" text="VSTVCF6WZRG583399" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="810" end="833" text="ascendencia australiana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="837" end="844" text="4 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="871" end="876" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

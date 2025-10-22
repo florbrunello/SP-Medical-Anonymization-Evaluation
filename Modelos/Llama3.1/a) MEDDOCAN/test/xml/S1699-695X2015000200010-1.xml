@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Noelia</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Serra Vicente</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4576490</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">02 72367458 91</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Pablo Picasso, 3, 5G</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Hellín</TAG>, <TAG TYPE="TERRITORIO">Albacete</TAG>.
+    CP: <TAG TYPE="TERRITORIO">02400</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/01/1978</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">31/05/2018</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Atencion Primaria</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Amparo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Manzano Juárez</TAG>  NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">02 02 63812</TAG>.
+    Historia Actual: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mujer de 40 años que acude a la consulta de Atencion Primaria por dolor en ambas muñecas, pérdida de fuerza en las manos y parestesias en todos los dedos, de mayor frecuencia e intensidad en la mano derecha.</TAG>.
+    La paciente presentaba un dolor crónico de cinco meses de evolución de características mecánicas y empeoramiento progresivo, asociando una deformidad de las muñecas. No ha existido ningún traumatismo previo que justifique la presencia de la clínica referida. No presenta antecedentes patológicos de interés. Es diestra y trabaja cuidando ancianos.
+    A la exploración física de ambas muñecas destaca la presencia de una deformidad en la cara dorsal a nivel del estiloides cubital, asociada a una desviación cubital. Además, se objetiva un aumento de la sudoración y enrojecimiento de las manos.
+    El balance articular (BA) de las muñecas era simétrico: Flexión dorsal: 40o. Flexión palmar: 55o. Desviación radial: 20o. Desviación cubital: 30o. Supinación: faltan los últimos grados. Pronación: completa.
+    Presenta dolor a la palpación a nivel de la articulación radio-carpiana distal y molestias a la palpación de la cabeza del radio. Muestra un BA de codo completo. El balance muscular (BM) flexo-extensión de las muñecas es 4/5.
+    Por otra parte, la presa-puño-pinza es completa. La oposición del pulgar está conservada. Las articulaciones metacarpo-falángicas, interfalángicas proximales e interfalángicas distales están libres. Presenta un signo de Tinnel mediano negativo y un signo de Phalen mediano dudoso.
+    Ante los hallazgos clínicos descritos, se solicita una radiografía anteroposterior y lateral de ambas muñecas.
+    Tras objetivar la presencia de deformidad en la radiografía se deriva a consultas externas de Traumatología para valoración, donde se realiza el diagnóstico de deformidad de Madelung y luxación cubital distal bilateral.
+    Se propone tratamiento quirúrgico de reconstrucción del carpo, pero la paciente lo rechaza, por lo que se realiza interconsulta a Rehabilitación. Pautan férula posicional bilateral nocturna más tratamiento de fisioterapia (tonificación musculatura intrínseca de mano y electroterapia analgésica).
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Amparo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Manzano Juárez</TAG>. <TAG TYPE="CALLE">C/ Jacinto Benavente 19, 4o C</TAG>. CP: <TAG TYPE="TERRITORIO">02400</TAG>. <TAG TYPE="TERRITORIO">Hellín</TAG> (<TAG TYPE="TERRITORIO">Albacete</TAG>). <TAG TYPE="PAIS">España</TAG>. Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">ampamanjua@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

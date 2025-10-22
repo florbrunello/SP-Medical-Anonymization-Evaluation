@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Tomás</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Estrada Pañero</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7452911</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle Villanueva, 34, 2B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Salamanca</TAG>.
+    CP: <TAG TYPE="TERRITORIO">37041</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/06/1995</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">10/10/2014</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pilar</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fraile Gómez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">37 37 58203</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> en seguimiento por Hematología por trombopenia, el cual es derivado a Neuropediatría por presentar un aumento de CPK (hasta 1864 UI/L), lactatodeshidrogenasa (LDH) (hasta 421 UI/l) y transaminasas (aspartato transaminasa [AST] hasta 490 UI/l, alanina aminotransferasa [ALT] hasta 280 UI/l) en analíticas seriadas. El paciente refería estar previamente asintomático, salvo por una discreta astenia ante la realización de ejercicio moderado, como correr o subir escaleras, asociando ocasionalmente calambres y mialgias. Profundizando en la anamnesis, refirió haber presentado, además, un episodio aislado de hematuria macroscópica tras la realización de ejercicio previo. La exploración era normal.
+    Se realizaron un electroencefalograma, un electromiograma y una resonancia magnética muscular de extremidades inferiores, sin mostrar alteraciones en ninguna de dichas pruebas complementarias. Asimismo, se realizó una biopsia muscular donde se evidenció déficit de miofosforilasa, sin otras alteraciones añadidas. El estudio molecular puso en evidencia la presencia de las mutaciones p.R50X (c.148C>T) y p.R490W (c.1468C>T) en heterocigosis compuesta, confirmando el diagnóstico de sospecha de enfermedad de McArdle. Se derivó al paciente a nutrición y dietética, presentando previo al acoplamiento dietético dos episodios de rabdomiólisis que requirieron ingreso en la unidad de cuidados intensivos pediátricos. Actualmente el paciente se encuentra asintomático, con valores de CPK normales, siguiendo pautas de soporte nutricional y con controles ambulatorios en Neuropediatría y Nutrición Pediátrica.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pilar</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fraile Gómez</TAG>, <TAG TYPE="PROFESION">Servicio de Nefrología</TAG>, <TAG TYPE="HOSPITAL">Hospital Universitario de Salamanca</TAG>, <TAG TYPE="DIREC_PROT_INTERNET">Paseo de San Vicente 58-182</TAG>, <TAG TYPE="TERRITORIO">37007</TAG> <TAG TYPE="TERRITORIO">Salamanaca</TAG> <TAG TYPE="CORREO_ELECTRONICO">pilarfg@usal.es</TAG> <TAG TYPE="CORREO_ELECTRONICO">pilarfg9@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

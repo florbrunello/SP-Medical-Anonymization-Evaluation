@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Esperanza Castro Nieto
+DNI: 97633100D
+Fecha de nacimiento: 10/01/1962
+Género: Mujer
+Domicilio: Calle de la Reina 4
+Ciudad: Ronda, Zaragoza, Aragón
+Código postal: 50536
+Email: esperanza_castronieto@ciberehd.org
+Teléfono fijo: +34 976 81 80 22
+Teléfono móvil: +34 776 08 72 93
+NHC: 6972168
+NASS: 907377191285
+
+Datos asistenciales.
+Médico: Dr. Iván Fuentes Pastor. NC 959229324. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/08/1973
+Episodio: 28334335
+Centro de salud: Centro de Salud Sevilla Norte
+Matrícula del coche: 8057PPY
+Modelo: Kia Sorento
+VIN: VSVZUOL9HWS337683
+
+Informe clínico del paciente:
+Paciente no fumador de 11 años de edad, acompañado de su abuelo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Esperanza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="50" text="Castro Nieto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="97633100D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="10/01/1962" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="142" text="Calle de la Reina 4" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="156" text="Ronda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="166" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="174" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="50536" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="237" text="esperanza_castronieto@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 976 81 80 22" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="286" end="302" text="+34 776 08 72 93" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="308" end="315" text="6972168" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="322" end="334" text="907377191285" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="369" end="388" text="Iván Fuentes Pastor" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="393" end="402" text="959229324" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="404" end="436" text="Residente de 2° año en Pediatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="438" end="513" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="515" end="544" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="546" end="551" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="553" end="559" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="561" end="567" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="587" end="597" text="16/08/1973" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="608" end="616" text="28334335" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="634" end="663" text="Centro de Salud Sevilla Norte" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="685" end="692" text="8057PPY" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="718" end="735" text="VSVZUOL9HWS337683" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="776" end="786" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="790" end="797" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="824" end="830" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

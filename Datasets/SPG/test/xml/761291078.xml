@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Samuel Morales Heredia
+DNI: 40128624H
+Fecha de nacimiento: 13/01/1957
+Género: Hombre
+Domicilio: Calle del Olivar 22, 4H
+Ciudad: Marbella, Orense, Galicia
+Código postal: 32928
+Email: samuel.heredia1484@ucm.es
+Teléfono fijo: +34 988 24 18 51
+FAX: +34 988 76 59 49
+NHC: 3474864
+NASS: 152738950378
+Condición de riesgo: Trabajador de Sanitización
+
+Datos asistenciales.
+Médico: Dra. María Jesús Otero Miranda. NC 683789015. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 29/12/1992
+Episodio: 77011243
+Hospital: Hospital Clínic Barcelona
+Matrícula del coche: 9268NBW
+Modelo: Kia Sorento
+VIN: VSUDBWB99WL125979
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática del sudeste de 35 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.243.58, con dirección MAC 14:4B:F1:2A:40:CD. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es DU525HLK228. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Samuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Morales Heredia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="40128624H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="13/01/1957" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="112" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="147" text="Calle del Olivar 22, 4H" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="164" text="Marbella" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="172" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="181" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="32928" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="235" text="samuel.heredia1484@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 988 24 18 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="273" end="289" text="+34 988 76 59 49" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="295" end="302" text="3474864" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="309" end="321" text="152738950378" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="343" end="369" text="Trabajador de Sanitización" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="622" end="632" text="29/12/1992" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="643" end="651" text="77011243" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="662" end="687" text="Hospital Clínic Barcelona" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="709" end="716" text="9268NBW" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="742" end="759" text="VSUDBWB99WL125979" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="803" end="835" text="ascendencia asiática del sudeste" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="839" end="846" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="962" end="979" text="14:4B:F1:2A:40:CD" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <ID id="T25" start="1063" end="1074" text="DU525HLK228" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

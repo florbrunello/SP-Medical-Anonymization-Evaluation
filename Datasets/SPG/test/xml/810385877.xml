@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Carlos Salazar Alarcon
+DNI: 40191732Z
+Fecha de nacimiento: 18/11/1927
+Género: Varón
+Domicilio: Calle de Don Ramón de la Cruz 85
+Ciudad: Alcorcón, Jaén, Andalucía
+Código postal: 23646
+Email: juancarlossalazar.alarcon@udc.es
+Teléfono fijo: +34 953 34 05 60
+FAX: +34 953 22 94 39
+NHC: 0096186
+Condición de riesgo: Pintor de Construcción
+
+Datos asistenciales.
+Médico: Dr. Joan Domínguez Paredes. NC 296553989. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 10/01/1985
+Episodio: 02092314
+Hospital: Hospital Universitario Virgen del Rocío
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 57 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="Juan Carlos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="55" text="Salazar Alarcon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="40191732Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="18/11/1927" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="116" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="160" text="Calle de Don Ramón de la Cruz 85" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="169" end="177" text="Alcorcón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="179" end="183" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="185" end="194" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="23646" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="255" text="juancarlossalazar.alarcon@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="271" end="287" text="+34 953 34 05 60" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="293" end="309" text="+34 953 22 94 39" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="315" end="322" text="0096186" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="344" end="366" text="Pintor de Construcción" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="401" end="423" text="Joan Domínguez Paredes" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="428" end="437" text="296553989" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="439" end="476" text="Residente de 4° año en Endocrinología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="478" end="545" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="547" end="574" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="576" end="581" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="583" end="590" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="592" end="598" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="618" end="628" text="10/01/1985" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="639" end="647" text="02092314" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="658" end="697" text="Hospital Universitario Virgen del Rocío" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="741" end="762" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="766" end="773" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

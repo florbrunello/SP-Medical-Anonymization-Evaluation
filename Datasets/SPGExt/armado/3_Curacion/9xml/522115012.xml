@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gloria Romero Esteban</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">83455036L</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">31/08/1946</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Alberto Aguilera 29</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Talavera de la Reina</TAG>, <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">38638</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">gloria.romero@ciberisciii.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 922 12 41 58</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 922 68 25 28</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8813309</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador Agrícola</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. María Josefa</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Parra Aparicio</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 571868174</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/02/1988</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">05160850</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Río Hortega</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">9761YSE</TAG>.
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Toyota RAV4</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSJ9GMHN4WM917177</TAG>.
+    Informe clínico del paciente:
+    Paciente consumidor de alcohol de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">41 años</TAG> de edad que acude al Servicio de Urgencias con síntomas de mareos y dificultad para mantener el equilibrio.
+    La exploración física revela: <TAG TYPE="FECHAS">Tª 37,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 80 lpm</TAG>. Se encuentra consciente, orientado, sin signos de alteración neurológica.
+    En la exploración abdominal no se palpan adenopatías ni megalias.
+    Se solicita un análisis de sangre para evaluar la función hepática y renal.
+    Antecedentes:
+    El paciente tiene antecedentes de consumo de alcohol excesivo durante los últimos 10 años, lo que ha llevado a una hepatomegalia y un aumento de la transaminasa láctica en el análisis de sangre.
+    También tiene antecedentes de episodios de mareos y vómitos en el pasado.
+    Evolución y comentarios:
+    El paciente es ingresado en la unidad de cuidados intensivos para ser monitoreado y recibir tratamiento para la desintoxicación del alcohol.
+    Se le administra un medicamento para controlar los síntomas de mareos y se le recomienda una dieta balanceada y un régimen de hidratación adecuado.
+    Remitido por:
+    El paciente es remitido a la unidad de hepatología para ser evaluado y recibir tratamiento para la enfermedad hepática crónica.
+  </TEXT>
+</MEDDOCAN>

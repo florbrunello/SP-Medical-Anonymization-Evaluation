@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Francisco José Arias Crespo
+DNI: 95424839R
+Fecha de nacimiento: 10/08/1926
+Género: Hombre
+Domicilio: Calle de la Cabeza 60
+Ciudad: Liria, Barcelona, Cataluña
+Código postal: 08799
+Email: crespo1398@ucm.es
+Teléfono fijo: +34 939 88 04 55
+FAX: +34 934 13 32 71
+NHC: 7522142
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dr. Ramón Bermudez Diez. NC 528936055. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/09/2008
+Episodio: 12825761
+Hospital: Hospital Universitario Fundación Alcorcón
+
+Informe clínico del paciente:
+Paciente de ascendencia caribeña de 82 años de edad, acompañado de su marido. Se registró una sesión de huella dactilar, el código obtenido para revisarla es BI865HJQ078. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="42" text="Francisco José" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="43" end="55" text="Arias Crespo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="95424839R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="10/08/1926" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="117" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="129" end="150" text="Calle de la Cabeza 60" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="164" text="Liria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="175" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="185" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="08799" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="231" text="crespo1398@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 939 88 04 55" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="269" end="285" text="+34 934 13 32 71" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="291" end="298" text="7522142" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="320" end="338" text="Ingeniero de Minas" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="373" end="392" text="Ramón Bermudez Diez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="397" end="406" text="528936055" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="408" end="457" text="Psiquiatra Especialista en Trastornos de Ansiedad" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="459" end="529" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="531" end="560" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="562" end="567" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="569" end="575" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="577" end="583" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="603" end="613" text="04/09/2008" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="624" end="632" text="12825761" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="643" end="684" text="Hospital Universitario Fundación Alcorcón" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="728" end="748" text="ascendencia caribeña" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="752" end="759" text="82 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="786" end="792" text="marido" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="874" end="885" text="BI865HJQ078" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

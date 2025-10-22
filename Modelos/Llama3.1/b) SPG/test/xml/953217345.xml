@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Martín</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pérez Guerrero</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">84570471T</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">24/04/2017</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de la Alameda 29, 7W</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">Puertollano</TAG>, <TAG TYPE="TERRITORIO">Álava</TAG>, <TAG TYPE="TERRITORIO">Pais Vasco</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">01642</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">martin-perez@outlook.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 945 65 07 27</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 645 55 00 77</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7848584</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">906597168013</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Técnico de Radiología</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Matilde Marti Costa</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">721589568</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Epidemiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">36026136</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Cartagena</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6575GOA</TAG>
+  Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Chevrolet Silverado</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSH746CZU8X648016</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia nórdica o escandinava</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se registró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sesión de escaneo retiniano</TAG>, el código obtenido para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">QJ824IVC466</TAG>.
+  </TEXT>
+</MEDDOCAN>

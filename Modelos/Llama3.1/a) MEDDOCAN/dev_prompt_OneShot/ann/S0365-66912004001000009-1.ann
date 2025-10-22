@@ -1,0 +1,31 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 9 15	Alicia
+T2	NOMBRE_SUJETO_ASISTENCIA 28 40	Perez Rivera
+T3	ID_SUJETO_ASISTENCIA 47 53	235657
+T4	ID_ASEGURAMIENTO 60 74	22 67134651 89
+T5	CALLE 87 117	Avenida de la albufera 19, 3 1
+T6	TERRITORIO 141 147	Madrid
+T7	TERRITORIO 153 158	28008
+T8	DATOS_ASISTENCIALES 160 179	Datos asistenciales
+T9	FECHAS 202 212	13/01/1992
+T10	PAIS 220 226	España
+T11	EDAD_SUJETO_ASISTENCIA 234 241	26 años
+T12	SEXO_SUJETO_ASISTENCIA 141 142	M
+T13	FECHAS 269 279	10/10/2018
+T14	NOMBRE_PERSONAL_SANITARIO 289 296	Ricardo
+T15	NOMBRE_PERSONAL_SANITARIO 297 313	Sabaniego Martín
+T16	ID_TITULACION_PERSONAL_SANITARIO 322 333	28 28 57554
+T17	TEXTO 335 477	Motivo de ingreso: Paciente mujer de 26 años que acudió a nuestro servicio por edema bilateral de párpados superiores, de 2 años de evolución.
+T18	TEXTO 478 898	Exploración física: En la exploración oftalmológica se observaban, en la parte nasal de ambos párpados superiores, lesiones de límites imprecisos (aspecto infiltrante de la epidermis), con tonalidad anaranjada en la zona temporal, de consistencia firme, y que se extendían a lo largo del pliegue palpebral. Eran masas no móviles ni dolorosas, que no superaban el reborde orbitario. El resto de la exploración era normal.
+T19	TEXTO 899 1147	Resumen de pruebas complementarias: Para intentar realizar diagnóstico diferencial entre entidades como pseudotumor orbitario, enfermedad del colágeno, sarcoidosis, etc., se realizó una exploración sistémica, resultando todos los estudios normales.
+T20	TEXTO 1148 1350	En la Resonancia Nuclear Magnética (RNM) de órbita realizada, dichas masas eran prácticamente simétricas y llegaban a infiltrar el músculo elevador del párpado superior, sin afectación del globo ocular.
+T21	TEXTO 1351 2112	Se instauró tratamiento corticoideo (pensando en un proceso inflamatorio localizado a nivel palpebral), con dosis elevadas de metilprednisolona (1 gr de Urbason®, HOECHST FARMA), que hicieron disminuir el tamaño de las tumoraciones pero con recidiva de las mismas al suspender dicha medicación. Ante esto, y al no haber llegado a un diagnóstico, se realizó una biopsia incisional, obteniendo tres piezas de tejido de coloración rosado-amarillento. El estudio histológico mostró tejido conectivo laxo que en su práctica totalidad se encontraba infiltrado por células histiocitarias características de la xantogranulomatosis, que tendían a formar un patrón granulomatoso. Las tinciones inmunohistoquímicas para células histiocitarias (CD 68) resultaron positivas.
+T22	TEXTO 2113 2209	Evolución y comentarios: Con todo esto se llegó al diagnóstico de xantogranulomatosis palpebral.
+T23	TEXTO 2210 2419	Se realizaron más pruebas para descartar afectación multiorgánica: TC abdomino-torácico, TC craneal y orbitario, Rx torácica, ecografía abdomino-pélvica y Scan óseo con Tc 99m difosfato. Todas fueron normales.
+T24	TEXTO 2420 2546	Es, por tanto, un caso de xantogranulomatosis, o enfermedad de Erdheim-Chester, orbitaria pura sin manifestaciones sistémicas.
+T25	TEXTO 2547 2784	En la actualidad, tras un nuevo ciclo de corticoides (metilprednisolona 80 mg/24 horas, Urbason®) y con una dosis de mantenimiento (metilprednisolona 4 mg/48 horas, Urbason®) de forma continua, el proceso permanece relativamente estable.
+T26	NOMBRE_PERSONAL_SANITARIO 2799 2806	Ricardo
+T27	NOMBRE_PERSONAL_SANITARIO 2807 2823	Sabaniego Martín
+T28	CALLE 2850 2876	Calle del Dr. Esquerdo, 83
+T29	TERRITORIO 2878 2883	28007
+T30	PAIS 2884 2890	Madrid
+T31	CORREO_ELECTRONICO 2898 2921	Risimartin7@hotmail.com

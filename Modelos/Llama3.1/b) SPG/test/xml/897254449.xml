@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cristóbal</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Izquierdo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Galvez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">44411487M</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/03/1926</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Don Ramón de la Cruz 22</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Puertollano</TAG>, <TAG TYPE="TERRITORIO">Teruel</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">44462</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">cristobal-galvez607@aol.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 978 17 81 99</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 678 52 86 95</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8487742</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">054668140926</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Laboratorio</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rosa Herrera Casas</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">555331042</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Epidemiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">31/05/1969</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Cartagena</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2044RUF</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Honda CR-V</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSMZHND3XND952861</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia africana del norte</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">43 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">IY601DNI192</TAG>.
+  </TEXT>
+</MEDDOCAN>

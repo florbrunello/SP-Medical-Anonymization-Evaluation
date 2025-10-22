@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Idaira</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Miguel Barrios</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2807565</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">84 37239278 62</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. Islas Canarias, 6</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG>.
+    CP: <TAG TYPE="TERRITORIO">38006</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">301/05/1966</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">50 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">01/07/2016</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Neurocirugía</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mario</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García Conde</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">38 38 23354</TAG>.
+    Historia Actual: mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">50 años</TAG> de edad, de profesión <TAG TYPE="OTROS_SUJETO_ASISTENCIA">equilibrista funambulista</TAG>, que desarrolló progresivamente, en el curso de unos 10 años, una malformación del cuero cabelludo consistente en una masa irregular frontal izquierda, de aproximadamente 12x11 cm en sus ejes principales, pulsátil, con importante desarrollo de la trama vascular de la calota craneal, a cargo de las arterias temporales superficiales y sus ramas venosas de retorno.
+    Antecedentes: sin antecedentes personales de interés
+    Exploración física: En la anamnesis, la paciente recuerda un antecedente traumático hacía 12 años, con contusión frontal, tras lo cual sufrió un importante hematoma subgaleal bifrontal, que se resolvió de manera conservadora en el curso de aproximadamente dos meses. Aparte de este incidente, no refiere otra sintomatología y la exploración física y neurológica es normal.
+    Resumen de pruebas complementarias: Ante la sospecha de malformación arteriovenosa traumática se solicitan pruebas de imagen. En la RM cerebral no se evidenciaron alteraciones significativas y en la angiografía cerebral de los territorios de la arteria carótida interna y externa se demostró un nido vascular epicraneal frontal izquierdo, con aportes vasculares extracraneales a cargo de ambas arterias temporales superficiales, y aportes provenientes de la circulación intracraneal a cargo de ramas meníngeas transoseas provenientes de las arterias etmoidales y dependientes a su vez de las dos arterias oftálmicas, izquierda y derecha.
+    Evolución y comentarios: Durante el postoperatorio no se produjeron complicaciones neurológicas y la herida cicatrizó adecuadamente, sin desarrollar zonas de necrosis ni alopecia. El resultado cosmético fue excelente. Después de un año no ha mostrado recidiva.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Mario</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García Conde</TAG> <TAG TYPE="PROFESION">Servicio de Neurocirugía</TAG> <TAG TYPE="HOSPITAL">Hospital Universitario de Canarias</TAG> <TAG TYPE="DIREC_PROT_INTERNET">Ofra s/n</TAG> <TAG TYPE="CALLE">La Cuesta</TAG> <TAG TYPE="TERRITORIO">38320 La Laguna</TAG> <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG> <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

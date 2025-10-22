@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Milagros Santos Blanco
+DNI: 88345411L
+Fecha de nacimiento: 07/12/1987
+Género: Mujer
+Domicilio: Calle del Marqués de Urquijo 66, 9D
+Ciudad: Novelda, Albacete, Castilla-La Mancha
+Código postal: 02361
+Email: santos.blanco@udc.es
+Teléfono fijo: +34 967 39 32 51
+Teléfono móvil: +34 767 81 52 94
+NHC: 8131538
+NASS: 808804397637
+Condición de riesgo: Dentista
+
+Datos asistenciales.
+Médico: Dra. María Isabel Valero Sanz. NC 627734135. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/10/1992
+Episodio: 04236874
+Centro de salud: Centro de Salud Málaga Norte
+
+Informe clínico del paciente:
+Paciente de tez blanca de 4 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.72.113, con dirección MAC AC:8E:5A:B5:C5:34. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Milagros" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="50" text="Santos Blanco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="88345411L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="07/12/1987" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="158" text="Calle del Marqués de Urquijo 66, 9D" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="167" end="174" text="Novelda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="176" end="184" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="186" end="204" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="220" end="225" text="02361" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="233" end="253" text="santos.blanco@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="269" end="285" text="+34 967 39 32 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="302" end="318" text="+34 767 81 52 94" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="324" end="331" text="8131538" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="338" end="350" text="808804397637" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="372" end="380" text="Dentista" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="651" end="661" text="18/10/1992" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="672" end="680" text="04236874" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="698" end="726" text="Centro de Salud Málaga Norte" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="770" end="780" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="784" end="790" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="817" end="822" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="930" end="947" text="AC:8E:5A:B5:C5:34" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

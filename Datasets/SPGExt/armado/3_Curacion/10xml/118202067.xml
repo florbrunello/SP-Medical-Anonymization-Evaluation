@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Unai Santamaria Abad</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">64023398T</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">01/11/1972</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del León 61</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Parla</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="TERRITORIO">Comunidad de Madrid</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">28980</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">unai@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 70 78 52</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 623 94 15 00</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4946669</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">036013146208</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">No especificado</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Laia Flores Mateos</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 504241269</TAG>. <TAG TYPE="PROFESION">Neuropsicóloga Clínica Investigadora</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/02/2023</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Oeste</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">50 años</TAG> de edad, acompañado de su esposa, que acude al Servicio de Urgencias con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal severo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG> durante las últimas 24 horas. Antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>.
+    Exploración física:
+    La exploración física revela: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Tª 38,5 C</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">T.A: 120/80 mmHg</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Fc: 90 lpm</TAG>. Se encuentra <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consciente</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">orientado</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sudoroso</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">eupneico</TAG>, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">buen estado de nutrición e hidratación</TAG>. En cabeza y cuello no se palpan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">adenopatías</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ni bocio</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ni ingurgitación de vena yugular</TAG>, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pulsos carotídeos simétricos</TAG>. Auscultación cardíaca <TAG TYPE="OTROS_SUJETO_ASISTENCIA">rítmica</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sin soplos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">roces ni extratonos</TAG>. Auscultación pulmonar con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">conservación del murmullo vesicular</TAG>. Abdomen <TAG TYPE="OTROS_SUJETO_ASISTENCIA">distendido</TAG>, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor intenso en el hipogastrio</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sin masas ni megalias</TAG>. En la exploración neurológica no se detectan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">signos meníngeos ni datos de focalidad</TAG>. Extremidades <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sin varices ni edemas</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Pulsos periféricos presentes y simétricos</TAG>.
+    Pruebas diagnósticas:
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hemograma</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hb 14,2 g/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">leucocitos 12.500/mm3</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">neutrófilos 70%</TAG>); <TAG TYPE="OTROS_SUJETO_ASISTENCIA">plaquetas 250.000/mm3</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">VSG</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 mm 1ª hora</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Coagulación</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TQ 90%</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TTPA 25,5 seg</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Bioquímica</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Glucosa 180 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urea 35 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina 1,2 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sodio 135 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">potasio 3,8 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GOT 20 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GPT 30 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GGT 40 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fosfatasa alcalina 150 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">calcio 8,5 mg/dl</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Orina</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sedimento con leucocitos y hemoglobina</TAG>.
+    Tratamiento:
+    Con el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diagnóstico de pancreatitis aguda</TAG>, se instaura <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tratamiento sintomático</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">antitérmicos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antiinflamatorios</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">elevación de la cama</TAG>) así como <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tratamiento antibiótico específico</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ceftriaxona</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">1 gramo intravenoso</TAG> cada 12 horas (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">durante 5 días</TAG>) y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Metronidazol</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">500 mg intravenoso</TAG> cada 8 horas (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">durante 5 días</TAG>). El paciente mejora significativamente de su cuadro tras 48 horas de ingreso, decidiéndose el alta a su domicilio donde se le indicará un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">seguimiento ambulatorio</TAG>.
+    Pronóstico:
+    El <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pronóstico</TAG> es <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bueno</TAG>, aunque se le recomienda un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">seguimiento estrecho</TAG> para evitar <TAG TYPE="OTROS_SUJETO_ASISTENCIA">complicaciones</TAG>.
+  </TEXT>
+</MEDDOCAN>

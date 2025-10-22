@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Xavier Luque Marcos
+DNI: 21298957Z
+Fecha de nacimiento: 24/05/1960
+Género: Varón
+Domicilio: Calle de Jesús y María 54
+Ciudad: Segovia, Pontevedra, Galicia
+Código postal: 36503
+Email: luque504@protonmail.com
+Teléfono fijo: +34 986 90 04 64
+FAX: +34 986 95 03 06
+NHC: 3192482
+NASS: 793089114543
+
+Datos asistenciales.
+Médico: Dra. Nerea Romero Rojas. NC 395942098. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/05/2005
+Centro de salud: Centro de Salud Ronda
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 44 años de edad, acompañado de su vecino. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Xavier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Luque Marcos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="21298957Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="24/05/1960" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="108" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="145" text="Calle de Jesús y María 54" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="161" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="173" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="182" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="36503" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="234" text="luque504@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 986 90 04 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="272" end="288" text="+34 986 95 03 06" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="294" end="301" text="3192482" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="308" end="320" text="793089114543" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="599" end="609" text="05/05/2005" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="627" end="648" text="Centro de Salud Ronda" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T18" start="692" end="716" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="720" end="727" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="754" end="760" text="vecino" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Montserrat</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Contreras Carrillo</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">71457176V</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">26/04/2001</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Lavapiés 12, 5X</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">Aranda de Duero</TAG>, <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">13791</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">montserrat_contreras@ual.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 32 85 42</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 926 41 68 24</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8649924</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">636730738141</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Línea de Producción</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Pedro Ibáñez Rico</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">550025198</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">09/09/2003</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Majadahonda</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">usuario de drogas</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-dermatology.org</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">NK353PBK433</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">firma biométrica</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">MI243OJQ174</TAG>.
+  </TEXT>
+</MEDDOCAN>

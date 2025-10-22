@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Valeria Flores Soler
+DNI: 24056413T
+Fecha de nacimiento: 03/07/1966
+Género: Mujer
+Domicilio: Calle de Villalar 87, 3C
+Ciudad: San Fernando, Guipúzcoa, Pais Vasco
+Código postal: 20478
+Email: floressoler506@uhu.es
+Teléfono fijo: +34 943 78 09 66
+Teléfono móvil: +34 643 37 74 20
+NHC: 5546131
+Condición de riesgo: Soldado
+
+Datos asistenciales.
+Médico: Dra. Magdalena Bueno Jurado. NC 332103238. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/06/2018
+Hospital: Hospital Universitari Vall d'Hebron
+Matrícula del coche: 3646QHD
+Modelo: BMW 3 Series
+VIN: VSL28OLAC5K049906
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 51 años de edad, acompañado de su abuela. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.153.14, con dirección MAC 99:DB:E8:CC:A0:80. El servidor para envío de información desde cual el usuario se comunica es smtp://example-medical.edu. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Valeria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Flores Soler" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="24056413T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="03/07/1966" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="145" text="Calle de Villalar 87, 3C" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="166" text="San Fernando" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="177" text="Guipúzcoa" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="189" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="20478" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="239" text="floressoler506@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 943 78 09 66" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 643 37 74 20" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="5546131" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="339" end="346" text="Soldado" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="629" end="639" text="11/06/2018" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="650" end="685" text="Hospital Universitari Vall d'Hebron" TYPE="HOSPITAL" comment=""/>
+        <ID id="T18" start="707" end="714" text="3646QHD" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="741" end="758" text="VSL28OLAC5K049906" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="802" end="830" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="834" end="841" text="51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="868" end="874" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="982" end="999" text="99:DB:E8:CC:A0:80" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <OTHER id="T24" start="1076" end="1098" text="smtp://example-medical" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Vanessa Esteban Rivera
+DNI: 19572750A
+Fecha de nacimiento: 26/01/1925
+Género: F
+Domicilio: Calle de Embajadores 68
+Ciudad: Ontinyent, Asturias, Asturias
+Código postal: 33656
+Email: vanessa.esteban1668@aol.com
+Teléfono fijo: +34 984 87 95 19
+FAX: +34 984 45 53 53
+NHC: 9590469
+
+Datos asistenciales.
+Médico: Dr. Adrián Romero Nieto. NC 276908209. Investigador Clínico en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/02/1952
+Episodio: 18202319
+Hospital: Hospital Universitario Príncipe de Asturias
+
+Informe clínico del paciente:
+Paciente de ascendencia australiana de 27 años de edad, acompañado de su hija. El servidor para envío de información desde cual el usuario se comunica es smtp://example-clinica.com. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Vanessa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Esteban Rivera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="19572750A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="26/01/1925" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="142" text="Calle de Embajadores 68" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="160" text="Ontinyent" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="170" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="180" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="33656" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="236" text="vanessa.esteban1668@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 984 87 95 19" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 984 45 53 53" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="296" end="303" text="9590469" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="338" end="357" text="Adrián Romero Nieto" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="362" end="371" text="276908209" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="373" end="419" text="Investigador Clínico en Insuficiencia Cardíaca" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="421" end="507" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="509" end="538" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="540" end="545" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="547" end="553" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="555" end="561" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="581" end="591" text="06/02/1952" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="602" end="610" text="18202319" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="621" end="664" text="Hospital Universitario Príncipe de Asturias" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="708" end="731" text="ascendencia australiana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="735" end="742" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="769" end="773" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="850" end="872" text="smtp://example-clinica" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

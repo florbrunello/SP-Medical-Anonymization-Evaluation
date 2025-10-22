@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Javier Bermudez Casas
+DNI: 36716596V
+Fecha de nacimiento: 23/05/2001
+Género: H
+Domicilio: Calle de la Magdalena 59, 7N
+Ciudad: Castellón de la Plana, Región de Murcia, Región de Murcia
+Código postal: 30773
+Email: bermudezcasas@ual.es
+Teléfono fijo: +34 968 16 74 87
+Teléfono móvil: +34 768 52 50 22
+NHC: 2257561
+NASS: 450286756911
+Condición de riesgo: Enfermera
+
+Datos asistenciales.
+Médico: Dra. Elena Manzano Lozano. NC 662818416. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 15/03/2020
+Episodio: 24857586
+Hospital: Hospital Universitario de Basurto
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 18 años de edad, acompañado de su hijo. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.160.139, con dirección MAC 13:70:AD:5A:68:5D. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Bermudez Casas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="36716596V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="23/05/2001" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="146" text="Calle de la Magdalena 59, 7N" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="176" text="Castellón de la Plana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="178" end="194" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="196" end="212" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="228" end="233" text="30773" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="241" end="261" text="bermudezcasas@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="277" end="293" text="+34 968 16 74 87" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="310" end="326" text="+34 768 52 50 22" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="332" end="339" text="2257561" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="346" end="358" text="450286756911" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="380" end="389" text="Enfermera" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="629" end="639" text="15/03/2020" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="650" end="658" text="24857586" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="669" end="702" text="Hospital Universitario de Basurto" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="743" end="764" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="768" end="775" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="802" end="806" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="915" end="932" text="13:70:AD:5A:68:5D" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

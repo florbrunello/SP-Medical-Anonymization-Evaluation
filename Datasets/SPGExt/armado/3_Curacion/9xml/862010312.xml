@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Miriam Díaz Blazquez</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">15981460W</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/04/1956</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Barquillo 80</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Jaén</TAG>, <TAG TYPE="TERRITORIO">Cuenca</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">16869</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">miriamblazquez1430@ciberned.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 969 81 26 40</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 769 73 26 76</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2107237</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">757836977747</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ingeniero de Minas</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Eva Cuesta Castaño</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 979200839</TAG>. <TAG TYPE="PROFESION">Investigadora Clínica en Insuficiencia Cardíaca</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">31/01/2013</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">43975207</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Tetuán</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6131HSB</TAG>.
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Chrysler Pacifica</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSKCYF76S7F734369</TAG>.
+    Informe clínico del paciente:
+    La paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">56 años</TAG> de edad, acompañada de su madre, fue derivada al Servicio de Urgencias con un cuadro de dolor abdominal agudo. La paciente reporta un dolor intensivo en el epigastrio que se irradia a la espalda, acompañado de náuseas y vómitos. La paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2.
+    La exploración física revela: Tª <TAG TYPE="FECHAS">37,5°C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. La paciente se encuentra consciente, orientada, con buen estado de nutrición e hidratación. En la exploración abdominal, se palpa un abdomen blando, sin masas ni megalias. La paciente presenta una palidez generalizada y una apariencia de dolor en el epigastrio.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">12,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">12.000/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">70%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">20 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">90%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">120 mg/dl</TAG>; urea <TAG TYPE="FECHAS">25 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,2 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,5 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">15 U/l</TAG>; GPT <TAG TYPE="FECHAS">30 U/l</TAG>; GGT <TAG TYPE="FECHAS">40 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">150 U/l</TAG>; calcio <TAG TYPE="FECHAS">9,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía abdominal y TAC abdominal) que no evidencian patología significativa. Con el diagnóstico de dolor abdominal agudo, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la cama) y se realiza una exploración más detallada para determinar la causa subyacente del dolor.
+    Antecedentes:
+    La paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2. La paciente ha sido tratada con medicamentos para controlar la hipertensión y la diabetes.
+    Evolución y comentarios:
+    La paciente ha sido ingresada en la unidad de cuidados intensivos para una vigilancia más estrecha. La paciente ha mostrado una mejoría en el dolor abdominal y la temperatura. La paciente sigue siendo vigilada de cerca para determinar la causa subyacente del dolor.
+    Remitido por:
+    El paciente ha sido remitido a la unidad de gastroenterología para una exploración más detallada y un tratamiento más específico.
+  </TEXT>
+</MEDDOCAN>

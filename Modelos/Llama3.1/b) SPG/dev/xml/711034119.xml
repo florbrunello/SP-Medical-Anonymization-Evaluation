@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pol Guillen</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mateos</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">60547643M</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/10/2006</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Ribera 50</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Hellín</TAG>, <TAG TYPE="TERRITORIO">Zamora</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">49233</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">pol.guillen-mateos1654@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 980 29 35 27</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 680 68 11 90</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9498846</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">640465564567</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Guardia de Seguridad</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Leo Ruiz Álvarez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">221439032</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/11/2023</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">68220210</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Leganés</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1150WBW</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Kia Sorento</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSI75CXZYEN450512</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia del medio oriente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">17 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">sobrina</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">escaneo del iris</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">OK031NMR537</TAG>.
+  </TEXT>
+</MEDDOCAN>

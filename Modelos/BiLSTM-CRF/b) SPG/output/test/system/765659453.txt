@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Vicente Montes Castillo
+DNI: 32207898D
+Fecha de nacimiento: 03/05/1946
+Género: Hombre
+Domicilio: Calle de San Millán 53
+Ciudad: Totana, Palencia, Castilla y León
+Código postal: 34302
+Email: montes@hotmail.com
+Teléfono fijo: +34 979 35 08 04
+FAX: +34 979 85 89 02
+NHC: 6970089
+NASS: 298827417817
+Condición de riesgo: Operador de Máquina
+
+Datos asistenciales.
+Médico: Dra. Josefina Marti Pascual. NC 777993629. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/09/2021
+Episodio: 27109507
+Hospital: Hospital Universitario de Crúces
+
+Informe clínico del paciente:
+Paciente fumador de 75 años de edad, acompañado de su marido. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.165.85, con dirección MAC A8:8F:AD:6F:DE:8C. 

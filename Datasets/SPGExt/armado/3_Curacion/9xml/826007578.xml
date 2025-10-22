@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aitor Mateos Domínguez</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">82153024Z</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">25/04/1943</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de San Bernardo 14, 5B</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Eibar</TAG>, <TAG TYPE="TERRITORIO">Formentera</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07027</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">aitordominguez@us.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 06 10 99</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 771 88 64 21</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1958861</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">085636893699</TAG>
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Fabricante</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lourdes Guerrero Jurado</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">NC 004322879</TAG>. <TAG TYPE="PROFESION">Neuróloga Investigadora en Trastornos Cognitivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">09316095</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Barajas</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">81 años</TAG> de edad, con antecedentes de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, que se presenta en la consulta con queja de dificultad para recordar nombres y fechas, así como dificultad para aprender nuevas tareas. La exploración física revela presión arterial <TAG TYPE="FECHAS">160/90 mmHg</TAG>, frecuencia cardíaca <TAG TYPE="FECHAS">80 lpm</TAG>, temperatura <TAG TYPE="FECHAS">36,5 C</TAG>, y una exploración neurológica normal.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, controlados con medicación.
+    Evolución y comentarios:
+    El paciente ha presentado una evolución estable desde su ingreso, con una mejoría moderada en sus síntomas de memoria y aprendizaje.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lourdes Guerrero Jurado</TAG>
+    Fecha de alta: <TAG TYPE="FECHAS">12/03/2025</TAG>
+  </TEXT>
+</MEDDOCAN>

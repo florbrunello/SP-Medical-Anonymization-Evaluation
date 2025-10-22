@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Ángeles Aparicio Méndez
+DNI: 54513244R
+Fecha de nacimiento: 13/09/1950
+Género: Mujer
+Domicilio: Calle del Prado 31, 10Z
+Ciudad: Ourense, Guadalajara, Castilla-La Mancha
+Código postal: 19224
+Email: mariaangeles_apariciomendez@ciberer.es
+Teléfono fijo: +34 949 30 30 63
+Teléfono móvil: +34 649 98 87 05
+NHC: 8392218
+NASS: 153825049380
+Condición de riesgo: Soldado
+
+Datos asistenciales.
+Médico: Dr. Francisco Javier Bueno Vera. NC 531398314. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 29/04/1968
+Episodio: 56352929
+Centro de salud: Centro de Salud Chamartín
+Matrícula del coche: 0433MPL
+Modelo: Mazda CX-5
+VIN: VSHWZDEXYMW474592
+
+Informe clínico del paciente:
+Paciente de tez blanca de 17 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Ángeles" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="57" text="Aparicio Méndez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="63" end="72" text="54513244R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="94" end="104" text="13/09/1950" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="113" end="118" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="130" end="153" text="Calle del Prado 31, 10Z" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="162" end="169" text="Ourense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="182" text="Guadalajara" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="184" end="202" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="218" end="223" text="19224" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="231" end="269" text="mariaangeles_apariciomendez@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="285" end="301" text="+34 949 30 30 63" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="318" end="334" text="+34 649 98 87 05" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="340" end="347" text="8392218" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="354" end="366" text="153825049380" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="388" end="395" text="Soldado" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="430" end="457" text="Francisco Javier Bueno Vera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="462" end="471" text="531398314" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="473" end="513" text="Investigador Clínico en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="515" end="582" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="584" end="611" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="613" end="618" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="620" end="627" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="629" end="635" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="655" end="665" text="29/04/1968" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="676" end="684" text="56352929" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="702" end="727" text="Centro de Salud Chamartín" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="749" end="756" text="0433MPL" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="781" end="798" text="VSHWZDEXYMW474592" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="842" end="852" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="856" end="863" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

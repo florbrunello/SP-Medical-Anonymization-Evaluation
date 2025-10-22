@@ -1,0 +1,33 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 34	Rodrigo Sánchez Lara
+T2	IDENTIF_DOCUMENTO_NACIONAL 49 65	38078110T
+T3	FECHAS 95 103	21/01/1957
+T4	SEXO_SUJETO_ASISTENCIA 115 116	Hombre
+T5	CALLE 137 155	Calle de la Princesa 51
+T6	TERRITORIO 166 176	San Vicente del Raspeig, Gerona, Cataluña
+T7	TERRITORIO 178 184	17836
+T8	CORREO_ELECTRONICO 206 224	rodrigosanchez_lara@outlook.com
+T9	NUMERO_TELEFONO 231 242	+34 972 59 22 61
+T10	NUMERO_FAX 255 265	+34 972 21 77 42
+T11	ID_SUJETO_ASISTENCIA 273 281	6663927
+T12	NOMBRE_PERSONAL_SANITARIO 305 329	Dr. Pau Casas Camacho
+T13	ID_TITULACION_PERSONAL_SANITARIO 332 343	NC 729546513
+T14	PROFESION 355 365	Endocrinólogo Especialista en Diabetes
+T15	INSTITUCION 370 394	Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)
+T16	CALLE 405 425	Avenida Menéndez Pidal, s/n
+T17	TERRITORIO 436 442	14004
+T18	PAIS 446 452	España
+T19	FECHAS 462 472	17/01/2024
+T20	ID_CONTACTO_ASISTENCIAL 492 499	00083271
+T21	HOSPITAL 508 538	Centro de Salud Valdemoro
+T22	NUMERO_VEHICULO 543 553	4113FRO
+T23	MARCA_VEHICULO 554 566	Mercedes-Benz C-Class
+T24	NUMERO_SERIE_VEHICULO 569 583	VSK0V45J0AT903391
+T25	INFORME_CLINICO 595 618	El paciente, un hombre de 66 años, fumador empedernido, fue ingresado en el Centro de Salud Valdemoro con una serie de síntomas que incluyen dolores en la región lumbar, dificultad para caminar y una sensación de fatiga generalizada.
+T26	INFORME_CLINICO 620 643	El paciente ha sido fumador durante más de 40 años y tiene una historia de hipertensión y diabetes mellitus tipo 2.
+T27	INFORME_CLINICO 646 661	La exploración física revela un paciente con una temperatura corporal normal, pero con una presión arterial elevada (160/90 mmHg) y un índice de masa corporal (IMC) de 30, lo que indica obesidad.
+T28	INFORME_CLINICO 663 684	El paciente también presenta una serie de signos y síntomas que sugieren una posible enfermedad cardiovascular, incluyendo un ruido cardíaco anormal y una disminución de la fuerza muscular en las extremidades inferiores.
+T29	INFORME_CLINICO 685 706	Los resultados de las pruebas de laboratorio muestran un aumento de la glucemia en ayunas (180 mg/dl) y un nivel de colesterol elevado (240 mg/dl).
+T30	INFORME_CLINICO 707 728	El paciente también tiene un nivel de triglicéridos elevado (200 mg/dl) y un nivel de HDL (colesterol bueno) bajo (30 mg/dl).
+T31	INFORME_CLINICO 729 750	Con base en estos resultados, se considera que el paciente padece una enfermedad cardiovascular en etapa avanzada, con una alta probabilidad de desarrollar una enfermedad cardiovascular aguda en el futuro.
+T32	INFORME_CLINICO 751 772	Se recomienda que el paciente realice una serie de cambios en su estilo de vida, incluyendo la reducción del consumo de tabaco, la adopción de una dieta saludable y la realización de ejercicio físico regular.
+T33	INFORME_CLINICO 773 794	Se propone una serie de tratamientos para el paciente, incluyendo

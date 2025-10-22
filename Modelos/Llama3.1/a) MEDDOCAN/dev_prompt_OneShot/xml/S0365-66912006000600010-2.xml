@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Silvia</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Perera Sotillo</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6778970</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">24 57734895 45</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle Veguellina, 3</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">24001</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/03/1993</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">24 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">06/08/2017</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Oftalmología</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">8793456</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Vicente</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Asensio Sánchez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">24 24 56102</TAG>.
+    Informe clínico del paciente: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">24 años</TAG> enviada desde atención primaria por pérdida de visión bilateral de 6 semanas de evolución. Sin antecedentes familiares de interés. Como antecedente personal destaca el tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">Topamax</TAG> 150 mg al día desde hacía 2 meses por <TAG TYPE="PROFESION">epilepsia</TAG> refractaria a terapia convencional. La AV máxima en el ojo derecho era de 0,6 y de 0,7 en el ojo izquierdo (OI). El campo visual muestra un escotoma central bilateral y en el fondo de ojo se aprecia una maculopatía bilateral con cambios pigmentarios mayor en el OI. Ante la relación temporal ingesta de <TAG TYPE="OTRO_NUMERO_IDENTIF">Topamax</TAG> y pérdida de visión se retiró este fármaco, pero después de un año de seguimiento la paciente no ha recuperado visión aunque el proceso permanece estable.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Vicente Asensio Sánchez</TAG> <TAG TYPE="HOSPITAL">Hospital General</TAG> <TAG TYPE="INSTITUCION">Servicio Castellano-Leonés de Salud</TAG> <TAG TYPE="PROFESION">Servicio de Oftalmología</TAG> <TAG TYPE="TERRITORIO">Medina del Campo (Valladolid)</TAG> <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">vasensio@hmdc.sacyl.es</TAG>
+  </TEXT>
+</MEDDOCAN>

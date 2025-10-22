@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Asier Ortiz Navarro</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">57608529S</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/05/1954</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Tribulete 97</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Avilés</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">46438</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ortiz-navarro1774@uhu.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 960 50 10 59</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 760 49 42 53</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0825223</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">083909335600</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">No especificada</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Rubén</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Benito Mendoza</TAG> NC: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">755123563</TAG>.
+    Especialidad: <TAG TYPE="PROFESION">Neurólogo Especialista en Alzheimer</TAG>.
+    Instituto: <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>.
+    Dirección: <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/03/1995</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">49730022</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Coslada</TAG>.
+    Informe clínico del paciente:
+    Paciente no fumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> de edad, que acude al servicio de urgencias con un cuadro de confusión y disminución de la conciencia. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica se detectan signos de disminución de la conciencia, con dificultad para mantener la postura erecta y disminución de la refleja de Babinski.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 8.500/mm3 (neutrófilos 70%); plaquetas 250.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 95%; TTPA 25,8 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 4,2 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 25 U/l; fosfatasa alcalina 100 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+    Con el diagnóstico de disminución de la conciencia de causa desconocida, se instaura tratamiento de soporte (reposo, hidratación y oxígeno) y se solicitan pruebas de imagen (TAC craneal, Ecocardiograma transtorácico y Ecografía abdominal) para determinar la causa subyacente. El paciente se encuentra en observación en la unidad de cuidados intensivos.
+  </TEXT>
+</MEDDOCAN>

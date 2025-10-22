@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Esperanza</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Garcia Chavero</TAG>.
+    <TAG TYPE="ID_SUJETO_ASISTENCIA">298564</TAG>.
+    <TAG TYPE="ID_ASEGURAMIENTO">47 45708560 85</TAG>.
+    <TAG TYPE="CALLE">Rúa da Virxe do Camiño, 55</TAG>.
+    <TAG TYPE="TERRITORIO">Pontevedra</TAG>.
+    <TAG TYPE="TERRITORIO">36001</TAG>.
+    Datos asistenciales.
+    <TAG TYPE="FECHAS">27/11/1946</TAG>.
+    <TAG TYPE="PAIS">España</TAG>.
+    <TAG TYPE="EDAD_SUJETO_ASISTENCIA">69 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    <TAG TYPE="FECHAS">25/06/2016</TAG>.
+    <TAG TYPE="PROFESION">Servicio: Neumología</TAG>.
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco Javier González Barcala</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">NºCol: 36 28 14785</TAG>.
+    Informe clínico del paciente: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">69 años</TAG> que acude a la consulta por presentar infecciones respiratorias de repetición. La paciente no refiere alergias ni hábitos tóxicos, es hipertensa a tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">amlodipino</TAG> y presenta <TAG TYPE="OTRO_NUMERO_IDENTIF">hipotiroidismo</TAG> tratado con <TAG TYPE="OTRO_NUMERO_IDENTIF">levotiroxina</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Histerectomizada con doble anexectomía</TAG> 20 años antes. Refiere una historia clínica de 10 años de evolución de infecciones respiratorias frecuentes, de predominio invernal aunque también presentes en verano, consistentes en tos, disnea, sibilancias y expectoración purulenta. Refiere, además, ortopnea. En la exploración física presenta una auscultación cardíaca rítmica, sin soplos ni extratonos y una auscultación pulmonar con algún roncus aislado. En las extremidades se aprecian <TAG TYPE="OTROS_SUJETO_ASISTENCIA">edemas perimaleolares</TAG>. Se realiza espirometría con el siguiente resultado: <TAG TYPE="OTRO_NUMERO_IDENTIF">FVC 67%</TAG>; <TAG TYPE="OTRO_NUMERO_IDENTIF">FEV1 56%</TAG>; <TAG TYPE="OTRO_NUMERO_IDENTIF">PEF 73%</TAG>; <TAG TYPE="OTRO_NUMERO_IDENTIF">FEV1/FVC 68%</TAG>, prueba broncodilatadora positiva. La difusión pulmonar de gases está discretamente reducida, siendo del <TAG TYPE="OTRO_NUMERO_IDENTIF">72,6%</TAG> del valor de referencia. En la radiografía de tórax se observa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cifoescoliosis</TAG> sin otras alteraciones. En la tomografía computarizada se observan áreas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfisema</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bronquiectasias</TAG> en ambas bases, más evidentes en lóbulo medio. En el estudio analítico sanguíneo solamente se aprecia un déficit de <TAG TYPE="OTRO_NUMERO_IDENTIF">AAT</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">30 mg/dl</TAG>). Se realiza <TAG TYPE="OTRO_NUMERO_IDENTIF">fibrobroncoscopia</TAG> sin hallazgos significativos. Con estos resultados se realiza un <TAG TYPE="OTRO_NUMERO_IDENTIF">fenotipo de AAT</TAG>, que demuestra el tipo <TAG TYPE="OTRO_NUMERO_IDENTIF">ZZ</TAG>. Diagnosticada de <TAG TYPE="OTRO_NUMERO_IDENTIF">asma</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">D-AAT</TAG>, se instaura tratamiento para el asma con importante mejoría. Inicialmente no se realiza tratamiento sustitutivo del <TAG TYPE="OTRO_NUMERO_IDENTIF">D-AAT</TAG>, por mantener una función pulmonar aceptable.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco Javier González Barcala</TAG> <TAG TYPE="PROFESION">Servicio de Neumología Hospital de Pontevedra Loureiro Crespo, 2</TAG> <TAG TYPE="TERRITORIO">36002</TAG> <TAG TYPE="TERRITORIO">Pontevedra</TAG> <TAG TYPE="NUMERO_TELEFONO">34-607819141</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">fjgbarcala@telefonica.net</TAG>
+  </TEXT>
+</MEDDOCAN>

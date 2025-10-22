@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Darío</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Dominguez Moreno</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2605987</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">89 10686799 65</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Paloma, 4</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Ciudad Real</TAG>.
+    CP: <TAG TYPE="TERRITORIO">13001</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/09/1992</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">13/12/2014</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Maria</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Antonia Castillo Wisman</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">13 13 58036</TAG>.
+    Historia Actual: varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22 años</TAG>, asténico, álgido y delgado, que acude a nuestra consulta del centro de salud de forma repetida en el último mes, por dolor epigástrico punzante asociado a náuseas y vómitos postprandiales que alivian el dolor.
+    Los episodios se presentan desde hace <TAG TYPE="OTROS_SUJETO_ASISTENCIA">7 años</TAG>, motivo por el que ha consultado en los servicios de urgencias en múltiples ocasiones, sin que se le haya encontrado nunca patología aguda.
+    Ingresó hace <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3 años</TAG> por uno de estos episodios, realizándole gastroscopía con biopsia gástrica que resultó positiva para H. pylori; cumplió tratamiento erradicador con triple terapia actual (<TAG TYPE="PROFESION">omeprazol</TAG>, <TAG TYPE="PROFESION">amoxicilina</TAG> y <TAG TYPE="PROFESION">claritromicina</TAG>), con posterior test de aliento negativo para infección por H. pylori.
+    Por persistencia de los síntomas se instauró tratamiento con antieméticos y múltiples inhibidores de la bomba de protones, sin respuesta a largo plazo.
+    En su ingreso fue valorado por el servicio de Salud Mental, ya que persistía la sintomatología de dolor agudo que cedía con los vómitos, siendo diagnosticado de síndrome ansioso-depresivo con mal seguimiento e incumplimiento terapéutico.
+    No presentaba alergias a alimentos ni a fármacos.
+    Actualmente, el dolor cedía en posición genupectoral y con el consumo de <TAG TYPE="OTRO_NUMERO_IDENTIF">cannabis</TAG>.
+    Exploración física: A la exploración nos encontramos con un paciente con constantes estables, con un IMC de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">17,7</TAG>. El abdomen está excavado, timpánico, blando y levemente doloroso a la palpación profunda en epigastrio, sin que se palpen masas, adenopatías ni megalias.
+    Pruebas complementarias y evolución:  La analítica no presentaba alteraciones; ausencia de anemia, marcadores de respuesta inflamatoria negativos, sin alteraciones a nivel hepático ni alteraciones electrolíticas, proteínas totales <TAG TYPE="OTRO_NUMERO_IDENTIF">5,8 g/dl</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">6,4 a 8,3 g/dL</TAG>).
+    En la radiografía de abdomen no hay signos de obstrucción intestinal.
+    Se realizó en nuestra consulta, una ecografía abdominal total en decúbito supino, sin evidencia de hallazgos relevantes, por lo cual decidimos consultar con el servicio de Digestivo, donde, tras ser valorado, se solicitó un tránsito intestinal baritado, con retraso de más de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8 horas</TAG> por lentitud de vaciamiento gástrico por disminución del calibre en la 3a porción duodenal de forma permanente, sugerente de compresión extrínseca, que no impedía el paso distal de contraste, todo ello compatible con una compresión vascular.
+    Ante este hallazgo, se decide realización de angioTAC de abdomen, con el resultado de una pinza vascular que producía compresión del duodeno en su 3a porción.
+    La pinza mesentérica afectaba al duodeno y a la vena renal izquierda, produciendo compresión y dilatación pre y postcompresión.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Maria Antonia Castillo Wisman</TAG>. <TAG TYPE="CALLE">Calle Madroños 14</TAG>, <TAG TYPE="TERRITORIO">Ciudad Real</TAG> <TAG TYPE="TERRITORIO">13002</TAG>. e-mail: <TAG TYPE="CORREO_ELECTRONICO">mariocwisman@yahoo.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

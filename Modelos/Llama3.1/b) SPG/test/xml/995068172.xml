@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Rosario</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Herrera Garrido</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">41285166M</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">18/05/2012</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Ana 46</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">13729</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariarosariogarrido@hotmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 82 07 12</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 626 67 72 55</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6375672</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">458155862406</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Soldado</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sofía Zamora Bermudez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">674953567</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/07/2018</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">36901283</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Asistencial Universitario de León</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7294RBK</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Honda CR-V</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSJ4KULILXW135919</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

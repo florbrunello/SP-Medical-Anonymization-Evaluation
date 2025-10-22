@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Miriam Salas Pascual
+DNI: 92058055A
+Fecha de nacimiento: 12/10/2007
+Género: F
+Domicilio: Calle de Covarrubias 27
+Ciudad: Hellín, Almería, Andalucía
+Código postal: 04906
+Email: miriam_pascual@uca.es
+Teléfono fijo: +34 950 64 25 21
+Teléfono móvil: +34 650 30 64 30
+NHC: 4186613
+NASS: 403436517607
+Condición de riesgo: Trabajador de Minería
+
+Datos asistenciales.
+Médico: Dr. Samuel Hidalgo Aparicio. NC 167533492. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/06/2011
+Episodio: 89303381
+Hospital: Hospital Universitario de Cabueñes
+Matrícula del coche: 4336TJB
+Modelo: Mercedes-Benz C-Class
+VIN: VSZP776JWCE799419
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 3 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Miriam" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Salas Pascual" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="92058055A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="12/10/2007" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="140" text="Calle de Covarrubias 27" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="155" text="Hellín" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="164" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="175" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="04906" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="225" text="miriam_pascual@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 950 64 25 21" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 650 30 64 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="296" end="303" text="4186613" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="310" end="322" text="403436517607" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="344" end="365" text="Trabajador de Minería" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="400" end="423" text="Samuel Hidalgo Aparicio" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="428" end="437" text="167533492" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="439" end="483" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="485" end="571" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="573" end="602" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="604" end="609" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="611" end="617" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="619" end="625" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="645" end="655" text="10/06/2011" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="666" end="674" text="89303381" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="685" end="719" text="Hospital Universitario de Cabueñes" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="741" end="748" text="4336TJB" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="784" end="801" text="VSZP776JWCE799419" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="845" end="871" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="875" end="881" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="908" end="913" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

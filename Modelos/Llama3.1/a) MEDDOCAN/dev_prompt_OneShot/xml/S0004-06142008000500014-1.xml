@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Yadira</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Barrantes Lopez</TAG>.
+    CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">1913043</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle 15 No. 654 e/ A Vedado</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">La Habana</TAG>.
+    CP: <TAG TYPE="TERRITORIO">11300</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">57964</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/05/1987</TAG>.
+    País: <TAG TYPE="PAIS">Cuba</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">14/09/2017</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tomás</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lázaro Rodríguez Collar</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">280292</TAG>.
+    Historia actual y antecedentes: Se trata de una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">mujer</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30 años</TAG> de edad. Ocho años atrás tuvo su primera hija; el embarazo y el parto transcurrieron sin complicaciones.
+    Hace tres años, se realizó interrupción de embarazo no deseado, mediante <TAG TYPE="PROFESION">legrado endometrial</TAG>, ocasión en la cual se le colocó una <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">T de cobre</TAG> como método anticonceptivo. Aproximadamente un año después, comenzó a presentar sintomatología urinaria irritativa baja, consistente en ardor uretral posmiccional, dolor uretral y en el bajo vientre, polaquiuria y urgencia miccional. Asiste a la consulta médica, se le detectó <TAG TYPE="IDENTIF_BIOMETRICOS">Escherichia Coli</TAG> en cultivos de orina y se le puso tratamiento con varios ciclos de diferentes antibióticos con el diagnóstico de <TAG TYPE="OTRO_NUMERO_IDENTIF">cistitis infecciosa</TAG>. Los síntomas anteriores se atenuaban, pero a las semanas de concluir los referidos tratamientos, regresaban, con mayor intensidad. Finalmente, se agregaron al cortejo sintomático descrito, la interrupción brusca del chorro urinario y la dispareunia.
+    En medio de esta situación, la paciente queda embarazada otra vez, supuestamente con la <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">T de cobre</TAG> colocada intraútero, y decide llevarlo a término. Durante los nueve meses que duró la gestación, los síntomas urinarios antes mencionados, se mantuvieron en forma e intensidad similares. Parió sin dificultad, esta vez un varón.
+    A los dos meses del parto, y por la persistencia de los síntomas urinarios, decide asistir entonces, a la consulta de <TAG TYPE="PROFESION">Urología</TAG>. En la misma se le indica <TAG TYPE="PROFESION">ultrasonido</TAG> de las vías urinarias, notificándose que ambos riñones eran normales, en posición y morfología y que, en la vejiga, existía una imagen de <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">litiasis</TAG> de gran tamaño, de aproximadamente cinco centímetros de diámetro, que se desplazaba con los cambios de posición de la paciente. Se le realizó <TAG TYPE="PROFESION">radiografía</TAG> ántero-posterior de la pelvis, comprobándose la presencia de una <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">litiasis</TAG> de unos cinco por tres centímetros de tamaño, en proyección de la pelvis menor y con una <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">T de cobre</TAG> en su interior.
+    Se decidió realizar la <TAG TYPE="PROFESION">cistolitotomía suprapúbica</TAG>. Durante la misma se constató que la mucosa vesical estaba muy eritematosa y con sangrado fácil. La <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">litiasis</TAG>, situada en el fondo vesical, se fragmentó en la maniobra de extracción con las pinzas, descubriéndose en su interior la <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">T de cobre</TAG> con incrustaciones litiásicas. Luego, se despojó el cuerpo extraño de su recubrimiento, apreciándose en su integridad.
+    Se mantuvo a la paciente con <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">sonda uretral</TAG> por dos semanas, y con tratamiento de <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">Ciprofloxacino</TAG> oral, 500 miligramos cada 12 horas por tres semanas. La evolución fue satisfactoria y se logró el cese total de la sintomatología.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Tomás</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lázaro Rodríguez Collar</TAG> <TAG TYPE="HOSPITAL">Hospital Universitario Dr. Carlos J. Finlay</TAG>. <TAG TYPE="CALLE">114 y 31</TAG>. <TAG TYPE="TERRITORIO">Marianao</TAG>. <TAG TYPE="TERRITORIO">11500</TAG>. <TAG TYPE="TERRITORIO">La Habana</TAG>. (<TAG TYPE="PAIS">Cuba</TAG>). <TAG TYPE="CORREO_ELECTRONICO">bhfinlay@infomed.sld.cu</TAG>
+  </TEXT>
+</MEDDOCAN>

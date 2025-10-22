@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Víctor Estevez Conde
+DNI: 61742552H
+Fecha de nacimiento: 04/12/1949
+Género: V
+Domicilio: Calle del Espíritu Santo 73
+Ciudad: Orense, Tarragona, Cataluña
+Código postal: 43886
+Email: victorestevez1202@hotmail.com
+Teléfono fijo: +34 977 59 02 92
+Teléfono móvil: +34 777 14 68 52
+NHC: 2811455
+NASS: 193930637589
+
+Datos asistenciales.
+Médico: Dra. Vanessa Sánchez Rivera. NC 457926071. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/03/2006
+Episodio: 27057704
+Centro de salud: Centro de Salud Ciudad Lineal
+Matrícula del coche: 5759AJL
+Modelo: Ram 1500
+VIN: VSD9RGQNHEZ813190
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 56 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.53.126, con dirección MAC 3E:17:5F:28:ED:A9. Se realizó un expediente con URL http://example-therapy.org//83680731M. 

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gloria García León
+DNI: 49255460V
+Fecha de nacimiento: 22/07/1969
+Género: Mujer
+Domicilio: Calle de Bailén 25
+Ciudad: Segovia, La Coruña, Galicia
+Código postal: 15700
+Email: gloria1967@isciii.es
+Teléfono fijo: +34 981 59 36 89
+Teléfono móvil: +34 681 28 28 42
+NHC: 2908176
+NASS: 448636078138
+Condición de riesgo: Operador de Maquinaria Pesada
+
+Datos asistenciales.
+Médico: Dr. Juan Carlos Casas Sierra. NC 885418136. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 22/01/2002
+Episodio: 15972942
+Hospital: Hospital Universitario de Gran Canaria Dr. Negrín
+
+Informe clínico del paciente:
+Paciente vegano de 32 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Gloria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="46" text="García León" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="49255460V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="22/07/1969" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="107" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="137" text="Calle de Bailén 25" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="153" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="164" text="La Coruña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="173" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="189" end="194" text="15700" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="202" end="222" text="gloria1967@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="238" end="254" text="+34 981 59 36 89" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="271" end="287" text="+34 681 28 28 42" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="293" end="300" text="2908176" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="307" end="319" text="448636078138" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="341" end="370" text="Operador de Maquinaria Pesada" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="405" end="429" text="Juan Carlos Casas Sierra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="434" end="443" text="885418136" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="445" end="483" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="485" end="552" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="554" end="581" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="583" end="588" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="590" end="597" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="599" end="605" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="625" end="635" text="22/01/2002" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="646" end="654" text="15972942" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="665" end="714" text="Hospital Universitario de Gran Canaria Dr. Negrín" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="755" end="761" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="765" end="772" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

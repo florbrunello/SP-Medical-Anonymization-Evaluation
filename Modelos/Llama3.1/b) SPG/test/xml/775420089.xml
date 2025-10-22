@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan Pedro</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Salazar Castro</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">27991347W</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">20/03/1993</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Alberto Aguilera 63</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Denia</TAG>, <TAG TYPE="TERRITORIO">Lugo</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">27076</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">salazar.castro@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 982 06 30 04</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 682 48 11 63</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8602543</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">190331065052</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ángela Ríos Bermudez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">563147770</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardióloga Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/02/2012</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">72881943</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Asistencial Universitario de León</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7598XQW</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Subaru Outback</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSO4BRMEQ7M539769</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">18 años</TAG> de edad. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP</TAG> (<TAG TYPE="TERRITORIO">192.168.116.255</TAG>) <TAG TYPE="comment"></TAG>, con <TAG TYPE="DIREC_PROT_INTERNET">dirección MAC</TAG> <TAG TYPE="IDENTIF_BIOMETRICOS">25:9E:0E:75:1A:47</TAG>.
+  </TEXT>
+</MEDDOCAN>

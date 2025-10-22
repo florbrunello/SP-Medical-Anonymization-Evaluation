@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Adolfo Parra Arias
+DNI: 13860861A
+Fecha de nacimiento: 07/05/1987
+Género: Hombre
+Domicilio: Calle del Sombrerete 55, 3M
+Ciudad: Ponferrada, Salamanca, Castilla y León
+Código postal: 37975
+Email: adolfoarias@h12o.es
+Teléfono fijo: +34 923 68 43 91
+Teléfono móvil: +34 623 25 05 18
+NHC: 9020942
+NASS: 753082335119
+Condición de riesgo: Limpiador
+
+Datos asistenciales.
+Médico: Dr. Juan Ramón Durán Gutiérrez. NC 893409324. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/11/2013
+Episodio: 51014091
+Hospital: Hospital Universitario Rey Juan Carlos de Mostoles
+
+Informe clínico del paciente:
+Paciente vegetariano de 26 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.213.242, con dirección MAC 5B:D5:05:5B:16:32. 

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Laia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cabrera</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rivera</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">56417133L</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">31/03/1975</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Ana 8</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">28123</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">cabrera@isciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 919 57 12 95</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 615 40 43 43</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9387161</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Almacén</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jaume Miranda Suárez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">985388081</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/05/2006</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">49649698</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital de la Santa Creu i Sant Pau</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">31 años</TAG> de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es <TAG TYPE="ID_DISPOSITIVOS_NRSERIE">ID349WNG773</TAG>.
+  </TEXT>
+</MEDDOCAN>

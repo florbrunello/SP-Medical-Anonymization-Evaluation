@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Isabel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rodríguez Rubio</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">65690238F</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">16/07/1942</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Paz 4, 10Q</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Cáceres</TAG>, <TAG TYPE="TERRITORIO">Extremadura</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">10359</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">rodriguez.rubio@ual.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 927 82 08 82</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 627 07 22 24</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0006082</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">229612396800</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Agustín Galvez Varela</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">222431510</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neurólogo Investigador en Trastornos Cognitivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/09/1954</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Arganzuela</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3560OAO</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hyundai Elantra</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSALP5SP5TS951091</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">12 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. Se registró una sesión de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">escaneo del iris</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">LA673SNJ729</TAG>.
+  </TEXT>
+</MEDDOCAN>

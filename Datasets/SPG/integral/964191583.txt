@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Pau Zamora Salazar
+DNI: 65061925P
+Fecha de nacimiento: 04/05/1992
+Género: Varón
+Domicilio: Calle de Covarrubias 30
+Ciudad: Huelva, Santa Cruz de Tenerife, Canarias
+Código postal: 38551
+Email: zamora@aol.com
+Teléfono fijo: +34 922 15 46 72
+Teléfono móvil: +34 622 49 59 19
+NHC: 4832654
+
+Datos asistenciales.
+Médico: Dra. Remedios Carrillo Silva. NC 619111435. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/06/2012
+Episodio: 24621056
+Hospital: Hospital Universitario Reina Sofía de Córdoba
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 20 años de edad, acompañado de su hijo. Se realizó un expediente con URL http://example-clinica.com//50515210P. 

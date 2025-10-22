@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ignacio</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cañizares Roque</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7823673</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">28 96457601 34</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Rodriguez Sahagun, 4</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28039</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/12/1979</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">38 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">13/06/2018</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Oftalmologia</TAG>.
+    Episodio: <TAG TYPE="ID_SUJETO_ASISTENCIA">7824373</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodrigo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodríguez Gil</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 41503</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">38 años</TAG>, hipertenso, con hipoacusia neurosensorial, remitido por baja agudeza visual (AV). En la anamnesis familiar se registró a tres hermanos varones sordomudos y otro con baja visión.
+    La agudeza visual (AV) sin corrección fue <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0,3</TAG> en el ojo derecho (OD) y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0,2</TAG> en el ojo izquierdo (OI). Se detectó un lenticono anterior y en el fondo de ojo se evidenció la existencia de un AM en ambos ojos, rodeado por un anillo perimacular de puntos blanquecinos. Se realizó tomografía de coherencia óptica (OCT) con Stratus OCT-3 (Carl Zeiss Meditec, Dublin, CA), que verificó la presencia de AM, en estadio IV, con diámetro basal de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">1.347μm</TAG> en OD y de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">1.409</TAG> en OI, con hiperreflectividad en capas internas retinianas y cambios quísticos en los tejidos adyacentes. Tras estudio sistémico (incluida biopsia renal) se diagnosticó de SA, estando el paciente actualmente en hemodiálisis por insuficiencia renal severa, manteniéndose las características del AM.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodrigo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodríguez Gil</TAG>. Correo Electronico: <TAG TYPE="CORREO_ELECTRONICO">gilorio_79@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

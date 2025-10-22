@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Aarón Andres Vidal
+DNI: 46851120M
+Fecha de nacimiento: 13/08/1956
+Género: Varón
+Domicilio: Calle de Génova 60
+Ciudad: Bormujos, Región de Murcia, Región de Murcia
+Código postal: 30424
+Email: vidal@uhu.es
+Teléfono fijo: +34 968 86 61 54
+Teléfono móvil: +34 668 71 02 16
+NHC: 5423396
+NASS: 836314342939
+Condición de riesgo: Microbiólogo
+
+Datos asistenciales.
+Médico: Dr. Leo Rivas Manzano. NC 731705069. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/05/1988
+Episodio: 29114977
+Centro de salud: Centro de Salud Getafe
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 31 años de edad, acompañado de su esposa. El servidor para envío de información desde cual el usuario se comunica es smtp://example-biotech.com. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es KD556ANT662. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Aarón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="46" text="Andres Vidal" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="46851120M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="13/08/1956" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="107" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="137" text="Calle de Génova 60" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="154" text="Bormujos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="172" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="190" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="30424" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="231" text="vidal@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 968 86 61 54" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 668 71 02 16" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="5423396" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="316" end="328" text="836314342939" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="350" end="362" text="Microbiólogo" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="397" end="414" text="Leo Rivas Manzano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="419" end="428" text="731705069" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="430" end="469" text="Investigador Clínico en Síndromes Raros" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="471" end="546" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="548" end="577" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="579" end="584" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="586" end="592" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="594" end="600" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="620" end="630" text="14/05/1988" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="641" end="649" text="29114977" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="667" end="689" text="Centro de Salud Getafe" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="733" end="753" text="ascendencia asiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="757" end="764" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="791" end="797" text="esposa" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="874" end="896" text="smtp://example-biotech" TYPE="URL_WEB" comment=""/>
+        <ID id="T32" start="988" end="999" text="KD556ANT662" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

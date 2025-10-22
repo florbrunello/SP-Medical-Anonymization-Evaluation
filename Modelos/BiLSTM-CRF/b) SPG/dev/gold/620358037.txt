@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Mohamed Paredes Galvez
+DNI: 54202936D
+Fecha de nacimiento: 14/04/1946
+Género: Hombre
+Domicilio: Calle de San Bernardo 20
+Ciudad: Badajoz, Ibiza, Islas Baleares
+Código postal: 07272
+Email: mohamed_paredes.galvez@ciberned.es
+Teléfono fijo: +34 971 84 85 96
+FAX: +34 971 45 74 79
+NHC: 9041511
+NASS: 825838296733
+
+Datos asistenciales.
+Médico: Dra. Diana Herrera Segura. NC 147929893. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/10/1967
+Episodio: 12974325
+Hospital: Hospital General Universitario Reina Sofía
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 21 años de edad. Se realizó un expediente con URL http://example-medical.edu//84321044D. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es EA625JQW289. 

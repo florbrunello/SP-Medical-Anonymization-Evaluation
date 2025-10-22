@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Miguel</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Hernando Jarquin</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2847043</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">32 58067938 45</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Genova, 23, 4 A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28016</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/01/2000</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">17 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">15/03/2017</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Melayne</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Zanetti</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 57815</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">17 años</TAG> con antecedentes de paraplejia secundaria a herida por proyectil de arma de fuego a nivel de vértebra T1. Fallece en el domicilio sin asistencia médica por lo que fue ordenada una autopsia judicial.
+    a) Examen externo: atrofia de las cuatro extremidades y anquilosis de las manos, úlceras de decúbito con tejido necrótico a nivel bitrocantéreo y sacro. Cánula de traqueostomía a nivel cervical. Portaba catéter urinario conectado a bolsa colectora que contenía orina con un llamativo color púrpura.
+    b) Examen interno: encéfalo con notable aumento de peso (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">1.875 g</TAG>) con patrón de edema cerebral (aplanamiento de giros y circunvoluciones). Corazón de peso normal (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">325 g</TAG>) con discreta dilatación de cavidades cardiacas derechas y presencia de trombos murales. Adherencias pleurales e interlobulares derechas y tromboembolismo pulmonar en la rama izquierda de la arteria pulmonar. Pulmones de peso discretamente elevado (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">D: 640 g; I: 600 g</TAG>) con patrón de congestión y edema de moderado a severo. No se puso de manifiesto la presencia de infarto pulmonar. Riñones de peso normal (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">D: 180 g; I: 130 g</TAG>) con escasa diferenciación córtico-medular, hemorragia en el área medular y áreas de coloración violácea con salida de material purulento a través de la pelvis renal. En la vejiga urinaria se cuantificaron <TAG TYPE="OTROS_SUJETO_ASISTENCIA">400 cc</TAG> de orina turbia, olor fétido asociado a sedimento en su fondo de coloración crema verdoso con aspecto purulento.
+    c) Exploraciones complementarias:
+    - Análisis toxicológico negativo en muestras de sangre, orina y humor vítreo.
+    - Análisis microbiológico. En el cultivo del sedimento urinario se observó crecimiento de <TAG TYPE="OTRO_NUMERO_IDENTIF">Proteus vulgaris</TAG>.
+    d) Causa de la muerte: se consideró que el tromboembolismo pulmonar fue la causa inmediata de la muerte, la infección de vías urinarias como causa intermedia y la paraplejia como causa fundamental.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Melayne</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Zanetti</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">melyzanetti@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

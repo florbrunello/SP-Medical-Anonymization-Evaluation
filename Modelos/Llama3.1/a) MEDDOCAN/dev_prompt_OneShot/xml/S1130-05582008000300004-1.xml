@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Javier</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gomez Martin</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7245653</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">37 61456895 97</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">C/ Guzman el Bueno</TAG>, <TAG TYPE="NUMERO_TELEFONO">34</TAG>, <TAG TYPE="NUMERO_TELEFONO">6 A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28009</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/10/1980</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">05/05/2018</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García de Marcos</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 89710</TAG>.
+    Informe clínico del paciente: Paciente varón, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> de edad, que acude a la consulta por presentar un nódulo paramandibular derecho, de 6 años de evolución, que en el último año ha aumentado de tamaño. Refiere que la lesión apareció tras la exodoncia de un molar inferior.46.
+    A la exploración el paciente presentaba un nódulo de 1,5 cm de diámetro, en el fondo del vestíbulo, a la altura del 45 y del teórico 46. La lesión era móvil, bien delimitada, de consistencia elástica y dolorosa a la palpación. La mucosa suprayacente era normal. Se realizó una ortopantomografía en la que no se apreció patología mandibular. Bajo anestesia local se realizó la resección de la lesión, localizando previamente la salida del nervio mentoniano para preservarlo.1
+    Macroscópicamente se trataba de una lesión nodular, bien delimitada, blanquecina, de 2 x 1,5 x 1 cm de tamaño. Microscópicamente la lesión estaba formada por células uniformes fusiformes, con límites citoplasmáticos mal definidos, núcleos ovales o redondos, sin mitosis ni pleomorfismo nuclear. Las células se disponían al azar entremezcladas con fibras de colágeno y vasos sanguíneos aislados. No había áreas de necrosis, ni patrón hemangiopericitoide. En la periferia la lesión estaba delimitada por un ribete de tejido conectivo.
+    Inmunohistoquimicamente las células de la lesión eran: intensamente positivas para: vimentina, CD34 y bcl2 ; débilmente positivas para: factor XIIIa y actina músculo específica (1A4); y negativas para: proteina S-100, citoqueratinas (CAM 5,2;AE1-3), desmina y actina muscular (HHF35).
+    El postoperatorio evolucionó sin complicaciones, y tras un año de la cirugía no hay signos de recidiva local o regional.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García de Marcos</TAG>. <TAG TYPE="CALLE">C/ Antonio Acuña</TAG>. <TAG TYPE="NUMERO_TELEFONO">Nº 10</TAG> <TAG TYPE="NUMERO_TELEFONO">5ºA izq</TAG>. <TAG TYPE="TERRITORIO">28009</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="PAIS">España</TAG>. Email: <TAG TYPE="CORREO_ELECTRONICO">pepio2@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

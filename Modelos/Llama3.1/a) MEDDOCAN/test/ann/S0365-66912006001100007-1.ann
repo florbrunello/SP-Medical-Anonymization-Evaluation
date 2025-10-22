@@ -1,0 +1,40 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 34	Silvia
+T2	NOMBRE_SUJETO_ASISTENCIA 47 61	Navarro Becker
+T3	ID_SUJETO_ASISTENCIA 68 75	7834691
+T4	ID_ASEGURAMIENTO 83 97	36 27567845 36
+T5	CALLE 110 135	Av. Diego Lopez, 44, 2, A
+T6	TERRITORIO 159 163	Vigo
+T7	TERRITORIO 169 174	36211
+T8	FECHAS 218 228	10/12/1984
+T9	PAIS 250 256	España
+T10	EDAD_SUJETO_ASISTENCIA 264 271	24 años
+T11	SEXO_SUJETO_ASISTENCIA 278 279	M
+T12	FECHAS 299 309	05/04/2009
+T13	PROFESION 321 333	Oftalmologia
+T14	NOMBRE_PERSONAL_SANITARIO 343 353	María Inés
+T15	NOMBRE_PERSONAL_SANITARIO 354 366	Pérez Flores
+T16	ID_TITULACION_PERSONAL_SANITARIO 374 385	36 36 26640
+T17	OTROS_SUJETO_ASISTENCIA 404 510	Mujer de 24 años con antecedentes de endotropía congénita y cirugía de rectos medios a los 3 años de edad.
+T18	OTROS_SUJETO_ASISTENCIA 545 570	endotropía residual y DVD
+T19	PROFESION 464 471	cirugía
+T20	PROFESION 597 687	técnica de resección de rectos laterales y retoinserción en asa de ambos rectos superiores
+T21	OTROS_SUJETO_ASISTENCIA 735 801	lesión conjuntival de aspecto quístico y con signos de inflamación
+T22	OTROS_SUJETO_ASISTENCIA 886 907	aspecto mucopurulento
+T23	OTROS_SUJETO_ASISTENCIA 937 959	absceso subconjuntival
+T24	PROFESION 973 984	tratamiento
+T25	OTRO_NUMERO_IDENTIF 989 1003	ciprofloxacino
+T26	OTRO_NUMERO_IDENTIF 1006 1026	dexametasona tópicos
+T27	OTRO_NUMERO_IDENTIF 1029 1053	ciprofloxacino sistémico
+T28	OTROS_SUJETO_ASISTENCIA 1119 1141	crecimiento progresivo
+T29	PROFESION 1154 1195	exéresis quirúrgica completa de la lesión
+T30	OTROS_SUJETO_ASISTENCIA 1310 1333	lesión quística benigna
+T31	OTROS_SUJETO_ASISTENCIA 1374 1588	formación quística de pared fibrosa que incluye vasos y algún agregado linfoide, parcialmente tapizada en su superficie interna por un epitelio plano estratificado, no apreciándose atipias ni mitosis significativas
+T32	NOMBRE_PERSONAL_SANITARIO 1650 1660	María Inés
+T33	NOMBRE_PERSONAL_SANITARIO 1661 1673	Pérez Flores
+T34	PROFESION 1674 1698	Servicio de Oftalmología
+T35	HOSPITAL 1700 1715	Hospital POVISA
+T36	CALLE 1716 1731	C/. Salamanca,5
+T37	TERRITORIO 1732 1742	36211 Vigo
+T38	TERRITORIO 1744 1754	Pontevedra
+T39	PAIS 1756 1762	España
+T40	CORREO_ELECTRONICO 1771 1790	mari-nes@eremas.net

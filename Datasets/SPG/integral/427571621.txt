@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Natalia Lorenzo Ramírez
+DNI: 58799733A
+Fecha de nacimiento: 24/01/1934
+Género: F
+Domicilio: Calle de Miguel Ángel 57, 4X
+Ciudad: MelillaHuesca, Mallorca, Islas Baleares
+Código postal: 07468
+Email: lorenzo.ramirez@yahoo.com
+Teléfono fijo: +34 971 09 16 75
+Teléfono móvil: +34 671 50 15 16
+NHC: 3072661
+NASS: 165833320920
+Condición de riesgo: Carpintero
+
+Datos asistenciales.
+Médico: Dra. María Concepción Roca Román. NC 413167685. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/04/1956
+Episodio: 61519249
+Centro de salud: Centro de Salud Tetuán
+
+Informe clínico del paciente:
+Paciente vegetariano de 22 años de edad, acompañado de su abuela. El servidor para envío de información desde cual el usuario se comunica es smtp://example-radiology.edu. 

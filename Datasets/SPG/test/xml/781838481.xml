@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Matilde Espinosa Blanco
+DNI: 11610141V
+Fecha de nacimiento: 08/11/1948
+Género: Mujer
+Domicilio: Calle de la Virgen de los Peligros 96
+Ciudad: Ciudad Real, León, Castilla y León
+Código postal: 24688
+Email: espinosa@yahoo.com
+Teléfono fijo: +34 987 22 37 93
+Teléfono móvil: +34 687 39 22 68
+NHC: 5180999
+NASS: 408178651150
+
+Datos asistenciales.
+Médico: Dr. Juan Ramón Mesa Trujillo. NC 068822310. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/10/1986
+Centro de salud: Centro de Salud Sevilla Este
+Matrícula del coche: 0246RAD
+Modelo: Chrysler Pacifica
+VIN: VSFCYNBBVYJ465734
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 37 años de edad, acompañado de su vecino. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Matilde" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="51" text="Espinosa Blanco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="11610141V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="08/11/1948" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="112" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="161" text="Calle de la Virgen de los Peligros 96" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="170" end="181" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="183" end="187" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="189" end="204" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="220" end="225" text="24688" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="233" end="251" text="espinosa@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="267" end="283" text="+34 987 22 37 93" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="300" end="316" text="+34 687 39 22 68" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="322" end="329" text="5180999" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="336" end="348" text="408178651150" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="383" end="407" text="Juan Ramón Mesa Trujillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="412" end="421" text="068822310" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="423" end="460" text="Investigador Clínico en Epidemiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="462" end="546" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="548" end="577" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="579" end="584" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="586" end="592" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="594" end="600" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="620" end="630" text="28/10/1986" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="648" end="676" text="Centro de Salud Sevilla Este" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T26" start="698" end="705" text="0246RAD" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="737" end="754" text="VSFCYNBBVYJ465734" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="798" end="824" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="828" end="835" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="862" end="868" text="vecino" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Daniela</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gomez Bonilla</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3295630</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">02 76359063 33</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Virgen del Rocio, 19, 2, D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Sevilla</TAG>.
+    CP: <TAG TYPE="TERRITORIO">41032</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/03/1998</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">18/06/2018</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Daniel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Torres Lagares</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">41 41 58230</TAG>.
+    Informe clínico del paciente: paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> de edad que acude a la Facultad de Odontología de Sevilla derivada por su ortondoncista. Ante la inadecuada posición del canino inferior izquierdo (incluido en posición horizontal), el canino temporal fue utilizado por el ortodoncista durante el tratamiento ortodóncico como permanente, no considerando apropiado el rescate del diente definitivo. Informó a la paciente de la existencia de la inclusión dentaria y de la necesidad de la extracción o al menos la vigilancia de la misma.
+    En la exploración radiológica (ortopantomografía) comprobamos la inclusión del canino inferior izquierdo en posición horizontal bajo los ápices de los premolares y caninos inferiores contralaterales (patrón de transmigración 4 de Mupparapu (8)). Ante la evidencia de la transmigración del canino, indicamos la extracción del mismo. Si siguiéramos controlando el caso, al acercarse el diente incluido al agujero mentoniano, se aumentaría innecesariamente los riesgos de la intervención, a la vez que se produciría casi con toda seguridad clínica derivada de la irritación del nervio dentario inferior por parte del diente incluido (9, 10).
+    Se realizó la extracción a través de una incisión de Neuman parcial, con descarga a nivel del incisivo lateral izquierdo. No se realizó descarga en el cuarto cuadrante por la cercanía del agujero mentoniano, identificando y protegiendo al nervio mentoniano derecho durante la intervención. El diente se extrajo mediante osteotomía coronal y doble odontosección, eliminando también el saco pericoronario.
+    Finalmente se suturó la herida y se prescribió tratamiento analgésico, antiinflamatorio (Ibuprofeno 600 mgr, 1 comp. / 8 horas durante una semana) y antibiótico (Amoxicilina 875 mgr / Ácido clavulánico 125 mgr, 1 comp. / 8 horas durante una semana) durante el postoperatorio, que transcurrió sin incidencias. Los puntos se retiraron a los diez días. La evolución fue favorable sin detectarse complicación alguna.
+    Remitido por:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Daniel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Torres Lagares</TAG> <TAG TYPE="CALLE">C/ Sta Mª Valverde 2 3ºC</TAG> <TAG TYPE="TERRITORIO">41008</TAG> <TAG TYPE="TERRITORIO">Sevilla</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">danieltl@us.es</TAG>
+  </TEXT>
+</MEDDOCAN>

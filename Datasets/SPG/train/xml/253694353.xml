@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Abel Sáez Iglesias
+DNI: 81791696Q
+Fecha de nacimiento: 08/02/1939
+Género: Varón
+Domicilio: Calle de Goya 19, 6M
+Ciudad: Torrejón de Ardoz, Vizcaya, Pais Vasco
+Código postal: 48487
+Email: abel.saez.iglesias@hotmail.com
+Teléfono fijo: +34 946 91 58 14
+Teléfono móvil: +34 746 20 82 07
+NHC: 0556381
+NASS: 084651694099
+
+Datos asistenciales.
+Médico: Dra. Teresa Roldan Cano. NC 080226613. Neuropsicóloga Clínica Investigadora. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/09/2021
+Centro de salud: Centro de Salud Ciudad Lineal
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 82 años de edad. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es DU706COH197. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Abel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="46" text="Sáez Iglesias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="81791696Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="08/02/1939" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="107" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="139" text="Calle de Goya 19, 6M" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="165" text="Torrejón de Ardoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="174" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="186" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="48487" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="245" text="abel.saez.iglesias@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="261" end="277" text="+34 946 91 58 14" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="294" end="310" text="+34 746 20 82 07" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="316" end="323" text="0556381" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="330" end="342" text="084651694099" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="594" end="604" text="20/09/2021" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="622" end="651" text="Centro de Salud Ciudad Lineal" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T18" start="692" end="713" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="717" end="724" text="82 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T20" start="815" end="826" text="DU706COH197" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Inmaculada Alonso Conde
+DNI: 59788998S
+Fecha de nacimiento: 06/01/1978
+Género: Femenino
+Domicilio: Calle de la Princesa 80
+Ciudad: Alcázar de San Juan, Álava, Pais Vasco
+Código postal: 01172
+Email: alonso_conde376@ual.es
+Teléfono fijo: +34 945 44 48 98
+Teléfono móvil: +34 645 71 82 27
+NHC: 7923683
+NASS: 568814637336
+Condición de riesgo: Operador de Maquinaria Pesada
+
+Datos asistenciales.
+Médico: Dr. Ramón Vila Bernal. NC 147038624. Neurólogo Investigador en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 26/11/2017
+Centro de salud: Centro de Salud Alhaurín de la Torre
+Matrícula del coche: 0804VOI
+Modelo: Chrysler Pacifica
+VIN: VSFR7UE3R1P549617
+
+Informe clínico del paciente:
+Paciente fumador de 39 años de edad. Se realizó un expediente con URL http://example-clinica.com//63711086Z. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Inmaculada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="51" text="Alonso Conde" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="59788998S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="06/01/1978" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="115" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="127" end="150" text="Calle de la Princesa 80" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="178" text="Alcázar de San Juan" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="180" end="185" text="Álava" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="187" end="197" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="01172" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="248" text="alonso_conde376@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="264" end="280" text="+34 945 44 48 98" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="297" end="313" text="+34 645 71 82 27" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="319" end="326" text="7923683" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="333" end="345" text="568814637336" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="367" end="396" text="Operador de Maquinaria Pesada" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="431" end="448" text="Ramón Vila Bernal" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="453" end="462" text="147038624" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="464" end="511" text="Neurólogo Investigador en Trastornos Cognitivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="513" end="585" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="587" end="610" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="612" end="617" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="619" end="625" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="627" end="633" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="653" end="663" text="26/11/2017" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="681" end="717" text="Centro de Salud Alhaurín de la Torre" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="739" end="746" text="0804VOI" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="778" end="795" text="VSFR7UE3R1P549617" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="836" end="843" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="847" end="854" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="897" end="919" text="http://example-clinica" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

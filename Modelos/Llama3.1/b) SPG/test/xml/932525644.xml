@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Matilde</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Varela Castro</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">54136075D</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/11/1950</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Montera 16, 6S</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Torrelodones</TAG>, <TAG TYPE="TERRITORIO">Sevilla</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">41900</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">matildevarela@isciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 16 04 71</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 654 64 23 09</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4979027</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">087862969895</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ama de casa</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Belén Rivera Calvo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">621739875</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/05/1971</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">43758432</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Delicias</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3366IBM</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Chevrolet Silverado</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSY7BOG914S171571</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">amiga</TAG>. Se registró una <TAG TYPE="ID_CONTACTO_ASISTENCIAL">sesión de huella dactilar</TAG>, el <TAG TYPE="ID_CONTACTO_ASISTENCIAL">código obtenido para revisarla</TAG> es <TAG TYPE="ID_CONTACTO_ASISTENCIAL">LV113XNZ394</TAG>.
+  </TEXT>
+</MEDDOCAN>

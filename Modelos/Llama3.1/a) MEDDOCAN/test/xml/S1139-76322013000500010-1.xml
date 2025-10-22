@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iker</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Masso Cuadrado</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2689756</TAG>.
+    Domicilio: <TAG TYPE="CALLE">AV. Monforte de Lemos, 27, 3 izq.</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28029</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/05/2001</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">06/09/2014</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Estefanía</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ballesteros Moya</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 65802</TAG>.
+    Informe clínico del paciente: Niño de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> sin antecedentes personales de interés. Como antecedente familiar relevante destacaba un hermano fallecido por tumor de Wilms. Consultó por síntomas miccionales (disuria, polaquiuria) sin otra sintomatología. La tira reactiva de orina fue negativa. Se inició tratamiento con trimetoprim-sulfametoxazol hasta obtener el resultado del urocultivo, que fue informado como estéril. Ante la ausencia de mejoría tras una semana, acudió al Servicio de Urgencias. En la anamnesis asociaba síntomas miccionales y anuria de 18 horas de evolución, junto con dolor abdominal localizado en el hipogastrio y la fosa ilíaca derecha. No refería antecedentes de cirugías, ni fiebre desde el inicio del cuadro. En la exploración, presentaba buen estado general sin signos de deshidratación, y constantes dentro de los valores normales. La auscultación cardiopulmonar fue normal. En cuanto a la exploración abdominal, la palpación resultaba dolorosa a nivel del hipogastrio y la fosa ilíaca derecha, con signos locales de irritación peritoneal. No presentaba globo vesical. El resto de la exploración no mostraba hallazgos relevantes.
+    Las pruebas analíticas no mostraban hallazgos de interés: leucocitos <TAG TYPE="NUMERO_TELEFONO">5400</TAG> μl, neutrófilos <TAG TYPE="NUMERO_TELEFONO">2370</TAG> μl (44%), hemoglobina <TAG TYPE="NUMERO_TELEFONO">13,9</TAG> mg/dl, proteína C reactiva <TAG TYPE="NUMERO_TELEFONO">2,9</TAG> mg/l. Se realizó una radiografía abdominal, que no mostró alteraciones, y una ecografía abdominal sin hallazgos en la vía urinaria, con vejiga prácticamente vacía.
+    Sin embargo, se visualizó un apéndice engrosado de <TAG TYPE="NUMERO_TELEFONO">8</TAG> mm con líquido libre periapendicular y engrosamiento de la grasa adyacente ; hallazgos compatibles con apendicitis aguda.
+    Se realizó infusión de fluidos intravenosos en régimen de expansión, obteniendo una diuresis adecuada en poco tiempo. Dado el diagnóstico de apendicitis aguda, fue intervenido bajo anestesia general identificándose apendicitis flemonosa y realizándose apendicectomía. La evolución posterior fue favorable, sin que se produjeran complicaciones postoperatorias.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Estefanía</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ballesteros Moya</TAG> <TAG TYPE="CORREO_ELECTRONICO">estefania0687@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

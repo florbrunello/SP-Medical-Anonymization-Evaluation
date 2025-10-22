@@ -1,0 +1,43 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 37	María Mercedes Ortega Calvo
+T2	IDENTIF_VEHICULOS_NRSERIE_PLACAS 71 85	23050129N
+T3	FECHAS 97 107	27/07/1960
+T4	SEXO_SUJETO_ASISTENCIA 122 123	F
+T5	CALLE 137 157	Calle del Espíritu Santo 62, 6S
+T6	TERRITORIO 165 173	Burgos, Álava, Pais Vasco
+T7	TERRITORIO 179 185	01378
+T8	CORREO_ELECTRONICO 212 234	mariamercedes@protonmail.com
+T9	NUMERO_TELEFONO 249 262	+34 945 69 00 19
+T10	NUMERO_TELEFONO 275 288	+34 645 02 69 58
+T11	ID_SUJETO_ASISTENCIA 303 310	8371858
+T12	ID_SUJETO_ASISTENCIA 315 322	23050129N
+T13	CONDICION_RIESGO 357 371	Paciente de alto riesgo
+T14	NOMBRE_PERSONAL_SANITARIO 383 415	Dr. Andrés Casas Trujillo
+T15	ID_CONTACTO_ASISTENCIAL 435 448	645628558
+T16	PROFESION 453 463	Residente de 4° año en Cardiología
+T17	INSTITUCION 475 494	Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)
+T18	CALLE 507 527	Avenida Monforte de Lemos 3-5
+T19	TERRITORIO 541 547	28029
+T20	PAIS 553 559	España
+T21	FECHAS 565 575	22/05/2002
+T22	ID_CONTACTO_ASISTENCIAL 589 596	03919708
+T23	HOSPITAL 611 640	Centro de Salud Alcalá de Henares
+T24	FECHAS 645 655	22/05/2002
+T25	ID_CONTACTO_ASISTENCIAL 671 678	03919708
+T26	HOSPITAL 693 722	Centro de Salud Alcalú de Henares
+T27	INFORME_CLINICO 737 766	Paciente de ascendencia sudamericana de 41 años de edad, con antecedentes de hipertensión arterial y sobrepeso.
+T28	EDAD_SUJETO_ASISTENCIA 821 828	41 años
+T29	CONDICION_MEDICA 841 853	Hipertensión arterial y sobrepeso
+T30	CONDICION_MEDICA 863 875	Sobrepeso
+T31	SYMPTOMA 889 900	Dolor torácico irradiado al hombro izquierdo
+T32	FECHAS 913 923	2 horas
+T33	FECHAS 937 947	160/100 mmHg
+T34	FECHAS 961 971	120 latidos por minuto
+T35	CONDICION_MEDICA 991 1001	Conscientemente, orientado, pero con un estado de ansiedad
+T36	EXAMEN_MEDICO 1015 1036	Alteración en la onda QRS, con una desviación de 1 mm en el segmento ST
+T37	ANALISIS_SANGRE 1059 1070	CK y troponina
+T38	CONDICION_MEDICA 1093 1105	Diabetes mellitus tipo 2, controlada con medicación oral
+T39	CONDICION_MEDICA 1117 1129	Hipertensión arterial
+T40	CONDICION_MEDICA 1151 1163	Sobrepeso
+T41	CONDICION_MEDICA 1175 1187	IMC de 30
+T42	EVOLUCION 1211 1222	Condición estable, con tensión arterial controlada y sin signos de insuficiencia cardíaca
+T43	REMISION 1245 1261	Se le remite al paciente al servicio de cardiología para una evaluación más detallada y un plan de tratamiento personalizado.

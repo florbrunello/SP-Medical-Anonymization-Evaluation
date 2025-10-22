@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Bruno Andres Mendoza
+DNI: 14118351P
+Fecha de nacimiento: 22/09/1971
+Género: H
+Domicilio: Calle de Santa Engracia 70, 8S
+Ciudad: Huelva, Ibiza, Islas Baleares
+Código postal: 07495
+Email: andres1418@ciberisciii.es
+Teléfono fijo: +34 971 45 09 37
+Teléfono móvil: +34 671 76 00 17
+NHC: 9408299
+NASS: 134165419459
+Condición de riesgo: Operador de Equipos Mineros
+
+Datos asistenciales.
+Médico: Dr. Tomás Ferrer Calvo. NC 861175717. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/03/2021
+Centro de salud: Centro de Salud Centro
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 49 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Bruno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Andres Mendoza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="14118351P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="22/09/1971" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="147" text="Calle de Santa Engracia 70, 8S" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="162" text="Huelva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="169" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="185" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="07495" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="239" text="andres1418@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 971 45 09 37" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 671 76 00 17" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="9408299" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="324" end="336" text="134165419459" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="358" end="385" text="Operador de Equipos Mineros" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="420" end="438" text="Tomás Ferrer Calvo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="443" end="452" text="861175717" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="454" end="493" text="Investigador Clínico en Síndromes Raros" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="495" end="570" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="572" end="601" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="603" end="608" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="610" end="616" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="618" end="624" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="644" end="654" text="13/03/2021" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="672" end="694" text="Centro de Salud Centro" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="738" end="767" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="771" end="778" text="49 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="805" end="810" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

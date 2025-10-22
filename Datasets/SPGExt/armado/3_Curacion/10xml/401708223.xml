@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Eric Luque Aguilera</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">93379873B</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/01/1999</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Mesón de Paredes 72, 2Q</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Getafe</TAG>, <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">14261</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">eric_luque@ciberehd.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 957 92 12 68</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 757 50 29 37</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3618894</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">47622754X</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Soldado</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Adriana</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gómez Roca</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">859054603</TAG>. Residente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5°</TAG> año en <TAG TYPE="PROFESION">Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/04/2003</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">31543612</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Nuestra Señora de Candelaria</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6046KDR</TAG>.
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Jeep Wrangler</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSKPZ0FM9BN792538</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia nórdica o escandinava</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> de edad, acompañado de su tío. Presenta una condición clínica caracterizada por una serie de síntomas y signos que requieren una evaluación detallada. La exploración física revela: temperatura corporal normal, pulso regular, frecuencia cardíaca dentro de los límites normales, y presión arterial dentro de los parámetros esperados. La exploración neurológica muestra una función cognitiva normal, sin signos de alteración en la conciencia, la orientación, ni en la función motora.
+    Se han realizado una serie de pruebas diagnósticas, incluyendo análisis de sangre, que muestran resultados dentro de los límites normales. La ecografía abdominal no muestra ninguna patología significativa. La radiografía de tórax no muestra signos de enfermedad pulmonar. La resonancia magnética cerebral no muestra signos de alteración en la estructura cerebral.
+    El tratamiento recomendado es una observación cuidadosa y una evaluación continua de la condición clínica del paciente. Se recomienda una serie de pruebas adicionales para determinar la causa subyacente de los síntomas presentados por el paciente. El paciente y su tío han sido informados de los resultados de las pruebas y del tratamiento recomendado.
+  </TEXT>
+</MEDDOCAN>

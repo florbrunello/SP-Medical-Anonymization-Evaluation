@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Omar León Ríos
+DNI: 77019971D
+Fecha de nacimiento: 10/02/1926
+Género: H
+Domicilio: Calle de Bravo Murillo 91
+Ciudad: Alcorcón, Cáceres, Extremadura
+Código postal: 10382
+Email: omar_leonrios@ciberer.es
+Teléfono fijo: +34 927 93 22 34
+Teléfono móvil: +34 627 97 00 61
+NHC: 6522226
+NASS: 436095715938
+Condición de riesgo: Policía
+
+Datos asistenciales.
+Médico: Dra. Margarita Cortés Casado. NC 136161380. Endocrinóloga Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 01/11/1975
+Episodio: 85323435
+Centro de salud: Centro de Salud Móstoles
+Matrícula del coche: 0508VWU
+Modelo: BMW 3 Series
+VIN: VSKMWFT25MU991515
+
+Informe clínico del paciente:
+Paciente no fumador de 49 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Omar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="42" text="León Ríos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="48" end="57" text="77019971D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="79" end="89" text="10/02/1926" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="98" end="99" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="111" end="136" text="Calle de Bravo Murillo 91" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="153" text="Alcorcón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="162" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="175" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="10382" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="228" text="omar_leonrios@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="244" end="260" text="+34 927 93 22 34" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="277" end="293" text="+34 627 97 00 61" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="299" end="306" text="6522226" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="313" end="325" text="436095715938" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="347" end="354" text="Policía" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="609" end="619" text="01/11/1975" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="630" end="638" text="85323435" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="656" end="680" text="Centro de Salud Móstoles" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="702" end="709" text="0508VWU" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="736" end="753" text="VSKMWFT25MU991515" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="794" end="804" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="808" end="815" text="49 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="842" end="849" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

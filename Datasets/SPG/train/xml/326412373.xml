@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Guzman Montero
+DNI: 99765502N
+Fecha de nacimiento: 31/05/1938
+Género: H
+Domicilio: Calle de Covarrubias 32
+Ciudad: Dos Hermanas, Huesca, Aragón
+Código postal: 22568
+Email: juanguzman.montero@ciberer.es
+Teléfono fijo: +34 974 80 72 19
+Teléfono móvil: +34 774 70 28 42
+NHC: 8397643
+NASS: 832663018080
+
+Datos asistenciales.
+Médico: Dr. Josep Franco Cortés. NC 621076388. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 14/08/1950
+Hospital: Hospital Universitario de Cabueñes
+
+Informe clínico del paciente:
+Paciente exfumador de 12 años de edad, acompañado de su hermano. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.141.7, con dirección MAC 24:E3:6D:1C:EF:DE. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Juan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="47" text="Guzman Montero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="99765502N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="31/05/1938" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="139" text="Calle de Covarrubias 32" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="160" text="Dos Hermanas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="168" text="Huesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="176" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="192" end="197" text="22568" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="205" end="234" text="juanguzman.montero@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 974 80 72 19" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 774 70 28 42" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="8397643" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="832663018080" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="366" end="385" text="Josep Franco Cortés" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="390" end="399" text="621076388" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="401" end="444" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="446" end="504" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="506" end="530" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="532" end="537" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="539" end="549" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="551" end="557" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="577" end="587" text="14/08/1950" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="598" end="632" text="Hospital Universitario de Cabueñes" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="673" end="682" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="686" end="693" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="720" end="727" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="834" end="851" text="24:E3:6D:1C:EF:DE" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

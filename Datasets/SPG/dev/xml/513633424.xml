@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Manuel Ferrer Rubio
+DNI: 55174363P
+Fecha de nacimiento: 23/12/1957
+Género: H
+Domicilio: Calle de Jesús y María 60, 4G
+Ciudad: Las Palmas de Gran Canaria, Lugo, Galicia
+Código postal: 27497
+Email: ferrerrubio@hotmail.com
+Teléfono fijo: +34 982 28 19 90
+Teléfono móvil: +34 782 05 85 14
+NHC: 8286431
+Condición de riesgo: Carpintero
+
+Datos asistenciales.
+Médico: Dr. Lorenzo Caballero Torres. NC 211213734. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 25/01/2010
+Episodio: 11847484
+Centro de salud: Centro de Salud San Sebastián de los Reyes
+
+Informe clínico del paciente:
+Paciente de ascendencia gitana de 52 años de edad, acompañado de su hermano. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Ferrer Rubio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="55174363P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="23/12/1957" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="145" text="Calle de Jesús y María 60, 4G" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="180" text="Las Palmas de Gran Canaria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="182" end="186" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="188" end="195" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="211" end="216" text="27497" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="224" end="247" text="ferrerrubio@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="263" end="279" text="+34 982 28 19 90" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="296" end="312" text="+34 782 05 85 14" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="318" end="325" text="8286431" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="347" end="357" text="Carpintero" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="392" end="416" text="Lorenzo Caballero Torres" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="421" end="430" text="211213734" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="432" end="470" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="472" end="539" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="541" end="568" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="570" end="575" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="577" end="584" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="586" end="592" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="612" end="622" text="25/01/2010" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="633" end="641" text="11847484" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="659" end="701" text="Centro de Salud San Sebastián de los Reyes" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="745" end="763" text="ascendencia gitana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="767" end="774" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="801" end="808" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

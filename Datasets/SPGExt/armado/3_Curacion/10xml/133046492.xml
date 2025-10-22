@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Olga Casas Marti</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">48899703R</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/03/1932</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de los Jardines 37, 2O</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Melilla</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">34840</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">casas@protonmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 36 21 85</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 779 14 92 15</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8723100</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">886386115438</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador Agrícola</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Bruno Fernández Pascual</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">695209757</TAG>. <TAG TYPE="PROFESION">Gastroenterólogo</TAG> <TAG TYPE="PROFESION">Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/03/1987</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Oeste</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">54 años</TAG> de edad, acompañado de su hermana, refiere dolores abdominales crónicos de localización variable en el último mes y pérdida de apetito en las últimas semanas. Antes de comenzar el cuadro estuvo en un viaje de negocios a Asia, donde ingirió alimentos y bebidas locales sin pasteurizar. Entre los comensales aparecieron varios casos de gastroenteritis.
+    La exploración física revela: Tª <TAG TYPE="FECHAS">37,2 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">14,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">10.500/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">90%</TAG>; TTPA <TAG TYPE="FECHAS">20,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">100 mg/dl</TAG>; urea <TAG TYPE="FECHAS">25 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,1 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,8 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">20 U/l</TAG>; GPT <TAG TYPE="FECHAS">30 U/l</TAG>; GGT <TAG TYPE="FECHAS">40 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">120 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Durante el ingreso se solicitan pruebas diagnósticas (Rx abdominal, Ecografía abdominal, TAC abdominal) que no evidencian patología significativa. Con el diagnóstico de gastroenteritis aguda se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y hidratación) y tratamiento antibiótico específico: <TAG TYPE="MEDICAMENTO">Ciprofloxacina</TAG> <TAG TYPE="MEDICAMENTO">500 mg</TAG> vía oral cada 12 horas (durante 5 días). El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde completó la pauta de tratamiento antibiótico.
+  </TEXT>
+</MEDDOCAN>

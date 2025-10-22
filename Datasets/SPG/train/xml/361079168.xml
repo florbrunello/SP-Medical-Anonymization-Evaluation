@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Arturo Mora Gómez
+DNI: 43685184L
+Fecha de nacimiento: 31/03/1953
+Género: M
+Domicilio: Calle de las Yeserías 28
+Ciudad: Torrelodones, La Coruña, Galicia
+Código postal: 15278
+Email: arturo.gomez@aol.com
+Teléfono fijo: +34 981 41 34 64
+Teléfono móvil: +34 681 80 67 44
+NHC: 0916143
+NASS: 968770995254
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dra. María Josefa Vila Gil. NC 218888327. Gastroenteróloga Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/06/1995
+Episodio: 91366503
+Centro de salud: Centro de Salud Móstoles
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena americana de 42 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Arturo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="45" text="Mora Gómez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="43685184L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="31/03/1953" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="138" text="Calle de las Yeserías 28" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="159" text="Torrelodones" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="170" text="La Coruña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="179" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="15278" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="228" text="arturo.gomez@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="244" end="260" text="+34 981 41 34 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="277" end="293" text="+34 681 80 67 44" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="299" end="306" text="0916143" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="313" end="325" text="968770995254" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="347" end="354" text="Bombero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="651" end="661" text="17/06/1995" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="672" end="680" text="91366503" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="698" end="722" text="Centro de Salud Móstoles" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="766" end="796" text="ascendencia indígena americana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="800" end="807" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="834" end="840" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

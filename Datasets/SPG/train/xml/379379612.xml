@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Salvador Gutiérrez Maldonado
+DNI: 86651331G
+Fecha de nacimiento: 28/02/2025
+Género: Hombre
+Domicilio: Calle de Amor de Dios 33, 8D
+Ciudad: Huelva, Huesca, Aragón
+Código postal: 22135
+Email: gutierrez_maldonado@hotmail.com
+Teléfono fijo: +34 974 71 58 11
+Teléfono móvil: +34 774 89 69 23
+NHC: 9923029
+NASS: 745307021931
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. Antonio Jesús Castro Núñez. NC 175058884. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 15788287
+Hospital: Hospital Universitario Fundació Jiménez Díaz
+Matrícula del coche: 4408OAK
+Modelo: Toyota Corolla
+VIN: VSMXXV5QT1O052163
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 0 meses de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Salvador" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="56" text="Gutiérrez Maldonado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="62" end="71" text="86651331G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="93" end="103" text="28/02/2025" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="112" end="118" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="130" end="158" text="Calle de Amor de Dios 33, 8D" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="167" end="173" text="Huelva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="175" end="181" text="Huesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="183" end="189" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="22135" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="249" text="gutierrez_maldonado@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="265" end="281" text="+34 974 71 58 11" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="298" end="314" text="+34 774 89 69 23" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="320" end="327" text="9923029" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="334" end="346" text="745307021931" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="368" end="393" text="Trabajador de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="428" end="454" text="Antonio Jesús Castro Núñez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="459" end="468" text="175058884" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="470" end="513" text="Cardiólogo de Unidad de Cuidados Intensivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="515" end="587" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="589" end="612" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="614" end="619" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="621" end="627" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="629" end="635" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="655" end="665" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="676" end="684" text="15788287" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="695" end="739" text="Hospital Universitario Fundació Jiménez Díaz" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="761" end="768" text="4408OAK" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="797" end="814" text="VSMXXV5QT1O052163" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="858" end="879" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="883" end="890" text="0 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="917" end="924" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

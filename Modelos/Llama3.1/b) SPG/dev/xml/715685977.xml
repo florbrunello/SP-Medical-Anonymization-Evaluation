@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sergio</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Robles Parra</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">98400034P</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/06/1974</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Miguel Ángel 95</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ermua</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">18340</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">robles_parra@aol.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 90 41 00</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 658 98 22 89</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0749116</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">331141463537</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Almacén</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Agustín Mesa Calvo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">340104133</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardiólogo de Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/05/1975</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">41152028</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Norte</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 meses</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP (en red interna)</TAG> <TAG TYPE="NUMERO_IP">192.168.221.125</TAG>, con <TAG TYPE="DIREC_PROT_INTERNET">dirección MAC</TAG> <TAG TYPE="IDENTIF_BIOMETRICOS">51:95:8D:E1:13:D8</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de firma biométrica</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código obtenido</TAG> para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">WY763BRK049</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Montserrat Bueno Del Rio
+DNI: 43843858Q
+Fecha de nacimiento: 21/02/2017
+Género: Mujer
+Domicilio: Calle de Eduardo Dato 83
+Ciudad: Fuenlabrada, Palencia, Castilla y León
+Código postal: 34024
+Email: montserrat_bueno@ciberisciii.es
+Teléfono fijo: +34 979 53 67 27
+FAX: +34 979 12 20 51
+NHC: 5959209
+NASS: 606030447456
+Condición de riesgo: Soldador
+
+Datos asistenciales.
+Médico: Dr. Emilio Luque Soler. NC 894626670. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/12/2021
+Episodio: 39442384
+Hospital: Hospital Universitario 12 de Octubre
+
+Informe clínico del paciente:
+Paciente exfumador de 4 años de edad, acompañado de su hermana. Se registró una sesión de huella dactilar, el código obtenido para revisarla es WY341IXC574. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="44" text="Montserrat Bueno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="45" end="52" text="Del Rio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="43843858Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="21/02/2017" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="113" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="149" text="Calle de Eduardo Dato 83" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="169" text="Fuenlabrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="179" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="181" end="196" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="212" end="217" text="34024" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="225" end="256" text="montserrat_bueno@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="272" end="288" text="+34 979 53 67 27" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="294" end="310" text="+34 979 12 20 51" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="316" end="323" text="5959209" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="330" end="342" text="606030447456" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="364" end="372" text="Soldador" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="407" end="425" text="Emilio Luque Soler" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="430" end="439" text="894626670" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="441" end="475" text="Residente de 3° año en Psiquiatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="477" end="547" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="549" end="578" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="580" end="585" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="587" end="593" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="595" end="601" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="621" end="631" text="15/12/2021" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="642" end="650" text="39442384" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="661" end="697" text="Hospital Universitario 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="738" end="747" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="751" end="757" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="784" end="791" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="873" end="884" text="WY341IXC574" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

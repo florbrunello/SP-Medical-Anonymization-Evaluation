@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Rosa Lozano Miranda
+DNI: 20350984D
+Fecha de nacimiento: 16/07/1986
+Género: F
+Domicilio: Calle de Amor de Dios 97, 10Q
+Ciudad: Ciudad autónoma de Melilla, Melilla, 
+Código postal: 51044
+Email: miranda@hotmail.com
+Teléfono fijo: +34 951 03 28 83
+Teléfono móvil: +34 751 42 88 96
+NHC: 1250188
+NASS: 190324521773
+
+Datos asistenciales.
+Médico: Dra. Vanessa Nieto Conde. NC 901605918. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/01/2000
+Episodio: 51306672
+Hospital: Hospital Universitario Virgen Macarena
+Matrícula del coche: 4609EQK
+Modelo: Toyota Corolla
+VIN: VSKOO3S1INU647944
+
+Informe clínico del paciente:
+Paciente musulman de 13 años de edad, acompañado de su hermano. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es BL762DNM310. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es SX439NGY377. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="María Rosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="53" text="Lozano Miranda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="20350984D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="16/07/1986" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="151" text="Calle de Amor de Dios 97, 10Q" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="186" text="Ciudad autónoma de Melilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="188" end="196" text="Melilla," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="213" end="218" text="51044" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="226" end="245" text="miranda@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="261" end="277" text="+34 951 03 28 83" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="294" end="310" text="+34 751 42 88 96" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T13" start="316" end="323" text="1250188" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="330" end="342" text="190324521773" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T15" start="630" end="640" text="30/01/2000" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="651" end="659" text="51306672" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="670" end="708" text="Hospital Universitario Virgen Macarena" TYPE="HOSPITAL" comment=""/>
+        <ID id="T18" start="730" end="737" text="4609EQK" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="766" end="783" text="VSKOO3S1INU647944" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="824" end="832" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="836" end="843" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="870" end="877" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="961" end="972" text="BL762DNM310" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T24" start="1060" end="1071" text="SX439NGY377" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

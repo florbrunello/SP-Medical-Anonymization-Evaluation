@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Elvira</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lopez Ramos</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2547916</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Pedro Gonu, 28, Bajo A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28009</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/01/2016</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 Meses</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">10/06/2016</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alberto</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Palacios Hernández</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 09867</TAG>.
+    Informe clínico del paciente: Lactante, de raza caucasiana, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 meses</TAG>, la primera hija de padres jóvenes (madre de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">28 años</TAG> y padre de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30 años</TAG>) sanos y no consanguíneos, sin historia de patología heredo-familiar, renal ni hipertensión conocida. Gestación correctamente vigilada y sin alteraciones. Parto eutócico a las <TAG TYPE="FECHAS">37 semanas</TAG> sin complicaciones, presentando un test de Apgar de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9/10</TAG>. Antropometría al nacimiento, peso de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2.760 gramos</TAG>, con diámetro céfalo-caudal de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">48,5 cm</TAG> y perímetro cefálico de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">34,7 cm</TAG>. VDRL, AntHBs, VIH negativos, Toxoplasmosis no inmune y rubéola inmune. Detectados apéndices auriculares bilaterales, baja implantación del pabellón auditivo, granulomas cutáneos, micrognatismo con hipoplasia mandibular, coloboma localizado en el ojo izquierdo y tumefacción escrotal sólida aparentemente no dolorosa a la palpación. Calendario de vacunas actualizado.
+    El lactante es transferido de otro hospital a los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">19 días</TAG> de vida con el diagnóstico de urosepsis. Internado inicialmente en la Unidad de Cuidados Intensivos Neonatales para estabilizar el cuadro, mediante medidas de soporte y antibioterapia con ampicilina, gentamicina y cefotaxima.
+    Realiza ecografia reno-pélvica- escrotal que revela uretero-hidronefrosis bilateral y vejiga de paredes espesadas, tumefacción escrotal derecha, con aparente imágenes hipo e hiperecogénicas con septos y aparente destrucción testicular.
+    Una vez que se estabilizan los parámetros y con urocultura negativa, realizamos una cistouretrografía miccional seriada presentando una dilatación de la uretra posterior, vejiga trabeculada y sin presencia de reflujo vésico-ureteral, sospechando cuadro de válvulas de la uretra posterior.
+    Las radiologías óseas de cuerpo entero no detectan alteraciones óseas, ni alteraciones vertebrales.
+    Realizamos fulguración de las válvulas de la uretra posterior y orquidectomía inguinal derecha. El postoperatorio transcurre sin complicaciones. Retiramos la sonda al séptimo día del postoperatorio. Es dado de alta con función renal normal, urocultura negativa y correcta diuresis.
+    Al cuarto mes de vida es internado con el diagnóstico de infección respiratoria en el contexto de bronquiolitis, con uroculturas positivas para flora polimicrobiana es medicado con antibioterapia, y dado de alta con profilaxia antibiótica con trimetroprim-sufametoxazol.
+    Al quinto mes teniendo una orina aséptica, realizamos urografía endovenosa y cintilograma renal con MAG-3 y prueba de furosemida, presentando dilatación ureteral bilateral, bifidez renal derecha, con capacidad vesical normal y con vaciado completo de la vejiga, uretra aparentemente sin alteraciones, la función renal bilateral está conservada, respondiendo a la prueba de furosemida. Llegamos al diagnóstico de dilataciones ureterales bilaterales no obstructivos asociados a bifidez piélica. Decidimos efectuar controles cada 6 meses.
+    En el último control el niño con <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15 meses</TAG> de edad, presenta función renal normal, buena diuresis y sedimentos urinarios sin alteraciones.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alberto</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Palacios Hernández</TAG> <TAG TYPE="TITULO">Residente de 5° año de Urología</TAG>. <TAG TYPE="HOSPITAL">Hospital Universitario La paz</TAG>.
+  </TEXT>
+</MEDDOCAN>

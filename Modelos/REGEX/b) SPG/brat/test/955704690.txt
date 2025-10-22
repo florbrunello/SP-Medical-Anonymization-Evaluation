@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Héctor Reyes Marcos
+DNI: 23635538W
+Fecha de nacimiento: 08/08/1999
+Género: H
+Domicilio: Calle Serrano 69
+Ciudad: Denia, Valladolid, Castilla y León
+Código postal: 47535
+Email: hector-reyes@uhu.es
+Teléfono fijo: +34 983 54 84 61
+Teléfono móvil: +34 783 90 42 74
+NHC: 2910772
+NASS: 909834854638
+Condición de riesgo: Trabajador de la Construcción
+
+Datos asistenciales.
+Médico: Dr. Alfonso Gómez Muñoz. NC 560606668. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/11/2000
+Episodio: 98887972
+Centro de salud: Centro de Salud Benalmádena
+Matrícula del coche: 6945LHV
+Modelo: Chevrolet Silverado
+VIN: VSRRJQ4HX6B923485
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de un año de edad, acompañado de su abuela. 

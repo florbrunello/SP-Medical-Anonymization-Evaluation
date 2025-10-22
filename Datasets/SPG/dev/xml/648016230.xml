@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Amparo Rodríguez Gómez
+DNI: 75819483Y
+Fecha de nacimiento: 26/06/1934
+Género: Mujer
+Domicilio: Calle de las Tres Cruces 83
+Ciudad: Ciudad Real, Orense, Galicia
+Código postal: 32086
+Email: LEwBSUM@aol.com
+Teléfono fijo: +34 988 33 21 72
+Teléfono móvil: +34 688 22 95 42
+NHC: 5108890
+NASS: 311410828087
+
+Datos asistenciales.
+Médico: Dra. Daniela Rubio Carrillo. NC 917833155. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 05/02/1946
+Centro de salud: Centro de Salud Alcalá de Henares
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 11 años de edad, acompañado de su hermano. Se realizó un expediente con URL http://example-healthcare.net//58277333N. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es OY318XUX303. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es EX741IZO590. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Amparo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Rodríguez Gómez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="75819483Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="26/06/1934" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="150" text="Calle de las Tres Cruces 83" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="170" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="178" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="180" end="187" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="32086" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="231" text="LEwBSUM@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 988 33 21 72" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 688 22 95 42" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="5108890" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="316" end="328" text="311410828087" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="581" end="591" text="05/02/1946" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="609" end="642" text="Centro de Salud Alcalá de Henares" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T18" start="686" end="712" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="716" end="723" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="750" end="757" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="792" end="817" text="http://example-healthcare" TYPE="URL_WEB" comment=""/>
+        <ID id="T22" start="916" end="927" text="OY318XUX303" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T23" start="1015" end="1026" text="EX741IZO590" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

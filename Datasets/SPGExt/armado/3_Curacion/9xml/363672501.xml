@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Ignacio Prieto Ferrer</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">64022332S</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/01/2020</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Doctor Piga 97, 3N</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Pamplona</TAG>, <TAG TYPE="TERRITORIO">Soria</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">42195</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">joseignacio-prieto.ferrer@ciberer.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 975 60 35 31</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 675 03 67 68</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3088225</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">817379341342</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Operador de Maquinaria Agrícola</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Catalina</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ruiz Serrano</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 989535253</TAG>. <TAG TYPE="PROFESION">Investigadora Clínica en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/10/2021</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">76151481</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Río Hortega</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año de edad</TAG>, acompañado de su tío, presenta una temperatura corporal de <TAG TYPE="FECHAS">38,5°C</TAG>, frecuencia cardíaca de <TAG TYPE="FECHAS">120 bpm</TAG> y respiración de <TAG TYPE="FECHAS">40 rpm</TAG>. Se encuentra consciente y orientado, pero presenta signos de malestar general. La exploración física revela una zona de erupción cutánea en la región del pañal, con un tamaño de aproximadamente <TAG TYPE="FECHAS">5 cm de diámetro</TAG>.
+    La evolución clínica del paciente ha sido de <TAG TYPE="FECHAS">48 horas</TAG>, con una progresión gradual de los síntomas. El paciente ha presentado fiebre, vómitos y diarrea, con una frecuencia de <TAG TYPE="FECHAS">5 veces al día</TAG>. La exploración física ha revelado signos de deshidratación, con una reducción de la producción de orina y una concentración de la orina.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">12,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">15.000/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">70%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">45 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">80%</TAG>; TTPA <TAG TYPE="FECHAS">22,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">110 mg/dl</TAG>; urea <TAG TYPE="FECHAS">25 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,0 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,8 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">15 U/l</TAG>; GPT <TAG TYPE="FECHAS">30 U/l</TAG>; GGT <TAG TYPE="FECHAS">40 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">140 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    El diagnóstico de la condición médica del paciente es una infección gastrointestinal, probablemente causada por un virus. El tratamiento se ha iniciado con antibióticos y antivirales, y se está realizando una monitorización estrecha del paciente para evaluar la progresión de la enfermedad.
+    La evolución clínica del paciente se seguirá de cerca, y se realizarán ajustes en el tratamiento según sea necesario. Se recomienda una revisión en <TAG TYPE="FECHAS">24 horas</TAG> para evaluar la respuesta al tratamiento y ajustar la dosis de medicamentos según sea necesario.
+  </TEXT>
+</MEDDOCAN>

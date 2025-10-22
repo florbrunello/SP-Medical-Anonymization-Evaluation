@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Santiago Quintana Montero
+DNI: 49364377Y
+Fecha de nacimiento: 06/02/1986
+Género: V
+Domicilio: Calle de San Ildefonso 87, 9V
+Ciudad: Totana, Mallorca, Islas Baleares
+Código postal: 07031
+Email: 4V7Iix@hotmail.com
+Teléfono fijo: +34 971 11 29 05
+Teléfono móvil: +34 771 91 89 38
+NHC: 4018695
+NASS: 763985754183
+
+Datos asistenciales.
+Médico: Dr. Asier Conde Ramos. NC 389097768. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/08/1993
+Episodio: 24485443
+Hospital: Hospital General de Villalba
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 7 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.95.250, con dirección MAC D8:93:AD:49:9B:49. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Santiago" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="53" text="Quintana Montero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="49364377Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="06/02/1986" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="151" text="Calle de San Ildefonso 87, 9V" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="166" text="Totana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="176" text="Mallorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="192" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="208" end="213" text="07031" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="221" end="239" text="4V7Iix@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 971 11 29 05" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 771 91 89 38" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="4018695" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="324" end="336" text="763985754183" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="371" end="388" text="Asier Conde Ramos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="393" end="402" text="389097768" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="404" end="436" text="Residente de 2° año en Pediatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="438" end="513" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="515" end="544" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="546" end="551" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="553" end="559" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="561" end="567" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="587" end="597" text="01/08/1993" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="608" end="616" text="24485443" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="627" end="655" text="Hospital General de Villalba" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="699" end="727" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="731" end="737" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="764" end="769" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="877" end="894" text="D8:93:AD:49:9B:49" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

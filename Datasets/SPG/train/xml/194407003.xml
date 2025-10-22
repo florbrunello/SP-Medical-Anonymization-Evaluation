@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Teresa Serrano Trujillo
+DNI: 14851301V
+Fecha de nacimiento: 29/11/1926
+Género: Femenino
+Domicilio: Calle de Recoletos 31, 5Z
+Ciudad: Novelda, Vizcaya, Pais Vasco
+Código postal: 48869
+Email: mariateresa.serrano@ucm.es
+Teléfono fijo: +34 946 84 40 99
+FAX: +34 946 82 31 43
+NHC: 6271537
+NASS: 387093038353
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dr. Borja Rey Márquez. NC 038523327. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 26/12/2012
+Episodio: 38480890
+Hospital: Hospital Universitario La Paz
+
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 86 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="María Teresa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="57" text="Serrano Trujillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="63" end="72" text="14851301V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="94" end="104" text="29/11/1926" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="113" end="121" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="133" end="158" text="Calle de Recoletos 31, 5Z" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="167" end="174" text="Novelda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="176" end="183" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="185" end="195" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="211" end="216" text="48869" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="224" end="250" text="mariateresa.serrano@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="266" end="282" text="+34 946 84 40 99" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 946 82 31 43" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="310" end="317" text="6271537" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="324" end="336" text="387093038353" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="358" end="389" text="Operador de Maquinaria Agrícola" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="424" end="441" text="Borja Rey Márquez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="446" end="455" text="038523327" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="457" end="494" text="Residente de 4° año en Endocrinología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="496" end="563" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="565" end="592" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="594" end="599" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="601" end="608" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="610" end="616" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="636" end="646" text="26/12/2012" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="657" end="665" text="38480890" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="676" end="705" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="749" end="779" text="ascendencia africana del norte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="783" end="790" text="86 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

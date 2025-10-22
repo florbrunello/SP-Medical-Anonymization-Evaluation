@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Mónica Heredia Ferrer
+DNI: 80448660L
+Fecha de nacimiento: 10/02/1987
+Género: M
+Domicilio: Calle de la Primavera 38
+Ciudad: Béjar, Valladolid, Castilla y León
+Código postal: 47367
+Email: ferrer@yahoo.com
+Teléfono fijo: +34 983 46 09 14
+Teléfono móvil: +34 783 19 81 65
+NHC: 7924045
+NASS: 905591273603
+
+Datos asistenciales.
+Médico: Dr. Jesús Escudero Tomas. NC 327564185. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 02/10/2013
+Hospital: Hospital de Manises
+Matrícula del coche: 2253OAZ
+Modelo: Honda CR-V
+VIN: VSF01A7G1TI370333
+
+Informe clínico del paciente:
+Paciente transeúnte de 26 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Mónica" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Heredia Ferrer" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="80448660L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="10/02/1987" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="142" text="Calle de la Primavera 38" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="156" text="Béjar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="168" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="185" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="47367" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="230" text="ferrer@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="246" end="262" text="+34 983 46 09 14" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="279" end="295" text="+34 783 19 81 65" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="301" end="308" text="7924045" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="315" end="327" text="905591273603" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="362" end="382" text="Jesús Escudero Tomas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="387" end="396" text="327564185" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="398" end="442" text="Investigador Principal en Optometría Clínica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="444" end="502" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="504" end="528" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="530" end="535" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="537" end="547" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="549" end="555" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="575" end="585" text="02/10/2013" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="596" end="615" text="Hospital de Manises" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="637" end="644" text="2253OAZ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="669" end="686" text="VSF01A7G1TI370333" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="727" end="737" text="transeúnte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="741" end="748" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

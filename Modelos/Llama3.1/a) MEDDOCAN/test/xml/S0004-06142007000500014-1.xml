@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sergio</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aznar Rivas</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5379864</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle Mandala, 14</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">29034</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">12/03/1998</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">19 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">30/07/2017</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Antonio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Javier</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Márquez</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Moreno</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">29 29 83404</TAG>.
+    Informe clínico del paciente: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">19 años</TAG> de edad, sin antecedentes de interés, que consulta por tumoración ligeramente dolorosa en el testículo derecho, de unos 8 meses de evolución, encontrándose en la exploración clínica un aumento testicular con zonas nodulares. El testículo izquierdo no muestra alteraciones. Alfa-Feto-Proteina: <TAG TYPE="OTRO_NUMERO_IDENTIF">38,2</TAG> y Beta-HGC de <TAG TYPE="OTRO_NUMERO_IDENTIF">1,48</TAG>. Ecográficamente se observan tres nódulos tumorales independientes y bien delimitados: dos de ellos heterogéneos, sólidos, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20</TAG> y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33</TAG> mm de diámetros, con áreas quísticas y calcificaciones. El tercer nódulo era sólido hipoecoico y homogéneo, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">26</TAG> mm de diámetro. Todos los nódulos presentaban un aumento de la vascularización con flujos arteriales de baja resistencia. El estudio de extensión es negativo. Se realiza orquiectomía. Histológicamente los dos primeros nódulos correspondían a teratocarcinomas (teratoma maduro y carcinoma embrionario predominante), siendo macroscópicamente masas pardo-blanquecinas, con cavidades de contenido seroso amarillento, calcificaciones y focos de necrosis. El tercero fué diagnosticado como seminoma clásico, siendo más homogéneo macroscópicamente.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Antonio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Javier</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Márquez</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Moreno</TAG> <TAG TYPE="CALLE">Teseo, 5 3-N.</TAG> <TAG TYPE="TERRITORIO">29010</TAG>. <TAG TYPE="TERRITORIO">Málaga</TAG>. <TAG TYPE="PAIS">España</TAG>. <TAG TYPE="CORREO_ELECTRONICO">nuriaantonio@terra.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

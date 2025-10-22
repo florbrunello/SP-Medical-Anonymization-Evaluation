@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Anna Gracia Peña
+DNI: 47850652A
+Fecha de nacimiento: 11/08/2011
+Género: Mujer
+Domicilio: Calle de Covarrubias 29
+Ciudad: Majadahonda, Granada, Andalucía
+Código postal: 18332
+Email: gracia_pena@salud.madrid.org
+Teléfono fijo: +34 958 81 89 50
+Teléfono móvil: +34 658 39 40 75
+NHC: 5895470
+NASS: 154161029637
+Condición de riesgo: Técnico de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. Esteban Gallego Velasco. NC 840709416. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 29211293
+Centro de salud: Centro de Salud Fuenlabrada
+Matrícula del coche: 2525YYK
+Modelo: Chrysler Pacifica
+VIN: VSCBSKHC3WC292289
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 13 años de edad, acompañado de su padre. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es NQ616NVL105. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Anna" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="44" text="Gracia Peña" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="47850652A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="11/08/2011" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="105" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="140" text="Calle de Covarrubias 29" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="160" text="Majadahonda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="169" text="Granada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="180" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="18332" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="237" text="gracia_pena@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 958 81 89 50" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="286" end="302" text="+34 658 39 40 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="308" end="315" text="5895470" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="322" end="334" text="154161029637" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="356" end="378" text="Técnico de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="413" end="436" text="Esteban Gallego Velasco" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="441" end="450" text="840709416" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="452" end="492" text="Especialista en Enfermedades Infecciosas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="494" end="578" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="580" end="609" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="611" end="616" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="618" end="624" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="626" end="632" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="652" end="662" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="673" end="681" text="29211293" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="699" end="726" text="Centro de Salud Fuenlabrada" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="748" end="755" text="2525YYK" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="787" end="804" text="VSCBSKHC3WC292289" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="848" end="872" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="876" end="883" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="910" end="915" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T33" start="999" end="1010" text="NQ616NVL105" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

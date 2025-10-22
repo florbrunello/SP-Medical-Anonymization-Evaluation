@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María José</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Campos Pacheco</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">28552262Q</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">31/12/1940</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del León 20</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Eibar</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">28125</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariajose.campos.pacheco982@protonmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 919 07 68 46</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 617 64 87 73</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1147936</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">28552262Q</TAG>.
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Consumidor de alcohol</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Clara González Franco</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 148625267</TAG>. <TAG TYPE="PROFESION">Residente de 5° año en Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="HOSPITAL">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">30/04/2009</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Puerta de Hierro Majadahonda</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTRO_NUMERO_IDENTIF">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">68 años</TAG> de edad, acompañado de su hijo. Presenta una historia de <TAG TYPE="OTRO_NUMERO_IDENTIF">abuso de alcohol</TAG> durante más de 20 años, con un consumo promedio de 80 gramos de alcohol al día. En las últimas semanas, ha presentado síntomas de <TAG TYPE="OTRO_NUMERO_IDENTIF">envejecimiento hepático</TAG>, incluyendo <TAG TYPE="OTRO_NUMERO_IDENTIF">ictericia</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">ascitis</TAG>. La exploración física revela un estado de <TAG TYPE="OTRO_NUMERO_IDENTIF">malnutrición</TAG>, con pérdida de peso significativa y debilidad muscular. El análisis de sangre muestra un aumento de los niveles de <TAG TYPE="OTRO_NUMERO_IDENTIF">bilirrubina</TAG> y enzimas hepáticas.
+    Evolución y comentarios:
+    El paciente ha sido hospitalizado en la Unidad de Cuidados Intensivos para recibir tratamiento de soporte vital y control de la infección. Se ha iniciado un programa de <TAG TYPE="OTRO_NUMERO_IDENTIF">desintoxicación</TAG> con medicamentos y terapia de apoyo. El pronóstico es reservado debido a la gravedad de la enfermedad y la edad del paciente.
+    Remitido por:
+    Se recomienda una evaluación psicológica y social para determinar la causa subyacente del <TAG TYPE="OTRO_NUMERO_IDENTIF">abuso de alcohol</TAG> y para ofrecer apoyo a la familia del paciente. Se solicita una cita con el Servicio de Psiquiatría para evaluar la necesidad de tratamiento psiquiátrico.
+  </TEXT>
+</MEDDOCAN>

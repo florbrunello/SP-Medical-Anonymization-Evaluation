@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Manuel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Calderon Aranda</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">95205364S</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/12/1968</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de O'Donnell 33</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Zamora</TAG>, <TAG TYPE="TERRITORIO">Segovia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">40059</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">josemanuel_calderon265@ciberisciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 921 89 36 25</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 721 95 28 78</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6828779</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">327500176129</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Maquinaria Agrícola</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sonia Vega Plaza</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">906865249</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">12/12/1983</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">24557144</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Barajas</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5606MIR</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Ford Mustang</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSIMNT1AA6X173115</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia árabe</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">escaneo del iris</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">XM351GGZ256</TAG>.
+  </TEXT>
+</MEDDOCAN>

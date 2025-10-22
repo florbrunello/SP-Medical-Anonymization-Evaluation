@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Paloma</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carrillo Rueda</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">74283059M</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/11/1986</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Argumosa 77, 6P</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Tarragona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">43351</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">carrillo1177@uhu.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 977 40 61 54</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 777 29 68 83</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8261788</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">317403205192</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Técnico de Cuidados Auxiliares de Enfermería</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Esperanza</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Caballero De la Fuente</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 089925327</TAG>. <TAG TYPE="PROFESION">Investigadora Clínica en Insuficiencia Cardíaca</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/03/2016</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">19389691</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Doctor Peset</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">29 años</TAG> de edad, que se presenta con una historia previa de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG>, controlada con medicación. La paciente refiere una evolución clínica de 3 días, caracterizada por dolor en la región epigástrica, con irradiación hacia la espalda y fiebre. La exploración física revela: temperatura <TAG TYPE="FECHAS">38,5°C</TAG>; presión arterial <TAG TYPE="FECHAS">160/90 mmHg</TAG>; frecuencia cardíaca <TAG TYPE="FECHAS">110 lpm</TAG>; frecuencia respiratoria <TAG TYPE="FECHAS">22 lpm</TAG>. La paciente se encuentra consciente y orientada, con buen estado de nutrición e hidratación. La exploración abdominal revela dolor en la región epigástrica, con irradiación hacia la espalda. La exploración cardiovascular no revela signos de insuficiencia cardíaca.
+    Antecedentes:
+    La paciente tiene una historia previa de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG>, controlada con medicación. También tiene antecedentes de dolor abdominal en la región epigástrica, con irradiación hacia la espalda.
+    Evolución y comentarios:
+    La paciente se encuentra en una fase aguda de la enfermedad, con dolor en la región epigástrica y fiebre. La exploración física revela signos de infección y dolor abdominal. La paciente requiere un tratamiento antibiótico y analgésico para controlar el dolor y la fiebre.
+    Remitido por:
+    El médico de cabecera de la paciente ha remitido a la unidad de urgencias para evaluación y tratamiento.
+    Fecha de alta: <TAG TYPE="FECHAS">02/04/2016</TAG>
+  </TEXT>
+</MEDDOCAN>

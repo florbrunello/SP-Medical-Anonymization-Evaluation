@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vicente Salazar Miguel</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">97261304P</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">22/09/1973</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Moratín 89</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Cáceres</TAG>, <TAG TYPE="TERRITORIO">Asturias</TAG>, <TAG TYPE="TERRITORIO">Asturias</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">33744</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">vicentemiguel@ciberer.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 984 69 77 47</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 984 08 60 77</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9190058</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">982960571712</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Usuario de drogas</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Mateo Torres Escobar</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">344612175</TAG>. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/06/1994</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitari i Politècnic La Fe</TAG>.
+    Informe clínico del paciente:
+    Paciente usuario de drogas de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> de edad, con antecedentes de consumo de sustancias ilegales desde los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15 años</TAG>. Presenta síntomas de abstinencia y ansiedad, con irritabilidad y cambios en el estado de ánimo. La exploración física revela signos de desnutrición y fatiga, con temperatura corporal normal y pulso regular. El paciente se encuentra consciente y orientado, pero con dificultades para concentrarse y tomar decisiones.
+    La historia clínica del paciente muestra una evolución caracterizada por episodios de consumo excesivo y abstinencia, con intentos de rehabilitación y readaptación social. El paciente ha recibido tratamiento psicológico y farmacológico en el pasado, pero no ha logrado mantenerse libre del consumo de drogas.
+    En la actualidad, el paciente se encuentra en una fase de crisis, con signos de deterioro físico y emocional. Es necesario realizar un seguimiento estrecho y proporcionar apoyo psicológico y terapéutico para ayudar al paciente a superar su adicción y mejorar su calidad de vida.
+    Antecedentes:
+    El paciente tiene un antecedente de hospitalización en el pasado por consumo excesivo de drogas, con una estancia de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 días</TAG> en la unidad de rehabilitación. También ha recibido tratamiento ambulatorio en un centro de salud mental, con terapia individual y grupo.
+    Evolución y comentarios:
+    El paciente ha mostrado una evolución variable en el tratamiento, con períodos de mejora y deterioro. Es necesario mantener un seguimiento estrecho y ajustar el tratamiento según sea necesario.
+    Remitido por:
+    El paciente ha sido remitido por su médico de cabecera, que ha detectado signos de deterioro físico y emocional en el paciente. Se ha solicitado un informe clínico para evaluar la situación del paciente y determinar el mejor curso de acción.
+  </TEXT>
+</MEDDOCAN>

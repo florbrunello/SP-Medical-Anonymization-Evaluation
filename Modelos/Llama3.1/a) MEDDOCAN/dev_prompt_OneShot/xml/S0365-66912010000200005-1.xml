@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rebeca</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pose Diaz</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">54687</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">84 93567546 08</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">calle monforte de lemos 141, 7B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28028</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/05/1978</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">17/05/2018</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Oftalmología</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Roberto</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gallego</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pinazo</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 74965</TAG>.
+    Historia Actual: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> remitida a nuestro servicio por persistencia durante unos ocho meses de un cuadro de blefaritis anterior de aspecto indolente con aparición de un nódulo indurado en párpado superior derecho filiado como "chalazion refractario a inyección de triamcinolona", asociado a adenopatía preauricular ipsilateral.
+    Se procedió entonces a la exéresis completa del párpado superior derecho incluyendo el tarso, y a la reconstrucción con un injerto libre de mucosa palatina y recubrimiento del mismo mediante un colgajo frontal glabelar pediculado.
+    Se descartó la afectación de los bordes en la pieza quirúrgica resecada.
+    Paralelamente se practicó un vaciamiento cervical radical por la presencia de adenopatías de aspecto necrótico en diversos territorios linfáticos.
+    En el mismo acto quirúrgico se biopsió la conjuntiva en los cuatro cuadrantes además del párpado inferior.
+    El estudio anatomopatológico no mostró infiltración conjuntival, pero sí cambios tumorales en el párpado inferior, por lo que se trató mediante braquiterapia con un total de 94 sesiones con el isótopo iridio 192 y dosis de 0,67 Gy por cada sesión (dosis total de 63,8 Gy).
+    Asimismo, se asoció radioterapia externa sobre la región cervical a fin de completar el tratamiento quirúrgico practicado sobre ella.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Roberto</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gallego</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pinazo</TAG> Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">robertogallego@comv.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

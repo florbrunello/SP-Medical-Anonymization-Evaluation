@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Emilio Castillo Gómez
+DNI: 23381626X
+Fecha de nacimiento: 04/03/1958
+Género: H
+Domicilio: Calle de las Tres Cruces 50
+Ciudad: Socuéllamos, Cádiz, Andalucía
+Código postal: 11104
+Email: castillo_gomez@ciberer.es
+Teléfono fijo: +34 956 86 80 59
+Teléfono móvil: +34 756 12 27 46
+NHC: 5382575
+NASS: 541832102166
+
+Datos asistenciales.
+Médico: Dra. Rocío Martín Hernández. NC 674158355. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/11/2001
+Hospital: Complejo Asistencial Universitario de León
+
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 43 años de edad, acompañado de su marido. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Emilio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Castillo Gómez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="23381626X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="04/03/1958" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="145" text="Calle de las Tres Cruces 50" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="165" text="Socuéllamos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="172" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="183" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="199" end="204" text="11104" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="212" end="237" text="castillo_gomez@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 956 86 80 59" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="286" end="302" text="+34 756 12 27 46" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="308" end="315" text="5382575" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="322" end="334" text="541832102166" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="590" end="600" text="21/11/2001" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="611" end="653" text="Complejo Asistencial Universitario de León" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="697" end="720" text="comunidades vulnerables" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="724" end="731" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="758" end="764" text="marido" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

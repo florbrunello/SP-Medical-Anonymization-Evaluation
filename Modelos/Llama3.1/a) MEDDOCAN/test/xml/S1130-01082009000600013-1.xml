@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pascual</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Serrat Justo</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">72839</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">09 16457589 53</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. de Levante 18. 1C</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Barcelona</TAG>.
+    CP: <TAG TYPE="TERRITORIO">08019</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/01/1997</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">21 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">13/05/2018</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernando</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Hidalgo Méndez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">08 28 96385</TAG>.
+    Informe Clínico: Varón homosexual de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">21 años</TAG> sin antecedentes patológicos de interés, que es remitido a la consulta de digestivo por cuadro de "<TAG TYPE="OTRO_NUMERO_IDENTIF">prurito anal</TAG> de 9 meses de evolución resistente a tratamiento habitual". En ese tiempo su médico le había pautado tratamiento local con varias cremas de corticoides y medidas higiénico-dietéticas sin mejoría. A la exploración anal se evidenció la presencia de una lesión pigmentada, de bordes ligeramente verrucosos, en la región perianal posterior. El tacto rectal y la anuscopia resultaron normales.
+    Se realizó una biopsia cutánea cuyo estudio histológico informó de la presencia de <TAG TYPE="OTRO_NUMERO_IDENTIF">hiperqueratosis</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">paraqueratosis</TAG> con alteración de la maduración celular, que afectan a todo el espesor de la dermis. Todo ello compatible con una <TAG TYPE="OTRO_NUMERO_IDENTIF">papilomatosis bowenoide</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">neoplasia intraepitelial anal grado 1</TAG>). Los anticuerpos frente al virus de la inmunodeficiencia humana (<TAG TYPE="OTRO_NUMERO_IDENTIF">VIH</TAG>) fueron negativos y se descartaron otras inmunodeficiencias.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernando</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Hidalgo Méndez</TAG> <TAG TYPE="CENTRO_SALUD">Servicio de Diagnóstico por la Imagen. CAP El Serral.</TAG> <TAG TYPE="CALLE">Ctra. Sant Boi, 59-61</TAG>. C.P. <TAG TYPE="TERRITORIO">08620</TAG> <TAG TYPE="TERRITORIO">Sant Vicenç dels Horts</TAG>. <TAG TYPE="TERRITORIO">Barcelona</TAG> (<TAG TYPE="PAIS">España</TAG>). Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">26415fhm@comb.cat</TAG>.
+  </TEXT>
+</MEDDOCAN>

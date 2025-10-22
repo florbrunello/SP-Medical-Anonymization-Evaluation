@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Elisa Sierra Benito</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">53937204L</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/06/1976</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Tribulete 88</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Telde</TAG>, <TAG TYPE="TERRITORIO">Pontevedra</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">36144</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">elisasierra_benito@udc.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 986 82 49 63</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 686 47 14 59</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8482513</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">183016099249</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Almacén</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Vanessa Gallardo Mateos</TAG>. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">NC</TAG> <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">559052399</TAG>. <TAG TYPE="PROFESION">Residente</TAG> de <TAG TYPE="PROFESION">3° año</TAG> en <TAG TYPE="PROFESION">Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">05/09/2020</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Oeste</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7961KWW</TAG>.
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Honda Civic</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VST4R4JL4TU676428</TAG>.
+    Informe clínico del paciente:
+    El paciente, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">44 años</TAG> de edad, fue ingresado en el <TAG TYPE="PROFESION">Servicio de Gastroenterología</TAG> con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal crónico</TAG> y pérdida de peso. El paciente reporta una historia de antecedentes familiares de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedades hepáticas y digestivas</TAG>. Se realizaron análisis de sangre y pruebas de imagen, que mostraron una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedad hepática crónica</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cirrosis</TAG> y una inflamación en el revestimiento del intestino delgado. El paciente fue remitido al <TAG TYPE="PROFESION">Servicio de Gastroenterología</TAG> por el <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Oeste</TAG>. Se inició tratamiento con medicamentos para controlar los síntomas y se recomendó una dieta especial para ayudar a controlar la enfermedad hepática. El paciente fue dado de alta con instrucciones para seguir el tratamiento y realizar revisiones periódicas con el equipo de gastroenterología.
+  </TEXT>
+</MEDDOCAN>

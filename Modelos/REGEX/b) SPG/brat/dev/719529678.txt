@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Elisa Franco Serrano
+DNI: 43913349R
+Fecha de nacimiento: 29/11/1929
+Género: M
+Domicilio: Calle de Espoz y Mina 16, 8W
+Ciudad: Xirivella, Zaragoza, Aragón
+Código postal: 50261
+Email: elisa.franco_serrano@hotmail.com
+Teléfono fijo: +34 976 93 92 73
+Teléfono móvil: +34 776 76 70 13
+NHC: 3411810
+
+Datos asistenciales.
+Médico: Dra. Rosa Mateo Beltran. NC 767505831. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/03/1940
+Episodio: 40863095
+Centro de salud: Centro de Salud Coslada
+
+Informe clínico del paciente:
+Paciente exfumador de 10 años de edad, acompañado de su padre. 

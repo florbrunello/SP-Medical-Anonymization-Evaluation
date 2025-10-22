@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Fátima Tomas Rivera
+DNI: 92887828M
+Fecha de nacimiento: 24/06/2012
+Género: Femenino
+Domicilio: Calle de Génova 83, 10I
+Ciudad: Onda, Teruel, Aragón
+Código postal: 44301
+Email: tomas@h12o.es
+Teléfono fijo: +34 978 56 06 08
+FAX: +34 978 95 84 91
+NHC: 4967470
+Condición de riesgo: Repartidor
+
+Datos asistenciales.
+Médico: Dr. Mohammed Domínguez Sánchez. NC 713004706. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 09/08/2022
+Centro de salud: Centro de Salud Vicálvaro
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 10 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Fátima" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Tomas Rivera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="92887828M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="24/06/2012" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="111" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="146" text="Calle de Génova 83, 10I" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="159" text="Onda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="167" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="175" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="44301" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="217" text="tomas@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="233" end="249" text="+34 978 56 06 08" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="255" end="271" text="+34 978 95 84 91" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="277" end="284" text="4967470" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="306" end="316" text="Repartidor" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="351" end="377" text="Mohammed Domínguez Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="382" end="391" text="713004706" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="393" end="433" text="Investigador Clínico en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="435" end="502" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="504" end="531" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="533" end="538" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="540" end="547" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="549" end="555" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="575" end="585" text="09/08/2022" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="603" end="628" text="Centro de Salud Vicálvaro" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="672" end="696" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="700" end="707" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="734" end="739" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

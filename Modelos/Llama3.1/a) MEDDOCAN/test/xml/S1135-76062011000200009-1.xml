@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mateo</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sanchez Rodriguez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4790356</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">47 52670894 67</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">C/ Principe de Vergara, 55, 3 B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28015</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/04/1985</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">27/06/2018</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Antonio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rico García</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 55680</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG>, sin antecedentes patológicos conocidos, que ingresó en un servicio de urgencias hospitalario a las 7.43 h, procedente de su domicilio, con el diagnóstico de "traumatismo craneal ocasionando ictus isquémico". La tarde anterior había sufrido un golpe con un balón en el cuello mientras jugaba un partido de fútbol como portero.
+    Durante su ingreso se practicó TAC craneal, que puso de manifiesto un infarto isquémico en el territorio de la arteria cerebral media derecha como consecuencia de una disección traumática de la arteria carótida interna derecha.
+    Presentó hipertensión endocraneal y herniación cerebral con evolución hacia muerte encefálica, por lo que entró en programa de donación de órganos falleciendo 10 días después de su ingreso.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Antonio Rico García</TAG>. E-mail: <TAG TYPE="CORREO_ELECTRONICO">anricoga@gmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

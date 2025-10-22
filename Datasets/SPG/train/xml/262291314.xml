@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Irene Salas Cano
+DNI: 37758383L
+Fecha de nacimiento: 01/02/1972
+Género: F
+Domicilio: Calle del Sacramento 32
+Ciudad: San Sebastián, Barcelona, Cataluña
+Código postal: 08342
+Email: cano1432@uca.es
+Teléfono fijo: +34 930 88 28 48
+Teléfono móvil: +34 736 18 57 23
+NHC: 3894048
+NASS: 506265357882
+
+Datos asistenciales.
+Médico: Dra. Carlota Varela Avila. NC 362448037. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 04/06/2021
+Episodio: 30622846
+Hospital: Complejo Hospitalario Universitario de Santiago
+Matrícula del coche: 9022PLO
+Modelo: Honda CR-V
+VIN: VSBU123BJWC520201
+
+Informe clínico del paciente:
+Paciente vegetariano de 49 años de edad, acompañado de su hijo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Irene" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="44" text="Salas Cano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="37758383L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="01/02/1972" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="101" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="113" end="136" text="Calle del Sacramento 32" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="158" text="San Sebastián" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="169" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="179" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="08342" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="223" text="cano1432@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="239" end="255" text="+34 930 88 28 48" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="272" end="288" text="+34 736 18 57 23" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="294" end="301" text="3894048" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="308" end="320" text="506265357882" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="568" end="578" text="04/06/2021" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="589" end="597" text="30622846" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="608" end="655" text="Complejo Hospitalario Universitario de Santiago" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="677" end="684" text="9022PLO" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="709" end="726" text="VSBU123BJWC520201" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="767" end="778" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="782" end="789" text="49 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="816" end="820" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

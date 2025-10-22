@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Alejandro Rivas Rivas
+DNI: 16930801H
+Fecha de nacimiento: 02/04/2011
+Género: Hombre
+Domicilio: Calle de Preciados 87, 3W
+Ciudad: Palencia, Toledo, Castilla-La Mancha
+Código postal: 45358
+Email: alejandro.rivas_rivas@icloud.com
+Teléfono fijo: +34 925 24 04 42
+Teléfono móvil: +34 725 99 85 34
+NHC: 0088776
+NASS: 577573754475
+Condición de riesgo: Científico de Investigación
+
+Datos asistenciales.
+Médico: Dra. Anna Domínguez Cruz. NC 843294624. Endocrinóloga Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 15/09/2011
+Episodio: 06418195
+Centro de salud: Centro de Salud Ronda
+
+Informe clínico del paciente:
+Paciente de tez blanca de 5 meses de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Alejandro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="49" text="Rivas Rivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="16930801H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="02/04/2011" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="111" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="148" text="Calle de Preciados 87, 3W" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="165" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="173" text="Toledo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="193" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="209" end="214" text="45358" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="222" end="254" text="alejandro.rivas_rivas@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="270" end="286" text="+34 925 24 04 42" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="303" end="319" text="+34 725 99 85 34" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="325" end="332" text="0088776" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="339" end="351" text="577573754475" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="373" end="400" text="Científico de Investigación" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="651" end="661" text="15/09/2011" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="672" end="680" text="06418195" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="698" end="719" text="Centro de Salud Ronda" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="763" end="773" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="777" end="784" text="5 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="811" end="818" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

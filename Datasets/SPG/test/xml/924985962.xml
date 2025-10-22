@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Carmen Herrero Giménez
+DNI: 35217769P
+Fecha de nacimiento: 02/04/1995
+Género: F
+Domicilio: Calle de Génova 17
+Ciudad: Onda, Santa Cruz de Tenerife, Canarias
+Código postal: 38531
+Email: carmen-herrerogimenez@isciii.es
+Teléfono fijo: +34 922 16 91 07
+Teléfono móvil: +34 722 30 03 94
+NHC: 4885945
+NASS: 416217339812
+Condición de riesgo: Repartidor
+
+Datos asistenciales.
+Médico: Dra. Sandra Durán Cruz. NC 935795080. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 27/09/2007
+Episodio: 41726908
+Centro de salud: Centro de Salud Barajas
+Matrícula del coche: 2295HKW
+Modelo: Chrysler Pacifica
+VIN: VSXS4NUVUXH483591
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 12 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Carmen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Herrero Giménez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="35217769P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="02/04/1995" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="137" text="Calle de Génova 17" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="150" text="Onda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="152" end="174" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="184" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="38531" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="244" text="carmen-herrerogimenez@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 922 16 91 07" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="293" end="309" text="+34 722 30 03 94" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="315" end="322" text="4885945" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="329" end="341" text="416217339812" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="363" end="373" text="Repartidor" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="627" end="637" text="27/09/2007" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="648" end="656" text="41726908" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="674" end="697" text="Centro de Salud Barajas" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="719" end="726" text="2295HKW" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="758" end="775" text="VSXS4NUVUXH483591" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="816" end="833" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="837" end="844" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="871" end="878" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

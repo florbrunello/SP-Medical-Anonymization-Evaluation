@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Antonio</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Duran Navarro</TAG>.
+    CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">21413043</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">73 4563215 45</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. de Huelva, 6</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Badajoz</TAG>.
+    CP: <TAG TYPE="TERRITORIO">06005</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc-21413043</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/03/1954</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">59</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">29/12/2017</TAG>.
+    Especialidad:.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Eduardo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sánchez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">29 06 1995</TAG>.
+    Motivo de ingreso: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Herida de arma de fuego</TAG>.
+    Historia Actual: Se trata de un paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">59</TAG> años que ingresa con una herida de arma de fuego con orificio de entrada en la nalga, de unos 4 milímetros de diámetro y sin orificio de salida. Además presenta otra herida de bala en el muslo derecho con orificio de entrada por detrás y salida por delante, sin afectación de estructuras importantes. El paciente está consciente, orientado y con una ligera defensa abdominal. 
+    Exploración y pruebas complementarias: En la radiografía simple de abdomen aparece una bala situada a la altura de la sínfisis del pubis, así como una fractura de la rama descendente derecha del mismo. El enfermo llega en retención, siendo imposible el sondaje, por lo que se pone un catéter suprapúbico. Después se efectúa una laparotomía, no encontrándose ninguna otra lesión, realizándose una colostomía izquierda. Al día siguiente se realiza una uretrografía, comprobándose que hay paso de contraste desde la uretra hasta el recto, lo que provoca fiebre alta con escalofríos que se mantiene durante unos días. Posteriormente, cinco días después de la primera intervención, se lleva el paciente al quirófano, se realiza una colonoscopia evidenciándose la perforación rectal. Seguidamente se introduce un uretrotomo endoscópico hasta la uretra prostática visualizándose el orificio, aparentemente grande, que une la uretra con el recto. A pesar de todo se consigue encontrar el camino que lleva hasta la vejiga y por último se deja una sonda del dieciocho.
+    Acto seguido, en el mismo acto quirúrgico, se hace una laparotomía hasta la sínfisis del pubis, se revisa de nuevo el abdomen comprobándose que no hay ninguna lesión. A continuación se diseca el espacio de Retzius y mediante control radiológico, se palpa la cara anterior de la próstata, que está hiperplásica, hasta conseguir tocar el proyectil. Seguidamente con una pinza de anillo y siempre bajo control radiológico se consigue agarrar y extraer la bala. El postoperatorio cursa sin incidencias y el paciente es dado de alta a los pocos días con la sonda.
+    Evolución: A los tres meses el paciente está asintomático, se le hace una nueva colonoscopia, se comprueba que el orificio rectal ha desaparecido y se cierra la colostomía, sin incidencias. Sin embargo la sonda se le deja tres meses más, es decir un total de seis meses. Transcurrido este tiempo se realiza de nuevo una uretrografía, se comprueba que la brecha se ha cerrado y se retira la sonda. Seis meses más tarde, el paciente vuelve para control, está asintomático y con una función sexual normal; esta vez se realiza tan sólo un ultrasonido, que es normal y es dado de alta definitiva.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Eduardo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sánchez</TAG> <TAG TYPE="CALLE">Calle Strachan, 4 -2º piso</TAG> <TAG TYPE="TERRITORIO" >29015- Badajoz</TAG> <TAG TYPE="PAIS">España</TAG> <TAG TYPE="CORREO_ELECTRONICO">edusada@telefonica.net</TAG>.
+  </TEXT>
+</MEDDOCAN>

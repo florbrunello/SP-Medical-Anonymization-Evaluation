@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Sebastián García Hernández
+DNI: 35199932L
+Fecha de nacimiento: 02/10/1957
+Género: M
+Domicilio: Calle de Segovia 87
+Ciudad: Palencia, Formentera, Islas Baleares
+Código postal: 07281
+Email: garcia_hernandez@udc.es
+Teléfono fijo: +34 971 05 52 44
+Teléfono móvil: +34 771 48 77 19
+NHC: 2688264
+
+Datos asistenciales.
+Médico: Dr. Ismael Espinosa Navarro. NC 787521116. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/03/1963
+Episodio: 14946922
+Hospital: Hospital Universitari de Bellvitge
+
+Informe clínico del paciente:
+Paciente musulman de 5 años de edad, acompañado de su madre. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es PM042GGG348. 

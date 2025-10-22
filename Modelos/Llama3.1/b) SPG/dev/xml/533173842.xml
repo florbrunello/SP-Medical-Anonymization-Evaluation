@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alfonso</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Reyes Conde</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">27801812X</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/05/1940</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Luna 7, 5J</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ronda</TAG>, <TAG TYPE="TERRITORIO">Región de Murcia</TAG>, <TAG TYPE="TERRITORIO">Región de Murcia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">30081</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">reyes@uca.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 968 11 41 84</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 668 99 83 05</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6425666</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">453395307165</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Bombero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marc Zamora Iglesias</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">185014445</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">12/02/2006</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Delicias</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3407OOI</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Jeep Wrangler</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSNLJV8CHDJ716034</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia del medio oriente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">65 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sesión de reconocimiento facial</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">VM782JVJ889</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cristina</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Granada Lozano</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3456145</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">12 39048761 55</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle la Poveda 26, bajo A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28029</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/02/1997</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">21 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">12/05/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Enrique</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Santos Bueso</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 49712</TAG>.
+    Historia Actual: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mujer de 21 años que consultó por haber observado una lesión de pequeño tamaño en el párpado superior derecho (PSD), de crecimiento progresivo, en las últimas cuatro horas.</TAG>
+    Refería residir en una casa rural y haber estado previamente limpiando varios animales de granja. No presentaba ningún antecedente personal ni familiar de interés.
+    La exploración oftalmológica mostraba un <TAG TYPE="OTRO_NUMERO_IDENTIF">insecto</TAG> de <TAG TYPE="OTRO_NUMERO_IDENTIF">color rojizo</TAG> de <TAG TYPE="OTRO_NUMERO_IDENTIF">2 mm</TAG> adherido al borde libre del PSD. La agudeza visual era de la unidad en ambos ojos (AO) y el resto de la exploración incluido el fondo de ojo fue normal.
+    El tratamiento consistió en la aplicación de un <TAG TYPE="OTRO_NUMERO_IDENTIF">bastoncillo</TAG> impregnado en <TAG TYPE="OTRO_NUMERO_IDENTIF">gasolina de mechero</TAG>. La liberación progresiva de las mandíbulas permitió la extracción íntegra con una <TAG TYPE="OTRO_NUMERO_IDENTIF">pinza</TAG>.
+    El especimen fue enviado al <TAG TYPE="INSTITUCION">Servicio de Anatomía Patológica</TAG> para verificar su integridad y a la <TAG TYPE="INSTITUCION">Facultad de Veterinaria</TAG> para su identificación, siendo informado como <TAG TYPE="OTRO_NUMERO_IDENTIF">RS o garrapata común del perro</TAG>.
+    La paciente fue sometida a exploración para descartar la presencia de otros <TAG TYPE="OTRO_NUMERO_IDENTIF">artrópodos</TAG> y a estudio de las posibles complicaciones locales o sistémicas. Durante seis meses se realizaron <TAG TYPE="OTRO_NUMERO_IDENTIF">serologías</TAG> de las <TAG TYPE="OTRO_NUMERO_IDENTIF">zoonosis</TAG> transmitidas por las garrapatas, que fueron negativas.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Enrique</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Santos Bueso</TAG> <TAG TYPE="HOSPITAL">Servicio de Oftalmología USIO. Hospital Clínico San Carlos</TAG> <TAG TYPE="CALLE">Avda. Prof. Martín Lagos, s/n</TAG> <TAG TYPE="TERRITORIO" >28040</TAG> <TAG TYPE="TERRITORIO" >Madrid</TAG>, <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">esbueso@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

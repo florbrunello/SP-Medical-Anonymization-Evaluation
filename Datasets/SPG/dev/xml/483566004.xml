@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Leo Suárez Guillen
+DNI: 51579470S
+Fecha de nacimiento: 20/11/1957
+Género: V
+Domicilio: Calle del Olivar 70
+Ciudad: Zaragoza, Ávila, Castilla y León
+Código postal: 05974
+Email: zKMJD@h12o.es
+Teléfono fijo: +34 920 06 15 40
+Teléfono móvil: +34 720 72 18 02
+NHC: 1714341
+NASS: 826722882566
+Condición de riesgo: Montador
+
+Datos asistenciales.
+Médico: Dra. Fátima Bernal Molina. NC 118682864. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/02/2016
+Episodio: 28772228
+Centro de salud: Centro de Salud Majadahonda
+
+Informe clínico del paciente:
+Paciente no fumador de 58 años de edad, acompañado de su conviviente. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es VE536WXF697. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Leo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="46" text="Suárez Guillen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="51579470S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="20/11/1957" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="134" text="Calle del Olivar 70" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="143" end="151" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="158" text="Ávila" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="160" end="175" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="05974" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="217" text="zKMJD@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="233" end="249" text="+34 920 06 15 40" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="266" end="282" text="+34 720 72 18 02" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="288" end="295" text="1714341" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="302" end="314" text="826722882566" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="336" end="344" text="Montador" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="617" end="627" text="17/02/2016" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="638" end="646" text="28772228" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="664" end="691" text="Centro de Salud Majadahonda" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="732" end="742" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="746" end="753" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="780" end="791" text="conviviente" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="875" end="886" text="VE536WXF697" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

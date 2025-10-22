@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Abel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Otero Silva</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">22671329E</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">18/07/1948</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle Gran Vía 40, 6T</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ferrol</TAG>, <TAG TYPE="TERRITORIO">Huelva</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">21269</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">abel-silva@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 959 61 66 41</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 759 33 25 28</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7427737</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">163339552505</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Técnico de Cuidados Auxiliares de Enfermería</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mariano Roldan Lorenzo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">616789434</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Oftalmólogo Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/02/1963</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Collado Villalba</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia indígena sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermana</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">IX493VST338</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">escaneo del iris</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">LK021LBH419</TAG>.
+  </TEXT>
+</MEDDOCAN>

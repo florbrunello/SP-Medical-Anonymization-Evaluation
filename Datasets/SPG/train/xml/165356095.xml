@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Josefa Ramírez Del Rio
+DNI: 33053033D
+Fecha de nacimiento: 26/05/2001
+Género: F
+Domicilio: Calle de San Bernardo 2
+Ciudad: Talavera de la Reina, Ciudad Real, Castilla-La Mancha
+Código postal: 13815
+Email: josefa.ramirezdelrio1805@ucm.es
+Teléfono fijo: +34 926 28 67 83
+Teléfono móvil: +34 626 54 41 14
+NHC: 1311381
+Condición de riesgo: Soldador
+
+Datos asistenciales.
+Médico: Dr. Leo Lozano Vera. NC 772964480. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/08/2006
+Episodio: 94541036
+Centro de salud: Centro de Salud Parla
+Matrícula del coche: 6084VUC
+Modelo: Mercedes-Benz C-Class
+VIN: VSFQZ7MPC2O520636
+
+Informe clínico del paciente:
+Paciente no fumador de 5 años de edad, acompañado de su madre. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es JG779WJB310. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="42" text="Josefa Ramírez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="43" end="50" text="Del Rio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="33053033D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="26/05/2001" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="142" text="Calle de San Bernardo 2" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="171" text="Talavera de la Reina" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="173" end="184" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="186" end="204" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="220" end="225" text="13815" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="233" end="264" text="josefa.ramirezdelrio1805@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="280" end="296" text="+34 926 28 67 83" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="313" end="329" text="+34 626 54 41 14" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="335" end="342" text="1311381" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="364" end="372" text="Soldador" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="407" end="422" text="Leo Lozano Vera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="427" end="436" text="772964480" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="438" end="472" text="Residente de 3° año en Psiquiatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="474" end="544" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="546" end="575" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="577" end="582" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="584" end="590" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="592" end="598" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="618" end="628" text="19/08/2006" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="639" end="647" text="94541036" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="665" end="686" text="Centro de Salud Parla" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="708" end="715" text="6084VUC" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="751" end="768" text="VSFQZ7MPC2O520636" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="809" end="819" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="823" end="829" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="856" end="861" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T32" start="949" end="960" text="JG779WJB310" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

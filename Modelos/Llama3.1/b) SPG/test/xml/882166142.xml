@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Eric Acosta</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Hidalgo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">19889792J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/05/1990</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Eduardo Dato 2, 6K</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Yecla</TAG>, <TAG TYPE="TERRITORIO">Ibiza</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07123</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">acosta@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 97 17 78</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 671 51 69 24</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9507191</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">873500562782</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador Agrícola</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco Esteban Gutiérrez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">912537559</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuropsicólogo Clínico Investigador</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">11/09/1990</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">53141998</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Leganés</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3446GKN</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Jeep Wrangler</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSTVCF6WZRG583399</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia australiana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 meses</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>.
+  </TEXT>
+</MEDDOCAN>

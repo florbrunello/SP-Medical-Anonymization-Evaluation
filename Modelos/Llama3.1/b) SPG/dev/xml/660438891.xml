@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gonzalo Mateos</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Hurtado</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">14433776B</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/08/1941</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Ribera 64</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Zamora</TAG>, <TAG TYPE="TERRITORIO">La Rioja</TAG>, <TAG TYPE="TERRITORIO">La Rioja</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">26338</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mateos@protonmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 941 76 45 25</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 641 80 62 94</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0860060</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">265994223491</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ama de casa</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Paz Vidal Fernández</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">862751256</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">15/11/1983</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Carabanchel</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">42 años</TAG> de edad. Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">http://example-labs.com//92287435U</TAG>. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">DQ693KIY619</TAG>.
+  </TEXT>
+</MEDDOCAN>

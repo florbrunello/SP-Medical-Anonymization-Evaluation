@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan José</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Blanco Martín</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">27635344Q</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/12/1936</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Tres Cruces 92, 1K</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Murcia</TAG>, <TAG TYPE="TERRITORIO">Cuenca</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">16247</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">martin@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 969 68 78 79</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 769 05 97 55</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7957598</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">547375796104</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisca Conde Marti</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">008337001</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">23/06/1972</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">30446617</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Virgen Macarena</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">35 años</TAG> de edad. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-nutrition.net</TAG>. Se registró una sesión de escaneo del <TAG TYPE="IDENTIF_BIOMETRICOS">iris</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">WL302HUR769</TAG>.
+  </TEXT>
+</MEDDOCAN>

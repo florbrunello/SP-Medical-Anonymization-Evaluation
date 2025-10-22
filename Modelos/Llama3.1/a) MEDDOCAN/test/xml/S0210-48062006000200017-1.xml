@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Miguel</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Martinez Fuentes</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7635956</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">12 17845723 56</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Cuenca, 34, 1 C</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">San Fernando, Cadiz</TAG>.
+    CP: <TAG TYPE="TERRITORIO">11100</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/08/1955</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">56 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">19/12/2011</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Soto Delgado</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">11 11 50124</TAG>.
+    Historia Actual: varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">56 años</TAG> de edad, sin antecedentes personales de interés, que consulta por episodios autolimitados de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematuria macroscópica</TAG> monosintomática de 2 meses de evolución.
+    Exploración física: Al tacto rectal, la próstata estaba bien delimitada y era de consistencia adenomatosa (grado II/IV).
+    Pruebas complementarias: Las exploraciones complementarias realizadas fueron las siguientes:
+    - Hemograma, bioquímica, urocultivo, citología de orina y sedimento: dentro de la normalidad. PSA: <TAG TYPE="NUMERO_VACUNA">1,46 ng/ml</TAG>.
+    - Ecografía urológica: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">quistes sinusales</TAG> renales bilaterales. Vejiga normal.
+    - Urografía intravenosa : distorsión pielocalicial por los <TAG TYPE="OTROS_SUJETO_ASISTENCIA">quistes</TAG> antes mencionados. Uréteres permeables. Vejiga normal. En la placa posmiccional llamaba la atención la presencia de una 'fuga de contraste' hacia la cavidad abdominal.
+    - Cistoscopia: masa de aspecto sólido de pequeño tamaño localizada en cúpula vesical.
+    Evolución: Ante estos hallazgos se procedió a la resección transuretral (RTU) de la lesión, con el resultado histopatológico de <TAG TYPE="OTRO_NUMERO_IDENTIF">adenocarcinoma</TAG> que infiltra la pared vesical.
+    Tras este diagnóstico se realiza estudio de extensión mediante radiografía de tórax (que es informada como normal) y TAC abdominopélvico donde se objetiva una estructura tubular que se extiende desde la cúpula vesical hasta el ombligo con pared gruesa sobre todo cercana a vejiga (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">uraco persistente</TAG> con posible infiltración de la pared por tumor) además de moderada cantidad de líquido libre en cavidad peritoneal.
+    Una semana antes del tratamiento quirúrgico definitivo, el paciente ingresó por cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fiebre alta</TAG> acompañada de síntomas miccionales, dolor abdominal, vómitos y anorexia.
+    A la exploración física, el paciente presentaba distensión abdominal con cierto grado de irritación peritoneal. En la analítica destacaba la presencia de una <TAG TYPE="OTRO_NUMERO_IDENTIF">leucocitosis</TAG> con <TAG TYPE="OTRO_NUMERO_IDENTIF">neutrofilia</TAG>. Tras instaurar tratamiento antibiótico parenteral de amplio espectro, el paciente mejoró de su sintomatología a excepción de la distensión abdominal. En la ecografia abdominal realizada se objetivaba una gran cantidad de <TAG TYPE="OTRO_NUMERO_IDENTIF">líquido ascítico</TAG> con tabiques en su interior.
+    Con la sospecha diagnostica de <TAG TYPE="OTRO_NUMERO_IDENTIF">adenocarcinoma de uraco</TAG> se realizó una cistectomía parcial amplia que incluía la cúpula vesical, gran masa a nivel de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">uraco</TAG> y ombligo, además de una <TAG TYPE="OTRO_NUMERO_IDENTIF">linfadenectomía pélvica</TAG>. Durante el acto quirúrgico objetivamos una gran cantidad de material mucoide infiltrando toda la cavidad peritoneal (se tomaron varias muestras de distintas localizaciones para estudio histológico). El diagnóstico anatomopatológico de la pieza quirúrgica fue de <TAG TYPE="OTRO_NUMERO_IDENTIF">adenocarcinoma mucinoso</TAG> de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">uraco</TAG> con extensión a vejiga urinaria y peritoneo. El informe histológico del material mucoide enviado fue de <TAG TYPE="OTRO_NUMERO_IDENTIF">pseudomixoma peritoneal</TAG>.
+    En la actualidad, después de 1 año de seguimiento, el paciente se encuentra asintomático y con estudio de extensión libre de enfermedad.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Soto Delgado</TAG>. <TAG TYPE="CALLE">Cecilio Pujazón nº 26 1º 1</TAG> <TAG TYPE="TERRITORIO">11100 San Fernando (Cádiz)</TAG>
+  </TEXT>
+</MEDDOCAN>

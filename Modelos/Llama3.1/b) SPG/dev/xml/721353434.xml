@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pol</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Escobar Quintana</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">77318780W</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/05/1956</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Espoz y Mina 83</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Plasencia</TAG>, <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">37662</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">pol-quintana@salud.madrid.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 59 28 27</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 923 22 93 90</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0947237</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">020225534808</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Máquina</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Diego Camacho Rico</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">488361760</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Oftalmólogo Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/10/1984</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">76403943</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Río Hortega</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">exfumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">28 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hijo</TAG>.
+  </TEXT>
+</MEDDOCAN>

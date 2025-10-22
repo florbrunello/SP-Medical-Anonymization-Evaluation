@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Mónica Soriano Guerrero
+DNI: 82158291Z
+Fecha de nacimiento: 14/09/2006
+Género: M
+Domicilio: Calle del Pez 84, 2X
+Ciudad: Dos Hermanas, Córdoba, Andalucía
+Código postal: 14668
+Email: monicaguerrero@udc.es
+Teléfono fijo: +34 957 77 98 46
+Teléfono móvil: +34 657 96 43 11
+NHC: 8150853
+NASS: 338896285442
+Condición de riesgo: Microbiólogo
+
+Datos asistenciales.
+Médico: Dr. Juan José Molina Domínguez. NC 730151364. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 17/09/2013
+Episodio: 01894534
+Centro de salud: Centro de Salud Fuengirola
+Matrícula del coche: 7571SMO
+Modelo: Chrysler Pacifica
+VIN: VSJX3A6LT4A428815
+
+Informe clínico del paciente:
+Paciente vegetariano de 7 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Mónica" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="51" text="Soriano Guerrero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="82158291Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="14/09/2006" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="140" text="Calle del Pez 84, 2X" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="161" text="Dos Hermanas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="170" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="181" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="14668" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="231" text="monicaguerrero@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 957 77 98 46" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 657 96 43 11" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="8150853" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="316" end="328" text="338896285442" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="350" end="362" text="Microbiólogo" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="397" end="423" text="Juan José Molina Domínguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="428" end="437" text="730151364" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="439" end="479" text="Investigador Clínico en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="481" end="548" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="550" end="577" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="579" end="584" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="586" end="593" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="595" end="601" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="621" end="631" text="17/09/2013" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="642" end="650" text="01894534" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="668" end="694" text="Centro de Salud Fuengirola" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="716" end="723" text="7571SMO" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="755" end="772" text="VSJX3A6LT4A428815" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="813" end="824" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="828" end="834" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="861" end="866" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

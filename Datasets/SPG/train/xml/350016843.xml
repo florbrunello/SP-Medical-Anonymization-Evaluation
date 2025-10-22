@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Isaac Carmona Reyes
+DNI: 29235602A
+Fecha de nacimiento: 30/07/1979
+Género: M
+Domicilio: Calle de la Ribera 81
+Ciudad: Castellón de la Plana, Soria, Castilla y León
+Código postal: 42508
+Email: isaac_reyes@ciberned.es
+Teléfono fijo: +34 975 71 90 76
+FAX: +34 975 39 98 28
+NHC: 1012645
+NASS: 647411873144
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dra. Milagros Segura Santiago. NC 431229441. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 14/06/2016
+Hospital: Hospital Clínic Barcelona
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 36 años de edad, acompañado de su hija. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Isaac" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Carmona Reyes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="29235602A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="30/07/1979" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="137" text="Calle de la Ribera 81" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="167" text="Castellón de la Plana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="174" text="Soria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="191" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="42508" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="243" text="isaac_reyes@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 975 71 90 76" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 975 39 98 28" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="303" end="310" text="1012645" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="647411873144" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="351" end="372" text="Trabajador de Almacén" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="638" end="648" text="14/06/2016" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="659" end="684" text="Hospital Clínic Barcelona" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="725" end="742" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="746" end="753" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="780" end="784" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

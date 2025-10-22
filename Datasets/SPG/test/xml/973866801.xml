@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Abel Otero Silva
+DNI: 22671329E
+Fecha de nacimiento: 18/07/1948
+Género: H
+Domicilio: Calle Gran Vía 40, 6T
+Ciudad: Ferrol, Huelva, Andalucía
+Código postal: 21269
+Email: abel-silva@yahoo.com
+Teléfono fijo: +34 959 61 66 41
+Teléfono móvil: +34 759 33 25 28
+NHC: 7427737
+NASS: 163339552505
+Condición de riesgo: Técnico de Cuidados Auxiliares de Enfermería
+
+Datos asistenciales.
+Médico: Dr. Mariano Roldan Lorenzo. NC 616789434. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 28/02/1963
+Centro de salud: Centro de Salud Collado Villalba
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 14 años de edad, acompañado de su hermana. Se registró una sesión de huella dactilar, el código obtenido para revisarla es IX493VST338. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es LK021LBH419. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Abel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="44" text="Otero Silva" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="22671329E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="18/07/1948" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="101" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="113" end="134" text="Calle Gran Vía 40, 6T" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="143" end="149" text="Ferrol" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="151" end="157" text="Huelva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="159" end="168" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="184" end="189" text="21269" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="197" end="217" text="abel-silva@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="233" end="249" text="+34 959 61 66 41" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="266" end="282" text="+34 759 33 25 28" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="288" end="295" text="7427737" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="302" end="314" text="163339552505" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="336" end="380" text="Técnico de Cuidados Auxiliares de Enfermería" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="415" end="437" text="Mariano Roldan Lorenzo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="442" end="451" text="616789434" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="453" end="496" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="498" end="556" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="558" end="582" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="584" end="589" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="591" end="601" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="603" end="609" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="629" end="639" text="28/02/1963" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="657" end="689" text="Centro de Salud Collado Villalba" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="733" end="766" text="ascendencia indígena sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="770" end="777" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="804" end="811" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="893" end="904" text="IX493VST338" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T31" start="987" end="998" text="LK021LBH419" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

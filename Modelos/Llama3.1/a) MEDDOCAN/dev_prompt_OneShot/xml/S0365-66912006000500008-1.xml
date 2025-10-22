@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Maria Concepcion</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Montijo Ramos</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">436434/875</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Tlatetilpa 14</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">San Lucas, Coyoacan, CDMX</TAG>.
+    CP: <TAG TYPE="TERRITORIO">04030</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/06/1983</TAG>.
+    País: <TAG TYPE="PAIS">México</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">35 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">20/05/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gómez Valcárcel</TAG>.
+    Historia de la paciente: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">35 años</TAG> acude a consulta por mala agudeza visual (AV) desde la infancia, sin tratamiento. A la exploración se encontró cabello amarillento, al igual que cejas y pestañas; piel rojiza, sin nevos ; agudeza visual con corrección de <TAG TYPE="FECHAS">20/400 (-9,50 -5,50 x 135º)</TAG> en ojo derecho (OD) y <TAG TYPE="FECHAS">20/200 (-6,50 -5,50 x 20º)</TAG> en ojo izquierdo (OI); exotropía de 50 dioptrías, nistagmo horizontal; ambos ojos (AO) con presión intraocular de <TAG TYPE="FECHAS">12 mmHg</TAG>, conjuntiva normal, córnea con algunos depósitos estromales blanquecinos centrales y anteriores bien circunscritos, cámara anterior sin células ni flare, iris claro con transiluminación, cristalino transparente e hipoplasia foveal. Con los datos clínicos oculares y sistémicos se establecieron los diagnósticos de AOC y DG y se citó a la familia para valoración clínica.
+    Se trata de una familia de nueve miembros, con padres de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">74</TAG> y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">64</TAG> años. No hay consanguinidad y proceden de localidades diferentes. La DG está presente en la madre, tres hermanos y su hijo, mientras que el AOC aparece en dos de los hermanos pero sin datos de DG.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gómez Valcárcel</TAG> <TAG TYPE="HOSPITAL">Hospital Dr. Luis SánchezBulnes</TAG> <TAG TYPE="INSTITUCION">Asociación para Evitar la Ceguera en México</TAG> <TAG TYPE="CALLE">C/ Vicente García Torres Nº 46</TAG> <TAG TYPE="TERRITORIO">Col. San Lucas Coyoacán</TAG> <TAG TYPE="TERRITORIO">04030</TAG> <TAG TYPE="PAIS">México D.F. México</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">maria_01_05@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

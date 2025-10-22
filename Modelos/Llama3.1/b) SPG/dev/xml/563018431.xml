@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Olga</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Galan Rivera</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">29742322X</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/04/2013</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Fortuny 70, 1K</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Reus</TAG>, <TAG TYPE="TERRITORIO">Castellón</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">12375</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">olga781@ucm.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 964 30 18 51</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 664 44 57 35</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1717078</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">042222625275</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Judio</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco Javier Medina Valero</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">149341987</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">22/10/2015</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Moratalaz</TAG>
+    Identif. vehículo: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">4048OND</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Hyundai Elantra</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSSZKLPKR9L987148</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">judío</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">http://example-research.net//32339937J</TAG>
+  </TEXT>
+</MEDDOCAN>

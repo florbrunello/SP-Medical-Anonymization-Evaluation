@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Teresa Serra Pacheco
+DNI: 60859781X
+Fecha de nacimiento: 31/05/1928
+Género: F
+Domicilio: Calle de Amor de Dios 15, 3M
+Ciudad: Orense, Cáceres, Extremadura
+Código postal: 10239
+Email: mariateresaserra1181@icloud.com
+Teléfono fijo: +34 927 45 02 12
+Teléfono móvil: +34 727 40 35 85
+NHC: 0842812
+NASS: 534616302825
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dr. Marcos Méndez Vega. NC 636500379. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/08/1942
+Episodio: 22566976
+Hospital: Hospital Universitario de Crúces
+
+Informe clínico del paciente:
+Paciente de tez blanca de 14 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-therapy.org//54663862S. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="María Teresa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="54" text="Serra Pacheco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="60859781X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="31/05/1928" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="111" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="151" text="Calle de Amor de Dios 15, 3M" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="166" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="175" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="188" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="10239" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="248" text="mariateresaserra1181@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="264" end="280" text="+34 927 45 02 12" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="297" end="313" text="+34 727 40 35 85" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="319" end="326" text="0842812" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="333" end="345" text="534616302825" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="367" end="375" text="Granjero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="410" end="428" text="Marcos Méndez Vega" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="433" end="442" text="636500379" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="444" end="484" text="Residente de 3° año en Gastroenterología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="486" end="579" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="581" end="610" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="612" end="617" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="619" end="625" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="627" end="633" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="653" end="663" text="03/08/1942" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="674" end="682" text="22566976" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="693" end="725" text="Hospital Universitario de Crúces" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="769" end="779" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="783" end="790" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="817" end="822" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="857" end="879" text="http://example-therapy" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

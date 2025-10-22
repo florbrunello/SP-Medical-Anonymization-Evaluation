@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Moisés Miguel Ramos
+DNI: 19530089F
+Fecha de nacimiento: 09/03/2025
+Género: Masculino
+Domicilio: Calle de las Huertas 49, 3F
+Ciudad: Albacete, Córdoba, Andalucía
+Código postal: 14927
+Email: moises_miguel_ramos@ual.es
+Teléfono fijo: +34 957 21 09 49
+FAX: +34 957 57 51 93
+NHC: 5181963
+NASS: 368744235301
+
+Datos asistenciales.
+Médico: Dra. María Lourdes Serra Arias. NC 912605371. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 89919605
+Centro de salud: Centro de Salud Málaga Norte
+
+Informe clínico del paciente:
+Paciente no fumador de 0 meses de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Moisés" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Miguel Ramos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="19530089F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="112" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="151" text="Calle de las Huertas 49, 3F" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="168" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="177" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="188" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="14927" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="243" text="moises_miguel_ramos@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 957 21 09 49" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 957 57 51 93" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="303" end="310" text="5181963" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="368744235301" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="589" end="599" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="610" end="618" text="89919605" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="636" end="664" text="Centro de Salud Málaga Norte" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="705" end="715" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="719" end="726" text="0 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="753" end="758" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

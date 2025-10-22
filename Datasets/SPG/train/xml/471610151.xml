@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Rosario Montero Pardo
+DNI: 77434661D
+Fecha de nacimiento: 20/04/1946
+Género: Femenino
+Domicilio: Calle del Carmen 90
+Ciudad: Las Palmas de Gran Canaria, Córdoba, Andalucía
+Código postal: 14927
+Email: mariarosario.monteropardo@ciberisciii.es
+Teléfono fijo: +34 957 60 47 79
+Teléfono móvil: +34 757 43 43 88
+NHC: 7295172
+NASS: 619713134177
+Condición de riesgo: Inspector de Seguridad Minera
+
+Datos asistenciales.
+Médico: Dra. Teresa Lorenzo Rueda. NC 813182012. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/02/2025
+Episodio: 88580299
+Hospital: Complejo Hospitalario Universitario de Lugo
+Matrícula del coche: 8386GOL
+Modelo: Chevrolet Silverado
+VIN: VSUW4T1MRYS042417
+
+Informe clínico del paciente:
+Paciente transeúnte de 78 años de edad, acompañado de su pareja. Se realizó un expediente con URL http://example-healthcare.net//80000839Q. Se registró una sesión de huella dactilar, el código obtenido para revisarla es DV672QWD470. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es FW223OBF813. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Rosario" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="55" text="Montero Pardo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="77434661D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="20/04/1946" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="119" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="131" end="150" text="Calle del Carmen 90" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="185" text="Las Palmas de Gran Canaria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="187" end="194" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="196" end="205" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="221" end="226" text="14927" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="234" end="274" text="mariarosario.monteropardo@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="290" end="306" text="+34 957 60 47 79" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="323" end="339" text="+34 757 43 43 88" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="345" end="352" text="7295172" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="359" end="371" text="619713134177" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="393" end="422" text="Inspector de Seguridad Minera" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="677" end="687" text="04/02/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="698" end="706" text="88580299" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="717" end="760" text="Complejo Hospitalario Universitario de Lugo" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="782" end="789" text="8386GOL" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="823" end="840" text="VSUW4T1MRYS042417" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="881" end="891" text="transeúnte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="895" end="902" text="78 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="929" end="935" text="pareja" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T25" start="970" end="995" text="http://example-healthcare" TYPE="URL_WEB" comment=""/>
+        <ID id="T26" start="1092" end="1103" text="DV672QWD470" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T27" start="1191" end="1202" text="FW223OBF813" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

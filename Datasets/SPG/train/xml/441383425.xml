@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Ángeles Alarcon Mora
+DNI: 16931452W
+Fecha de nacimiento: 07/01/2022
+Género: F
+Domicilio: Calle del Carmen 92
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52034
+Email: mariaangeles@gmail.com
+Teléfono fijo: +34 956 37 80 31
+FAX: +34 956 84 79 42
+NHC: 0968086
+NASS: 477276161848
+
+Datos asistenciales.
+Médico: Dra. Yolanda Suárez Mateos. NC 310874369. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/01/2022
+Episodio: 54449904
+Hospital: Hospital Universitario 12 de Octubre
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática del sudeste de 0 meses de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Ángeles" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="54" text="Alarcon Mora" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="16931452W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="07/01/2022" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="111" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="142" text="Calle del Carmen 92" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="175" text="Ciudad autónoma de Ceuta" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="177" end="183" text="Ceuta," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="200" end="205" text="52034" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="213" end="235" text="mariaangeles@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="251" end="267" text="+34 956 37 80 31" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="273" end="289" text="+34 956 84 79 42" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T13" start="295" end="302" text="0968086" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="309" end="321" text="477276161848" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T15" start="592" end="602" text="27/01/2022" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="613" end="621" text="54449904" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="632" end="668" text="Hospital Universitario 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="712" end="744" text="ascendencia asiática del sudeste" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="748" end="755" text="0 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="782" end="787" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

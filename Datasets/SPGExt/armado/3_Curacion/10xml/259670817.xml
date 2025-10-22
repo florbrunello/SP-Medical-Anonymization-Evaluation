@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Diego Gracia Galvez</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">45319613E</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">29/01/1931</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Princesa 64, 3O</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Majadahonda</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">17498</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">gracia@hotmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 31 11 20</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 772 42 96 44</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2843756</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paramédico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Andrea</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Hernández Bernal</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 923038326</TAG>. <TAG TYPE="PROFESION">Investigadora Clínica en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/04/1991</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">57440168</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Chamartín</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7499FWW</TAG>.
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Tesla Model 3</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSON2AWW9WL676128</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTRO_NUMERO_IDENTIF">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">60 años</TAG> de edad, acompañado de su madre.
+    Antecedentes:
+    El paciente presenta una historia de <TAG TYPE="OTRO_NUMERO_IDENTIF">hipertensión arterial</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">dislipidemia</TAG>, tratada con medicación oral. También tiene antecedentes de una <TAG TYPE="OTRO_NUMERO_IDENTIF">cirugía de hernia umbilical</TAG> realizada 10 años atrás.
+    Evolución y comentarios:
+    El paciente fue ingresado en la unidad de cuidados intensivos debido a una complicación de una <TAG TYPE="OTRO_NUMERO_IDENTIF">infección respiratoria</TAG>, que se desarrolló en el contexto de una <TAG TYPE="OTRO_NUMERO_IDENTIF">enfermedad pulmonar obstructiva crónica (EPOC)</TAG>. Durante su estancia en la unidad, el paciente presentó signos de <TAG TYPE="OTRO_NUMERO_IDENTIF">insuficiencia respiratoria aguda</TAG>, lo que requirió la implementación de un tratamiento de soporte ventilatorio.
+    Exploración física:
+    La exploración física revela signos de <TAG TYPE="OTRO_NUMERO_IDENTIF">insuficiencia respiratoria aguda</TAG>, con dificultad para respirar y ausencia de tos. El paciente también presenta signos de <TAG TYPE="OTRO_NUMERO_IDENTIF">deshidratación</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">debilidad muscular</TAG>.
+    Pruebas diagnósticas:
+    Se realizaron pruebas de laboratorio para evaluar la función renal y hepática del paciente, así como para detectar la presencia de infecciones. También se realizaron pruebas de imagen para evaluar la función pulmonar y la presencia de complicaciones.
+    Tratamiento:
+    El paciente recibió tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">antibióticos</TAG> y medicación para controlar la <TAG TYPE="OTRO_NUMERO_IDENTIF">hipertensión arterial</TAG> y la <TAG TYPE="OTRO_NUMERO_IDENTIF">dislipidemia</TAG>. También se le administró <TAG TYPE="OTRO_NUMERO_IDENTIF">oxígeno suplementario</TAG> y se implementó un tratamiento de soporte ventilatorio.
+    Pronóstico:
+    El pronóstico del paciente es <TAG TYPE="OTRO_NUMERO_IDENTIF">reservado</TAG> debido a la gravedad de la <TAG TYPE="OTRO_NUMERO_IDENTIF">enfermedad pulmonar obstructiva crónica</TAG> y la complicación de <TAG TYPE="OTRO_NUMERO_IDENTIF">insuficiencia respiratoria aguda</TAG>. Sin embargo, el paciente está recibiendo tratamiento y atención médica intensiva en la unidad de cuidados intensivos.
+    Remitido por:
+    El paciente fue remitido por el <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Juan Carlos</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García</TAG>, médico de cabecera del paciente.
+  </TEXT>
+</MEDDOCAN>

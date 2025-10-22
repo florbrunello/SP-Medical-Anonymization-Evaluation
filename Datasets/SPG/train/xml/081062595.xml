@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gema Andres Gil
+DNI: 88832445M
+Fecha de nacimiento: 12/10/1925
+Género: M
+Domicilio: Calle de Preciados 45
+Ciudad: Torrelodones, Madrid, Madrid
+Código postal: 28169
+Email: gemagil1591@uhu.es
+Teléfono fijo: +34 913 04 08 16
+Teléfono móvil: +34 614 08 16 30
+NHC: 9286919
+NASS: 561069424116
+Condición de riesgo: Operador de Equipos Mineros
+
+Datos asistenciales.
+Médico: Dr. Ángel Ramírez Simon. NC 674684015. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 28/08/1966
+Episodio: 59907957
+Centro de salud: Centro de Salud Alcorcón
+
+Informe clínico del paciente:
+Paciente musulman de 40 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Gema" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="43" text="Andres Gil" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="49" end="58" text="88832445M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="80" end="90" text="12/10/1925" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="99" end="100" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="112" end="133" text="Calle de Preciados 45" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="142" end="154" text="Torrelodones" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="162" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="170" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="186" end="191" text="28169" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="199" end="217" text="gemagil1591@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="233" end="249" text="+34 913 04 08 16" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="266" end="282" text="+34 614 08 16 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="288" end="295" text="9286919" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="302" end="314" text="561069424116" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="336" end="363" text="Operador de Equipos Mineros" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="398" end="417" text="Ángel Ramírez Simon" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="422" end="431" text="674684015" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="433" end="471" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="473" end="540" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="542" end="569" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="571" end="576" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="578" end="585" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="587" end="593" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="613" end="623" text="28/08/1966" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="634" end="642" text="59907957" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="660" end="684" text="Centro de Salud Alcorcón" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="725" end="733" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="737" end="744" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Carlos Montero Simon
+DNI: 30733127K
+Fecha de nacimiento: 21/07/1930
+Género: H
+Domicilio: Calle de Zurbano 18
+Ciudad: Burgos, Barcelona, Cataluña
+Código postal: 08865
+Email: carlosmontero-simon@ucm.es
+Teléfono fijo: +34 935 63 66 06
+Teléfono móvil: +34 637 50 85 77
+NHC: 9888608
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dr. Antonio Beltran Moreno. NC 750548784. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 20/12/1949
+Centro de salud: Centro de Salud Boadilla del Monte
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática del sudeste de 19 años de edad. Se registró una sesión de huella dactilar, el código obtenido para revisarla es XW561PHW980. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Carlos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Montero Simon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="30733127K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="21/07/1930" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="136" text="Calle de Zurbano 18" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="151" text="Burgos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="162" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="172" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="188" end="193" text="08865" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="201" end="227" text="carlosmontero-simon@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="243" end="259" text="+34 935 63 66 06" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="276" end="292" text="+34 637 50 85 77" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="298" end="305" text="9888608" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="327" end="345" text="Ingeniero de Minas" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="380" end="402" text="Antonio Beltran Moreno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="407" end="416" text="750548784" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="418" end="456" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="458" end="525" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="527" end="554" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="556" end="561" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="563" end="570" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="572" end="578" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="598" end="608" text="20/12/1949" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="626" end="660" text="Centro de Salud Boadilla del Monte" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="704" end="736" text="ascendencia asiática del sudeste" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="740" end="747" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T28" start="837" end="848" text="XW561PHW980" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

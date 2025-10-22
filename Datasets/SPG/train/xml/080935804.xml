@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Christian Moreno Domínguez
+DNI: 90334302P
+Fecha de nacimiento: 07/04/1999
+Género: M
+Domicilio: Calle de Hortaleza 38
+Ciudad: Santa Cruz de Tenerife, Ávila, Castilla y León
+Código postal: 05493
+Email: christianmoreno_dominguez@udc.es
+Teléfono fijo: +34 920 78 34 54
+Teléfono móvil: +34 720 62 73 33
+NHC: 3842147
+NASS: 782004284226
+
+Datos asistenciales.
+Médico: Dra. Catalina Crespo Márquez. NC 686111100. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 03/08/2023
+Episodio: 11111546
+Hospital: Hospital Universitario Marqués de Valdecilla
+
+Informe clínico del paciente:
+Paciente de tez blanca de 24 años de edad, acompañado de su sobrina. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Christian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="54" text="Moreno Domínguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="90334302P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="07/04/1999" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="111" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="144" text="Calle de Hortaleza 38" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="175" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="177" end="182" text="Ávila" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="184" end="199" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="215" end="220" text="05493" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="228" end="260" text="christianmoreno_dominguez@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="276" end="292" text="+34 920 78 34 54" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="309" end="325" text="+34 720 62 73 33" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="331" end="338" text="3842147" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="345" end="357" text="782004284226" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="605" end="615" text="03/08/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="626" end="634" text="11111546" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="645" end="689" text="Hospital Universitario Marqués de Valdecilla" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="733" end="743" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="747" end="754" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="781" end="788" text="sobrina" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

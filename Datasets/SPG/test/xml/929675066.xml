@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Olga Acosta Mateo
+DNI: 25635367G
+Fecha de nacimiento: 25/04/1965
+Género: Mujer
+Domicilio: Calle del Doctor Piga 28, 9U
+Ciudad: Móstoles, Guipúzcoa, Pais Vasco
+Código postal: 20159
+Email: acosta@outlook.com
+Teléfono fijo: +34 943 40 11 43
+Teléfono móvil: +34 643 80 40 56
+NHC: 8685641
+NASS: 489331876388
+
+Datos asistenciales.
+Médico: Dra. Sandra Roldan Soto. NC 456213878. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/06/1999
+Episodio: 04412775
+Hospital: Hospital GaldaKao - Usansolo
+
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 34 años de edad, acompañado de su compañero de estudio. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Olga" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="45" text="Acosta Mateo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="25635367G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="25/04/1965" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="106" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="146" text="Calle del Doctor Piga 28, 9U" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="163" text="Móstoles" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="174" text="Guipúzcoa" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="186" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="20159" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="233" text="acosta@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 943 40 11 43" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 643 80 40 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="304" end="311" text="8685641" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="318" end="330" text="489331876388" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="600" end="610" text="03/06/1999" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="621" end="629" text="04412775" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="640" end="668" text="Hospital GaldaKao - Usansolo" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="712" end="742" text="ascendencia africana del norte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="746" end="753" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="780" end="789" text="compañero" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

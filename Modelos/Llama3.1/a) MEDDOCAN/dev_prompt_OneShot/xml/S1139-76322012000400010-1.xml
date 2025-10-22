@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sergio</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jurado Nuñez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2141203</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Serrano 61, 4D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28006</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/08/2004</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">14/10/2017</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Pediatría</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Vicente</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">López</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pérez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 57812</TAG>.
+    Informe clínico del paciente: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> sin antecedentes de interés, que, tras una patada contra resistencia jugando al fútbol, sufrió dolor e impotencia funcional en la ingle y el muslo derecho. El paciente presentaba buen estado general, sin fiebre, y no refería haber padecido enfermedades infecciosas en los días previos. No presentaba alteraciones rotacionales ni acortamiento de las extremidades, refería dolor que aumentaba con la palpación local de la EIAI, la cadera se encuentra libre a la movilización pasiva, pero los movimientos activos están limitados por dolor.
+    Se realizó una radiografía anteroposterior de la pelvis y axial de la cadera derecha, en las que se objetivó una fractura-avulsión de la EIAI. Se indicó reposo articular, carga parcial con muletas y analgesia con ibuprofeno 400 mg cada ocho horas por vía oral. A las tres semanas se citó para control ecográfico que evidenció una correcta evolución de la lesión. Tras la realización de fisioterapia, a los dos meses se reincorporó paulatinamente a la actividad deportiva, dándose de alta a los tres meses de la lesión inicial.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Vicente</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">López</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pérez</TAG> <TAG TYPE="CORREO_ELECTRONICO">vxlopez@yahoo.com</TAG> <TAG TYPE="HOSPITAL">Servicio de pediatría del Hospital Universitario de La Princesa</TAG> <TAG TYPE="CALLE">Calle de Diego de León, 62</TAG> <TAG TYPE="TERRITORIO">28006</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG> <TAG TYPE="NUMERO_TELEFONO">915 20 22 00</TAG>
+  </TEXT>
+</MEDDOCAN>

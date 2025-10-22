@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Nicolás Galan Rivera
+DNI: 97555800N
+Fecha de nacimiento: 30/04/2000
+Género: Varón
+Domicilio: Calle de Ferraz 44
+Ciudad: Yecla, Palencia, Castilla y León
+Código postal: 34673
+Email: 29pFpI991418@yahoo.com
+Teléfono fijo: +34 979 68 66 41
+Teléfono móvil: +34 779 45 71 69
+NHC: 4140169
+NASS: 534908467763
+
+Datos asistenciales.
+Médico: Dra. Lourdes Guillen Montero. NC 408364027. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/09/2003
+Episodio: 01728100
+Centro de salud: Centro de Salud Sevilla Sur
+Matrícula del coche: 7716JEJ
+Modelo: Honda Civic
+VIN: VSR0ZT8DRMZ124918
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena centroamericana de 3 años de edad, acompañado de su hermano. Se realizó un expediente con URL http://example-cardiology.com//25966586E. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Nicolás" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Galan Rivera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="97555800N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="30/04/2000" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="139" text="Calle de Ferraz 44" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="153" text="Yecla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="163" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="180" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="34673" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="231" text="29pFpI991418@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 979 68 66 41" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 779 45 71 69" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="4140169" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="316" end="328" text="534908467763" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="604" end="614" text="17/09/2003" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="625" end="633" text="01728100" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="651" end="678" text="Centro de Salud Sevilla Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="700" end="707" text="7716JEJ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="733" end="750" text="VSR0ZT8DRMZ124918" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="794" end="830" text="ascendencia indígena centroamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="834" end="840" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="867" end="874" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="909" end="934" text="http://example-cardiology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

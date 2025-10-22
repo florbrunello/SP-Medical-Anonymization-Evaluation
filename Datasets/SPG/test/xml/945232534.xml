@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Luisa Navarro Rivas
+DNI: 24391338E
+Fecha de nacimiento: 07/06/1967
+Género: Femenino
+Domicilio: Calle de Villalar 16
+Ciudad: Teruel, Lérida, Cataluña
+Código postal: 25130
+Email: navarro_rivas510@ub.edu
+Teléfono fijo: +34 973 56 08 00
+Teléfono móvil: +34 673 26 24 39
+NHC: 9164877
+NASS: 375871867500
+Condición de riesgo: Trabajador Agrícola
+
+Datos asistenciales.
+Médico: Dra. María Rosario Vázquez Paredes. NC 170773224. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/05/2013
+Episodio: 82560013
+Hospital: Hospital Regional Universitario de Málaga
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 45 años de edad, acompañado de su prima. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.43.207, con dirección MAC 86:88:59:20:0F:6B. Se registró una sesión de firma biométrica, el código obtenido para revisarla es FL482KDV547. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="María Luisa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="53" text="Navarro Rivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="24391338E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="07/06/1967" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="117" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="129" end="149" text="Calle de Villalar 16" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="164" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="172" text="Lérida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="182" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="25130" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="234" text="navarro_rivas510@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 973 56 08 00" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 673 26 24 39" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="9164877" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="375871867500" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="353" end="372" text="Trabajador Agrícola" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="670" end="680" text="19/05/2013" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="691" end="699" text="82560013" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="710" end="751" text="Hospital Regional Universitario de Málaga" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="795" end="819" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="823" end="830" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="857" end="862" text="prima" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="970" end="987" text="86:88:59:20:0F:6B" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <ID id="T24" start="1070" end="1081" text="FL482KDV547" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

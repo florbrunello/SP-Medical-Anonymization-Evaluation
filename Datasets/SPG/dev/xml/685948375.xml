@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Antonio Prieto Mateos
+DNI: 67653152D
+Fecha de nacimiento: 16/12/1976
+Género: H
+Domicilio: Calle de la Paz 43
+Ciudad: Puertollano, Málaga, Andalucía
+Código postal: 29182
+Email: joseantonioprieto@yahoo.com
+Teléfono fijo: +34 951 46 95 54
+Teléfono móvil: +34 751 86 60 50
+NHC: 4272810
+Condición de riesgo: Conserje
+
+Datos asistenciales.
+Médico: Dr. Ángel Herrero Medina. NC 106091407. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 24/06/2024
+Hospital: Hospital Universitario Río Hortega
+Matrícula del coche: 0827GXO
+Modelo: Subaru Outback
+VIN: VSQBW1CS87U297367
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 47 años de edad. Se registró una sesión de firma biométrica, el código obtenido para revisarla es RI853JJV456. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es LY850BKV362. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="José Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="54" text="Prieto Mateos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="67653152D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="16/12/1976" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="111" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="141" text="Calle de la Paz 43" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="161" text="Puertollano" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="169" text="Málaga" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="180" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="29182" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="236" text="joseantonioprieto@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 951 46 95 54" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="285" end="301" text="+34 751 86 60 50" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="307" end="314" text="4272810" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="336" end="344" text="Conserje" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="379" end="399" text="Ángel Herrero Medina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="404" end="413" text="106091407" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="415" end="458" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="460" end="518" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="520" end="544" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="546" end="551" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="553" end="563" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="565" end="571" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="591" end="601" text="24/06/2024" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="612" end="646" text="Hospital Universitario Río Hortega" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="668" end="675" text="0827GXO" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="704" end="721" text="VSQBW1CS87U297367" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="765" end="791" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="795" end="802" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="893" end="904" text="RI853JJV456" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T31" start="987" end="998" text="LY850BKV362" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

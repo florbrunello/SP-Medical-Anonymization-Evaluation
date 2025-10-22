@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Adolfo Aguilera Suárez
+DNI: 22300356Q
+Fecha de nacimiento: 11/06/1994
+Género: V
+Domicilio: Calle del Fúcar 4
+Ciudad: Vitoria, Badajoz, Extremadura
+Código postal: 06302
+Email: adolfo-aguilerasuarez@aol.com
+Teléfono fijo: +34 924 56 37 30
+Teléfono móvil: +34 724 87 92 86
+NHC: 4261420
+Condición de riesgo: Trabajador de Minería
+
+Datos asistenciales.
+Médico: Dr. Cristian Vidal Maldonado. NC 223762585. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 29/11/2012
+Episodio: 47393215
+Centro de salud: Centro de Salud San Blas
+
+Informe clínico del paciente:
+Paciente transeúnte de 18 años de edad, acompañado de su suegra. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Adolfo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Aguilera Suárez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="22300356Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="11/06/1994" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="136" text="Calle del Fúcar 4" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="152" text="Vitoria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="154" end="161" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="163" end="174" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="06302" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="232" text="adolfo-aguilerasuarez@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 924 56 37 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 724 87 92 86" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="4261420" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="332" end="353" text="Trabajador de Minería" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="388" end="412" text="Cristian Vidal Maldonado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="417" end="426" text="223762585" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="428" end="462" text="Residente de 4° año en Cardiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="464" end="550" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="552" end="581" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="583" end="588" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="590" end="596" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="598" end="604" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="624" end="634" text="29/11/2012" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="645" end="653" text="47393215" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="671" end="695" text="Centro de Salud San Blas" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="736" end="746" text="transeúnte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="750" end="757" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="784" end="790" text="suegra" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

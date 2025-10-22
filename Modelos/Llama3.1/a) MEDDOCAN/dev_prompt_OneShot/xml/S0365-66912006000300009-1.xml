@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iván</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Nuñez Ruenes</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8347852</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">28 95634756 04</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Avda. Los Vientos, 44</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Reocín</TAG>.
+    CP: <TAG TYPE="TERRITORIO">39539</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">12/02/1978</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">04/08/2015</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Noemí</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ruiz del Río</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">39 39 54710</TAG>.
+    Informe clínico del paciente: Paciente varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> de edad en tratamiento psiquiátrico por trastorno psicótico, esquizofrenia paranoide, que consulta por disminución de agudeza visual. A través de la anamnesis se desvela que en el contexto de un episodio de delirio de interpretación no sistematizado, esto es, leyendo un libro de iridología, el paciente interpretó que con la luz del sol podría cambiar el color del iris de sus ojos, lo cual no constaba en el texto. El paciente se lesionó ambos ojos concentrando los rayos solares con ayuda de una lupa durante varias sesiones consecutivas buscando un fin estético. Asimismo se autoinduce unas quemaduras de segundo y tercer grado en la piel de la cara y los brazos para hacer desaparecer unos supuestos quistes.
+    Como consecuencia, las lesiones que presenta en los ojos son las siguientes: atrofia masiva de iris con destrucción de la función de esfínter, maculopatía solar, con abundante líquido subretiniano en el área macular y atrofia coriorretiniana periférica con depósito de pigmento, lo que equivale a lesiones fotocoagulativas. En un período de ocho semanas se resolvieron espontáneamente las lesiones maculares, aunque la pérdida de agudeza visual ha sido permanente. La agudeza visual era <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0,5</TAG> en el ojo derecho y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0,6</TAG> en el ojo izquierdo. Tanto las lesiones del iris como de la retina periférica se han mantenido estables.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Noemí</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ruiz del Río</TAG> <TAG TYPE="CALLE">C/. La Dreda 167 Villapresente.</TAG> <TAG TYPE="TERRITORIO">Reocín</TAG> <TAG TYPE="TERRITORIO">39539</TAG> <TAG TYPE="TERRITORIO">Cantabria</TAG> <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">noeruizdelrio@yahoo.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

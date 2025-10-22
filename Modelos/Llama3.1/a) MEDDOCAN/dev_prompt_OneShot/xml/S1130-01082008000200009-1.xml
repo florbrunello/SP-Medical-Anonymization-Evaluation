@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Natali Valeria</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vado Fajardo</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0356735/02</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Primitivo de la Reta 989</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Mendoza</TAG>.
+    CP: <TAG TYPE="TERRITORIO">5500</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/06/1991</TAG>.
+    País: <TAG TYPE="PAIS">Argentina</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">26 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">13/09/2017</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Arturo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jorge</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Malaspin</TAG>.
+    Caso clínico: Paciente mujer, edad <TAG TYPE="EDAD_SUJETO_ASISTENCIA">26 años</TAG>, diagnosticada de enfermedad celiaca con anticuerpos antitransglutaminasa <TAG TYPE="OTRO_NUMERO_IDENTIF">73 U</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">valor normal hasta 10</TAG>) y biopsia duodenal con enteropatía con atrofia vellocitaria severa (<TAG TYPE="OTRO_NUMERO_IDENTIF">grado III</TAG>). Presentó buena evolución con dieta libre de gluten, desapareciendo diarrea y mejorando estado nutricional. Seis meses después la paciente queda embarazada, presentando muerte fetal a las <TAG TYPE="FECHAS">36 semanas</TAG>. Al año siguiente presenta nuevo embarazo. Se determinan anticuerpos anticardiolipina <TAG TYPE="OTRO_NUMERO_IDENTIF">IgG</TAG>: <TAG TYPE="OTRO_NUMERO_IDENTIF">20 GPL U/ml</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">v.n. < 11</TAG>) y anticardiolipina <TAG TYPE="OTRO_NUMERO_IDENTIF">IgM</TAG>: <TAG TYPE="OTRO_NUMERO_IDENTIF">9 MPL U/ml</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">v.n. < 10</TAG>). El estudio hematológico no evidenció otras alteraciones protrombóticas. Se la medica con ácido acetilsalicílico a dosis de <TAG TYPE="OTRO_NUMERO_IDENTIF">200 mg/día</TAG> presentando embarazo y nacimiento por cesárea normales.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Arturo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jorge</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Malaspin</TAG> <TAG TYPE="CALLE">C/ Videla Castillo, 1996.</TAG> <TAG TYPE="TERRITORIO">5500</TAG> <TAG TYPE="TERRITORIO">Mendoza</TAG>, <TAG TYPE="PAIS">Argentina</TAG>. e-mail: <TAG TYPE="CORREO_ELECTRONICO">arturo.jorge@speedy.com.ar</TAG>.
+  </TEXT>
+</MEDDOCAN>

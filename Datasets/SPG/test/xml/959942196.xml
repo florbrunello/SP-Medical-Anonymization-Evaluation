@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Pedro Parra Marín
+DNI: 87485775P
+Fecha de nacimiento: 07/01/1943
+Género: M
+Domicilio: Calle de Claudio Coello 64
+Ciudad: Gijón, La Coruña, Galicia
+Código postal: 15744
+Email: juanpedro125@ciberer.es
+Teléfono fijo: +34 981 26 33 21
+Teléfono móvil: +34 781 91 58 24
+NHC: 2549648
+NASS: 172649836218
+Condición de riesgo: Técnico de Laboratorio
+
+Datos asistenciales.
+Médico: Dra. María Cristina Fernández Cruz. NC 180885630. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/09/1969
+Episodio: 90863110
+Hospital: Hospital Universitari i Politècnic La Fe
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 26 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-healthcare.net//47266656Q. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Juan Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="50" text="Parra Marín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="87485775P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="07/01/1943" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="145" text="Calle de Claudio Coello 64" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="159" text="Gijón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="170" text="La Coruña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="179" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="15744" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="231" text="juanpedro125@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 981 26 33 21" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 781 91 58 24" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="2549648" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="316" end="328" text="172649836218" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="350" end="372" text="Técnico de Laboratorio" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="651" end="661" text="11/09/1969" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="672" end="680" text="90863110" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="691" end="731" text="Hospital Universitari i Politècnic La Fe" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="775" end="801" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="805" end="812" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="839" end="844" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="879" end="904" text="http://example-healthcare" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

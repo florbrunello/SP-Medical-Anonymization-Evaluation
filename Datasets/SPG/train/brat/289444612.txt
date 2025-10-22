@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: María Inmaculada Vargas Arias
+DNI: 38064132Y
+Fecha de nacimiento: 10/06/2008
+Género: F
+Domicilio: Calle de Toledo 80
+Ciudad: Pamplona, Guipúzcoa, Pais Vasco
+Código postal: 20859
+Email: mariainmaculada@gmail.com
+Teléfono fijo: +34 943 67 91 87
+Teléfono móvil: +34 643 83 25 10
+NHC: 7513039
+NASS: 835070699718
+
+Datos asistenciales.
+Médico: Dra. Montserrat Rubio Moreno. NC 208881564. Endocrinóloga Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 13/01/2016
+Episodio: 99790007
+Hospital: Hospital Universitario Virgen del Rocío
+Matrícula del coche: 3818TAJ
+Modelo: Honda Civic
+VIN: VSX1JSG0HSD141470
+
+Informe clínico del paciente:
+Paciente de tez blanca de 7 años de edad, acompañado de su hermana. El servidor para envío de información desde cual el usuario se comunica es smtp://example-biotech.com. 

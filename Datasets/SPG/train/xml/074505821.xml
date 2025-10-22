@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Concepción Manzano Iglesias
+DNI: 82137786W
+Fecha de nacimiento: 21/03/1988
+Género: Femenino
+Domicilio: Calle de San Ildefonso 59
+Ciudad: Salamanca, Ibiza, Islas Baleares
+Código postal: 07182
+Email: concepcion_iglesias@h12o.es
+Teléfono fijo: +34 971 78 00 31
+Teléfono móvil: +34 671 98 03 03
+NHC: 1457357
+Condición de riesgo: Guardia de Seguridad
+
+Datos asistenciales.
+Médico: Dra. Lourdes Franco Rivera. NC 773478692. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/02/2000
+Episodio: 59678016
+Hospital: Hospital Universitari i Politècnic La Fe
+Matrícula del coche: 9456HPR
+Modelo: Mazda CX-5
+VIN: VSCHWE6QN6M984881
+
+Informe clínico del paciente:
+Paciente musulman de 11 años de edad, acompañado de su madre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-hospital.org. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es BK746FVF583. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Concepción" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="55" text="Manzano Iglesias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="82137786W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="21/03/1988" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="119" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="131" end="156" text="Calle de San Ildefonso 59" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="165" end="174" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="176" end="181" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="183" end="197" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="07182" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="253" text="concepcion_iglesias@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="269" end="285" text="+34 971 78 00 31" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="302" end="318" text="+34 671 98 03 03" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="324" end="331" text="1457357" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="353" end="373" text="Guardia de Seguridad" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="663" end="673" text="28/02/2000" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="684" end="692" text="59678016" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="703" end="743" text="Hospital Universitari i Politècnic La Fe" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="765" end="772" text="9456HPR" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="797" end="814" text="VSCHWE6QN6M984881" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="855" end="863" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="867" end="874" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="901" end="906" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="983" end="1006" text="smtp://example-hospital" TYPE="URL_WEB" comment=""/>
+        <ID id="T25" start="1098" end="1109" text="BK746FVF583" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

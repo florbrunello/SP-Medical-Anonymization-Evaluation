@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carrillo Soto</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">77601330C</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/10/2005</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Engracia 15, 5C</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Cáceres</TAG>, <TAG TYPE="TERRITORIO">Cantabria</TAG>, <TAG TYPE="TERRITORIO">Cantabria</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">39829</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">maria@salud.madrid.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 942 17 84 95</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 642 79 49 69</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4549694</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">848643075395</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Médico</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ángel Galan Guerra</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">790300883</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neurólogo Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">04/05/2011</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic San Carlos</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">4665ZZB</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Subaru Outback</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSQS1BLHH3E502468</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia indígena centroamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermano</TAG>.
+  </TEXT>
+</MEDDOCAN>

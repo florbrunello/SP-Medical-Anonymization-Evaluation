@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Ángela Pereira Gutiérrez
+DNI: 47098762Y
+Fecha de nacimiento: 31/08/1980
+Género: F
+Domicilio: Calle de Villalar 7
+Ciudad: Gijón, Zamora, Castilla y León
+Código postal: 49468
+Email: gutierrez@ioba.med.uva.es
+Teléfono fijo: +34 980 54 91 70
+Teléfono móvil: +34 780 51 24 84
+NHC: 8276643
+Condición de riesgo: Trabajador de Línea de Producción
+
+Datos asistenciales.
+Médico: Dr. José Javier Luque Jiménez. NC 770616167. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 29/09/1994
+Episodio: 93526958
+Centro de salud: Centro de Salud Sevilla Este
+Matrícula del coche: 2652OME
+Modelo: Ford Mustang
+VIN: VSOJFSJME8H419522
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 14 años de edad, acompañado de su tía. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.144.50, con dirección MAC 79:31:82:57:26:87. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es TH262XMH799. 

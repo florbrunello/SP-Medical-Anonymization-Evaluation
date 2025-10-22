@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Guillermo</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Piña Barba</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4756758</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">74 35670165 14</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Telémaco, 4, 2 D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Sevilla</TAG>.
+    CP: <TAG TYPE="TERRITORIO">41089</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/09/1950</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">60 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/07/2011</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Angel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Moreno Vega</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">41 41 87441</TAG>.
+    Informe clínico del paciente: Paciente varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">60 años</TAG> de edad, fumador, enolismo severo, que presenta como antecedentes patológicos hipertensión arterial y episodio de pancreatitis aguda enólica en noviembre del 2003, en cuyo ingreso se realizó <TAG TYPE="PROFESION">TC abdominal</TAG> que objetivó inflamación pancreática difusa con exudados, así como la presencia de dos tumoraciones en valva anterior de riñón izquierdo, una de ellas de características tomodensitométricas que sugerían un quiste hemorrágico o con alto contenido proteico, sin poder descartar una tumoración sólida.
+    Tras la recuperación del cuadro inflamatorio agudo se comentó el caso con nosotros, y continuamos el estudio de dicha tumoración mediante la realización de nuevo <TAG TYPE="PROFESION">TC abdominal</TAG> de control en febrero 2004, observando la persistencia de ambas lesiones renales. Dadas las características radiológicas de la tumoración indicamos la intervención quirúrgica. El día 29 de marzo del 2004 realizamos <TAG TYPE="PROFESION">tumorectomía renal izquierda</TAG> vía <TAG TYPE="PROFESION">lumbotomía</TAG>.
+    El resultado de anatomía patológica de la pieza resultó ser <TAG TYPE="OTROS_SUJETO_ASISTENCIA">granuloma esteatonecrótico</TAG> con abundante <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pigmento férrico</TAG>, característico de las <TAG TYPE="OTROS_SUJETO_ASISTENCIA">necrosis grasas secundarias a pancreatitis</TAG>.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Angel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Moreno Vega</TAG>.  <TAG TYPE="CALLE">Pasaje Petunia, 6</TAG> E-<TAG TYPE="TERRITORIO">41089</TAG> <TAG TYPE="TERRITORIO">Sevilla</TAG> <TAG TYPE="CORREO_ELECTRONICO">bertsand@terra.es</TAG>; <TAG TYPE="CORREO_ELECTRONICO">oncojerez@saludalia.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

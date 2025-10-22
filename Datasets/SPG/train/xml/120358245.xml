@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Isabel Marti Guerra
+DNI: 24554553Y
+Fecha de nacimiento: 22/04/1994
+Género: Femenino
+Domicilio: Calle de la Montera 33, 9W
+Ciudad: Jaca, Valencia, Comunidad Valenciana
+Código postal: 46658
+Email: marti_guerra@outlook.com
+Teléfono fijo: +34 960 54 19 13
+FAX: +34 960 84 77 59
+NHC: 1979163
+
+Datos asistenciales.
+Médico: Dr. Christian Manzano Alonso. NC 404955459. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 17/12/2022
+Hospital: Complejo Hospitalario Torrecárdenas
+Matrícula del coche: 9725CBQ
+Modelo: Honda CR-V
+VIN: VSSWXO0KOPS137785
+
+Informe clínico del paciente:
+Paciente de tez blanca de 28 años de edad, acompañado de su hijo. El servidor para envío de información desde cual el usuario se comunica es smtp://example-biotech.com. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="María Isabel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="53" text="Marti Guerra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="24554553Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="22/04/1994" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="117" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="129" end="155" text="Calle de la Montera 33, 9W" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="164" end="168" text="Jaca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="178" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="180" end="200" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="216" end="221" text="46658" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="229" end="253" text="marti_guerra@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="269" end="285" text="+34 960 54 19 13" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="291" end="307" text="+34 960 84 77 59" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="313" end="320" text="1979163" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="355" end="379" text="Christian Manzano Alonso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="384" end="393" text="404955459" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="395" end="430" text="Residente de 3° año en Oftalmología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="432" end="490" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="492" end="516" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="518" end="523" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="525" end="535" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="537" end="543" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="563" end="573" text="17/12/2022" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T24" start="584" end="619" text="Complejo Hospitalario Torrecárdenas" TYPE="HOSPITAL" comment=""/>
+        <ID id="T25" start="641" end="648" text="9725CBQ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T26" start="673" end="690" text="VSSWXO0KOPS137785" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T27" start="734" end="744" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="748" end="755" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="782" end="786" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="863" end="885" text="smtp://example-biotech" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

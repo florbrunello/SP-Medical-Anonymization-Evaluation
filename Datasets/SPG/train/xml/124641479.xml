@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Verónica Varela Izquierdo
+DNI: 82475600S
+Fecha de nacimiento: 07/05/1979
+Género: F
+Domicilio: Calle de Goya 94, 4Z
+Ciudad: Écija, Ávila, Castilla y León
+Código postal: 05352
+Email: veronica_varelaizquierdo@ual.es
+Teléfono fijo: +34 920 89 96 22
+FAX: +34 920 95 46 10
+NHC: 5930639
+NASS: 557282875500
+Condición de riesgo: Albañil
+
+Datos asistenciales.
+Médico: Dr. Jesús María Castro Sáez. NC 922032939. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/06/1989
+Episodio: 98881153
+Hospital: Hospital Clínic Barcelona
+
+Informe clínico del paciente:
+Paciente de ascendencia australiana de 10 años de edad, acompañado de su tía. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Verónica" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="53" text="Varela Izquierdo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="82475600S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="07/05/1979" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="142" text="Calle de Goya 94, 4Z" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="156" text="Écija" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="163" text="Ávila" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="180" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="05352" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="240" text="veronica_varelaizquierdo@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 920 89 96 22" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 920 95 46 10" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="300" end="307" text="5930639" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="314" end="326" text="557282875500" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="348" end="355" text="Albañil" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="390" end="413" text="Jesús María Castro Sáez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="418" end="427" text="922032939" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="429" end="469" text="Residente de 3° año en Gastroenterología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="471" end="564" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="566" end="595" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="597" end="602" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="604" end="610" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="612" end="618" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="638" end="648" text="26/06/1989" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="659" end="667" text="98881153" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="678" end="703" text="Hospital Clínic Barcelona" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="747" end="770" text="ascendencia australiana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="774" end="781" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="808" end="811" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

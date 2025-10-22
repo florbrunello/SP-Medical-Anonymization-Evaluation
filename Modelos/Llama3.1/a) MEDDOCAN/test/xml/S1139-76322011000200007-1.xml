@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Estefania</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Salgado Ibarra</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2389563</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Del Cid Campeador, 66, 4B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28041</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/09/2002</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">15/12/2015</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Maria</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">del Carmen</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cubero Sobrados</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 65002</TAG>.
+    Informe clínico del paciente: Joven de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> que acude al centro de salud acompañada de su madre, quien solicita que se le aplique la vacuna antituberculosa. Proyecta un viaje de estudios a <TAG TYPE="PAIS">Estados Unidos</TAG> y refieren que es uno de los requisitos para poder acceder a la educación en ciertos centros de ese país. Se le informa de la no disponibilidad de la vacuna en el centro de salud, ya que no es una vacunación presente en el calendario vigente de inmunizaciones de la Comunidad de Madrid, así como de la posibilidad de asistir al Centro de Vacunación Internacional. No obstante, la madre refiere que, por su profesión, tiene acceso a dicha vacuna y solicita tan solo que le sea aplicada en el centro, aportando dicha vacuna la propia familia.
+    Tras la administración de la vacuna y al quejarse la niña de dolor en el lugar de la inyección, acompañado de sensación de mareo, se procede a atenderla según el protocolo de actuación. Revisando el cartonaje del envase de la vacuna se constata que el vial de <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">2 ml</TAG> que se ha inoculado no es <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">monodosis</TAG>, forma de presentación habitual de las vacunas, sino que contenía <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">20 dosis</TAG>, que se inocularon vía intramuscular, dado el volumen de la presentación (<TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">0,1 ml</TAG>, inyectados por vía subcutánea).
+    Tras comprobar que el estado de la niña es bueno y que presenta constantes vitales normales, se informa a la familia del error cometido y se procede a informar a las autoridades sanitarias pertinentes. Para recabar la mayor información posible sobre la vacuna, nos ponemos en contacto con el <TAG TYPE="INSTITUCION">Instituto de Toxicología</TAG> y el <TAG TYPE="PROFESION">Servicio de Medicina Preventiva</TAG> del <TAG TYPE="HOSPITAL">Hospital Universitario 12 Octubre, Dirección Gerencia del Área de Referencia</TAG>, así como con el <TAG TYPE="PROFESION">Servicio de Infecciosas</TAG> del mismo <TAG TYPE="HOSPITAL">hospital</TAG> y con el <TAG TYPE="INSTITUCION">laboratorio fabricante</TAG> (<TAG TYPE="INSTITUCION">Pharmacia Spain</TAG>) y el <TAG TYPE="CENTRO_SALUD">Centro de Vacunación Internacional</TAG>.
+    Se hizo seguimiento clínico a la niña en el <TAG TYPE="PROFESION">Servicio de Enfermedades Infecciosas</TAG> del <TAG TYPE="HOSPITAL">Hospital Universitario 12 de Octubre</TAG> durante seis meses, realizándose estudios analíticos con pruebas de inmunidad, siendo todas las pruebas normales tanto al inicio del evento como en su evolución. No desarrolló ni en el periodo inmediato ni durante el tiempo de seguimiento ningún tipo de reacción en el lugar de la inyección, por lo que fue dada de alta sin haber presentado incidencia alguna. No recibió ningún tratamiento antituberculoso durante su seguimiento.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Maria</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">del Carmen</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cubero Sobrados</TAG> <TAG TYPE="CORREO_ELECTRONICO">kr_qb@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

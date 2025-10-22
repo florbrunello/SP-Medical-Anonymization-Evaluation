@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Omar Redondo López
+DNI: 59101862G
+Fecha de nacimiento: 24/08/1953
+Género: V
+Domicilio: Calle de Recoletos 85, 1W
+Ciudad: Ontinyent, Cantabria, Cantabria
+Código postal: 39186
+Email: omar@ual.es
+Teléfono fijo: +34 942 71 15 48
+Teléfono móvil: +34 742 59 31 72
+NHC: 2447895
+NASS: 827897174431
+Condición de riesgo: Fabricante
+
+Datos asistenciales.
+Médico: Dr. Christian Pérez Lozano. NC 711557722. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 31/08/2015
+Episodio: 75739897
+Centro de salud: Centro de Salud Aluche
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 62 años de edad. Se realizó un expediente con URL http://example-healthcare.net//63326176N. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Omar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="46" text="Redondo López" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="59101862G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="24/08/1953" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="140" text="Calle de Recoletos 85, 1W" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="158" text="Ontinyent" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="169" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="180" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="39186" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="220" text="omar@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="236" end="252" text="+34 942 71 15 48" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="269" end="285" text="+34 742 59 31 72" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="291" end="298" text="2447895" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="305" end="317" text="827897174431" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="339" end="349" text="Fabricante" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="384" end="406" text="Christian Pérez Lozano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="411" end="420" text="711557722" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="422" end="453" text="Residente de 5° año en Urología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="455" end="527" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="529" end="552" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="554" end="559" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="561" end="567" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="569" end="575" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="595" end="605" text="31/08/2015" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="616" end="624" text="75739897" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="642" end="664" text="Centro de Salud Aluche" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="708" end="741" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="745" end="752" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="795" end="820" text="http://example-healthcare" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

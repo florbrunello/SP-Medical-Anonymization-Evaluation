@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Luis Miranda</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Tomas</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">87080240D</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/04/1952</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de O'Donnell 34</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Bormujos</TAG>, <TAG TYPE="TERRITORIO">Guipúzcoa</TAG>, <TAG TYPE="TERRITORIO">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">20114</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">luismiranda.tomas624@isciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 943 67 83 74</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 943 59 42 35</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1761702</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">258288622024</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Enfermera</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Victoria Méndez Roca</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">598764352</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/05/1999</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">62310593</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Príncipe de Asturias</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">47 años</TAG> de edad. Se realizó un expediente con <TAG TYPE="URL_WEB">http://example-healthcare.net//96776373Q</TAG>.
+  </TEXT>
+</MEDDOCAN>

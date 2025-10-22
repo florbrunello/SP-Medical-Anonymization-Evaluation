@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Christian Moreno Domínguez
+DNI: 90334302P
+Fecha de nacimiento: 07/04/1999
+Género: M
+Domicilio: Calle de Hortaleza 38
+Ciudad: Santa Cruz de Tenerife, Ávila, Castilla y León
+Código postal: 05493
+Email: christianmoreno_dominguez@udc.es
+Teléfono fijo: +34 920 78 34 54
+Teléfono móvil: +34 720 62 73 33
+NHC: 3842147
+NASS: 782004284226
+
+Datos asistenciales.
+Médico: Dra. Catalina Crespo Márquez. NC 686111100. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 03/08/2023
+Episodio: 11111546
+Hospital: Hospital Universitario Marqués de Valdecilla
+
+Informe clínico del paciente:
+Paciente de tez blanca de 24 años de edad, acompañado de su sobrina. 

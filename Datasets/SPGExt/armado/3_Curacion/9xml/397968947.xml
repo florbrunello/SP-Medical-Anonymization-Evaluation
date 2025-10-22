@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Leo Conde Mateos</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">55738867T</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/07/1966</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Áncora 29, 3K</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Burgos</TAG>, <TAG TYPE="TERRITORIO">Huesca</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">22874</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">leo-mateos1160@hotmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 974 33 71 52</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 774 52 70 59</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9207648</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">083951819746</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Médico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Manuel Jesús Guzman Molina</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 841343963</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/08/1993</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">93801022</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Villaverde</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">27 años</TAG> de edad, acompañado de su hija, presenta <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas de dolor en el pecho</TAG> de intensidad variable durante las últimas 48 horas, sin antecedentes de patologías cardíacas previas. La exploración física revela: <TAG TYPE="FECHAS">Tª 37,2 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 90 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración ni taquicardia. En cabeza y cuello no se palpan adenopatías ni bocio. Auscultación cardíaca con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">murmullo vesicular normal</TAG>. Auscultación pulmonar sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ronquidos ni soplos</TAG>. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">varices ni edemas</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Pulsos periféricos presentes y simétricos</TAG>.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial leve</TAG>, controlada con medicación, y tiene una historia familiar de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedad cardiovascular</TAG> en su padre, fallecido a los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">55 años</TAG> por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infarto de miocardio</TAG>.
+    Evolución y comentarios:
+    El paciente fue ingresado en la unidad de cuidados intensivos para <TAG TYPE="OTROS_SUJETO_ASISTENCIA">monitorización cardíaca y tratamiento de la hipertensión arterial</TAG>. Se le administró <TAG TYPE="OTROS_SUJETO_ASISTENCIA">oxígeno suplementario</TAG> y se le realizó una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ecocardiografía</TAG> para evaluar la función cardíaca. Los resultados de la ecocardiografía mostraron una función cardíaca <TAG TYPE="OTROS_SUJETO_ASISTENCIA">normal</TAG>.
+    Remitido por:
+    El paciente fue remitido por su médico de cabecera, quien notificó la aparición de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas de dolor en el pecho</TAG> y la presencia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial leve</TAG>.
+    Diagnóstico:
+    Diagnóstico: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">provisional de dolor en el pecho de causa desconocida</TAG>, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial leve</TAG> y antecedentes familiares de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedad cardiovascular</TAG>.
+    Tratamiento:
+    Se le administró tratamiento con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nitroglicerina</TAG> para aliviar el dolor en el pecho y se le recetó un medicamento para controlar la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG>. Se le realizó una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ecocardiografía</TAG> para evaluar la función cardíaca y se le recomendó un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">seguimiento en la unidad de cuidados intensivos</TAG>.
+  </TEXT>
+</MEDDOCAN>

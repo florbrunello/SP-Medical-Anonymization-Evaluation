@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Pol Guillen Mateos
+DNI: 60547643M
+Fecha de nacimiento: 11/10/2006
+Género: Varón
+Domicilio: Calle de la Ribera 50
+Ciudad: Hellín, Zamora, Castilla y León
+Código postal: 49233
+Email: pol.guillen-mateos1654@gmail.com
+Teléfono fijo: +34 980 29 35 27
+Teléfono móvil: +34 680 68 11 90
+NHC: 9498846
+NASS: 640465564567
+Condición de riesgo: Guardia de Seguridad
+
+Datos asistenciales.
+Médico: Dr. Leo Ruiz Álvarez. NC 221439032. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 18/11/2023
+Episodio: 68220210
+Centro de salud: Centro de Salud Leganés
+Matrícula del coche: 1150WBW
+Modelo: Kia Sorento
+VIN: VSI75CXZYEN450512
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 17 años de edad, acompañado de su sobrina. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es OK031NMR537. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Pol" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="46" text="Guillen Mateos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="60547643M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="11/10/2006" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="107" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="140" text="Calle de la Ribera 50" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="155" text="Hellín" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="163" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="180" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="49233" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="241" text="pol.guillen-mateos1654@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 980 29 35 27" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="290" end="306" text="+34 680 68 11 90" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="312" end="319" text="9498846" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="326" end="338" text="640465564567" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="360" end="380" text="Guardia de Seguridad" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="415" end="431" text="Leo Ruiz Álvarez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="436" end="445" text="221439032" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="447" end="487" text="Investigador Clínico en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="489" end="556" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="558" end="585" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="587" end="592" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="594" end="601" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="603" end="609" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="629" end="639" text="18/11/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="650" end="658" text="68220210" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="676" end="699" text="Centro de Salud Leganés" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="721" end="728" text="1150WBW" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="754" end="771" text="VSI75CXZYEN450512" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="815" end="844" text="ascendencia del medio oriente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="848" end="855" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="882" end="889" text="sobrina" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T33" start="972" end="983" text="OK031NMR537" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

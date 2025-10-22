@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Leo Conde Mateos
+DNI: 55738867T
+Fecha de nacimiento: 06/07/1966
+Género: Varón
+Domicilio: Calle de Áncora 29, 3K
+Ciudad: Burgos, Huesca, Aragón
+Código postal: 22874
+Email: leo-mateos1160@hotmail.com
+Teléfono fijo: +34 974 33 71 52
+Teléfono móvil: +34 774 52 70 59
+NHC: 9207648
+NASS: 083951819746
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dr. Manuel Jesús Guzman Molina. NC 841343963. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/08/1993
+Episodio: 93801022
+Centro de salud: Centro de Salud Villaverde
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 27 años de edad, acompañado de su hija. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Leo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="44" text="Conde Mateos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="55738867T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="06/07/1966" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="105" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="139" text="Calle de Áncora 29, 3K" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="154" text="Burgos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="162" text="Huesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="170" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="186" end="191" text="22874" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="199" end="225" text="leo-mateos1160@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 974 33 71 52" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 774 52 70 59" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="296" end="303" text="9207648" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="310" end="322" text="083951819746" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="344" end="350" text="Médico" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="385" end="411" text="Manuel Jesús Guzman Molina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="416" end="425" text="841343963" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="427" end="461" text="Residente de 4° año en Cardiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="463" end="549" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="551" end="580" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="582" end="587" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="589" end="595" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="597" end="603" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="623" end="633" text="17/08/1993" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="644" end="652" text="93801022" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="670" end="696" text="Centro de Salud Villaverde" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="740" end="769" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="773" end="780" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="807" end="811" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

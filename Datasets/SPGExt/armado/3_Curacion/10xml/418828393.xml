@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ignacio Villar Costa</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">28003810E</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/06/1975</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Rollo 87, 10N</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Elda</TAG>, <TAG TYPE="TERRITORIO">Navarra</TAG>, <TAG TYPE="TERRITORIO">Navarra</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">31053</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ignacio-villar@h12o.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 948 40 89 37</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 648 08 82 30</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7218375</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">777912886937</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente en estudio</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Arnau Aguilar Martín</TAG> <TAG TYPE="PROFESION">Residente de 5° año en Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/03/1993</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Fuenlabrada</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">47 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">esposa</TAG>. El paciente refiere <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolores de cabeza intensos</TAG> y frecuentes durante las últimas semanas, acompañados de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">náuseas</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG>. La exploración física revela <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">160/100 mmHg</TAG>) y signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hiperglucemia</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">glucemia de 220 mg/dl</TAG>). Los análisis de sangre muestran elevación de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">1,5 mg/dl</TAG>) y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">proteinuria</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">300 mg/dl</TAG>).
+    Se solicitan pruebas de imagen para evaluar la causa de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">proteinuria</TAG>. La ecografía renal muestra un riñón derecho hipoplástico con función reducida. La angiografía renal revela estenosis de la arteria renal izquierda.
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">proteinuria secundaria a enfermedad renal</TAG>, se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">antitérmicos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antiinflamatorios</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG>) así como tratamiento farmacológico: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Amlodipino</TAG> 10 mg vía oral cada 24 horas y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Enalapril</TAG> 20 mg vía oral cada 24 horas. El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde se le recomienda seguimiento ambulatorio.
+    Evolución y comentarios:
+    El paciente se refiere a la clínica con mejora en los síntomas y sin signos de complicaciones. Se le prescribe seguimiento ambulatorio cada 15 días para control de la presión arterial y la función renal.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Arnau Aguilar Martín</TAG> <TAG TYPE="PROFESION">Residente de 5° año en Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

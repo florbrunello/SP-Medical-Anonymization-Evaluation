@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Vanessa Luque Jiménez
+DNI: 92070250P
+Fecha de nacimiento: 15/01/1984
+Género: M
+Domicilio: Calle de los Jardines 90, 8R
+Ciudad: Torrejón de Ardoz, Burgos, Castilla y León
+Código postal: 09360
+Email: luque@aol.com
+Teléfono fijo: +34 947 59 19 18
+Teléfono móvil: +34 747 79 14 58
+NHC: 6370536
+NASS: 577773094566
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dra. Mercedes Simon Exposito. NC 292572102. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/06/1990
+Episodio: 82567921
+Centro de salud: Centro de Salud Moratalaz
+Matrícula del coche: 0837YLQ
+Modelo: Honda Civic
+VIN: VSYKD923E1F469776
+
+Informe clínico del paciente:
+Paciente de ascendencia centroasiática de 6 años de edad, acompañado de su padre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.56.45, con dirección MAC 39:11:66:17:30:0A. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Vanessa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="49" text="Luque Jiménez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="92070250P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="15/01/1984" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="146" text="Calle de los Jardines 90, 8R" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="172" text="Torrejón de Ardoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="174" end="180" text="Burgos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="182" end="197" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="09360" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="239" text="luque@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 947 59 19 18" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 747 79 14 58" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="6370536" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="324" end="336" text="577773094566" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="358" end="366" text="Granjero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="641" end="651" text="03/06/1990" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="662" end="670" text="82567921" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="688" end="713" text="Centro de Salud Moratalaz" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="735" end="742" text="0837YLQ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="768" end="785" text="VSYKD923E1F469776" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="829" end="855" text="ascendencia centroasiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="859" end="865" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="892" end="897" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T25" start="1004" end="1021" text="39:11:66:17:30:0A" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

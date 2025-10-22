@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Antonio Alonso Abad
+DNI: 27994587E
+Fecha de nacimiento: 25/10/1993
+Género: H
+Domicilio: Calle de Ayala 53, 1P
+Ciudad: Parla, Asturias, Asturias
+Código postal: 33731
+Email: antonio-alonso.abad@isciii.es
+Teléfono fijo: +34 984 91 33 68
+Teléfono móvil: +34 684 26 82 91
+NHC: 8455738
+NASS: 687832388326
+Condición de riesgo: Técnico de Radiología
+
+Datos asistenciales.
+Médico: Dra. Emma Conde Galvez. NC 360294729. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 27/10/2012
+Episodio: 21857099
+Hospital: Hospital GaldaKao - Usansolo
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 19 años de edad, acompañado de su vecina. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="47" text="Alonso Abad" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="27994587E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="25/10/1993" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="137" text="Calle de Ayala 53, 1P" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="151" text="Parla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="161" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="163" end="171" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="187" end="192" text="33731" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="200" end="229" text="antonio-alonso.abad@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="245" end="261" text="+34 984 91 33 68" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 684 26 82 91" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="300" end="307" text="8455738" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="314" end="326" text="687832388326" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="348" end="369" text="Técnico de Radiología" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="621" end="631" text="27/10/2012" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="642" end="650" text="21857099" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="661" end="689" text="Hospital GaldaKao - Usansolo" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="733" end="759" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="763" end="770" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="797" end="803" text="vecina" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alejandro</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Martinez Espinosa</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8457890</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle Pinto Nolla, 23, 3C</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28056</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/10/2010</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">30/01/2016</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Júlia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Morata Alba</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28</TAG>.
+    Informe clínico del paciente: niño de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">cinco años</TAG> de edad afecto de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dermatitis atópica</TAG> desde los primeros meses de vida, sin otros antecedentes personales ni familiares de interés. Como antecedente infeccioso, destacar que había padecido <TAG TYPE="OTROS_SUJETO_ASISTENCIA">varicela</TAG> un año antes sin complicaciones y lesión compatible con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">herpes labial</TAG> en el padre unos días antes.
+    Consultaron en el Servicio de Urgencias por lesiones cutáneas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vesiculosas</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">eritematosas</TAG>, de dos días de evolución. Algunas de las lesiones presentaban signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">impetiginización</TAG> sin signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">celulitis</TAG>. Las lesiones cutáneas estaban distribuidas en ambos miembros inferiores, superiores y tronco. El resto de la exploración fue anodina. Fiebre de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">38 °C</TAG> máximo desde doce horas antes. No presentaba otra sintomatología. No había un ambiente familiar de infección en el momento de la consulta.
+    Ante la sospecha de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">erupción variceliforme de Kaposi</TAG> se decidió su ingreso para el inicio del tratamiento intravenoso con <TAG TYPE="OTRO_NUMERO_IDENTIF">aciclovir</TAG> a <TAG TYPE="OTRO_NUMERO_IDENTIF">20 mg/kg/día</TAG>. Se asoció al tratamiento <TAG TYPE="OTRO_NUMERO_IDENTIF">amoxicilina-clavulánico</TAG> oral a <TAG TYPE="OTRO_NUMERO_IDENTIF">50 mg/kg/día</TAG> y curas diarias con <TAG TYPE="OTRO_NUMERO_IDENTIF">clorhexidina</TAG>.
+    Se realizó al ingreso un estudio analítico con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hemograma</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bioquímica</TAG>, sin elevación de reactantes de fase aguda, y se extrajo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">serología</TAG> para <TAG TYPE="OTROS_SUJETO_ASISTENCIA">virus herpes simple 1</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">2</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Coxsackie</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">citomegalovirus</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">toxoplasma</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">virus de Epstein Barr</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">parvovirus</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">virus herpes humano tipo 6</TAG>.
+    La evolución clínica fue favorable, desapareciendo la fiebre en las primeras 24 horas de ingreso y sin aparición de complicaciones sistémicas ni cutáneas.
+    A partir del tercer día, las lesiones estaban todas en fase de costra con desprendimiento progresivo de las lesiones costrosas sin incidencias.
+    Se decidió el alta al cuarto día de ingreso, completando tratamiento oral con <TAG TYPE="OTRO_NUMERO_IDENTIF">aciclovir</TAG> durante <TAG TYPE="OTRO_NUMERO_IDENTIF">siete días</TAG> más.
+    A la semana del ingreso no mostraba restos de lesiones cutáneas salvo su <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dermatitis atópica</TAG> ya conocida. El resultado de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">serología</TAG> fue negativo para todo lo estudiado salvo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">IgM</TAG> positivo para <TAG TYPE="OTROS_SUJETO_ASISTENCIA">virus herpes simple tipo 1</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Júlia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Morata Alba</TAG>. Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">juliamorataalba@gmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

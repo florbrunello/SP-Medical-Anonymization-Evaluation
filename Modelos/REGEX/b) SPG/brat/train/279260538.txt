@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Matilde Merino Quintana
+DNI: 64705981N
+Fecha de nacimiento: 29/10/1998
+Género: F
+Domicilio: Calle de los Embajadores 27
+Ciudad: Ronda, Asturias, Asturias
+Código postal: 33135
+Email: merinoquintana@h12o.es
+Teléfono fijo: +34 984 25 43 01
+Teléfono móvil: +34 784 38 09 65
+NHC: 4488426
+NASS: 192827577607
+
+Datos asistenciales.
+Médico: Dra. Nuria Garrido Trujillo. NC 519926907. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 18/06/2013
+Episodio: 02887693
+Centro de salud: Centro de Salud Tetuán
+Matrícula del coche: 6783UGK
+Modelo: Hyundai Elantra
+VIN: VSCXV4EWP2Y973195
+
+Informe clínico del paciente:
+Paciente de tez blanca de 14 años de edad, acompañado de su hermano. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.40.12, con dirección MAC 94:C7:9A:D7:D5:0F. El servidor para envío de información desde cual el usuario se comunica es smtp://example-ophthalmology.net. 

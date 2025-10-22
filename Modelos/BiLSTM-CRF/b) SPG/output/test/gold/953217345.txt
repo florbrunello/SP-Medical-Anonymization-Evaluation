@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Martín Pérez Guerrero
+DNI: 84570471T
+Fecha de nacimiento: 24/04/2017
+Género: Hombre
+Domicilio: Calle de la Alameda 29, 7W
+Ciudad: Puertollano, Álava, Pais Vasco
+Código postal: 01642
+Email: martin-perez@outlook.com
+Teléfono fijo: +34 945 65 07 27
+Teléfono móvil: +34 645 55 00 77
+NHC: 7848584
+NASS: 906597168013
+Condición de riesgo: Técnico de Radiología
+
+Datos asistenciales.
+Médico: Dra. Matilde Marti Costa. NC 721589568. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 36026136
+Hospital: Complejo Hospitalario Universitario de Cartagena
+Matrícula del coche: 6575GOA
+Modelo: Chevrolet Silverado
+VIN: VSH746CZU8X648016
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 7 años de edad, acompañado de su padre. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es QJ824IVC466. 

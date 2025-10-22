@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Santana Estevez
+DNI: 22919856B
+Fecha de nacimiento: 13/02/2020
+Género: H
+Domicilio: Calle del Duque de Alba 57
+Ciudad: Albacete, Jaén, Andalucía
+Código postal: 23154
+Email: juan-estevez1577@ciberisciii.es
+Teléfono fijo: +34 953 83 10 90
+Teléfono móvil: +34 753 89 41 20
+NHC: 3829143
+NASS: 370373411346
+Condición de riesgo: Técnico de Cuidados Auxiliares de Enfermería
+
+Datos asistenciales.
+Médico: Dra. Vanessa Ruiz Pacheco. NC 390227925. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 04/04/2023
+Hospital: Hospital General Universitario Morales Meseguer
+
+Informe clínico del paciente:
+Paciente no fumador de 3 años de edad, acompañado de su abuela. Se realizó un expediente con URL http://example-nutrition.net//83288308Z. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Juan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="48" text="Santana Estevez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="22919856B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="13/02/2020" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="143" text="Calle del Duque de Alba 57" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="160" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="166" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="177" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="193" end="198" text="23154" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="206" end="237" text="juan-estevez1577@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 953 83 10 90" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="286" end="302" text="+34 753 89 41 20" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="308" end="315" text="3829143" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="322" end="334" text="370373411346" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="356" end="400" text="Técnico de Cuidados Auxiliares de Enfermería" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="640" end="650" text="04/04/2023" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="661" end="708" text="Hospital General Universitario Morales Meseguer" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="749" end="759" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="763" end="769" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="796" end="802" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="837" end="861" text="http://example-nutrition" TYPE="URL_WEB" comment=""/>
+        <OTHER id="T23" start="953" end="977" text="smtp://example-nutrition" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

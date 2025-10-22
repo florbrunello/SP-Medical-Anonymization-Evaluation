@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Estefanía</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Serra Martín</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">94060944Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/03/1950</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Yeserías 77</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Cáceres</TAG>, <TAG TYPE="TERRITORIO">Almería</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">04691</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">serra@ciberned.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 950 44 21 53</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 750 63 13 44</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8662370</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">203202554316</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Repartidor</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Trujillo Martín</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">650227094</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardiólogo Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/06/1969</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">09781075</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Rey Juan Carlos de Mostoles</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">usuario de drogas</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">19 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">pareja</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">(en red interna)</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">192.168.96.26</TAG>, con <TAG TYPE="OTRO_NUMERO_IDENTIF">dirección MAC</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">F3:51:75:A6:23:C9</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de escaneo</TAG> del <TAG TYPE="OTRO_NUMERO_IDENTIF">iris</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código obtenido</TAG> para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">TA833WBS417</TAG>.
+  </TEXT>
+</MEDDOCAN>

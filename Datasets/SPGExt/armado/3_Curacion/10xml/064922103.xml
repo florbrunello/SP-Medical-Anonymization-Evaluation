@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Nicolás Flores Gil</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">45338447L</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/05/1957</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Eduardo Dato 39</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Tarragona, Soria, Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">42676</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">nicolasgil577@uhu.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 975 62 61 98</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 675 74 44 26</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3919810</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">758731202045</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Enfermera</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Joel Rueda Ferrer</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">268408868</TAG>. <TAG TYPE="PROFESION">Cardiólogo</TAG> de <TAG TYPE="CENTRO_SALUD">Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">05/02/1971</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">88016754</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Barcelona</TAG>.
+    Fecha de ingreso:
+    <TAG TYPE="FECHAS">05/02/1971</TAG>.
+    Centro de salud de ingreso:
+    <TAG TYPE="CENTRO_SALUD">Hospital Clínic Barcelona</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> de edad, acompañado de su abuela. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">WF655CDW520</TAG>.
+  </TEXT>
+</MEDDOCAN>

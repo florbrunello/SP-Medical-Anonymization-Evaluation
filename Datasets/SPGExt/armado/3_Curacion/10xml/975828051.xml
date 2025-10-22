@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">David Giménez Rivas</TAG>.
+  DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">91842494K</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">18/05/1981</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle del Olivar 87</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">San Pedro del Pinatar</TAG>, <TAG TYPE="TERRITORIO">Alicante</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">03882</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">david-rivas240@uhu.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 965 79 47 73</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 665 21 17 42</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7560035</TAG>
+  Datos asistenciales.
+  Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ignacio Herrera Izquierdo</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 560673233</TAG>. <TAG TYPE="PROFESION">Oftalmólogo Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">31/10/1991</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">99650052</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Lugo</TAG>
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia indígena americana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 años</TAG> de edad, acompañado de su abuelo, que refiere una pérdida gradual de visión en ambos ojos durante las últimas semanas. La exploración física revela una reducción significativa de la agudeza visual, con una visión bilateral de <TAG TYPE="FECHAS">20/200</TAG>. La exploración oftalmológica muestra signos de <TAG TYPE="FECHAS">retinopatía diabética</TAG> en ambos ojos, con <TAG TYPE="FECHAS">hemorragias retinianas</TAG> y <TAG TYPE="FECHAS">exudados</TAG> en el fondo de ojo. Se solicitan pruebas complementarias, incluyendo un estudio de <TAG TYPE="FECHAS">retinografía</TAG> y una evaluación de la función visual.
+  Antecedentes:
+  El paciente tiene un antecedente de <TAG TYPE="DIAGNOSTICO">diabetes mellitus tipo 1</TAG> desde la edad de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años</TAG>, con un control inadecuado de la glucemia en las últimas semanas. El paciente también tiene un antecedente de <TAG TYPE="DIAGNOSTICO">hipertensión arterial sistémica</TAG>, tratada con medicación.
+  Evolución y comentarios:
+  El paciente se encuentra en una condición estable, con una reducción significativa de la agudeza visual. Se requiere un tratamiento intensivo para controlar la diabetes y la hipertensión, así como un seguimiento estrecho para evaluar la progresión de la <TAG TYPE="FECHAS">retinopatía diabética</TAG>.
+  Remitido por:
+  Se remite al paciente al <TAG TYPE="PROFESION">Servicio de Oftalmología</TAG> para un seguimiento y tratamiento intensivo. Se requiere una evaluación regular de la función visual y la progresión de la <TAG TYPE="FECHAS">retinopatía diabética</TAG>.
+  </TEXT>
+</MEDDOCAN>

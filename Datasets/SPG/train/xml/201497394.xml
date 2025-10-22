@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Milagros Rivas Menendez
+DNI: 59893001N
+Fecha de nacimiento: 28/07/1963
+Género: Femenino
+Domicilio: Calle de Ayala 37, 3B
+Ciudad: Torrejón de Ardoz, Jaén, Andalucía
+Código postal: 23449
+Email: milagros_rivas@imibic.org
+Teléfono fijo: +34 953 35 21 03
+FAX: +34 953 59 35 34
+NHC: 5967904
+NASS: 959874051576
+Condición de riesgo: Fabricante
+
+Datos asistenciales.
+Médico: Dr. Félix Alonso Andres. NC 309920599. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 24/01/1964
+Episodio: 19406452
+Hospital: Hospital Clínic Universitario de Valencia
+Matrícula del coche: 5665RMW
+Modelo: Chevrolet Silverado
+VIN: VSUDQK1LOES789233
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 5 meses de edad, acompañado de su madre. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es FY476SIJ972. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Milagros" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="51" text="Rivas Menendez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="59893001N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="28/07/1963" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="115" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="127" end="148" text="Calle de Ayala 37, 3B" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="174" text="Torrejón de Ardoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="176" end="180" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="182" end="191" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="23449" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="245" text="milagros_rivas@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="261" end="277" text="+34 953 35 21 03" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 953 59 35 34" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="305" end="312" text="5967904" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="959874051576" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="353" end="363" text="Fabricante" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="398" end="417" text="Félix Alonso Andres" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="422" end="431" text="309920599" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="433" end="471" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="473" end="540" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="542" end="569" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="571" end="576" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="578" end="585" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="587" end="593" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="613" end="623" text="24/01/1964" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="634" end="642" text="19406452" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="653" end="694" text="Hospital Clínic Universitario de Valencia" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="716" end="723" text="5665RMW" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="757" end="774" text="VSUDQK1LOES789233" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="815" end="836" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="840" end="847" text="5 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="874" end="879" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T33" start="962" end="973" text="FY476SIJ972" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

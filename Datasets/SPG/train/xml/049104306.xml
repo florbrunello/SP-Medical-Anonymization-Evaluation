@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Eva María Rey Herrero
+DNI: 41966989Q
+Fecha de nacimiento: 24/07/1977
+Género: Mujer
+Domicilio: Calle de Lope de Rueda 29, 1Q
+Ciudad: Torrejón de Ardoz, Santa Cruz de Tenerife, Canarias
+Código postal: 38771
+Email: evamaria.rey@ub.edu
+Teléfono fijo: +34 922 48 71 46
+Teléfono móvil: +34 722 12 87 99
+NHC: 7413249
+Condición de riesgo: Químico
+
+Datos asistenciales.
+Médico: Dra. Andrea Cuesta Ortiz. NC 353468184. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 06/11/1989
+Episodio: 89390411
+Hospital: Complejo Hospitalario Universitario de A Coruña
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 12 años de edad, acompañado de su padre. Se realizó un expediente con URL http://example-research.net//68789018T. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es KV158GCX672. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Eva María" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="49" text="Rey Herrero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="41966989Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="24/07/1977" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="110" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="151" text="Calle de Lope de Rueda 29, 1Q" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="177" text="Torrejón de Ardoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="179" end="201" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="203" end="211" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="227" end="232" text="38771" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="240" end="259" text="evamaria.rey@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="275" end="291" text="+34 922 48 71 46" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="308" end="324" text="+34 722 12 87 99" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="330" end="337" text="7413249" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="359" end="366" text="Químico" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="615" end="625" text="06/11/1989" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="636" end="644" text="89390411" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="655" end="702" text="Complejo Hospitalario Universitario de A Coruña" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="746" end="770" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="774" end="781" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="808" end="813" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="848" end="871" text="http://example-research" TYPE="URL_WEB" comment=""/>
+        <ID id="T23" start="970" end="981" text="KV158GCX672" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

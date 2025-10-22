@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sebastian</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Perez Garcia</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8264597</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">27 67805270 54</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle Rivera, 23, 1 C</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28004</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/12/1957</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">53 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">15/07/2011</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Angel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García Escudero</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 61394</TAG>.
+    Informe clínico del paciente: Paciente varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">53 años</TAG>, diagnosticado de <TAG TYPE="OTRO_NUMERO_IDENTIF">espondilitis anquilopoyética (HLA B27)</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">amiloidosis secundaria</TAG> e <TAG TYPE="OTRO_NUMERO_IDENTIF">insuficiencia renal crónica terminal</TAG> en tratamiento sustitutivo con <TAG TYPE="PROFESION">hemodiálisis</TAG>. Presentó un cuadro de <TAG TYPE="OTRO_NUMERO_IDENTIF">hematuria indolora</TAG> y en la cistoscopia se apreció una <TAG TYPE="OTRO_NUMERO_IDENTIF">masa vesical</TAG>, excrecente pero no papilar y sangrante. Se procedió a una <TAG TYPE="PROFESION">resección transuretral</TAG> (RTU), siendo el diagnóstico histológico de <TAG TYPE="OTRO_NUMERO_IDENTIF">amiloidosis vesical</TAG>. El paciente evolucionó satisfactoriamente y a los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">11 meses</TAG> reingresó con un <TAG TYPE="OTRO_NUMERO_IDENTIF">dolor intenso abdominal</TAG>, epigástrico y fijo, al que se añadió a las dos horas un <TAG TYPE="OTRO_NUMERO_IDENTIF">vómito repentino</TAG>, abundante y hemático, que se complicó con una <TAG TYPE="OTRO_NUMERO_IDENTIF">parada cardiorrespiratoria</TAG>, que le condujo al <TAG TYPE="OTRO_NUMERO_IDENTIF">exitus</TAG> (<TAG TYPE="FECHAS">11/04/1995</TAG>). En el diagnóstico anatomopatológico realizado post mortem se puso de manifiesto en el <TAG TYPE="PROFESION">aparato digestivo</TAG> una <TAG TYPE="OTRO_NUMERO_IDENTIF">necrosis isquémica</TAG> de territorio irrigado por la <TAG TYPE="PROFESION">arteria mesentérica superior</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">depósito amiloideo</TAG> en vasos de la submucosa. La afectación de órganos y sistemas era generalizada, incluyendo <TAG TYPE="OTRO_NUMERO_IDENTIF">atrofia renal bilateral</TAG> por <TAG TYPE="OTRO_NUMERO_IDENTIF">amiloidosis</TAG>. <TAG TYPE="OTRO_NUMERO_IDENTIF">Amiloidosis vesical (AA)</TAG>, sobre todo perivascular y <TAG TYPE="OTRO_NUMERO_IDENTIF">amiloidosis en los vasos prostáticos</TAG>.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Angel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García Escudero</TAG> <TAG TYPE="CORREO_ELECTRONICO">agareslo@telefonica.net</TAG>.
+  </TEXT>
+</MEDDOCAN>

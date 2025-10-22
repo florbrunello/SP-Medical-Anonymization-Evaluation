@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ernesto</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sevilla Diaz</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6945784</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Paseo de la RIviera, 18</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Santander</TAG>.
+    CP: <TAG TYPE="TERRITORIO">39658</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/03/1949</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">64 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/07/2013</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Arnaiz de las Revillas</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">39 39 67845</TAG>.
+    Informe clínico del paciente: Presentamos el caso de un varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">64 años</TAG> con infección por VIH conocida desde hace 22 años, en tratamiento con didanosina, tenofovir y lopinavir/ritonavir. Durante los dos últimos años, en revisiones ambulatorias refería un cuadro de astenia y dolores óseos difusos. En varias determinaciones se había observado una elevación de la fosfatasa alcalina (FA) total y ósea, así como de la paratohormona (PTH). La 25-hidroxivitamina D (25-HCC), el calcio total e iónico y otros parámetros bioquímicos rutinarios en suero, y el elemental y sedimento de orina eran normales. Se realizó una radiografía simple de columna que mostró signos degenerativos, y una gammagrafía con Tc99, que resultó normal.
+    Durante el último mes empeoró su estado, con mayor astenia, disminución de fuerza, dificultad para caminar y pérdida de 7 kg de peso, por lo que ingresó en el hospital. La exploración física era anodina, salvo por debilidad muscular de predominio proximal. Entre los datos analíticos destacaban hiperglucemia leve (154 mg/dl), glucosuria marcada (4+), hipofosfatemia, fosfaturia inapropiadamente alta, hipouricemia (2 mg/dl), ligera acidosis metabólica (bicarbonato 19 mmol/l) y proteinuria (945 mg/24h). Además, aminoaciduria moderada, con valores aumentados de glicina (x2), valina (x2), serina (x4) y treonina (x4). El FGF23 sérico fue de 6 pg/ml. Otros parámetros se muestran en la Tabla 1.
+    A partir de esos resultados se estableció el diagnóstico de síndrome de Fanconi incompleto con hipofosfatemia grave y probable osteomalacia, en relación con TDF. Se retiró dicho fármaco y se inició tratamiento con raltegravir y darunavir potenciado con ritonavir. Además se administraron suplementos de fósforo, 25-HCC y 1,25-dihidroxivitamina D (1,25 DHCC). Con ello su estado fue mejorando progresivamente. Seis meses tras la retirada de TDF habían desaparecido los dolores óseos y la debilidad muscular, el paciente había recuperado el peso basal y se habían normalizado las alteraciones analíticas séricas, aunque la reabsorción de fosfato seguía siendo discretamente baja.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco Arnaiz de las Revillas</TAG> <TAG TYPE="HOSPITAL">Hospital Universitario Marqués de Valdecilla</TAG> <TAG TYPE="SERVICIO">Servicio de Medicina Interna</TAG> <TAG TYPE="DIREC_PROT_INTERNET">Avda. Valdecilla, s/n</TAG> <TAG TYPE="TERRITORIO">39008</TAG> <TAG TYPE="TERRITORIO">Santander</TAG> (<TAG TYPE="PAIS">España</TAG>) <TAG TYPE="CORREO_ELECTRONICO">farnaiz@humv.es</TAG>
+  </TEXT>
+</MEDDOCAN>

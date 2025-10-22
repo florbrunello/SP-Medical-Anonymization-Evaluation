@@ -1,0 +1,21 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 8 15	Eduardo
+T2	NOMBRE_SUJETO_ASISTENCIA 28 42	Molina Aguilar
+T3	ID_ASEGURAMIENTO 69 83	23 17856121 11
+T4	CALLE 96 126	Calle Carpinteros de Ribera, 2
+T5	TERRITORIO 152 157	Cádiz
+T6	ID_SUJETO_ASISTENCIA 175 182	7845123
+T7	FECHAS 226 236	12/12/1968
+T8	PAIS 244 250	España
+T9	EDAD_SUJETO_ASISTENCIA 258 260	46
+T10	SEXO_SUJETO_ASISTENCIA 267 268	H
+T11	FECHAS 288 298	27/07/2015
+T12	NOMBRE_PERSONAL_SANITARIO 332 350	Carlos Aller Pérez
+T13	ID_TITULACION_PERSONAL_SANITARIO 358 369	11 11 84621
+T14	FECHAS 599 613	agosto de 2001
+T15	FECHAS 1128 1145	diciembre de 2003
+T16	FECHAS 2208 2628	septiembre de 2004 con unas citologías sospechosas pero no determinantes de malignidad y el hallazgo ecográfico de un engrosamiento significativo de la pared vesical anterior, con abscesificación de la misma siendo sugestivo de cistitis. Además, en la zona de la última resección tumoral también existe un área hiperecogénica con relieve de 1,5 cm. de base de implantación, muy sugestiva de recurrencia tumoral.
+T17	FECHAS 2774 3910	octubre de 2004 se lleva a cabo una revisión endoscópica bajo anestesia general.
+T18	NOMBRE_PERSONAL_SANITARIO 4129 4147	Carlos Aller Pérez
+T19	CALLE 4149 4172	C/ Capitán Conforto 54,
+T20	TERRITORIO 4180 4192	San Fernando
+T21	TERRITORIO 4194 4199	Cádiz

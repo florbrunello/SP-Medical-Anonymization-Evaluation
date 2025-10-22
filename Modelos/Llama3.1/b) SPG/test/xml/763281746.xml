@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jesús María</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Martín Estevez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">63252975P</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/01/1927</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Reina 68, 8U</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Málaga</TAG>, <TAG TYPE="TERRITORIO">Alicante</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">03944</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">martin@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 965 85 02 45</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 765 37 31 25</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9771276</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">507690967914</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Matilde Sanz Guerrero</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">309939307</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">06/09/1994</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">53892375</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Valdemoro</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">migrante</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">67 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hijo</TAG>.
+  </TEXT>
+</MEDDOCAN>

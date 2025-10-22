@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Valeria</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Franco Ferrer</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">91389017N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/07/1977</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Barquillo 61, 5E</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ourense</TAG>, <TAG TYPE="TERRITORIO">Vizcaya</TAG>, <TAG TYPE="TERRITORIO">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">48470</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">valeria_ferrer@ioba.med.uva.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 946 46 70 75</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 746 61 55 45</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2128913</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">424468977960</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Laboratorio</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Silvia Suárez Simon</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">112650119</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardióloga Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">06/12/1981</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">49324638</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital de Manises</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7591EQZ</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Chrysler Pacifica</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSW5IFABE6Q801940</TAG>
+    
+    Informe clínico del paciente:
+    Paciente no <TAG TYPE="OTRO_NUMERO_IDENTIF">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es <TAG TYPE="URL_WEB">XP029HGQ495</TAG>.
+  </TEXT>
+</MEDDOCAN>

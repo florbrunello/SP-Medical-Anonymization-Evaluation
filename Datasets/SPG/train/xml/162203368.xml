@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Cristian Castaño Montoya
+DNI: 98672958Z
+Fecha de nacimiento: 22/12/1979
+Género: Varón
+Domicilio: Calle de los Relatores 61
+Ciudad: Avilés, Segovia, Castilla y León
+Código postal: 40618
+Email: cristian_castano.montoya1748@yahoo.com
+Teléfono fijo: +34 921 07 84 60
+Teléfono móvil: +34 721 68 92 07
+NHC: 5405762
+NASS: 651362668515
+Condición de riesgo: Operador de Máquina
+
+Datos asistenciales.
+Médico: Dr. Iván Casado Bueno. NC 255929027. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/07/2006
+Centro de salud: Centro de Salud Getafe
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 26 años de edad, acompañado de su hija. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Cristian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="52" text="Castaño Montoya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="98672958Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="22/12/1979" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="113" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="150" text="Calle de los Relatores 61" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="165" text="Avilés" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="174" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="191" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="40618" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="258" text="cristian_castano.montoya1748@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="274" end="290" text="+34 921 07 84 60" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="307" end="323" text="+34 721 68 92 07" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="329" end="336" text="5405762" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="343" end="355" text="651362668515" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="377" end="396" text="Operador de Máquina" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="431" end="448" text="Iván Casado Bueno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="453" end="462" text="255929027" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="464" end="508" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="510" end="596" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="598" end="627" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="629" end="634" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="636" end="642" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="644" end="650" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="670" end="680" text="22/07/2006" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="698" end="720" text="Centro de Salud Getafe" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="764" end="797" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="801" end="808" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="835" end="839" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

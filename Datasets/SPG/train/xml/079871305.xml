@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Elena Calderon Peña
+DNI: 13539796H
+Fecha de nacimiento: 19/06/1941
+Género: F
+Domicilio: Calle de Villalar 4, 6O
+Ciudad: Socuéllamos, Castellón, Comunidad Valenciana
+Código postal: 12434
+Email: calderon_pena@yahoo.com
+Teléfono fijo: +34 964 83 03 64
+FAX: +34 964 86 12 62
+NHC: 4207089
+NASS: 933662762730
+Condición de riesgo: Operador de Máquina
+
+Datos asistenciales.
+Médico: Dr. Juan Ramón Carmona Morales. NC 490927860. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 07/12/2020
+Episodio: 06257568
+Hospital: Hospital Universitario Virgen del Rocío
+Matrícula del coche: 5339DMK
+Modelo: Kia Sorento
+VIN: VSUAXKWCR9E423854
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 79 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Elena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Calderon Peña" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="13539796H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="19/06/1941" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="139" text="Calle de Villalar 4, 6O" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="159" text="Socuéllamos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="170" text="Castellón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="192" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="208" end="213" text="12434" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="221" end="244" text="calderon_pena@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 964 83 03 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 964 86 12 62" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="304" end="311" text="4207089" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="318" end="330" text="933662762730" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="352" end="371" text="Operador de Máquina" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="406" end="432" text="Juan Ramón Carmona Morales" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="437" end="446" text="490927860" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="448" end="491" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="493" end="551" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="553" end="577" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="579" end="584" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="586" end="596" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="598" end="604" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="624" end="634" text="07/12/2020" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="645" end="653" text="06257568" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="664" end="703" text="Hospital Universitario Virgen del Rocío" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="725" end="732" text="5339DMK" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="758" end="775" text="VSUAXKWCR9E423854" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="819" end="840" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="844" end="851" text="79 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

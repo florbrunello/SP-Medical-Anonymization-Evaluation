@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ignacio Núñez Rivas</TAG>.
+    DNI: <TAG TYPE="ID_ASEGURAMIENTO">40595922W</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/02/1973</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Alberto Aguilera 6</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Yecla, Jaén, Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">23758</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ignacionunez-rivas@uca.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 953 80 48 14</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 653 86 21 93</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5926213</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">280743715274</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Conserje</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Sonia Mendoza Velasco</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">106314378</TAG>. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="PAIS">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">25/09/2008</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de A Coruña</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia africana del norte</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">35 años</TAG> de edad, que se presenta con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal crónico</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pérdida de peso</TAG> en los últimos 6 meses. La exploración física revela: Tª <TAG TYPE="OTROS_SUJETO_ASISTENCIA">36,5 C</TAG>; T.A: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120/80 mmHg</TAG>; Fc: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, con dolor en la región epigástrica y ausencia de masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="OTROS_SUJETO_ASISTENCIA">13,5 g/dl</TAG>; leucocitos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8.500/mm3</TAG> (neutrófilos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">60%</TAG>); plaquetas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">180.000/mm3</TAG>. VSG: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90%</TAG>; TTPA <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">110 mg/dl</TAG>; urea <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25 mg/dl</TAG>; creatinina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">1,0 mg/dl</TAG>; sodio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">140 mEq/l</TAG>; potasio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">4,0 mEq/l</TAG>; GOT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 U/l</TAG>; GPT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 U/l</TAG>; GGT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">40 U/l</TAG>; fosfatasa alcalina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">150 U/l</TAG>; calcio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedad inflamatoria intestinal</TAG> se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación abdominal) así como tratamiento farmacológico específico: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mesalazina 500 mg vía oral cada 8 horas</TAG> (durante 6 semanas) y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Budesonida 9 mg vía oral cada 24 horas</TAG> (durante 3 semanas). El paciente mejora significativamente de su cuadro tras 2 semanas de tratamiento, decidiéndose el alta a su domicilio donde completó la pauta de tratamiento farmacológico. En revisiones sucesivas en consultas se constató la completa remisión del cuadro.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">episodios de diarrea y dolor abdominal</TAG> en los últimos 5 años, sin embargo, nunca ha sido tratado de manera inadecuada. La paciente tiene una historia familiar de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedades inflamatorias intestinales</TAG>.
+    Evolución y comentarios:
+    El paciente ha seguido el tratamiento farmacológico de manera adecuada y ha mostrado una buena respuesta clínica. Se le ha recomendado seguir un estilo de vida saludable, incluyendo una dieta equilibrada y un ejercicio regular.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Sonia Mendoza Velasco</TAG>, Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd).
+    </TEXT>
+</MEDDOCAN>

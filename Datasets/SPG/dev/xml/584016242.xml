@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Iker Vega Escudero
+DNI: 49602141L
+Fecha de nacimiento: 14/01/1979
+Género: Hombre
+Domicilio: Calle de Segovia 56, 6O
+Ciudad: Elche, Soria, Castilla y León
+Código postal: 42889
+Email: ikervegaescudero@ioba.med.uva.es
+Teléfono fijo: +34 975 21 06 47
+FAX: +34 975 03 13 03
+NHC: 4379449
+NASS: 202966789140
+Condición de riesgo: Albañil
+
+Datos asistenciales.
+Médico: Dra. Remedios Mateo Rodríguez. NC 822379377. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/05/1995
+Episodio: 25238074
+Centro de salud: Centro de Salud Leganés
+Matrícula del coche: 1369JQZ
+Modelo: Toyota RAV4
+VIN: VSZPAKKJ2XF761526
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 16 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Iker" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="46" text="Vega Escudero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="49602141L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="14/01/1979" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="108" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="143" text="Calle de Segovia 56, 6O" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="157" text="Elche" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="164" text="Soria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="181" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="42889" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="242" text="ikervegaescudero@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="258" end="274" text="+34 975 21 06 47" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 975 03 13 03" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="302" end="309" text="4379449" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="316" end="328" text="202966789140" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="350" end="357" text="Albañil" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="628" end="638" text="02/05/1995" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="649" end="657" text="25238074" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="675" end="698" text="Centro de Salud Leganés" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="720" end="727" text="1369JQZ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="753" end="770" text="VSZPAKKJ2XF761526" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="814" end="847" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="851" end="858" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

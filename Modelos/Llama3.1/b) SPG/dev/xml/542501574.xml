@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Inmaculada</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Otero Tomas</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">92693715N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/11/1992</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Áncora 31</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Socuéllamos</TAG>, <TAG TYPE="TERRITORIO">Cádiz</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">11527</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">inmaculada_tomas@ciberer.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 63 60 39</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 756 09 31 08</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2355476</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">244459166040</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Enfermera</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Isaac Miranda Beltran</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">573612853</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardiólogo Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">21/06/2001</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Sur</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">refugiado</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>.
+  </TEXT>
+</MEDDOCAN>

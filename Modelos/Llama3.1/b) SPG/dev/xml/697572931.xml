@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lidia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Diez Contreras</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">99180966K</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/04/1947</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Espíritu Santo 15</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Úbeda</TAG>, <TAG TYPE="TERRITORIO">Cantabria</TAG>, <TAG TYPE="TERRITORIO">Cantabria</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">39120</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">lidia.diez@uhu.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 942 03 05 84</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 742 68 12 06</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7998987</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Conserje</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Natalia Franco Cortés</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">793389064</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">15/06/2023</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">24192791</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Norte</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">9191QDC</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Kia Sorento</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSNXARXDVXK909846</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">76 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

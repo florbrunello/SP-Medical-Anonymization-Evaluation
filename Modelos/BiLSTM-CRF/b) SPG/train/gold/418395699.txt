@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Sonia Varela Padilla
+DNI: 47356638Y
+Fecha de nacimiento: 23/12/1993
+Género: Femenino
+Domicilio: Calle del Amparo 20, 3L
+Ciudad: Langreo, Sevilla, Andalucía
+Código postal: 41738
+Email: varelapadilla@uca.es
+Teléfono fijo: +34 954 04 84 99
+Teléfono móvil: +34 754 94 30 25
+NHC: 7788838
+Condición de riesgo: Electricista
+
+Datos asistenciales.
+Médico: Dr. Marcos Gómez Calderon. NC 555097490. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/07/2019
+Hospital: Complejo Asistencial Universitario de León
+
+Informe clínico del paciente:
+Paciente de tez blanca de 25 años de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es EH402OXQ646. Se registró una sesión de firma biométrica, el código obtenido para revisarla es ZO038OKL251. 

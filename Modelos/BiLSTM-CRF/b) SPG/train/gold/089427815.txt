@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Mikel Vila Lozano
+DNI: 15042367E
+Fecha de nacimiento: 01/02/1943
+Género: Varón
+Domicilio: Calle de Arenal 28
+Ciudad: Salamanca, Vizcaya, Pais Vasco
+Código postal: 48902
+Email: lozano1926@ioba.med.uva.es
+Teléfono fijo: +34 946 25 45 64
+Teléfono móvil: +34 746 26 77 50
+NHC: 4721907
+NASS: 239498181876
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dr. Alejandro Macias Delgado. NC 712837992. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 23/12/1972
+Episodio: 31321240
+Hospital: Hospital Universitario de Crúces
+
+Informe clínico del paciente:
+Paciente no fumador de 29 años de edad. 

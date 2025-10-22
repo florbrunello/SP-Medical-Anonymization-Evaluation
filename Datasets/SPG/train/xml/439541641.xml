@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Jordi Casas Valero
+DNI: 37851433B
+Fecha de nacimiento: 17/09/2020
+Género: H
+Domicilio: Calle de Embajadores 51, 5G
+Ciudad: Lugo, Sevilla, Andalucía
+Código postal: 41636
+Email: jordi_casasvalero1197@ciberer.es
+Teléfono fijo: +34 954 97 39 78
+Teléfono móvil: +34 754 64 22 97
+NHC: 2617444
+NASS: 588082091600
+
+Datos asistenciales.
+Médico: Dra. Luisa Torres Cano. NC 374111573. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/06/2024
+Episodio: 34517898
+Centro de salud: Centro de Salud Delicias
+
+Informe clínico del paciente:
+Paciente víctima de desastre de 3 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-medical.edu//34171781Y. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Jordi" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="46" text="Casas Valero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="37851433B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="17/09/2020" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="142" text="Calle de Embajadores 51, 5G" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="155" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="164" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="175" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="41636" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="236" text="jordi_casasvalero1197@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 954 97 39 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="285" end="301" text="+34 754 64 22 97" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="307" end="314" text="2617444" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="321" end="333" text="588082091600" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="619" end="629" text="30/06/2024" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="640" end="648" text="34517898" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="666" end="690" text="Centro de Salud Delicias" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="731" end="750" text="víctima de desastre" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="754" end="760" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="787" end="792" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="827" end="849" text="http://example-medical" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

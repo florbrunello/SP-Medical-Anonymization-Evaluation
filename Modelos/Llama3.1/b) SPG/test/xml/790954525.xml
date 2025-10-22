@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Germán Vicente</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vila</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">29673536V</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/01/1961</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Tres Cruces 71</TAG>, <TAG TYPE="TERRITORIO">10Q</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Málaga</TAG>, <TAG TYPE="TERRITORIO">Almería</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">04759</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">german_vicente894@uca.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 950 89 13 48</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 750 95 55 90</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4509703</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisca Gil Gallardo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">615872500</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/07/2024</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">93294307</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de A Coruña</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">63 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">marido</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">HV811TVV655</TAG>.
+  </TEXT>
+</MEDDOCAN>

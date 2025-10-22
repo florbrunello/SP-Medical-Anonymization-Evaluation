@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Adam</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Blanco Guzman</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">76036725J</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">18/07/1941</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Embajadores 63</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Castellón de la Plana</TAG>, <TAG TYPE="TERRITORIO">Vizcaya</TAG>, <TAG TYPE="TERRITORIO">Pais Vasco</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">48394</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">blanco.guzman1867@hotmail.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 946 49 34 70</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 746 97 84 22</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9928716</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">949853681759</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Técnico de Radiología</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mercedes Prieto Cabrera</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">976855769</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Insuficiencia Cardíaca</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">03/07/1988</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Universitario San Cecilio</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia australiana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

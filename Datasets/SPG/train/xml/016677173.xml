@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Christian Díaz Rivas
+DNI: 92489881G
+Fecha de nacimiento: 27/03/1970
+Género: H
+Domicilio: Calle de Almagro 69
+Ciudad: San Sebastián, Navarra, Navarra
+Código postal: 31394
+Email: christian_diaz.rivas@aol.com
+Teléfono fijo: +34 948 42 20 36
+Teléfono móvil: +34 648 04 67 97
+NHC: 0695262
+NASS: 141283786403
+Condición de riesgo: Trabajador de Sanitización
+
+Datos asistenciales.
+Médico: Dr. Álex Santiago Montes. NC 532222105. Neurólogo Investigador en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 30/05/1985
+Episodio: 93998448
+Centro de salud: Centro de Salud Alcalá de Henares
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 15 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Christian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="48" text="Díaz Rivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="92489881G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="27/03/1970" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="136" text="Calle de Almagro 69" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="158" text="San Sebastián" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="167" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="176" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="192" end="197" text="31394" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="205" end="233" text="christian_diaz.rivas@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 948 42 20 36" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 648 04 67 97" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="304" end="311" text="0695262" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="318" end="330" text="141283786403" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="352" end="378" text="Trabajador de Sanitización" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="413" end="433" text="Álex Santiago Montes" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="438" end="447" text="532222105" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="449" end="496" text="Neurólogo Investigador en Trastornos Cognitivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="498" end="570" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="572" end="595" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="597" end="602" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="604" end="610" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="612" end="618" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="638" end="648" text="30/05/1985" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="659" end="667" text="93998448" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="685" end="718" text="Centro de Salud Alcalá de Henares" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="762" end="786" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="790" end="797" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="824" end="829" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

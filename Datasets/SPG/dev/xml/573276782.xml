@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Arnau Vega Zamora
+DNI: 12289179A
+Fecha de nacimiento: 24/11/1926
+Género: Masculino
+Domicilio: Calle del Sombrerete 37, 1W
+Ciudad: Móstoles, Sevilla, Andalucía
+Código postal: 41342
+Email: arnau_zamora803@isciii.es
+Teléfono fijo: +34 954 48 15 80
+Teléfono móvil: +34 654 70 20 27
+NHC: 1463367
+Condición de riesgo: Trabajador de la Construcción
+
+Datos asistenciales.
+Médico: Dra. Noa Lozano Herrera. NC 234388985. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/12/2015
+Episodio: 07012463
+Hospital: Complejo Hospitalario La Mancha Centro
+
+Informe clínico del paciente:
+Paciente discapacitado de 89 años de edad, acompañado de su hija. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Arnau" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="45" text="Vega Zamora" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="12289179A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="24/11/1926" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="110" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="149" text="Calle del Sombrerete 37, 1W" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="166" text="Móstoles" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="175" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="186" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="41342" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="240" text="arnau_zamora803@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 954 48 15 80" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="289" end="305" text="+34 654 70 20 27" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="311" end="318" text="1463367" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="340" end="369" text="Trabajador de la Construcción" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="648" end="658" text="01/12/2015" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="669" end="677" text="07012463" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="688" end="726" text="Complejo Hospitalario La Mancha Centro" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="767" end="780" text="discapacitado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="784" end="791" text="89 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="818" end="822" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

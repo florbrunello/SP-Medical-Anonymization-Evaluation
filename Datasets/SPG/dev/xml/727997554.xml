@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Raúl Marín Costa
+DNI: 81885316A
+Fecha de nacimiento: 27/11/1946
+Género: V
+Domicilio: Calle de Gobernador 78
+Ciudad: Alcalá de Henares, Segovia, Castilla y León
+Código postal: 40894
+Email: raul.marin.costa1864@protonmail.com
+Teléfono fijo: +34 921 51 38 33
+Teléfono móvil: +34 621 14 76 43
+NHC: 9392757
+NASS: 154138042770
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dra. Diana Ibáñez Trujillo. NC 976136775. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/06/1989
+Hospital: Complejo Asistencial Universitario Salamanca
+Matrícula del coche: 6699GRS
+Modelo: Volkswagen Golf
+VIN: VSXF6C2E6SF140812
+
+Informe clínico del paciente:
+Paciente de tez blanca de 42 años de edad, acompañado de su tía. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Raúl" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="44" text="Marín Costa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="81885316A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="27/11/1946" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="101" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="113" end="135" text="Calle de Gobernador 78" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="144" end="161" text="Alcalá de Henares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="170" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="187" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="40894" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="251" text="raul.marin.costa1864@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="267" end="283" text="+34 921 51 38 33" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="300" end="316" text="+34 621 14 76 43" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="322" end="329" text="9392757" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="336" end="348" text="154138042770" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="370" end="395" text="Trabajador de Laboratorio" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="651" end="661" text="30/06/1989" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="672" end="716" text="Complejo Asistencial Universitario Salamanca" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="738" end="745" text="6699GRS" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="775" end="792" text="VSXF6C2E6SF140812" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="836" end="846" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="850" end="857" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="884" end="887" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

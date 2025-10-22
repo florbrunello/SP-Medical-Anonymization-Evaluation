@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jon</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Domínguez Cano</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">59841900V</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/07/1967</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Tribulete 29, 10B</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Castellón de la Plana</TAG>, <TAG TYPE="TERRITORIO">Burgos</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">09823</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jon.dominguez-cano@ioba.med.uva.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 947 68 57 68</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 947 58 93 03</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7849375</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador Agrícola</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Pedro Aguilera Paredes</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">961493260</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">21/09/1977</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">61124625</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Moratalaz</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">4952YKU</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Kia Sorento</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSMHJPF5MJG140378</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tía</TAG>. Se realizó un <TAG TYPE="DIREC_PROT_INTERNET">expediente con URL</TAG> <TAG TYPE="URL_WEB">http://example-medical.edu//39546191D</TAG>.
+  </TEXT>
+</MEDDOCAN>

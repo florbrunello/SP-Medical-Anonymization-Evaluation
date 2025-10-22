@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Álex Gallardo Franco
+DNI: 94473597Q
+Fecha de nacimiento: 07/11/2023
+Género: Hombre
+Domicilio: Calle de Génova 86, 2X
+Ciudad: Yecla, Segovia, Castilla y León
+Código postal: 40361
+Email: gallardo-franco965@udc.es
+Teléfono fijo: +34 921 53 12 36
+FAX: +34 921 03 07 87
+NHC: 1930011
+NASS: 927861091751
+
+Datos asistenciales.
+Médico: Dra. María Cristina Ríos Acosta. NC 640234209. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/11/2024
+Episodio: 70226208
+Hospital: Hospital Clínic Universitario Virgen de la Arrixaca
+Matrícula del coche: 9217XOS
+Modelo: Mazda CX-5
+VIN: VSL38QTSA7H894728
+
+Informe clínico del paciente:
+Paciente no fumador de un año de edad, acompañado de su madre. Se registró una sesión de huella dactilar, el código obtenido para revisarla es DD297SIR737. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Álex" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="48" text="Gallardo Franco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="94473597Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="07/11/2023" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="110" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="144" text="Calle de Génova 86, 2X" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="158" text="Yecla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="167" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="184" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="40361" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="238" text="gallardo-franco965@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 921 53 12 36" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="276" end="292" text="+34 921 03 07 87" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="298" end="305" text="1930011" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="312" end="324" text="927861091751" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="598" end="608" text="09/11/2024" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="619" end="627" text="70226208" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="638" end="689" text="Hospital Clínic Universitario Virgen de la Arrixaca" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="711" end="718" text="9217XOS" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="743" end="760" text="VSL38QTSA7H894728" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="801" end="811" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="815" end="821" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="848" end="853" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T24" start="935" end="946" text="DD297SIR737" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

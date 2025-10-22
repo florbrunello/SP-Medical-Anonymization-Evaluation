@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Belén</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Guillen Moya</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">75262918H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/05/1950</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del León 60</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Segovia</TAG>, <TAG TYPE="TERRITORIO">Lérida</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">25878</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">guillen-moya@udc.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 973 28 31 56</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 773 14 10 71</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7781864</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">130916004266</TAG>
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">vegetariano</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rafael Casado Abad</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">582853156</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/10/1964</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">41112836</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de la Princesa</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0574SYQ</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Kia Sorento</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSE1I6E2MSF241298</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">http://example-medical.edu//55104839X</TAG>.
+  </TEXT>
+</MEDDOCAN>

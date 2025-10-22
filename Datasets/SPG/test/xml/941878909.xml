@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Purificación Benítez Espinosa
+DNI: 96065800K
+Fecha de nacimiento: 06/04/1995
+Género: Mujer
+Domicilio: Calle de Ferraz 5
+Ciudad: San Vicente del Raspeig, La Coruña, Galicia
+Código postal: 15273
+Email: benitez1817@ual.es
+Teléfono fijo: +34 981 24 69 30
+Teléfono móvil: +34 781 12 45 71
+NHC: 1142139
+Condición de riesgo: Farmacéutico
+
+Datos asistenciales.
+Médico: Dr. Ángel Ortega Estevez. NC 725003716. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 24/10/1999
+Hospital: Hospital General de Villalba
+Matrícula del coche: 6536ZIQ
+Modelo: Hyundai Elantra
+VIN: VSHE9REEYBF575241
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 4 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="Purificación" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="57" text="Benítez Espinosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="63" end="72" text="96065800K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="94" end="104" text="06/04/1995" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="113" end="118" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="130" end="147" text="Calle de Ferraz 5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="179" text="San Vicente del Raspeig" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="181" end="190" text="La Coruña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="192" end="199" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="215" end="220" text="15273" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="228" end="246" text="benitez1817@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="262" end="278" text="+34 981 24 69 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="295" end="311" text="+34 781 12 45 71" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="317" end="324" text="1142139" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="346" end="358" text="Farmacéutico" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="393" end="413" text="Ángel Ortega Estevez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="418" end="427" text="725003716" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="429" end="466" text="Residente de 4° año en Endocrinología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="468" end="535" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="537" end="564" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="566" end="571" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="573" end="580" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="582" end="588" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="608" end="618" text="24/10/1999" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="629" end="657" text="Hospital General de Villalba" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="679" end="686" text="6536ZIQ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="716" end="733" text="VSHE9REEYBF575241" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="774" end="795" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="799" end="805" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="832" end="837" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

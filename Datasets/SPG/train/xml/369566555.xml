@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Julia Gómez Heredia
+DNI: 99073561A
+Fecha de nacimiento: 16/07/2008
+Género: F
+Domicilio: Calle de la Alameda 33
+Ciudad: Socuéllamos, Guipúzcoa, Pais Vasco
+Código postal: 20810
+Email: julia-gomez@aol.com
+Teléfono fijo: +34 943 69 33 40
+Teléfono móvil: +34 643 01 87 72
+NHC: 4727670
+Condición de riesgo: Cirujano
+
+Datos asistenciales.
+Médico: Dr. Mohammed Abad Heredia. NC 688587530. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 80931588
+Centro de salud: Centro de Salud Alcorcón
+Matrícula del coche: 3041ATS
+Modelo: Audi A4
+VIN: VSI6J79HOYA106406
+
+Informe clínico del paciente:
+Paciente no fumador de 16 años de edad, acompañado de su compañero. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es CD789FCW130. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Julia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Gómez Heredia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="99073561A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="16/07/2008" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="138" text="Calle de la Alameda 33" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="158" text="Socuéllamos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="169" text="Guipúzcoa" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="181" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="20810" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="229" text="julia-gomez@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="245" end="261" text="+34 943 69 33 40" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 643 01 87 72" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="300" end="307" text="4727670" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="329" end="337" text="Cirujano" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="372" end="393" text="Mohammed Abad Heredia" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="398" end="407" text="688587530" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="409" end="444" text="Residente de 3° año en Oftalmología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="446" end="504" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="506" end="530" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="532" end="537" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="539" end="549" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="551" end="557" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="577" end="587" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="598" end="606" text="80931588" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="624" end="648" text="Centro de Salud Alcorcón" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="670" end="677" text="3041ATS" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="699" end="716" text="VSI6J79HOYA106406" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="757" end="767" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="771" end="778" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="805" end="814" text="compañero" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T32" start="898" end="909" text="CD789FCW130" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

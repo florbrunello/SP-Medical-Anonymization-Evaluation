@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gema</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">González Garrido</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">91697509M</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/03/1986</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Jesús y María 53</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Motril</TAG>, <TAG TYPE="TERRITORIO">Lérida</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">25833</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">gema_gonzalez_garrido@uca.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 973 22 06 06</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 673 05 06 99</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7006242</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">513713257060</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Joan Segura Soler</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">112696585</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/12/1988</TAG>
+    Episodio: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">43529439</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Aranjuez</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7070JIF</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hyundai Elantra</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSWR2U8BDWH007666</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">comunidades vulnerables</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermano</TAG>.
+  </TEXT>
+</MEDDOCAN>

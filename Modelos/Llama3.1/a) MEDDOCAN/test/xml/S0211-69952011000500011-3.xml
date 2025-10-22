@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pedro</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Campos Espinosa</TAG>
+    <TAG TYPE="ID_SUJETO_ASISTENCIA">3661587</TAG>
+    <TAG TYPE="ID_ASEGURAMIENTO">99 78136524 77</TAG>
+    <TAG TYPE="CALLE">Av. de Pío XII, 4</TAG>
+    <TAG TYPE="TERRITORIO">Guadalajara</TAG>
+    <TAG TYPE="TERRITORIO">19004</TAG>
+    Datos asistenciales.
+    <TAG TYPE="FECHAS">23/02/1970</TAG>
+    <TAG TYPE="PAIS">España</TAG>
+    <TAG TYPE="EDAD_SUJETO_ASISTENCIA">47 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    <TAG TYPE="FECHAS">15/10/2017</TAG>
+    <TAG TYPE="PROFESION">Nefrología</TAG>
+    <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">7436985</TAG>
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gabriel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">de Arriba</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">19 19 98741</TAG>
+    Historia Actual: Hombre de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">47 años</TAG>, con <TAG TYPE="OTRO_NUMERO_IDENTIF">diabetes tipo 2</TAG> de larga evolución en tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">metformina</TAG> (850 mg/8 h) y <TAG TYPE="OTRO_NUMERO_IDENTIF">glimepirida</TAG> (4 mg/día), fumador activo y bebedor habitual. Había tenido varios episodios de <TAG TYPE="OTRO_NUMERO_IDENTIF">pancreatitis aguda no litiásica</TAG>. Una semana antes de su ingreso tuvo un cuadro <TAG TYPE="OTRO_NUMERO_IDENTIF">sincopal</TAG> mientras trabajaba en el campo. Posteriormente presentó <TAG TYPE="OTRO_NUMERO_IDENTIF">astenia intensa</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">hipoorexia</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">malestar general</TAG> con <TAG TYPE="OTRO_NUMERO_IDENTIF">ortostatismo</TAG>. Acudió al centro de salud con una presión arterial de 70/35 mmHg y glucemia capilar de 20 mg/dl, por lo que se administró <TAG TYPE="OTRO_NUMERO_IDENTIF">glucagón i.v.</TAG>. En urgencias persistía la <TAG TYPE="OTRO_NUMERO_IDENTIF">hipotensión</TAG>, con signos de depleción de volumen extracelular y taquipnea. En la analítica tenía Cr plasmática de 10,3 mg/dl, glucemia de 287 mg/dl y ácido láctico de 20 mmol/l. La gasometría arterial reveló un pH de 6.87 con bicarbonato de 2,2 mEq/l. Se realizó intubación orotraqueal e ingresó en la UCI con ventilación asistida y administración de inotrópicos. Posteriormente se realizó <TAG TYPE="OTRO_NUMERO_IDENTIF">hemodiálisis</TAG> durante cuatro horas seguida de <TAG TYPE="OTRO_NUMERO_IDENTIF">hemofiltración venovenosa continua</TAG> con mejoría analítica. En el momento del alta tenía una Cr de 1,20 mg/dl, pH de 7,46 y bicarbonato de 24,6 mEq/l.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gabriel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">de Arriba</TAG>, <TAG TYPE="PROFESION">Sección de Nefrología</TAG>, <TAG TYPE="INSTITUCION">Hospital Universitario de Guadalajara</TAG>. <TAG TYPE="DEPARTAMENTO">Departamento de Medicina</TAG>. <TAG TYPE="INSTITUCION">Universidad de Alcalá</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">garribad@senefro.org</TAG>
+  </TEXT>
+</MEDDOCAN>

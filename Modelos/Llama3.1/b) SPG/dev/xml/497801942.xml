@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Fernando Vicente</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Heredia</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">82061987B</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">31/08/1930</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Hortaleza 2</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Torrejón de Ardoz</TAG>, <TAG TYPE="TERRITORIO">Albacete</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">02540</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">heredia@ciberehd.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 967 11 84 90</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 767 43 98 22</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3206590</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">731122485859</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Matilde Miranda Fernández</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">369948541</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">15/04/1993</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">23338664</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitari de Bellvitge</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">62 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

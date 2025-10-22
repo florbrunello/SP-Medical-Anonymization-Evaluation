@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Eric</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Campos Gallego</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">82705462S</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">05/01/1944</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle del Gobernador 75</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Fuenlabrada</TAG>, <TAG TYPE="TERRITORIO">Segovia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">40945</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">eric@hotmail.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 921 27 59 44</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 621 40 54 65</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6510634</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">415241973104</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Bombero</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Domingo Márquez Aguilera</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">817309519</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">24/06/1978</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Villaverde</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0911BWX</TAG>
+  Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Kia Sorento</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSWA2QOS28H772436</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">usuario de drogas</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">34 años</TAG> de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">YR911YSE425</TAG>.
+  </TEXT>
+</MEDDOCAN>

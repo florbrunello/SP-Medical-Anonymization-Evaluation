@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Tamara</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aguilera</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Montoya</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">18621797P</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">18/04/2016</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de la Cabeza 61, 6I</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">Socuéllamos</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">28558</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">tamara.aguilera@ciberehd.org</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 913 32 67 80</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 717 65 46 83</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1443721</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">133525641120</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Limpiador</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Anna Acosta Millan</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">230581808</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">05/09/2016</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">20749193</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Móstoles</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia árabe</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 meses</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

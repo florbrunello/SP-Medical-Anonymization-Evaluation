@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ramón Hurtado Exposito
+DNI: 62542647N
+Fecha de nacimiento: 13/08/1953
+Género: Hombre
+Domicilio: Calle de Fortuny 96, 10P
+Ciudad: Málaga, Soria, Castilla y León
+Código postal: 42253
+Email: hurtado.exposito710@isciii.es
+Teléfono fijo: +34 975 50 91 50
+Teléfono móvil: +34 775 58 51 60
+NHC: 9185553
+NASS: 987770381427
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dra. Valeria Rubio Santana. NC 239717251. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 18/12/1983
+Episodio: 31055972
+Centro de salud: Centro de Salud Benalmádena
+
+Informe clínico del paciente:
+Paciente musulman de 30 años de edad, acompañado de su hija. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Ramón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="50" text="Hurtado Exposito" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="62542647N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="13/08/1953" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="112" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="148" text="Calle de Fortuny 96, 10P" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="163" text="Málaga" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="170" text="Soria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="187" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="42253" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="245" text="hurtado.exposito710@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="261" end="277" text="+34 975 50 91 50" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="294" end="310" text="+34 775 58 51 60" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="316" end="323" text="9185553" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="330" end="342" text="987770381427" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="364" end="374" text="Paramédico" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="630" end="640" text="18/12/1983" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="651" end="659" text="31055972" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="677" end="704" text="Centro de Salud Benalmádena" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="745" end="753" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="757" end="764" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="791" end="795" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

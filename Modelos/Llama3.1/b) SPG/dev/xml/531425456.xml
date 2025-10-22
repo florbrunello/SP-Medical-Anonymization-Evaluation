@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vicente</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Salazar Miguel</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">97261304P</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">22/09/1973</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Moratín 89</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Cáceres</TAG>, <TAG TYPE="TERRITORIO">Asturias</TAG>, <TAG TYPE="TERRITORIO">Asturias</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">33744</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">vicentemiguel@ciberer.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 984 69 77 47</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 984 08 60 77</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9190058</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">982960571712</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mateo Torres Escobar</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">344612175</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/06/1994</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitari i Politècnic La Fe</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">usuario de drogas</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ángel Rivas Estevez
+DNI: 51081656J
+Fecha de nacimiento: 15/10/2014
+Género: Masculino
+Domicilio: Calle de Fortuny 57, 8J
+Ciudad: Torrelodones, Álava, Pais Vasco
+Código postal: 01674
+Email: angel_rivasestevez290@ciberned.es
+Teléfono fijo: +34 945 33 13 89
+Teléfono móvil: +34 745 19 90 72
+NHC: 9847442
+NASS: 652100069553
+Condición de riesgo: Fabricante
+
+Datos asistenciales.
+Médico: Dr. Nicolás Simon Varela. NC 805731645. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 11/02/2016
+Hospital: Hospital Universitario Río Hortega
+Matrícula del coche: 7224LXS
+Modelo: Ford F-150
+VIN: VSD5236YPTL605726
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de un año de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Ángel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Rivas Estevez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="51081656J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="15/10/2014" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="112" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="147" text="Calle de Fortuny 57, 8J" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="168" text="Torrelodones" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="175" text="Álava" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="187" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="01674" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="249" text="angel_rivasestevez290@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="265" end="281" text="+34 945 33 13 89" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="298" end="314" text="+34 745 19 90 72" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="320" end="327" text="9847442" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="334" end="346" text="652100069553" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="368" end="378" text="Fabricante" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="413" end="433" text="Nicolás Simon Varela" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="438" end="447" text="805731645" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="449" end="484" text="Residente de 3° año en Oftalmología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="486" end="544" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="546" end="570" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="572" end="577" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="579" end="589" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="591" end="597" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="617" end="627" text="11/02/2016" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="638" end="672" text="Hospital Universitario Río Hortega" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="694" end="701" text="7224LXS" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="726" end="743" text="VSD5236YPTL605726" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="787" end="816" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="820" end="826" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="853" end="859" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

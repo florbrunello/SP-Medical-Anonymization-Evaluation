@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Ramón</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vicente Salazar</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">91686845J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/02/1953</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Reina 49, 7T</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Pamplona</TAG>, <TAG TYPE="TERRITORIO">Sevilla</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">41165</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">joseramon.salazar@udc.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 57 66 18</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 654 43 19 25</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5782796</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">661459126610</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Minería</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernando Benítez Ferrer</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">720346537</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/04/2004</TAG>
+    Episodio: <TAG TYPE="OTRO_NUMERO_IDENTIF">08720153</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Delicias</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0312BUI</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Honda CR-V</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSZBXVTO7PL997519</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">51 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es <TAG TYPE="ID_CONTACTO_ASISTENCIAL">FD232JWM789</TAG>. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es <TAG TYPE="ID_CONTACTO_ASISTENCIAL">CL513EEW857</TAG>.
+  </TEXT>
+</MEDDOCAN>

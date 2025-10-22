@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Borja Esteban Gil
+DNI: 49280073C
+Fecha de nacimiento: 31/12/1980
+Género: M
+Domicilio: Calle de San Ildefonso 67
+Ciudad: Lleida, Valencia, Comunidad Valenciana
+Código postal: 46453
+Email: gil@yahoo.com
+Teléfono fijo: +34 960 78 21 08
+Teléfono móvil: +34 760 77 03 83
+NHC: 3002822
+Condición de riesgo: Farmacéutico
+
+Datos asistenciales.
+Médico: Dr. Jesús Espinosa Carrillo. NC 596593187. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 31/01/1984
+Episodio: 88455100
+Centro de salud: Centro de Salud Aluche
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 3 años de edad, acompañado de su abuela. El servidor para envío de información desde cual el usuario se comunica es smtp://example-pharma.org. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Borja" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="45" text="Esteban Gil" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="49280073C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="31/12/1980" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="139" text="Calle de San Ildefonso 67" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="154" text="Lleida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="164" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="186" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="46453" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="228" text="gil@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="244" end="260" text="+34 960 78 21 08" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="277" end="293" text="+34 760 77 03 83" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="299" end="306" text="3002822" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="328" end="340" text="Farmacéutico" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="375" end="398" text="Jesús Espinosa Carrillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="403" end="412" text="596593187" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="414" end="463" text="Psiquiatra Especialista en Trastornos de Ansiedad" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="465" end="535" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="537" end="566" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="568" end="573" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="575" end="581" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="583" end="589" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="609" end="619" text="31/01/1984" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="630" end="638" text="88455100" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="656" end="678" text="Centro de Salud Aluche" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="722" end="746" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="750" end="756" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="783" end="789" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="866" end="887" text="smtp://example-pharma" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

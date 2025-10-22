@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Bruno Vera Santamaria</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">52738758B</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/04/1932</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Doctor Esquerdo 35, 5M</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Guadix</TAG>, <TAG TYPE="TERRITORIO">Barcelona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">08211</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">qQQ0xoi1TjlZi00117@ciberehd.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 936 19 49 23</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 735 89 94 73</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9592671</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">828713097547</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Bombero</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pol Cabrera Alonso</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">288929861</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">06/08/1989</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">98874470</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alcorcón</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">57 años</TAG> de edad, acompañado de su vecino, presenta un cuadro clínico caracterizado por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolores abdominales crónicos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pérdida de peso significativa</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fatiga generalizada</TAG> durante los últimos seis meses. La exploración física revela un abdomen distensible, con una masa palpable en la región ilioecales derecha, sin dolor a la palpación.
+    Los datos analíticos muestran un hemograma normal, con una función renal levemente alterada, con una creatinina de <TAG TYPE="FECHAS">1,2 mg/dl</TAG>. La bioquímica muestra un aumento de la fosfatasa alcalina de <TAG TYPE="FECHAS">120 U/l</TAG> y una glucosa de <TAG TYPE="FECHAS">140 mg/dl</TAG>.
+    Se solicitan pruebas de imagen para evaluar la masa palpable en la región ilioecales derecha, incluyendo una ecografía abdominal y una tomografía computarizada. Las pruebas de imagen muestran una masa de <TAG TYPE="FECHAS">5 cm</TAG> de diámetro en la región ilioecales derecha, con características de un tumor benigno.
+    Con el diagnóstico de un tumor benigno en la región ilioecales derecha, se instaura un tratamiento conservador, incluyendo un seguimiento regular y un programa de fisioterapia para mejorar la función intestinal y la calidad de vida del paciente.
+    Antecedentes:
+    El paciente tiene un antecedente de un accidente cerebrovascular en el año <TAG TYPE="FECHAS">2010</TAG>, con una recuperación parcial de la función motora.
+    Evolución y comentarios:
+    El paciente ha mostrado una buena respuesta al tratamiento conservador, con una mejora significativa en la función intestinal y la calidad de vida. Se recomienda un seguimiento regular para evaluar la evolución del tumor y la respuesta al tratamiento.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pol Cabrera Alonso</TAG>, <TAG TYPE="PROFESION">Residente de 4° año en Endocrinología</TAG>, <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>.
+  </TEXT>
+</MEDDOCAN>

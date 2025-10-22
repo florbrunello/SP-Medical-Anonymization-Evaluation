@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Claudia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Serrano Parra</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">19248542A</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">18/04/2011</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de las Infantas 80</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Puertollano</TAG>, <TAG TYPE="TERRITORIO">Castellón</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">12345</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">claudiaserrano.parra1608@ciberned.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 964 99 39 89</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 664 15 05 29</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3086676</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Operador de Maquinaria Agrícola</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Manuel Varela Torres</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">017352968</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">05/08/2016</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">39989280</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Oeste</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia indígena americana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de firma biométrica</TAG>, el <TAG TYPE="IDENTIF_BIOMETRICOS">código obtenido para revisarla</TAG> es <TAG TYPE="IDENTIF_BIOMETRICOS">KR834DDR636</TAG>.
+  </TEXT>
+</MEDDOCAN>

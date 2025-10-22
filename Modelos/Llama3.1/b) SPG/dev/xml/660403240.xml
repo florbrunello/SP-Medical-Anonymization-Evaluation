@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rosa María</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Parra Cuesta</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">33385520P</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/07/1927</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Engracia 21, 5M</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Zaragoza</TAG>, <TAG TYPE="TERRITORIO">Alicante</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">03982</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">parra.cuesta140@ub.edu</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 965 16 96 25</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 665 09 68 42</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1565780</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">536156080646</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Almacén</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fátima Diez Acosta</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">973389977</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/02/1932</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">80507157</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Moratalaz</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">refugiado</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tío</TAG>.
+  </TEXT>
+</MEDDOCAN>

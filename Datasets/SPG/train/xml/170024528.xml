@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rosa María Cano Vera
+DNI: 16495575K
+Fecha de nacimiento: 06/04/1998
+Género: Mujer
+Domicilio: Calle del Doctor Piga 74, 3H
+Ciudad: Aranda de Duero, Toledo, Castilla-La Mancha
+Código postal: 45449
+Email: canovera28@us.es
+Teléfono fijo: +34 925 60 47 33
+FAX: +34 925 74 20 16
+NHC: 0704996
+NASS: 587212900102
+Condición de riesgo: Microbiólogo
+
+Datos asistenciales.
+Médico: Dra. Ainhoa Tomas Salas. NC 866761420. Neuropsicóloga Clínica Investigadora. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/03/2011
+Episodio: 96173157
+Hospital: Hospital General Universitario Reina Sofía
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 12 años de edad, acompañado de su tía. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Rosa María" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="48" text="Cano Vera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="16495575K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="06/04/1998" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="149" text="Calle del Doctor Piga 74, 3H" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="173" text="Aranda de Duero" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="175" end="181" text="Toledo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="183" end="201" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="217" end="222" text="45449" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="230" end="246" text="canovera28@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="262" end="278" text="+34 925 60 47 33" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 925 74 20 16" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="306" end="313" text="0704996" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="587212900102" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="354" end="366" text="Microbiólogo" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="618" end="628" text="04/03/2011" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="639" end="647" text="96173157" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="658" end="700" text="Hospital General Universitario Reina Sofía" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="741" end="762" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="766" end="773" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="800" end="803" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="880" end="904" text="smtp://example-nutrition" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

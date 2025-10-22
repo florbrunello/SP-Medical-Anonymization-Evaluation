@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Fabiola</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gabilondo Nuñez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2684020</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Principe de Vergara94, 5, E</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28023</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/08/2015</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">1 Mes y medio</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">02/09/2015</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Paola Catalina Morales Betancourt</TAG>  NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 21009</TAG>.
+    Informe clínico del paciente: Niña de un mes y medio de vida que acude a consulta acompañada de su madre <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Carmen</TAG> y su hermano <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Juan</TAG> de 2 años de edad. presenta fiebre (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">38 °C</TAG>) de 48 horas de evolución e irritabilidad, mucosidad nasal asociada; a la exploración presentaba exantema eritematoso de pequeños elementos y el resto de la exploración normal.
+    En una analítica inicial: leucocitos <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6310/µl</TAG> (segmentados 67%, cayados 6%, linfocitos 19%, monocitos 8%), hemoglobina (Hb) <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10,9 g/dl</TAG>, hematocrito (Hto) <TAG TYPE="EDAD_SUJETO_ASISTENCIA">29,6%</TAG>, plaquetas <TAG TYPE="EDAD_SUJETO_ASISTENCIA">492 000/µl</TAG>, proteína C reactiva (PCR) <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8,9 mg/l</TAG>. Se realiza punción lumbar: glucosa <TAG TYPE="EDAD_SUJETO_ASISTENCIA">51,3 mg/dl</TAG>, proteínas <TAG TYPE="EDAD_SUJETO_ASISTENCIA">133,9 mg/dl</TAG> (líquido hemorrágico).
+    Dada la sospecha de infección bacteriana grave, se ingresa para tratamiento antibiótico intravenoso con cefotaxima y ampicilina (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">200 mg/kg/día</TAG>), agregando en las siguientes 24 horas aciclovir (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">60 mg/kg/día</TAG>) para cubrir el virus herpes simple. Febril a las 48 horas. Al cuarto día presenta irritabilidad, mal color y estado general, con persistencia de exantema evanescente, y dificultad respiratoria; se realiza analítica de control con hallazgo de: leucocitos <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2670/µl</TAG> (segmentados 31%, cayados 3%, linfocitos 47%, linfocitos atípicos 5%, monocitos 11%), reticulocitos <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0,66%</TAG>, Hb <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8,0 g/dl</TAG>, Hto <TAG TYPE="EDAD_SUJETO_ASISTENCIA">25,3%</TAG>, plaquetas <TAG TYPE="EDAD_SUJETO_ASISTENCIA">131 000/µl</TAG>. Gasometría capilar: pH <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7,32</TAG>, PCO2 <TAG TYPE="EDAD_SUJETO_ASISTENCIA">43,3</TAG> y HCO3 <TAG TYPE="EDAD_SUJETO_ASISTENCIA">21,8 mmol/l</TAG>. Radiografía de tórax : infiltrados alveolointersticiales bilaterales, más llamativos en el lado izquierdo, sugestivos de edema agudo de pulmón. Ante el hallazgo de pancitopenia, se extraen muestras para serología de parvovirus y enterovirus, así como de gripe A. Se inicia oxigenoterapia de alto flujo y se traslada a la unidad de cuidados intensivos pediátricos de un <TAG TYPE="HOSPITAL">hospital terciario</TAG>, donde permaneció cinco días.
+    Los anticuerpos inmunoglobluina M (IgM) para parvovirus B19 son positivos e IgG negativos, con lo cual se hace diagnóstico de infección por parvovirus B19, insuficiencia respiratoria y pancitopenia asociada. La paciente presenta mejoría progresiva al quinto día de ingreso, y se da el alta al duodécimo día sin complicaciones posteriores. El hermano de la niña presenta posteriormente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">eritema infeccioso</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Paola Catalina Morales Betancourt</TAG> <TAG TYPE="CORREO_ELECTRONICO">kticamorales@gmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

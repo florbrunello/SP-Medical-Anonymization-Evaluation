@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Catalina García Galan
+DNI: 63680079W
+Fecha de nacimiento: 23/12/1931
+Género: Mujer
+Domicilio: Calle de Atocha 53
+Ciudad: Majadahonda, Navarra, Navarra
+Código postal: 31717
+Email: catalina.garcia-galan923@imibic.org
+Teléfono fijo: +34 948 33 78 69
+Teléfono móvil: +34 748 03 42 60
+NHC: 7209799
+Condición de riesgo: Inspector de Seguridad Minera
+
+Datos asistenciales.
+Médico: Dr. Santiago Cabrera Montes. NC 784688752. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 08/04/1971
+Episodio: 53607644
+Hospital: Complejo Hospitalario Universitario de A Coruña
+Matrícula del coche: 3851XHD
+Modelo: Toyota Corolla
+VIN: VSZB6QUH7GO274143
+
+Informe clínico del paciente:
+Paciente no fumador de 39 años de edad, acompañado de su prima. Se registró una sesión de firma biométrica, el código obtenido para revisarla es WF655CDW520. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Catalina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="49" text="García Galan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="63680079W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="23/12/1931" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="110" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="140" text="Calle de Atocha 53" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="160" text="Majadahonda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="169" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="178" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="194" end="199" text="31717" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="207" end="242" text="catalina.garcia-galan923@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="258" end="274" text="+34 948 33 78 69" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="291" end="307" text="+34 748 03 42 60" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="313" end="320" text="7209799" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="342" end="371" text="Inspector de Seguridad Minera" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="406" end="429" text="Santiago Cabrera Montes" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="434" end="443" text="784688752" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="445" end="483" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="485" end="552" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="554" end="581" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="583" end="588" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="590" end="597" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="599" end="605" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="625" end="635" text="08/04/1971" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="646" end="654" text="53607644" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="665" end="712" text="Complejo Hospitalario Universitario de A Coruña" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="734" end="741" text="3851XHD" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="770" end="787" text="VSZB6QUH7GO274143" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="828" end="838" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="842" end="849" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="876" end="881" text="prima" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T32" start="964" end="975" text="WF655CDW520" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Esperanza Gallardo Alarcon
+DNI: 78343474T
+Fecha de nacimiento: 26/06/1976
+Género: Mujer
+Domicilio: Calle del Gobernador 75
+Ciudad: Novelda, Ávila, Castilla y León
+Código postal: 05692
+Email: esperanza-gallardo@imibic.org
+Teléfono fijo: +34 920 14 05 05
+Teléfono móvil: +34 720 03 79 26
+NHC: 4312593
+NASS: 797720770042
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dr. Albert Román Giménez. NC 817346416. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/12/1997
+Episodio: 51951487
+Centro de salud: Centro de Salud Málaga Sur
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 21 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Esperanza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="54" text="Gallardo Alarcon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="78343474T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="26/06/1976" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="115" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="127" end="150" text="Calle del Gobernador 75" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="166" text="Novelda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="173" text="Ávila" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="190" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="05692" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="248" text="esperanza-gallardo@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="264" end="280" text="+34 920 14 05 05" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="297" end="313" text="+34 720 03 79 26" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="319" end="326" text="4312593" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="333" end="345" text="797720770042" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="367" end="388" text="Trabajador de Almacén" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="423" end="443" text="Albert Román Giménez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="448" end="457" text="817346416" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="459" end="503" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="505" end="591" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="593" end="622" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="624" end="629" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="631" end="637" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="639" end="645" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="665" end="675" text="02/12/1997" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="686" end="694" text="51951487" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="712" end="738" text="Centro de Salud Málaga Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="782" end="815" text="ascendencia indígena sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="819" end="826" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="853" end="858" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

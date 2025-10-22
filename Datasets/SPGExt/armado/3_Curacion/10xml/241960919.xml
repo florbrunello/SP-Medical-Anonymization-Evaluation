@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Omar Redondo López</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">59101862G</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/08/1953</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Recoletos 85, 1W</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ontinyent</TAG>, <TAG TYPE="TERRITORIO">Cantabria</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">39186</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">omar@ual.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 942 71 15 48</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 742 59 31 72</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2447895</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">827897174431</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Fabricante</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Christian</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pérez Lozano</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 711557722</TAG>. <TAG TYPE="PROFESION">Residente de 5° año en Urología</TAG>.
+    Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). <TAG TYPE="INSTITUCION">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">31/08/2015</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">75739897</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Aluche</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia nórdica o escandinava</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">62 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>. Se presentó en la consulta con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal crónico</TAG>, con episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ictericia</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hepatomegalia</TAG>. La exploración física reveló un abdomen protuberante, con una masa palpable en la región epigástrica. La ecografía abdominal mostró un tumor hepático de <TAG TYPE="FECHAS">8 cm</TAG> de diámetro, con características de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">carcinoma hepatocelular</TAG>.
+    La biopsia hepática confirmó el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">carcinoma hepatocelular</TAG>, con una clasificación de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Edmondson-Steiner</TAG> de <TAG TYPE="FECHAS">5</TAG>. El paciente fue sometido a una resección hepática extensa, con una cirugía de <TAG TYPE="FECHAS">12 horas</TAG> de duración. La recuperación del paciente fue lenta, con una estancia en la unidad de cuidados intensivos de <TAG TYPE="FECHAS">48 horas</TAG>.
+    En la revisión postoperatoria, el paciente presentó una hemorragia gastrointestinal leve, que se controló con la administración de terapia de reemplazo de coagulación. El paciente fue dado de alta en la unidad de cuidados hospitalarios, con instrucciones de seguimiento en la consulta de oncología.
+    Antecedentes:
+    El paciente tiene un antecedente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cirrosis hepática</TAG>, diagnosticado <TAG TYPE="FECHAS">5 años</TAG> atrás. El paciente también tiene un antecedente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumo excesivo de alcohol</TAG>, con una historia de <TAG TYPE="FECHAS">20 años</TAG> de consumo regular.
+    Evolución y comentarios:
+    El paciente ha estado en seguimiento en la consulta de oncología durante los últimos <TAG TYPE="FECHAS">6 meses</TAG>, con revisiones periódicas de la condición clínica y la respuesta al tratamiento. El paciente ha presentado una respuesta favorable al tratamiento, con una disminución de la tasa de crecimiento del tumor.
+    Remitido por:
+    El paciente ha sido remitido a la unidad de cuidados hospitalarios para seguimiento y tratamiento continuo. El paciente será revisado en la consulta de oncología en una semana, para evaluar la respuesta al tratamiento y ajustar la terapia según sea necesario.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gema</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Castro Ruiz</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">52899090X</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">16/02/1990</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de San Millán 4, 8A</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcázar de San Juan</TAG>, <TAG TYPE="TERRITORIO">Valladolid</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">47224</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">gema464@protonmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 983 19 91 80</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 783 03 86 21</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8260300</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">929191855912</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Maquinaria Agrícola</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Concepción Soto Merino</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">809841125</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/11/2012</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">00243015</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital General Universitario Reina Sofía</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22 años</TAG> de edad. Se registró una consulta virtual desde la dirección IP <TAG TYPE="DIREC_PROT_INTERNET">192.168.255.245</TAG>, con dirección MAC <TAG TYPE="IDENTIF_BIOMETRICOS">16:C2:9D:5A:D9:51</TAG>.
+  </TEXT>
+</MEDDOCAN>

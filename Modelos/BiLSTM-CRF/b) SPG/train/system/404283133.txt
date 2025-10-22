@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Mohamed Exposito Blanco
+DNI: 34623741R
+Fecha de nacimiento: 08/04/1930
+Género: H
+Domicilio: Calle de la Virgen de los Peligros 67
+Ciudad: Córdoba, Guipúzcoa, Pais Vasco
+Código postal: 20937
+Email: mohamed-exposito.blanco@yahoo.com
+Teléfono fijo: +34 943 23 78 92
+Teléfono móvil: +34 643 64 07 21
+NHC: 9773855
+NASS: 752165222294
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dra. María Victoria Alonso Castaño. NC 472742352. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 08/06/1969
+Episodio: 57793749
+Centro de salud: Centro de Salud Valdemoro
+
+Informe clínico del paciente:
+Paciente de tez blanca de 39 años de edad. El servidor para envío de información desde cual el usuario se comunica es smtp://example-ophthalmology.net. 

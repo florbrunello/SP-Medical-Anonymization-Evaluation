@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gloria</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Romero Esteban</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">83455036L</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">31/08/1946</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Alberto Aguilera 29</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Talavera de la Reina</TAG>, <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">38638</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">gloria.romero@ciberisciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 922 12 41 58</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 922 68 25 28</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8813309</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador Agrícola</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Josefa Parra Aparicio</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">571868174</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/02/1988</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">05160850</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Río Hortega</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">9761YSE</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Toyota RAV4</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSJ9GMHN4WM917177</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">41 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ana María Cruz Casado
+DNI: 63351952Q
+Fecha de nacimiento: 15/09/1962
+Género: F
+Domicilio: Calle de Menorca 13, 5S
+Ciudad: Alcázar de San Juan, Zamora, Castilla y León
+Código postal: 49922
+Email: cruz1111@outlook.com
+Teléfono fijo: +34 980 67 91 71
+Teléfono móvil: +34 680 52 32 98
+NHC: 6584399
+NASS: 654472216287
+Condición de riesgo: Técnico de Radiología
+
+Datos asistenciales.
+Médico: Dr. Marco Cano Ortiz. NC 074644894. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 18/12/1969
+Episodio: 53534753
+Centro de salud: Centro de Salud Centro
+
+Informe clínico del paciente:
+Paciente de tez blanca de 7 años de edad, acompañado de su tío. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es TH262XMH799. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Ana María" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="49" text="Cruz Casado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="63351952Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="15/09/1962" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="141" text="Calle de Menorca 13, 5S" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="169" text="Alcázar de San Juan" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="177" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="194" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="49922" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="243" text="cruz1111@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 980 67 91 71" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="292" end="308" text="+34 680 52 32 98" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="314" end="321" text="6584399" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="328" end="340" text="654472216287" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="362" end="383" text="Técnico de Radiología" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="418" end="434" text="Marco Cano Ortiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="439" end="448" text="074644894" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="450" end="487" text="Residente de 4° año en Endocrinología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="489" end="556" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="558" end="585" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="587" end="592" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="594" end="601" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="603" end="609" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="629" end="639" text="18/12/1969" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="650" end="658" text="53534753" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="676" end="698" text="Centro de Salud Centro" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="742" end="752" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="756" end="762" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="789" end="792" text="tío" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="875" end="886" text="TH262XMH799" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

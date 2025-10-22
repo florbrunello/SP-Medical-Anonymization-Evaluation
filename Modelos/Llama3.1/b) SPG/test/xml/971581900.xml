@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Encarnación</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santos</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Menendez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">43811831M</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/10/2012</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Cabeza del Rey Don Pedro 80</TAG>, <TAG TYPE="NUMERO">7E</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Segovia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">40906</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">encarnacion-santos@hotmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 921 32 19 29</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 621 20 36 92</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4081359</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador Industrial</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Rosario Andres Rey</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">728265965</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuropsicóloga Clínica Investigadora</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/05/2017</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">37805974</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Rey Juan Carlos de Mostoles</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1900NSM</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Nissan Altima</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSSCQRPEY4W776709</TAG>
+    
+    Informe clínico del paciente:
+    Paciente exfumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tía</TAG>. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-nutrition.net</TAG>. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">UH260VHM028</TAG>.
+  </TEXT>
+</MEDDOCAN>

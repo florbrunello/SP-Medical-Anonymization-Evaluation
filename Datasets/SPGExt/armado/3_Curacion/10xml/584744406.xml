@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Esperanza</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gallardo Alarcon</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">78343474T</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/06/1976</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Gobernador 75</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Novelda, Ávila, Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">05692</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">esperanza-gallardo@imibic.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 920 14 05 05</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 720 03 79 26</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4312593</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">797720770042</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Almacén</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Albert Román Giménez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">817346416</TAG>. <TAG TYPE="PROFESION">Cardiólogo Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">02/12/1997</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">51951487</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Sur</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia indígena sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">21 años</TAG> de edad, acompañado de su padre. Presenta un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fiebre alta</TAG> de <TAG TYPE="FECHAS">39,5°C</TAG>, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor de cabeza</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">musculares</TAG>. Se encuentra en un estado de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alerta</TAG>, pero con signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">agotamiento</TAG>.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">malaria</TAG> en su infancia, y ha sido tratado con medicamentos antimaláricos en varias ocasiones. También tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infecciones respiratorias frecuentes</TAG>.
+    Evolución y comentarios:
+    El paciente ha estado en una zona endémica de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">malaria</TAG> en la región amazónica durante los últimos 6 meses. Ha estado tomando medicamentos antimaláricos preventivos, pero ha presentado síntomas de infección en las últimas 48 horas. Se ha realizado una prueba de diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">malaria</TAG>, que ha resultado positiva.
+    Remitido por:
+    El paciente ha sido remitido por el <TAG TYPE="PROFESION">Servicio de Urgencias</TAG> del <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Sur</TAG>, donde se le diagnosticó la infección.
+    Informe clínico detallado:
+    La exploración física revela: Tª <TAG TYPE="FECHAS">39,5°C</TAG>; T.A: <TAG TYPE="FECHAS">110/70 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">120 lpm</TAG>. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">12,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">18.000/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">80%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">45 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">90%</TAG>; TTPA <TAG TYPE="FECHAS">28 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">120 mg/dl</TAG>; urea <TAG TYPE="FECHAS">30 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,2 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,8 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">20 U/l</TAG>; GPT <TAG TYPE="FECHAS">30 U/l</TAG>; GGT <TAG TYPE="FECHAS">40 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">150 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se ha solicitado una prueba de diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">malaria</TAG>, que ha resultado positiva. Se ha iniciado tratamiento con medicamentos antimaláricos, y se está monitoreando la evolución del paciente.
+  </TEXT>
+</MEDDOCAN>

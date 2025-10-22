@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Arnau Vega Zamora</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">12289179A</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/11/1926</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Sombrerete 37, 1W</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Móstoles, Sevilla, Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">41342</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">arnau_zamora803@isciii.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 48 15 80</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 654 70 20 27</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1463367</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">468043486571</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de la Construcción</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Noa</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lozano Herrera</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">234388985</TAG>. Residente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3° año</TAG> en <TAG TYPE="PROFESION">Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/12/2015</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">07012463</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario La Mancha Centro</TAG>.
+    Informe clínico del paciente:
+    Paciente discapacitado de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">89 años</TAG> de edad, acompañado de su hija, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, que acude al servicio de urgencias con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal crónico</TAG> y pérdida de peso en los últimos meses. La exploración física revela: <TAG TYPE="FECHAS">Tª 37,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 90 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración abdominal se aprecia un abdomen blando, depresible, sin masas ni megalias. Los datos analíticos muestran los siguientes resultados: <TAG TYPE="FECHAS">Hemograma: Hb 12,5 g/dl</TAG>; <TAG TYPE="FECHAS">leucocitos 9.500/mm3 (neutrófilos 60%)</TAG>; <TAG TYPE="FECHAS">plaquetas 180.000/mm3</TAG>. <TAG TYPE="FECHAS">VSG: 20 mm 1ª hora</TAG>. <TAG TYPE="FECHAS">Coagulación: TQ 90%</TAG>; <TAG TYPE="FECHAS">TTPA 25,8 seg</TAG>. <TAG TYPE="FECHAS">Bioquímica: Glucosa 140 mg/dl</TAG>; <TAG TYPE="FECHAS">urea 25 mg/dl</TAG>; <TAG TYPE="FECHAS">creatinina 1,2 mg/dl</TAG>; <TAG TYPE="FECHAS">sodio 135 mEq/l</TAG>; <TAG TYPE="FECHAS">potasio 3,8 mEq/l</TAG>; <TAG TYPE="FECHAS">GOT 20 U/l</TAG>; <TAG TYPE="FECHAS">GPT 30 U/l</TAG>; <TAG TYPE="FECHAS">GGT 40 U/l</TAG>; <TAG TYPE="FECHAS">fosfatasa alcalina 120 U/l</TAG>; <TAG TYPE="FECHAS">calcio 8,5 mg/dl</TAG>. <TAG TYPE="FECHAS">Orina: sedimento normal</TAG>.
+    Se solicitan pruebas de imagen (<TAG TYPE="PROFESION">Ecografía abdominal</TAG> y <TAG TYPE="PROFESION">Rx de abdomen</TAG>) que muestran un aumento del <TAG TYPE="HOSPITAL">hígado</TAG> y la <TAG TYPE="HOSPITAL">vesícula biliar</TAG>, con signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">inflamación</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fibrosis</TAG>. Se diagnostica una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedad hepática crónica</TAG>, probablemente causada por la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hepatitis C crónica</TAG>. Se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">antitérmicos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antiinflamatorios</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">elevación de la cama</TAG>) así como tratamiento específico: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Interferón alfa 3 veces a la semana</TAG> (durante <TAG TYPE="FECHAS">12 semanas</TAG>) y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ribavirina 2 veces al día</TAG> (durante <TAG TYPE="FECHAS">12 semanas</TAG>). El paciente mejora significativamente de su cuadro tras <TAG TYPE="FECHAS">6 semanas</TAG> de tratamiento, decidiéndose el alta a su domicilio donde completará la pauta de tratamiento.
+  </TEXT>
+</MEDDOCAN>

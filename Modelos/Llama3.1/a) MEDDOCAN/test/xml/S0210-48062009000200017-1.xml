@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Benito</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Llosa Lozano</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8597254</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">43 75620756 31</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Antonio Salcés, 24, 3, B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Valencia</TAG>.
+    CP: <TAG TYPE="TERRITORIO">46009</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/08/1956</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">60 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">10/01/2017</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Urología</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">8349623</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Vanesa</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bango García</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">46 46 58941</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">60 años</TAG>, con antecedentes de infecciones urinarias de repetición, que acudió a urgencias por presentar una masa en la zona inferior del abdomen, de unos seis meses de evolución, que sangraba de forma espontánea y le provocaba un intenso dolor.
+    Durante la exploración física, se apreció una placa de extrofia vesical en hipogastrio y un pene epispádico completo, que no fueron corregidos quirúrgicamente durante su infancia. Destacaba una formación exofítica en el seno de la placa, de 10 cm de diámetro y consistencia dura, con superficie friable que sangraba al mínimo roce. No se palparon adenopatías inguinales y el resto de la exploración no aportó otros hallazgos.
+    En el análisis de sangre, se objetivó una creatinina de 2,2 mg/dL siendo el resto de parámetros normales.
+    Tras ingreso hospitalario para completar estudio, se realizó ecografía renal bilateral en la que se apreció dilatación grado III/IV de ambos sistemas pielocaliciales. La urografía intravenosa, mostró una anulación funcional del riñón derecho, con retraso en la eliminación del izquierdo.
+    Se biopsió la masa sospechosa obteniendo el resultado histopatológico de adenocarcinoma vesical.
+    La TC toraco-abdomino-pélvico y el rastreo óseo no mostraron evidencia de metástasis.
+    El paciente se intervino quirúrgicamente, realizándose una cistoprostatectomía radical con linfadenectomía más derivación tipo Indiana y cierre del defecto de pared abdominal con fascia lata. El análisis histopatológico de la pieza quirúrgica reflejó la existencia de un adenocarcinoma tipo intestinal con algunas células en anillo de sello. Los márgenes de la pieza se encontraban infiltrados, con afectación extensa de partes blandas adyacentes y peritoneo y se aislaron dos adenopatías ilíacas infiltradas por el tumor. El estadio tumoral correspondía a un T4bN2M0.
+    El servicio de Oncología Médica desestimó tratamiento coadyuvante al considerar que no aumentaría la supervivencia del enfermo.
+    En el control de los 6 meses tras la cirugía, se palpó una adenopatía inguinal izquierda, indolora y de consistencia aumentada, junto con induración de los bordes de la herida quirúrgica, hallazgo compatible con recidiva local del tumor que se confirmó mediante biopsia de la zona sospechosa. El rastreo óseo en este momento continuó siendo negativo y en la TC se observó una masa heterogénea de bordes mal definidos en el lecho quirúrgico.
+    El paciente falleció 2 meses después por una sepsis de origen urinario.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Vanesa</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bango García</TAG> <TAG TYPE="PROFESION">Servicio de Urología</TAG>. <TAG TYPE="HOSPITAL">Hospital Universitario La Fe de Valencia</TAG>. <TAG TYPE="CALLE">Avenida Campanar, 21 - 46009 Valencia</TAG> Tel.: <TAG TYPE="NUMERO_TELEFONO">963 862 700</TAG> E-mail autor: <TAG TYPE="CORREO_ELECTRONICO">vaneban45@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

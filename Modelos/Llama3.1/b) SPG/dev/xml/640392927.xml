@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Josefa</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mateo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pacheco</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">52501023G</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/12/1960</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Marqués de Urquijo 64</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Zafra</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">18626</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">josefapacheco@hotmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 88 27 34</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 758 35 85 89</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8264838</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">287388926599</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tomás Prieto Rodríguez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">065483615</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">25/05/1966</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">37087742</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Pozuelo de Alarcón</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">9126ANN</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Subaru Outback</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSY6BRQ8UHG002434</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">http://example-radiology.edu//29762585R</TAG>.
+  </TEXT>
+</MEDDOCAN>

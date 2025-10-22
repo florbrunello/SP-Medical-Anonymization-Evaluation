@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jorge Montero Ramos</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">78311741F</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/03/2012</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Fortuny 23, 2J</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Badajoz, Albacete, Castilla-La Mancha</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">02746</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jorge-montero_ramos@outlook.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 967 96 31 77</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 767 12 37 98</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9252927</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">987654321098</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente pediátrico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Manuel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Vidal Suárez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">685616733</TAG>. Endocrinólogo Especialista en Diabetes. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Cargo: <TAG TYPE="PROFESION">Jefe de Sección de Endocrinología</TAG>.
+    Dirección: <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">30/03/2019</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">39810713</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Príncipe de Asturias</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0272TPA</TAG>.
+    Modelo: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">Ford Mustang</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSIRXR0OOFP929113</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">30/03/2019</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Hospital Universitario Príncipe de Asturias</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su madre. Presenta una temperatura corporal de <TAG TYPE="FECHAS">37,5°C</TAG>, pulso de <TAG TYPE="FECHAS">90 bpm</TAG> y respiraciones de <TAG TYPE="FECHAS">20/min</TAG>. El paciente se encuentra consciente, orientado y con buen estado de nutrición e hidratación. En la exploración física, no se palpan adenopatías ni bocio, con pulsos carotídeos simétricos. La auscultación cardíaca es rítmica, sin soplos ni roces. La auscultación pulmonar muestra conservación del murmullo vesicular. El abdomen es blando, depresible, sin masas ni megalias. En la exploración neurológica, no se detectan signos meníngeos ni datos de focalidad. Las extremidades no presentan varices ni edemas. Los pulsos periféricos son presentes y simétricos.
+    La evolución clínica del paciente es estable, sin signos de infección ni dolor. El paciente ha recibido tratamiento antibiótico preventivo en el hospital. Se ha solicitado una ecografía abdominal para evaluar la función hepática y renal. El paciente se encuentra en observación y se le realizará una revisión médica en las próximas 24 horas.
+    Antecedentes:
+    El paciente tiene antecedentes de alergia a ciertos alimentos y medicamentos. Su madre informa que el paciente ha tenido episodios de dolor abdominal en el pasado, pero no ha requerido hospitalización.
+    Evolución y comentarios:
+    El paciente se encuentra en una evolución estable y sin signos de infección. Se le realizará una revisión médica en las próximas 24 horas para evaluar su estado clínico.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Manuel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Vidal Suárez</TAG>, <TAG TYPE="PROFESION">Endocrinólogo Especialista en Diabetes</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Jaime Varela Otero
+DNI: 59917038Z
+Fecha de nacimiento: 30/07/1946
+Género: V
+Domicilio: Calle de Alberto Aguilera 1
+Ciudad: Toledo, Formentera, Islas Baleares
+Código postal: 07734
+Email: jaime_varela@ub.edu
+Teléfono fijo: +34 971 17 66 83
+FAX: +34 971 71 10 44
+NHC: 1120656
+NASS: 332863130010
+Condición de riesgo: Plomero
+
+Datos asistenciales.
+Médico: Dr. Izan Valero Morales. NC 233994090. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 28/07/2002
+Episodio: 81582461
+Hospital: Hospital Universitario Marqués de Valdecilla
+Matrícula del coche: 7488EOL
+Modelo: Tesla Model 3
+VIN: VSKJA04NLXT969922
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 55 años de edad, acompañado de su compañero. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Jaime" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="46" text="Varela Otero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="59917038Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="30/07/1946" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="142" text="Calle de Alberto Aguilera 1" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="157" text="Toledo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="169" text="Formentera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="185" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="07734" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="233" text="jaime_varela@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 971 17 66 83" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="271" end="287" text="+34 971 71 10 44" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="293" end="300" text="1120656" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="307" end="319" text="332863130010" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="341" end="348" text="Plomero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="383" end="402" text="Izan Valero Morales" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="407" end="416" text="233994090" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="418" end="462" text="Investigador Principal en Optometría Clínica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="464" end="522" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="524" end="548" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="550" end="555" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="557" end="567" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="569" end="575" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="595" end="605" text="28/07/2002" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="616" end="624" text="81582461" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="635" end="679" text="Hospital Universitario Marqués de Valdecilla" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="701" end="708" text="7488EOL" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="736" end="753" text="VSKJA04NLXT969922" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="797" end="818" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="822" end="829" text="55 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="856" end="865" text="compañero" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

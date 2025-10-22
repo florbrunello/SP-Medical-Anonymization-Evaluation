@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Patricia Herrera Benito
+DNI: 67558794C
+Fecha de nacimiento: 10/09/1945
+Género: Mujer
+Domicilio: Calle del Sombrerete 81, 8O
+Ciudad: Novelda, Córdoba, Andalucía
+Código postal: 14882
+Email: benito@ual.es
+Teléfono fijo: +34 957 54 50 25
+Teléfono móvil: +34 657 60 19 86
+NHC: 7939157
+NASS: 894065347089
+Condición de riesgo: Policía
+
+Datos asistenciales.
+Médico: Dr. Vicente Soto Camacho. NC 166077240. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/06/1999
+Hospital: Hospital Universitari de Bellvitge
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 53 años de edad, acompañado de su nuera. El servidor para envío de información desde cual el usuario se comunica es smtp://example-neurology.com. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Patricia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="51" text="Herrera Benito" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="67558794C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="10/09/1945" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="112" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="151" text="Calle del Sombrerete 81, 8O" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="167" text="Novelda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="176" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="187" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="14882" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="229" text="benito@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="245" end="261" text="+34 957 54 50 25" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 657 60 19 86" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="300" end="307" text="7939157" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="314" end="326" text="894065347089" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="348" end="355" text="Policía" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="390" end="410" text="Vicente Soto Camacho" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="415" end="424" text="166077240" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="426" end="470" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="472" end="558" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="560" end="589" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="591" end="596" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="598" end="604" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="606" end="612" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="632" end="642" text="19/06/1999" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="653" end="687" text="Hospital Universitari de Bellvitge" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="728" end="749" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="753" end="760" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="787" end="792" text="nuera" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="869" end="893" text="smtp://example-neurology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

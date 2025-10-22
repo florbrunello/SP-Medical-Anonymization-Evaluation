@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Milagros</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Domínguez</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Herrera</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">43241407G</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">15/05/1964</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Velázquez 93, 1C</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Burgos</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">09317</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">herrera@udc.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 947 47 07 63</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 647 47 86 33</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3301096</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">486385491196</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Operador de Equipos Mineros</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rebeca Pastor Arroyo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">479182987</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">19/03/2002</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">18087997</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Majadahonda</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

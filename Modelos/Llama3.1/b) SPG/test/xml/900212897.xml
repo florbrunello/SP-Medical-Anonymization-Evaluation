@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vicente Rueda</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vázquez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">56136718C</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/07/1982</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Valverde 88</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Albacete</TAG>, <TAG TYPE="TERRITORIO">Cáceres</TAG>, <TAG TYPE="TERRITORIO">Extremadura</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">10179</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">vazquez@icloud.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 927 52 99 61</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 627 24 87 64</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6557637</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">644343206193</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Servicios de Limpieza</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco Muñoz</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marcos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">527037338</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Oftalmólogo Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/04/1995</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">71243842</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Majadahonda</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7935DRE</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Chrysler Pacifica</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSV94RLWKGU569829</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">12 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tía</TAG>.
+  </TEXT>
+</MEDDOCAN>

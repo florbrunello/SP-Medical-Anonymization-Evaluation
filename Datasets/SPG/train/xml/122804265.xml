@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Asunción Vicente Suárez
+DNI: 17833649R
+Fecha de nacimiento: 15/03/1932
+Género: M
+Domicilio: Calle del Rollo 69
+Ciudad: Eibar, Badajoz, Extremadura
+Código postal: 06838
+Email: vicente.suarez@hotmail.com
+Teléfono fijo: +34 924 44 48 27
+Teléfono móvil: +34 724 01 32 16
+NHC: 1321515
+NASS: 761421578570
+Condición de riesgo: Trabajador de Mantenimiento
+
+Datos asistenciales.
+Médico: Dra. Sofía Vargas Mateos. NC 867392555. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/12/1988
+Episodio: 30747318
+Centro de salud: Centro de Salud Fuengirola
+
+Informe clínico del paciente:
+Paciente sobreviviente de violencia de 56 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="42" text="María Asunción" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="43" end="57" text="Vicente Suárez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="63" end="72" text="17833649R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="94" end="104" text="15/03/1932" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="113" end="114" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="144" text="Calle del Rollo 69" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="158" text="Eibar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="167" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="180" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="06838" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="235" text="vicente.suarez@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 924 44 48 27" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 724 01 32 16" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="1321515" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="761421578570" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="354" end="381" text="Trabajador de Mantenimiento" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="648" end="658" text="15/12/1988" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="669" end="677" text="30747318" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="695" end="721" text="Centro de Salud Fuengirola" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="762" end="788" text="sobreviviente de violencia" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="792" end="799" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

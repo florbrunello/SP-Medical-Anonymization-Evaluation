@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mercedes</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Exposito</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mateo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">41303842M</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/01/1953</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Infantas 99</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Puertollano</TAG>, <TAG TYPE="TERRITORIO">Cantabria</TAG>, <TAG TYPE="TERRITORIO">Cantabria</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">39222</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">exposito1434@protonmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 942 27 18 19</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 742 95 50 20</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1934246</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">391014620376</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Paramédico</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Moisés Fuentes Vargas</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">573808390</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardiólogo Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/11/1958</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">28046383</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Virgen del Rocío</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1358QBN</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Toyota Corolla</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSEKIU8NM4Q053660</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia nórdica o escandinava</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP</TAG> (<TAG TYPE="TERRITORIO">192.168.19.12</TAG>) (<TAG TYPE="TERRITORIO">en red interna</TAG>), con <TAG TYPE="IDENTIF_BIOMETRICOS">dirección MAC</TAG> <TAG TYPE="IDENTIF_BIOMETRICOS">14:B9:33:8E:C2:C8</TAG>. El <TAG TYPE="URL_WEB">servidor</TAG> para envío de información desde el cual el usuario se comunica es <TAG TYPE="URL_WEB">smtp://example-pharma.org</TAG>. Se registró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sesión de firma biométrica</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código</TAG> obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">OE404OJV552</TAG>.
+  </TEXT>
+</MEDDOCAN>

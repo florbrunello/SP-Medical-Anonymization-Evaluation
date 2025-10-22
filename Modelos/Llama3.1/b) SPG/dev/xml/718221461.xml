@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gloria</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">García León</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">49255460V</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">22/07/1969</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Bailén 25</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Segovia</TAG>, <TAG TYPE="TERRITORIO">La Coruña</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">15700</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">gloria1967@isciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 981 59 36 89</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 681 28 28 42</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2908176</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">448636078138</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Maquinaria Pesada</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Carlos Casas Sierra</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">885418136</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Endocrinólogo Especialista en Diabetes</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">22/01/2002</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">15972942</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Gran Canaria Dr. Negrín</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">32 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

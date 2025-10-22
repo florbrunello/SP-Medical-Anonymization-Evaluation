@@ -1,0 +1,98 @@
+```xml
+<informe_clinico>
+  <texto>
+    <sentencia>
+      <palabra TYPE="NOMBRE_SUJETO_ASISTENCIA">Dorleta</palabra>
+      <palabra TYPE="AP_PATERNO">Berkaitz</palabra>
+      <palabra TYPE="AP_MATERNO">Aduri</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="NHC">784645</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="NASS">08 75845765 45</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="DIREC_DOMICILIO">Avenida Zumalácarregui, 20 3A</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="LOCALIDAD">Donostia</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="CP">20008</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="FECHA_NACIMIENTO">25/05/1935</palabra>
+      <palabra TYPE="PAIS">España</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="EDAD">79 años</palabra>
+      <palabra TYPE="SEXO">M</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="FECHA_INGRESO">06/11/2014</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="SERVICIO">Oncología</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="NOMBRE_PERSONAL_SANITARIO">Karra Amillano Párraga</palabra>
+      <palabra TYPE="NUMERO_COL">20 20 98745</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="HISTORIA_ACTUAL">Se trata de una mujer de 79 años que acude a nuestro centro tras notarse una tumoración no dolorosa en la mama izquierda, que refiere de un mes de evolución aproximadamente.</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="ANTECEDENTES">hipertensión arterial y arritmia cardíaca no filiada</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="EXPLORACION_FISICA">A la exploración se palpa en cuadrante ínfero-interno de mama izquierda una tumoración sólida de unos 4 cm de diámetro, dura, mal delimitada, fija y adherida a planos profundos.</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="RESUMEN_PRUEBAS_COMPLEMENTARIAS">Se realiza estudio mamográfico de ambas mamas sin poder apreciar claramente la masa por encontrarse en plano profundo.</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="RESUMEN_PRUEBAS_COMPLEMENTARIAS">En el estudio ecográfico se aprecia una masa hipoecogénica y heterogénea de aproximadamente 28 x 30 mm con signos de malignidad, bordes irregulares y sombra acústica posterior.</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="RESUMEN_PRUEBAS_COMPLEMENTARIAS">Se realiza una microbiopsia clínica tipo tru-cut de la lesión, mostrando la histología una neoformación infiltrativa maligna de carácter fusocelular y que rodea a estructuras ducto acinares no neoplásicas.</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="DIAGNOSTICO">Las neoplasias malignas de células fusiformes de la mama plantean el diagnóstico diferencial principalmente entre carcinomas metaplásicos de células fusiformes y sarcomas, por lo que se indica la extirpación completa de la lesión y se difiere el diagnóstico definitivo al estudio histológico de la misma.</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="EVOLUCION_COMENTARIOS">Dada la edad de la paciente y tras valorar sus deseos y las posibilidades terapéuticas, se decide tratamiento quirúrgico, realizándose una cuadrantectomía ínfero-medial sin linfadenectomía axilar.</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="EVOLUCION_COMENTARIOS">El tamaño histológico de la neoplasia es 5 x 4,8 x 3,5 cm, con infiltración de la piel y del músculo esquelético y muestra microscópicamente una proliferación neoplásica infiltrante constituida por células fusiformes dispuestas en fascículos irregulares con abundantes áreas de necrosis y variable densidad celular.</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="EVOLUCION_COMENTARIOS">Las células neoplásicas presentan marcada atipia nuclear, hipercromasia y abundantes mitosis. En ninguna de las zonas estudiadas se aprecia epitelio ductolobulillar neoplásico o formando parte de la lesión y los escasos ductos observados parecen corresponder a estructuras no neoplásicas infiltradas por el tumor.</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="EVOLUCION_COMENTARIOS">En el estudio inmunohistoquímico las células neoplásicas son intensamente positivas con queratinas AE1-AE3, citoqueratina 22, vimentina, actina músculo liso, Cerb-2 y CD10 y negativas con queratina 903, EMA, citoqueratina 7, CD31, CD34, p63, actina total, desmina, miosina, CD68, proteína S-100 y HMB45.</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="EVOLUCION_COMENTARIOS">Los receptores hormonales de estrógenos y de progesterona son negativos.</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="DIAGNOSTICO">Con todos estos datos se establece el diagnóstico de carcinoma metaplásico de células fusiformes.</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="EVOLUCION_COMENTARIOS">La paciente no presenta signos de tumor residual y se decide tratamiento coadyuvante radioterápico a dosis de 60 Gy, a 2 Gy por fracción, en 5 fracciones por semana.</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="EVOLUCION_COMENTARIOS">Actualmente la paciente se encuentra asintomática, dos meses después de finalizar el tratamiento.</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="REMITIDO">Remitido por: Dr. Karra Amillano Párraga.</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="REMITIDO">Instituto Oncológico de Guipúzcoa Aldaconea, 44 E-20012 San Sebastián (Guipúzcoa)</palabra>
+    </sentencia>
+    <sentencia>
+      <palabra TYPE="REMITIDO">E-mail: kamillano@oncologico.org</palabra>
+    </sentencia>
+  </texto>
+</informe_clinico>
+```

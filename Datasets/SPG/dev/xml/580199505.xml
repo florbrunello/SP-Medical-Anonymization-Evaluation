@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Luis Valero Medina
+DNI: 24672884W
+Fecha de nacimiento: 13/08/1937
+Género: Varón
+Domicilio: Calle de Fuencarral 51
+Ciudad: Ferrol, Jaén, Andalucía
+Código postal: 23380
+Email: luis.valero.medina1064@isciii.es
+Teléfono fijo: +34 953 93 55 40
+Teléfono móvil: +34 653 34 23 51
+NHC: 3581298
+NASS: 361972762129
+Condición de riesgo: Técnico de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. Agustín Medina Gómez. NC 942568541. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 21/07/2022
+Episodio: 69330455
+Hospital: Hospital Universitario de la Princesa
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 84 años de edad, acompañado de su hijo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Luis" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="46" text="Valero Medina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="24672884W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="13/08/1937" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="107" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="141" text="Calle de Fuencarral 51" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="156" text="Ferrol" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="162" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="173" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="189" end="194" text="23380" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="202" end="234" text="luis.valero.medina1064@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 953 93 55 40" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 653 34 23 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="3581298" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="361972762129" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="353" end="375" text="Técnico de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="410" end="430" text="Agustín Medina Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="435" end="444" text="942568541" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="446" end="477" text="Residente de 5° año en Urología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="479" end="551" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="553" end="576" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="578" end="583" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="585" end="591" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="593" end="599" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="619" end="629" text="21/07/2022" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="640" end="648" text="69330455" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="659" end="696" text="Hospital Universitario de la Princesa" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="740" end="764" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="768" end="775" text="84 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="802" end="806" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

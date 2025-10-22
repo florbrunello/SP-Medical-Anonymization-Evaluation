@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lourdes Villanueva Sierra</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">77371673H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/01/1964</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Marqués de Urquijo 87, 10H</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ibiza, Lérida, Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">25850</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">lourdes1625@ciberer.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 973 80 70 12</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 773 89 80 04</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4735201</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">530480440128</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Conserje</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Gonzalo Roca Reyes</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">597246267</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">23/02/1988</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">09122829</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Conde de Casal</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="SEXO_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">58 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dislipidemia</TAG>. Se presentó en la consulta con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor en el pecho</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dificultad para respirar</TAG>. La exploración física reveló <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">taquicardia</TAG>. Se realizaron pruebas de laboratorio y de imagen para evaluar la causa de los síntomas. El diagnóstico fue <TAG TYPE="OTROS_SUJETO_ASISTENCIA">angina de pecho</TAG>, y se inició tratamiento con medicamentos para controlar la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dislipidemia</TAG>. El paciente fue instruido sobre la importancia de seguir un estilo de vida saludable y de controlar los factores de riesgo para prevenir complicaciones cardiacas.
+  </TEXT>
+</MEDDOCAN>

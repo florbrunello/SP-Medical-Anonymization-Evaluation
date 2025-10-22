@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Valentín Beltran Padilla
+DNI: 17199268Y
+Fecha de nacimiento: 14/08/1996
+Género: M
+Domicilio: Calle Gran Vía 13, 8D
+Ciudad: Tarragona, Sevilla, Andalucía
+Código postal: 41865
+Email: valentin.beltran-padilla520@ioba.med.uva.es
+Teléfono fijo: +34 954 52 92 04
+Teléfono móvil: +34 754 34 04 48
+NHC: 9951096
+NASS: 755065481723
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. Josep Carmona Román. NC 165971978. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/09/2023
+Episodio: 79365274
+Centro de salud: Centro de Salud Coslada
+
+Informe clínico del paciente:
+Paciente exfumador de 27 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Valentín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="52" text="Beltran Padilla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="17199268Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="14/08/1996" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="142" text="Calle Gran Vía 13, 8D" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="160" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="169" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="180" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="41865" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="252" text="valentin.beltran-padilla520@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="268" end="284" text="+34 954 52 92 04" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="301" end="317" text="+34 754 34 04 48" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="323" end="330" text="9951096" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="337" end="349" text="755065481723" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="371" end="396" text="Trabajador de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="431" end="450" text="Josep Carmona Román" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="455" end="464" text="165971978" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="466" end="515" text="Psiquiatra Especialista en Trastornos de Ansiedad" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="517" end="587" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="589" end="618" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="620" end="625" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="627" end="633" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="635" end="641" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="661" end="671" text="28/09/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="682" end="690" text="79365274" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="708" end="731" text="Centro de Salud Coslada" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="772" end="781" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="785" end="792" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

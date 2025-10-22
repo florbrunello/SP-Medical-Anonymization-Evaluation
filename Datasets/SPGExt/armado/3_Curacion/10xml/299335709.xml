@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ismael Sáez Varela</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">74952430F</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/08/2007</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Isabel 28</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Eibar</TAG>, <TAG TYPE="TERRITORIO">Ávila</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">05747</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ismael.saez1633@us.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 920 36 36 79</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 620 03 44 05</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9551728</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">920473268484</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Operador de Equipos Mineros</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rosario Arias Tomas</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 062390705</TAG>. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). <TAG TYPE="DIREC_PROT_INTERNET">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">22/09/2016</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">48208249</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Tetuán</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ismael Sáez Varela</TAG>, usuario de drogas de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> de edad, acompañado de su abuela. El paciente ha presentado signos de deterioro físico y mental en las últimas semanas, incluyendo pérdida de peso, cansancio y cambios en el comportamiento. Se requiere un seguimiento estrecho y tratamiento para abordar los problemas relacionados con el consumo de drogas y la salud general del paciente.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Miguel Cruz Beltran
+DNI: 35337546R
+Fecha de nacimiento: 15/04/1954
+Género: H
+Domicilio: Calle de Fortuny 13, 8M
+Ciudad: Estepa, Santa Cruz de Tenerife, Canarias
+Código postal: 38569
+Email: josemiguel@ioba.med.uva.es
+Teléfono fijo: +34 922 86 71 37
+Teléfono móvil: +34 722 40 20 76
+NHC: 8831468
+NASS: 356384068368
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dra. Nerea Maldonado Márquez. NC 020729684. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/03/2013
+Hospital: Hospital Universitari Vall d'Hebron
+
+Informe clínico del paciente:
+Paciente de tez blanca de 58 años de edad, acompañado de su hijo. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es BV535ABK094. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="José Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="52" text="Cruz Beltran" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="35337546R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="15/04/1954" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="144" text="Calle de Fortuny 13, 8M" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="159" text="Estepa" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="183" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="185" end="193" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="209" end="214" text="38569" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="222" end="248" text="josemiguel@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="264" end="280" text="+34 922 86 71 37" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="297" end="313" text="+34 722 40 20 76" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="319" end="326" text="8831468" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="333" end="345" text="356384068368" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="367" end="385" text="Ingeniero de Minas" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="658" end="668" text="20/03/2013" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="679" end="714" text="Hospital Universitari Vall d'Hebron" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="758" end="768" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="772" end="779" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="806" end="810" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T22" start="898" end="909" text="BV535ABK094" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

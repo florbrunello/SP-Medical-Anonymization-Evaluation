@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Antonio</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Recines Mohedano</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5458743</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">34 78567058 15</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Agustin de foxá, 27</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28039</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/08//1979</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">28/05/2017</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carmen</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Burgueño Montañés</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 57810</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> ex-adicto a drogas por vía parenteral y diagnosticado de hepatitis crónica por virus C genotipo 4 con una baja carga viral (75.754 UI/ml). Se instauró tratamiento con IFN pegilado alpha-2b (100µg/semana) y ribavirina (1g/día).
+    A los 2 meses del inicio del tratamiento acudió a la consulta y refirió visión borrosa y «manchas» en el campo visual desde aproximadamente 10 días antes. En la exploración oftalmológica presentó una AV de 0,8 con corrección en ambos ojos y múltiples exudados algodonosos en polo posterior. Se diagnosticó de retinopatía por IFN y se suspendió el tratamiento. En controles sucesivos el cuadro fue mejorando y a los 3 meses presentó una AV de 10/10 en ambos ojos y en el FO únicamente se apreció un exudado algodonoso en reabsorción inferior a fóvea izquierda.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Carmen</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Burgueño Montañés</TAG>. Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">casamata@gmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

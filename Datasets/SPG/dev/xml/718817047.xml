@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Carlota Martínez Esteban
+DNI: 95423597R
+Fecha de nacimiento: 13/02/1932
+Género: M
+Domicilio: Calle de Segovia 93
+Ciudad: Bormujos, Zaragoza, Aragón
+Código postal: 50565
+Email: carlota-esteban1171@ciberned.es
+Teléfono fijo: +34 976 87 85 13
+Teléfono móvil: +34 776 27 66 95
+NHC: 1162829
+NASS: 293686502214
+Condición de riesgo: Electricista
+
+Datos asistenciales.
+Médico: Dra. Diana Castillo Sierra. NC 340243682. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 05/05/1973
+Episodio: 88848341
+Centro de salud: Centro de Salud Benalmádena
+Matrícula del coche: 2140NVS
+Modelo: Honda Civic
+VIN: VSGVBHXMLFZ742548
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 41 años de edad, acompañado de su marido. Se registró una sesión de huella dactilar, el código obtenido para revisarla es UA875OED010. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Carlota" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="52" text="Martínez Esteban" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="95423597R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="13/02/1932" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="140" text="Calle de Segovia 93" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="157" text="Bormujos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="167" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="175" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="50565" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="235" text="carlota-esteban1171@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 976 87 85 13" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 776 27 66 95" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="1162829" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="293686502214" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="354" end="366" text="Electricista" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="607" end="617" text="05/05/1973" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="628" end="636" text="88848341" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="654" end="681" text="Centro de Salud Benalmádena" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="703" end="710" text="2140NVS" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="736" end="753" text="VSGVBHXMLFZ742548" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="797" end="823" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="827" end="834" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="861" end="867" text="marido" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T25" start="949" end="960" text="UA875OED010" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

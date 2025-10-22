@@ -1,0 +1,33 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 0 18	Fernando Vicente Heredia
+T2	ID_SUJETO_ASISTENCIA 42 58	82061987B
+T3	FECHAS 74 84	31/08/1930
+T4	SEXO_SUJETO_ASISTENCIA 98 100	Varón
+T5	CALLE 117 135	Calle de Hortaleza 2
+T6	TERRITORIO 141 151	Torrejón de Ardoz
+T7	TERRITORIO 155 165	Albacete
+T8	TERRITORIO 169 175	Castilla-La Mancha
+T9	TERRITORIO 181 187	02540
+T10	CORREO_ELECTRONICO 201 219	heredia@ciberehd.org
+T11	NUMERO_TELEFONO 223 243	+34 967 11 84 90
+T12	NUMERO_TELEFONO 247 267	+34 767 43 98 22
+T13	ID_SUJETO_ASISTENCIA 281 297	3206590
+T14	ID_SUJETO_ASISTENCIA 309 325	731122485859
+T15	CONDICION_RIESGO 340 354	Paciente con antecedentes de enfermedades crónicas
+T16	NOMBRE_PERSONAL_SANITARIO 361 385	Dra. Matilde Miranda Fernández
+T17	ID_TITULACION_PERSONAL_SANITARIO 406 417	369948541
+T18	PROFESION 419 429	Especialista en Genética Médica
+T19	INSTITUCION 432 446	Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)
+T20	CALLE 449 463	Avenida Monforte de Lemos 3-5
+T21	TERRITORIO 465 471	28029
+T22	TERRITORIO 473 479	Madrid
+T23	FECHAS 493 503	15/04/1993
+T24	ID_CONTACTO_ASISTENCIAL 517 524	23338664
+T25	HOSPITAL 529 549	Hospital Universitari de Bellvitge
+T26	ANTECEDENTE_MEDICO 561 575	Paciente con antecedentes de enfermedades crónicas, incluyendo hipertensión arterial y diabetes mellitus tipo 2
+T27	EVOLUCION 591 613	El paciente ha estado bajo tratamiento con medicamentos para controlar sus enfermedades crónicas. Sin embargo, ha presentado recientemente un aumento en la frecuencia de episodios de insuficiencia cardíaca, lo que ha llevado a un aumento en la necesidad de hospitalización
+T28	REMISION 645 657	Dra. Matilde Miranda Fernández
+T29	PROFESION 660 670	Especialista en Genética Médica
+T30	INSTITUCION 683 697	Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)
+T31	CALLE 700 714	Avenida Monforte de Lemos 3-5
+T32	TERRITORIO 726 732	28029
+T33	TERRITORIO 734 740	Madrid

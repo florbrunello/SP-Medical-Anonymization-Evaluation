@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marcos Gil Ruiz</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">48351620P</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/07/1938</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Génova 17</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcalá de Henares</TAG>, <TAG TYPE="TERRITORIO">Segovia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">40774</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ruiz@ciberned.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 921 53 16 72</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 721 04 60 09</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0499026</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">403898434393</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ama de casa</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Elisa Santiago Muñoz</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 477001414</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/12/2015</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Asistencial Universitario de León</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5674YKX</TAG>.
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Tesla Model 3</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSO6043KCEI761020</TAG>.
+    Informe clínico del paciente:
+    Paciente usuario de drogas de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">77 años</TAG> de edad, con antecedentes de consumo de sustancias psicoactivas desde su juventud. Presenta una evolución clínica de deterioro progresivo de su estado de salud, con episodios de ansiedad y depresión. En la exploración física, se observa una disminución de la masa muscular y una alteración en la función cognitiva. Los análisis de sangre muestran una anemia moderada y un aumento en la creatinina. El paciente refiere dolores articulares y una disminución en la movilidad. Se solicitan pruebas de imagen para evaluar la presencia de patología cardiovascular y neurológica.
+    Evolución y comentarios:
+    El paciente ha estado bajo tratamiento con medicamentos para controlar sus síntomas, pero ha presentado una respuesta inadecuada. Se considera la posibilidad de un tratamiento con terapia de sustitución para controlar el consumo de drogas. Se le aconseja una dieta equilibrada y un estilo de vida saludable para mejorar su estado de salud.
+    Remitido por:
+    Se remite al paciente a la unidad de rehabilitación para un programa de tratamiento integral. Se le aconseja seguir las instrucciones del equipo de salud y realizar las pruebas de seguimiento programadas.
+  </TEXT>
+</MEDDOCAN>

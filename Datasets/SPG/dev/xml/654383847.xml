@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Josep Quintana Del Rio
+DNI: 12181837W
+Fecha de nacimiento: 27/01/2012
+Género: V
+Domicilio: Calle de la Magdalena 69
+Ciudad: Guadix, Menorca, Islas Baleares
+Código postal: 07281
+Email: josep_quintana@yahoo.com
+Teléfono fijo: +34 971 28 38 24
+Teléfono móvil: +34 771 59 08 67
+NHC: 8676020
+NASS: 274035334751
+Condición de riesgo: Guardia de Seguridad
+
+Datos asistenciales.
+Médico: Dra. María Paz Muñoz Villar. NC 771159377. Endocrinóloga Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 28/01/2014
+Centro de salud: Centro de Salud Getafe
+Matrícula del coche: 6768DAA
+Modelo: Chrysler Pacifica
+VIN: VSHWQ9FW5GP972468
+
+Informe clínico del paciente:
+Paciente de tez blanca de 2 años de edad, acompañado de su abuelo. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es QV879QOR122. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="42" text="Josep Quintana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="43" end="50" text="Del Rio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="12181837W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="27/01/2012" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="143" text="Calle de la Magdalena 69" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="158" text="Guadix" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="167" text="Menorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="183" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="199" end="204" text="07281" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="212" end="236" text="josep_quintana@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 971 28 38 24" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="285" end="301" text="+34 771 59 08 67" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="307" end="314" text="8676020" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="321" end="333" text="274035334751" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="355" end="375" text="Guardia de Seguridad" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="629" end="639" text="28/01/2014" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="657" end="679" text="Centro de Salud Getafe" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="701" end="708" text="6768DAA" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="740" end="757" text="VSHWQ9FW5GP972468" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="801" end="811" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="815" end="821" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="848" end="854" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T24" start="938" end="949" text="QV879QOR122" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

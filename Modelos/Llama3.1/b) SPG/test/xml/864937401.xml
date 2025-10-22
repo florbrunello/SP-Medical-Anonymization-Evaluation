@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rosario</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santos Heredia</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">83793037N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">18/12/1987</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Letras 65</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Linares</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">17184</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">santos_heredia904@protonmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 09 83 14</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 972 07 30 56</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3654168</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">759519347678</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ismael Padilla Ortega</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">250527915</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/04/1998</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">45659177</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Gran Canaria Dr. Negrín</TAG>
+    
+    Informe clínico del paciente:
+    Paciente no <TAG TYPE="OTRO_NUMERO_IDENTIF">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tía</TAG>.
+    El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-therapy.org</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">OD747AON524</TAG>.
+  </TEXT>
+</MEDDOCAN>

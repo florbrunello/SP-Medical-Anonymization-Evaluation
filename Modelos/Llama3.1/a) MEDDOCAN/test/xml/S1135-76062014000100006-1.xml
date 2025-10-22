@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pedro</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Teixidó Gonu</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7384503</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">98 05732645 02</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. Cornellá, 19, 3 A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">08014</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/08/1930</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">81 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">29/05/2011</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Helena</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Martínez Alcázar</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">08 08 55975</TAG>.
+    Informe clínico del paciente: varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">81 años</TAG> con antecedentes de <TAG TYPE="OTRO_NUMERO_IDENTIF">hipertensión arterial</TAG> en tratamiento, <TAG TYPE="OTRO_NUMERO_IDENTIF">hernia inguinal</TAG> intervenida 20 años antes e <TAG TYPE="OTRO_NUMERO_IDENTIF">hiperplasia benigna de próstata</TAG>. Tres días antes de su fallecimiento presentó dolor en el epigastrio, por el que consultó a su médico de cabecera y el electrocardiograma se informó como normal. El dolor mejoró, pero a pesar de ello presentó un cuadro de <TAG TYPE="OTRO_NUMERO_IDENTIF">náuseas</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">síncope</TAG>, por el que fue atendido por el servicio de emergencias médicas, quienes únicamente pudieron acreditar la muerte.
+    Durante la autopsia se evidenció una cicatriz de <TAG TYPE="PROFESION">laparotomía</TAG> media supraumbilical de la que no constaba el motivo en sus antecedentes patológicos, ya que la única intervención documentada era como consecuencia de una <TAG TYPE="OTRO_NUMERO_IDENTIF">hernia inguinal</TAG>.
+    La causa de la muerte en este caso fue un <TAG TYPE="OTRO_NUMERO_IDENTIF">hemopericardio</TAG> secundario a <TAG TYPE="OTRO_NUMERO_IDENTIF">rotura de infarto transmural</TAG> en la pared libre del ventrículo izquierdo y <TAG TYPE="OTRO_NUMERO_IDENTIF">aterosclerosis coronaria</TAG> grave de los tres vasos.
+    Un hallazgo de autopsia que llamó nuestra atención fue la presencia de cambios en la morfología externa del <TAG TYPE="OTRO_NUMERO_IDENTIF">estómago</TAG>, de aspecto <TAG TYPE="OTRO_NUMERO_IDENTIF">hiperémico</TAG>, retráctil, con nódulos diseminados y amarillentos. Al corte estos nódulos presentaban un contenido negro y filoso que recordaba pepitas de fruta.
+    El estudio histológico llevado a cabo determinó que se trataba de una <TAG TYPE="OTRO_NUMERO_IDENTIF">fibrosis cicatricial</TAG> evolucionada y calcificada en relación con restos de material de <TAG TYPE="PROFESION">sutura</TAG> (seda).
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Helena</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Martínez Alcázar</TAG> <TAG TYPE="INSTITUCION">Servei de Patologia Forense del Institut de Medicina Legal de Catalunya</TAG> <TAG TYPE="CALLE">Edifici G, 5a planta</TAG> <TAG TYPE="CALLE">Ciutat de la Justícia</TAG> <TAG TYPE="CALLE">Gran Via Corts Catalanes, 111</TAG> <TAG TYPE="TERRITORIO">08014</TAG> <TAG TYPE="TERRITORIO">Barcelona</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">helena.martinez@xij.gencat.cat</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aurora</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Padilla Aguilar</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">98220467W</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">16/09/1963</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Fúcar 54, 4I</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ermua</TAG>, <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">14127</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">aurorapadilla-aguilar@protonmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 957 37 85 03</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 757 60 53 11</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9182435</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Albañil</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Ángeles Marín Montoya</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">864247234</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/08/1988</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">68943682</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alcalá de Henares</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">24 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP (en red interna)</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">192.168.194.35</TAG>, con <TAG TYPE="IDENTIF_BIOMETRICOS">dirección MAC</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">57:56:C9:8E:80:20</TAG>.
+  </TEXT>
+</MEDDOCAN>

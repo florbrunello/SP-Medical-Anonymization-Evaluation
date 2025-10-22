@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Juan Pedro Parra Marín
+DNI: 87485775P
+Fecha de nacimiento: 07/01/1943
+Género: M
+Domicilio: Calle de Claudio Coello 64
+Ciudad: Gijón, La Coruña, Galicia
+Código postal: 15744
+Email: juanpedro125@ciberer.es
+Teléfono fijo: +34 981 26 33 21
+Teléfono móvil: +34 781 91 58 24
+NHC: 2549648
+NASS: 172649836218
+Condición de riesgo: Técnico de Laboratorio
+
+Datos asistenciales.
+Médico: Dra. María Cristina Fernández Cruz. NC 180885630. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/09/1969
+Episodio: 90863110
+Hospital: Hospital Universitari i Politècnic La Fe
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 26 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-healthcare.net//47266656Q. 

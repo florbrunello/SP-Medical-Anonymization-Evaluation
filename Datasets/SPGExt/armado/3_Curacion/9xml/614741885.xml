@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Valentina Bravo Calderón</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">81194710H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/09/2019</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio:  <TAG TYPE="CALLE">Calle de Arenal 93</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Majadahonda</TAG>, <TAG TYPE="TERRITORIO">Lérida</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">25827</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">valentina-calderon1940@ioba.med.uva.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 973 32 30 08</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 973 99 53 13</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0753337</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Operador de Máquina</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Guzmán Mendoza</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 439202571</TAG>. <TAG TYPE="PROFESION">Cardiólogo Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/09/2021</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">02614301</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Getafe</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6747JWF</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mazda CX-5</TAG>
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSIHU29H3NO710672</TAG>
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/09/2021</TAG>
+    Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Centro de Salud Getafe</TAG>
+  </TEXT>
+</MEDDOCAN>

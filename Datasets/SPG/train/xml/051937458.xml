@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Irene Rey Jurado
+DNI: 32459096R
+Fecha de nacimiento: 25/10/2022
+Género: Mujer
+Domicilio: Calle del Rollo 74
+Ciudad: Yecla, Asturias, Asturias
+Código postal: 33176
+Email: jurado@icloud.com
+Teléfono fijo: +34 984 30 09 96
+Teléfono móvil: +34 784 19 11 33
+NHC: 4210252
+NASS: 270494222396
+Condición de riesgo: Farmacéutico
+
+Datos asistenciales.
+Médico: Dr. Javier González Galvez. NC 165027252. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 31/12/2024
+Episodio: 00308009
+Hospital: Hospital Universitario Central de Asturias
+Matrícula del coche: 2873NGD
+Modelo: Chrysler Pacifica
+VIN: VSIPZQB9KWD396445
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 2 años de edad, acompañado de su madre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-cardiology.com. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Irene" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="44" text="Rey Jurado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="32459096R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="25/10/2022" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="105" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="135" text="Calle del Rollo 74" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="144" end="149" text="Yecla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="151" end="159" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="161" end="169" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="185" end="190" text="33176" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="198" end="215" text="jurado@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="231" end="247" text="+34 984 30 09 96" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="264" end="280" text="+34 784 19 11 33" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="286" end="293" text="4210252" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="300" end="312" text="270494222396" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="334" end="346" text="Farmacéutico" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="381" end="403" text="Javier González Galvez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="408" end="417" text="165027252" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="419" end="459" text="Investigador Clínico en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="461" end="528" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="530" end="557" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="559" end="564" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="566" end="573" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="575" end="581" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="601" end="611" text="31/12/2024" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="622" end="630" text="00308009" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="641" end="683" text="Hospital Universitario Central de Asturias" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="705" end="712" text="2873NGD" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="744" end="761" text="VSIPZQB9KWD396445" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="805" end="833" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="837" end="843" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="870" end="875" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T33" start="952" end="977" text="smtp://example-cardiology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

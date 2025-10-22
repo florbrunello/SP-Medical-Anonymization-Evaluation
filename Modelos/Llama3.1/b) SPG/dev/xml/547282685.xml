@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Miguel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Casas Gallardo</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">20651268M</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">06/05/2021</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Bravo Murillo 70</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Alcázar de San Juan</TAG>, <TAG TYPE="TERRITORIO">Zamora</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">49341</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">casas_gallardo1124@gmail.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 980 93 18 04</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 980 54 86 57</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7064209</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">441988478095</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Enfermera</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Isabel Moya Domínguez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">784443005</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Insuficiencia Cardíaca</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">10/08/2023</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">00592523</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Doctor Peset</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermano</TAG>.
+  Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">http://example-nutrition.net//88393720B</TAG>.
+  </TEXT>
+</MEDDOCAN>

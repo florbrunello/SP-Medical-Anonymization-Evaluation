@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Jon Guerra Bernal
+DNI: 89145293F
+Fecha de nacimiento: 20/08/1933
+Género: V
+Domicilio: Calle de la Luna 73
+Ciudad: Alcázar de San Juan, Ciudad Real, Castilla-La Mancha
+Código postal: 13550
+Email: jon-guerra@yahoo.com
+Teléfono fijo: +34 926 00 28 24
+Teléfono móvil: +34 626 55 03 82
+NHC: 6118450
+NASS: 391091042378
+
+Datos asistenciales.
+Médico: Dra. María Luisa Lorenzo Díaz. NC 776070173. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 29/07/1962
+Hospital: Complejo Asistencial Universitario de León
+
+Informe clínico del paciente:
+Paciente sobreviviente de violencia de 28 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Jon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="45" text="Guerra Bernal" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="89145293F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="20/08/1933" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="133" text="Calle de la Luna 73" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="142" end="161" text="Alcázar de San Juan" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="174" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="194" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="13550" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="243" text="jon-guerra@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 926 00 28 24" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="292" end="308" text="+34 626 55 03 82" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="314" end="321" text="6118450" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="328" end="340" text="391091042378" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="596" end="606" text="29/07/1962" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="617" end="659" text="Complejo Asistencial Universitario de León" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="700" end="726" text="sobreviviente de violencia" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="730" end="737" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

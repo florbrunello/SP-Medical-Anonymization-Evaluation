@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jonathan</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Núñez Bravo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">10666347M</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/10/1945</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Olivar 100</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Lleida</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">18059</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jonathan_nunez1561@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 73 01 83</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 658 36 65 01</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2273655</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">550828374750</TAG>
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">vegetariano</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Estefanía Sáez Carrillo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">181901319</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Principal en Optometría Clínica</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/11/2000</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">70356928</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Vicálvaro</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">55 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

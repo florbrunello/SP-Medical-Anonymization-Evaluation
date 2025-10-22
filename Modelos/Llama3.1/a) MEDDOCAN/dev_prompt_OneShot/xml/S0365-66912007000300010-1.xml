@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Andres</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Perez Jurado</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">346457</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">05 61475647 56</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Tudela, 17</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">47002</TAG>.
+    CP: <TAG TYPE="TERRITORIO">Valladolid</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/03/1985</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">06/08/2018</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Oftalmologia</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Victor Manuel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Asensio Sánchez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">47 47 63721</TAG>.
+    Historia Actual: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG> que el <TAG TYPE="FECHAS">20-08-05</TAG> es trasladado a urgencias por un corte sangrante en el cuello realizado al caerse sobre el escaparate de una tienda. En urgencias se apreció un traumatismo inciso en la región antero-lateral derecha del cuello con una disección limpia que interesaba sólo a los tejidos superficiales y sin daño aparente del resto de estructuras por lo que se suturó por planos. El día <TAG TYPE="FECHAS">4-09-06</TAG> acude a urgencias de nuestro hospital para revisión de la herida refiriendo cefalea y visión borrosa con el ojo derecho (OD). En el examen oftalmológico la agudeza visual no corregida con el OD era de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">1</TAG> y con el ojo izquierdo (OI) de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">1</TAG>. La presión intraocular fue de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">12 mm Hg</TAG> en OD y de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">13 mm Hg</TAG> en OI. La motilidad ocular extrínseca fue normal salvo una ptosis palpebral derecha de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3 mm</TAG> con buena función del elevador. La pupila del OD medía <TAG TYPE="OTROS_SUJETO_ASISTENCIA">2,0 mm</TAG> y la del OI <TAG TYPE="OTROS_SUJETO_ASISTENCIA">4,0 mm</TAG>. La exploración y palpación externas del cuello, salvo los hallazgos del traumatismo, eran normales. Se realizó una TAC cervical apreciándose un gran hematoma con crecimiento interno que estaba comprimiendo de forma significativa la tráquea, por lo que se decidió exploración y evacuación intraquirúrgica donde se apreció una solución de continuidad en la vena yugular externa que estaba filtrando a planos profundos. Cinco meses después el síndrome de Horner había desaparecido.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Victor Manuel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Asensio Sánchez</TAG> <TAG TYPE="HOSPITAL">Hospital General</TAG> <TAG TYPE="INSTITUCION">Servicio Castellano-Leonés de Salud</TAG> <TAG TYPE="PROFESION">Servicio de Oftalmología</TAG> <TAG TYPE="TERRITORIO">Medina del Campo (Valladolid)</TAG>, <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">vasensio@hmdc.sacyl.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

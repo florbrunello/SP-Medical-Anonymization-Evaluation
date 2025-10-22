@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Joel Prieto Mendoza
+DNI: 71165673Q
+Fecha de nacimiento: 05/02/2014
+Género: V
+Domicilio: Calle de Moratín 56, 1F
+Ciudad: Denia, Guadalajara, Castilla-La Mancha
+Código postal: 19341
+Email: joelmendoza@ciberned.es
+Teléfono fijo: +34 949 98 74 13
+Teléfono móvil: +34 749 86 65 44
+NHC: 8791633
+NASS: 039593432842
+Condición de riesgo: Trabajador de la Construcción
+
+Datos asistenciales.
+Médico: Dra. Carla Ortega Franco. NC 025950759. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 23/02/2021
+Episodio: 98325402
+Centro de salud: Centro de Salud Aranjuez
+Matrícula del coche: 9382FRU
+Modelo: Mazda CX-5
+VIN: VSP0XYXYNBI132425
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 7 años de edad, acompañado de su padre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-pharma.org. Se registró una sesión de huella dactilar, el código obtenido para revisarla es XA731ZJT953. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es RS290OVY692. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es OU976FFK038. 

@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: José Vicente Jiménez Del Rio
+DNI: 91314525V
+Fecha de nacimiento: 08/11/1982
+Género: V
+Domicilio: Calle de Alberto Aguilera 100
+Ciudad: Xàtiva, Castellón, Comunidad Valenciana
+Código postal: 12870
+Email: delrio@aol.com
+Teléfono fijo: +34 964 71 48 49
+Teléfono móvil: +34 764 85 31 77
+NHC: 2067503
+NASS: 782868931932
+
+Datos asistenciales.
+Médico: Dra. Daniela Sáez Cuesta. NC 616686238. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/01/2005
+Episodio: 04143413
+Hospital: Hospital Universitario Reina Sofía de Córdoba
+Matrícula del coche: 5983NJZ
+Modelo: Ford Mustang
+VIN: VSW48WGL27U069243
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática del sudeste de 22 años de edad, acompañado de su vecina. El servidor para envío de información desde cual el usuario se comunica es smtp://example-radiology.edu. 

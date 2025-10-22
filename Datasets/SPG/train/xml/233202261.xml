@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Carla Blanco Gracia
+DNI: 41622818V
+Fecha de nacimiento: 22/08/1995
+Género: M
+Domicilio: Calle de Miguel Ángel 80
+Ciudad: Vigo, Orense, Galicia
+Código postal: 32133
+Email: carlablanco@ub.edu
+Teléfono fijo: +34 988 74 09 85
+FAX: +34 988 19 81 60
+NHC: 0711152
+NASS: 370941653716
+Condición de riesgo: Fabricante
+
+Datos asistenciales.
+Médico: Dr. Eduardo Ortiz Flores. NC 732704844. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 23/06/2021
+Episodio: 48401063
+Centro de salud: Centro de Salud Puente de Vallecas
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 25 años de edad, acompañado de su nuera. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es PB993YJF725. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Carla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Blanco Gracia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="41622818V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="22/08/1995" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="140" text="Calle de Miguel Ángel 80" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="153" text="Vigo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="161" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="163" end="170" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="186" end="191" text="32133" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="199" end="217" text="carlablanco@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="233" end="249" text="+34 988 74 09 85" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="255" end="271" text="+34 988 19 81 60" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="277" end="284" text="0711152" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="291" end="303" text="370941653716" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="325" end="335" text="Fabricante" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="370" end="390" text="Eduardo Ortiz Flores" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="395" end="404" text="732704844" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="406" end="461" text="Gastroenterólogo Especialista en Enfermedades Hepáticas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="463" end="556" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="558" end="587" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="589" end="594" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="596" end="602" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="604" end="610" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="630" end="640" text="23/06/2021" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="651" end="659" text="48401063" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="677" end="711" text="Centro de Salud Puente de Vallecas" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="752" end="773" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="777" end="784" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="811" end="816" text="nuera" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="904" end="915" text="PB993YJF725" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

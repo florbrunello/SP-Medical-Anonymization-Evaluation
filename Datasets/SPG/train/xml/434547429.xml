@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Nieves Santos Navarro
+DNI: 83526544C
+Fecha de nacimiento: 19/06/1943
+Género: F
+Domicilio: Calle del Gobernador 40, 6S
+Ciudad: Reus, Barcelona, Cataluña
+Código postal: 08941
+Email: santos1978@yahoo.com
+Teléfono fijo: +34 930 89 77 34
+Teléfono móvil: +34 731 11 40 69
+NHC: 4597873
+NASS: 799990046483
+Condición de riesgo: Dentista
+
+Datos asistenciales.
+Médico: Dra. Pilar Mendoza Pérez. NC 041605631. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/06/1990
+Episodio: 96893048
+Hospital: Hospital Universitario Nuestra Señora de Candelaria
+
+Informe clínico del paciente:
+Paciente de tez blanca de 46 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.103.10, con dirección MAC 94:E9:BF:E9:67:C5. Se realizó un expediente con URL http://example-healthcare.net//10205126J. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es IW681WWU957. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="María Nieves" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="55" text="Santos Navarro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="83526544C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="19/06/1943" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="112" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="151" text="Calle del Gobernador 40, 6S" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="164" text="Reus" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="175" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="185" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="08941" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="234" text="santos1978@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 930 89 77 34" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 731 11 40 69" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="4597873" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="799990046483" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="353" end="361" text="Dentista" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="631" end="641" text="07/06/1990" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="652" end="660" text="96893048" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="671" end="722" text="Hospital Universitario Nuestra Señora de Candelaria" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="766" end="776" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="780" end="787" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="903" end="920" text="94:E9:BF:E9:67:C5" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <OTHER id="T23" start="955" end="980" text="http://example-healthcare" TYPE="URL_WEB" comment=""/>
+        <ID id="T24" start="1078" end="1089" text="IW681WWU957" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

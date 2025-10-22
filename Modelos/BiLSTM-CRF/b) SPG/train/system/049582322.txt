@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Juan Arias Sierra
+DNI: 91993201D
+Fecha de nacimiento: 30/07/1956
+Género: Varón
+Domicilio: Calle de Santa Engracia 80, 5Y
+Ciudad: Lleida, Huesca, Aragón
+Código postal: 22088
+Email: juan@aol.com
+Teléfono fijo: +34 974 45 45 50
+Teléfono móvil: +34 774 12 17 33
+NHC: 3366699
+NASS: 988164436801
+Condición de riesgo: Electricista
+
+Datos asistenciales.
+Médico: Dr. Juan Luis Villar Rico. NC 158401239. Neurólogo Investigador en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 11/09/2022
+Hospital: Hospital Universitario Río Hortega
+Matrícula del coche: 0971AYY
+Modelo: Chevrolet Silverado
+VIN: VSRNTSHZ5KV880200
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 66 años de edad. 

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Paz Castillo Miguel
+DNI: 63403201K
+Fecha de nacimiento: 29/05/1994
+Género: F
+Domicilio: Calle de Zurbano 87
+Ciudad: Alcalá de Henares, Barcelona, Cataluña
+Código postal: 08696
+Email: mariapazmiguel@udc.es
+Teléfono fijo: +34 930 68 90 43
+FAX: +34 932 91 73 20
+NHC: 7789560
+Condición de riesgo: Farmacéutico
+
+Datos asistenciales.
+Médico: Dra. Patricia Iglesias Carrillo. NC 528756794. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/11/1999
+Episodio: 51356633
+Centro de salud: Centro de Salud Sevilla Este
+
+Informe clínico del paciente:
+Paciente vegano de 5 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="María Paz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="53" text="Castillo Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="63403201K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="29/05/1994" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="141" text="Calle de Zurbano 87" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="167" text="Alcalá de Henares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="178" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="180" end="188" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="08696" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="238" text="mariapazmiguel@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 930 68 90 43" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="276" end="292" text="+34 932 91 73 20" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="298" end="305" text="7789560" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="327" end="339" text="Farmacéutico" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="617" end="627" text="01/11/1999" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="638" end="646" text="51356633" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="664" end="692" text="Centro de Salud Sevilla Este" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="733" end="739" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="743" end="749" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="776" end="783" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

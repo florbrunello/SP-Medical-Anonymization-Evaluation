@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Dolores</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Castillo Muñoz</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">87737144X</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/08/1972</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de San Bernardo 29</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG>, <TAG TYPE="TERRITORIO">La Coruña</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">15199</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">munoz1323@outlook.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 981 65 24 41</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 781 57 09 07</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3124223</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Guardia de Seguridad</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ignacio Ortiz Plaza</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">567204442</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/04/2009</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">41706078</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud San Blas</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">36 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">nuera</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">KX035AET811</TAG>.
+  </TEXT>
+</MEDDOCAN>

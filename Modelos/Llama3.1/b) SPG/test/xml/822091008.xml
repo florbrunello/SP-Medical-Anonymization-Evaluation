@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Amparo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Flores Valero</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">60312697G</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/06/2009</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Tres Cruces 37, 3Q</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Dos Hermanas</TAG>, <TAG TYPE="TERRITORIO">Formentera</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07578</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">amparoflores-valero@icloud.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 30 11 82</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 771 48 74 47</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1701348</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Farmacéutico</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alejandro Varela Castillo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">711468901</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Gastroenterólogo Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/07/2021</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">13545473</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Este</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia africana del norte</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">12 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">huella dactilar</TAG>, el <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">código obtenido para revisarla</TAG> es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">CG366KVH820</TAG>.
+  </TEXT>
+</MEDDOCAN>

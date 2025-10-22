@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Eva Gallego</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Otero</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">95554862M</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">04/08/2016</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Ayala 64</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Totana</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">17818</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">eva-gallego_otero@outlook.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 28 09 72</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 672 35 03 86</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9441965</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">900698922878</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Operador de Maquinaria Pesada</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Francisco León Guzman</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">390295052</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">16/07/2023</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Este</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia centroasiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

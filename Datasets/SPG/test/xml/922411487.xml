@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Laia Iglesias Menendez
+DNI: 77083956P
+Fecha de nacimiento: 04/12/1997
+Género: F
+Domicilio: Calle de Villalar 79
+Ciudad: Talavera de la Reina, Navarra, Navarra
+Código postal: 31568
+Email: laia-menendez@ciberehd.org
+Teléfono fijo: +34 948 60 07 30
+FAX: +34 948 21 79 70
+NHC: 0742330
+NASS: 870147979675
+
+Datos asistenciales.
+Médico: Dr. Darío Zamora Salazar. NC 365925853. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/05/2023
+Hospital: Complejo Hospitalario Torrecárdenas
+Matrícula del coche: 0655BBY
+Modelo: Toyota RAV4
+VIN: VSL0JHTV4ME546309
+
+Informe clínico del paciente:
+Paciente exfumador de 25 años de edad, acompañado de su marido. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. Se registró una sesión de huella dactilar, el código obtenido para revisarla es VC416CUV269. Se registró una sesión de firma biométrica, el código obtenido para revisarla es TL662HQD224. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es GX395SZQ676. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Laia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="50" text="Iglesias Menendez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="77083956P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="04/12/1997" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="139" text="Calle de Villalar 79" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="168" text="Talavera de la Reina" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="177" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="186" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="31568" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="241" text="laia-menendez@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 948 60 07 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="279" end="295" text="+34 948 21 79 70" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="301" end="308" text="0742330" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="315" end="327" text="870147979675" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="362" end="382" text="Darío Zamora Salazar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="387" end="396" text="365925853" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="398" end="437" text="Investigador Clínico en Síndromes Raros" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="439" end="514" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="516" end="545" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="547" end="552" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="554" end="560" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="562" end="568" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="588" end="598" text="18/05/2023" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="609" end="644" text="Complejo Hospitalario Torrecárdenas" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="666" end="673" text="0655BBY" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="699" end="716" text="VSL0JHTV4ME546309" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="757" end="766" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="770" end="777" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="804" end="810" text="marido" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="887" end="911" text="smtp://example-nutrition" TYPE="URL_WEB" comment=""/>
+        <ID id="T32" start="997" end="1008" text="VC416CUV269" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T33" start="1091" end="1102" text="TL662HQD224" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T34" start="1185" end="1196" text="GX395SZQ676" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

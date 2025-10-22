@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Francisco Javier Aguilar Lozano
+DNI: 49612029V
+Fecha de nacimiento: 30/07/1977
+Género: Masculino
+Domicilio: Calle Gran Vía 31
+Ciudad: Cádiz, Orense, Galicia
+Código postal: 32611
+Email: aguilar1087@aol.com
+Teléfono fijo: +34 988 13 16 19
+Teléfono móvil: +34 688 28 67 62
+NHC: 0769104
+NASS: 732713757347
+Condición de riesgo: Plomero
+
+Datos asistenciales.
+Médico: Dra. Matilde Robles Rivero. NC 182781522. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/02/2010
+Episodio: 01055228
+Centro de salud: Centro de Salud Coslada
+
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 32 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="44" text="Francisco Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="45" end="59" text="Aguilar Lozano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="65" end="74" text="49612029V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="96" end="106" text="30/07/1977" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="115" end="124" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="136" end="153" text="Calle Gran Vía 31" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="162" end="167" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="175" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="184" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="32611" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="232" text="aguilar1087@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 988 13 16 19" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 688 28 67 62" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="0769104" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="732713757347" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="351" end="358" text="Plomero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="622" end="632" text="13/02/2010" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="643" end="651" text="01055228" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="669" end="692" text="Centro de Salud Coslada" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="736" end="759" text="comunidades vulnerables" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="763" end="770" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="797" end="802" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

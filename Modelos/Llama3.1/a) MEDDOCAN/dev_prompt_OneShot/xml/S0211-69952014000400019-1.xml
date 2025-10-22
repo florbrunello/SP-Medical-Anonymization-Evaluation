@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alex</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ferrer Paul</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7894312</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">15 36985214 74</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Carrer de Joan Amades i Gelats, 10 1A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Tarragona</TAG>.
+    CP: <TAG TYPE="TERRITORIO">43003</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/05/1981</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">31 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">01/12/2012</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Nefrologia</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">1245786</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pablo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Justo-Ávila</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">43 43 17089</TAG>.
+    Historia Actual: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">31 años</TAG> con lesión medular traumática a los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> de edad e historia de infecciones urinarias de repetición en relación con vejiga neurógena (autosondaje) y episodios de obstrucción urinaria. En el año <TAG TYPE="FECHAS">2009</TAG> es derivado a consulta de nefrología por enfermedad renal crónica estadio <TAG TYPE="FECHAS">2</TAG>, con proteinuria en rango nefrótico (<TAG TYPE="FECHAS">creatinina 1,3mg/dl</TAG>, <TAG TYPE="FECHAS">proteinuria 20g/24h</TAG>). El paciente se niega a realizar biopsia renal y en el mismo año deja de acudir a las consultas de nefrología.
+    En enero de <TAG TYPE="FECHAS">2012</TAG> comienza con episodios de disminución del nivel de conciencia. Se realiza tomografía axial computarizada craneal y punción lumbar, siendo ambas normales. Electroencefalograma con enlentecimiento difuso. La creatinina en aquel momento es de <TAG TYPE="FECHAS">3,3mg/dl</TAG>. Se orienta el cuadro como secundario a infección urinaria.
+    En abril de <TAG TYPE="FECHAS">2012</TAG>, se repite el mismo cuadro acompañado de desorientación temporo-espacial. Presenta nuevo episodio en el mismo mes, pero esta vez con cambio conductual (<TAG TYPE="OTRO_NUMERO_IDENTIF">infantilismo</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">nerviosismo</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">agresividad</TAG>). Se realiza resonancia magnética nuclear cerebral sin hallazgos de interés. Tras este episodio, se inicia tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">clonazepam</TAG>.
+    En mayo de <TAG TYPE="FECHAS">2012</TAG>, por analítica y clínica de insuficiencia renal terminal, se inicia hemodiálisis a través de catéter provisional en la vena yugular derecha.
+    El paciente presentaba, aproximadamente una vez al mes, en las dos primeras horas tras el inicio de la hemodiálisis, episodios de disminución del nivel de conciencia, y en otras ocasiones agitación psicomotriz.
+    En noviembre de <TAG TYPE="FECHAS">2012</TAG> es valorado por Neurología y Psiquiatría, sin detectarse hallazgos de relevancia. Orientan el cuadro como secundario a encefalopatía hipóxica-metabólica.
+    A pesar de presentar KT y Kt/V correctos, aumentamos el número de sesiones de diálisis a 4/semana, sin evidenciarse mejoría clínica.
+    En enero de <TAG TYPE="FECHAS">2013</TAG>, decidimos suspender el tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">baclofeno</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">Lioresal</TAG>), sustituyéndose por <TAG TYPE="OTRO_NUMERO_IDENTIF">tinazidina</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">diazepam</TAG>. Tras dos semanas de tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">tinazidina</TAG>, el paciente suspendió el fármaco por <TAG TYPE="OTRO_NUMERO_IDENTIF">somnolencia</TAG>, controlándose la espasticidad únicamente con <TAG TYPE="OTRO_NUMERO_IDENTIF">diazepam</TAG>.
+    A los <TAG TYPE="OTRO_NUMERO_IDENTIF">10 meses</TAG> después de la retirada del fármaco, el paciente no ha vuelto a presentar clínica neurológica.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pablo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Justo-Ávila</TAG>, <TAG TYPE="PROFESION">Sección de Nefrología</TAG>, <TAG TYPE="HOSPITAL">Hospital de la Santa Creu</TAG>, <TAG TYPE="CALLE">Avda. Mossèn Valls, 1</TAG>, <TAG TYPE="TERRITORIO">43590</TAG>, <TAG TYPE="TERRITORIO">Tortosa</TAG>, <TAG TYPE="TERRITORIO">Tarragona</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">nefrotortosa@grupsagessa.com</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">pjusto83@gmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

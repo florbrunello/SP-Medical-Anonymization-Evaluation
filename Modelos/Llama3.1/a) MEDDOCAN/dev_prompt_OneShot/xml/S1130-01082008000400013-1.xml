@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan José</TAG> 
+    <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sanchez Fernandez</TAG> 
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">24564</TAG> 
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">87 98236589 04</TAG> 
+    Domicilio: <TAG TYPE="CALLE">Calle Gamazo, 16</TAG> 
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Valladolid</TAG> 
+    CP: <TAG TYPE="TERRITORIO">47004</TAG> 
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/05/1985</TAG> 
+    País: <TAG TYPE="PAIS">España</TAG> 
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG> 
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/05/2018</TAG> 
+    Servicio: <TAG TYPE="PROFESION">Urgencias</TAG> 
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">48654543</TAG> 
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carlos</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ruiz-Zorrilla López</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">47 28 65123</TAG> 
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG> sin antecedentes de interés y sin historia familiar conocida de trombosis que acude a urgencias por un cuadro de dolor abdominal difuso intermitente de varios días de evolución con sensación nauseosa y algún vómito alimenticio-bilioso.
+    Exploración física: En la exploración física destacó un dolorimiento difuso a la palpación abdominal sin signos de irritación peritoneal. 
+    Resumen de pruebas complementarias: Los datos analíticos más relevantes fueron: glucosa 84 mg/dl, urea 30 mg/dl, creatinina 0,9 mg/dl, amilasa 29 U/l, láctico-dehidrogenasa 241 U/l, aspartato-aminotransferasa 26 U/l, bilirrubina total 0,9 mg/dl, proteína C reactiva 4,1 mg/dl, hemoglobina 14,4 mg/dl, plaquetas 301.000 mm3, leucocitos 6.700 mm3, actividad de protrombina 85%, fibrinógeno 518 mg/dl y dímero-D 5.871 ng/ml. Una ecografía abdominal demostró una vena porta de calibre aumentado (1,6 cm de diámetro), con ausencia de flujo en su interior en el estudio doppler. Una tomografía computerizada abdominal demostró una trombosis de la vena porta y de la vena mesentérica superior, sin otras alteraciones. El paciente recibió tratamiento con enoxaparina (1 mg/kg cada 12 horas) durante 10 días, con una evolución favorable, continuando posteriormente tratamiento con acenocumarol. El estudio de trombofilia identificó una heterocigosis para la mutación G20210A del gen de la protrombina, siendo normales o negativos el factor V de Leiden, la resistencia a la proteína C activada, el anticoagulante lúpico, los anticuerpos anticardiolipina IgG e IgM, las proteínas C y S, la antitrombina y la homocisteína plasmática. 
+    Evolución y comentarios: Una angiorresonancia realizada 10 meses después demostró la existencia de una esplenomegalia de 15 cm y una vena porta de calibre aumentado pero permeable con transformación cavernomatosa (con pequeños vasos colaterales periportales). Una endoscopia digestiva oral realizada 14 meses después del cuadro inicial fue normal. Tras 15 meses de seguimiento en tratamiento con acenocumarol, el paciente permanece asintomático.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carlos</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ruiz-Zorrilla López</TAG> <TAG TYPE="PROFESION">Servicio de Nefrología</TAG>, <TAG TYPE="HOSPITAL">Hospital Universitario Río Hortega</TAG>, <TAG TYPE="TERRITORIO">Valladolid</TAG>, <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">carlosruizzorrilla@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

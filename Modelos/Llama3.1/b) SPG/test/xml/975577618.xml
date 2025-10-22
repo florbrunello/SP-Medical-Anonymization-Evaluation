@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Héctor Velasco</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Márquez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">29760288J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/02/1934</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Áncora 8</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Getafe</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">28595</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">marquez937@icloud.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 911 87 81 85</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 916 99 53 46</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3323545</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">305025629221</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Repartidor</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Susana Pereira Guzman</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">013696516</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardióloga Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">14/05/1998</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">38076690</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Arganda del Rey</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">64 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">esposa</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de huella dactilar</TAG>, el <TAG TYPE="ID_CONTACTO_ASISTENCIAL">código obtenido para revisarla</TAG> es <TAG TYPE="ID_CONTACTO_ASISTENCIAL">IF361WSE120</TAG>.
+  </TEXT>
+</MEDDOCAN>

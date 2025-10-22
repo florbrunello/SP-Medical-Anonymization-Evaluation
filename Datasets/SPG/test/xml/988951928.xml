@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Carlota Robles Rivera
+DNI: 11905245P
+Fecha de nacimiento: 05/10/2012
+Género: F
+Domicilio: Calle de Piamonte 3
+Ciudad: Torrelodones, Sevilla, Andalucía
+Código postal: 41727
+Email: carlota.robles@imibic.org
+Teléfono fijo: +34 954 59 99 15
+Teléfono móvil: +34 754 14 33 61
+NHC: 0662313
+Condición de riesgo: Albañil
+
+Datos asistenciales.
+Médico: Dr. Jonathan Salas Salas. NC 412288762. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/05/2022
+Episodio: 25795548
+Centro de salud: Centro de Salud Alhaurín de la Torre
+
+Informe clínico del paciente:
+Paciente de tez blanca de 9 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Carlota" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="49" text="Robles Rivera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="11905245P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="05/10/2012" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="137" text="Calle de Piamonte 3" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="158" text="Torrelodones" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="167" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="178" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="194" end="199" text="41727" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="207" end="232" text="carlota.robles@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 954 59 99 15" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 754 14 33 61" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="0662313" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="332" end="339" text="Albañil" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="374" end="394" text="Jonathan Salas Salas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="399" end="408" text="412288762" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="410" end="445" text="Investigador Principal en Parkinson" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="447" end="536" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="538" end="567" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="569" end="574" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="576" end="582" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="584" end="590" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="610" end="620" text="10/05/2022" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="631" end="639" text="25795548" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="657" end="693" text="Centro de Salud Alhaurín de la Torre" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="737" end="747" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="751" end="757" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="784" end="789" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

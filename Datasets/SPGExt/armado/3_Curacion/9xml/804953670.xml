@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Isaac Campos Romero</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">72860546L</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/05/2001</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Lope de Vega 69, 1X</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Teruel, Barcelona, Cataluña</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">08911</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">campos-romero@ucm.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 937 26 05 42</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 634 78 56 09</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2421980</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">888414873413</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Técnico de Cuidados Auxiliares de Enfermería</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Sebastián Casado Álvarez</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 903951980</TAG>. <TAG TYPE="PROFESION">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/10/2002</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">65497825</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Cabueñes</TAG>.
+    Informe clínico del paciente:
+    Paciente no fumador de un año de edad, acompañado de su madre.
+    Antecedentes:
+    El paciente presenta una historia de salud normal hasta la fecha de ingreso, sin antecedentes de enfermedades crónicas ni alergias notables.
+    Evolución y comentarios:
+    El paciente se encuentra estable y sin síntomas a la fecha de ingreso. Se realizarán análisis y pruebas complementarias para determinar la causa subyacente de su condición actual.
+    Remitido por:
+    El paciente fue remitido por su médico de cabecera, quien sospecha una infección respiratoria.
+    Exploración física:
+    La exploración física revela:
+    Temperatura corporal: <TAG TYPE="FECHAS">37,5°C</TAG>.
+    Frecuencia cardíaca: <TAG TYPE="FECHAS">120 bpm</TAG>.
+    Frecuencia respiratoria: <TAG TYPE="FECHAS">24 rpm</TAG>.
+    Presión arterial: <TAG TYPE="FECHAS">90/60 mmHg</TAG>.
+    Estado general: el paciente se encuentra alerta y orientado, sin signos de dolor ni malestar.
+    Análisis y pruebas complementarias
+    Se realizarán análisis de sangre y orina, así como pruebas de imagen (radiografías y ecografías) para determinar la causa subyacente de la condición del paciente.
+    Diagnóstico:
+    El diagnóstico se realizará una vez que se hayan obtenido los resultados de los análisis y pruebas complementarias.
+    Tratamiento:
+    El tratamiento se determinará según el diagnóstico establecido y la condición del paciente.
+    Pronóstico:
+    El pronóstico se determinará según la gravedad de la condición del paciente y la respuesta al tratamiento.
+  </TEXT>
+</MEDDOCAN>

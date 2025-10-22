@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Tamara Castillo Ramírez
+DNI: 50875687D
+Fecha de nacimiento: 31/10/1976
+Género: M
+Domicilio: Calle de la Princesa 27
+Ciudad: Ibiza, Mallorca, Islas Baleares
+Código postal: 07238
+Email: ramirez@ciberehd.org
+Teléfono fijo: +34 971 24 57 30
+Teléfono móvil: +34 671 10 22 65
+NHC: 7950440
+NASS: 990518549622
+Condición de riesgo: Trabajador Agrícola
+
+Datos asistenciales.
+Médico: Dr. Juan Antonio Andres Costa. NC 348426192. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/01/1992
+Episodio: 00460225
+Centro de salud: Centro de Salud Tetuán
+
+Informe clínico del paciente:
+Paciente vegetariano de 15 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Tamara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="51" text="Castillo Ramírez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="50875687D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="31/10/1976" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="143" text="Calle de la Princesa 27" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="157" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="167" text="Mallorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="183" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="199" end="204" text="07238" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="212" end="232" text="ramirez@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 971 24 57 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 671 10 22 65" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="7950440" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="990518549622" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="351" end="370" text="Trabajador Agrícola" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="405" end="430" text="Juan Antonio Andres Costa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="435" end="444" text="348426192" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="446" end="483" text="Investigador Clínico en Epidemiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="485" end="569" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="571" end="600" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="602" end="607" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="609" end="615" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="617" end="623" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="643" end="653" text="21/01/1992" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="664" end="672" text="00460225" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="690" end="712" text="Centro de Salud Tetuán" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="753" end="764" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="768" end="775" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="802" end="809" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

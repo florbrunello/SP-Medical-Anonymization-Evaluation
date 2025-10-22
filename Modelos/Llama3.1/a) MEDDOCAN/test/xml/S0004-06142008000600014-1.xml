@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Fernando</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vargas Castro</TAG>.
+    CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc-76844523</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">71 75648232 33</TAG>.
+    Domicilio: <TAG TYPE="CALLE">c/ Martíne Villena, 4</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Albacete</TAG>.
+    CP: <TAG TYPE="TERRITORIO">02005</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">76844523</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/05/1976</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">18/11/2013</TAG>.
+    Médico:   <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pedro</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carrión López</TAG>      NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">06 02 76485</TAG>.
+    Motivo de ingreso: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Dolor e inflamación del testículo izquierdo</TAG>.
+    Antecedentes: sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedentes personales ni urológicos de interés</TAG>
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> que llegó a nuestra consulta remitido de urgencias por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor e inflamación del testículo izquierdo</TAG>. Refería un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">inflamación testicular izquierda</TAG> progresiva de dos meses de evolución. No refería <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fiebre</TAG>, ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas urológicos acompañantes</TAG>, ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">afectación del estado general</TAG>.
+    Exploración física: A la palpación presentaba el <TAG TYPE="OTRO_NUMERO_IDENTIF">testículo izquierdo</TAG> indurado y discretamente doloroso, con un <TAG TYPE="OTRO_NUMERO_IDENTIF">epídimo</TAG> de características normales. El <TAG TYPE="OTRO_NUMERO_IDENTIF">testículo derecho</TAG> tenía un tamaño y consistencia normales.
+    Resumen de pruebas complementarias:Se realizó una <TAG TYPE="PROFESION">ecografía testicular</TAG> en la que se apreció una lesión nodular de gran tamaño en el <TAG TYPE="OTRO_NUMERO_IDENTIF">testículo izquierdo</TAG>, con un patrón mixto de áreas quísticas y áreas con fino contenido ecogénico, y lesiones nodulares sólidas en <TAG TYPE="OTRO_NUMERO_IDENTIF">testículo derecho</TAG>, hallazgos en relación con <TAG TYPE="OTRO_NUMERO_IDENTIF">neoplasia testicular bilateral</TAG>.
+    Los marcadores tumorales presentaron una elevación de la α-FTP (48,4 ng/mL), β-HCG normal (<0,6 mUI/mL) y LDH normal.
+    En el <TAG TYPE="PROFESION">TAC toraco-abdómino-pélvico</TAG> no se encontraron hallazgos patológicos de interés.
+    El paciente fue derivado a la sección de <TAG TYPE="PROFESION">fertilidad</TAG> para realizar <TAG TYPE="OTRO_NUMERO_IDENTIF">criopreservación seminal</TAG>. Posteriormente se practicó <TAG TYPE="OTRO_NUMERO_IDENTIF">orquiectomía inguinal izquierda</TAG> con ligadura alta de cordón, y <TAG TYPE="OTRO_NUMERO_IDENTIF">biopsia testicular derecha</TAG> vía inguinal, previo clampaje del cordón espermático, que fue informada, intraoperatoriamente, como positiva para células malignas germinales, por lo que se procedió a completar la cirugía mediante <TAG TYPE="OTRO_NUMERO_IDENTIF">orquiectomía inguinal derecha</TAG>.
+    El estudio anatomopatológico fue informado como: <TAG TYPE="OTRO_NUMERO_IDENTIF">Testículo izquierdo</TAG>: tumoración de 5 cm de diámetro con áreas quísticas, que corresponde a un tumor germinal mixto formado en proporciones similares por <TAG TYPE="OTRO_NUMERO_IDENTIF">carcinoma embrionario adulto</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">teratoma</TAG> con elementos tanto maduros como inmaduros, que no rebasa la albugínea. Se administró tratamiento quimoterápico adyuvante con el esquema BEP modificado (x2 ciclos), presentando posteriormente marcadores negativos: α-FTP (3,7 ng/mL), β-HCG (<0,6 mUI/mL) y LDH normal.
+    <TAG TYPE="OTRO_NUMERO_IDENTIF">Testículo derecho</TAG>: tumoración grisácea de 2,5 cm de diámetro, que corresponde a <TAG TYPE="OTRO_NUMERO_IDENTIF">seminoma de variedad clásica</TAG>, apreciándose imágenes de neoplasia intratubular, sin afectación de la albugínea, <TAG TYPE="OTRO_NUMERO_IDENTIF">epídimo</TAG> ni cordón espermático.
+    Evolución: Actualmente, tras 10 meses del diagnóstico inicial de <TAG TYPE="OTRO_NUMERO_IDENTIF">tumoración testicular bilateral</TAG> en estadío I, el paciente se encuentra asintomático, con marcadores tumorales negativos, estudios radiológicos normales y en tratamiento hormonal sustitutivo con controles periódicos de las cifras de <TAG TYPE="OTRO_NUMERO_IDENTIF">testosterona</TAG>.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pedro</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carrión López</TAG>. <TAG TYPE="CALLE">Calle Ginzo de limia 56, 1D</TAG> <TAG TYPE="TERRITORIO">Albacete</TAG>. (<TAG TYPE="PAIS">España</TAG>). <TAG TYPE="CORREO_ELECTRONICO">pedrocarrion1980@hotmail.com</TAG>
+    </TEXT>
+</MEDDOCAN>

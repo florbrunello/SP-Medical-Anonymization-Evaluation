@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Yolanda Soriano Pérez
+DNI: 39147193C
+Fecha de nacimiento: 11/09/2002
+Género: Mujer
+Domicilio: Calle de Bailén 92, 10O
+Ciudad: Linares, Segovia, Castilla y León
+Código postal: 40940
+Email: yolanda_soriano-perez1989@ual.es
+Teléfono fijo: +34 921 76 68 63
+Teléfono móvil: +34 621 05 99 56
+NHC: 8575789
+NASS: 122373151230
+Condición de riesgo: Trabajador de Sanitización
+
+Datos asistenciales.
+Médico: Dr. Pedro Mateo Márquez. NC 328999190. Investigador Clínico en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/07/2018
+Centro de salud: Centro de Salud Getafe
+
+Informe clínico del paciente:
+Paciente musulman de 15 años de edad, acompañado de su hermano. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.123.108, con dirección MAC 7F:72:F2:6C:4A:63. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Yolanda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="49" text="Soriano Pérez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="39147193C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="11/09/2002" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="110" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="145" text="Calle de Bailén 92, 10O" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="161" text="Linares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="170" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="187" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="40940" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="248" text="yolanda_soriano-perez1989@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="264" end="280" text="+34 921 76 68 63" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="297" end="313" text="+34 621 05 99 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="319" end="326" text="8575789" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="333" end="345" text="122373151230" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="367" end="393" text="Trabajador de Sanitización" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="428" end="447" text="Pedro Mateo Márquez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="452" end="461" text="328999190" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="463" end="509" text="Investigador Clínico en Insuficiencia Cardíaca" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="511" end="597" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="599" end="628" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="630" end="635" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="637" end="643" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="645" end="651" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="671" end="681" text="30/07/2018" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="699" end="721" text="Centro de Salud Getafe" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="762" end="770" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="774" end="781" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="808" end="815" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="924" end="941" text="7F:72:F2:6C:4A:63" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

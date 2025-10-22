@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pablo</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Diaz Navarro</TAG>.
+    CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc-6326226</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">28 19865453 56</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Victor de la serna,43. 10 A+</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28016</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6326226</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/06/1962</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">54</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">23/09/2016</TAG>.
+    Especialidad: <TAG TYPE="PROFESION">Urología</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pablo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Garrido Abad</TAG>       NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 45612</TAG>.
+    Historia Actual:
+    Se presenta un caso con patología litiásica compleja en el que se utilizó el'stone sweeper' como derivación urinaria interna de forma bilateral.
+    Se trata de un paciente varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">54</TAG> años con 3 litiasis renales derechas, la mayor de ellas de <TAG TYPE="OTRO_NUMERO_IDENTIF">1.2 cm</TAG> alojada en el cáliz inferior, que presenta además moderada dilatación pielocalicial y ureteral hasta el cruce con los vasos ilíacos, donde se localiza litiasis ureteral de <TAG TYPE="OTRO_NUMERO_IDENTIF">1.1 cm</TAG>; en esta unidad renal se colocó un catéter'stone sweeper' previo al tratamiento con ESWL. En lado izquierdo se objetiva litiasis de <TAG TYPE="OTRO_NUMERO_IDENTIF">1 cm</TAG> en polo inferior, al que se realizó tratamiento con ESWL con anterioridad, consiguiéndose fragmentación parcial de la misma; en esta unidad renal también se colocó el catéter'stone sweeper' previa a una segunda sesión de ESWL. El calibre de este catéter es de <TAG TYPE="OTRO_NUMERO_IDENTIF">6,5 Fr</TAG> y se mantuvo durante el periodo de un mes.
+    Durante la permanencia de los dos catéteres'stone sweeper' el paciente no refirió síntomas relacionados con el tracto urinario inferior ni superior indicando una buena tolerancia.
+    La extracción de los mismos fue fácil, sin precisar de anestesia y observando pequeños fragmentos litiásicos dentro de las cestillas.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Pablo Garrido Abad</TAG> <TAG TYPE="PROFESION">Servicio de Urología</TAG> <TAG TYPE="INSTITUCION">Hospital Universitario de La Princesa</TAG> <TAG TYPE="CALLE">Diego de León, 62</TAG> <TAG TYPE="TERRITORIO" >E-28006</TAG> <TAG TYPE="TERRITORIO" >Madrid</TAG>. (<TAG TYPE="PAIS">España</TAG>) E-mail: <TAG TYPE="CORREO_ELECTRONICO">pgabad@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

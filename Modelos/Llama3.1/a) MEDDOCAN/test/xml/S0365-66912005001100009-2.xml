@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Minerva</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alvarado Quintero</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3576324</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">23 95642345 45</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Carnicer 17, 1 puerta 14</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28028</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/06/1940</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">76 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">03/11/2016</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jose Luis</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Torres Copado</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 46712</TAG>.
+    Historia Actual: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">76 años</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GCCA</TAG> que fue remitida para tratamiento quirúrgico. Después de una <TAG TYPE="OTRO_NUMERO_IDENTIF">trabeculectomía</TAG> fracasada precozmente se decidió realizar un procedimiento combinado de <TAG TYPE="OTRO_NUMERO_IDENTIF">implante valvular</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">facoemulsificación</TAG>. Veinticuatro horas tras la cirugía la paciente mostraba una <TAG TYPE="OTRO_NUMERO_IDENTIF">atalamia</TAG> con <TAG TYPE="OTRO_NUMERO_IDENTIF">contacto iridoendotelial periférico</TAG> con una <TAG TYPE="OTRO_NUMERO_IDENTIF">PIO</TAG> de <TAG TYPE="OTRO_NUMERO_IDENTIF">40 mmHg</TAG>. Después de descartar otras posibles causas de <TAG TYPE="OTRO_NUMERO_IDENTIF">atalamia con hipertonía</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">desprendimiento coroideo</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">desprendimiento ciliocoroideo anular</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">bloqueo pupilar</TAG>), se diagnosticó de <TAG TYPE="OTRO_NUMERO_IDENTIF">glaucoma maligno</TAG> y se realizó el mismo tratamiento que en el caso anterior (<TAG TYPE="OTRO_NUMERO_IDENTIF">capsulotomía</TAG> e <TAG TYPE="OTRO_NUMERO_IDENTIF">hialoidotomía</TAG> a través de la pupila). Al año de la cirugía, la PIO era de <TAG TYPE="OTRO_NUMERO_IDENTIF">12 mmHg</TAG> con <TAG TYPE="OTRO_NUMERO_IDENTIF">maleato de timolol</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">0,5%</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">Timoftol</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">0,5%</TAG>, <TAG TYPE="INSTITUCION">Merck Sharp &amp; Dohme de España SA</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>) cada <TAG TYPE="OTRO_NUMERO_IDENTIF">12 horas</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jose Luis</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Torres Copado</TAG>. Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">a00799839@itesm.com</TAG>
+  </TEXT>
+</MEDDOCAN>

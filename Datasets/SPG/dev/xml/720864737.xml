@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Lorena Exposito Miguel
+DNI: 85001109D
+Fecha de nacimiento: 16/11/1968
+Género: Mujer
+Domicilio: Calle del Carmen 99, 7V
+Ciudad: Langreo, La Rioja, La Rioja
+Código postal: 26108
+Email: lorena-exposito888@yahoo.com
+Teléfono fijo: +34 941 89 32 90
+Teléfono móvil: +34 741 00 05 42
+NHC: 2529917
+NASS: 251502901432
+
+Datos asistenciales.
+Médico: Dr. Samuel Pereira Escudero. NC 266979302. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/08/1991
+Hospital: Hospital de Manises
+
+Informe clínico del paciente:
+Paciente no fumador de 22 años de edad, acompañado de su madre. Se registró una sesión de firma biométrica, el código obtenido para revisarla es QV283BIE469. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Lorena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Exposito Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="85001109D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="16/11/1968" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="146" text="Calle del Carmen 99, 7V" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="162" text="Langreo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="172" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="182" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="26108" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="239" text="lorena-exposito888@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 941 89 32 90" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 741 00 05 42" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="2529917" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="324" end="336" text="251502901432" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="371" end="394" text="Samuel Pereira Escudero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="399" end="408" text="266979302" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="410" end="445" text="Neuropsicólogo Clínico Investigador" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="447" end="517" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="519" end="548" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="550" end="555" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="557" end="563" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="565" end="571" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="591" end="601" text="04/08/1991" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="612" end="631" text="Hospital de Manises" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="672" end="682" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="686" end="693" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="720" end="725" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T29" start="808" end="819" text="QV283BIE469" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

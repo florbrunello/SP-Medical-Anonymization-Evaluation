@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ainhoa Hernández Marcos
+DNI: 96484072S
+Fecha de nacimiento: 17/09/1996
+Género: F
+Domicilio: Calle de los Embajadores 6
+Ciudad: Alcázar de San Juan, Almería, Andalucía
+Código postal: 04507
+Email: ainhoahernandez1956@protonmail.com
+Teléfono fijo: +34 950 15 52 35
+Teléfono móvil: +34 650 52 77 98
+NHC: 6831364
+NASS: 992520919214
+
+Datos asistenciales.
+Médico: Dr. Pablo Valero Villanueva. NC 327923944. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 20/03/2008
+Episodio: 23214508
+Hospital: Hospital Universitario Rey Juan Carlos de Mostoles
+Matrícula del coche: 2300BXK
+Modelo: Hyundai Elantra
+VIN: VSSTYU63Y6X350583
+
+Informe clínico del paciente:
+Paciente no fumador de 11 años de edad, acompañado de su abuela. Se realizó un expediente con URL http://example-research.net//63958658E. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Ainhoa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="51" text="Hernández Marcos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="96484072S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="17/09/1996" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="146" text="Calle de los Embajadores 6" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="174" text="Alcázar de San Juan" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="176" end="183" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="185" end="194" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="04507" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="257" text="ainhoahernandez1956@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="273" end="289" text="+34 950 15 52 35" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="306" end="322" text="+34 650 52 77 98" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="328" end="335" text="6831364" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="342" end="354" text="992520919214" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="389" end="412" text="Pablo Valero Villanueva" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="417" end="426" text="327923944" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="428" end="463" text="Residente de 3° año en Oftalmología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="465" end="523" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="525" end="549" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="551" end="556" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="558" end="568" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="570" end="576" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="596" end="606" text="20/03/2008" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="617" end="625" text="23214508" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="636" end="686" text="Hospital Universitario Rey Juan Carlos de Mostoles" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="708" end="715" text="2300BXK" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="745" end="762" text="VSSTYU63Y6X350583" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="803" end="813" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="817" end="824" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="851" end="857" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="892" end="915" text="http://example-research" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

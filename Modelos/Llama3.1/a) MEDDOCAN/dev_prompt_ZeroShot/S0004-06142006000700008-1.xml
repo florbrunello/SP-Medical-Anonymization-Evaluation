@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<informe_clinico>
+  <texto start="1" end="17" text="Nombre: Arturo. Apellidos:Mendez Gomez. CIPA: nhc-739146." TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="18" end="30" text="NASS: 71 33043712 35." TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="31" end="64" text="Domicilio: Calle Dr. Joaquín Aznar Molina 2, 3F. Localidad/ Provincia: Zaragoza. CP: 50009. NHC: 739146." TYPE="DIREC_PROT_INTERNET" comment=""/>
+  <texto start="65" end="73" text="Fecha de nacimiento: 14/02/1938." TYPE="FECHAS" comment=""/>
+  <texto start="74" end="81" text="País: España." TYPE="PAIS" comment=""/>
+  <texto start="82" end="86" text="Edad:  Sexo:" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="87" end="99" text="Fecha de Ingreso: 15/03/2014." TYPE="FECHAS" comment=""/>
+  <texto start="100" end="116" text="Especialidad:Urologia." TYPE="PROFESION" comment=""/>
+  <texto start="117" end="145" text="Médico: Miguel Martínez Rodríguez   NºCol: 50 50 98653." TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+  <texto start="146" end="157" text="Motivo de ingreso: molestias testiculares." TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="158" end="170" text="Antecedentes:paciente de 76 años de edad, sin alergias conocidas, con antecedentes de dislipemia, hipertensión arterial, infarto agudo de miocardio antiguo, triple derivación aorto-coronaria por enfermedad de los 3 vasos de un año de antigüedad y RTU por hiperplasia leiomioadenomatosa de próstata de dos años de antigüedad." TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="171" end="183" text="No se refiere ningún traumatismo testicular previo." TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="184" end="196" text="Tampoco presenta antecedentes clínicos, radiológicos ni analíticos de tuberculosis ni brucelosis." TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="197" end="220" text="Historia Actual: Acude a la consulta de urología por molestias testiculares, consistentes en dolor leve crónico intermitente, de 4 meses de evolución." TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="221" end="244" text="Exploración física: apreciándose a la exploración nódulo duro e irregular en testículo derecho sin dolor acompañante espontáneo ni a la palpación." TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="245" end="267" text="Resumen de pruebas complementarias: Los hallazgos ecográficos revelan una lesión focal nodular, lobulada y de baja ecogenicidad de 2 cm de diámetro en polo inferior del testículo derecho, vascularizada, siendo, por tanto compatible con neoformación." TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="268" end="282" text="Testículo izquierdo sin hallazgos patológicos de interés." TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="283" end="304" text="En la TAC abdómino pélvico con contraste no se evidencian adenopatías retroperitoneales." TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="305" end="326" text="El análisis sanguíneo muestra valores dentro de la normalidad para alfa-feto proteína, HCG y LDH (HCG: 1,74 U/l; Alfa-feto proteína: 2.07 ng/ml; LDH: 299 mU/ml)." TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="327" end="349" text="El estudio anatomopatológico macroscópico muestra bolsa escrotal con hidrocele de 8 x 5 x 2,5 cm con 5 cm de conducto epididimario." TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="350" end="366" text="A la sección se observa testículo de 5,5 x 2,5 x 2,5 cm, de consistencia fibrosa, sin lesiones macroscópicas compatibles con neoplasia." TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="367" end="394" text="El estudio microscópico muestra parénquima testicular con degeneración vacuolada de células germinales y de Sertoli, con núcleo vesicular, apreciándose en las paredes de los túbulos seminíferos un infiltrado inflamatorio mononuclear con linfocitos y células plasmáticas." TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="395" end="419" text="Se distinguen numerosas formaciones granulomatosas con abundantes células multinucleadas gigantes ubicadas en el estroma entre los túbulos seminíferos y, alguna de ellas, en el interior de los mismos." TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="420" end="433" text="No se observa celularidad neoplásica." TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="434" end="446" text="Al efectuarse las tinciones de PAS y Ziehl Nielsen no se observan microorganismos micóticos ni micobacterias." TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="447" end="469" text="Evolución y comentarios: El paciente es sometido a una orquiectomía inguinal derecha" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="470" end="489" text="Diagnóstico Principal: orquitis idiopática granulomatosa" TYPE="DIAGNOSTICO" comment=""/>
+  <texto start="490" end="514" text="Remitido por: Miguel Martínez Rodríguez Servicio de Urología. Calle Vicente Blasco Ibáñez, 23 45010 Valencia. (España) miguelmartinez@val.es" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+</informe_clinico>

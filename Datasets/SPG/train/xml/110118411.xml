@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Aitor Otero Estevez
+DNI: 46909656Y
+Fecha de nacimiento: 29/10/1993
+Género: Varón
+Domicilio: Calle de la Ribera 44, 6Q
+Ciudad: Ermua, Palencia, Castilla y León
+Código postal: 34370
+Email: estevez@ciberned.es
+Teléfono fijo: +34 979 29 01 47
+Teléfono móvil: +34 679 69 61 11
+NHC: 2165840
+NASS: 752685871606
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dra. Catalina Merino Iglesias. NC 322032341. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/09/1995
+Centro de salud: Centro de Salud Getafe
+Matrícula del coche: 0287LBB
+Modelo: Chrysler Pacifica
+VIN: VSRROJBPS3W010733
+
+Informe clínico del paciente:
+Paciente no fumador de un año de edad, acompañado de su tío. El servidor para envío de información desde cual el usuario se comunica es smtp://example-ophthalmology.net. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Aitor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Otero Estevez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="46909656Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="29/10/1993" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="108" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="145" text="Calle de la Ribera 44, 6Q" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="159" text="Ermua" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="169" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="186" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="34370" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="234" text="estevez@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 979 29 01 47" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 679 69 61 11" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="2165840" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="752685871606" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="353" end="371" text="Ingeniero de Minas" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="648" end="658" text="21/09/1995" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="676" end="698" text="Centro de Salud Getafe" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="720" end="727" text="0287LBB" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="759" end="776" text="VSRROJBPS3W010733" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="817" end="827" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="831" end="837" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="864" end="867" text="tío" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="944" end="972" text="smtp://example-ophthalmology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

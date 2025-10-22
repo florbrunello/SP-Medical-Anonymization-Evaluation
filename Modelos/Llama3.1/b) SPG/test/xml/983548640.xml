@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Carmen</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Arias Cuesta</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">30046810R</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/05/1999</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Ribera 26</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Aranda de Duero</TAG>, <TAG TYPE="TERRITORIO">Mallorca</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07094</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">cuesta@isciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 54 92 21</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 771 95 43 43</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2268486</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">922106784855</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Limpiador</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lidia Bermudez Vargas</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">847350089</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">29/04/2010</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Latina</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

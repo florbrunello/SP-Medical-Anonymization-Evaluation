@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Ángeles</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Giménez Sánchez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">55591648G</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/08/1992</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Yeserías 47, 1S</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Úbeda</TAG>, <TAG TYPE="TERRITORIO">Valladolid</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">47141</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariaangeles.sanchez@salud.madrid.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 983 60 46 82</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 683 01 73 88</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4209388</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">209138028378</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Servicios de Limpieza</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Matilde Estevez Macias</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">699335059</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Epidemiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/01/2004</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">78816389</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Oeste</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTRO_NUMERO_IDENTIF">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">11 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una <TAG TYPE="IDENTIF_BIOMETRICOS">sesión de escaneo del iris</TAG>, el <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">código obtenido para revisarla</TAG> es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">OG770WVE198</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Lidia Avila Mateo
+DNI: 65003623B
+Fecha de nacimiento: 23/12/1961
+Género: Mujer
+Domicilio: Calle de los Embajadores 99
+Ciudad: Castellón de la Plana, Salamanca, Castilla y León
+Código postal: 37987
+Email: lidia_avila_mateo@salud.madrid.org
+Teléfono fijo: +34 923 00 73 08
+Teléfono móvil: +34 623 70 52 51
+NHC: 3471273
+NASS: 398774872084
+
+Datos asistenciales.
+Médico: Dr. Jon Izquierdo Trujillo. NC 714927639. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/06/1984
+Centro de salud: Centro de Salud Parla
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 22 años de edad. 

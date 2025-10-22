@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Arturo Cano Santamaria
+DNI: 80011889H
+Fecha de nacimiento: 21/02/1971
+Género: M
+Domicilio: Calle de O'Donnell 80
+Ciudad: Reus, Valencia, Comunidad Valenciana
+Código postal: 46881
+Email: cano1239@ioba.med.uva.es
+Teléfono fijo: +34 960 88 42 39
+FAX: +34 960 89 07 40
+NHC: 9292476
+NASS: 800269240928
+Condición de riesgo: Trabajador de Sanitización
+
+Datos asistenciales.
+Médico: Dr. José Ángel Alarcon Gallardo. NC 999328171. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 01/12/2012
+Hospital: Hospital Universitario Nuestra Señora de Candelaria
+Matrícula del coche: 6094RPA
+Modelo: Mercedes-Benz C-Class
+VIN: VSTLTJ9ZI2D761491
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 41 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.142.107, con dirección MAC 76:1B:E9:17:0E:06. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Arturo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Cano Santamaria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="80011889H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="21/02/1971" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="140" text="Calle de O'Donnell 80" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="153" text="Reus" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="163" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="185" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="46881" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="238" text="cano1239@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 960 88 42 39" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="276" end="292" text="+34 960 89 07 40" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="298" end="305" text="9292476" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="312" end="324" text="800269240928" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="346" end="372" text="Trabajador de Sanitización" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="407" end="434" text="José Ángel Alarcon Gallardo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="439" end="448" text="999328171" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="450" end="493" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="495" end="553" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="555" end="579" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="581" end="586" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="588" end="598" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="600" end="606" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="626" end="636" text="01/12/2012" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="647" end="698" text="Hospital Universitario Nuestra Señora de Candelaria" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="720" end="727" text="6094RPA" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="763" end="780" text="VSTLTJ9ZI2D761491" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="824" end="844" text="ascendencia asiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="848" end="855" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="972" end="989" text="76:1B:E9:17:0E:06" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

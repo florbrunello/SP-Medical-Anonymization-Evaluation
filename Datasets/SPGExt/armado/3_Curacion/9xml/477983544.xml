@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mónica Millan Castillo</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">75662248E</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/07/1950</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Gobernador 14, 1K</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Vitoria</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">18803</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">monica-millancastillo@gmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 52 98 49</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 658 64 44 97</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9411723</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">468043486571</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Sin especificar</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Juan José Aparicio Alonso</TAG>.
+    NC: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">096992338</TAG>.
+    Cargo: <TAG TYPE="PROFESION">Residente de 2° año en Pediatría</TAG>.
+    Institución: <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>.
+    Dirección: <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">02/06/1973</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Hospital Universitario Virgen Macarena</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22 años</TAG> de edad, acompañado de su pareja. La paciente presenta una historia de antecedentes de salud que incluyen una enfermedad crónica no especificada, por lo que se le solicita realizar una exploración física y pruebas diagnósticas para determinar la causa subyacente de sus síntomas.
+    La exploración física revela: Tª <TAG TYPE="FECHAS">37,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">80 lpm</TAG>. La paciente se encuentra consciente, orientada, con buen estado de nutrición e hidratación. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. La paciente presenta una lesión en la mano derecha, que se describe como una "herida abierta".
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">12,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">10.000/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>); plaquetas <TAG TYPE="FECHAS">200.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">90%</TAG>; TTPA <TAG TYPE="FECHAS">25,8 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">100 mg/dl</TAG>; urea <TAG TYPE="FECHAS">20 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,0 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">140 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">4,0 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">20 U/l</TAG>; GPT <TAG TYPE="FECHAS">30 U/l</TAG>; GGT <TAG TYPE="FECHAS">40 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">150 U/l</TAG>; calcio <TAG TYPE="FECHAS">9,0 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía abdominal, TAC craneal, Ecocardiograma transtorácico) y pruebas de laboratorio (Hemocultivos, Serologías específicas) para determinar la causa subyacente de los síntomas de la paciente.
+  </TEXT>
+</MEDDOCAN>

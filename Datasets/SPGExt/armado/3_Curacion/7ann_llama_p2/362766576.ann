@@ -1,0 +1,35 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 32	Alfonso Rey Pastor
+T2	ID_SUJETO_ASISTENCIA 55 69	55754234A
+T3	FECHAS 121 131	26/11/1955
+T4	SEXO_SUJETO_ASISTENCIA 143 144	Hombre
+T5	CALLE 165 179	Calle Gran Vía 88
+T6	TERRITORIO 181 199	San Fernando, Sevilla, Andalucía
+T7	TERRITORIO 201 209	41054
+T8	CORREO_ELECTRONICO 221 239	reyciberehd.org
+T9	NUMERO_TELEFONO 241 253	+34 954 15 99 83
+T10	NUMERO_TELEFONO 255 275	+34 654 57 84 93
+T11	ID_SUJETO_ASISTENCIA 287 301	2222137
+T12	ID_SUJETO_ASISTENCIA 303 317	500936180267
+T13	CONDICION_DE_RIESGO 329 341	Trabajador de Minería
+T14	NOMBRE_PERSONAL_SANITARIO 353 387	Dr. Manuel Santamaria Pardo
+T15	ID_PERSONAL_SANITARIO 389 401	NC 365173132
+T16	PROFESION 403 413	Investigador Clínico en Síndromes Raros
+T17	INSTITUCION 415 442	Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)
+T18	CALLE 444 462	Avenida Monforte de Lemos 3-5
+T19	TERRITORIO 464 472	28029
+T20	PAIS 474 480	España
+T21	FECHAS 482 492	24/08/2006
+T22	EPISODIO 504 514	17412942
+T23	HOSPITAL 516 544	Hospital Universitari Vall d'Hebron
+T24	NOMBRE_SUJETO_ASISTENCIA 546 570	Alfonso Rey Pastor
+T25	EDAD_SUJETO_ASISTENCIA 572 579	50 años
+T26	CONDICION_DE_RIESGO 581 591	Exposición a sustancias tóxicas en el ambiente laboral
+T27	SINTOMAS 593 603	Irritación respiratoria y cutánea
+T28	SINTOMAS 605 615	Picazón y erupciones en la piel
+T29	EXPLORACION_FISICA 617 627	Temperatura corporal normal, frecuencia cardíaca acelerada y respiratoria, con signos de tos seca y dificultad para respirar
+T30	ANALISIS_DE_SANGRE 629 639	Alteraciones en los niveles de enzimas hepáticas y renal
+T31	EVOLUCION 641 651	Progresión lenta de la enfermedad, con aumento de la gravedad de los síntomas
+T32	RECOMENDACIONES 653 663	Sigue las recomendaciones del médico para evitar la exposición a sustancias tóxicas y realizar un seguimiento regular de su salud
+T33	ANTECEDENTES 665 675	Exposición a sustancias tóxicas en el ambiente laboral
+T34	ANTECEDENTES 677 687	Daños en los órganos respiratorios y cutáneos
+T35	REMISION 689 699	Recomendada por su médico de cabecera

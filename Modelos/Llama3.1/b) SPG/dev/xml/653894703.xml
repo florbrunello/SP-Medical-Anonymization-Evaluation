@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Daniel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Herrera</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Franco</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">22712571W</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">28/02/1966</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Toledo 85</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Plasencia</TAG>, <TAG TYPE="TERRITORIO">Lérida</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">25007</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">daniel.herrera@ciberned.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 973 90 29 92</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 773 87 59 96</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3243211</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">113587162812</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Operador de Maquinaria Pesada</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sonia Delgado Moreno</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">485433137</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">04/04/1973</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Oeste</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una sesión de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">escaneo del iris</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">ZJ029MAL151</TAG>.
+  </TEXT>
+</MEDDOCAN>

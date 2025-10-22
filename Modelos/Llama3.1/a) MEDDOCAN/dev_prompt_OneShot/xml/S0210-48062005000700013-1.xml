@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jesús</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pascual Esteban</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4075964</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">64 23875296 27</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Trinidad, 39, 8 A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Málaga</TAG>.
+    CP: <TAG TYPE="TERRITORIO">29009</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/07/1977</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">35 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">04/05/2013</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Endocrinología</TAG>.
+    Episodio: <TAG TYPE="ID_SUJETO_ASISTENCIA">4463083</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">M.a</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tapia Guerrero</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">29 29 70367</TAG>.
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">35 años</TAG>, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lúes</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hepatitis no filiada</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">circuncisión</TAG> a los 4 años, que consulta por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bifidez del chorro miccional</TAG>.
+    Reinterrogado, afirma estar en esta situación desde que recuerda y que, de niño, sujetaba el pene con un cordel a la cintura para que no se notara su erección. Sobre su actividad sexual, afirma su opción <TAG TYPE="OTROS_SUJETO_ASISTENCIA">homosexual</TAG> y su satisfacción por el tamaño de su pene y su permanente erección, que le permite coitos sucesivos e indefinidos. No presenta ningún problema de eyaculación.
+    Exploración física: A la exploración, el meato es normal y no hay fístulas. Llama la atención un pene más grande de lo que se podría considerar normal y una erección de los cuerpos cavernosos, sin participación del glande.
+    Pruebas complementarias: Se practica ecodoppler peneano, con valores de tiempo/velocidad en cuerpos cavernosos compatibles con la erección (velocidad sistólica cavernosa derecha de 51 cm/seg y de 41 cm/seg en el lado izquierdo). Probable <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fístula arterio-cavernosa</TAG> en la porción proximal del cuerpo cavernoso derecho.
+    La angioRNM demuestra <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fístula arteriocavernosa</TAG> en el lado derecho, que está presente tanto en la fase arterial como en la venosa y que confirma el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">priapismo arterial de alto flujo</TAG>.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. M.a</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tapia Guerrero</TAG>. <TAG TYPE="PROFESION">Servicio de Endocrinología y Nutrición</TAG>. <TAG TYPE="HOSPITAL">Hospital Regional Universitario Carlos Haya</TAG>. <TAG TYPE="CALLE">Plaza del Hospital Civil, s/n</TAG>. <TAG TYPE="TERRITORIO">29009</TAG> <TAG TYPE="TERRITORIO">Málaga</TAG>. E-mail: <TAG TYPE="CORREO_ELECTRONICO">mjtapiague@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

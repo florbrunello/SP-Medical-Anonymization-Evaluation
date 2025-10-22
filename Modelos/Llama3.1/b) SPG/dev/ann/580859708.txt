@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Jorge Villar Conde
+DNI: 99102643J
+Fecha de nacimiento: 19/02/1994
+Género: Hombre
+Domicilio: Calle de Toledo 26
+Ciudad: Liria, Madrid, Madrid
+Código postal: 28022
+Email: jorgevillar.conde@ciberer.es
+Teléfono fijo: +34 913 88 20 63
+FAX: +34 911 36 15 26
+NHC: 9072708
+Condición de riesgo: Técnico de Radiología
+
+Datos asistenciales.
+Médico: Dr. Iñigo Luque Villar. NC 472153324. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 22/07/2022
+Episodio: 53316847
+Centro de salud: Centro de Salud Puente de Vallecas
+
+Informe clínico del paciente:
+Paciente judío de 28 años de edad. Se registró una sesión de firma biométrica, el código obtenido para revisarla es OO932MKN893. 

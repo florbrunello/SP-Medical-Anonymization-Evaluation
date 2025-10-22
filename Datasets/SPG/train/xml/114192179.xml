@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Nuria De la Fuente Carrillo
+DNI: 32510027X
+Fecha de nacimiento: 21/11/2018
+Género: Mujer
+Domicilio: Calle Serrano 65, 8G
+Ciudad: Bormujos, Lugo, Galicia
+Código postal: 27358
+Email: delafuente@ucm.es
+Teléfono fijo: +34 982 27 28 47
+Teléfono móvil: +34 682 77 90 83
+NHC: 3075364
+
+Datos asistenciales.
+Médico: Dra. Fátima González Cuesta. NC 732639898. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Hospital: Hospital Universitario de Cabueñes
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 6 años de edad, acompañado de su abuelo. Se realizó un expediente con URL http://example-pharma.org//57810069W. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Nuria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="55" text="De la Fuente Carrillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="32510027X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="21/11/2018" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="116" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="148" text="Calle Serrano 65, 8G" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="165" text="Bormujos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="171" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="180" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="27358" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="226" text="delafuente@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="242" end="258" text="+34 982 27 28 47" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="275" end="291" text="+34 682 77 90 83" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="297" end="304" text="3075364" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="574" end="584" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T16" start="595" end="629" text="Hospital Universitario de Cabueñes" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T17" start="673" end="697" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T18" start="701" end="707" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T19" start="734" end="740" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="775" end="796" text="http://example-pharma" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

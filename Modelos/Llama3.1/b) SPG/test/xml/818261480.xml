@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iker Castaño</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Bravo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">69933677S</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/07/1941</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Piamonte 4, 1H</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Avilés</TAG>, <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">34825</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">RXqb8mqOC51261@ciberer.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 84 96 79</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 779 67 20 89</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3306320</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">993211738458</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Médico</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco José Camacho Molina</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">743511621</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">16/09/1957</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">07736258</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario La Mancha Centro</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7071SOH</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Toyota Corolla</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSNBAY924XZ536621</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia indígena sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">16 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

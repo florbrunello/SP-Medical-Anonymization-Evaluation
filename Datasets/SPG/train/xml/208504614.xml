@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Oliver Lozano Blazquez
+DNI: 79550323Q
+Fecha de nacimiento: 14/08/2018
+Género: Hombre
+Domicilio: Calle de la Montera 18, 2B
+Ciudad: Jaén, La Coruña, Galicia
+Código postal: 15817
+Email: blazquez1926@outlook.com
+Teléfono fijo: +34 981 76 44 66
+Teléfono móvil: +34 681 87 97 08
+NHC: 4284144
+
+Datos asistenciales.
+Médico: Dra. Natalia Rubio Herrera. NC 088400645. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/08/2018
+Episodio: 86205138
+Centro de salud: Centro de Salud Collado Villalba
+
+Informe clínico del paciente:
+Paciente no fumador de 0 meses de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.236.177, con dirección MAC 06:85:13:BF:A9:7E. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Oliver" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Lozano Blazquez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="79550323Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="14/08/2018" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="112" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="150" text="Calle de la Montera 18, 2B" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="163" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="174" text="La Coruña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="183" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="199" end="204" text="15817" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="212" end="236" text="blazquez1926@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 981 76 44 66" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="285" end="301" text="+34 681 87 97 08" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="307" end="314" text="4284144" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="585" end="595" text="26/08/2018" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="606" end="614" text="86205138" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="632" end="664" text="Centro de Salud Collado Villalba" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T18" start="705" end="715" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="719" end="726" text="0 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="753" end="758" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="867" end="884" text="06:85:13:BF:A9:7E" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

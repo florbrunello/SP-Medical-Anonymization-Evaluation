@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Samuel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Morales Heredia</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">40128624H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/01/1957</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Olivar 22, 4H</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Marbella</TAG>, <TAG TYPE="TERRITORIO">Orense</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">32928</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">samuel.heredia1484@ucm.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 988 24 18 51</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 988 76 59 49</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3474864</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">152738950378</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Sanitización</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Jesús Otero Miranda</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">683789015</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Oftalmóloga Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">29/12/1992</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">77011243</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Barcelona</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">9268NBW</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Kia Sorento</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSUDBWB99WL125979</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática del sudeste</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">35 años</TAG> de edad. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP</TAG> (<TAG TYPE="DIREC_PROT_INTERNET">192.168.243.58</TAG>), con <TAG TYPE="IDENTIF_BIOMETRICOS">dirección MAC</TAG> (<TAG TYPE="IDENTIF_BIOMETRICOS">14:4B:F1:2A:40:CD</TAG>). Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de escaneo retiniano</TAG>, el <TAG TYPE="DIREC_PROT_INTERNET">código obtenido</TAG> para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">DU525HLK228</TAG>.
+  </TEXT>
+</MEDDOCAN>

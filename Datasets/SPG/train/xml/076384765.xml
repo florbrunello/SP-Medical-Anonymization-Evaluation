@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Francisco Soto Medina
+DNI: 71610750C
+Fecha de nacimiento: 13/02/1982
+Género: Hombre
+Domicilio: Calle de Don Ramón de la Cruz 39
+Ciudad: Alcalá de Henares, Lérida, Cataluña
+Código postal: 25892
+Email: josefrancisco.soto.medina@outlook.com
+Teléfono fijo: +34 973 38 73 63
+Teléfono móvil: +34 773 66 54 86
+NHC: 9732526
+Condición de riesgo: Electricista
+
+Datos asistenciales.
+Médico: Dr. Víctor Gallego Domínguez. NC 400648618. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 19/02/1987
+Centro de salud: Centro de Salud Ronda
+
+Informe clínico del paciente:
+Paciente vegetariano de 5 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="42" text="José Francisco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="43" end="54" text="Soto Medina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="71610750C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="13/02/1982" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="116" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="160" text="Calle de Don Ramón de la Cruz 39" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="169" end="186" text="Alcalá de Henares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="188" end="194" text="Lérida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="196" end="204" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="220" end="225" text="25892" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="233" end="270" text="josefrancisco.soto.medina@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="286" end="302" text="+34 973 38 73 63" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="319" end="335" text="+34 773 66 54 86" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="341" end="348" text="9732526" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="370" end="382" text="Electricista" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="417" end="441" text="Víctor Gallego Domínguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="446" end="455" text="400648618" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="457" end="488" text="Residente de 5° año en Urología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="490" end="562" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="564" end="587" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="589" end="594" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="596" end="602" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="604" end="610" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="630" end="640" text="19/02/1987" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="658" end="679" text="Centro de Salud Ronda" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="720" end="731" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="735" end="741" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="768" end="774" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

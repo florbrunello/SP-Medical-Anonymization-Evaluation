@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Matilde</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Salamanca Barrios</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3784565</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">28 45657346 90</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Pueblo Nuevo, 180, 2 A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28005</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/10/1949</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">67 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">09/07/2017</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alejandro</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Otrosky Arenales</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 91978</TAG>.
+    Informe clínico del paciente: Paciente de <TAG TYPE="SEXO_SUJETO_ASISTENCIA">sexo femenino</TAG>, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">67 años</TAG> de edad, derivado al Servicio de Cirugía Maxilofacial de nuestro hospital, presentando una tumoración circunscripta en la región parotídea izquierda. A la palpación se presentaba con consistencia pastosa, fácilmente desplazable, sin signos de infección ni alteraciones de la piel. No encontramos adenopatías palpables en las cadenas ganglionares del cuello. No presentaba ningún tipo de dolor en la zona del tumor. Al examen intrabucal no se observaron alteraciones. El tiempo de evolución era de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años</TAG>. La paciente no presentaba otras alteraciones sistémicas de relevancia.
+    Se solicitó una tomografía computada, mediante la cual se observa que el tumor compromete el lóbulo superficial de la glándula parótida izquierda. No hay evidencia de alteraciones en los tejidos vecinos. Dada la clínica, el diagnóstico presuntivo es de un tumor benigno de glándulas salivales.
+    Bajo anestesia general y a través de un abordaje extraoral, se procedió a la extirpación del tumor, realizando la lobectomía superficial de la glándula parótida con conservación del nervio facial.
+    La anatomía patológica confirma el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">mioepitelioma benigno</TAG>. Los análisis inmunohistoquímicos revelan marcadores típicos para las células mioepiteliales claras: actina, proteína S- 100 y vimentina.
+    El postoperatorio cursa sin complicaciones. Sólo se evidencia una paresia de los músculos peribucales en el lado operado, la cual remite totalmente a los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 meses</TAG>. Luego de un año de seguimiento no se detectan signos de recidiva.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Alejandro Otrosky Arenales</TAG>. Email: <TAG TYPE="CORREO_ELECTRONICO">diegomartinvilla@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Aitor Costa Marín
+DNI: 42579985Q
+Fecha de nacimiento: 27/05/1981
+Género: Hombre
+Domicilio: Calle de Génova 47, 1R
+Ciudad: Alcobendas, Cantabria, Cantabria
+Código postal: 39594
+Email: aitor.marin@ciberer.es
+Teléfono fijo: +34 942 99 08 23
+Teléfono móvil: +34 742 15 88 28
+NHC: 7700981
+Condición de riesgo: Dentista
+
+Datos asistenciales.
+Médico: Dra. Francisca Márquez Salazar. NC 602271851. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 06/05/2001
+Episodio: 73100677
+Hospital: Hospital General de Villalba
+Matrícula del coche: 1847FVU
+Modelo: Kia Sorento
+VIN: VSOKFWMHT1B962956
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 19 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Aitor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="45" text="Costa Marín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="42579985Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="27/05/1981" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="107" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="141" text="Calle de Génova 47, 1R" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="160" text="Alcobendas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="171" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="182" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="39594" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="233" text="aitor.marin@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 942 99 08 23" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 742 15 88 28" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="304" end="311" text="7700981" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="333" end="341" text="Dentista" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="608" end="618" text="06/05/2001" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="629" end="637" text="73100677" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="648" end="676" text="Hospital General de Villalba" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="698" end="705" text="1847FVU" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="731" end="748" text="VSOKFWMHT1B962956" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="792" end="821" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="825" end="832" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

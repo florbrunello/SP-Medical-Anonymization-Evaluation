@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Vicente Rueda Vázquez
+DNI: 56136718C
+Fecha de nacimiento: 09/07/1982
+Género: Hombre
+Domicilio: Calle de Valverde 88
+Ciudad: Albacete, Cáceres, Extremadura
+Código postal: 10179
+Email: vazquez@icloud.com
+Teléfono fijo: +34 927 52 99 61
+Teléfono móvil: +34 627 24 87 64
+NHC: 6557637
+NASS: 644343206193
+Condición de riesgo: Trabajador de Servicios de Limpieza
+
+Datos asistenciales.
+Médico: Dr. Francisco Muñoz Marcos. NC 527037338. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 26/04/1995
+Episodio: 71243842
+Centro de salud: Centro de Salud Majadahonda
+Matrícula del coche: 7935DRE
+Modelo: Chrysler Pacifica
+VIN: VSV94RLWKGU569829
+
+Informe clínico del paciente:
+Paciente fumador de 12 años de edad, acompañado de su tía. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Vicente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="49" text="Rueda Vázquez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="56136718C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="09/07/1982" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="111" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="143" text="Calle de Valverde 88" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="160" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="169" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="182" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="10179" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="229" text="vazquez@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="245" end="261" text="+34 927 52 99 61" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 627 24 87 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="300" end="307" text="6557637" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="314" end="326" text="644343206193" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="348" end="383" text="Trabajador de Servicios de Limpieza" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="418" end="440" text="Francisco Muñoz Marcos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="445" end="454" text="527037338" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="456" end="499" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="501" end="559" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="561" end="585" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="587" end="592" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="594" end="604" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="606" end="612" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="632" end="642" text="26/04/1995" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="653" end="661" text="71243842" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="679" end="706" text="Centro de Salud Majadahonda" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="728" end="735" text="7935DRE" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="767" end="784" text="VSV94RLWKGU569829" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="825" end="832" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="836" end="843" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="870" end="873" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

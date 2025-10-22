@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Ana María Pardo García
+DNI: 53129515K
+Fecha de nacimiento: 09/07/2017
+Género: M
+Domicilio: Calle del Rollo 99
+Ciudad: Cuenca, Santa Cruz de Tenerife, Canarias
+Código postal: 38646
+Email: garcia62@imibic.org
+Teléfono fijo: +34 922 09 37 64
+Teléfono móvil: +34 622 75 77 35
+NHC: 3845390
+NASS: 816355158466
+
+Datos asistenciales.
+Médico: Dra. Marta Marín Román. NC 397898362. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/05/2019
+Hospital: Hospital Universitario Marqués de Valdecilla
+
+Informe clínico del paciente:
+Paciente de descendencia africana de un año de edad, acompañado de su tía. 

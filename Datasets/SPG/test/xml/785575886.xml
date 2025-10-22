@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Mercedes Domínguez Marín
+DNI: 16709740X
+Fecha de nacimiento: 20/04/2004
+Género: F
+Domicilio: Calle de Recoletos 31
+Ciudad: Hellín, Cantabria, Cantabria
+Código postal: 39819
+Email: vWVmuNA1gXf7w@hotmail.com
+Teléfono fijo: +34 942 37 11 84
+Teléfono móvil: +34 742 70 39 25
+NHC: 4420494
+NASS: 430574478731
+Condición de riesgo: Trabajador de Residuos Sólidos
+
+Datos asistenciales.
+Médico: Dr. Lorenzo Santamaria Blanco. NC 302343639. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/09/2007
+Episodio: 42700280
+Hospital: Hospital Universitario Fundació Jiménez Díaz
+
+Informe clínico del paciente:
+Paciente fumador de 3 años de edad, acompañado de su padre. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es RU189KBA590. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="42" text="María Mercedes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="43" end="58" text="Domínguez Marín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="64" end="73" text="16709740X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="95" end="105" text="20/04/2004" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="114" end="115" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="127" end="148" text="Calle de Recoletos 31" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="163" text="Hellín" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="174" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="185" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="39819" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="239" text="vWVmuNA1gXf7w@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 942 37 11 84" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 742 70 39 25" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="4420494" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="324" end="336" text="430574478731" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="358" end="388" text="Trabajador de Residuos Sólidos" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="423" end="448" text="Lorenzo Santamaria Blanco" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="453" end="462" text="302343639" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="464" end="496" text="Residente de 2° año en Pediatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="498" end="573" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="575" end="604" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="606" end="611" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="613" end="619" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="621" end="627" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="647" end="657" text="08/09/2007" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="668" end="676" text="42700280" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="687" end="731" text="Hospital Universitario Fundació Jiménez Díaz" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="772" end="779" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="783" end="789" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="816" end="821" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="905" end="916" text="RU189KBA590" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

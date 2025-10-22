@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ángeles Camacho Bueno
+DNI: 68673248D
+Fecha de nacimiento: 24/08/1940
+Género: Femenino
+Domicilio: Calle del Doctor Esquerdo 90
+Ciudad: Ciudad autónoma de Melilla, Melilla, 
+Código postal: 51953
+Email: angeles.bueno@gmail.com
+Teléfono fijo: +34 951 16 49 44
+Teléfono móvil: +34 751 30 88 68
+NHC: 4995356
+NASS: 680517827981
+Condición de riesgo: Soldador
+
+Datos asistenciales.
+Médico: Dr. Raúl Andres Casas. NC 016217881. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 26/12/1962
+Hospital: Hospital Universitario Ramón y Cajal
+
+Informe clínico del paciente:
+Paciente vegano de 22 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Ángeles" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="49" text="Camacho Bueno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="68673248D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="24/08/1940" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="113" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="153" text="Calle del Doctor Esquerdo 90" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="162" end="188" text="Ciudad autónoma de Melilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="190" end="198" text="Melilla," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="215" end="220" text="51953" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="228" end="251" text="angeles.bueno@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="267" end="283" text="+34 951 16 49 44" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="300" end="316" text="+34 751 30 88 68" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T13" start="322" end="329" text="4995356" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="336" end="348" text="680517827981" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T15" start="370" end="378" text="Soldador" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="413" end="430" text="Raúl Andres Casas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="435" end="444" text="016217881" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="446" end="490" text="Investigador Principal en Optometría Clínica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="492" end="550" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="552" end="576" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="578" end="583" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="585" end="595" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="597" end="603" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="623" end="633" text="26/12/1962" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="644" end="680" text="Hospital Universitario Ramón y Cajal" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="721" end="727" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="731" end="738" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

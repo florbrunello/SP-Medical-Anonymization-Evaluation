@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Aarón Conde Del Rio
+DNI: 80510613X
+Fecha de nacimiento: 08/08/2018
+Género: M
+Domicilio: Calle Gran Vía 43, 5T
+Ciudad: Vilanova i la Geltrú, Ávila, Castilla y León
+Código postal: 05369
+Email: conde_delrio@udc.es
+Teléfono fijo: +34 920 85 32 59
+Teléfono móvil: +34 720 37 90 26
+NHC: 6673406
+NASS: 228797461943
+
+Datos asistenciales.
+Médico: Dra. Blanca Ferrer Villar. NC 959814772. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/05/2023
+Episodio: 43138955
+Hospital: Complejo Hospitalario Universitario de Cartagena
+
+Informe clínico del paciente:
+Paciente vegano de 4 años de edad, acompañado de su abuela. Se realizó un expediente con URL http://example-biotech.com//63326176N. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="Aarón Conde" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="47" text="Del Rio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="80510613X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="08/08/2018" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="137" text="Calle Gran Vía 43, 5T" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="166" text="Vilanova i la Geltrú" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="173" text="Ávila" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="190" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="05369" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="238" text="conde_delrio@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 920 85 32 59" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 720 37 90 26" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="6673406" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="323" end="335" text="228797461943" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="607" end="617" text="05/05/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="628" end="636" text="43138955" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="647" end="695" text="Complejo Hospitalario Universitario de Cartagena" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="736" end="742" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="746" end="752" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="779" end="785" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="820" end="842" text="http://example-biotech" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Manuel Jesús Casado Villanueva
+DNI: 62266177W
+Fecha de nacimiento: 27/06/2017
+Género: Masculino
+Domicilio: Calle del Doctor Esquerdo 93, 1J
+Ciudad: Burgos, Asturias, Asturias
+Código postal: 33809
+Email: manueljesus.casado@ub.edu
+Teléfono fijo: +34 984 43 21 90
+Teléfono móvil: +34 784 73 56 73
+NHC: 9765492
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dra. Valeria Mateos Díaz. NC 980677104. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 01/06/2021
+Episodio: 13702793
+Centro de salud: Centro de Salud Barajas
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 3 años de edad, acompañado de su padre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.250.122, con dirección MAC 0A:C9:83:54:7D:9D. Se registró una sesión de huella dactilar, el código obtenido para revisarla es HO058KMM121. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es ZI392RAH768. 

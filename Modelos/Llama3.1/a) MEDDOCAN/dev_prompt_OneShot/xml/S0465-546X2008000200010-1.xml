@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Octavio</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Arizmendi Cantú</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7833478</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Lavolpe, 235</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Corrientes</TAG>.
+    CP: <TAG TYPE="TERRITORIO">3400</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">29/08/1966</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">Argentina</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">48 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">03/07/2015</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodrigo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Karatanasopuloz Pintos</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">48 años</TAG>, sin antecedentes de interés médico ni hábitos tóxicos, y sin alergias conocidas.
+    Estando trabajando en el almacén de un central nuclear, fue requerido para descargar un camión que transportaba <TAG TYPE="PROFESION">hidrato de hidracina</TAG> al <TAG TYPE="PERCENTAJE">55%</TAG>%. Uno de los bidones cayó accidentalmente al suelo, produciéndose el vertido de unos <TAG TYPE="NUMERO">25</TAG> litros, avisándose a los servicios de emergencia de la propia empresa que diluyeron con agua la superficie de unos <TAG TYPE="NUMERO">3</TAG> m2 donde se había producido el vertido. El paciente participó activamente en la recogida de los residuos, sin utilizar ningún equipo de protección individual; al acabar la tarea no se cambio la ropa ni se duchó.
+    Varias horas después del accidente empezó a notar un enrojecimiento bucal con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">quelitis del labio inferior</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">aftas orales</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal difuso</TAG>. Fue atendido por un servicio médico, donde se le prescribió un tratamiento sintomático. Alos seis días del accidente presenta lesiones eritemato-escamosas en la cara y en los brazos (zonas que no estuvieron cubiertas durante el accidente). Acude por ello a un centro hospitalario donde se le realiza una analítica general y unas radiografías simples de tórax y abdomen, que fueron normales, prescribiéndole tratamiento con <TAG TYPE="PROFESION">antihistamínicos</TAG>.
+    A las dos semanas acudió por propia iniciativa a la Unidad de <TAG TYPE="PROFESION">Toxicología</TAG> del <TAG TYPE="INSTITUCION">Hospital Clínico de Barcelona</TAG>, por persistencia de las lesiones eritema-escamosas, disconfort abdominal y disgeusia. La exploración física era normal y en la analítica de sangre y orina únicamente destacaba una <TAG TYPE="NUMERO">bilirrubina total</TAG> de <TAG TYPE="NUMERO">2,5</TAG> mg/dl (VN: hasta <TAG TYPE="NUMERO">1,2</TAG> mg/dl) con una <TAG TYPE="NUMERO">bilirrubina indirecta</TAG> del <TAG TYPE="NUMERO">2,1</TAG> mg/dl. El estudio ecográfico abdominal fue normal. Se realizó un control al cabo de uno y tres meses, encontrándose asintomático aunque la <TAG TYPE="NUMERO">bilirrubina</TAG> persistía ligeramente elevada, siendo dado de alta médica.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodrigo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Karatanasopuloz Pintos</TAG>. <TAG TYPE="TERRITORIO">Terapia Intensiva</TAG>. <TAG TYPE="INSTITUCION">Hospital José Ramón Vidal</TAG>. <TAG TYPE="CALLE">C/ Necochea, 1050</TAG>. <TAG TYPE="TERRITORIO">3400 Corrientes</TAG>, <TAG TYPE="PAIS">Argentina</TAG>. <TAG TYPE="CORREO_ELECTRONICO">rkarata@yahoo.com.ar</TAG>
+  </TEXT>
+</MEDDOCAN>

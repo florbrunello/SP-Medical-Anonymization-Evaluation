@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Luis Aguilar Cuesta
+DNI: 74616155S
+Fecha de nacimiento: 03/02/1983
+Género: Varón
+Domicilio: Calle del Gobernador 32
+Ciudad: Avilés, Málaga, Andalucía
+Código postal: 29344
+Email: joseluisaguilar@uhu.es
+Teléfono fijo: +34 951 13 41 35
+Teléfono móvil: +34 751 91 16 14
+NHC: 4122929
+NASS: 558580845435
+Condición de riesgo: Enfermera
+
+Datos asistenciales.
+Médico: Dr. Felipe Villar Santiago. NC 563452570. Investigador Clínico en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 23/11/2011
+Episodio: 84274423
+Centro de salud: Centro de Salud Aranjuez
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 28 años de edad. Se registró una sesión de firma biométrica, el código obtenido para revisarla es KC483HUY403. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="José Luis" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="52" text="Aguilar Cuesta" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="74616155S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="03/02/1983" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="113" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="148" text="Calle del Gobernador 32" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="163" text="Avilés" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="171" text="Málaga" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="182" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="29344" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="233" text="joseluisaguilar@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 951 13 41 35" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 751 91 16 14" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="304" end="311" text="4122929" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="318" end="330" text="558580845435" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="352" end="361" text="Enfermera" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="396" end="418" text="Felipe Villar Santiago" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="423" end="432" text="563452570" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="434" end="480" text="Investigador Clínico en Insuficiencia Cardíaca" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="482" end="568" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="570" end="599" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="601" end="606" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="608" end="614" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="616" end="622" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="642" end="652" text="23/11/2011" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="663" end="671" text="84274423" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="689" end="713" text="Centro de Salud Aranjuez" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="757" end="777" text="ascendencia asiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="781" end="788" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="879" end="890" text="KC483HUY403" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

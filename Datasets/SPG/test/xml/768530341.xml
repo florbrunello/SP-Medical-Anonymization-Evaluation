@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Yolanda Redondo Santiago
+DNI: 25511757L
+Fecha de nacimiento: 27/02/1957
+Género: F
+Domicilio: Calle de Áncora 35, 7T
+Ciudad: Murcia, Lérida, Cataluña
+Código postal: 25081
+Email: redondo@ciberned.es
+Teléfono fijo: +34 973 39 10 54
+FAX: +34 973 99 03 94
+NHC: 7134269
+NASS: 395789255976
+
+Datos asistenciales.
+Médico: Dr. José Miguel Vega Caballero. NC 764020996. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/01/1961
+Episodio: 78626246
+Centro de salud: Centro de Salud Collado Villalba
+Matrícula del coche: 2472HHB
+Modelo: Honda CR-V
+VIN: VSEE2E62O2P987203
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 3 años de edad, acompañado de su padre. Se realizó un expediente con URL http://example-hospital.org//52873417M. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es AV032EJV726. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Yolanda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="52" text="Redondo Santiago" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="25511757L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="27/02/1957" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="143" text="Calle de Áncora 35, 7T" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="158" text="Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="166" text="Lérida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="176" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="192" end="197" text="25081" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="205" end="224" text="redondo@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="240" end="256" text="+34 973 39 10 54" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="262" end="278" text="+34 973 99 03 94" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="284" end="291" text="7134269" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="298" end="310" text="395789255976" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="345" end="371" text="José Miguel Vega Caballero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="376" end="385" text="764020996" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="387" end="431" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="433" end="519" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="521" end="550" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="552" end="557" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="559" end="565" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="567" end="573" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="593" end="603" text="05/01/1961" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="614" end="622" text="78626246" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="640" end="672" text="Centro de Salud Collado Villalba" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="694" end="701" text="2472HHB" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="726" end="743" text="VSEE2E62O2P987203" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="787" end="816" text="ascendencia del medio oriente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="820" end="826" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="853" end="858" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="893" end="916" text="http://example-hospital" TYPE="URL_WEB" comment=""/>
+        <ID id="T33" start="1019" end="1030" text="AV032EJV726" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Amparo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Herrero Miranda</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">16039260A</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/07/2012</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Preciados 6</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Pamplona, Teruel, Aragón</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">44854</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">herrero@ual.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 978 62 51 27</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 978 13 10 86</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1178363</TAG>.
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Pintor de Construcción</TAG>.
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernando</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Escudero Jiménez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">786285688</TAG>. <TAG TYPE="PROFESION">Oftalmólogo Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">29/09/2013</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Universitario Virgen de la Arrixaca</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia centroasiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año</TAG> de edad, acompañado de su abuela, presenta una infección por <TAG TYPE="OTRO_NUMERO_IDENTIF">virus del herpes simple tipo 1</TAG>, con lesiones en la zona del ojo izquierdo. El paciente ha estado con <TAG TYPE="OTRO_NUMERO_IDENTIF">fiebre</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">dolor en la cabeza</TAG> durante los últimos días, y se ha presentado en el hospital con una <TAG TYPE="OTRO_NUMERO_IDENTIF">visión borrosa</TAG> en el ojo afectado.
+    La exploración física revela: <TAG TYPE="OTRO_NUMERO_IDENTIF">Tª</TAG> 38,5 C; <TAG TYPE="OTRO_NUMERO_IDENTIF">T.A</TAG>: 110/70 mmHg; <TAG TYPE="OTRO_NUMERO_IDENTIF">Fc</TAG>: 90 lpm. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En la exploración oftalmológica se observa una <TAG TYPE="OTRO_NUMERO_IDENTIF">úlcera</TAG> en la córnea del ojo izquierdo, con una lesión en la zona del <TAG TYPE="OTRO_NUMERO_IDENTIF">nervio óptico</TAG>.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="OTRO_NUMERO_IDENTIF">Hemograma</TAG>: <TAG TYPE="OTRO_NUMERO_IDENTIF">Hb</TAG> 12,5 g/dl; <TAG TYPE="OTRO_NUMERO_IDENTIF">leucocitos</TAG> 12.000/mm3 (<TAG TYPE="OTRO_NUMERO_IDENTIF">neutrófilos</TAG> 60%); <TAG TYPE="OTRO_NUMERO_IDENTIF">plaquetas</TAG> 200.000/ mm3. <TAG TYPE="OTRO_NUMERO_IDENTIF">VSG</TAG>: 35 mm 1ª hora. <TAG TYPE="OTRO_NUMERO_IDENTIF">Coagulación</TAG>: <TAG TYPE="OTRO_NUMERO_IDENTIF">TQ</TAG> 90%; <TAG TYPE="OTRO_NUMERO_IDENTIF">TTPA</TAG> 25,5 seg. <TAG TYPE="OTRO_NUMERO_IDENTIF">Bioquímica</TAG>: <TAG TYPE="OTRO_NUMERO_IDENTIF">Glucosa</TAG> 100 mg/dl; <TAG TYPE="OTRO_NUMERO_IDENTIF">urea</TAG> 20 mg/dl; <TAG TYPE="OTRO_NUMERO_IDENTIF">creatinina</TAG> 0,8 mg/dl; <TAG TYPE="OTRO_NUMERO_IDENTIF">sodio</TAG> 135 mEq/l; <TAG TYPE="OTRO_NUMERO_IDENTIF">potasio</TAG> 3,5 mEq/l; <TAG TYPE="OTRO_NUMERO_IDENTIF">GOT</TAG> 15 U/l; <TAG TYPE="OTRO_NUMERO_IDENTIF">GPT</TAG> 25 U/l; <TAG TYPE="OTRO_NUMERO_IDENTIF">GGT</TAG> 30 U/l; <TAG TYPE="OTRO_NUMERO_IDENTIF">fosfatasa alcalina</TAG> 120 U/l; <TAG TYPE="OTRO_NUMERO_IDENTIF">calcio</TAG> 8,5 mg/dl. <TAG TYPE="OTRO_NUMERO_IDENTIF">Orina</TAG>: sedimento normal.
+    Se ha solicitado una <TAG TYPE="OTRO_NUMERO_IDENTIF">ecografía ocular</TAG> y una <TAG TYPE="OTRO_NUMERO_IDENTIF">biopsia de la córnea</TAG> para confirmar el diagnóstico y determinar la mejor opción de tratamiento. El paciente se encuentra bajo observación en la unidad de cuidados intensivos y se le ha iniciado tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">antivirales</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">analgésicos</TAG>.
+    Antecedentes:
+    El paciente tiene una historia de <TAG TYPE="OTRO_NUMERO_IDENTIF">alergia a ciertos medicamentos</TAG> y ha tenido antecedentes de <TAG TYPE="OTRO_NUMERO_IDENTIF">infecciones respiratorias</TAG> en el pasado.
+    Evolución y comentarios:
+    El paciente ha estado bajo observación en la unidad de cuidados intensivos durante las últimas 24 horas y ha mostrado una mejoría en su estado clínico. La <TAG TYPE="OTRO_NUMERO_IDENTIF">ecografía ocular</TAG> ha confirmado la presencia de una <TAG TYPE="OTRO_NUMERO_IDENTIF">úlcera</TAG> en la córnea del ojo izquierdo y la <TAG TYPE="OTRO_NUMERO_IDENTIF">biopsia de la córnea</TAG> ha mostrado la presencia de <TAG TYPE="OTRO_NUMERO_IDENTIF">virus del herpes simple tipo 1</TAG>.
+    Remitido por:
+    El paciente ha sido remitido a la unidad de <TAG TYPE="PROFESION">oftalmología</TAG> para seguir su evolución y recibir tratamiento específico para la infección por <TAG TYPE="OTRO_NUMERO_IDENTIF">virus del herpes simple tipo 1</TAG>.
+  </TEXT>
+</MEDDOCAN>

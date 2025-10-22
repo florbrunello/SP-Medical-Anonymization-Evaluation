@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Mohammed Marín Rojas
+DNI: 37086932F
+Fecha de nacimiento: 20/09/2004
+Género: Hombre
+Domicilio: Calle de Lope de Vega 62, 5W
+Ciudad: Córdoba, Madrid, Madrid
+Código postal: 28594
+Email: marin@gmail.com
+Teléfono fijo: +34 912 75 16 40
+FAX: +34 915 50 54 14
+NHC: 3975707
+
+Datos asistenciales.
+Médico: Dra. María Paz Jurado Beltran. NC 573629885. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 92918996
+Hospital: Complejo Hospitalario Universitario de A Coruña
+
+Informe clínico del paciente:
+Paciente no fumador de 20 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Mohammed" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="48" text="Marín Rojas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="37086932F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="20/09/2004" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="110" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="150" text="Calle de Lope de Vega 62, 5W" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="166" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="174" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="182" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="28594" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="226" text="marin@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="242" end="258" text="+34 912 75 16 40" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="264" end="280" text="+34 915 50 54 14" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="286" end="293" text="3975707" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="547" end="557" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="568" end="576" text="92918996" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="587" end="634" text="Complejo Hospitalario Universitario de A Coruña" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="675" end="685" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="689" end="696" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

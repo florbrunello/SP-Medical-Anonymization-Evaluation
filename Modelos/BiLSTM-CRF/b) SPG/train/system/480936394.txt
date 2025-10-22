@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Margarita Gutiérrez Benítez
+DNI: 48249656A
+Fecha de nacimiento: 03/11/1946
+Género: Mujer
+Domicilio: Calle del Rollo 30
+Ciudad: Santander, Zamora, Castilla y León
+Código postal: 49914
+Email: benitez@ciberehd.org
+Teléfono fijo: +34 980 20 87 53
+Teléfono móvil: +34 680 54 99 36
+NHC: 0201765
+NASS: 566951729567
+
+Datos asistenciales.
+Médico: Dr. Félix Parra Mendoza. NC 292740736. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 12/04/1947
+Episodio: 76216794
+Centro de salud: Centro de Salud Alcorcón
+
+Informe clínico del paciente:
+Paciente discapacitado de 5 meses de edad, acompañado de su hermano. El servidor para envío de información desde cual el usuario se comunica es smtp://example-research.net. 

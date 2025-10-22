@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Susana</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lorenzo Esteban</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">59751747R</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/07/1984</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Yeserías 97</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcoy</TAG>, <TAG TYPE="TERRITORIO">Cuenca</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">16309</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">susana.lorenzo_esteban@udc.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 969 74 12 98</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 769 07 97 99</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2846092</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Guardia de Seguridad</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Virginia Muñoz Arias</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">438975927</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Oftalmóloga Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/12/2014</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">85264696</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Universitario San Cecilio</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0468FED</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hyundai Elantra</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSJHWSFL0WZ898113</TAG>
+    
+    Informe clínico del paciente:
+    Paciente no <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>.
+    Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">BB514QZP338</TAG>. 
+    Se registró una sesión de firma biométrica, el código obtenido para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">OB983ICV525</TAG>. 
+  </TEXT>
+</MEDDOCAN>

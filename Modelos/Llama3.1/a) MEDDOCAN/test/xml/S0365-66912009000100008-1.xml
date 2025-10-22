@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pablo</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Hernández de Córdoba</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7438564</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">74 35670263 21</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Ganapanes, 35, 6, A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28036</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/11/1980</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">28 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">03/10/2009</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco Javier</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Muñoz Negrete</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 70263</TAG>.
+    Informe clínico del paciente: Paciente varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">28 años</TAG> de edad que sufre un traumatismo contuso en su ojo izquierdo durante una agresión. En la exploración inicial de urgencia se aprecia en dicho ojo una importante reducción de AV debido a un hifema, la PIO era <TAG TYPE="NUMERO">8</TAG> mmHg y en el fondo de ojo se apreciaba un edema de Berlin. El paciente es tratado con reposo relativo, cicloplejía, corticoides tópicos y sistémicos. Tras la reabsorción del hifema, la AV mejoró a <TAG TYPE="NUMERO">1</TAG>, pero la PIO era de <TAG TYPE="NUMERO">4</TAG> mmHg, por lo que se continúa tratamiento con restricción de esfuerzos físicos, atropina <TAG TYPE="NUMERO">1%</TAG> y corticoides tópicos, a pesar de lo cual la hipotonía ocular persiste (<TAG TYPE="NUMERO">4-6</TAG> mmHg), la AV se reduce llegando a <TAG TYPE="NUMERO">0,4</TAG> y se van desarrollando pliegues retinocoroideos y edema de papila. La supresión de los corticoides tópicos tampoco mejoró el cuadro clínico.
+    El estudio gonioscópico muestra un ángulo abierto grado IV sin otras alteraciones. Diez meses tras el traumatismo se le realiza una biomicroscopía ultrasónica (BMU) que objetiva un desgarro de la raíz de iris en la zona nasal con desprendimiento ciliocoroideo de <TAG TYPE="NUMERO">360°</TAG>. La tomografía de coherencia óptica (OCT) muestra un engrosamiento foveal (<TAG TYPE="NUMERO">326</TAG> micras).
+    Dada la ausencia de respuesta al tratamiento conservador se decide practicar una ciclopexia transescleral con láser diodo de contacto utilizando la sonda G del láser diodo Oculight SLx (<TAG TYPE="INSTITUCION">Iris Medical Instruments, Mountain View, California</TAG>), El procedimiento fue realizado bajo anestesia retrobulbar y se aplicaron <TAG TYPE="NUMERO">2</TAG> hileras de <TAG TYPE="NUMERO">10</TAG> impactos cada una (potencia <TAG TYPE="NUMERO">3</TAG> watios, tiempo de exposición <TAG TYPE="NUMERO">3</TAG> segundos) sobre el área de ciclodiálisis descrita con la BMU.
+    En las primeras <TAG TYPE="NUMERO">24</TAG> horas no se observaron cambios en la AV ni en la PIO, pero a partir de la semana se observó un ascenso gradual de la PIO, siendo al <TAG TYPE="NUMERO">6°</TAG> mes de <TAG TYPE="NUMERO">12</TAG> mmHg, lo que se acompañó de mejoría de AV y reducción progresiva del edema de papila, pliegues coriorretinianos y del grosor foveal. Mediante BMU se comprobó el cierre de la ciclodiálisis mediante una sinequia anterior periférica y la desaparición del desprendimiento coroideo, que justifican la normalización de la PIO. Al año de seguimiento la AV era de <TAG TYPE="NUMERO">1</TAG> y la PIO de <TAG TYPE="NUMERO">14</TAG> mmHg.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco Javier</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Muñoz Negrete</TAG> <TAG TYPE="HOSPITAL">Hospital Ramón y Cajal</TAG> <TAG TYPE="SERVICIO">Servicio de Oftalmología</TAG> <TAG TYPE="CALLE">Ctra. Colmenar Viejo, km 9,100</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">franciscojmunoz@madridsalud.net</TAG>
+  </TEXT>
+</MEDDOCAN>

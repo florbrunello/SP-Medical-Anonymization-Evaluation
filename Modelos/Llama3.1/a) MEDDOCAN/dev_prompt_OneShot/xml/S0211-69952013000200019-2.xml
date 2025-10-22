@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marcos</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Navarro Duran</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8340607</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">91 03577050 06</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Avinguda del Port, 12, 9 A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Valencia</TAG>.
+    CP: <TAG TYPE="TERRITORIO">46022</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/08/1971</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">45 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">01/06/2017</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Nefrología</TAG>.
+    Episodio: <TAG TYPE="ID_SUJETO_ASISTENCIA">6903288</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Eduardo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Torregrosa-de Juan</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">46 46 55908</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">45 años</TAG> afecto de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ERC estadio 5</TAG> secundaria a <TAG TYPE="OTROS_SUJETO_ASISTENCIA">poliquistosis hepatorrenal</TAG> con antecedente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> e <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hiperuricemia</TAG>. Ante el deterioro progresivo de función renal con necesidad de tratamiento renal sustitutivo, y tras la explicación de las diferentes técnicas, se inserta catéter peritoneal recto no autoposicionante de 1 cuff. Un mes después tras inicio de <TAG TYPE="PROFESION">DPCA</TAG> en su domicilio con 4 intercambios de 2 litros de <TAG TYPE="PROFESION">glucosa 1,36 %</TAG>, el paciente acude a la Unidad de Diálisis Peritoneal, refiriendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">edematización inguinoescrotal</TAG> de 48 h de evolución. Tras descartar <TAG TYPE="OTROS_SUJETO_ASISTENCIA">orquiepididimitis</TAG>, se efectúa <TAG TYPE="PROFESION">TAC-peritoneografía</TAG>, como en el caso anterior, confirmando el paso de contraste a testículos a través de un proceso vaginal permeable. Se decide <TAG TYPE="PROFESION">reposo peritoneal</TAG> y transferencia a <TAG TYPE="PROFESION">hemodiálisis</TAG>. Un mes después se procede al cierre quirúrgico del conducto peritoneovaginal, reiniciando <TAG TYPE="PROFESION">DPCA</TAG> en junio de 2009 sin incidencias ni reaparición de la fuga.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Eduardo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Torregrosa-de Juan</TAG>, <TAG TYPE="PROFESION">Servicio de Nefrología</TAG>, <TAG TYPE="INSTITUCION">Hospital de Manises</TAG>, <TAG TYPE="TERRITORIO">Manises</TAG>, <TAG TYPE="TERRITORIO">Valencia</TAG> <TAG TYPE="CORREO_ELECTRONICO">torregrosa_edu@gva.es</TAG>
+  </TEXT>
+</MEDDOCAN>

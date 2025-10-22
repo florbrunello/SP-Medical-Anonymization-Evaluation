@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jorge</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Dominguez Cano</TAG>.
+    CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc-643185</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">16 6834562 26</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la fuente 96, 8B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28024</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">643185</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/05/1974</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">35 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">14/10/2009</TAG>.
+    Especialidad: <TAG TYPE="PROFESION">Urología</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pablo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Garrido Abad</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">31 28 54753</TAG>.
+    Motivo de ingreso: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumoración en polo superior de teste derecho</TAG>.
+    Historia Actual: Paciente varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">35 años</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumoración en polo superior de teste derecho</TAG> hallada de manera casual durante una autoexploración, motivo por el cual acude a consulta de <TAG TYPE="PROFESION">urología</TAG> donde se realiza exploración física, apreciando masa de 1cm aproximado de diámetro dependiente de epidídimo, y ecografía testicular, que se informa como lesión nodular sólida en cabeza de epidídimo derecho. 
+    Exploración física Y pruebas complementarias: Se realiza <TAG TYPE="PROFESION">RMN</TAG>. Confirmando masa nodular, siendo el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumor adenomatoide de epidídimo</TAG> la primera posibilidad diagnóstica.
+    Se decide, en los dos casos, resección quirúrgica de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumoración nodular</TAG> en cola epidídimo derecho, sin realización de orquiectomía posterior.
+    En ambos casos se realizó examen anátomopatológico de la pieza quirúrgica. Hallazgos histológicos macroscópicos: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">formación nodular</TAG> de 1,5 cms (caso1) y 1,2 cms (caso 2) de consistencia firme, coloración blanquecina y bien delimitada. Microscópicamente se observa proliferación tumoral constituida por estructuras tubulares en las que la celularidad muestra núcleos redondeados y elongados sin atipia citológica y que ocasionalmente muestra citoplasmas vacuolados, todo ello compatible con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumor adenomatoide de epidídimo</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pablo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Garrido Abad</TAG> <TAG TYPE="PROFESION">Servicio de Urología</TAG> <TAG TYPE="HOSPITAL">Hospital de la Princesa</TAG> <TAG TYPE="CALLE">Diego de León, 28006</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>. <TAG TYPE="CORREO_ELECTRONICO">pgabad@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

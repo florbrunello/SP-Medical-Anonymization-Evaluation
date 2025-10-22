@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Miguel Gallardo Vila</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">76429192P</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/10/2021</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Mesón de Paredes 92</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Liria, Toledo, Castilla-La Mancha</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">45276</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">miguel120@uhu.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 925 57 38 86</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 725 12 50 48</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3632758</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">289634902295</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Mariano</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Santos Calderon</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">599173532</TAG>. <TAG TYPE="PROFESION">Cardiólogo</TAG> <TAG TYPE="PROFESION">Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/06/2024</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Rey Juan Carlos de Mostoles</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> de edad, acompañado de su abuela, sin antecedentes relevantes de enfermedades crónicas. La exploración física revela un estado general bueno, con peso y talla dentro de los límites normales para su edad. Se realiza una revisión general y no se detectan signos de enfermedad.
+  </TEXT>
+</MEDDOCAN>

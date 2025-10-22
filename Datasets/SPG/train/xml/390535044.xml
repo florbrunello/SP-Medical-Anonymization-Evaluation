@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Samuel Rivero Parra
+DNI: 95583693V
+Fecha de nacimiento: 12/11/1925
+Género: Varón
+Domicilio: Calle de Ferraz 62
+Ciudad: Vitoria, Albacete, Castilla-La Mancha
+Código postal: 02646
+Email: samuel808@ciberisciii.es
+Teléfono fijo: +34 967 52 43 39
+Teléfono móvil: +34 667 82 97 58
+NHC: 7098767
+NASS: 832420560065
+Condición de riesgo: Trabajador de Línea de Producción
+
+Datos asistenciales.
+Médico: Dr. Francisco José Rojas Rivas. NC 458607454. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/03/2013
+Episodio: 82694142
+Centro de salud: Centro de Salud Getafe
+Matrícula del coche: 1218XON
+Modelo: Volkswagen Golf
+VIN: VST1P2C3SKI435918
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 87 años de edad, acompañado de su marido. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Samuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Rivero Parra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="95583693V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="12/11/1925" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="108" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="138" text="Calle de Ferraz 62" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="154" text="Vitoria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="164" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="184" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="02646" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="237" text="samuel808@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 967 52 43 39" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="286" end="302" text="+34 667 82 97 58" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="308" end="315" text="7098767" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="322" end="334" text="832420560065" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="356" end="389" text="Trabajador de Línea de Producción" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="424" end="450" text="Francisco José Rojas Rivas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="455" end="464" text="458607454" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="466" end="503" text="Investigador Clínico en Epidemiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="505" end="589" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="591" end="620" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="622" end="627" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="629" end="635" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="637" end="643" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="663" end="673" text="05/03/2013" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="684" end="692" text="82694142" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="710" end="732" text="Centro de Salud Getafe" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="754" end="761" text="1218XON" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="791" end="808" text="VST1P2C3SKI435918" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="849" end="866" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="870" end="877" text="87 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="904" end="910" text="marido" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

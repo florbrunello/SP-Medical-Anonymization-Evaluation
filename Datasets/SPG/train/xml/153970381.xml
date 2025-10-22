@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Ignacio Ríos Pérez
+DNI: 47032438Z
+Fecha de nacimiento: 22/09/1951
+Género: Hombre
+Domicilio: Calle de la Primavera 81
+Ciudad: Alcázar de San Juan, Sevilla, Andalucía
+Código postal: 41999
+Email: joseignacio1252@isciii.es
+Teléfono fijo: +34 954 96 70 18
+FAX: +34 954 67 39 75
+NHC: 2936809
+Condición de riesgo: Trabajador de Mantenimiento
+
+Datos asistenciales.
+Médico: Dr. Adrián Miranda Alarcon. NC 906220650. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/10/2004
+Episodio: 09793763
+Centro de salud: Centro de Salud Fuencarral
+
+Informe clínico del paciente:
+Paciente de ascendencia caribeña de 53 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="José Ignacio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="51" text="Ríos Pérez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="47032438Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="22/09/1951" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="113" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="149" text="Calle de la Primavera 81" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="177" text="Alcázar de San Juan" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="179" end="186" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="188" end="197" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="41999" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="251" text="joseignacio1252@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="267" end="283" text="+34 954 96 70 18" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="289" end="305" text="+34 954 67 39 75" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="311" end="318" text="2936809" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="340" end="367" text="Trabajador de Mantenimiento" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="402" end="424" text="Adrián Miranda Alarcon" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="429" end="438" text="906220650" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="440" end="473" text="Residente de 5° año en Neurología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="475" end="564" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="566" end="595" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="597" end="602" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="604" end="610" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="612" end="618" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="638" end="648" text="10/10/2004" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="659" end="667" text="09793763" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="685" end="711" text="Centro de Salud Fuencarral" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="755" end="775" text="ascendencia caribeña" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="779" end="786" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

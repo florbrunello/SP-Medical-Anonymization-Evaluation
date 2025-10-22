@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Esperanza</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aparicio Cano</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">38521629X</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/06/2014</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Goya 84</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcorcón</TAG>, <TAG TYPE="TERRITORIO">Barcelona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">08423</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">esperanza_aparicio@uhu.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 930 70 80 11</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 635 03 15 32</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3496151</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">624397566131</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Conserje</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Begoña Trujillo Martínez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">254490462</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">04/06/2019</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic San Carlos</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">descendencia africana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">huella dactilar</TAG>, el <TAG TYPE="IDENTIF_BIOMETRICOS">código obtenido</TAG> para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">MR853EAB033</TAG>.
+  </TEXT>
+</MEDDOCAN>

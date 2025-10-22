@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Helen</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Bellido Jarquin</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7845923</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">89 34670934 12</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Paseo de Verin, 23</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Valladolid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">47013</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/05/1948</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">67 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/05/2015</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Cirugía Maxilofacial</TAG>.
+    Episodio: <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">3476594</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sandra</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Galdeano Arenas</TAG>  NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">47 47 58120</TAG>.
+    Informe clínico del paciente: Paciente mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">67 años</TAG> de edad que fue remitida por su médico de cabecera a nuestra consulta por presentar una tumoración oral de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 años</TAG> de evolución. La lesión era asintomática y había crecido en el último año, produciéndole una deformidad estética facial e interfiriéndole la masticación. Como antecedente personal cabía destacar <TAG TYPE="OTROS_SUJETO_ASISTENCIA">histerectomía más doble anisectomía</TAG> hacía <TAG TYPE="OTROS_SUJETO_ASISTENCIA">10 años</TAG>. No refería hábito tabáquico, ni consumo de alcohol.
+    En la exploración física se constataba <TAG TYPE="OTROS_SUJETO_ASISTENCIA">asimetría facial</TAG>. En el examen intraoral se apreciaba una tumoración pediculada en cresta gingival mandibular izquierda correspondiente al espacio edéntulo de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">37</TAG>, de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">6-8 cm</TAG> de diámetro, bien delimitada, parcialmente cubierta por una mucosa de coloración blanquecina y de consistencia duro-elástica. Además presentaba movilidad por desplazamiento de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">35, 36 y 38</TAG> y restos radiculares de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25, 26 y 27</TAG>. La exploración cervical era negativa.
+    El examen radiológico con ortopantomografía ponía de manifiesto el desplazamiento dentario y los restos radiculares citados.
+    Bajo el diagnóstico de presunción de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fibroma cemento-osificante</TAG>, la paciente fue intervenida quirúrgicamente bajo anestesia general realizándose extirpación de la tumoración, legrado del lecho óseo y avulsión de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">35, 36, 38 y restos radiculares maxilares</TAG>.
+    La evolución fue satisfactoria y tras <TAG TYPE="OTROS_SUJETO_ASISTENCIA">9 meses</TAG> de seguimiento la paciente se encuentra asintomática y sin evidencia de signos físicos, ni radiológicos de recidiva.
+    Remitido por:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Sandra Galdeano Arenas</TAG>. <TAG TYPE="CENTRO_SALUD">Departamento de Cirugía Maxilofacial</TAG>. <TAG TYPE="HOSPITAL">Hospital Universitario del Rio Hortega</TAG>. <TAG TYPE="CALLE">C/ Cardenal Torquemada s/n</TAG>. <TAG TYPE="TERRITORIO">47010</TAG> <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="NUMERO_TELEFONO">983420400</TAG>. <TAG TYPE="NUMERO_FAX">983331566</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">m_galdeano@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

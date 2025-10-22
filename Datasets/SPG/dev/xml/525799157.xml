@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Antonio Castaño Izquierdo
+DNI: 35134311V
+Fecha de nacimiento: 28/02/2005
+Género: V
+Domicilio: Calle de la Virgen de los Peligros 35, 7M
+Ciudad: Zafra, Teruel, Aragón
+Código postal: 44484
+Email: antonioizquierdo@isciii.es
+Teléfono fijo: +34 978 04 01 67
+Teléfono móvil: +34 778 09 54 45
+NHC: 1644295
+NASS: 559826683621
+
+Datos asistenciales.
+Médico: Dra. Noa Romero Castro. NC 446924642. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/10/2016
+Episodio: 88889869
+Centro de salud: Centro de Salud Alhaurín de la Torre
+
+Informe clínico del paciente:
+Paciente fumador de 11 años de edad, acompañado de su hermana. Se registró una sesión de huella dactilar, el código obtenido para revisarla es GE525SKZ043. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es EK461OKV738. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="53" text="Castaño Izquierdo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="35134311V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="28/02/2005" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="163" text="Calle de la Virgen de los Peligros 35, 7M" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="172" end="177" text="Zafra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="179" end="185" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="187" end="193" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="209" end="214" text="44484" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="222" end="248" text="antonioizquierdo@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="264" end="280" text="+34 978 04 01 67" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="297" end="313" text="+34 778 09 54 45" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="319" end="326" text="1644295" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="333" end="345" text="559826683621" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="614" end="624" text="19/10/2016" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="635" end="643" text="88889869" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="661" end="697" text="Centro de Salud Alhaurín de la Torre" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="738" end="745" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="749" end="756" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="783" end="790" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T22" start="872" end="883" text="GE525SKZ043" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T23" start="966" end="977" text="EK461OKV738" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

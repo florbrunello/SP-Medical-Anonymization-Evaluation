@@ -1,0 +1,43 @@
+Aquí te dejo un ejemplo de informe clínico del paciente que cumple con los requisitos establecidos:
+
+Datos del paciente.
+Nombre: Emilio Guillen Ibáñez
+DNI: 18244077V
+Fecha de nacimiento: 12/05/2011
+Género: H
+Domicilio: Calle del Nuncio 29
+Ciudad: San Vicente del Raspeig, Cádiz, Andalucía
+Código postal: 11017
+Email: guillen.ibanez1222@udc.es
+Teléfono fijo: +34 956 21 62 18
+Teléfono móvil: +34 656 26 64 81
+NHC: 5742105
+NASS: 849618049548
+Condición de riesgo: Trabajador Industrial
+
+Datos asistenciales.
+Médico: Dr. Rubén Costa Luque. NC 727535719. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 28/06/2019
+Episodio: 84819580
+Centro de salud: Centro de Salud Arganzuela
+
+Informe clínico del paciente:
+El paciente, de 8 años de edad, es un niño saludable que ha sido llevado al servicio de urgencias por su madre, quien informa que ha presentado una temperatura corporal elevada de 39,5°C durante las últimas 24 horas. La temperatura se ha mantenido estable a pesar del uso de medicamentos antitérmicos. El paciente es vegetariano y no tiene antecedentes médicos relevantes.
+
+La exploración física revela:
+- Temperatura corporal de 39,5°C
+- Pulso de 120 bpm
+- Frecuencia respiratoria de 24 c/u
+- Presión arterial de 90/60 mmHg
+- Estado de ánimo alterado, con irritabilidad y dolor de cabeza
+
+Los resultados de los análisis de sangre muestran:
+- Leucocitos de 12.500/mm3 (neutrófilos 70%)
+- Hemoglobina de 11,5 g/dl
+- Creatinina de 0,8 mg/dl
+
+Se solicitan pruebas complementarias para determinar la causa subyacente de la temperatura elevada, incluyendo una radiografía de tórax y una analítica de orina.
+
+El diagnóstico diferencial incluye una infección respiratoria, una infección urinaria y una reacción alérgica. Se requiere una evaluación más detallada para determinar la causa específica de la temperatura elevada y desarrollar un plan de tratamiento adecuado.
+
+Se le prescribe al paciente un régimen de antibióticos y se le recomienda reposo y hidratación adecuada. Se le solicita a la madre que informe sobre cualquier cambio en el estado del paciente y se le programará una revisión en el servicio de pediatría para evaluar el progreso del paciente.

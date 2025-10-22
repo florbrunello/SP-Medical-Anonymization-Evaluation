@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Josefina</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Molina Montero</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">80091097Z</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/10/1959</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Ríos Rosas 21, 3U</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ibiza</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">28415</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">molina@uca.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 917 06 74 54</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 618 79 64 96</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2029260</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Inspector de Seguridad Minera</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Isaac Ortega Carrillo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">526050649</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/07/2023</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">27025624</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Getafe</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia árabe</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">63 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hijo</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Dolores</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alarcon</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Izquierdo</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">73785749R</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">27/02/1954</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de la Virgen de los Peligros 50</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Benidorm</TAG>, <TAG TYPE="TERRITORIO">Badajoz</TAG>, <TAG TYPE="TERRITORIO">Extremadura</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">06942</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">TTSvsG1299@uca.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 924 42 67 09</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 624 21 87 84</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6554981</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Carlos</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rivas</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Soto</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">465819833</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Oftalmólogo Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">04/02/1962</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">65616204</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Este</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">DZ725BYV898</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Josefa Núñez Zamora
+DNI: 80846408M
+Fecha de nacimiento: 23/11/1927
+Género: F
+Domicilio: Calle Mayor 80
+Ciudad: Burgos, Región de Murcia, Región de Murcia
+Código postal: 30684
+Email: mariajosefa.nunezzamora@isciii.es
+Teléfono fijo: +34 968 26 94 08
+Teléfono móvil: +34 768 84 78 40
+NHC: 4177813
+NASS: 117556076503
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dra. Ana Isabel Domínguez Gil. NC 837036567. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 17/08/1975
+Hospital: Hospital Universitario de Crúces
+Matrícula del coche: 1090JFQ
+Modelo: Ford Mustang
+VIN: VSY27JP1BJD366945
+
+Informe clínico del paciente:
+Paciente vegetariano de 47 años de edad. Se registró una sesión de huella dactilar, el código obtenido para revisarla es KT511AEO403. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="María Josefa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="53" text="Núñez Zamora" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="80846408M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="23/11/1927" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="136" text="Calle Mayor 80" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="151" text="Burgos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="169" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="187" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="30684" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="249" text="mariajosefa.nunezzamora@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="265" end="281" text="+34 968 26 94 08" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="298" end="314" text="+34 768 84 78 40" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="320" end="327" text="4177813" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="334" end="346" text="117556076503" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="368" end="393" text="Trabajador de Laboratorio" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="654" end="664" text="17/08/1975" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="675" end="707" text="Hospital Universitario de Crúces" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="729" end="736" text="1090JFQ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="763" end="780" text="VSY27JP1BJD366945" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="821" end="832" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="836" end="843" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="933" end="944" text="KT511AEO403" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

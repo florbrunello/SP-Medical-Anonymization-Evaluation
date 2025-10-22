@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Esteban</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Colmenero Rodriguez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0285967</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">43 08625098 57</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. Augusto González Besada, 5 4A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">36001</TAG>.
+    CP: <TAG TYPE="TERRITORIO">36001</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/05/1970</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">45 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/12/2015</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Jesús</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Blanco Pérez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">36 28 20145</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">45 años</TAG>, trabajador en canteras durante 15 años. Diagnosticado de silicosis complicada en FMP. Exfumador desde hace dos años, de 25 paquetes/año. Tuberculosis pulmonar en 2007. Acudió al Servicio de Urgencias en marzo 2009 con hemoptisis amenazante, precedida de tos y expectoración marronácea de 4 semanas de evolución. En la exploración física destacar constantes vitales dentro de la normalidad y roncus bilaterales en la auscultación pulmonar. En la analítica sérica destacar leucocitosis (11.280 células/μl con 80% de neutrófilos) sin otras alteraciones. La fibrobroncoscopia permitió ver un gran coágulo en bronquio de lóbulo superior derecho. La TAC mostraba afectación intersticial micronodular bilateral y difusa, algunos nódulos calcificados, de predominio en lóbulos superiores y conglomerados que habían aumentado respecto a estudios previos, con aparición de material en su interior, así como engrosamiento pleural nodular y difuso. El cultivo fue positivo para Aspergillus fumigatus en esputo y en aspirado bronquial. En sangre las precipitinas IgG resultaron positivas y el antígeno galactomanano negativo. Se realizó embolización de arterias bronquiales del LSI con control de la hemoptisis y se instauró tratamiento con voriconazol con buena evolución al año de tratamiento con negativización de las precipitinas séricas.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Jesús</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Blanco Pérez</TAG> <TAG TYPE="CALLE">C/ Rosal 23</TAG> <TAG TYPE="TERRITORIO">36760</TAG> <TAG TYPE="TERRITORIO">Pontevedra</TAG> <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">josejesus.blanco.perez@sergas.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

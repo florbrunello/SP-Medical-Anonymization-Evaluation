@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gerard Santos Ibáñez
+DNI: 67138750W
+Fecha de nacimiento: 02/09/1985
+Género: Hombre
+Domicilio: Calle de la Paz 58
+Ciudad: Cáceres, Formentera, Islas Baleares
+Código postal: 07493
+Email: gerard-santos@outlook.com
+Teléfono fijo: +34 971 04 65 32
+Teléfono móvil: +34 771 59 16 90
+NHC: 8944290
+NASS: 393782043599
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dr. Abel Rojas Bernal. NC 097338198. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 03/07/2014
+Hospital: Hospital Universitario Fundació Jiménez Díaz
+Matrícula del coche: 5587JSP
+Modelo: Honda Civic
+VIN: VSZWKS46AXY417226
+
+Informe clínico del paciente:
+Paciente fumador de 28 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Gerard" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Santos Ibáñez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="67138750W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="02/09/1985" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="110" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="140" text="Calle de la Paz 58" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="156" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="168" text="Formentera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="184" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="07493" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="238" text="gerard-santos@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 971 04 65 32" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 771 59 16 90" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="8944290" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="323" end="335" text="393782043599" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="357" end="375" text="Ingeniero de Minas" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="410" end="427" text="Abel Rojas Bernal" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="432" end="441" text="097338198" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="443" end="481" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="483" end="550" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="552" end="579" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="581" end="586" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="588" end="595" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="597" end="603" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="623" end="633" text="03/07/2014" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="644" end="688" text="Hospital Universitario Fundació Jiménez Díaz" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="710" end="717" text="5587JSP" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="743" end="760" text="VSZWKS46AXY417226" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="801" end="808" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="812" end="819" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

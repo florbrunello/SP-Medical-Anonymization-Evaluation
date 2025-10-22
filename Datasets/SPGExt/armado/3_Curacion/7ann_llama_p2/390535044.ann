@@ -1,0 +1,46 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 1 15	Samuel Rivero Parra
+T2	ID_SUJETO_ASISTENCIA 18 34	95583693V
+T3	FECHAS 39 47	12/11/1925
+T4	SEXO_SUJETO_ASISTENCIA 50 51	Varón
+T5	CALLE 58 74	Calle de Ferraz 62
+T6	TERRITORIO 76 90	Vitoria, Albacete, Castilla-La Mancha
+T7	TERRITORIO 92 98	02646
+T8	CORREO_ELECTRONICO 100 124	samuel808@ciberisciii.es
+T9	NUMERO_TELEFONO 126 140	+34 967 52 43 39
+T10	NUMERO_TELEFONO 142 156	+34 667 82 97 58
+T11	ID_SUJETO_ASISTENCIA 158 173	7098767
+T12	ID_SUJETO_ASISTENCIA 175 190	832420560065
+T13	CONDICION_RIESGO 194 213	Trabajador de Línea de Producción
+T14	NOMBRE_PERSONAL_SANITARIO 216 243	Dr. Francisco José Rojas Rivas
+T15	ID_TITULACION_PERSONAL_SANITARIO 244 255	458607454
+T16	PROFESION 257 265	Investigador Clínico en Epidemiología
+T17	INSTITUCION 268 289	Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)
+T18	CALLE 291 310	Avenida Monforte de Lemos 3-5
+T19	TERRITORIO 312 316	28029
+T20	PAIS 318 324	España
+T21	FECHAS 328 338	05/03/2013
+T22	EPISODIO 340 349	82694142
+T23	HOSPITAL 351 373	Centro de Salud Getafe
+T24	MATRICULA_VEHICULO 375 386	1218XON
+T25	MARCA_VEHICULO 388 395	Volkswagen Golf
+T26	ID_VEHICULO 397 406	VST1P2C3SKI435918
+T27	FECHAS 408 418	05/03/2013
+T28	HOSPITAL 420 442	Centro de Salud Getafe
+T29	NOMBRE_SUJETO_ASISTENCIA 444 466	Samuel Rivero Parra
+T30	CONDICION 467 475	87 años de edad
+T31	RELACION 477 485	acompañado de su marido
+T32	HISTORIA 486 494	historia de consumo de sustancias ilícitas
+T33	CONDICION 495 503	deterioro significativo de su salud
+T34	SINTOMAS 504 514	síntomas de insuficiencia renal crónica
+T35	SINTOMAS 516 526	hipertensión arterial
+T36	SINTOMAS 528 538	problemas respiratorios
+T37	TEMPERATURA 540 546	38,5 C
+T38	TENSION_ARTERIAL 548 558	140/90 mmHg
+T39	FRECUENCIA_CARDIACA 560 566	120 lpm
+T40	CONCIENCIA 568 574	consciente, orientado, sudoroso, eupneico
+T41	ESTADO_NUTRICION 576 586	buen estado de nutrición e hidratación
+T42	EXPLORACION_FISICA 588 600	no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular
+T43	EXPLORACION_FISICA 602 614	pulsos carotídeos simétricos
+T44	EXPLORACION_FISICA 616 626	auscultación cardíaca rítmica, sin soplos, roces ni extratonos
+T45	EXPLORACION_FISICA 628 638	auscultación pulmonar con conservación del murmullo vesicular
+T46	EXPLORACION_FISICA 640 650	abdomen blando, depresible, sin masas

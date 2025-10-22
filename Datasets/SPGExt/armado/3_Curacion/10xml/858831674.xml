@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sergio Otero Lara</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">50472535R</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">31/07/1939</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de O'Donnell 51</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">San Fernando</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">17881</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">lara263@imibic.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 87 39 18</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 772 07 13 30</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0725098</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">689902970527</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Alto</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sergi Soto Mateos</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 671603425</TAG>. <TAG TYPE="PROFESION">Gastroenterólogo Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/08/1985</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">61250800</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Regional Universitario de Málaga</TAG>
+    Fecha de ingreso:
+    <TAG TYPE="FECHAS">19/08/1985</TAG>
+    Centro de salud de ingreso:
+    <TAG TYPE="CENTRO_SALUD">Hospital Regional Universitario de Málaga</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="SEXO_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG> de edad, acompañado de su abuelo, que refiere dolor abdominal crónico de varios meses de evolución, con picos de intensidad variable, sin relación aparente con las comidas. El paciente ha presentado pérdida de peso de 5 kg en los últimos 3 meses, sin cambios en el apetito ni en la actividad física. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin sudoración ni taquicardia. En abdomen se palpan dolor en el hígado y en la región epigástrica, sin masas ni megalias. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 15 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,8 seg. Bioquímica: Glucosa 100 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 40 U/l; GPT 30 U/l; GGT 50 U/l; fosfatasa alcalina 120 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía abdominal, TAC hepático) que revelan una hepatomegalia difusa, sin áreas de necrosis ni absceso. El diagnóstico de enfermedad hepática crónica se establece, y se instaura tratamiento sintomático (antiinflamatorios, reposo) y tratamiento específico (Inhibidores de la enzima convertidora de angiotensina, Inhibidores de la recaptación de norepinefrina). El paciente mejora significativamente de su cuadro tras 2 semanas de ingreso, decidiéndose el alta a su domicilio donde continuará el tratamiento.
+  </TEXT>
+</MEDDOCAN>

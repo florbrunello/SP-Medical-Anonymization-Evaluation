@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Francisco Javier Aguilar Lozano</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">49612029V</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/07/1977</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Gran Vía 31</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Cádiz, Orense, Galicia</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">32611</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">aguilar1087@aol.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 988 13 16 19</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 688 28 67 62</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0769104</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">732713757347</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Plomero</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Matilde</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Robles Rivero</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">182781522</TAG>. <TAG TYPE="PROFESION">Investigadora Clínica en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">13/02/2010</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">01055228</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Coslada</TAG>.
+    Informe clínico del paciente:
+    El paciente, un joven de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">32 años</TAG> de edad, acompañado de su madre, se presenta con una condición médica que requiere atención especializada. La exploración física revela signos de una enfermedad crónica, con síntomas persistentes y una evolución clínica compleja.
+    La historia clínica del paciente indica una exposición prolongada a sustancias tóxicas, lo que sugiere una relación entre su condición de riesgo como plomero y su enfermedad actual. La falta de información sobre su historia médica previa y la ausencia de antecedentes familiares de enfermedades similares dificultan la determinación de un diagnóstico preciso.
+    La exploración física muestra signos de una enfermedad crónica, con síntomas persistentes y una evolución clínica compleja. La auscultación cardíaca revela un ritmo irregular, con soplos y roces en la zona cardíaca. La exploración pulmonar muestra un murmullo vesicular anormal, con signos de inflamación en la zona pulmonar. La exploración abdominal revela un abdomen blando, depresible, con signos de inflamación en la zona abdominal.
+    Los resultados de los análisis de sangre muestran una elevación de la temperatura corporal, con un nivel de leucocitos alto y una inflamación en la zona pulmonar. La ecografía abdominal muestra signos de inflamación en la zona abdominal, con una acumulación de líquido en la zona peritoneal.
+    Con base en la exploración física y los resultados de los análisis de sangre, se establece un diagnóstico de una enfermedad crónica, probablemente relacionada con la exposición a sustancias tóxicas. Se recomienda un tratamiento sintomático, con medicamentos para aliviar los síntomas y una evaluación más detallada para determinar la causa subyacente de la enfermedad.
+    Evolución y comentarios:
+    El paciente ha sido ingresado en la unidad de cuidados intensivos para recibir tratamiento y evaluación más detallada. Se han realizado análisis de sangre y ecografía abdominal para determinar la causa subyacente de la enfermedad. El paciente está siendo monitoreado de cerca para cualquier signo de complicación.
+    Remitido por:
+    La <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Matilde</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Robles Rivero</TAG>, <TAG TYPE="PROFESION">Investigadora Clínica en Síndromes Raros</TAG>, <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>, <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>, <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Almudena Exposito Vargas
+DNI: 60773601B
+Fecha de nacimiento: 04/11/1968
+Género: M
+Domicilio: Calle de la Magdalena 99
+Ciudad: Las Palmas de Gran Canaria, Formentera, Islas Baleares
+Código postal: 07997
+Email: almudenaexposito-vargas@us.es
+Teléfono fijo: +34 971 49 96 92
+Teléfono móvil: +34 771 52 52 00
+NHC: 3764657
+NASS: 630629370359
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dra. Lara Rivera Miranda. NC 139390896. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/02/1989
+Hospital: Hospital Universitario Río Hortega
+Matrícula del coche: 2667ULJ
+Modelo: Nissan Altima
+VIN: VSYXIXTWOVF008047
+
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 20 años de edad, acompañado de su hijo. El servidor para envío de información desde cual el usuario se comunica es smtp://example-medical.edu. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Almudena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="52" text="Exposito Vargas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="60773601B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="04/11/1968" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="145" text="Calle de la Magdalena 99" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="180" text="Las Palmas de Gran Canaria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="182" end="192" text="Formentera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="194" end="208" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="224" end="229" text="07997" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="237" end="266" text="almudenaexposito-vargas@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="282" end="298" text="+34 971 49 96 92" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="315" end="331" text="+34 771 52 52 00" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="337" end="344" text="3764657" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="351" end="363" text="630629370359" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="385" end="410" text="Trabajador de Laboratorio" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="677" end="687" text="03/02/1989" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="698" end="732" text="Hospital Universitario Río Hortega" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="754" end="761" text="2667ULJ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="789" end="806" text="VSYXIXTWOVF008047" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="850" end="880" text="ascendencia africana del norte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="884" end="891" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="918" end="922" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="999" end="1021" text="smtp://example-medical" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

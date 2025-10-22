@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Virginia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vicente Crespo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">31904268W</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">01/09/1968</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Paseo de la Castellana 70</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">León</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">28322</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">virginia-vicente@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 914 18 67 93</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 719 71 72 70</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6198494</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">718003080212</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Técnico de Radiología</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lucía Ruiz Salas</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">151527305</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardióloga Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/03/1998</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Fundació Jiménez Díaz</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia nórdica o escandinava</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">29 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-hospital.org</TAG>.
+  </TEXT>
+</MEDDOCAN>

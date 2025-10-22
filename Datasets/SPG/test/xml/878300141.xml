@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Oliver Álvarez Soriano
+DNI: 88713137K
+Fecha de nacimiento: 16/11/2023
+Género: H
+Domicilio: Calle de Embajadores 95, 9W
+Ciudad: Ferrol, Santa Cruz de Tenerife, Canarias
+Código postal: 38391
+Email: oliversoriano@salud.madrid.org
+Teléfono fijo: +34 922 91 99 38
+Teléfono móvil: +34 622 28 53 39
+NHC: 3612197
+NASS: 250056512827
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dr. Joaquín Padilla Soto. NC 531565227. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/02/2024
+Episodio: 33264803
+Centro de salud: Centro de Salud Benalmádena
+Matrícula del coche: 5896LBQ
+Modelo: Ford F-150
+VIN: VSWHK2TG1EE076200
+
+Informe clínico del paciente:
+Paciente de tez blanca de 3 meses de edad, acompañado de su padre. Se registró una sesión de huella dactilar, el código obtenido para revisarla es KV908YMN565. Se registró una sesión de firma biométrica, el código obtenido para revisarla es SH281RRP078. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Oliver" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Álvarez Soriano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="88713137K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="16/11/2023" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="146" text="Calle de Embajadores 95, 9W" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="161" text="Ferrol" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="185" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="187" end="195" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="211" end="216" text="38391" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="224" end="254" text="oliversoriano@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="270" end="286" text="+34 922 91 99 38" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="303" end="319" text="+34 622 28 53 39" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="325" end="332" text="3612197" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="339" end="351" text="250056512827" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="373" end="379" text="Minero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="414" end="434" text="Joaquín Padilla Soto" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="439" end="448" text="531565227" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="450" end="505" text="Gastroenterólogo Especialista en Enfermedades Hepáticas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="507" end="600" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="602" end="631" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="633" end="638" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="640" end="646" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="648" end="654" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="674" end="684" text="20/02/2024" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="695" end="703" text="33264803" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="721" end="748" text="Centro de Salud Benalmádena" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="770" end="777" text="5896LBQ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="802" end="819" text="VSWHK2TG1EE076200" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="863" end="873" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="877" end="884" text="3 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="911" end="916" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T33" start="998" end="1009" text="KV908YMN565" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T34" start="1092" end="1103" text="SH281RRP078" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Iván Gallardo Navarro
+DNI: 21645559Y
+Fecha de nacimiento: 01/11/1997
+Género: V
+Domicilio: Calle de Juan Bravo 46, 7D
+Ciudad: Vigo, Salamanca, Castilla y León
+Código postal: 37258
+Email: navarro@ciberisciii.es
+Teléfono fijo: +34 923 79 68 80
+Teléfono móvil: +34 723 99 48 27
+NHC: 6746452
+NASS: 886968975217
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dra. María Teresa Rivera Campos. NC 626567098. Neuropsicóloga Clínica Investigadora. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/09/2017
+Hospital: Hospital Regional Universitario de Málaga
+Matrícula del coche: 5643IMS
+Modelo: Nissan Altima
+VIN: VSP5L0QZ9TH961319
+
+Informe clínico del paciente:
+Paciente de tez blanca de 19 años de edad, acompañado de su abuelo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Iván" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="49" text="Gallardo Navarro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="21645559Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="01/11/1997" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="144" text="Calle de Juan Bravo 46, 7D" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="157" text="Vigo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="168" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="185" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="37258" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="236" text="navarro@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 923 79 68 80" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="285" end="301" text="+34 723 99 48 27" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="307" end="314" text="6746452" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="321" end="333" text="886968975217" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="355" end="373" text="Ingeniero de Minas" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="633" end="643" text="17/09/2017" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="654" end="695" text="Hospital Regional Universitario de Málaga" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="717" end="724" text="5643IMS" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="752" end="769" text="VSP5L0QZ9TH961319" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="813" end="823" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="827" end="834" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="861" end="867" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Manuel Ortega Pereira
+DNI: 83720236Y
+Fecha de nacimiento: 06/08/1987
+Género: H
+Domicilio: Calle de las Tres Cruces 63
+Ciudad: Xirivella, Tarragona, Cataluña
+Código postal: 43614
+Email: pereira@udc.es
+Teléfono fijo: +34 977 41 11 44
+Teléfono móvil: +34 677 09 25 83
+NHC: 6532000
+NASS: 086942330322
+Condición de riesgo: Trabajador de Residuos Sólidos
+
+Datos asistenciales.
+Médico: Dr. Ángel Jurado Campos. NC 089003889. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 60610448
+Centro de salud: Centro de Salud Majadahonda
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 37 años de edad. Se registró una sesión de firma biométrica, el código obtenido para revisarla es MP762BAR893. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="Juan Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="54" text="Ortega Pereira" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="83720236Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="06/08/1987" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="111" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="150" text="Calle de las Tres Cruces 63" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="168" text="Xirivella" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="179" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="181" end="189" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="43614" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="232" text="pereira@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 977 41 11 44" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 677 09 25 83" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="6532000" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="086942330322" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="351" end="381" text="Trabajador de Residuos Sólidos" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="416" end="435" text="Ángel Jurado Campos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="440" end="449" text="089003889" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="451" end="483" text="Residente de 2° año en Pediatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="485" end="560" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="562" end="591" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="593" end="598" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="600" end="606" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="608" end="614" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="634" end="644" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="655" end="663" text="60610448" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="681" end="708" text="Centro de Salud Majadahonda" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="752" end="773" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="777" end="784" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="875" end="886" text="MP762BAR893" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

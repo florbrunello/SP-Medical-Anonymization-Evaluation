@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Víctor Manuel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rivero Flores</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">56605065H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/06/1936</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Eduardo Dato 22</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Béjar</TAG>, <TAG TYPE="TERRITORIO">León</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">24584</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">riveroflores@ioba.med.uva.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 987 26 01 31</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 787 26 11 84</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9919438</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">208817886050</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Raúl Moya Gómez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">721097702</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/03/1985</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">25104494</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Pozuelo de Alarcón</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5168MZB</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Chevrolet Silverado</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSIP4G6YA3J240170</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">discapacitado</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">48 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">marido</TAG>.
+  </TEXT>
+</MEDDOCAN>

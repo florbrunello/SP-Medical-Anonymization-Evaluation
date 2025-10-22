@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vanessa Contreras Calvo</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">67603549V</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/12/1933</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Cabeza del Rey Don Pedro 41</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Albacete, Cantabria, Cantabria</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">39437</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">vanessa974@ual.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 942 61 63 29</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 742 57 32 60</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7317136</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">008101878872</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Minero</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Eugenio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Soto Pérez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">900711336</TAG>. <TAG TYPE="PROFESION">Residente de 3° año en Psiquiatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">30/12/1975</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">11478576</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Nuestra Señora de Candelaria</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="SEXO_SUJETO_ASISTENCIA">judío</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">42 años</TAG> de edad, acompañado de su abuela, presenta una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">depresión</TAG> severa que ha afectado su calidad de vida durante varios meses. El paciente reporta una serie de síntomas, incluyendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pensamientos recurrentes de muerte</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">suicidio</TAG>, pérdida de apetito y somnolencia, y dificultad para concentrarse y tomar decisiones.
+    La exploración física revela: Tª <TAG TYPE="FECHAS">37,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. El paciente se encuentra consciente, orientado, pero con un estado de ánimo deprimido y ansioso. No se detectan signos de infección o lesión física.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">12,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">8.000/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">70%</TAG>); plaquetas <TAG TYPE="FECHAS">200.000/ mm3</TAG>. VSG: <TAG TYPE="FECHAS">20 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">95%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">100 mg/dl</TAG>; urea <TAG TYPE="FECHAS">20 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,2 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">140 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,8 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">15 U/l</TAG>; GPT <TAG TYPE="FECHAS">20 U/l</TAG>; GGT <TAG TYPE="FECHAS">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">120 U/l</TAG>; calcio <TAG TYPE="FECHAS">9,2 mg/dl</TAG>. Orina: sedimento normal.
+    El paciente ha sido tratado con un régimen de medicamentos, incluyendo antidepresivos y ansiolíticos, y se le ha recomendado una terapia de apoyo y un estilo de vida saludable. Se le ha solicitado a la familia que se mantenga en contacto con el equipo de salud para seguir su evolución y ajustar el tratamiento según sea necesario.
+    Evolución y comentarios:
+    El paciente ha mostrado una respuesta positiva al tratamiento, con una mejoría en sus síntomas y un aumento en su calidad de vida. Sin embargo, se requiere una seguimiento continuo para asegurarse de que el paciente esté cumpliendo con el tratamiento y para ajustar el mismo según sea necesario.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Eugenio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Soto Pérez</TAG>
+    <TAG TYPE="PROFESION">Residente de 3° año en Psiquiatría</TAG>
+    <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>
+    <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

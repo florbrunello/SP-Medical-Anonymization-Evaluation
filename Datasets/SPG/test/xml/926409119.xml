@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Nicolás Trujillo Rivera
+DNI: 91652606K
+Fecha de nacimiento: 21/11/1996
+Género: H
+Domicilio: Calle de Sagasta 12, 9F
+Ciudad: Móstoles, Gerona, Cataluña
+Código postal: 17632
+Email: trujillo-rivera@ciberehd.org
+Teléfono fijo: +34 972 78 34 78
+Teléfono móvil: +34 672 00 65 27
+NHC: 9411039
+NASS: 706334027198
+Condición de riesgo: Trabajador Agrícola
+
+Datos asistenciales.
+Médico: Dr. Marcos Espinosa Giménez. NC 659995781. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 09/10/2016
+Episodio: 91967309
+Centro de salud: Centro de Salud Leganés
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 19 años de edad. Se realizó un expediente con URL http://example-neurology.com//92287435U. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Nicolás" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="51" text="Trujillo Rivera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="91652606K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="21/11/1996" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="143" text="Calle de Sagasta 12, 9F" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="160" text="Móstoles" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="168" text="Gerona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="178" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="194" end="199" text="17632" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="207" end="235" text="trujillo-rivera@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 972 78 34 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 672 00 65 27" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="9411039" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="706334027198" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="354" end="373" text="Trabajador Agrícola" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="408" end="431" text="Marcos Espinosa Giménez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="436" end="445" text="659995781" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="447" end="482" text="Residente de 3° año en Oftalmología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="484" end="542" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="544" end="568" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="570" end="575" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="577" end="587" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="589" end="595" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="615" end="625" text="09/10/2016" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="636" end="644" text="91967309" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="662" end="685" text="Centro de Salud Leganés" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="726" end="747" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="751" end="758" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="801" end="825" text="http://example-neurology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

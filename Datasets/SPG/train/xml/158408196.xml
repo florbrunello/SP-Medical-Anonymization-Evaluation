@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rafael Suárez Sierra
+DNI: 19112403R
+Fecha de nacimiento: 27/05/1999
+Género: V
+Domicilio: Calle de la Ribera 64
+Ciudad: San Sebastián, Formentera, Islas Baleares
+Código postal: 07541
+Email: suarez_sierra@uca.es
+Teléfono fijo: +34 971 78 35 77
+FAX: +34 971 55 47 51
+NHC: 6946318
+NASS: 310973617424
+Condición de riesgo: Guardia de Seguridad
+
+Datos asistenciales.
+Médico: Dr. Francisco Varela Gracia. NC 179149720. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/03/2011
+Centro de salud: Centro de Salud Torrejón de Ardoz
+Matrícula del coche: 6191IVI
+Modelo: Chrysler Pacifica
+VIN: VSCG5HNGJNF525228
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 11 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Rafael" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Suárez Sierra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="19112403R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="27/05/1999" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="138" text="Calle de la Ribera 64" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="160" text="San Sebastián" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="172" text="Formentera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="188" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="07541" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="237" text="suarez_sierra@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 971 78 35 77" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="275" end="291" text="+34 971 55 47 51" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="297" end="304" text="6946318" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="311" end="323" text="310973617424" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="345" end="365" text="Guardia de Seguridad" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="400" end="423" text="Francisco Varela Gracia" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="428" end="437" text="179149720" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="439" end="479" text="Especialista en Enfermedades Infecciosas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="481" end="565" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="567" end="596" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="598" end="603" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="605" end="611" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="613" end="619" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="639" end="649" text="05/03/2011" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="667" end="700" text="Centro de Salud Torrejón de Ardoz" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="722" end="729" text="6191IVI" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="761" end="778" text="VSCG5HNGJNF525228" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="822" end="855" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="859" end="866" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="893" end="898" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Milagros Santamaria Pastor
+DNI: 67412937Y
+Fecha de nacimiento: 12/12/1993
+Género: M
+Domicilio: Calle de Fortuny 17, 1H
+Ciudad: MelillaHuesca, Las Palmas, Canarias
+Código postal: 35249
+Email: milagros.santamaria.pastor@imibic.org
+Teléfono fijo: +34 928 17 98 52
+Teléfono móvil: +34 628 87 36 83
+NHC: 7995313
+NASS: 863927315727
+
+Datos asistenciales.
+Médico: Dr. Jon Peña León. NC 417815267. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 98561282
+Hospital: Hospital Regional Universitario de Málaga
+
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 31 años de edad, acompañado de su marido. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.250.51, con dirección MAC 84:60:88:6C:A7:C5. 

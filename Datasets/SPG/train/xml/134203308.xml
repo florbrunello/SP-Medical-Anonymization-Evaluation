@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Jorge Costa Flores
+DNI: 22667765T
+Fecha de nacimiento: 24/10/1952
+Género: V
+Domicilio: Calle del Olivar 18
+Ciudad: Ponferrada, Vizcaya, Pais Vasco
+Código postal: 48908
+Email: jorge.costa@ioba.med.uva.es
+Teléfono fijo: +34 946 85 86 81
+FAX: +34 946 91 93 82
+NHC: 2388056
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dra. Rosa Crespo Montero. NC 251711032. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/08/1990
+Episodio: 23353819
+Centro de salud: Centro de Salud Málaga Oeste
+
+Informe clínico del paciente:
+Paciente de tez blanca de 37 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Jorge" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="46" text="Costa Flores" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="22667765T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="24/10/1952" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="134" text="Calle del Olivar 18" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="143" end="153" text="Ponferrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="162" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="174" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="48908" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="230" text="jorge.costa@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="246" end="262" text="+34 946 85 86 81" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="268" end="284" text="+34 946 91 93 82" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="290" end="297" text="2388056" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="319" end="340" text="Trabajador de Almacén" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="628" end="638" text="21/08/1990" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="649" end="657" text="23353819" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="675" end="703" text="Centro de Salud Málaga Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="747" end="757" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="761" end="768" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

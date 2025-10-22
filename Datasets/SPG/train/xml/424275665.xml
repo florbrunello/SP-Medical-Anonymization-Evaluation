@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Mercedes Cruz Fernández
+DNI: 38407929E
+Fecha de nacimiento: 02/11/1949
+Género: M
+Domicilio: Calle de Alcalá 68
+Ciudad: Jaén, Badajoz, Extremadura
+Código postal: 06252
+Email: mariamercedes.cruz_fernandez@aol.com
+Teléfono fijo: +34 924 84 10 49
+Teléfono móvil: +34 624 58 03 99
+NHC: 6207968
+NASS: 064698689911
+
+Datos asistenciales.
+Médico: Dra. Emilia Menendez Franco. NC 305477908. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/01/2004
+Episodio: 45997328
+Hospital: Hospital Universitario de la Princesa
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 54 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.232.75, con dirección MAC 16:C2:9D:5A:D9:51. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="42" text="María Mercedes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="43" end="57" text="Cruz Fernández" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="63" end="72" text="38407929E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="94" end="104" text="02/11/1949" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="113" end="114" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="144" text="Calle de Alcalá 68" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="157" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="166" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="179" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="06252" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="244" text="mariamercedes.cruz_fernandez@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 924 84 10 49" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="293" end="309" text="+34 624 58 03 99" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="315" end="322" text="6207968" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="329" end="341" text="064698689911" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="616" end="626" text="02/01/2004" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="637" end="645" text="45997328" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="656" end="693" text="Hospital Universitario de la Princesa" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="737" end="770" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="774" end="781" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="808" end="813" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="921" end="938" text="16:C2:9D:5A:D9:51" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

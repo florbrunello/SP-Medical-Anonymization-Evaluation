@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gema Castro Ruiz
+DNI: 52899090X
+Fecha de nacimiento: 16/02/1990
+Género: Femenino
+Domicilio: Calle de San Millán 4, 8A
+Ciudad: Alcázar de San Juan, Valladolid, Castilla y León
+Código postal: 47224
+Email: gema464@protonmail.com
+Teléfono fijo: +34 983 19 91 80
+Teléfono móvil: +34 783 03 86 21
+NHC: 8260300
+NASS: 929191855912
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dra. Concepción Soto Merino. NC 809841125. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/11/2012
+Episodio: 00243015
+Hospital: Hospital General Universitario Reina Sofía
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 22 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.255.245, con dirección MAC 16:C2:9D:5A:D9:51. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Gema" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="44" text="Castro Ruiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="52899090X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="16/02/1990" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="108" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="145" text="Calle de San Millán 4, 8A" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="173" text="Alcázar de San Juan" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="175" end="185" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="187" end="202" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="218" end="223" text="47224" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="231" end="253" text="gema464@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="269" end="285" text="+34 983 19 91 80" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="302" end="318" text="+34 783 03 86 21" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="324" end="331" text="8260300" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="338" end="350" text="929191855912" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="372" end="403" text="Operador de Maquinaria Agrícola" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="660" end="670" text="10/11/2012" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="681" end="689" text="00243015" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="700" end="742" text="Hospital General Universitario Reina Sofía" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="783" end="804" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="808" end="815" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="932" end="949" text="16:C2:9D:5A:D9:51" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan Miguel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gómez González</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">64804836J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/04/1962</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Atocha 58</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Aranda de Duero</TAG>, <TAG TYPE="TERRITORIO">León</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">24587</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">juanmiguel_gonzalez@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 987 61 05 44</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 787 95 76 86</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7675671</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">796145935172</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Pintor de Construcción</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Víctor Manuel López Crespo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">455976563</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuropsicólogo Clínico Investigador</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/08/1963</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">57382960</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Arganzuela</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia árabe</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Martina Zamora</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">García</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">35777377A</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">14/03/1990</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Áncora 36</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG>, <TAG TYPE="TERRITORIO">Las Palmas</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">35584</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">martinagarcia@h12o.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 928 54 34 04</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 628 87 90 14</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5725125</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">865056415356</TAG>
+  Condición de riesgo: 
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jorge Vega Guerra</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">716948734</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">22/12/2009</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">12902898</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Universitario San Cecilio</TAG>
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática occidental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">19 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>.
+  </TEXT>
+</MEDDOCAN>

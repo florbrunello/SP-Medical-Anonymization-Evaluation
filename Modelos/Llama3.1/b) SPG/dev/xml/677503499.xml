@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ramón</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santana</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Reyes</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">39987299M</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">21/10/1981</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Narváez 67</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Burgos</TAG>, <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">37831</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">ramonreyes@outlook.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 62 53 45</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 623 25 08 02</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7430505</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Electricista</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Elvira Núñez Roldan</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">740427200</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuróloga Investigadora en Trastornos Cognitivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">25/11/2024</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">37968557</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Aluche</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">43 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">NH345QVO431</TAG>.
+  </TEXT>
+</MEDDOCAN>

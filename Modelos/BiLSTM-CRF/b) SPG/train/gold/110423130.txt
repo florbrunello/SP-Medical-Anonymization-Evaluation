@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Roberto Marcos Tomas
+DNI: 94155889F
+Fecha de nacimiento: 21/12/1935
+Género: H
+Domicilio: Calle de San Bernardo 33
+Ciudad: Jaca, Huelva, Andalucía
+Código postal: 21211
+Email: roberto1856@ciberehd.org
+Teléfono fijo: +34 959 82 56 11
+Teléfono móvil: +34 659 61 02 55
+NHC: 5089841
+NASS: 690777425616
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dr. Francisco José Caballero Ramírez. NC 513381648. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/11/2013
+Episodio: 41390335
+Centro de salud: Centro de Salud Vicálvaro
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena centroamericana de 77 años de edad. Se realizó un expediente con URL http://example-healthcare.net//96776373Q. 

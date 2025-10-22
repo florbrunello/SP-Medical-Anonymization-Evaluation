@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Juan Santana Estevez
+DNI: 22919856B
+Fecha de nacimiento: 13/02/2020
+Género: H
+Domicilio: Calle del Duque de Alba 57
+Ciudad: Albacete, Jaén, Andalucía
+Código postal: 23154
+Email: juan-estevez1577@ciberisciii.es
+Teléfono fijo: +34 953 83 10 90
+Teléfono móvil: +34 753 89 41 20
+NHC: 3829143
+NASS: 370373411346
+Condición de riesgo: Técnico de Cuidados Auxiliares de Enfermería
+
+Datos asistenciales.
+Médico: Dra. Vanessa Ruiz Pacheco. NC 390227925. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 04/04/2023
+Hospital: Hospital General Universitario Morales Meseguer
+
+Informe clínico del paciente:
+Paciente no fumador de 3 años de edad, acompañado de su abuela. Se realizó un expediente con URL http://example-nutrition.net//83288308Z. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. 

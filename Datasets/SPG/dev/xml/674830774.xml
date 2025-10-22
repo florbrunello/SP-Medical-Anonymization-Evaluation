@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Emilio Cruz Márquez
+DNI: 70987230F
+Fecha de nacimiento: 30/04/1954
+Género: Hombre
+Domicilio: Calle de Lope de Vega 100, 4A
+Ciudad: Ermua, Ibiza, Islas Baleares
+Código postal: 07893
+Email: emilio-cruz_marquez1861@outlook.com
+Teléfono fijo: +34 971 46 60 30
+Teléfono móvil: +34 771 27 73 95
+NHC: 8045983
+NASS: 660160835764
+
+Datos asistenciales.
+Médico: Dr. Pedro José Muñoz López. NC 854017271. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/12/2023
+Episodio: 70862538
+Centro de salud: Centro de Salud Málaga Norte
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 69 años de edad. Se realizó un expediente con URL http://example-dermatology.org//70509686R. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Emilio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Cruz Márquez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="70987230F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="30/04/1954" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="109" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="150" text="Calle de Lope de Vega 100, 4A" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="164" text="Ermua" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="171" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="187" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="07893" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="251" text="emilio-cruz_marquez1861@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="267" end="283" text="+34 971 46 60 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="300" end="316" text="+34 771 27 73 95" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="322" end="329" text="8045983" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="336" end="348" text="660160835764" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="383" end="405" text="Pedro José Muñoz López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="410" end="419" text="854017271" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="421" end="476" text="Gastroenterólogo Especialista en Enfermedades Hepáticas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="478" end="571" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="573" end="602" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="604" end="609" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="611" end="617" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="619" end="625" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="645" end="655" text="18/12/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="666" end="674" text="70862538" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="692" end="720" text="Centro de Salud Málaga Norte" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="764" end="792" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="796" end="803" text="69 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="846" end="872" text="http://example-dermatology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

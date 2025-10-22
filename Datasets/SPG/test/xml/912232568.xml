@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Bruno Macias Vega
+DNI: 56672335J
+Fecha de nacimiento: 18/12/1937
+Género: M
+Domicilio: Calle de Juan Bravo 26, 1E
+Ciudad: Ciudad Real, Málaga, Andalucía
+Código postal: 29919
+Email: macias@uca.es
+Teléfono fijo: +34 951 83 06 82
+Teléfono móvil: +34 651 79 27 90
+NHC: 9126930
+NASS: 216358630512
+Condición de riesgo: Conductor de Camión
+
+Datos asistenciales.
+Médico: Dra. Sofía Vera Flores. NC 779833152. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/05/2013
+Episodio: 09603671
+Centro de salud: Centro de Salud Málaga Sur
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 75 años de edad, acompañado de su pareja. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Bruno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="45" text="Macias Vega" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="56672335J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="18/12/1937" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="140" text="Calle de Juan Bravo 26, 1E" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="160" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="168" text="Málaga" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="179" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="29919" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="221" text="macias@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="237" end="253" text="+34 951 83 06 82" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="270" end="286" text="+34 651 79 27 90" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="292" end="299" text="9126930" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="306" end="318" text="216358630512" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="340" end="359" text="Conductor de Camión" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="634" end="644" text="02/05/2013" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="655" end="663" text="09603671" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="681" end="707" text="Centro de Salud Málaga Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="751" end="775" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="779" end="786" text="75 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="813" end="819" text="pareja" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Elena Silva Rico
+DNI: 22780472F
+Fecha de nacimiento: 14/09/1932
+Género: Femenino
+Domicilio: Calle de Ríos Rosas 70
+Ciudad: Alcoy, Las Palmas, Canarias
+Código postal: 35920
+Email: elena_rico@outlook.com
+Teléfono fijo: +34 928 62 80 86
+Teléfono móvil: +34 628 14 26 57
+NHC: 7436398
+NASS: 729146053079
+Condición de riesgo: Inspector de Seguridad Minera
+
+Datos asistenciales.
+Médico: Dr. Víctor Rivera Cano. NC 964175819. Neurólogo Investigador en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 29/03/1958
+Hospital: Hospital Clínic Universitario de Valencia
+
+Informe clínico del paciente:
+Paciente de ascendencia australiana de 25 años de edad, acompañado de su hijo. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es IY555VAG529. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Elena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="44" text="Silva Rico" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="22780472F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="14/09/1932" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="108" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="142" text="Calle de Ríos Rosas 70" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="156" text="Alcoy" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="168" text="Las Palmas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="178" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="194" end="199" text="35920" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="207" end="229" text="elena_rico@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="245" end="261" text="+34 928 62 80 86" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 628 14 26 57" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="300" end="307" text="7436398" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="314" end="326" text="729146053079" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="348" end="377" text="Inspector de Seguridad Minera" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="412" end="430" text="Víctor Rivera Cano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="435" end="444" text="964175819" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="446" end="493" text="Neurólogo Investigador en Trastornos Cognitivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="495" end="567" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="569" end="592" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="594" end="599" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="601" end="607" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="609" end="615" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="635" end="645" text="29/03/1958" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="656" end="697" text="Hospital Clínic Universitario de Valencia" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="741" end="764" text="ascendencia australiana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="768" end="775" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="802" end="806" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="889" end="900" text="IY555VAG529" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

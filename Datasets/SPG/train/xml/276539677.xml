@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sara Ramos Andres
+DNI: 50991363H
+Fecha de nacimiento: 13/12/2015
+Género: Mujer
+Domicilio: Calle de Don Ramón de la Cruz 92, 2X
+Ciudad: Almería, Málaga, Andalucía
+Código postal: 29272
+Email: sara.andres@ioba.med.uva.es
+Teléfono fijo: +34 951 26 64 89
+Teléfono móvil: +34 751 16 09 40
+NHC: 0790424
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dra. Laura Lorenzo Carmona. NC 308151832. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/04/2018
+Episodio: 96806778
+Centro de salud: Centro de Salud Móstoles
+Matrícula del coche: 0335SWG
+Modelo: Chrysler Pacifica
+VIN: VSHDLZSEJAD403750
+
+Informe clínico del paciente:
+Paciente fumador de 2 años de edad, acompañado de su hermana. El servidor para envío de información desde cual el usuario se comunica es smtp://example-dermatology.org. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Sara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="45" text="Ramos Andres" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="50991363H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="13/12/2015" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="106" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="154" text="Calle de Don Ramón de la Cruz 92, 2X" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="163" end="170" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="178" text="Málaga" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="180" end="189" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="29272" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="245" text="sara.andres@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="261" end="277" text="+34 951 26 64 89" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="294" end="310" text="+34 751 16 09 40" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="316" end="323" text="0790424" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="345" end="352" text="Bombero" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="624" end="634" text="13/04/2018" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="645" end="653" text="96806778" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="671" end="695" text="Centro de Salud Móstoles" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="717" end="724" text="0335SWG" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="756" end="773" text="VSHDLZSEJAD403750" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="814" end="821" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="825" end="831" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="858" end="865" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="942" end="968" text="smtp://example-dermatology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Eva María</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Muñoz Mesa</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">99586410K</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/11/1968</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Gobernador 82, 10Z</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Hellín</TAG>, <TAG TYPE="TERRITORIO">Valencia</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">46732</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">evamaria_mesa@hotmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 960 28 62 74</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 660 28 94 95</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2154921</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">153409162394</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Víctor Manuel Pereira Rodríguez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">552910708</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/05/1977</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">84152830</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital General de Villalba</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tío</TAG>. Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">http://example-therapy.org//25195453Q</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">WN305HMD514</TAG>.
+  </TEXT>
+</MEDDOCAN>

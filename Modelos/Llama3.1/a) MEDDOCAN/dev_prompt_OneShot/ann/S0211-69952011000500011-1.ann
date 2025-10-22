@@ -1,0 +1,28 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 8 13	Pilar
+T2	NOMBRE_SUJETO_ASISTENCIA 26 43	Marinez Rodriguez
+T3	ID_SUJETO_ASISTENCIA 50 59	784123665
+T4	ID_ASEGURAMIENTO 67 81	89 19924674 01
+T5	CALLE 94 110	Calle Méjico, 16
+T6	TERRITORIO 133 144	Guadalajara
+T7	TERRITORIO 150 155	19002
+T8	FECHAS 199 209	23/12/1949
+T9	PAIS 217 223	España
+T10	EDAD_SUJETO_ASISTENCIA 231 238	68 años
+T11	FECHAS 265 275	16/10/2017
+T12	PROFESION 287 297	Nefrología
+T13	NOMBRE_PERSONAL_SANITARIO 318 325	Gabriel
+T14	NOMBRE_PERSONAL_SANITARIO 326 335	de Arriba
+T15	ID_TITULACION_PERSONAL_SANITARIO 343 354	19 19 87465
+T16	OTROS_SUJETO_ASISTENCIA 375 388	Dolores óseos
+T17	OTROS_SUJETO_ASISTENCIA 404 557	hipertensión, diabetes mellitus tipo 2, artrosis generalizada, insuficiencia cardíaca congestiva en estadio II de la NYHA y fibrilación auricular crónica
+T18	OTROS_SUJETO_ASISTENCIA 576 787	Mujer de 68 años, estaba siendo tratada con metformina (850 mg/8 horas), glipizida (5 mg/día), lercanidipino (10 mg/día), lisinopril-hidroclorotiazida (20/12,5 mg/día), acenocumarol y, ocasionalmente, ibuprofeno
+T19	OTRO_NUMERO_IDENTIF 852 879	ibuprofeno (600 mg/8 horas)
+T20	OTROS_SUJETO_ASISTENCIA 1077 1166	creatinina plasmática de 1,79 mg/dl, glucemia de 215 mg/dl y tiempo de protrombina del 7%
+T21	OTROS_SUJETO_ASISTENCIA 1734 1806	creatinina (Cr) plasmática de 1,2 mg/dl y bicarbonato sérico de 22 mEq/l
+T22	NOMBRE_PERSONAL_SANITARIO 1942 1948	Dr.Gab
+T23	NOMBRE_PERSONAL_SANITARIO 1953 1962	de Arriba
+T24	PROFESION 1964 1985	Sección de Nefrología
+T25	HOSPITAL 1987 2024	Hospital Universitario de Guadalajara
+T26	INSTITUCION 2026 2050	Departamento de Medicina
+T27	INSTITUCION 2052 2073	Universidad de Alcalá
+T28	CORREO_ELECTRONICO 2082 2102	garribad@senefro.org

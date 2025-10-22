@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Christian Prieto Luque</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">88007140D</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/03/1960</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Juan Bravo 4, 8C</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Avilés, </TAG><TAG TYPE="TERRITORIO">Toledo, </TAG><TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">45565</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">christianprieto@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 925 08 95 03</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 725 67 21 13</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3898396</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">745841070339</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Farmacéutico</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Mohammed Mora Gracia</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">105847190</TAG>. Residente de 5° año en <TAG TYPE="PROFESION">Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/07/1991</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Santiago</TAG>
+    Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Complejo Hospitalario Universitario de Santiago</TAG>
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/07/1991</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rodrigo Calvo Palacios
+DNI: 37759861W
+Fecha de nacimiento: 18/01/1958
+Género: Hombre
+Domicilio: Calle del Doctor Esquerdo 8
+Ciudad: Palencia, Álava, Pais Vasco
+Código postal: 01809
+Email: calvopalacios@ciberned.es
+Teléfono fijo: +34 945 76 26 18
+FAX: +34 945 94 99 70
+NHC: 2390177
+NASS: 999256485712
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dra. Ana Belén García Trujillo. NC 639290495. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/01/1961
+Episodio: 75376675
+Centro de salud: Centro de Salud Pozuelo de Alarcón
+Matrícula del coche: 2957LTL
+Modelo: Mercedes-Benz C-Class
+VIN: VSGD90BRQGH595679
+
+Informe clínico del paciente:
+Paciente vegano de 2 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Rodrigo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Calvo Palacios" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="37759861W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="18/01/1958" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="112" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="151" text="Calle del Doctor Esquerdo 8" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="168" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="175" text="Álava" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="187" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="01809" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="241" text="calvopalacios@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 945 76 26 18" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="279" end="295" text="+34 945 94 99 70" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="301" end="308" text="2390177" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="315" end="327" text="999256485712" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="349" end="367" text="Ingeniero de Minas" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="653" end="663" text="17/01/1961" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="674" end="682" text="75376675" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="700" end="734" text="Centro de Salud Pozuelo de Alarcón" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="756" end="763" text="2957LTL" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="799" end="816" text="VSGD90BRQGH595679" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="857" end="863" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="867" end="873" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="900" end="907" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

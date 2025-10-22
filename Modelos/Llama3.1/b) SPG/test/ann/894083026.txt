@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Gonzalo Simon Andres
+DNI: 68859685P
+Fecha de nacimiento: 09/05/1994
+Género: V
+Domicilio: Calle de Segovia 65
+Ciudad: Béjar, Soria, Castilla y León
+Código postal: 42169
+Email: gonzalo.andres@ucm.es
+Teléfono fijo: +34 975 74 43 63
+Teléfono móvil: +34 675 34 70 52
+NHC: 6967802
+NASS: 173329628719
+
+Datos asistenciales.
+Médico: Dra. Inés Lara Villanueva. NC 381077002. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 30/07/2011
+Episodio: 96226279
+Hospital: Hospital Clínic San Carlos
+Matrícula del coche: 0614BZE
+Modelo: Jeep Wrangler
+VIN: VSMEBJU3UFJ140945
+
+Informe clínico del paciente:
+Paciente no fumador de 17 años de edad. Se registró una sesión de firma biométrica, el código obtenido para revisarla es ZS750KRI856. 

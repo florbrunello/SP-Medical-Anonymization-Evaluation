@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Julio Serra Roca</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">18977484T</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">01/03/1933</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de San Ildefonso 10, 6U</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Lugo, Mallorca, Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07077</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">roca824@us.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 34 16 16</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 671 64 34 04</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3483261</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">609422373748</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Soldado</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Tamara</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodríguez Marcos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">823919033</TAG>. Investigadora Principal en <TAG TYPE="PROFESION">Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/05/2015</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">68676292</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Norte</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">82 años</TAG> de edad, acompañado de su hijo, que refiere <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolores de cabeza</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">mareos</TAG> desde la noche anterior. La exploración física revela: <TAG TYPE="FECHAS">Tª 37,2 C</TAG>; <TAG TYPE="FECHAS">T.A: 140/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 80 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nutrición</TAG> e <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hidratación</TAG>. En <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cabeza</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cuello</TAG> no se palpan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">adenopatías</TAG>, ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bocio</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ingurgitación de vena yugular</TAG>, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pulsos carotídeos</TAG> simétricos. Auscultación <TAG TYPE="PROFESION">cardíaca</TAG> rítmica, sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">soplos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">roces</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">extratonos</TAG>. Auscultación <TAG TYPE="PROFESION">pulmonar</TAG> con conservación del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">murmurio vesicular</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Abdomen</TAG> blando, depresible, sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">masas</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">megalias</TAG>. En la exploración <TAG TYPE="PROFESION">neurológica</TAG> se detectan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">signos de hipertensión arterial</TAG> y posible <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sequedad bucal</TAG>.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hemograma</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hb</TAG> 14,5 g/dl; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">leucocitos</TAG> 8.500/mm3 (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">neutrófilos</TAG> 60%); <TAG TYPE="OTROS_SUJETO_ASISTENCIA">plaquetas</TAG> 250.000/ mm3. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">VSG</TAG>: 30 mm 1ª hora. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Coagulación</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TQ</TAG> 90%; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TTPA</TAG> 25,5 seg. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Bioquímica</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Glucosa</TAG> 120 mg/dl; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urea</TAG> 20 mg/dl; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina</TAG> 1,1 mg/dl; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sodio</TAG> 140 mEq/l; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">potasio</TAG> 3,8 mEq/l; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GOT</TAG> 15 U/l; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GPT</TAG> 25 U/l; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GGT</TAG> 30 U/l; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fosfatasa alcalina</TAG> 120 U/l; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">calcio</TAG> 8,5 mg/dl. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Orina</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sedimento</TAG> normal.
+    Se solicitan pruebas de imagen (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">Rx tórax</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ecografía abdominal</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TAC craneal</TAG>) que no evidencian <TAG TYPE="OTROS_SUJETO_ASISTENCIA">patología significativa</TAG>. Se diagnostica <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">elevación de piernas</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antihipertensivos orales</TAG>) y se le prescribe un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">seguimiento</TAG> en la clínica para controlar su <TAG TYPE="OTROS_SUJETO_ASISTENCIA">presión arterial</TAG>. El paciente se encuentra estable y se le permite el alta a su domicilio con recomendaciones de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">seguimiento médico regular</TAG>.
+  </TEXT>
+</MEDDOCAN>

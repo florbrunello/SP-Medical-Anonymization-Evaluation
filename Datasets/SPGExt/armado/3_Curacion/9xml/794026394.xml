@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Eva María Muñoz Mesa</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">99586410K</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/11/1968</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Gobernador 82, 10Z</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Hellín, Valencia, Comunidad Valenciana</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">46732</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">evamaria_mesa@hotmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 960 28 62 74</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 660 28 94 95</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2154921</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">153409162394</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente con antecedentes de enfermedad rara</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Víctor Manuel Pereira Rodríguez</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 552910708</TAG>. <TAG TYPE="PROFESION">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/05/2023</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">84152830</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital General de Villalba</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">53 años</TAG> de edad, con antecedentes de enfermedad rara, que acude a consulta por presentar síntomas de dolor abdominal crónico y pérdida de peso. La exploración física revela: Tª <TAG TYPE="FECHAS">37,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">80 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">13,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">8.500/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>); plaquetas <TAG TYPE="FECHAS">200.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">90%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">90 mg/dl</TAG>; urea <TAG TYPE="FECHAS">20 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,2 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">140 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,5 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">15 U/l</TAG>; GPT <TAG TYPE="FECHAS">20 U/l</TAG>; GGT <TAG TYPE="FECHAS">25 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">120 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal. Se solicitan pruebas de imagen (Ecografía abdominal y TAC abdominal) que no evidencian patología significativa. Con el diagnóstico de enfermedad rara, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la dieta) y se realiza seguimiento estrecho para determinar la evolución del paciente.
+  </TEXT>
+</MEDDOCAN>

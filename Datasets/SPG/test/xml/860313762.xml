@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gema González Garrido
+DNI: 91697509M
+Fecha de nacimiento: 08/03/1986
+Género: Mujer
+Domicilio: Calle de Jesús y María 53
+Ciudad: Motril, Lérida, Cataluña
+Código postal: 25833
+Email: gema_gonzalez_garrido@uca.es
+Teléfono fijo: +34 973 22 06 06
+Teléfono móvil: +34 673 05 06 99
+NHC: 7006242
+NASS: 513713257060
+
+Datos asistenciales.
+Médico: Dr. Joan Segura Soler. NC 112696585. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/12/1988
+Episodio: 43529439
+Centro de salud: Centro de Salud Aranjuez
+Matrícula del coche: 7070JIF
+Modelo: Hyundai Elantra
+VIN: VSWR2U8BDWH007666
+
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 2 años de edad, acompañado de su hermano. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Gema" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="49" text="González Garrido" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="91697509M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="08/03/1986" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="110" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="147" text="Calle de Jesús y María 53" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="162" text="Motril" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="170" text="Lérida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="180" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="25833" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="237" text="gema_gonzalez_garrido@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 973 22 06 06" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="286" end="302" text="+34 673 05 06 99" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="308" end="315" text="7006242" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="322" end="334" text="513713257060" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="369" end="386" text="Joan Segura Soler" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="391" end="400" text="112696585" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="402" end="442" text="Residente de 3° año en Gastroenterología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="444" end="537" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="539" end="568" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="570" end="575" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="577" end="583" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="585" end="591" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="611" end="621" text="01/12/1988" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="632" end="640" text="43529439" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="658" end="682" text="Centro de Salud Aranjuez" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="704" end="711" text="7070JIF" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="741" end="758" text="VSWR2U8BDWH007666" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="802" end="825" text="comunidades vulnerables" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="829" end="835" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="862" end="869" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

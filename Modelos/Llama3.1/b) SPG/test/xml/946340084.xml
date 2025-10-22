@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carlos Tomas</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Román</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">98521739C</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">07/03/2021</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Covarrubias 49, 6D</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">Lugo</TAG>, <TAG TYPE="TERRITORIO">Pontevedra</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">36558</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">tomas1328@ioba.med.uva.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 986 93 31 47</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 986 85 39 63</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5226452</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">646861444621</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Técnico de Radiología</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Isabel Delgado Guerra</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">120630542</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">28/08/2023</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">58402657</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Oeste</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6913NLP</TAG>
+  Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Ford F-150</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSU1U0K217M181218</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuelo</TAG>.
+  </TEXT>
+</MEDDOCAN>

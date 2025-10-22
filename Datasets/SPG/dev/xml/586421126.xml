@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Ángeles Giménez Sánchez
+DNI: 55591648G
+Fecha de nacimiento: 19/08/1992
+Género: Mujer
+Domicilio: Calle de las Yeserías 47, 1S
+Ciudad: Úbeda, Valladolid, Castilla y León
+Código postal: 47141
+Email: mariaangeles.sanchez@salud.madrid.org
+Teléfono fijo: +34 983 60 46 82
+Teléfono móvil: +34 683 01 73 88
+NHC: 4209388
+NASS: 209138028378
+Condición de riesgo: Trabajador de Servicios de Limpieza
+
+Datos asistenciales.
+Médico: Dra. Matilde Estevez Macias. NC 699335059. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/01/2004
+Episodio: 78816389
+Centro de salud: Centro de Salud Málaga Oeste
+
+Informe clínico del paciente:
+Paciente de tez blanca de 11 años de edad, acompañado de su madre. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es OG770WVE198. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Ángeles" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="57" text="Giménez Sánchez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="63" end="72" text="55591648G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="94" end="104" text="19/08/1992" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="113" end="118" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="130" end="158" text="Calle de las Yeserías 47, 1S" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="167" end="172" text="Úbeda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="174" end="184" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="186" end="201" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="217" end="222" text="47141" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="230" end="267" text="mariaangeles.sanchez@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="283" end="299" text="+34 983 60 46 82" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="316" end="332" text="+34 683 01 73 88" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="338" end="345" text="4209388" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="352" end="364" text="209138028378" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="386" end="421" text="Trabajador de Servicios de Limpieza" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="693" end="703" text="10/01/2004" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="714" end="722" text="78816389" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="740" end="768" text="Centro de Salud Málaga Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="812" end="822" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="826" end="833" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="860" end="865" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="948" end="959" text="OG770WVE198" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

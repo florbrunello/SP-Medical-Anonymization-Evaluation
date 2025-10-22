@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Amanda</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Nájera López</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3849675</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">28 93464897 03</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Juan Manuel Acevedo, 1 F</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Calahorra</TAG>.
+    CP: <TAG TYPE="TERRITORIO">26500</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/03/1945</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">65 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">12/12/2010</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Daniel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sánchez Zalabardo</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">26 26 56890</TAG>.
+    Informe clínico del paciente: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">65 años</TAG> diagnosticado de adenocarcinoma de próstata Gleason 6/10 en ambos lóbulos prostáticos (Estadio TNM 2003 T1c). PSA en el momento del diagnóstico de <TAG TYPE="MEDICAMENTO">9,43 ng/ml</TAG>. En enero de 2006 el paciente se realiza una prostatectomía radical retorpúbica (Informe anatomía patológica: Adenocarcinoma de próstata Gleason 6/10 pT2c con márgenes libres de tumor). Durante la disección de la cara posterior de la próstata apertura de 2 cm en la cara anterior del recto. Cierre directo de la pared rectal con puntos sueltos. No otras complicaciones intraoperatorias. El quinto día postoperatorio, el paciente presenta fiebre (<TAG TYPE="MEDICAMENTO">37,6 ºC</TAG>), dolor abdominal, fístula urinaria, fecaluria y signos de peritonitis en exploración física. Se realizó CT abdominal evidenciando líquido libre retrohepático por lo que se practicó laparotomía urgente, visualizando peritonitis fecaloidea secundaria a perforación en sigma y abundante orina y heces en pelvis. Se realizó nueva sutura vésico-uretral, resección de segmento de sigma perforado y colostomía de descarga.
+    Tras la cirugía urgente, el paciente presenta cuadro séptico por lo que requiere ingreso en UCI para soporte respiratorio. Durante el cuadro séptico, el paciente presenta fístula urinaria con abundante salida de orina a través del drenaje e infección de herida quirúrgica.
+    Evolución: Tras estabilización respiratoria y hemodinámica el paciente es dado de alta de la UCI presentando colostomía permeable. Orina clara. Posteriormente, desaparición de fístula urinaria y necrosis grasa en el tercio distal de la herida quirúrgica observando musculatura abdominal como fondo de la úlcera.
+    En Marzo de 2006 se realiza cistografía, observándose paso de contraste desde la unión uretrovesical a la ampolla rectal. Con el diagnóstico de fístula vésico-rectal se indica tratamiento conservador mediante sondaje vesical hasta resolución de infección de herida quirúrgica y cierre por segunda intención.
+    En Octubre de 2006 ante la persistencia del orificio fistuloso, se practica cierre de fístula uretro-rectal y plastia de avance mucoso por vía transanal. Un mes después de la cirugía se realiza cistografía no observándose fuga del contraste fuera de la vía urinaria, por lo que se retira la sonda vesical.
+    En Marzo de 2007 se practica cierre de colostomía y eventroplastia de la pared abdominal con malla.
+    En Junio de 2007 el paciente presenta micción espontánea confortable y deposición normal. Ausencia de incontinencia urinaria. Disfunción eréctil tratada con inhibidores de la fosfodiesterasa y PSA menor de <TAG TYPE="MEDICAMENTO">0,15 ng/ml</TAG>.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Daniel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sánchez Zalabardo</TAG> <TAG TYPE="PROFESION">Servicio de Urología</TAG>. <TAG TYPE="INSTITUCION">Fundación Hospital de Calahorra</TAG> <TAG TYPE="CALLE">Ctra. de Logroño, s/n</TAG> - <TAG TYPE="TERRITORIO">26500 Calahorra</TAG> (<TAG TYPE="TERRITORIO">La Rioja</TAG>) Tel.: <TAG TYPE="NUMERO_TELEFONO">941 151 000</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">dsanchez@fhcalahorra.com</TAG> Información artículo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Nota clínica</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Marc Vicente Plaza
+DNI: 46156201P
+Fecha de nacimiento: 19/02/2002
+Género: V
+Domicilio: Calle de Fuencarral 26
+Ciudad: Ermua, Cantabria, Cantabria
+Código postal: 39660
+Email: marc@ciberehd.org
+Teléfono fijo: +34 942 94 71 81
+FAX: +34 942 49 32 87
+NHC: 2870151
+NASS: 794663907595
+
+Datos asistenciales.
+Médico: Dra. María José Del Rio Ortiz. NC 318332161. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 25/05/2012
+Centro de salud: Centro de Salud Aluche
+Matrícula del coche: 1415QJY
+Modelo: Subaru Outback
+VIN: VSOOBTNXFAN369787
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 10 años de edad, acompañado de su tío. El servidor para envío de información desde cual el usuario se comunica es smtp://example-research.net. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es AD791VYT535. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Marc" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="46" text="Vicente Plaza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="46156201P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="19/02/2002" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="137" text="Calle de Fuencarral 26" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="151" text="Ermua" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="162" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="173" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="189" end="194" text="39660" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="202" end="219" text="marc@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="235" end="251" text="+34 942 94 71 81" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="257" end="273" text="+34 942 49 32 87" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="279" end="286" text="2870151" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="293" end="305" text="794663907595" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="564" end="574" text="25/05/2012" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="592" end="614" text="Centro de Salud Aluche" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T18" start="636" end="643" text="1415QJY" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="672" end="689" text="VSOOBTNXFAN369787" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="733" end="759" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="763" end="770" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="797" end="800" text="tío" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="877" end="900" text="smtp://example-research" TYPE="URL_WEB" comment=""/>
+        <ID id="T24" start="987" end="998" text="AD791VYT535" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

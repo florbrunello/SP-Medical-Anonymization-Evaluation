@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Mar Costa Manzano
+DNI: 75413513D
+Fecha de nacimiento: 07/03/2000
+Género: Femenino
+Domicilio: Calle del Sombrerete 60
+Ciudad: Teruel, Menorca, Islas Baleares
+Código postal: 07904
+Email: mariamar-manzano@isciii.es
+Teléfono fijo: +34 971 63 24 27
+Teléfono móvil: +34 771 69 00 64
+NHC: 0175689
+NASS: 341643980550
+Condición de riesgo: Trabajador Industrial
+
+Datos asistenciales.
+Médico: Dra. Laura Franco Cruz. NC 293437641. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/08/2001
+Centro de salud: Centro de Salud Puente de Vallecas
+Matrícula del coche: 1044TQJ
+Modelo: BMW 3 Series
+VIN: VSMD9FBN9MI473706
+
+Informe clínico del paciente:
+Paciente judío de un año de edad, acompañado de su abuela. El servidor para envío de información desde cual el usuario se comunica es smtp://example-dermatology.org. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="María Mar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="51" text="Costa Manzano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="75413513D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="07/03/2000" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="115" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="127" end="150" text="Calle del Sombrerete 60" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="165" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="174" text="Menorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="190" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="07904" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="245" text="mariamar-manzano@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="261" end="277" text="+34 971 63 24 27" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="294" end="310" text="+34 771 69 00 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="316" end="323" text="0175689" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="330" end="342" text="341643980550" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="364" end="385" text="Trabajador Industrial" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="655" end="665" text="26/08/2001" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="683" end="717" text="Centro de Salud Puente de Vallecas" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="739" end="746" text="1044TQJ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="773" end="790" text="VSMD9FBN9MI473706" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="831" end="836" text="judío" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="840" end="846" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="873" end="879" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="956" end="982" text="smtp://example-dermatology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

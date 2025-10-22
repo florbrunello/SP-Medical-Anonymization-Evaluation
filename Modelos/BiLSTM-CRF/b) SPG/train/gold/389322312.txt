@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Carla Parra Calderon
+DNI: 78513951R
+Fecha de nacimiento: 30/01/1976
+Género: M
+Domicilio: Calle de la Alameda 42
+Ciudad: Lorca, Barcelona, Cataluña
+Código postal: 08013
+Email: carla.parra_calderon@yahoo.com
+Teléfono fijo: +34 938 37 63 75
+Teléfono móvil: +34 638 41 49 00
+NHC: 4704712
+NASS: 656204956530
+Condición de riesgo: Limpiador
+
+Datos asistenciales.
+Médico: Dra. María Asunción Zamora Tomas. NC 996345171. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 08/05/1989
+Episodio: 19215748
+Centro de salud: Centro de Salud Centro
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 13 años de edad, acompañado de su hermano. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.240.180, con dirección MAC C3:35:E2:43:76:68. Se registró una sesión de huella dactilar, el código obtenido para revisarla es BS585BVX008. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es ON446ZID788. 

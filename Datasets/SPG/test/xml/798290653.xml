@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ángela Rodríguez Galvez
+DNI: 91006584T
+Fecha de nacimiento: 04/01/1979
+Género: F
+Domicilio: Calle de las Letras 48, 1X
+Ciudad: Majadahonda, Albacete, Castilla-La Mancha
+Código postal: 02882
+Email: angela@udc.es
+Teléfono fijo: +34 967 02 12 29
+Teléfono móvil: +34 767 98 02 33
+NHC: 5654232
+Condición de riesgo: Trabajador de Residuos Sólidos
+
+Datos asistenciales.
+Médico: Dr. Mariano Cruz Parra. NC 642911422. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/08/1997
+Episodio: 66238651
+Centro de salud: Centro de Salud Centro
+Matrícula del coche: 7316FHA
+Modelo: Kia Sorento
+VIN: VSJNG6JV83I927569
+
+Informe clínico del paciente:
+Paciente vegano de 18 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Ángela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="51" text="Rodríguez Galvez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="91006584T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="04/01/1979" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="146" text="Calle de las Letras 48, 1X" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="166" text="Majadahonda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="176" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="196" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="212" end="217" text="02882" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="225" end="238" text="angela@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 967 02 12 29" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 767 98 02 33" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="5654232" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="338" end="368" text="Trabajador de Residuos Sólidos" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="403" end="421" text="Mariano Cruz Parra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="426" end="435" text="642911422" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="437" end="484" text="Investigador Clínico en Enfermedades Digestivas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="486" end="579" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="581" end="610" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="612" end="617" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="619" end="625" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="627" end="633" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="653" end="663" text="28/08/1997" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="674" end="682" text="66238651" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="700" end="722" text="Centro de Salud Centro" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="744" end="751" text="7316FHA" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="777" end="794" text="VSJNG6JV83I927569" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="835" end="841" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="845" end="852" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="879" end="884" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

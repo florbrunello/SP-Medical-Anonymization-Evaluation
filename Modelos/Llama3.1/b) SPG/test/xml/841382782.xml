@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Manuela</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Muñoz</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cruz</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">50779635M</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">29/12/1938</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Tres Cruces 91</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="TERRITORIO">Ibiza</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07903</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">munoz470@udc.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 02 77 15</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 771 01 61 10</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7655388</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">709942523510</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Ingeniero de Minas</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mariano Hidalgo Ríos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">189749713</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/03/1990</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">38668114</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Asistencial Universitario Salamanca</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2947DNL</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">BMW 3 Series</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSDV3SEI0KK272636</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">51 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

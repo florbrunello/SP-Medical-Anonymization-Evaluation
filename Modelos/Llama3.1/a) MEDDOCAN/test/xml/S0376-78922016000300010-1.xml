@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carlos Francisco</TAG> Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ortega Rodriguez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">708256</TAG>.
+    Domicilio: <TAG TYPE="CALLE">500 Villa Fontana Sur</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Managua</TAG>.
+    CP: <TAG TYPE="TERRITORIO">14174</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/09/1977</TAG>.
+    País: <TAG TYPE="PAIS">Nicaragua</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">41 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">20/11/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mauricio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mendieta Espinosa</TAG>.
+    Historia del paciente: Paciente varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">41 años</TAG> de edad remitido a nuestra consulta por presentar lesión tumoral recidivante en lado izquierdo de base del cuello, de 10 cm de diámetro, con zona central ulcerada, sangrante, y adherido a planos profundos.
+    Procedimos a realizar estudio por imagen de la lesión mediante resonancia magnética con cortes axiales coronales y sagitales en secuencia Fast Spin Eco, potenciadas en T1, T2, GRE y T1 con gadolinio, encontrando una masa solida de tipo neoplásico, con bordes bien definidos de 10.4x5.8x12.4 cm en sus ejes longitudinal, anteroposterior y transversal respectivamente, que ocupaba la región izquierda anterior de la base del cuello, superior a la articulación esternoclavicular, con origen en la zona superior y medial de músculo pectoral izquierdo y a nivel de inserción del músculo esternocleidomastoideo en zona clavicular.
+    El paciente fue intervenido quirúrgicamente por el Servicio de Oncología en conjunto con el de Cirugía Plástica y Reconstructiva, realizando marcaje preoperatorio para la resección completa del neurofibroma y su reconstrucción inmediata.
+    El equipo de Oncología llevó a cabo la resección en bloque del neurofibroma, generando un defecto de tejidos blandos de 20x10 cm de diámetro con exposición de músculo pectoral, zona paraesternal izquierda, zona medial del primer arco costal y clavícula.
+    El equipo de Cirugía Plástica se encargó de la restauración del defecto mediante disección subfascial, con lupas de magnificación 2.5 x, de un colgajo libre anterolateral de muslo izquierdo basado en 2 vasos perforantes de la rama descendente de la arteria femoral lateral circunfleja, con dimensiones de 24x11 cm, y pedículo de 12 cm de longitud, realizando anastomosis termino-terminal con nylon 9-0 a vasos tiroideos superiores contralaterales a la lesión y transposición del colgajo acromial realizado previamente a su localización nativa.
+    La coordinación de trabajo en 2 equipos por parte de Oncología y Cirugía Plástica, facilitó que el tiempo operatorio total fuese de 5 horas, no ameritando el paciente transfusiones o estancia en la Unidad de Cuidados Intensivos.
+    El informe histopatológico de la pieza de resección corroboró el diagnóstico de neurofibroma, con dimensiones de 16x10.5x6.5 cm, mostrando células mesenquimatosas, fibroblastos, células de Schwann, tejido perineural y mastocitos, y con márgenes quirúrgicos profundos libres de lesión.
+    El paciente cursó con 6 días de estancia hospitalaria, con antibioticoterapia intravenosa con cefazolina 1 gr cada 8 horas, ácido acetil-salicílico 100 mg una vez al día por vía oral, y tratamiento antinflamatorio/analgésico con ketoprofeno 25 mg cada 8 horas.
+    Realizamos la monitorización del colgajo valorando clínicamente el llenado capilar, su color y temperatura local cada hora en las primeras 24 horas, y posteriormente cada 2 horas durante 48 horas más.
+    Iniciamos la fisioterapia del cuello a las 6 semanas de la intervención, basada en movimientos de flexo-extensión y laterales del cuello.
+    Llevamos a cabo seguimiento del paciente en la consulta externa cada 3 semanas por un periodo de 18 meses, durante los cuales la zona del cuello mejoró en su contorno y movilidad, con un mejor resultado estético-funcional y sin que fueran necesarios tratamientos quirúrgicos secundarios.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Mauricio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mendieta Espinosa</TAG> <TAG TYPE="HOSPITAL">Hospital Militar Escuela</TAG> <TAG TYPE="TERRITORIO">"Dr. Alejandro Dávila Bolaños"</TAG> <TAG TYPE="SERVICIO">Servicio de Cirugía Plástica y Reconstructiva</TAG> <TAG TYPE="UNIDAD">Unidad de Microcirugía Reconstructiva</TAG> <TAG TYPE="CALLE">Managua, Nicaragua</TAG> <TAG TYPE="CORREO_ELECTRONICO">drmauricio@mendietaaesthetics.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

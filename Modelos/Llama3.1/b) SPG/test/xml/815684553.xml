@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Velasco</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Merino</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">26855325L</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/12/1993</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Isabel 48, 5Z</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ponferrada</TAG>, <TAG TYPE="TERRITORIO">Castellón</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">12974</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">velasco@us.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 964 70 74 05</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 664 66 54 87</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5195481</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">516661964124</TAG>
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">vegetariano</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Andrés</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mendoza</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Menendez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">539675046</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuropsicólogo Clínico Investigador</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">07/10/2014</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Ciudad Lineal</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTRO_NUMERO_IDENTIF">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tío</TAG>. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-clinica.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pablo</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Herrera Maradiaga</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2349874</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">74 35639561 23</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Vitruvio, 2.</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28013</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/05/1965</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">51 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/08/2016</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Julia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Álvarez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 57180</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">51 años</TAG> con enfermedad de Crohn ileocólica de larga evolución, con múltiples complicaciones por brotes y que precisó cirugía de resección intestinal quedando con una ileostomía terminal en 2009. Este año se inicia NPD mediante un dispositivo intravascular totalmente implantado. Se encontraba en tratamiento con Infliximab y corticoides.
+    El año siguiente ingresa en varias ocasiones por síndrome febril asociado a dolor abdominal, sin un foco evidente y considerándose el origen la propia enfermedad. En tales hospitalizaciones se aisló <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">Staphylococcus epidermidis</TAG> en varios hemocultivos. También se sustituyó el catéter por rotura, retirándose solamente el reservorio y la porción proximal del catéter al encontrarse la porción distal fijada al tejido, por lo que un fragmento quedó alojado en el interior de la vena cava superior.
+    En febrero de 2011, presenta un cuadro de similares características con fiebre de 11 días de evolución y dolor abdominal que evoluciona hacia <TAG TYPE="PROFESION">shock séptico</TAG> por lo que ingresa en <TAG TYPE="HOSPITAL">UCI</TAG>.
+    Al realizar una <TAG TYPE="PROFESION">radiografía de tórax</TAG> se comprobó que el fragmento abandonado del catéter estaba situado desde la vena cava superior hasta el <TAG TYPE="PROFESION">ventrículo derecho</TAG>. El estudio se completó con un <TAG TYPE="PROFESION">ecocardiograma</TAG> que mostró <TAG TYPE="IDENTIF_BIOMETRICOS">vegetaciones</TAG> sobre el catéter protuyendo desde la <TAG TYPE="PROFESION">aurícula</TAG> hacia el <TAG TYPE="PROFESION">ventrículo</TAG>. Con el diagnóstico de <TAG TYPE="PROFESION">endocarditis sobre catéter</TAG> se inició tratamiento antibiótico con <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">Daptomicina</TAG> y <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">Rifampicina</TAG> teniendo en cuenta los aislamientos previos de <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">Staphylococcus epidermidis</TAG>, y se sometió a cirugía cardiaca para extraer ambos catéteres.
+    Inicialmente el paciente desarrolló una <TAG TYPE="PROFESION">disfunción multiorgánica</TAG> sin control del cuadro séptico a pesar del tratamiento antibiótico. Se realizó un <TAG TYPE="PROFESION">TC craneal</TAG> y <TAG TYPE="PROFESION">toraco-abdominal</TAG> en busca de otros focos de infección con los siguientes hallazgos: <TAG TYPE="PROFESION">hemorragia subaracnoidea</TAG>, <TAG TYPE="PROFESION">condensaciones parcheadas</TAG> en pulmón derecho y varios <TAG TYPE="PROFESION">infartos esplénicos</TAG>, todo compatible con <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">émbolos sépticos múltiples</TAG>.
+    En la pieza quirúrgica hubo varios aislamientos: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">Staphylococcus epidermidis</TAG> en el catéter funcionante y crecimiento polimicrobiano en el catéter con la <TAG TYPE="IDENTIF_BIOMETRICOS">vegetación</TAG>. En este caso se aislaron <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">Staphylococcus epidermidis</TAG>, <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">Ochrobactrum anthropi</TAG> y un <TAG TYPE="IDENTIF_BIOMETRICOS">hongo</TAG> identificado en el <TAG TYPE="INSTITUCION">Centro Nacional de Microbiología de Majadahonda</TAG> como <TAG TYPE="IDENTIF_BIOMETRICOS">Trichorderma longibrachiatum</TAG>. Con estos resultados se modificó el tratamiento antibiótico quedando con <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">Linezolid</TAG>, <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">Imipenem</TAG> y <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">Caspofungina</TAG> controlándose finalmente el cuadro séptico.
+    El enfermo tuvo una evolución tórpida con necesidad de <TAG TYPE="PROFESION">ventilación mecánica prolongada</TAG> y <TAG TYPE="PROFESION">traqueostomía</TAG>, <TAG TYPE="PROFESION">neumonía asociada a ventilación mecánica</TAG> por <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">Acinetobacter baumannii</TAG> y <TAG TYPE="PROFESION">polineuropatía del paciente crítico</TAG>. Tras una estancia en <TAG TYPE="HOSPITAL">UCI</TAG> de 45 días se resolvieron todos estos procesos y pudo ser trasladado a planta donde completó su recuperación.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Julia Álvarez</TAG>. E-mail: <TAG TYPE="CORREO_ELECTRONICO">julia.alvarez@telefonica.net</TAG>
+  </TEXT>
+</MEDDOCAN>

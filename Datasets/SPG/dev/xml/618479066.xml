@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Victoria Aguilar Garrido
+DNI: 16487102N
+Fecha de nacimiento: 01/12/1979
+Género: Mujer
+Domicilio: Calle de las Huertas 82
+Ciudad: Palma, Huelva, Andalucía
+Código postal: 21662
+Email: aguilar-garrido517@imibic.org
+Teléfono fijo: +34 959 67 21 15
+Teléfono móvil: +34 759 09 66 84
+NHC: 4678874
+NASS: 525448098411
+Condición de riesgo: Fabricante
+
+Datos asistenciales.
+Médico: Dr. Joaquín Plaza Rubio. NC 804974294. Investigador Clínico en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/08/2013
+Episodio: 23305240
+Centro de salud: Centro de Salud Leganés
+Matrícula del coche: 2325JLA
+Modelo: Ram 1500
+VIN: VSEMOD0V23S602127
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 33 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="42" text="María Victoria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="43" end="58" text="Aguilar Garrido" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="64" end="73" text="16487102N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="95" end="105" text="01/12/1979" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="114" end="119" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="131" end="154" text="Calle de las Huertas 82" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="163" end="168" text="Palma" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="176" text="Huelva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="187" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="21662" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="245" text="aguilar-garrido517@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="261" end="277" text="+34 959 67 21 15" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="294" end="310" text="+34 759 09 66 84" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="316" end="323" text="4678874" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="330" end="342" text="525448098411" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="364" end="374" text="Fabricante" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="409" end="428" text="Joaquín Plaza Rubio" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="433" end="442" text="804974294" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="444" end="490" text="Investigador Clínico en Insuficiencia Cardíaca" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="492" end="578" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="580" end="609" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="611" end="616" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="618" end="624" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="626" end="632" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="652" end="662" text="25/08/2013" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="673" end="681" text="23305240" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="699" end="722" text="Centro de Salud Leganés" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="744" end="751" text="2325JLA" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="774" end="791" text="VSEMOD0V23S602127" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="832" end="853" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="857" end="864" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="891" end="898" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

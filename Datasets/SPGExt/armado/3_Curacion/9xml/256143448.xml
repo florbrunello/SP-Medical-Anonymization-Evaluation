@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mariano Miguel Castaño</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">35363483V</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/06/2009</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Luna 38</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Zamora, Lugo, Galicia</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">27845</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariano-castano@salud.madrid.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 982 41 81 47</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 782 67 75 57</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7193368</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Esther Alonso Padilla</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">277482918</TAG>. <TAG TYPE="PROFESION">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">13/12/2012</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Hospital Universitario 12 de Octubre</TAG>.
+    Informes clínicos del paciente:
+    Antecedentes:
+    El paciente tiene antecedentes de episodios recurrentes de infecciones respiratorias y digestivas, así como de problemas de alergia a ciertos alimentos.
+    Evolución y comentarios:
+    El paciente fue ingresado en el hospital debido a un episodio de diarrea severa y vómitos. Después de una serie de pruebas y análisis, se determinó que el paciente tenía una infección por un virus norovirus. El paciente recibió tratamiento con antibióticos y se le administraron fluidos intravenosos para reponer la pérdida de líquidos.
+    Informe clínico del paciente:
+    El paciente es un niño de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años</TAG> de edad, de ascendencia <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sudamericana</TAG>, que fue ingresado en el hospital debido a un episodio de diarrea severa y vómitos. El paciente tiene antecedentes de episodios recurrentes de infecciones respiratorias y digestivas, así como de problemas de alergia a ciertos alimentos. Después de una serie de pruebas y análisis, se determinó que el paciente tenía una infección por un virus norovirus. El paciente recibió tratamiento con antibióticos y se le administraron fluidos intravenosos para reponer la pérdida de líquidos. El paciente ha estado mejorando gradualmente y se espera que se recupere completamente en un plazo de unos días.
+    Remitido por:
+    El paciente fue remitido al hospital por su padre, quien se encuentra preocupado por la salud del niño debido a su historia de episodios recurrentes de infecciones y problemas de alergia.
+  </TEXT>
+</MEDDOCAN>

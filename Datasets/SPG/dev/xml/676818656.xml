@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Almudena Franco Méndez
+DNI: 46236629M
+Fecha de nacimiento: 15/02/2023
+Género: M
+Domicilio: Calle de Fortuny 90, 5L
+Ciudad: Socuéllamos, Valladolid, Castilla y León
+Código postal: 47101
+Email: UieTEq79@isciii.es
+Teléfono fijo: +34 983 62 65 30
+FAX: +34 983 03 31 54
+NHC: 4703301
+NASS: 847854025508
+Condición de riesgo: Ama de casa
+
+Datos asistenciales.
+Médico: Dr. Lorenzo Peña Álvarez. NC 871034409. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 11417507
+Hospital: Hospital Clínic Barcelona
+
+Informe clínico del paciente:
+Paciente exfumador de 2 años de edad, acompañado de su hermana. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.12.106, con dirección MAC 29:13:30:0D:DC:8F. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Almudena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="50" text="Franco Méndez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="46236629M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="15/02/2023" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="142" text="Calle de Fortuny 90, 5L" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="162" text="Socuéllamos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="174" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="191" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="47101" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="238" text="UieTEq79@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 983 62 65 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="276" end="292" text="+34 983 03 31 54" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="298" end="305" text="4703301" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="312" end="324" text="847854025508" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="346" end="357" text="Ama de casa" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="392" end="412" text="Lorenzo Peña Álvarez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="417" end="426" text="871034409" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="428" end="463" text="Investigador Principal en Parkinson" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="465" end="554" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="556" end="585" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="587" end="592" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="594" end="600" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="602" end="608" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="628" end="638" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="649" end="657" text="11417507" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="668" end="693" text="Hospital Clínic Barcelona" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="734" end="743" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="747" end="753" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="780" end="787" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="895" end="912" text="29:13:30:0D:DC:8F" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

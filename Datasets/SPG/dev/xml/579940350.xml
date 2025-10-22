@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gabriel Guzman Robles
+DNI: 90746377S
+Fecha de nacimiento: 26/02/1967
+Género: M
+Domicilio: Calle de Lavapiés 83, 5S
+Ciudad: Novelda, Vizcaya, Pais Vasco
+Código postal: 48653
+Email: guzmanrobles@imibic.org
+Teléfono fijo: +34 946 28 59 40
+Teléfono móvil: +34 646 91 73 58
+NHC: 2400048
+Condición de riesgo: Microbiólogo
+
+Datos asistenciales.
+Médico: Dr. Mateo Maldonado Aranda. NC 975243939. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/08/2013
+Episodio: 67963291
+Hospital: Hospital Clínic Barcelona
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática occidental de 46 años de edad, acompañado de su compañero de trabajo. Se registró una sesión de firma biométrica, el código obtenido para revisarla es AU447SXG881. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Gabriel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="49" text="Guzman Robles" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="90746377S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="26/02/1967" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="142" text="Calle de Lavapiés 83, 5S" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="158" text="Novelda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="167" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="179" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="48653" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="231" text="guzmanrobles@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 946 28 59 40" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 646 91 73 58" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="2400048" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="331" end="343" text="Microbiólogo" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="378" end="400" text="Mateo Maldonado Aranda" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="405" end="414" text="975243939" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="416" end="463" text="Investigador Clínico en Enfermedades Digestivas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="465" end="558" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="560" end="589" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="591" end="596" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="598" end="604" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="606" end="612" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="632" end="642" text="22/08/2013" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="653" end="661" text="67963291" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="672" end="697" text="Hospital Clínic Barcelona" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="741" end="772" text="ascendencia asiática occidental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="776" end="783" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="810" end="819" text="compañero" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="913" end="924" text="AU447SXG881" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

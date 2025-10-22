@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Lourdes Lara Hernández
+DNI: 69477373P
+Fecha de nacimiento: 26/03/2024
+Género: Mujer
+Domicilio: Calle de las Letras 17
+Ciudad: Talavera de la Reina, Mallorca, Islas Baleares
+Código postal: 07500
+Email: lourdes_lara@h12o.es
+Teléfono fijo: +34 971 70 74 24
+Teléfono móvil: +34 771 61 19 21
+NHC: 7570173
+NASS: 995732010023
+
+Datos asistenciales.
+Médico: Dr. Marcos Guerra Vila. NC 696788533. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 92954021
+Hospital: Hospital de Manises
+Matrícula del coche: 0415AUE
+Modelo: Jeep Wrangler
+VIN: VSPZ9LG573N233905
+
+Informe clínico del paciente:
+Paciente transeúnte de 11 meses de edad, acompañado de su hermano. Se realizó un expediente con URL http://example-therapy.org//39546191D. Se registró una sesión de firma biométrica, el código obtenido para revisarla es LW779VZP635. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Lourdes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Lara Hernández" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="69477373P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="26/03/2024" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="145" text="Calle de las Letras 17" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="174" text="Talavera de la Reina" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="176" end="184" text="Mallorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="186" end="200" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="216" end="221" text="07500" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="229" end="249" text="lourdes_lara@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="265" end="281" text="+34 971 70 74 24" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="298" end="314" text="+34 771 61 19 21" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="320" end="327" text="7570173" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="334" end="346" text="995732010023" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="381" end="399" text="Marcos Guerra Vila" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="404" end="413" text="696788533" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="415" end="446" text="Especialista en Genética Médica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="448" end="523" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="525" end="554" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="556" end="561" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="563" end="569" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="571" end="577" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="597" end="607" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="618" end="626" text="92954021" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="637" end="656" text="Hospital de Manises" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="678" end="685" text="0415AUE" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="713" end="730" text="VSPZ9LG573N233905" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="771" end="781" text="transeúnte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="785" end="793" text="11 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="820" end="827" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="862" end="884" text="http://example-therapy" TYPE="URL_WEB" comment=""/>
+        <ID id="T33" start="982" end="993" text="LW779VZP635" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

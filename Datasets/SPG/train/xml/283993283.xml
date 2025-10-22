@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Valeria Mateo Cortés
+DNI: 16892450P
+Fecha de nacimiento: 29/10/1967
+Género: Mujer
+Domicilio: Calle de Segovia 86, 8K
+Ciudad: Las Palmas de Gran Canaria, Almería, Andalucía
+Código postal: 04850
+Email: mateo429@aol.com
+Teléfono fijo: +34 950 40 92 59
+Teléfono móvil: +34 650 70 99 78
+NHC: 9931360
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dr. Jesús Palacios Exposito. NC 838044302. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2020
+Episodio: 67696699
+Centro de salud: Centro de Salud Sevilla Oeste
+
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 52 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.188.45, con dirección MAC 60:7C:72:0E:94:F5. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Valeria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Mateo Cortés" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="16892450P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="29/10/1967" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="144" text="Calle de Segovia 86, 8K" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="179" text="Las Palmas de Gran Canaria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="181" end="188" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="190" end="199" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="215" end="220" text="04850" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="228" end="244" text="mateo429@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 950 40 92 59" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="293" end="309" text="+34 650 70 99 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="315" end="322" text="9931360" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="344" end="362" text="Ingeniero de Minas" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="397" end="420" text="Jesús Palacios Exposito" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="425" end="434" text="838044302" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="436" end="471" text="Neurólogo Especialista en Alzheimer" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="473" end="562" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="564" end="593" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="595" end="600" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="602" end="608" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="610" end="616" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="636" end="646" text="09/03/2020" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="657" end="665" text="67696699" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="683" end="712" text="Centro de Salud Sevilla Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="756" end="786" text="ascendencia africana del norte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="790" end="797" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="913" end="930" text="60:7C:72:0E:94:F5" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

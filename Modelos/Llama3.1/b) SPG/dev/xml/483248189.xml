@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Irene</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vicente</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Martínez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">84682971F</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">22/09/1961</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Marqués de Cubas 90</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ponferrada</TAG>, <TAG TYPE="TERRITORIO">Cáceres</TAG>, <TAG TYPE="TERRITORIO">Extremadura</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">10909</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">irene.vicente-martinez@ciberehd.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 927 63 96 46</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 727 37 12 09</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7193524</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">841127167944</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rebeca Guerrero Hidalgo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">588229664</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardióloga de Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">23/06/1971</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">63360545</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alhaurín de la Torre</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tía</TAG>. Se registró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sesión de escaneo retiniano</TAG>, el <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">código obtenido</TAG> para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">AJ307XLL441</TAG>.
+  </TEXT>
+</MEDDOCAN>

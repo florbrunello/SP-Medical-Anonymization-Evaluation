@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">César</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Moya Hurtado</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">42068616Y</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">04/10/1979</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de la Cabeza del Rey Don Pedro 90</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Alcázar de San Juan</TAG>, <TAG TYPE="TERRITORIO">Jaén</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">23077</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">cesar_hurtado1977@hotmail.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 953 12 89 68</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 953 37 93 34</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1157242</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">255992061292</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Químico</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Aitana Nieto Cuesta</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">307154728</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">12/02/1989</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">16206801</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Moratalaz</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">usuario de drogas</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuelo</TAG>.
+  Se registró una sesión de <TAG TYPE="PROFESION">escaneo retiniano</TAG>, el código obtenido para revisarla es <TAG TYPE="ID_DISPOSITIVOS_NRSERIE">AK545VFD512</TAG>.
+  </TEXT>
+</MEDDOCAN>

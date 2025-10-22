@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Fermín</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Reyes Moreno</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7834568</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">75 83407854 73</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ San Gaspar, 94, Bajo D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Zaragoza</TAG>.
+    CP: <TAG TYPE="TERRITORIO">50009</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/02/1939</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">72 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/07/2011</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Cirugía Plástica</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">7823463</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Álvaro</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bernal Martínez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">50 50 47902</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">75 años</TAG> de edad con antecedentes de <TAG TYPE="OTRO_NUMERO_IDENTIF">hipertensión arterial</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">diabetes mellitus tipo 2</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">accidente isquémico transitorio</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">hipotiroidismo autoinmune</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">deterioro cognitivo leve</TAG>. Sufrió una <TAG TYPE="OTRO_NUMERO_IDENTIF">quemadura por contacto con llama</TAG> por inflamación de la ropa al avivar una llama con gasóleo, a consecuencia de la cual presentaba lesiones dérmicas profundas y subdérmicas en ambas extremidades inferiores, con una superficie corporal total quemada del <TAG TYPE="OTRO_NUMERO_IDENTIF">20%</TAG>. Las quemaduras eran dérmicas profundas en la superficie posterior de ambos muslos y circunferenciales en ambas piernas, con una placa de afectación subdérmica en la superficie anterior de la pierna izquierda, así como quemaduras dérmicas superficiales en el lateral de los muslos y en la cara.
+    La reanimación en las primeras horas tras el accidente se realizó en un hospital de otra región, desde el que se derivó a la Unidad de Cuidados Intensivos de nuestro hospital para continuar con el tratamiento de las lesiones.
+    El día del ingreso hospitalario realizamos escarotomías de urgencia en ambas piernas y completamos la reanimación inicial. Durante las primeras 3 semanas de ingreso realizamos 4 sesiones de desbridamiento seriado de las zonas quemadas y cobertura con autoinjerto de piel parcial mallado de la superficie anterior de los muslos en los defectos provocados por la exéresis de las quemaduras más profundas, piernas y muslos posteriores, y con sustitutivos dérmicos (Biobrane®) en las zonas desbridadas de quemaduras superficiales, en el lateral de los muslos y en áreas parcheadas de las piernas A la semana de postoperatorio objetivamos la pérdida del injerto de la superficie anterior de la pierna izquierda.
+    En una nueva sesión quirúrgica realizamos desbridamiento de la zona pretibial izquierda, con persistencia bajo el injerto de quemadura que no había sido eliminada durante las cirugías previas. Tras la adecuada eliminación de esta escara objetivamos un defecto pretibial de 20 cm de longitud, con exposición de la tibia. Realizamos escoplado de la totalidad del periostio expuesto e inicio de terapia de vacío sobre el defecto resultante. Aplicamos la terapia de vacío mediante dispositivo VAC® (KCI Clinic Spain SL), en modo continuo, a 125 mmHg. Las curas se realizaron cada 72 horas con jabón de clorhexidina. No fueron necesarios nuevos procesos de desbridamiento en quirófano. Tras 45 días de terapia de vacío comprobamos la cobertura completa del hueso por tejido de granulación y realizamos tratamiento definitivo con autoinjertos de piel parcial tomados de los glúteos, tras lo cual conseguimos el cierre completo de las heridas.
+    Durante el periodo de aplicación de la terapia los cultivos microbiológicos del tejido de granulación subyacente fueron positivos para <TAG TYPE="IDENTIF_BIOMETRICOS">Pseudomonas aeruginosa multirresistente</TAG>, que previamente el paciente había presentado también en orina. Instauramos tratamiento sistémico con <TAG TYPE="IDENTIF_BIOMETRICOS">Imipenem</TAG> y <TAG TYPE="IDENTIF_BIOMETRICOS">Cilastatina</TAG>, y practicamos desbridamiento parcial del tejido de granulación más superficial e hipertrófico durante los cambios de cura en la habitación. Una vez completada la terapia de vacío e injertado el defecto, el paciente no volvió a presentar signos de infección de los injertos. A los 100 días de ingreso fue dado de alta hospitalaria, con dificultad para la deambulación y con tratamiento rehabilitador en régimen ambulatorio.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Álvaro Bernal Martínez</TAG> <TAG TYPE="PROFESION">Servicio de Cirugía Plástica</TAG> <TAG TYPE="INSTITUCION">Hospital Universitario Miguel Servet</TAG> <TAG TYPE="CALLE">Paseo Isabel la Católica, 1-3</TAG>, <TAG TYPE="TERRITORIO">50009 Zaragoza</TAG>, <TAG TYPE="PAIS">España</TAG> <TAG TYPE="CORREO_ELECTRONICO">aj.bernal.martinez@gmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

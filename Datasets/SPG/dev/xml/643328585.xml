@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Noemí Torres Moya
+DNI: 67122042S
+Fecha de nacimiento: 23/12/1928
+Género: Mujer
+Domicilio: Calle de San Millán 96
+Ciudad: Orense, Huesca, Aragón
+Código postal: 22805
+Email: cxfdfKV2r@outlook.com
+Teléfono fijo: +34 974 87 60 51
+FAX: +34 974 21 41 97
+NHC: 8040830
+NASS: 990810779099
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dra. Ángela Calderon De la Fuente. NC 851914093. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/06/1937
+Centro de salud: Centro de Salud Delicias
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena americana de 8 años de edad, acompañado de su madre. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es ZD521ICA370. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Noemí" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="45" text="Torres Moya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="67122042S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="23/12/1928" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="106" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="140" text="Calle de San Millán 96" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="155" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="163" text="Huesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="171" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="187" end="192" text="22805" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="200" end="221" text="cxfdfKV2r@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="237" end="253" text="+34 974 87 60 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="259" end="275" text="+34 974 21 41 97" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="281" end="288" text="8040830" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="295" end="307" text="990810779099" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="329" end="354" text="Trabajador de Laboratorio" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="651" end="661" text="19/06/1937" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="679" end="703" text="Centro de Salud Delicias" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="747" end="777" text="ascendencia indígena americana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="781" end="787" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="814" end="819" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T22" start="903" end="914" text="ZD521ICA370" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

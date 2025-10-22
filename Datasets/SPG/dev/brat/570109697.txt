@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Javier González Valero
+DNI: 71705070V
+Fecha de nacimiento: 06/02/1933
+Género: M
+Domicilio: Calle de Santa Isabel 38, 1I
+Ciudad: Córdoba, Cantabria, Cantabria
+Código postal: 39137
+Email: javier-gonzalez@ciberisciii.es
+Teléfono fijo: +34 942 41 43 17
+Teléfono móvil: +34 642 16 35 37
+NHC: 7485081
+NASS: 378384290457
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dra. María Nieves Iglesias Hernández. NC 656690788. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/08/1967
+Episodio: 10151012
+Hospital: Complejo Hospitalario La Mancha Centro
+
+Informe clínico del paciente:
+Paciente no fumador de 34 años de edad, acompañado de su primo. Se realizó un expediente con URL http://example-clinica.com//84321044D. 

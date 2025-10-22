@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Alba Cortés Escobar
+DNI: 48657005E
+Fecha de nacimiento: 30/09/1939
+Género: F
+Domicilio: Calle de Ibiza 53
+Ciudad: Castellón de la Plana, Valencia, Comunidad Valenciana
+Código postal: 46951
+Email: alba-cortes@outlook.com
+Teléfono fijo: +34 960 30 33 00
+Teléfono móvil: +34 760 51 09 81
+NHC: 0020769
+NASS: 899751223815
+
+Datos asistenciales.
+Médico: Dra. Amparo Márquez Menendez. NC 959403633. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/08/2023
+Centro de salud: Centro de Salud Majadahonda
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 83 años de edad, acompañado de su hermana. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.48.139, con dirección MAC 6E:9B:A0:8D:46:A7. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es ZC117XEU973. 

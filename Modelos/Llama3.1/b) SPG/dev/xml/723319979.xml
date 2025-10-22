@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Antonio Prieto</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">De la Fuente</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">83723615G</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/06/1940</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Amparo 52</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad autónoma de Melilla</TAG>, <TAG TYPE="TERRITORIO">Melilla</TAG>,
+    Código postal: <TAG TYPE="TERRITORIO">51073</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">delafuente@icloud.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 25 46 52</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 651 49 74 64</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2053236</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">475203107872</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Policía</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Irene Arias Blazquez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">352267669</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/04/1995</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitari i Politècnic La Fe</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6691ZOC</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Chevrolet Silverado</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSNTFVCOARZ349039</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">54 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

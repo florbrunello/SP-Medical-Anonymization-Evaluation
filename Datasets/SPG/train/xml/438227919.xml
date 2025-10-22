@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Mónica Escudero Cabrera
+DNI: 16962153K
+Fecha de nacimiento: 02/08/1964
+Género: M
+Domicilio: Calle de Amor de Dios 89
+Ciudad: Badajoz, Lérida, Cataluña
+Código postal: 25474
+Email: bnFbyPSdVGU6bL525@uca.es
+Teléfono fijo: +34 973 26 20 97
+Teléfono móvil: +34 773 41 29 80
+NHC: 8862169
+Condición de riesgo: Ama de casa
+
+Datos asistenciales.
+Médico: Dra. María Victoria Márquez Marcos. NC 897977351. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/08/1992
+Episodio: 82193417
+Centro de salud: Centro de Salud Sevilla Oeste
+Matrícula del coche: 0202HRN
+Modelo: Toyota RAV4
+VIN: VSMO493WCFR623100
+
+Informe clínico del paciente:
+Paciente de ascendencia oceánica de 28 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Mónica" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="51" text="Escudero Cabrera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="16962153K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="02/08/1964" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="144" text="Calle de Amor de Dios 89" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="160" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="168" text="Lérida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="178" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="194" end="199" text="25474" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="207" end="231" text="bnFbyPSdVGU6bL525@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 973 26 20 97" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 773 41 29 80" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="8862169" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="331" end="342" text="Ama de casa" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="629" end="639" text="24/08/1992" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="650" end="658" text="82193417" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="676" end="705" text="Centro de Salud Sevilla Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="727" end="734" text="0202HRN" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="760" end="777" text="VSMO493WCFR623100" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="821" end="841" text="ascendencia oceánica" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="845" end="852" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

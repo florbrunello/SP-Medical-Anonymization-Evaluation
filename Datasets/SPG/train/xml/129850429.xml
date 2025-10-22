@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Iván Miranda Estevez
+DNI: 48750437M
+Fecha de nacimiento: 19/07/2015
+Género: Masculino
+Domicilio: Calle de Eduardo Dato 37, 9F
+Ciudad: Salamanca, Badajoz, Extremadura
+Código postal: 06312
+Email: uVPVuFFG1535@icloud.com
+Teléfono fijo: +34 924 23 48 74
+Teléfono móvil: +34 624 53 60 02
+NHC: 8934454
+NASS: 473721462708
+Condición de riesgo: Operador de Maquinaria Pesada
+
+Datos asistenciales.
+Médico: Dra. Laura Izquierdo Garrido. NC 221073326. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/09/2022
+Hospital: Hospital Universitario de Basurto
+Matrícula del coche: 6087YCI
+Modelo: Honda Civic
+VIN: VSDJOQTVJVE468779
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 7 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Iván" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="48" text="Miranda Estevez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="48750437M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="19/07/2015" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="113" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="153" text="Calle de Eduardo Dato 37, 9F" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="162" end="171" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="173" end="180" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="182" end="193" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="209" end="214" text="06312" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="222" end="245" text="uVPVuFFG1535@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="261" end="277" text="+34 924 23 48 74" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="294" end="310" text="+34 624 53 60 02" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="316" end="323" text="8934454" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="330" end="342" text="473721462708" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="364" end="393" text="Operador de Maquinaria Pesada" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="648" end="658" text="21/09/2022" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="669" end="702" text="Hospital Universitario de Basurto" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="724" end="731" text="6087YCI" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="757" end="774" text="VSDJOQTVJVE468779" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="818" end="847" text="ascendencia del medio oriente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="851" end="857" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="884" end="889" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

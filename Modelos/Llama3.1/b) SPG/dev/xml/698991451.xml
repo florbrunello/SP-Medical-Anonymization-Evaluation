@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Inmaculada</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Navarro Calderon</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">68324580K</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/10/1960</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Pez 85, 6W</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Vigo</TAG>, <TAG TYPE="TERRITORIO">Málaga</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">29355</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariainmaculada-navarrocalderon@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 37 58 30</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 651 69 31 26</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8959499</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Guardia de Seguridad</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Laura Cano Robles</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">308708587</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/08/1961</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">30388990</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario La Paz</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">4771EIX</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Honda Civic</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSXV11NXTDC190247</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="RELIGION">judío</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 meses</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuelo</TAG>. Se registró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sesión de reconocimiento facial</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">SH834RMX914</TAG>.
+  </TEXT>
+</MEDDOCAN>

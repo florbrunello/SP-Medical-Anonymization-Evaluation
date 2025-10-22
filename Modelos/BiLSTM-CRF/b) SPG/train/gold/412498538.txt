@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Nuria Vicente Blanco
+DNI: 51650203T
+Fecha de nacimiento: 13/07/1950
+Género: M
+Domicilio: Calle de Fuencarral 29, 6L
+Ciudad: Xàtiva, Lugo, Galicia
+Código postal: 27511
+Email: nuria-vicente@ucm.es
+Teléfono fijo: +34 982 41 37 59
+Teléfono móvil: +34 682 11 69 73
+NHC: 7034607
+NASS: 227472518597
+
+Datos asistenciales.
+Médico: Dra. Consuelo Moreno Rey. NC 130057496. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 13/07/1987
+Hospital: Hospital Clínic Barcelona
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática occidental de 37 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.91.215, con dirección MAC 9C:CF:28:D9:14:D4. 

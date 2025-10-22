@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Mohammed Esteban Blazquez
+DNI: 45827020A
+Fecha de nacimiento: 28/10/1928
+Género: Varón
+Domicilio: Calle del Espíritu Santo 13, 2E
+Ciudad: Alcoy, Badajoz, Extremadura
+Código postal: 06216
+Email: blazquez@ioba.med.uva.es
+Teléfono fijo: +34 924 46 03 52
+Teléfono móvil: +34 724 26 22 97
+NHC: 1068319
+NASS: 440018950733
+Condición de riesgo: Albañil
+
+Datos asistenciales.
+Médico: Dra. María Jesús Gómez De la Fuente. NC 804124621. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/11/1948
+Episodio: 95493554
+Hospital: Hospital Universitario Ramón y Cajal
+Matrícula del coche: 6065LPE
+Modelo: Tesla Model 3
+VIN: VSZT4M6LCJR433898
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 20 años de edad. Se realizó un expediente con URL http://example-healthcare.net//22022678D. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Mohammed" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="53" text="Esteban Blazquez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="45827020A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="28/10/1928" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="114" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="157" text="Calle del Espíritu Santo 13, 2E" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="166" end="171" text="Alcoy" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="173" end="180" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="182" end="193" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="209" end="214" text="06216" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="222" end="246" text="blazquez@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="262" end="278" text="+34 924 46 03 52" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="295" end="311" text="+34 724 26 22 97" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="317" end="324" text="1068319" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="331" end="343" text="440018950733" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="365" end="372" text="Albañil" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="663" end="673" text="14/11/1948" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="684" end="692" text="95493554" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="703" end="739" text="Hospital Universitario Ramón y Cajal" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="761" end="768" text="6065LPE" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="796" end="813" text="VSZT4M6LCJR433898" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="857" end="877" text="ascendencia asiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="881" end="888" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="931" end="956" text="http://example-healthcare" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

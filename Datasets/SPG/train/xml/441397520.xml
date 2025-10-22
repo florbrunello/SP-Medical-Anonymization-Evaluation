@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Nuria Espinosa Miguel
+DNI: 31908688Y
+Fecha de nacimiento: 07/04/2008
+Género: F
+Domicilio: Calle de Gobernador 29, 5L
+Ciudad: Lugo, Guadalajara, Castilla-La Mancha
+Código postal: 19755
+Email: espinosa395@ciberisciii.es
+Teléfono fijo: +34 949 08 71 25
+FAX: +34 949 94 31 85
+NHC: 6569274
+NASS: 707106127648
+
+Datos asistenciales.
+Médico: Dr. Germán Castaño Peña. NC 785289622. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 19/09/2016
+Centro de salud: Centro de Salud San Sebastián de los Reyes
+Matrícula del coche: 2699OOC
+Modelo: Subaru Outback
+VIN: VSU9CIK85NR858371
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 8 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Nuria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="49" text="Espinosa Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="31908688Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="07/04/2008" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="144" text="Calle de Gobernador 29, 5L" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="157" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="170" text="Guadalajara" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="190" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="19755" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="245" text="espinosa395@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="261" end="277" text="+34 949 08 71 25" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 949 94 31 85" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="305" end="312" text="6569274" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="707106127648" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="366" end="385" text="Germán Castaño Peña" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="390" end="399" text="785289622" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="401" end="436" text="Residente de 3° año en Oftalmología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="438" end="496" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="498" end="522" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="524" end="529" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="531" end="541" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="543" end="549" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="569" end="579" text="19/09/2016" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="597" end="639" text="Centro de Salud San Sebastián de los Reyes" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T26" start="661" end="668" text="2699OOC" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="697" end="714" text="VSU9CIK85NR858371" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="758" end="782" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="786" end="792" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="819" end="824" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

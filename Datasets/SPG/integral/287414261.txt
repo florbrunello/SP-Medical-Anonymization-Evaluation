@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Mariano Rey Luna
+DNI: 14781265Q
+Fecha de nacimiento: 26/11/1950
+Género: Masculino
+Domicilio: Calle de Fortuny 57
+Ciudad: Majadahonda, Segovia, Castilla y León
+Código postal: 40365
+Email: mariano1811@ciberned.es
+Teléfono fijo: +34 921 16 80 02
+Teléfono móvil: +34 721 82 19 86
+NHC: 7401250
+NASS: 658309510293
+
+Datos asistenciales.
+Médico: Dra. Belén Ortega Flores. NC 531115020. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/05/1978
+Episodio: 33079327
+Hospital: Hospital Universitari Vall d'Hebron
+Matrícula del coche: 0453ILY
+Modelo: Jeep Wrangler
+VIN: VSWH16XK2FS562332
+
+Informe clínico del paciente:
+Paciente de tez blanca de 27 años de edad, acompañado de su hija. Se registró una sesión de huella dactilar, el código obtenido para revisarla es FH658DXK619. 

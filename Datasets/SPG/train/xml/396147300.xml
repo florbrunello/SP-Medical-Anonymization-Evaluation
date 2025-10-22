@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Inmaculada Bermudez Calderon
+DNI: 27214505P
+Fecha de nacimiento: 22/03/1996
+Género: M
+Domicilio: Calle del Marqués de Cubas 12
+Ciudad: Almería, Huelva, Andalucía
+Código postal: 21708
+Email: 82wG3@protonmail.com
+Teléfono fijo: +34 959 88 52 55
+Teléfono móvil: +34 659 93 77 92
+NHC: 0645242
+NASS: 190521612430
+Condición de riesgo: Trabajador de Sanitización
+
+Datos asistenciales.
+Médico: Dr. Ricardo López Costa. NC 722070560. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/09/2003
+Episodio: 34893788
+Hospital: Hospital Universitario de Fuenlabrada
+Matrícula del coche: 3508GHJ
+Modelo: Honda Civic
+VIN: VSDX4EC7W0A911770
+
+Informe clínico del paciente:
+Paciente víctima de desastre de 7 años de edad, acompañado de su madre. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es OB877VCR861. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es XG158ALY607. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Inmaculada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="56" text="Bermudez Calderon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="62" end="71" text="27214505P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="93" end="103" text="22/03/1996" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="112" end="113" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="154" text="Calle del Marqués de Cubas 12" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="163" end="170" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="178" text="Huelva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="180" end="189" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="21708" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="238" text="82wG3@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 959 88 52 55" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 659 93 77 92" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="0645242" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="323" end="335" text="190521612430" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="357" end="383" text="Trabajador de Sanitización" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="418" end="437" text="Ricardo López Costa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="442" end="451" text="722070560" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="453" end="487" text="Residente de 3° año en Psiquiatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="489" end="559" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="561" end="590" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="592" end="597" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="599" end="605" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="607" end="613" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="633" end="643" text="28/09/2003" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="654" end="662" text="34893788" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="673" end="710" text="Hospital Universitario de Fuenlabrada" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="732" end="739" text="3508GHJ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="765" end="782" text="VSDX4EC7W0A911770" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="823" end="842" text="víctima de desastre" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="846" end="852" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="879" end="884" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T33" start="972" end="983" text="OB877VCR861" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T34" start="1066" end="1077" text="XG158ALY607" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

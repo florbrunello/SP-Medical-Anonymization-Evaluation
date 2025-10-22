@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: María Dolores Conde Rubio
+DNI: 48211597D
+Fecha de nacimiento: 17/06/1973
+Género: M
+Domicilio: Calle Mayor 74
+Ciudad: Móstoles, Vizcaya, Pais Vasco
+Código postal: 48519
+Email: conde-rubio732@hotmail.com
+Teléfono fijo: +34 946 34 09 19
+Teléfono móvil: +34 646 63 40 95
+NHC: 4122925
+Condición de riesgo: Electricista
+
+Datos asistenciales.
+Médico: Dr. Leo Pastor Benítez. NC 388027052. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/07/1990
+Episodio: 37869081
+Hospital: Hospital General de Villalba
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 17 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.51.246, con dirección MAC 60:7C:72:0E:94:F5. 

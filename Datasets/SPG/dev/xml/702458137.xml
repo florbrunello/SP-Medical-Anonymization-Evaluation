@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ana Herrera Rivas
+DNI: 82534257E
+Fecha de nacimiento: 30/06/1949
+Género: M
+Domicilio: Calle de Santa Engracia 10
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52155
+Email: rivas@ucm.es
+Teléfono fijo: +34 956 34 78 95
+Teléfono móvil: +34 656 71 31 49
+NHC: 1476793
+NASS: 124451101646
+
+Datos asistenciales.
+Médico: Dra. Andrea Guzman Carmona. NC 366241767. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/07/1967
+Episodio: 04835992
+Centro de salud: Centro de Salud Moratalaz
+Matrícula del coche: 1191RIN
+Modelo: Volkswagen Golf
+VIN: VSRXLWKCMAR934741
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 18 años de edad, acompañado de su suegro. Se realizó un expediente con URL http://example-biotech.com//95125132Y. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Ana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="45" text="Herrera Rivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="82534257E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="30/06/1949" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="140" text="Calle de Santa Engracia 10" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="173" text="Ciudad autónoma de Ceuta" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="175" end="181" text="Ceuta," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="198" end="203" text="52155" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="211" end="223" text="rivas@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="239" end="255" text="+34 956 34 78 95" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="272" end="288" text="+34 656 71 31 49" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T13" start="294" end="301" text="1476793" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="308" end="320" text="124451101646" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T15" start="599" end="609" text="17/07/1967" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="620" end="628" text="04835992" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="646" end="671" text="Centro de Salud Moratalaz" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T18" start="693" end="700" text="1191RIN" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="730" end="747" text="VSRXLWKCMAR934741" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="788" end="809" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="813" end="820" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="847" end="853" text="suegro" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="888" end="910" text="http://example-biotech" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

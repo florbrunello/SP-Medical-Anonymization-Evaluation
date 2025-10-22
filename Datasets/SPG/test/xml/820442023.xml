@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Belén Varela Montes
+DNI: 60839462T
+Fecha de nacimiento: 14/07/1964
+Género: F
+Domicilio: Calle de Arenal 8
+Ciudad: Bormujos, Granada, Andalucía
+Código postal: 18250
+Email: varela.montes@ub.edu
+Teléfono fijo: +34 958 49 21 14
+Teléfono móvil: +34 658 38 45 78
+NHC: 5156025
+NASS: 206294321000
+
+Datos asistenciales.
+Médico: Dra. Vanessa Peña Giménez. NC 601085183. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/12/2022
+Centro de salud: Centro de Salud Sevilla Sur
+Matrícula del coche: 3445ZQL
+Modelo: Honda CR-V
+VIN: VSD7PPEC47I361414
+
+Informe clínico del paciente:
+Paciente fumador de 58 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Belén" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Varela Montes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="60839462T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="14/07/1964" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="133" text="Calle de Arenal 8" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="142" end="150" text="Bormujos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="152" end="159" text="Granada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="161" end="170" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="186" end="191" text="18250" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="199" end="219" text="varela.montes@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="235" end="251" text="+34 958 49 21 14" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="268" end="284" text="+34 658 38 45 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="290" end="297" text="5156025" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="304" end="316" text="206294321000" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="579" end="589" text="04/12/2022" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="607" end="634" text="Centro de Salud Sevilla Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T18" start="656" end="663" text="3445ZQL" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="688" end="705" text="VSD7PPEC47I361414" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="746" end="753" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="757" end="764" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="791" end="797" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

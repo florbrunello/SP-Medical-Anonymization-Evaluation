@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Eric Rueda Rivero
+DNI: 22024610V
+Fecha de nacimiento: 23/05/1996
+Género: Hombre
+Domicilio: Calle de Fuencarral 33
+Ciudad: Alcalá de Henares, Barcelona, Cataluña
+Código postal: 08268
+Email: oEqvtmhto583@us.es
+Teléfono fijo: +34 938 13 29 49
+Teléfono móvil: +34 636 78 99 01
+NHC: 3159119
+NASS: 012512135709
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dr. Santiago Maldonado Soto. NC 417955899. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 23/03/2008
+Episodio: 79871633
+Hospital: Complejo Asistencial Universitario de León
+Matrícula del coche: 3970OZJ
+Modelo: BMW 3 Series
+VIN: VSOZKKUJBXP366747
+
+Informe clínico del paciente:
+Paciente no fumador de 11 años de edad, acompañado de su tía. Se registró una sesión de firma biométrica, el código obtenido para revisarla es CV389WYU310. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Eric" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="45" text="Rueda Rivero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="22024610V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="23/05/1996" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="107" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="141" text="Calle de Fuencarral 33" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="167" text="Alcalá de Henares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="178" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="180" end="188" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="08268" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="235" text="oEqvtmhto583@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 938 13 29 49" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 636 78 99 01" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="3159119" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="012512135709" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="354" end="362" text="Granjero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="397" end="420" text="Santiago Maldonado Soto" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="425" end="434" text="417955899" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="436" end="479" text="Cardiólogo de Unidad de Cuidados Intensivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="481" end="553" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="555" end="578" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="580" end="585" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="587" end="593" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="595" end="601" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="621" end="631" text="23/03/2008" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="642" end="650" text="79871633" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="661" end="703" text="Complejo Asistencial Universitario de León" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="725" end="732" text="3970OZJ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="759" end="776" text="VSOZKKUJBXP366747" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="817" end="827" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="831" end="838" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="865" end="868" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T33" start="951" end="962" text="CV389WYU310" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

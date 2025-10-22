@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lourdes</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Calvo Salazar</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">13373257E</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/02/1989</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Engracia 23</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Torrejón de Ardoz</TAG>, <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">34724</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">calvo-salazar@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 32 35 35</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 679 49 83 25</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6865149</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">541913463049</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Sin información disponible</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alicia Merino Roldan</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 388469637</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Cargo: <TAG TYPE="PROFESION">Residente de 4° año en Medicina Interna</TAG>
+    Dirección: <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/07/2019</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">34719899</TAG>
+    Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alcorcón</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia africana del norte</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30 años</TAG> de edad, acompañado de su padre. Presenta una temperatura de <TAG TYPE="FECHAS">38,5°C</TAG> y una frecuencia cardíaca de <TAG TYPE="FECHAS">110 latidos por minuto</TAG>. Se encuentra consciente y orientado, pero con signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sudoración</TAG>.
+    La exploración física revela una presión arterial de <TAG TYPE="FECHAS">120/80 mmHg</TAG> y una frecuencia respiratoria de <TAG TYPE="FECHAS">20 respiraciones por minuto</TAG>. No se palpan <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">adenopatías</TAG> ni <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">bocio</TAG>, y la <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">vena yugular</TAG> no está ingurgitada. La <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">auscultación cardíaca</TAG> es normal, sin <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">soplos</TAG> ni <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">roces</TAG>. La <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">auscultación pulmonar</TAG> es también normal, con conservación del <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">murmurio vesicular</TAG>.
+    La exploración abdominal revela un <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abdomen</TAG> blando y depresible, sin <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">masas</TAG> ni <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">megalias</TAG>. La exploración neurológica no muestra signos <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">meníngeos</TAG> ni datos de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">focalidad</TAG>. Las <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">extremidades</TAG> no presentan <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">varices</TAG> ni <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">edemas</TAG>.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">Hemograma</TAG>: <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">Hb</TAG> 12,5 g/dl; <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">leucocitos</TAG> 12.000/mm3 (<TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">neutrófilos</TAG> 70%); <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">plaquetas</TAG> 200.000/mm3. <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">VSG</TAG>: 30 mm 1ª hora. <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">Coagulación</TAG>: <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">TQ</TAG> 90%; <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">TTPA</TAG> 25,5 seg. <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">Bioquímica</TAG>: <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">Glucosa</TAG> 100 mg/dl; <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">urea</TAG> 25 mg/dl; <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">creatinina</TAG> 0,8 mg/dl; <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">sodio</TAG> 135 mEq/l; <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">potasio</TAG> 3,5 mEq/l; <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">GOT</TAG> 12 U/l; <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">GPT</TAG> 20 U/l; <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">GGT</TAG> 30 U/l; <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">fosfatasa alcalina</TAG> 120 U/l; <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">calcio</TAG> 8,5 mg/dl. <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">Orina</TAG>: <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">sedimento</TAG> normal.
+    Se solicitan pruebas de imagen (<TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">Ecografía abdominal</TAG> y <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">TAC craneal</TAG>) para evaluar la causa de la <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">fiebre</TAG> y la <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ansiedad</TAG> del paciente.
+  </TEXT>
+</MEDDOCAN>

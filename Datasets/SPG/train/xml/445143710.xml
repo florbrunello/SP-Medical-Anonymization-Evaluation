@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Izan Mora Redondo
+DNI: 89233077T
+Fecha de nacimiento: 11/12/1967
+Género: V
+Domicilio: Calle de Lavapiés 92, 2K
+Ciudad: Majadahonda, Barcelona, Cataluña
+Código postal: 08804
+Email: izan_redondo@salud.madrid.org
+Teléfono fijo: +34 936 93 38 93
+Teléfono móvil: +34 630 82 96 38
+NHC: 0624438
+NASS: 561735557476
+
+Datos asistenciales.
+Médico: Dr. Joel Velasco Iglesias. NC 815657629. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/10/2000
+Episodio: 06318258
+Hospital: Hospital Universitario Central de Asturias
+
+Informe clínico del paciente:
+Paciente testigo de Jehová de 32 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Izan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="45" text="Mora Redondo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="89233077T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="11/12/1967" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="138" text="Calle de Lavapiés 92, 2K" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="158" text="Majadahonda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="169" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="179" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="08804" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="237" text="izan_redondo@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 936 93 38 93" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="286" end="302" text="+34 630 82 96 38" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="308" end="315" text="0624438" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="322" end="334" text="561735557476" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="369" end="390" text="Joel Velasco Iglesias" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="395" end="404" text="815657629" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="406" end="440" text="Residente de 4° año en Cardiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="442" end="528" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="530" end="559" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="561" end="566" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="568" end="574" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="576" end="582" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="602" end="612" text="19/10/2000" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="623" end="631" text="06318258" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="642" end="684" text="Hospital Universitario Central de Asturias" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="725" end="742" text="testigo de Jehová" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="746" end="753" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

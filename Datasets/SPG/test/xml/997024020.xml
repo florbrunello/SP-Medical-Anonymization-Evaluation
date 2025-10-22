@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Oliver Abad Montoya
+DNI: 59660306P
+Fecha de nacimiento: 04/02/1966
+Género: H
+Domicilio: Calle de la Princesa 96
+Ciudad: Úbeda, Salamanca, Castilla y León
+Código postal: 37590
+Email: montoya@ciberehd.org
+Teléfono fijo: +34 923 00 92 67
+Teléfono móvil: +34 623 81 70 60
+NHC: 0395567
+NASS: 855689108455
+Condición de riesgo: Pintor de Construcción
+
+Datos asistenciales.
+Médico: Dra. Adriana Redondo Santos. NC 093560057. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 17/04/1984
+Episodio: 32673391
+Centro de salud: Centro de Salud Alcalá de Henares
+Matrícula del coche: 2787ODO
+Modelo: Honda Civic
+VIN: VSWN31846HJ039414
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 18 años de edad, acompañado de su abuelo. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.239.21, con dirección MAC 00:ED:A8:79:88:14. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Oliver" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Abad Montoya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="59660306P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="04/02/1966" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="139" text="Calle de la Princesa 96" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="153" text="Úbeda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="164" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="181" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="37590" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="230" text="montoya@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="246" end="262" text="+34 923 00 92 67" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="279" end="295" text="+34 623 81 70 60" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="301" end="308" text="0395567" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="315" end="327" text="855689108455" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="349" end="371" text="Pintor de Construcción" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="623" end="633" text="17/04/1984" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="644" end="652" text="32673391" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="670" end="703" text="Centro de Salud Alcalá de Henares" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="725" end="732" text="2787ODO" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="758" end="775" text="VSWN31846HJ039414" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="819" end="843" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="847" end="854" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="881" end="887" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T25" start="995" end="1012" text="00:ED:A8:79:88:14" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Catalina Benito Suárez</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">38924386Z</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">01/03/2010</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Libertad 16</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Pamplona</TAG>, <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">14203</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">suarez@ucm.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 957 92 85 42</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 757 92 10 14</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4539996</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">021045942390</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Técnico de Cuidados Auxiliares de Enfermería</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Gonzalo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bravo Montes</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">284746877</TAG>. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">04/12/2024</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">73319130</TAG>.
+    Hospital: <TAG TYPE="INSTITUCION">Complejo Hospitalario Universitario de Santiago</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> de edad, acompañado de su abuela. Se realizó un expediente con URL <TAG TYPE="URL_WEB">http://example-biotech.com//58989623R</TAG>.
+  </TEXT>
+</MEDDOCAN>

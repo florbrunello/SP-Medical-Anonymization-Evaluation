@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Arturo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Serrano Miguel</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">63654102S</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/05/1996</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Olivar 28</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ourense</TAG>, <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">13841</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">serranomiguel1591@ciberer.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 44 33 45</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 726 62 01 50</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6646120</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Carpintero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jesús María Valero Caballero</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">014363286</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Psiquiatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">21/05/2002</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">91452515</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuengirola</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">8463GPW</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">BMW 3 Series</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSADYT62R8O028436</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuelo</TAG>.
+    Se realizó un <TAG TYPE="DIREC_PROT_INTERNET">expediente con URL</TAG> <TAG TYPE="URL_WEB">http://example-medical.edu//97951138J</TAG>.
+  </TEXT>
+</MEDDOCAN>

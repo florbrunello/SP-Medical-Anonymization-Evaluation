@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Carlos Moreno Montoya</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">78257715P</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">22/12/1988</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Ana 78, 4Q</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">San Vicente del Raspeig, Santa Cruz de Tenerife, Canarias</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">38521</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">josecarlos-moreno_montoya@icloud.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 922 42 45 88</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 722 30 39 79</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7340935</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">941618160094</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Sin especificar</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Francisco Miguel Carrasco</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">150245218</TAG>. <TAG TYPE="PROFESION">Residente de 3° año en Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/10/2019</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Conde de Casal</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia del medio oriente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30 años</TAG> de edad, acompañado de su padre, que se presenta con una lesión en el ojo derecho, con dolor y visión borrosa en el último día. El paciente informa que se golpeó accidentalmente con un objeto pesado mientras trabajaba en su hogar.
+    La exploración física revela: <TAG TYPE="FECHAS">Tª 36,8 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 80 lpm</TAG>. Se encuentra consciente, orientado, sin dolor, con buen estado de nutrición e hidratación. En la exploración ocular se aprecia una lesión en el ojo derecho, con hemorragia subconjuntival y edema del globo ocular.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="FECHAS">Hemograma: Hb 14,5 g/dl</TAG>; <TAG TYPE="FECHAS">leucocitos 7.500/mm3 (neutrófilos 60%)</TAG>; <TAG TYPE="FECHAS">plaquetas 250.000/ mm3</TAG>. <TAG TYPE="FECHAS">VSG: 10 mm 1ª hora</TAG>. <TAG TYPE="FECHAS">Coagulación: TQ 95%</TAG>; <TAG TYPE="FECHAS">TTPA 20,5 seg</TAG>. <TAG TYPE="FECHAS">Bioquímica: Glucosa 90 mg/dl</TAG>; <TAG TYPE="FECHAS">urea 15 mg/dl</TAG>; <TAG TYPE="FECHAS">creatinina 0,8 mg/dl</TAG>; <TAG TYPE="FECHAS">sodio 140 mEq/l</TAG>; <TAG TYPE="FECHAS">potasio 4,2 mEq/l</TAG>.
+    Con el diagnóstico de lesión ocular traumática se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación ocular) y se realiza una exploración más detallada del ojo afectado para determinar la gravedad de la lesión.
+    Antecedentes:
+    El paciente no tiene antecedentes médicos relevantes.
+    Evolución y comentarios:
+    El paciente se encuentra en observación en la unidad de cuidados intensivos, con un seguimiento cercano de su estado clínico. Se realizarán pruebas complementarias para determinar la gravedad de la lesión ocular y se tomarán medidas para prevenir complicaciones.
+    Remitido por:
+    El paciente fue remitido por el <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Servicio de Urgencias</TAG> del <TAG TYPE="CENTRO_SALUD">Centro de Salud Conde de Casal</TAG>.
+  </TEXT>
+</MEDDOCAN>

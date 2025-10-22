@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ahmed Hernández Roca
+DNI: 38006982B
+Fecha de nacimiento: 19/02/1945
+Género: M
+Domicilio: Calle de Argumosa 19
+Ciudad: Zaragoza, Santa Cruz de Tenerife, Canarias
+Código postal: 38774
+Email: ahmedhernandez1506@ciberer.es
+Teléfono fijo: +34 922 57 60 41
+Teléfono móvil: +34 622 99 46 68
+NHC: 7505895
+Condición de riesgo: Dentista
+
+Datos asistenciales.
+Médico: Dra. Remedios Ruiz Diez. NC 296823327. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 26/08/1986
+Episodio: 06326353
+Centro de salud: Centro de Salud Málaga Norte
+Matrícula del coche: 2325WRR
+Modelo: Toyota RAV4
+VIN: VSYGAQY2MME876021
+
+Informe clínico del paciente:
+Paciente musulman de 41 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Ahmed" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Hernández Roca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="38006982B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="19/02/1945" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="137" text="Calle de Argumosa 19" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="154" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="178" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="180" end="188" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="38774" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="246" text="ahmedhernandez1506@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="262" end="278" text="+34 922 57 60 41" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="295" end="311" text="+34 622 99 46 68" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="317" end="324" text="7505895" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="346" end="354" text="Dentista" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="603" end="613" text="26/08/1986" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="624" end="632" text="06326353" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="650" end="678" text="Centro de Salud Málaga Norte" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="700" end="707" text="2325WRR" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="733" end="750" text="VSYGAQY2MME876021" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="791" end="799" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="803" end="810" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

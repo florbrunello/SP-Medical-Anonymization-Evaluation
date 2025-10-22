@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Julia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Maldonado</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rivas</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">27757422X</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/06/1961</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Segovia 95, 2I</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Logroño</TAG>, <TAG TYPE="TERRITORIO">Málaga</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">29087</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">maldonado@uhu.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 38 40 69</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 651 52 11 09</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7061568</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">059745517821</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Granjero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rosa Lorenzo Villar</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">285954486</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">22/07/1968</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">51858572</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Río Hortega</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tía</TAG>.
+  </TEXT>
+</MEDDOCAN>

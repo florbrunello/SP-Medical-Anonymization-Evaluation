@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Fátima</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gonzalez Martos</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7982365</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">71 34655902 06</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Plaza de África, 15</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Ceuta</TAG>.
+    CP: <TAG TYPE="TERRITORIO">51001</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/05/1966</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">51 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">24/10/2017</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alexander</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Finol Muñoz</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">51 51 74859</TAG>.
+    Historia del paciente: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">51 años</TAG> de edad, <TAG TYPE="PROFESION">auxiliar de enfermería</TAG>, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Diabetes Mellitus tipo I</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Síndrome de Túnel Carpiano</TAG>. El día <TAG TYPE="FECHAS">20/02/2011</TAG>, durante jornada de trabajo en planta, presenta derrame accidental de líquido mientras llenaba envase de <TAG TYPE="OTRO_NUMERO_IDENTIF">Biguanid</TAG>®, cayéndole en todo el cuerpo, por lo que decide cambiarse el uniforme entero, conservando <TAG TYPE="OTROS_SUJETO_ASISTENCIA">calcetines</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">zapatos</TAG> por el resto del turno de trabajo. Posteriormente presenta dos lesiones ampollosas en región dorsal de 4tº dedo de pie izquierdo, las cuales son tratadas y seguidas por <TAG TYPE="PROFESION">cirugía general</TAG>. Comienzan a aparecer signos de flogosis y secreción (Ver imágenes 1, 2), la cual se cultiva resultando crecimiento de <TAG TYPE="IDENTIF_BIOMETRICOS">Staphylococcus Aureus</TAG> meticilín-resistente, indicándose tratamiento según antibiograma. A pesar de las medidas se complica con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">edema</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">osteomielitis</TAG> de la falange (ver imagen 3) por lo que se decide amputar el dedo afectado. Una vez recuperada y con el estatus de incapacidad transitoria, fue estudiada con pruebas de provocación, evidenciando la susceptibilidad de la trabajadora a dicho desinfectante (ver imagen 4). Se propone al órgano competente <TAG TYPE="INSTITUCION">Instituto Nacional de Seguridad Social (INSS)</TAG> como <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">accidente de trabajo</TAG> y una <TAG TYPE="OTRO_NUMERO_IDENTIF">indemnización</TAG> por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lesión permanente no invalidante</TAG>. Actualmente sigue desempeñando sus funciones como <TAG TYPE="PROFESION">auxiliar</TAG> en el hospital.
+    Remitido por:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alexander</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Finol Muñoz</TAG>. <TAG TYPE="HOSPITAL">Hospital Universitario de Ceuta</TAG> <TAG TYPE="CALLE">Loma Colmenar s/n.º</TAG> Edificio 2. Planta -1 <TAG TYPE="TERRITORIO">51003</TAG>. <TAG TYPE="TERRITORIO">Ceuta</TAG>. <TAG TYPE="PAIS">España</TAG> Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">finolito@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sergio Robles Parra
+DNI: 98400034P
+Fecha de nacimiento: 28/06/1974
+Género: V
+Domicilio: Calle de Miguel Ángel 95
+Ciudad: Ermua, Granada, Andalucía
+Código postal: 18340
+Email: robles_parra@aol.com
+Teléfono fijo: +34 958 90 41 00
+Teléfono móvil: +34 658 98 22 89
+NHC: 0749116
+NASS: 331141463537
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dr. Agustín Mesa Calvo. NC 340104133. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 08/05/1975
+Episodio: 41152028
+Centro de salud: Centro de Salud Sevilla Norte
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 10 meses de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.221.125, con dirección MAC 51:95:8D:E1:13:D8. Se registró una sesión de firma biométrica, el código obtenido para revisarla es WY763BRK049. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Sergio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Robles Parra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="98400034P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="28/06/1974" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="140" text="Calle de Miguel Ángel 95" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="154" text="Ermua" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="163" text="Granada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="174" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="18340" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="223" text="robles_parra@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="239" end="255" text="+34 958 90 41 00" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="272" end="288" text="+34 658 98 22 89" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="294" end="301" text="0749116" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="308" end="320" text="331141463537" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="342" end="363" text="Trabajador de Almacén" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="398" end="416" text="Agustín Mesa Calvo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="421" end="430" text="340104133" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="432" end="475" text="Cardiólogo de Unidad de Cuidados Intensivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="477" end="549" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="551" end="574" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="576" end="581" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="583" end="589" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="591" end="597" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="617" end="627" text="08/05/1975" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="638" end="646" text="41152028" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="664" end="693" text="Centro de Salud Sevilla Norte" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="737" end="766" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="770" end="778" text="10 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="805" end="810" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="919" end="936" text="51:95:8D:E1:13:D8" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <ID id="T32" start="1019" end="1030" text="WY763BRK049" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

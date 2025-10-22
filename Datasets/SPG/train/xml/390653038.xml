@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Tamara Rey Díaz
+DNI: 58046927X
+Fecha de nacimiento: 09/05/2011
+Género: F
+Domicilio: Calle de Espoz y Mina 60, 1O
+Ciudad: Plasencia, Valladolid, Castilla y León
+Código postal: 47321
+Email: 3o4fxPQhaqwjtb1096@ioba.med.uva.es
+Teléfono fijo: +34 983 08 09 69
+Teléfono móvil: +34 683 49 46 44
+NHC: 5447749
+Condición de riesgo: Químico
+
+Datos asistenciales.
+Médico: Dr. Marcos Hidalgo Castro. NC 047394536. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 01/12/2017
+Hospital: Hospital Regional Universitario de Málaga
+Matrícula del coche: 9577KHA
+Modelo: BMW 3 Series
+VIN: VSUYX5ZU42T999382
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 6 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Tamara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="43" text="Rey Díaz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="49" end="58" text="58046927X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="80" end="90" text="09/05/2011" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="99" end="100" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="112" end="140" text="Calle de Espoz y Mina 60, 1O" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="158" text="Plasencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="170" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="187" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="47321" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="250" text="3o4fxPQhaqwjtb1096@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="266" end="282" text="+34 983 08 09 69" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="299" end="315" text="+34 683 49 46 44" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="321" end="328" text="5447749" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="350" end="357" text="Químico" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="392" end="413" text="Marcos Hidalgo Castro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="418" end="427" text="047394536" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="429" end="472" text="Cardiólogo de Unidad de Cuidados Intensivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="474" end="546" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="548" end="571" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="573" end="578" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="580" end="586" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="588" end="594" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="614" end="624" text="01/12/2017" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="635" end="676" text="Hospital Regional Universitario de Málaga" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="698" end="705" text="9577KHA" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="732" end="749" text="VSUYX5ZU42T999382" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="793" end="817" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="821" end="827" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="854" end="860" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Isabel Bravo Santos
+DNI: 57673279C
+Fecha de nacimiento: 11/05/1946
+Género: F
+Domicilio: Calle del Barquillo 17, 9Z
+Ciudad: Logroño, Almería, Andalucía
+Código postal: 04862
+Email: isabel.bravo15@imibic.org
+Teléfono fijo: +34 950 46 45 70
+Teléfono móvil: +34 650 89 03 00
+NHC: 3834940
+
+Datos asistenciales.
+Médico: Dr. José Luis Avila Bermudez. NC 120809432. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 19/09/1994
+Episodio: 65586678
+Hospital: Hospital Virgen de la Luz
+Matrícula del coche: 8397JKD
+Modelo: Chrysler Pacifica
+VIN: VSXF8KALMJX528743
+
+Informe clínico del paciente:
+Paciente musulman de 48 años de edad, acompañado de su tío. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Isabel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Bravo Santos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="57673279C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="11/05/1946" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="142" text="Calle del Barquillo 17, 9Z" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="158" text="Logroño" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="167" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="178" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="194" end="199" text="04862" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="207" end="232" text="isabel.bravo15@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 950 46 45 70" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 650 89 03 00" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="3834940" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="345" end="369" text="José Luis Avila Bermudez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="374" end="383" text="120809432" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="385" end="429" text="Investigador Principal en Optometría Clínica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="431" end="489" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="491" end="515" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="517" end="522" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="524" end="534" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="536" end="542" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="562" end="572" text="19/09/1994" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="583" end="591" text="65586678" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="602" end="627" text="Hospital Virgen de la Luz" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="649" end="656" text="8397JKD" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="688" end="705" text="VSXF8KALMJX528743" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="746" end="754" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="758" end="765" text="48 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="792" end="795" text="tío" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

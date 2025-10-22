@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Enriqueta</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mendez Alvarado</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4570164</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">07 64137586 45</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. puerta de hierro 47, 5G</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Valladolid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">47002</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/05/1935</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">80 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">12/06/2015</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Victor Manuel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Asensio Sánchez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">47 47 61587</TAG>.
+    Historia Actual: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mujer de 80 años</TAG> que acude al hospital con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diplopía</TAG> de 7 días de evolución. El diagnóstico fue de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">parálisis completa</TAG> del tercer par craneal derecho con afectación pupilar. No refería <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cefalea</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">claudicación mandibular</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">rigidez</TAG> en el cuello y las articulaciones. Sus antecedentes personales sólo eran significativos para <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG>. Sus antecedentes oftalmológicos carecían de interés. La exploración de la motilidad ocular en el ojo izquierdo (OI) fue normal. El ojo derecho (OD) tenía <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ptosis palpebral</TAG> y limitación de la movilidad en todas las posiciones de la mirada excepto en abduccion. La reacción pupilar a la luz en el OI fue de 3 mm a 2 mm, la respuesta pupilar en el OD fue lenta de 5 mm a 4 mm. No hubo defecto pupilar aferente. La exploración con lámpara de hendidura era característica de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">catarata bilateral</TAG>. El fondo de ojo fue normal. Una angio-resonancia magnética cerebral no detectó patología. En el estudio de laboratorio la velocidad de sedimentación globular (VSG) era de 28 mm/h, la proteína C-reactiva de 0,2 mg/dl (normal, <0,8 mg/dl) y las plaquetas de 175.000/ml3. El factor reumatoide, los anticuerpos antinucleares, los anticuerpos anticitoplasma del neutrófilo, anticuerpos antireceptores de la acetilcolina y la serología luética fueron negativas. El diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">AT</TAG> fue considerado y se realizó una biopsia de la arteria temporal. La anatomía patológica reveló <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estenosis de la luz arterial</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">rotura de la limitante interna</TAG> y células inflamatorias y gigantes.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Victor Manuel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Asensio Sánchez</TAG>. <TAG TYPE="HOSPITAL">Hospital General</TAG> <TAG TYPE="INSTITUCION">Servicio Castellano-Leonés de Salud</TAG> <TAG TYPE="CENTRO_SALUD">Servicio de Oftalmología</TAG> <TAG TYPE="TERRITORIO">Medina del Campo</TAG> (<TAG TYPE="TERRITORIO">Valladolid</TAG>). <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">victor_asensio@orangemail.es</TAG>
+  </TEXT>
+</MEDDOCAN>

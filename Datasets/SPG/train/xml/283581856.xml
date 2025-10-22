@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Magdalena Millan Espinosa
+DNI: 59535475K
+Fecha de nacimiento: 27/09/1999
+Género: Femenino
+Domicilio: Calle de las Salesas 95, 3A
+Ciudad: Béjar, Palencia, Castilla y León
+Código postal: 34275
+Email: 5QaQZ4pbcdjXk3T@ucm.es
+Teléfono fijo: +34 979 50 83 48
+Teléfono móvil: +34 679 87 53 37
+NHC: 5241352
+NASS: 922793342052
+Condición de riesgo: Trabajador de Servicios de Limpieza
+
+Datos asistenciales.
+Médico: Dra. Ainhoa Acosta Galan. NC 599520494. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 19/01/2003
+Episodio: 07672608
+Centro de salud: Centro de Salud Arganzuela
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 3 años de edad, acompañado de su abuela. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Magdalena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="53" text="Millan Espinosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="59535475K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="27/09/1999" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="117" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="129" end="156" text="Calle de las Salesas 95, 3A" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="165" end="170" text="Béjar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="180" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="182" end="197" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="34275" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="248" text="5QaQZ4pbcdjXk3T@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="264" end="280" text="+34 979 50 83 48" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="297" end="313" text="+34 679 87 53 37" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="319" end="326" text="5241352" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="333" end="345" text="922793342052" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="367" end="402" text="Trabajador de Servicios de Limpieza" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="646" end="656" text="19/01/2003" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="667" end="675" text="07672608" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="693" end="719" text="Centro de Salud Arganzuela" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="760" end="777" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="781" end="787" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="814" end="820" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="897" end="921" text="smtp://example-nutrition" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

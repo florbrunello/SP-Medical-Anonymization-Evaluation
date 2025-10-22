@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Abdul</TAG>.
+  Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ahaharrar</TAG>.
+  CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc-56789516</TAG>.
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">78 12546278 12</TAG>.
+  Domicilio: <TAG TYPE="CALLE">Crta. Feguerido, 3</TAG>.
+  Localidad/ Provincia: <TAG TYPE="TERRITORIO">Pontevedra</TAG>.
+  CP: <TAG TYPE="TERRITORIO">36004</TAG>.
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">56789516</TAG>.
+  Datos asistenciales.
+  Fecha de nacimiento: <TAG TYPE="FECHAS">01/01/1960</TAG>.
+  País: <TAG TYPE="PAIS">España</TAG>.
+  Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">58</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+  Fecha de Ingreso: <TAG TYPE="FECHAS">13/04/2018</TAG>.
+  Especialidad: <TAG TYPE="PROFESION">Urgencias</TAG>.
+  Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pablo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">L.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Guzmán</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Martínez-Valls</TAG>  NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">36 36 09523</TAG>.
+  Motivo de ingreso: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sudoración y fiebre con dolor lumbar izquierdo, pesadez en flanco de dicho lado y disuria de unos 15 días</TAG>.
+  Antecedentes: Dentro de sus antecedentes personales no destaca ninguna patología trascendente: No DM. No HTA. No alergias conocidas. Ex fumador de 8 años. No hematuria. No cólicos. No ITUs.
+  Historia Actual: Paciente de origen subsahariano que acude a Urgencias relata que en las últimas dos semanas presenta febrícula ocasional, sudoración, pesadez en flanco izquierdo con dolor lumbar del mismo lado y clínica miccional con chorro aceptable, disuria, no entrecortado, no goteo, no urgencia con frecuencia miccional nocturna de una vez y diurna cada 3-4 horas con sensación de vacuidad completa.
+  Exploración física: A la exploración física se aprecia a nivel abdominal, efecto masa en flanco izquierdo a la palpación profunda, Tacto Rectal: próstata grado I-II sin lesiones sospechosas.
+  Resumen de pruebas complementarias: Las pruebas complementarias presentaban: Hemograma normal con signos de Eosinofilia. Bioquímica normal. Resto normal, analítica de orina negativa. Rx aparato genito urinario presentaba efecto masa en flanco izquierdo que borraba la línea del psoas de dicho lado. Ecografía renal: múltiples quistes en riñón izquierdo. Se realiza TC abdominopélvico : con lesiones quísticas con vesículas hijas, compatible con enfermedad hidatídica renal.
+  Se solicita serología de Anticuerpos Echinococcus/Hemag que es POSITIVO a cifras superiores 1/2.621.440.
+  Se completa estudio con RMN para tener una iconografía mas completa y valorar relaciones con estructuras adyacentes.
+  Ante la sospecha diagnóstica, se decide cirugía sobre la unidad renal afecta, siendo imposible durante el acto quirúrgico realizar cirugía conservadora practicándole al paciente una nefroureterectomía izquierda completa por sospecha de comunicación del quíste hidatídico con la vía ante el grosor de la misma. Previo al tratamiento quirúrgico el paciente recibe un ciclo de Albendazol y otro tras la cirugía.
+  El paciente tras el tratamiento presenta caída de las cifras de titulación de anticuerpos y a tres años del procedimiento el paciente está asintomático y analíticamente sin enfermedad.
+  Responsable clinico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pablo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">L.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Guzmán</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Martínez-Valls</TAG> <TAG TYPE="CALLE">Pz de Pontevedra,2, Ed.ICA, Esc.2a,5ºC</TAG> <TAG TYPE="TERRITORIO">30009</TAG> <TAG TYPE="TERRITORIO">Murcia</TAG>. (<TAG TYPE="PAIS">España</TAG>). <TAG TYPE="CORREO_ELECTRONICO">pabloguzman@terra.es</TAG>
+  </TEXT>
+</MEDDOCAN>

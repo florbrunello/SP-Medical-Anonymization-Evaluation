@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Manuel Aranda Méndez
+DNI: 93057651L
+Fecha de nacimiento: 24/03/2021
+Género: Hombre
+Domicilio: Calle de Preciados 95, 3I
+Ciudad: Ferrol, Cáceres, Extremadura
+Código postal: 10944
+Email: juanmanuel.mendez151@yahoo.com
+Teléfono fijo: +34 927 20 74 05
+FAX: +34 927 23 20 04
+NHC: 3658392
+NASS: 140798588662
+
+Datos asistenciales.
+Médico: Dra. Begoña Torres Suárez. NC 656554020. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/02/2024
+Episodio: 65934913
+Hospital: Hospital Universitario Río Hortega
+Matrícula del coche: 3694VKG
+Modelo: Ram 1500
+VIN: VSIFUHUNYVT873934
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 2 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-pharma.org//78533406Y. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="Juan Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="53" text="Aranda Méndez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="93057651L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="24/03/2021" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="115" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="127" end="152" text="Calle de Preciados 95, 3I" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="161" end="167" text="Ferrol" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="176" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="189" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="10944" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="248" text="juanmanuel.mendez151@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="264" end="280" text="+34 927 20 74 05" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="286" end="302" text="+34 927 23 20 04" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="308" end="315" text="3658392" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="322" end="334" text="140798588662" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="606" end="616" text="11/02/2024" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="627" end="635" text="65934913" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="646" end="680" text="Hospital Universitario Río Hortega" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="702" end="709" text="3694VKG" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="732" end="749" text="VSIFUHUNYVT873934" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="793" end="817" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="821" end="827" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="854" end="859" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="894" end="915" text="http://example-pharma" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

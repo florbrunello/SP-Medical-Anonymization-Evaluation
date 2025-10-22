@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Asier Ortiz Navarro
+DNI: 57608529S
+Fecha de nacimiento: 28/05/1954
+Género: H
+Domicilio: Calle de Tribulete 97
+Ciudad: Avilés, Valencia, Comunidad Valenciana
+Código postal: 46438
+Email: ortiz-navarro1774@uhu.es
+Teléfono fijo: +34 960 50 10 59
+Teléfono móvil: +34 760 49 42 53
+NHC: 0825223
+NASS: 083909335600
+
+Datos asistenciales.
+Médico: Dr. Rubén Benito Mendoza. NC 755123563. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/03/1995
+Episodio: 49730022
+Centro de salud: Centro de Salud Coslada
+
+Informe clínico del paciente:
+Paciente no fumador de 40 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Asier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Ortiz Navarro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="57608529S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="28/05/1954" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="137" text="Calle de Tribulete 97" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="152" text="Avilés" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="154" end="162" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="184" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="46438" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="237" text="ortiz-navarro1774@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 960 50 10 59" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="286" end="302" text="+34 760 49 42 53" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="308" end="315" text="0825223" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="322" end="334" text="083909335600" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="369" end="389" text="Rubén Benito Mendoza" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="394" end="403" text="755123563" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="405" end="440" text="Neurólogo Especialista en Alzheimer" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="442" end="531" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="533" end="562" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="564" end="569" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="571" end="577" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="579" end="585" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="605" end="615" text="19/03/1995" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="626" end="634" text="49730022" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="652" end="675" text="Centro de Salud Coslada" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="716" end="726" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="730" end="737" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Esteban Medina Calderon
+DNI: 45728163T
+Fecha de nacimiento: 09/04/1954
+Género: Hombre
+Domicilio: Calle del Rollo 60
+Ciudad: Jerez de la Frontera, La Rioja, La Rioja
+Código postal: 26316
+Email: esteban.calderon@ciberisciii.es
+Teléfono fijo: +34 941 06 36 31
+Teléfono móvil: +34 641 23 81 26
+NHC: 2932306
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dra. Josefina Hurtado Salazar. NC 902530998. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 11/05/2001
+Episodio: 39226331
+Centro de salud: Centro de Salud Latina
+Matrícula del coche: 0408PVY
+Modelo: Honda CR-V
+VIN: VSV4NUJPCEU399393
+
+Informe clínico del paciente:
+Paciente víctima de desastre de 47 años de edad, acompañado de su nuera. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Esteban" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="51" text="Medina Calderon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="45728163T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="09/04/1954" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="113" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="143" text="Calle del Rollo 60" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="172" text="Jerez de la Frontera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="174" end="182" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="184" end="192" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="208" end="213" text="26316" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="221" end="252" text="esteban.calderon@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="268" end="284" text="+34 941 06 36 31" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="301" end="317" text="+34 641 23 81 26" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="323" end="330" text="2932306" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="352" end="359" text="Bombero" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="608" end="618" text="11/05/2001" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="629" end="637" text="39226331" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="655" end="677" text="Centro de Salud Latina" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="699" end="706" text="0408PVY" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="731" end="748" text="VSV4NUJPCEU399393" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="789" end="808" text="víctima de desastre" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="812" end="819" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="846" end="851" text="nuera" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Joel Robles Andres
+DNI: 97218351L
+Fecha de nacimiento: 01/02/2025
+Género: H
+Domicilio: Calle de Recoletos 58
+Ciudad: Ciudad Real, Huesca, Aragón
+Código postal: 22166
+Email: joel.robles_andres1879@aol.com
+Teléfono fijo: +34 974 10 95 65
+Teléfono móvil: +34 774 26 08 75
+NHC: 7602431
+NASS: 644461386322
+
+Datos asistenciales.
+Médico: Dr. Adolfo Casas Fuentes. NC 404649743. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 76501327
+Hospital: Hospital Universitario de Gran Canaria Dr. Negrín
+Matrícula del coche: 5564ANG
+Modelo: Subaru Outback
+VIN: VSNXZ5PC1AD929981
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena centroamericana de un mes de edad, acompañado de su hermana. Se realizó un expediente con URL http://example-pharma.org//22637297S. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Joel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="46" text="Robles Andres" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="97218351L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="01/02/2025" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="136" text="Calle de Recoletos 58" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="156" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="164" text="Huesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="172" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="188" end="193" text="22166" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="201" end="231" text="joel.robles_andres1879@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 974 10 95 65" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 774 26 08 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="7602431" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="316" end="328" text="644461386322" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="363" end="383" text="Adolfo Casas Fuentes" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="388" end="397" text="404649743" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="399" end="442" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="444" end="502" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="504" end="528" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="530" end="535" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="537" end="547" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="549" end="555" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="575" end="585" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="596" end="604" text="76501327" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="615" end="664" text="Hospital Universitario de Gran Canaria Dr. Negrín" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="686" end="693" text="5564ANG" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="722" end="739" text="VSNXZ5PC1AD929981" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="783" end="819" text="ascendencia indígena centroamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="823" end="829" text="un mes" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="856" end="863" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="898" end="919" text="http://example-pharma" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

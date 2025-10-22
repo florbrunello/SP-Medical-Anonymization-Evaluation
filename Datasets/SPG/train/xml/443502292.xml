@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Vanessa Arias Cano
+DNI: 91967922F
+Fecha de nacimiento: 19/03/1975
+Género: Mujer
+Domicilio: Calle de la Cabeza del Rey Don Pedro 88
+Ciudad: Alcoy, Región de Murcia, Región de Murcia
+Código postal: 30848
+Email: vanessa-cano@hotmail.com
+Teléfono fijo: +34 968 27 90 89
+Teléfono móvil: +34 668 07 59 54
+NHC: 3599839
+NASS: 079384596852
+Condición de riesgo: Cirujano
+
+Datos asistenciales.
+Médico: Dra. Beatriz Otero Vega. NC 712782181. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 03/12/1989
+Episodio: 60451687
+Hospital: Hospital Universitario Reina Sofía de Córdoba
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 14 años de edad, acompañado de su abuelo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Vanessa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="46" text="Arias Cano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="91967922F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="19/03/1975" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="107" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="158" text="Calle de la Cabeza del Rey Don Pedro 88" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="167" end="172" text="Alcoy" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="174" end="190" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="192" end="208" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="224" end="229" text="30848" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="237" end="261" text="vanessa-cano@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="277" end="293" text="+34 968 27 90 89" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="310" end="326" text="+34 668 07 59 54" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="332" end="339" text="3599839" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="346" end="358" text="079384596852" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="380" end="388" text="Cirujano" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="641" end="651" text="03/12/1989" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="662" end="670" text="60451687" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="681" end="726" text="Hospital Universitario Reina Sofía de Córdoba" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="770" end="791" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="795" end="802" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="829" end="835" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Matilde Rey Montes
+DNI: 19868388E
+Fecha de nacimiento: 13/03/1936
+Género: F
+Domicilio: Calle del Barquillo 31
+Ciudad: Vitoria, Cantabria, Cantabria
+Código postal: 39641
+Email: matilde_rey-montes1814@h12o.es
+Teléfono fijo: +34 942 76 95 10
+Teléfono móvil: +34 642 43 89 74
+NHC: 9267363
+NASS: 969399103644
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. Izan Vila Pereira. NC 779981405. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/08/1937
+Episodio: 19088343
+Centro de salud: Centro de Salud Parla
+Matrícula del coche: 5351KVA
+Modelo: Tesla Model 3
+VIN: VSSRIGXHMFG592783
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de un año de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Matilde" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="46" text="Rey Montes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="19868388E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="13/03/1936" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="137" text="Calle del Barquillo 31" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="153" text="Vitoria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="164" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="175" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="39641" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="234" text="matilde_rey-montes1814@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 942 76 95 10" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 642 43 89 74" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="9267363" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="969399103644" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="353" end="378" text="Trabajador de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="413" end="430" text="Izan Vila Pereira" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="435" end="444" text="779981405" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="446" end="478" text="Residente de 2° año en Pediatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="480" end="555" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="557" end="586" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="588" end="593" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="595" end="601" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="603" end="609" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="629" end="639" text="13/08/1937" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="650" end="658" text="19088343" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="676" end="697" text="Centro de Salud Parla" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="719" end="726" text="5351KVA" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="754" end="771" text="VSSRIGXHMFG592783" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="815" end="844" text="ascendencia del medio oriente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="848" end="854" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="881" end="886" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

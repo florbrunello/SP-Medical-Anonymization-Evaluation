@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ramón Ramos Mateos
+DNI: 57659374F
+Fecha de nacimiento: 20/03/1980
+Género: M
+Domicilio: Calle de las Letras 75
+Ciudad: Écija, Málaga, Andalucía
+Código postal: 29025
+Email: ramonmateos198@hotmail.com
+Teléfono fijo: +34 951 79 90 66
+FAX: +34 951 54 98 33
+NHC: 0445270
+NASS: 636882476219
+
+Datos asistenciales.
+Médico: Dr. Luis Miguel Salazar Maldonado. NC 274340788. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 20/10/2015
+Episodio: 40927472
+Centro de salud: Centro de Salud Moratalaz
+Matrícula del coche: 7520IYQ
+Modelo: Chevrolet Silverado
+VIN: VSIDF4SMGGL151801
+
+Informe clínico del paciente:
+Paciente de tez blanca de 35 años de edad, acompañado de su vecina. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Ramón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="46" text="Ramos Mateos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="57659374F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="20/03/1980" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="137" text="Calle de las Letras 75" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="151" text="Écija" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="159" text="Málaga" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="161" end="170" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="186" end="191" text="29025" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="199" end="225" text="ramonmateos198@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 951 79 90 66" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="263" end="279" text="+34 951 54 98 33" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="285" end="292" text="0445270" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="299" end="311" text="636882476219" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="346" end="375" text="Luis Miguel Salazar Maldonado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="380" end="389" text="274340788" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="391" end="435" text="Investigador Principal en Optometría Clínica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="437" end="495" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="497" end="521" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="523" end="528" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="530" end="540" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="542" end="548" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="568" end="578" text="20/10/2015" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="589" end="597" text="40927472" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="615" end="640" text="Centro de Salud Moratalaz" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="662" end="669" text="7520IYQ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="703" end="720" text="VSIDF4SMGGL151801" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="764" end="774" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="778" end="785" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="812" end="818" text="vecina" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

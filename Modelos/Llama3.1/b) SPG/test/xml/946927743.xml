@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Moisés</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Hidalgo Vicente</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">66965330W</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">22/03/1961</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Sagasta 48</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcobendas</TAG>, <TAG TYPE="TERRITORIO">Formentera</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07658</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">moises@ciberisciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 15 54 14</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 771 95 00 56</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0642538</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Soldado</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Santiago Roldan Arroyo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">664323484</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Endocrinólogo Especialista en Diabetes</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/10/2000</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Delicias</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">39 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermana</TAG>. Se realizó un expediente con <TAG TYPE="URL_WEB">http://example-hospital.org//24110517O</TAG>.
+  </TEXT>
+</MEDDOCAN>

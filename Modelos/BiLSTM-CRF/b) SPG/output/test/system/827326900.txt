@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Aitor Sierra Manzano
+DNI: 60804925D
+Fecha de nacimiento: 05/05/2009
+Género: Hombre
+Domicilio: Calle de Covarrubias 55, 10B
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52241
+Email: aitorsierra_manzano@aol.com
+Teléfono fijo: +34 956 09 68 03
+Teléfono móvil: +34 756 58 38 98
+NHC: 7791366
+NASS: 132605996404
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dra. Adriana Román Carrillo. NC 884723911. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/05/2023
+Episodio: 68840571
+Centro de salud: Centro de Salud San Blas
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 14 años de edad, acompañado de su hermana. El servidor para envío de información desde cual el usuario se comunica es smtp://example-research.net. Se registró una sesión de firma biométrica, el código obtenido para revisarla es WM837VZU514. 

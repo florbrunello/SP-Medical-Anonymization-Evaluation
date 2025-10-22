@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cesar</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Belmonte Justo</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7345684</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">75 65097634 70</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Ada. Nstra Señora de Montserrat, 6, 2, A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Barcelona</TAG>.
+    CP: <TAG TYPE="TERRITORIO">08916</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/05/1968</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">06/04/2015</TAG>.
+    Servicio: <TAG TYPE="HOSPITAL">Urgencias</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">4189356</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Montserrat</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Arzoz Fàbregas</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">08 08 57410</TAG>.
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG>, con antecedente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síndrome de Down</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">retraso mental grave</TAG>, que acudió a <TAG TYPE="HOSPITAL">urgencias</TAG> de nuestro hospital por presentar <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal difuso</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">distensión abdominal progresiva</TAG> de 24 horas de evolución. Presentaba una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estreñimiento</TAG> y ausencia de deposiciones en los últimos 2 días. 
+    Antecedentes: Como antecedente de interés, el paciente había presentado, 13 años antes, un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vólvulo gástrico</TAG> que fue intervenido de urgencia, realizándose una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gastropexia quirúrgica</TAG>. Durante el acto operatorio se evidenció un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolicocolon</TAG>, con ausencia de ligamentos de fijación, pero no se realizó ningún procedimiento sobre el mismo.
+    Exploración física: En la exploración física actual, únicamente destacaba la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">distensión</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">timpanismo abdominales</TAG>, acompañados de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal difuso</TAG>. El tacto rectal no consiguió demostrar heces en ampolla rectal.
+    Pruebas complementarias: El <TAG TYPE="HOSPITAL">hemograma</TAG> y la <TAG TYPE="HOSPITAL">bioquímica</TAG> fueron normales. La <TAG TYPE="HOSPITAL">radiografía simple de abdomen</TAG> demostró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dilatación masiva del colon proximal</TAG>. Dicha distensión también pudo apreciarse en la <TAG TYPE="HOSPITAL">tomografía computerizada</TAG> (TC). El <TAG TYPE="HOSPITAL">enema de bario</TAG> realizado posteriormente demostró la típica imagen en "pico de pájaro". Aunque con dificultad, el bario pasaba hacia el segmento dilatado del ángulo esplénico. Se realizó una <TAG TYPE="HOSPITAL">colonoscopia terapéutica</TAG>, con la que se consiguió desvolvular el segmento colónico.
+    Evolución: El paciente eliminó una gran cantidad de heces y gases, permaneciendo asintomático a las 24-48 horas, por lo que recibió el alta hospitalaria, siendo remitido al <TAG TYPE="HOSPITAL">servicio de cirugía</TAG>. Dos días más tarde, reaparecieron los síntomas y fue diagnosticado de recidiva de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vólvulo del ángulo esplénico del colon</TAG>. Se repitió la <TAG TYPE="HOSPITAL">colonoscopia</TAG>, resolviéndose nuevamente el proceso urgente. El paciente se sometió a intervención quirúrgica programada, realizándose <TAG TYPE="OTROS_SUJETO_ASISTENCIA">resección del segmento redundante del colon</TAG>. El postoperatorio transcurrió sin incidencias.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Montserrat</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Arzoz Fàbregas</TAG> <TAG TYPE="HOSPITAL">Servicio de Urología</TAG>. <TAG TYPE="HOSPITAL">Hospital Universitari Germans Trias i Pujol</TAG>. <TAG TYPE="CALLE">Badalona</TAG>. <TAG TYPE="CALLE">Ctra. del Canyet, s/n - 08916</TAG> <TAG TYPE="TERRITORIO">Badalona</TAG> (<TAG TYPE="TERRITORIO">Barcelona</TAG>) Tel.: <TAG TYPE="NUMERO_TELEFONO">934 651 200</TAG> E-mail autor: <TAG TYPE="CORREO_ELECTRONICO">37031maf@comb.es</TAG>
+  </TEXT>
+</MEDDOCAN>

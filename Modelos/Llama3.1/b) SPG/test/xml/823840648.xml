@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mikel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Guerra Serra</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">18091840V</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/04/1931</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Gobernador 19</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Béjar</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">17739</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mikel@icloud.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 30 88 41</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 772 64 76 53</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5438852</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">007767192192</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Bombero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Teresa Mesa Soto</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">576487501</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">11/04/1993</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">96968853</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario 12 de Octubre</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">62 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">pareja</TAG>.
+  </TEXT>
+</MEDDOCAN>

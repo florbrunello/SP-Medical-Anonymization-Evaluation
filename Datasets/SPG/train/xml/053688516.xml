@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gonzalo Caballero Carrillo
+DNI: 88396571G
+Fecha de nacimiento: 22/01/1932
+Género: Masculino
+Domicilio: Calle de Ferraz 92
+Ciudad: Móstoles, Toledo, Castilla-La Mancha
+Código postal: 45139
+Email: caballero_carrillo@us.es
+Teléfono fijo: +34 925 53 29 60
+Teléfono móvil: +34 725 03 32 78
+NHC: 1029294
+NASS: 055361267814
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dr. Rubén Alonso Rubio. NC 809669086. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/06/1951
+Episodio: 10814985
+Hospital: Hospital Universitario Central de Asturias
+
+Informe clínico del paciente:
+Paciente vegano de 19 años de edad, acompañado de su tío. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Gonzalo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="54" text="Caballero Carrillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="88396571G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="22/01/1932" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="119" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="131" end="149" text="Calle de Ferraz 92" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="166" text="Móstoles" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="174" text="Toledo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="194" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="45139" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="247" text="caballero_carrillo@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="263" end="279" text="+34 925 53 29 60" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="296" end="312" text="+34 725 03 32 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="318" end="325" text="1029294" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="332" end="344" text="055361267814" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="366" end="397" text="Operador de Maquinaria Agrícola" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="432" end="450" text="Rubén Alonso Rubio" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="455" end="464" text="809669086" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="466" end="505" text="Investigador Clínico en Síndromes Raros" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="507" end="582" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="584" end="613" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="615" end="620" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="622" end="628" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="630" end="636" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="656" end="666" text="15/06/1951" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="677" end="685" text="10814985" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="696" end="738" text="Hospital Universitario Central de Asturias" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="779" end="785" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="789" end="796" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="823" end="826" text="tío" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

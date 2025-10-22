@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Lara Santamaria Menendez
+DNI: 94964534H
+Fecha de nacimiento: 15/01/1978
+Género: M
+Domicilio: Calle de la Virgen de los Peligros 30
+Ciudad: Talavera de la Reina, Huelva, Andalucía
+Código postal: 21604
+Email: lara-santamaria.menendez@us.es
+Teléfono fijo: +34 959 52 24 69
+FAX: +34 959 44 71 49
+NHC: 7572521
+NASS: 238545885090
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dra. Inés Maldonado Vargas. NC 202090240. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 23/12/1989
+Episodio: 36369999
+Centro de salud: Centro de Salud Barajas
+
+Informe clínico del paciente:
+Paciente discapacitado de 11 años de edad, acompañado de su tía. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es BG802FKC445. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Lara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="52" text="Santamaria Menendez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="94964534H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="15/01/1978" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="158" text="Calle de la Virgen de los Peligros 30" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="167" end="187" text="Talavera de la Reina" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="189" end="195" text="Huelva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="197" end="206" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="222" end="227" text="21604" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="235" end="265" text="lara-santamaria.menendez@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="281" end="297" text="+34 959 52 24 69" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="303" end="319" text="+34 959 44 71 49" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="325" end="332" text="7572521" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="339" end="351" text="238545885090" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="373" end="404" text="Operador de Maquinaria Agrícola" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="660" end="670" text="23/12/1989" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="681" end="689" text="36369999" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="707" end="730" text="Centro de Salud Barajas" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="771" end="784" text="discapacitado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="788" end="795" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="822" end="825" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="913" end="924" text="BG802FKC445" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

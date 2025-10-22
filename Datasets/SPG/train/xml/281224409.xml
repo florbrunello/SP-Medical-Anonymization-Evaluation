@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Francisco Manuel Lozano Fernández
+DNI: 63132533V
+Fecha de nacimiento: 21/11/1992
+Género: Masculino
+Domicilio: Paseo de la Castellana 56, 6Y
+Ciudad: San Sebastián, Badajoz, Extremadura
+Código postal: 06181
+Email: jZyzn@ual.es
+Teléfono fijo: +34 924 88 28 12
+Teléfono móvil: +34 624 60 45 25
+NHC: 3081701
+NASS: 364254061250
+
+Datos asistenciales.
+Médico: Dr. Óscar Montoya Pascual. NC 694860818. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/05/2009
+Episodio: 39858779
+Centro de salud: Centro de Salud Carabanchel
+
+Informe clínico del paciente:
+Paciente discapacitado de 16 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="44" text="Francisco Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="45" end="61" text="Lozano Fernández" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="67" end="76" text="63132533V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="98" end="108" text="21/11/1992" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="117" end="126" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="138" end="167" text="Paseo de la Castellana 56, 6Y" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="176" end="189" text="San Sebastián" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="191" end="198" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="200" end="211" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="227" end="232" text="06181" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="240" end="252" text="jZyzn@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="268" end="284" text="+34 924 88 28 12" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="301" end="317" text="+34 624 60 45 25" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="323" end="330" text="3081701" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="337" end="349" text="364254061250" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="384" end="405" text="Óscar Montoya Pascual" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="410" end="419" text="694860818" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="421" end="456" text="Neuropsicólogo Clínico Investigador" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="458" end="528" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="530" end="559" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="561" end="566" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="568" end="574" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="576" end="582" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="602" end="612" text="05/05/2009" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="623" end="631" text="39858779" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="649" end="676" text="Centro de Salud Carabanchel" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="717" end="730" text="discapacitado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="734" end="741" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

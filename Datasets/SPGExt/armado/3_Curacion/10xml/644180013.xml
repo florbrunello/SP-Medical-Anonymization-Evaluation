@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marina</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">González</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Trujillo</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">85822367Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/06/1965</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Huertas 81, 9H</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Teruel</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">24956</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">marina.gonzalez.trujillo2013@imibic.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 987 32 09 07</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 787 51 31 78</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9870448</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">105468731253</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Granjero</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">David</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Santana</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Andres</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">731795254</TAG>. Residente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3°</TAG> año en <TAG TYPE="PROFESION">Gastroenterología</TAG>.
+    Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). <TAG TYPE="DIREC_PROT_INTERNET">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/03/2008</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic San Carlos</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">42 años</TAG> de edad, de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">descendencia africana</TAG>, que acude al servicio de urgencias con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal crónico</TAG> y pérdida de peso en los últimos <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 meses</TAG>. La exploración física revela: <TAG TYPE="FECHAS">Tª 37,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 90 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración abdominal se palpa una masa en el hígado de aproximadamente <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 cm</TAG> de diámetro, sin dolor a la palpación. Los datos analíticos muestran los siguientes resultados: Hemograma: <TAG TYPE="FECHAS">Hb 13,2 g/dl</TAG>; <TAG TYPE="FECHAS">leucocitos 8.500/mm3</TAG> (<TAG TYPE="FECHAS">neutrófilos 55%</TAG>); <TAG TYPE="FECHAS">plaquetas 180.000/ mm3</TAG>. VSG: <TAG TYPE="FECHAS">20 mm 1ª hora</TAG>. Coagulación: <TAG TYPE="FECHAS">TQ 90%</TAG>; <TAG TYPE="FECHAS">TTPA 25,8 seg</TAG>. Bioquímica: <TAG TYPE="FECHAS">Glucosa 90 mg/dl</TAG>; <TAG TYPE="FECHAS">urea 20 mg/dl</TAG>; <TAG TYPE="FECHAS">creatinina 1,2 mg/dl</TAG>; <TAG TYPE="FECHAS">sodio 135 mEq/l</TAG>; <TAG TYPE="FECHAS">potasio 3,5 mEq/l</TAG>; <TAG TYPE="FECHAS">GOT 25 U/l</TAG>; <TAG TYPE="FECHAS">GPT 30 U/l</TAG>; <TAG TYPE="FECHAS">GGT 40 U/l</TAG>; <TAG TYPE="FECHAS">fosfatasa alcalina 120 U/l</TAG>; <TAG TYPE="FECHAS">calcio 9,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (<TAG TYPE="PROFESION">Ecografía hepática</TAG>, <TAG TYPE="PROFESION">TAC abdominal</TAG>) que muestran un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumor hepático</TAG> de aproximadamente <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 cm</TAG> de diámetro, sin signos de metástasis. El diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumor hepático primario</TAG> se establece y se instaura tratamiento con <TAG TYPE="PROFESION">cirugía hepática</TAG>. El paciente se somete a una resección hepática parcial y se le prescribe un tratamiento adyuvante con <TAG TYPE="PROFESION">quimioterapia</TAG>.
+    Evolución y comentarios:
+    El paciente se somete a una serie de revisiones postoperatorias y se le prescribe un tratamiento de seguimiento con <TAG TYPE="PROFESION">quimioterapia</TAG>. El paciente muestra una buena respuesta al tratamiento y se le diagnostica una buena <TAG TYPE="OTROS_SUJETO_ASISTENCIA">prognosis</TAG>.
+    Remitido por:
+    El paciente fue remitido por el <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">David</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Santana</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Andres</TAG>, Residente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3°</TAG> año en <TAG TYPE="PROFESION">Gastroenterología</TAG>, del <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>.
+    </TEXT>
+</MEDDOCAN>

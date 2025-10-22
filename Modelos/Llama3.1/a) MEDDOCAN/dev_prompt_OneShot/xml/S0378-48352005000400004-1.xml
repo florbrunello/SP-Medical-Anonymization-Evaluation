@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Manuel</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Garcia Espinosa</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">257567</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">07 81545702 87</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Cronista Juan de la Torre</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Úbeda, Jaén</TAG>.
+    CP: <TAG TYPE="TERRITORIO">23400</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/05/1969</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">32 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">25/05/2001</TAG>.
+    Servicio: <TAG TYPE="PROFESION">urgencias</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mariano</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Urdiales Viedma</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">23 28 64841</TAG>.
+    Motivo de ingreso: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">32 años</TAG>, de edad, acude a <TAG TYPE="PROFESION">urgencias</TAG> del <TAG TYPE="HOSPITAL">hospital</TAG>, en febrero de 2000, por presentar dolor en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hombro izquierdo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">columna lumbar</TAG>.
+    Exploración física: El examen físico y analítica de rutina fue irrelevante. 
+    Resumen de pruebas complementarias: El estudio radiológico mostró <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lesiones óseas líticas generalizadas</TAG>. <TAG TYPE="PROFESION">TAC</TAG> torácico abdominal no muestra imágenes sugerentes de neoplasia a nivel visceral. <TAG TYPE="PROFESION">Gastroscopia</TAG>, enema opaco, ecografía abdominal, testicular y prostática normales. A fin de establecer un diagnóstico, se practicó una <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">biopsia de médula ósea</TAG>, en cresta ilíaca. Microscópicamente, la médula ósea presentaba una sustitución parcial de su celularidad habitual, por una neoplasia constituida por nidos epiteliales, en un estroma fibroso en unas zonas, mientras en otras áreas dichos nidos están rodeados por la celularidad habitual de la médula ósea y están formados por células poligonales, con núcleos redondeados u ovales, de aspecto blando sin nucleolos prominentes y mitosis muy escasas. El estudio inmunohistoquímico mostró negatividad a receptores estrogénicos, proteína S-100, HMB45, p53, bc1-2 y sinaptofisina. Positividad en el 25% de los núcleos con MIB-1 y en el 90% de los núcleos con p27 y positividad difusa y fuerte a receptores de progesterona, cromogranina A, enolasa neuronal específica, antígeno carcinoembrionario y en menos del 50% de las células a calcitonina, no se detectó amiloide con tinción de Rojo Congo. Con estos elementos se emitió un diagnóstico compatible con <TAG TYPE="IDENTIF_BIOMETRICOS">metástasis ósea de Carcinoma Medular de Tiroides</TAG>. La determinación sérica de <TAG TYPE="OTRO_NUMERO_IDENTIF">calcitonina</TAG> fue de 3.500 pg/ml (normal de 15-100) y de <TAG TYPE="OTRO_NUMERO_IDENTIF">CEA</TAG> de 231 ng/ml (normal de 0,01-5), siendo los niveles séricos de <TAG TYPE="OTRO_NUMERO_IDENTIF">Ca 125</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">Ca 19.9</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">PSA</TAG> normales.
+    Evolución y comentarios: Dadas las malas condiciones físicas del paciente, éste fue enviado a <TAG TYPE="PROFESION">Oncología</TAG> de nuestro <TAG TYPE="HOSPITAL">hospital</TAG> de referencia en <TAG TYPE="TERRITORIO">Jaén</TAG>, donde se le encontró ecográficamente un pequeño <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nódulo tiroideo sólido</TAG>, con calcio, en lóbulo izquierdo, que no se extirpa. Investigada la familia no se han encontrado antecedentes de patología tiroidea.
+    Se le administra una primera línea de <TAG TYPE="PROFESION">quimioterapia</TAG> (CDDP-ADR-VP16) durante 6 meses, sin respuesta. También se da <TAG TYPE="PROFESION">radioterapia</TAG> paliativa a la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">columna dorso lumbar</TAG>. A principios de febrero de 2001, se inicia una segunda línea de <TAG TYPE="PROFESION">quimioterapia</TAG>, (CTX-DTIC), que se suspende a los pocos días por mal estado del paciente, progresión de metástasis a nivel óseo y aparición de metástasis pulmonar. El paciente fallece el 21 de febrero de 2002. La familia no autoriza la <TAG TYPE="PROFESION">necropsia</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mariano</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Urdiales Viedma</TAG>. <TAG TYPE="PROFESION">Unidad de Anatomía Patológica</TAG> <TAG TYPE="HOSPITAL">Hospital San Juan de la Cruz</TAG> E-<TAG TYPE="TERRITORIO">23400</TAG> <TAG TYPE="TERRITORIO">Úbeda</TAG> (<TAG TYPE="TERRITORIO">Jaén</TAG>) E-mail: <TAG TYPE="CORREO_ELECTRONICO">mariano.urdiales.sspa@juntadeandulucia.es</TAG>
+  </TEXT>
+</MEDDOCAN>

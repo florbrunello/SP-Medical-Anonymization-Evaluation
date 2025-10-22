@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Héctor Velasco Márquez
+DNI: 29760288J
+Fecha de nacimiento: 03/02/1934
+Género: M
+Domicilio: Calle de Áncora 8
+Ciudad: Getafe, Madrid, Madrid
+Código postal: 28595
+Email: marquez937@icloud.com
+Teléfono fijo: +34 911 87 81 85
+FAX: +34 916 99 53 46
+NHC: 3323545
+NASS: 305025629221
+Condición de riesgo: Repartidor
+
+Datos asistenciales.
+Médico: Dra. Susana Pereira Guzman. NC 013696516. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/05/1998
+Episodio: 38076690
+Centro de salud: Centro de Salud Arganda del Rey
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 64 años de edad, acompañado de su esposa. Se registró una sesión de huella dactilar, el código obtenido para revisarla es IF361WSE120. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Héctor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Velasco Márquez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="29760288J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="03/02/1934" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="136" text="Calle de Áncora 8" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="151" text="Getafe" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="159" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="161" end="167" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="183" end="188" text="28595" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="196" end="217" text="marquez937@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="233" end="249" text="+34 911 87 81 85" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="255" end="271" text="+34 916 99 53 46" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="277" end="284" text="3323545" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="291" end="303" text="305025629221" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="325" end="335" text="Repartidor" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="614" end="624" text="14/05/1998" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="635" end="643" text="38076690" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="661" end="692" text="Centro de Salud Arganda del Rey" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="733" end="754" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="758" end="765" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="792" end="798" text="esposa" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="880" end="891" text="IF361WSE120" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

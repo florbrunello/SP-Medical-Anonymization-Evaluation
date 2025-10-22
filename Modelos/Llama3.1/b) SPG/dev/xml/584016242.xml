@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iker</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vega Escudero</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">49602141L</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/01/1979</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Segovia 56, 6O</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Elche</TAG>, <TAG TYPE="TERRITORIO">Soria</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">42889</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ikervegaescudero@ioba.med.uva.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 975 21 06 47</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 975 03 13 03</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4379449</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">202966789140</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Albañil</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Remedios Mateo Rodríguez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">822379377</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">02/05/1995</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">25238074</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Leganés</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1369JQZ</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Toyota RAV4</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSZPAKKJ2XF761526</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia nórdica o escandinava</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">16 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

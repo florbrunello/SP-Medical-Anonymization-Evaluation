@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Álvaro Santamaria Miranda
+DNI: 33449079H
+Fecha de nacimiento: 03/09/1994
+Género: H
+Domicilio: Calle de Amor de Dios 39, 4T
+Ciudad: Langreo, Ibiza, Islas Baleares
+Código postal: 07733
+Email: miranda@aol.com
+Teléfono fijo: +34 971 85 92 67
+FAX: +34 971 94 05 48
+NHC: 2369130
+NASS: 678859038469
+Condición de riesgo: Trabajador Industrial
+
+Datos asistenciales.
+Médico: Dra. Rosa Iglesias Montero. NC 081132438. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/01/2016
+Episodio: 12198038
+Hospital: Complejo Hospitalario Universitario de Lugo
+Matrícula del coche: 1573RAK
+Modelo: Ram 1500
+VIN: VSP7CG4DHTM474063
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 21 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Álvaro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="53" text="Santamaria Miranda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="33449079H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="03/09/1994" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="150" text="Calle de Amor de Dios 39, 4T" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="166" text="Langreo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="173" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="189" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="07733" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="233" text="miranda@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 971 85 92 67" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="271" end="287" text="+34 971 94 05 48" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="293" end="300" text="2369130" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="307" end="319" text="678859038469" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="341" end="362" text="Trabajador Industrial" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="652" end="662" text="11/01/2016" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="673" end="681" text="12198038" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="692" end="735" text="Complejo Hospitalario Universitario de Lugo" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="757" end="764" text="1573RAK" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="787" end="804" text="VSP7CG4DHTM474063" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="848" end="877" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="881" end="888" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

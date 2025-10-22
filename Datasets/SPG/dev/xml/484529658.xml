@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Carlos Rivero Guerra
+DNI: 66377870P
+Fecha de nacimiento: 20/04/1926
+Género: Masculino
+Domicilio: Calle de Áncora 22
+Ciudad: Plasencia, La Rioja, La Rioja
+Código postal: 26583
+Email: juancarlos@hotmail.com
+Teléfono fijo: +34 941 63 74 38
+Teléfono móvil: +34 741 62 16 09
+NHC: 2019538
+NASS: 966739967889
+Condición de riesgo: Trabajador de Servicios de Limpieza
+
+Datos asistenciales.
+Médico: Dr. Aarón Mora Ortega. NC 522124633. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/11/2015
+Centro de salud: Centro de Salud Arganda del Rey
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 89 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="Juan Carlos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="53" text="Rivero Guerra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="66377870P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="20/04/1926" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="118" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="130" end="148" text="Calle de Áncora 22" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="166" text="Plasencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="176" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="186" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="26583" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="237" text="juancarlos@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 941 63 74 38" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="286" end="302" text="+34 741 62 16 09" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="308" end="315" text="2019538" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="322" end="334" text="966739967889" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="356" end="391" text="Trabajador de Servicios de Limpieza" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="426" end="443" text="Aarón Mora Ortega" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="448" end="457" text="522124633" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="459" end="493" text="Residente de 4° año en Cardiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="495" end="581" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="583" end="612" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="614" end="619" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="621" end="627" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="629" end="635" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="655" end="665" text="17/11/2015" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="683" end="714" text="Centro de Salud Arganda del Rey" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="758" end="782" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="786" end="793" text="89 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="820" end="827" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

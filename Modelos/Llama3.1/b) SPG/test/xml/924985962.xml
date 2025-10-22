@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carmen</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Herrero Giménez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">35217769P</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/04/1995</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Génova 17</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Onda</TAG>, <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">38531</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">carmen-herrerogimenez@isciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 922 16 91 07</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 722 30 03 94</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4885945</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">416217339812</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Repartidor</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sandra Durán Cruz</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">935795080</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardióloga de Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/09/2007</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">41726908</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Barajas</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2295HKW</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Chrysler Pacifica</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSXS4NUVUXH483591</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">usuario de drogas</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">12 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermana</TAG>.
+  </TEXT>
+</MEDDOCAN>

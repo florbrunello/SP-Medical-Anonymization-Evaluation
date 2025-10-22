@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ignacio</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iglesias Garay</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8975674</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">57 14365706 31</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Virgen de la Cabeza, 62,3 A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Granada</TAG>.
+    CP: <TAG TYPE="TERRITORIO">18014</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/09/1995</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">16/06/2016</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carmen</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Miguel Cabrera</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">18 18 54789</TAG>.
+    Informe clínico del paciente: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> de edad que acude a urgencias, con dolor lumbar y fiebre. Al paciente se le realizan urocultivos, hemocultivos, y estudio de marcadores tumorales (pruebas que resultan negativas), por tomografía axial computerizada (TAC) se le detecta una masa tumoral que afecta al polo superior del riñón derecho. Tras lo cual se realiza la resección quirúrgica del tumor.
+    La pieza de resección quirúrgica estaba constituida por una masa tumoral de 14 cm de diámetro mayor, con infiltración del polo superior y segmento medio renales, y afectación del seno y sistema pielocalicial. Se observó presencia de invasión vascular linfática tumoral en el tejido renal y grasa adyacente. Metástasis medular de glándula suprarrenal, invasión de la grasa perirrenal y nódulos de la cadena interaórtico cava.
+    Mediante la realización de técnicas de inmunohistoquímica sobre secciones de parafina con diferentes anticuerpos monoclonales (Dako) se encontró el siguiente patrón de tinción compatible con un tumor desmoplásico de células pequeñas y redondas: citoqueratinas 8, 18 y 19 (+), proteína ácida fibrilar glial (-), desmina (+), vimentina (+), sinaptofisina (+), cromogranina (-), actina (débilmente +), y S-100 (débilmente +).
+    Se realizó igualmente el estudio citogenético de la translocación t(11;22) (p13;q12) que implica a los genes EWS1 y WT1 mediante hibridación in situ fluorescente (FISH), para ello se utilizó el kit LSI EWSR1 (22q12) Dual Color Break Apart Rearrangement Probe (VYSIS). El cual está constituido por una mezcla de dos sondas que flanquean completamente el locus del gen EWS1, la sonda más centromérica está marcada con Spectrum-Orange y las más telomérica con Spectrum-Green. Como resultado de este diseño cualquier translocación en la que esté implicado el locus EWS1 produce la separación de la señal de fusión rojo-verde en una señal roja y otra verde. El patrón observado en nuestro caso se corresponde con el patrón de normalidad, con presencia de dos señales de fusión roja-verde por cada célula tumoral, confirmando por tanto la ausencia de translocación en el paciente.
+    El paciente fue tratado con tres ciclos de CAV, cuatro ciclos de Ifosfamida/VP-16, y posteriormente CTX, ADR, y VCR. Como resultado de este tratamiento no se detecta infiltración tumoral en médula ósea. Sin embargo posteriormente se le detectó por TAC reaparición del tumor y metástasis hepática. Tras lo cual no se produce respuesta al tratamiento y el paciente fallece a los dos años del diagnóstico inicial.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Carmen</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Miguel Cabrera</TAG> <TAG TYPE="HOSPITAL">Hospital Universitario Virgen de las Nieves</TAG> <TAG TYPE="SERVICIO">Servicio de Anatomía Patológica</TAG> <TAG TYPE="EDIFICIO">Edificio de Gobierno - 4ª Planta</TAG> <TAG TYPE="DIRECION">Avenida Fuerzas Armadas, 2</TAG> <TAG TYPE="TERRITORIO">E-18014 Granada</TAG> <TAG TYPE="CORREO_ELECTRONICO">mcabrm@fundacionhvn.org</TAG>
+  </TEXT>
+</MEDDOCAN>

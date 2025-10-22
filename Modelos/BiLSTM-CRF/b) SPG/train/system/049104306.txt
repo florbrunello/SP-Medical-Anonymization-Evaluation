@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Eva María Rey Herrero
+DNI: 41966989Q
+Fecha de nacimiento: 24/07/1977
+Género: Mujer
+Domicilio: Calle de Lope de Rueda 29, 1Q
+Ciudad: Torrejón de Ardoz, Santa Cruz de Tenerife, Canarias
+Código postal: 38771
+Email: evamaria.rey@ub.edu
+Teléfono fijo: +34 922 48 71 46
+Teléfono móvil: +34 722 12 87 99
+NHC: 7413249
+Condición de riesgo: Químico
+
+Datos asistenciales.
+Médico: Dra. Andrea Cuesta Ortiz. NC 353468184. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 06/11/1989
+Episodio: 89390411
+Hospital: Complejo Hospitalario Universitario de A Coruña
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 12 años de edad, acompañado de su padre. Se realizó un expediente con URL http://example-research.net//68789018T. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es KV158GCX672. 

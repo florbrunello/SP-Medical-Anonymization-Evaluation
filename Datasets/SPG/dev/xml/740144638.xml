@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Joan Salazar Montes
+DNI: 45672076X
+Fecha de nacimiento: 08/03/1948
+Género: Varón
+Domicilio: Calle del Rollo 82, 1S
+Ciudad: Liria, Sevilla, Andalucía
+Código postal: 41415
+Email: joan@udc.es
+Teléfono fijo: +34 954 55 69 64
+Teléfono móvil: +34 754 21 38 08
+NHC: 0537744
+NASS: 709291308886
+Condición de riesgo: Operador de Máquina
+
+Datos asistenciales.
+Médico: Dr. Francisco José Rodríguez Varela. NC 740849411. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/09/1971
+Episodio: 59228142
+Centro de salud: Centro de Salud Delicias
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 23 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Joan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="47" text="Salazar Montes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="45672076X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="08/03/1948" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="108" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="142" text="Calle del Rollo 82, 1S" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="156" text="Liria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="165" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="167" end="176" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="192" end="197" text="41415" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="205" end="216" text="joan@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="232" end="248" text="+34 954 55 69 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="265" end="281" text="+34 754 21 38 08" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="287" end="294" text="0537744" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="301" end="313" text="709291308886" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="335" end="354" text="Operador de Máquina" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="389" end="420" text="Francisco José Rodríguez Varela" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="425" end="434" text="740849411" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="436" end="470" text="Residente de 3° año en Psiquiatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="472" end="542" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="544" end="573" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="575" end="580" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="582" end="588" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="590" end="596" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="616" end="626" text="20/09/1971" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="637" end="645" text="59228142" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="663" end="687" text="Centro de Salud Delicias" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="728" end="749" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="753" end="760" text="23 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

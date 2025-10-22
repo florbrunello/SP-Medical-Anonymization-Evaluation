@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Salvador Santiago Bermudez
+DNI: 18989163H
+Fecha de nacimiento: 06/10/1973
+Género: M
+Domicilio: Calle de la Reina 26
+Ciudad: Alcalá de Henares, Toledo, Castilla-La Mancha
+Código postal: 45332
+Email: salvadorsantiago@isciii.es
+Teléfono fijo: +34 925 50 46 80
+Teléfono móvil: +34 625 03 60 89
+NHC: 8313635
+Condición de riesgo: Carpintero
+
+Datos asistenciales.
+Médico: Dr. Isaac Rodríguez Gracia. NC 675859254. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 09/01/2025
+Episodio: 13588992
+Hospital: Hospital General Universitario Reina Sofía
+Matrícula del coche: 2160ZMH
+Modelo: Jeep Wrangler
+VIN: VSV6M529X3F183904
+
+Informe clínico del paciente:
+Paciente de tez blanca de 51 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Salvador" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="54" text="Santiago Bermudez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="18989163H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="06/10/1973" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="111" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="143" text="Calle de la Reina 26" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="169" text="Alcalá de Henares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="177" text="Toledo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="197" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="45332" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="252" text="salvadorsantiago@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="268" end="284" text="+34 925 50 46 80" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="301" end="317" text="+34 625 03 60 89" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="323" end="330" text="8313635" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="352" end="362" text="Carpintero" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="397" end="419" text="Isaac Rodríguez Gracia" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="424" end="433" text="675859254" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="435" end="478" text="Cardiólogo de Unidad de Cuidados Intensivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="480" end="552" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="554" end="577" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="579" end="584" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="586" end="592" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="594" end="600" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="620" end="630" text="09/01/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="641" end="649" text="13588992" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="660" end="702" text="Hospital General Universitario Reina Sofía" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="724" end="731" text="2160ZMH" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="759" end="776" text="VSV6M529X3F183904" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="820" end="830" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="834" end="841" text="51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Adolfo Parra Arias
+DNI: 13860861A
+Fecha de nacimiento: 07/05/1987
+Género: Hombre
+Domicilio: Calle del Sombrerete 55, 3M
+Ciudad: Ponferrada, Salamanca, Castilla y León
+Código postal: 37975
+Email: adolfoarias@h12o.es
+Teléfono fijo: +34 923 68 43 91
+Teléfono móvil: +34 623 25 05 18
+NHC: 9020942
+NASS: 753082335119
+Condición de riesgo: Limpiador
+
+Datos asistenciales.
+Médico: Dr. Juan Ramón Durán Gutiérrez. NC 893409324. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/11/2013
+Episodio: 51014091
+Hospital: Hospital Universitario Rey Juan Carlos de Mostoles
+
+Informe clínico del paciente:
+Paciente vegetariano de 26 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.213.242, con dirección MAC 5B:D5:05:5B:16:32. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Adolfo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="46" text="Parra Arias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="13860861A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="07/05/1987" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="108" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="147" text="Calle del Sombrerete 55, 3M" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="166" text="Ponferrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="177" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="194" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="37975" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="242" text="adolfoarias@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="258" end="274" text="+34 923 68 43 91" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="291" end="307" text="+34 623 25 05 18" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="313" end="320" text="9020942" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="327" end="339" text="753082335119" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="361" end="370" text="Limpiador" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="405" end="431" text="Juan Ramón Durán Gutiérrez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="436" end="445" text="893409324" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="447" end="484" text="Investigador Clínico en Epidemiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="486" end="570" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="572" end="601" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="603" end="608" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="610" end="616" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="618" end="624" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="644" end="654" text="18/11/2013" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="665" end="673" text="51014091" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="684" end="734" text="Hospital Universitario Rey Juan Carlos de Mostoles" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="775" end="786" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="790" end="797" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="824" end="829" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="938" end="955" text="5B:D5:05:5B:16:32" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

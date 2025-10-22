@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jesús María Blazquez Vargas</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">69023541N</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/01/1982</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Cabeza 71</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Zamora</TAG>, <TAG TYPE="TERRITORIO">La Rioja</TAG>, <TAG TYPE="TERRITORIO">La Rioja</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">26210</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jesusmariavargas@uca.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 941 95 12 02</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 641 22 67 47</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8295544</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Operador de Maquinaria Agrícola</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Darío Padilla Santiago</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 498830259</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">11/09/1982</TAG> (revisar esta fecha).
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">03454373</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuencarral</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">8085OUP</TAG>.
+    Modelo: <TAG TYPE="OTRO_SUJETO_ASISTENCIA">Hyundai Elantra</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSXRR2ZR0PI620408</TAG>.
+    Informe clínico del paciente:
+    Paciente no fumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 meses</TAG> de edad, acompañado de su hermano. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">QM217TDV270</TAG>.
+  </TEXT>
+</MEDDOCAN>

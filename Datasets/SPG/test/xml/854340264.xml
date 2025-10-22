@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Eric Salas Simon
+DNI: 63172436S
+Fecha de nacimiento: 09/05/1962
+Género: Hombre
+Domicilio: Calle de la Magdalena 46
+Ciudad: Onda, Orense, Galicia
+Código postal: 32312
+Email: simon@ciberned.es
+Teléfono fijo: +34 988 18 20 35
+Teléfono móvil: +34 688 95 72 52
+NHC: 5780294
+NASS: 144049300233
+Condición de riesgo: Farmacéutico
+
+Datos asistenciales.
+Médico: Dr. Guillermo Jiménez Herrera. NC 839304702. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/08/2017
+Episodio: 46774782
+Hospital: Hospital Universitario de Crúces
+Matrícula del coche: 7597WOK
+Modelo: Nissan Altima
+VIN: VST53TRAGXW481740
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 55 años de edad, acompañado de su abuela. Se registró una sesión de huella dactilar, el código obtenido para revisarla es DC926XGM797. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Eric" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="44" text="Salas Simon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="63172436S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="09/05/1962" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="106" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="142" text="Calle de la Magdalena 46" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="155" text="Onda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="163" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="172" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="188" end="193" text="32312" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="201" end="218" text="simon@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="234" end="250" text="+34 988 18 20 35" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="267" end="283" text="+34 688 95 72 52" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="289" end="296" text="5780294" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="303" end="315" text="144049300233" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="337" end="349" text="Farmacéutico" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="384" end="409" text="Guillermo Jiménez Herrera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="414" end="423" text="839304702" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="425" end="459" text="Residente de 3° año en Psiquiatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="461" end="531" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="533" end="562" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="564" end="569" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="571" end="577" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="579" end="585" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="605" end="615" text="01/08/2017" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="626" end="634" text="46774782" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="645" end="677" text="Hospital Universitario de Crúces" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="699" end="706" text="7597WOK" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="734" end="751" text="VST53TRAGXW481740" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="795" end="823" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="827" end="834" text="55 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="861" end="867" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T33" start="949" end="960" text="DC926XGM797" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

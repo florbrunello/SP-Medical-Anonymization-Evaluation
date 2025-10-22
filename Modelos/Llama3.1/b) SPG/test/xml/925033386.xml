@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aarón</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Bermudez Aguilar</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">82585725Q</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">14/06/1935</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Bailén 83, 10O</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">San Fernando</TAG>, <TAG TYPE="TERRITORIO">Mallorca</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">07835</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">aaron@icloud.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 07 03 48</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 671 37 13 20</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5770514</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">919300362146</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Laboratorio</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Christian Márquez Ortiz</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">391733277</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">14/05/1984</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Severo Ochoa</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">48 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

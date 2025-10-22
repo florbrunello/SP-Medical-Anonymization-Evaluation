@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Valentín Montes Mateos
+DNI: 67819802R
+Fecha de nacimiento: 03/07/2019
+Género: V
+Domicilio: Calle del Amparo 56
+Ciudad: Linares, Las Palmas, Canarias
+Código postal: 35754
+Email: valentin_montes-mateos791@ual.es
+Teléfono fijo: +34 928 03 77 51
+Teléfono móvil: +34 728 33 99 04
+NHC: 1587674
+NASS: 405177156494
+Condición de riesgo: Guardia de Seguridad
+
+Datos asistenciales.
+Médico: Dra. Rosa María Camacho Abad. NC 157635356. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/02/2024
+Centro de salud: Centro de Salud Vicálvaro
+
+Informe clínico del paciente:
+Paciente musulman de 4 años de edad, acompañado de su madre. Se registró una sesión de firma biométrica, el código obtenido para revisarla es VQ166JKN191. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Valentín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="50" text="Montes Mateos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="67819802R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="03/07/2019" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="138" text="Calle del Amparo 56" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="154" text="Linares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="166" text="Las Palmas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="176" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="192" end="197" text="35754" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="205" end="237" text="valentin_montes-mateos791@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 928 03 77 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="286" end="302" text="+34 728 33 99 04" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="308" end="315" text="1587674" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="322" end="334" text="405177156494" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="356" end="376" text="Guardia de Seguridad" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="660" end="670" text="04/02/2024" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="688" end="713" text="Centro de Salud Vicálvaro" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="754" end="762" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="766" end="772" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="799" end="804" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T22" start="887" end="898" text="VQ166JKN191" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

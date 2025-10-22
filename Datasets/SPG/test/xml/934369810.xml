@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Encarnación Galan Santos
+DNI: 99079498Y
+Fecha de nacimiento: 07/02/2009
+Género: Mujer
+Domicilio: Calle de Bailén 8
+Ciudad: Navalcarnero, Formentera, Islas Baleares
+Código postal: 07749
+Email: santos1107@ual.es
+Teléfono fijo: +34 971 59 36 33
+FAX: +34 971 11 22 79
+NHC: 8986842
+NASS: 022153253208
+
+Datos asistenciales.
+Médico: Dr. Francisco Manuel Pardo Carmona. NC 569098428. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/03/2023
+Centro de salud: Centro de Salud Sevilla Este
+
+Informe clínico del paciente:
+Paciente de tez blanca de 14 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="Encarnación" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="52" text="Galan Santos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="99079498Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="07/02/2009" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="113" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="142" text="Calle de Bailén 8" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="163" text="Navalcarnero" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="175" text="Formentera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="191" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="07749" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="237" text="santos1107@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 971 59 36 33" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="275" end="291" text="+34 971 11 22 79" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="297" end="304" text="8986842" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="311" end="323" text="022153253208" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="358" end="388" text="Francisco Manuel Pardo Carmona" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="393" end="402" text="569098428" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="404" end="459" text="Gastroenterólogo Especialista en Enfermedades Hepáticas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="461" end="554" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="556" end="585" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="587" end="592" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="594" end="600" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="602" end="608" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="628" end="638" text="27/03/2023" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="656" end="684" text="Centro de Salud Sevilla Este" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="728" end="738" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="742" end="749" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="776" end="782" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

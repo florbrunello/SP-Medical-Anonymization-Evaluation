@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Blanca Vargas Domínguez</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">39638779G</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">18/10/1974</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Alcalá 57</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ponferrada, Ciudad Real, Castilla-La Mancha</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">13483</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">blanca.dominguez@aol.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 51 24 61</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 678 91 23 45</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7851711</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">027025895765</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Bombero</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Mikel Durán Aguilar</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">173066219</TAG>. <TAG TYPE="PROFESION">Cardiólogo de Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/05/2012</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Hospital Universitario de la Princesa</TAG>.
+    Informe clínico del paciente:
+    Paciente vegetariano de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG>, que refiere <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor torácico de tipo cardíaco</TAG> en los últimos 48 horas. La exploración física revela: <TAG TYPE="FECHAS">Tª 37,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 90 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca con <TAG TYPE="FECHAS">murmullo sistólico</TAG>, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del <TAG TYPE="FECHAS">murmullo vesicular</TAG>. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    La evolución clínica del paciente ha sido marcada por un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor torácico de tipo cardíaco</TAG>, que ha llevado a la realización de una serie de pruebas diagnósticas. Los resultados de estas pruebas han mostrado una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cardiopatía isquémica</TAG>, con una reducción del flujo sanguíneo en la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">coronaria izquierda</TAG>. El tratamiento recomendado para el paciente es la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">terapia antianginosa</TAG>, que incluye la administración de medicamentos para aliviar el dolor y mejorar la circulación sanguínea.
+    La ecografía cardíaca realizada en el paciente ha mostrado una reducción del diámetro de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">arteria coronaria izquierda</TAG>, lo que sugiere una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estenosis significativa</TAG>. La angiografía coronaria ha confirmado la presencia de una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estenosis de 70%</TAG> en la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">arteria coronaria izquierda</TAG>. El tratamiento recomendado para el paciente es la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">angioplastia coronaria</TAG>, que consiste en la introducción de una balón en la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">arteria coronaria izquierda</TAG> para dilatar la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estenosis</TAG> y mejorar la circulación sanguínea.
+    En resumen, el paciente presenta una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cardiopatía isquémica</TAG>, con una reducción del flujo sanguíneo en la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">coronaria izquierda</TAG>. El tratamiento recomendado para el paciente es la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">terapia antianginosa</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">angioplastia coronaria</TAG>. El paciente debe ser seguido de cerca para asegurarse de que la enfermedad no se agrave y que el tratamiento sea efectivo.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Mikel Durán Aguilar</TAG> <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG> <TAG TYPE="TERRITORIO">28041</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="PAIS">España</TAG>.
+    </TEXT>
+</MEDDOCAN>

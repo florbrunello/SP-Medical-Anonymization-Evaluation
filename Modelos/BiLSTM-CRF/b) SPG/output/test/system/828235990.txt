@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Patricia Simon Moreno
+DNI: 58893171S
+Fecha de nacimiento: 10/05/1979
+Género: F
+Domicilio: Calle de Espoz y Mina 85
+Ciudad: Córdoba, Lérida, Cataluña
+Código postal: 25985
+Email: simon_moreno@outlook.com
+Teléfono fijo: +34 973 17 98 39
+Teléfono móvil: +34 773 92 92 98
+NHC: 1123423
+NASS: 862625816435
+
+Datos asistenciales.
+Médico: Dr. Josep Lozano Escudero. NC 115277625. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/08/2008
+Hospital: Complejo Asistencial Universitario de León
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 29 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.238.207, con dirección MAC 82:58:E8:23:7A:5B. 

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Lucas Arroyo Beltran
+DNI: 48272876Q
+Fecha de nacimiento: 24/08/1939
+Género: Masculino
+Domicilio: Calle de Segovia 13
+Ciudad: Onda, Navarra, Navarra
+Código postal: 31452
+Email: lucasarroyo.beltran@icloud.com
+Teléfono fijo: +34 948 21 92 53
+Teléfono móvil: +34 648 94 26 90
+NHC: 4977578
+NASS: 877551902585
+Condición de riesgo: Soldador
+
+Datos asistenciales.
+Médico: Dr. Sebastián Bernal Guzman. NC 751169082. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 20/02/2008
+Hospital: Hospital Universitario Río Hortega
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 68 años de edad, acompañado de su hijo. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es CT265GNE748. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Lucas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Arroyo Beltran" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="48272876Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="24/08/1939" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="113" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="144" text="Calle de Segovia 13" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="157" text="Onda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="166" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="175" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="31452" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="234" text="lucasarroyo.beltran@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 948 21 92 53" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 648 94 26 90" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="4977578" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="877551902585" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="353" end="361" text="Soldador" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="396" end="419" text="Sebastián Bernal Guzman" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="424" end="433" text="751169082" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="435" end="478" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="480" end="538" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="540" end="564" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="566" end="571" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="573" end="583" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="585" end="591" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="611" end="621" text="20/02/2008" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="632" end="666" text="Hospital Universitario Río Hortega" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="710" end="738" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="742" end="749" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="776" end="780" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="863" end="874" text="CT265GNE748" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

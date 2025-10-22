@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Manuela</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Diez Rueda</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">67411500H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/10/1967</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del León 87</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Motril</TAG>, <TAG TYPE="TERRITORIO">Burgos</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">09622</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">manueladiez@protonmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 947 28 56 74</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 747 06 71 98</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6489070</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">618536564341</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mikel Ibáñez Vázquez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">684995246</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">31/01/1991</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">22292447</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Delicias</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">23 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hijo</TAG>.
+  </TEXT>
+</MEDDOCAN>

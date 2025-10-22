@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Olga</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aparicio Casas</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">35883024B</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">03/05/1990</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Ayala 54</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Bormujos</TAG>, <TAG TYPE="TERRITORIO">Valencia</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">46453</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">4xzaFqWhoXbBUa2@us.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 960 69 78 34</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 660 81 29 80</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4736441</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">282625900293</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Guardia de Seguridad</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carolina Lozano Parra</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">152399247</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">71635839</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Ciudad Lineal</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="RELIGIÓN">musulmán</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">34 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">compañera de trabajo</TAG>. Se registró una sesión de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">escaneo del iris</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">ME779VIN824</TAG>.
+  </TEXT>
+</MEDDOCAN>

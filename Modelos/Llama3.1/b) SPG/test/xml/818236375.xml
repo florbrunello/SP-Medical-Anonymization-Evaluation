@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Mar</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Costa Manzano</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">75413513D</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/03/2000</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Sombrerete 60</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Teruel</TAG>, <TAG TYPE="TERRITORIO">Menorca</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07904</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariamar-manzano@isciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 63 24 27</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 771 69 00 64</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0175689</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">341643980550</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador Industrial</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Laura Franco Cruz</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">293437641</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/08/2001</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Puente de Vallecas</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1044TQJ</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">BMW 3 Series</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSMD9FBN9MI473706</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">judío</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">1 año</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-dermatology.org</TAG>.
+  </TEXT>
+</MEDDOCAN>

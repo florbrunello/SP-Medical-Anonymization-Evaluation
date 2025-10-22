@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Hugo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Hernández</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santos</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">15309563G</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">31/07/1928</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Génova 47</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Málaga</TAG>, <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">37696</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">hugo.hernandez_santos@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 38 74 23</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 723 05 69 04</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0640265</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">951122371935</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador Industrial</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Mar Pastor Hurtado</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">637435709</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardióloga Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">02/11/1989</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">04045138</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital GaldaKao - Usansolo</TAG>
+    
+    Informe clínico del paciente:
+    Paciente no <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">61 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">conviviente</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de escaneo retiniano</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código obtenido para revisarla</TAG> es <TAG TYPE="OTRO_NUMERO_IDENTIF">WQ805JPC100</TAG>.
+  </TEXT>
+</MEDDOCAN>

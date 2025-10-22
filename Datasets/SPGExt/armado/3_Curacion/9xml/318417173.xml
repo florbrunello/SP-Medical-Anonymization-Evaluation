@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Paula Marti Cabrera</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">64814671G</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/11/2005</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Segovia 41</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Bormujos</TAG>, <TAG TYPE="TERRITORIO">Albacete</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">02326</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">cabrera1451@gmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 967 48 11 79</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 967 39 45 31</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6888610</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">237054018861</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. María Jesús Vázquez Caballero</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">665233746</TAG>. Psiquiatra Especialista en Trastornos de Ansiedad. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/08/2012</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">01057455</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Lugo</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5377YPG</TAG>.
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Chevrolet Silverado</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSX6VDQTSFJ682712</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTRO_NUMERO_IDENTIF">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años</TAG> de edad, acompañado de su hermana. Presenta un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad generalizada</TAG>, con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipervigilancia</TAG>, dificultad para conciliar el sueño y aumento de la frecuencia cardíaca. La exploración física revela: Tª <TAG TYPE="OTRO_NUMERO_IDENTIF">36,5 C</TAG>; T.A: <TAG TYPE="OTRO_NUMERO_IDENTIF">100/60 mmHg</TAG>; Fc: <TAG TYPE="OTRO_NUMERO_IDENTIF">90 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración excesiva, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="OTRO_NUMERO_IDENTIF">12,5 g/dl</TAG>; leucocitos <TAG TYPE="OTRO_NUMERO_IDENTIF">8.500/mm3</TAG> (neutrófilos <TAG TYPE="OTRO_NUMERO_IDENTIF">60%</TAG>); plaquetas <TAG TYPE="OTRO_NUMERO_IDENTIF">250.000/mm3</TAG>. VSG: <TAG TYPE="OTRO_NUMERO_IDENTIF">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="OTRO_NUMERO_IDENTIF">90%</TAG>; TTPA <TAG TYPE="OTRO_NUMERO_IDENTIF">20,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="OTRO_NUMERO_IDENTIF">90 mg/dl</TAG>; urea <TAG TYPE="OTRO_NUMERO_IDENTIF">18 mg/dl</TAG>; creatinina <TAG TYPE="OTRO_NUMERO_IDENTIF">0,7 mg/dl</TAG>; sodio <TAG TYPE="OTRO_NUMERO_IDENTIF">140 mEq/l</TAG>; potasio <TAG TYPE="OTRO_NUMERO_IDENTIF">4,2 mEq/l</TAG>; GOT <TAG TYPE="OTRO_NUMERO_IDENTIF">15 U/l</TAG>; GPT <TAG TYPE="OTRO_NUMERO_IDENTIF">20 U/l</TAG>; GGT <TAG TYPE="OTRO_NUMERO_IDENTIF">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="OTRO_NUMERO_IDENTIF">120 U/l</TAG>; calcio <TAG TYPE="OTRO_NUMERO_IDENTIF">9,5 mg/dl</TAG>. Orina: sedimento normal.
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad generalizada</TAG> se instaura tratamiento sintomático (<TAG TYPE="OTRO_NUMERO_IDENTIF">antitérmicos</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">antiinflamatorios</TAG>, reposo y elevación testicular) así como tratamiento psicológico específico. El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde se le sigue un seguimiento regular.
+  </TEXT>
+</MEDDOCAN>

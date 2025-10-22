@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sergio</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Nieto Prieto</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">43571198K</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">04/04/1953</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de la Lechuga 68</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">MelillaHuesca</TAG>, <TAG TYPE="TERRITORIO">Huesca</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">22844</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">sergio-prieto784@ucm.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 974 08 37 59</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 774 27 56 42</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8160259</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">744758580794</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Farmacéutico</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Vicente Moreno Vega</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">911394849</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">26/12/1997</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">99160056</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Cartagena</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6580DPU</TAG>
+  Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Toyota RAV4</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSR03O5J9JV272341</TAG>
+  
+  Informe clínico del paciente:
+  Paciente no <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">44 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">vecino</TAG>. Se registró una consulta virtual desde la dirección IP (en red interna) <TAG TYPE="NUMERO_TELEFONO">192.168.101.189</TAG>, con dirección MAC <TAG TYPE="NUMERO_TELEFONO">87:B4:9C:24:1B:D0</TAG>. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">FZ581IVO406</TAG>.
+  </TEXT>
+</MEDDOCAN>

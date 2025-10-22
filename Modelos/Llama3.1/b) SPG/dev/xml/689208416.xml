@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santiago Contreras</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lara</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">73588084K</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">27/04/1990</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Santa Ana 14</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Jerez de la Frontera</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">17789</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">contreras@ub.edu</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 69 81 69</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 772 82 75 73</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2744331</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Químico</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Esther Luna Montoya</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">495373470</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Oftalmóloga Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">10/11/1997</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">90438953</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Universitario San Cecilio</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">transeúnte</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>.
+  Se registró una <TAG TYPE="PROFESION">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP</TAG> (<TAG TYPE="TERRITORIO">192.168.73.156</TAG>) <TAG TYPE="TERRITORIO">(en red interna)</TAG>, con <TAG TYPE="IDENTIF_BIOMETRICOS">dirección MAC</TAG> <TAG TYPE="TERRITORIO">52:01:7C:4A:F0:F3</TAG>.
+  Se registró una <TAG TYPE="PROFESION">sesión de huella dactilar</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código obtenido</TAG> para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">IC731UKF907</TAG>.
+  </TEXT>
+</MEDDOCAN>

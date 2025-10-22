@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Concepción Gallego Merino</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">61504390K</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/01/1997</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Luna 17</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ponferrada</TAG>, <TAG TYPE="TERRITORIO">Zaragoza</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">50825</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">concepcion_gallego-merino@icloud.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 976 84 77 41</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 676 96 17 39</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3288121</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">547887290156</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Técnico de Cuidados Auxiliares de Enfermería</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gabriel Ortega Marín</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 258477363</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/11/2004</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">97225966</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Móstoles</TAG>.
+    Informe clínico del paciente:
+    Paciente no fumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su hermano. Presenta una temperatura corporal de <TAG TYPE="FECHAS">37,5°C</TAG>, sin síntomas respiratorios ni cardíacos. La exploración física revela una tensión arterial de <TAG TYPE="FECHAS">90/60 mmHg</TAG>, frecuencia cardíaca de <TAG TYPE="FECHAS">120 latidos por minuto</TAG> y una respiración de <TAG TYPE="FECHAS">20 ciclos por minuto</TAG>. El paciente parece estar en buen estado general, sin signos de infección ni dolor.
+    Antecedentes:
+    El paciente no tiene antecedentes médicos relevantes. Sin embargo, su hermano ha sido diagnosticado con una enfermedad cardíaca congénita.
+    Evolución y comentarios:
+    El paciente ha estado bajo observación durante las últimas <TAG TYPE="FECHAS">24 horas</TAG> y no ha presentado ningún síntoma adicional. Se le han realizado pruebas de laboratorio, incluyendo una electrocardiograma y una ecografía cardíaca, que no han revelado ninguna anormalidad. Se le ha prescrito un tratamiento con antibióticos como medida preventiva.
+    Remitido por:
+    El paciente ha sido remitido por su médico de cabecera para una evaluación más exhaustiva.
+  </TEXT>
+</MEDDOCAN>

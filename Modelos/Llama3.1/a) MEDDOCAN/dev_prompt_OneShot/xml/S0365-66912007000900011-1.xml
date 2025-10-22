@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ernesto</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Molina Ontivero</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8734953</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">75 31465703 56</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Alameda Tercera, Bajo A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28109</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/01/1972</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">42 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">20/11/2014</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Isabel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dapena Sevilla</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 57894</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">42 años</TAG>, asintomático, fue valorado oftalmológicamente para revisión de su diabetes tipo II de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3 años</TAG> de evolución. En la exploración física la agudeza visual corregida fue de <TAG TYPE="OTRO_NUMERO_IDENTIF">1.0</TAG> en ambos ojos. El polo anterior estaba dentro de la normalidad y la presión intraocular fue de <TAG TYPE="OTRO_NUMERO_IDENTIF">16 mmHg</TAG> en ambos ojos. La motilidad intrínseca y extrínseca fue normal. La oftalmoscopia indirecta mostró un nervio óptico derecho con atrofia en banda o en «pajarita» y papila izquierda que se describió como pálida; no había signos de retinopatía diabética.
+    Se realizó un campo visual (Humphrey 30-2 test Allergan Humphrey, San Leandro, California, USA) donde se apreció una hemianopsia homónima derecha. Ante la sospecha de lesión ocupante de espacio intracraneal, se realizó una Tomografía computerizada (TC) cerebral en el que se observó una calcificación de <TAG TYPE="OTRO_NUMERO_IDENTIF">2 cm</TAG> de diámetro en relación con amígdala y cabeza del hipocampo izquierdo. La resonancia magnética cerebral mostró una lesión heterogénea en la cabeza del hipocampo izquierdo, con calcificación y un área hemorrágica adyacente.
+    El test de colores fue normal. En la arteriografía cerebral y mapeo vascular prequirúrgico, el paciente presentó una reacción alérgica al contraste con manifestaciones cutáneas, que cedió tras el tratamiento con antihistamínicos.
+    Se intervino quirúrgicamente mediante craneotomía y se realizó una resección completa de la lesión. El estudio anatomopatológico de la misma reveló un <TAG TYPE="OTRO_NUMERO_IDENTIF">subependimoma</TAG>. El diagnóstico definitivo fue de <TAG TYPE="OTRO_NUMERO_IDENTIF">subependimoma</TAG> de <TAG TYPE="OTRO_NUMERO_IDENTIF">asta temporal</TAG> de <TAG TYPE="OTRO_NUMERO_IDENTIF">ventrículo lateral izquierdo</TAG> con afectación de <TAG TYPE="OTRO_NUMERO_IDENTIF">vía retroquiasmática</TAG> y atrofia óptica en banda izquierda.
+    En la última exploración oftalmológica sigue sin cambios, mantiene la hemianopsia homónima derecha en la campimetría, los nervios ópticos con el mismo grado de atrofia y el resto de la exploración es normal.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Isabel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dapena Sevilla</TAG> <TAG TYPE="CALLE">C/. Camino Sur, 18</TAG> <TAG TYPE="TERRITORIO">28109</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG> <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">isadap@terra.es</TAG>
+  </TEXT>
+</MEDDOCAN>

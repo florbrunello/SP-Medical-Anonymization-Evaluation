@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mohammed</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marín Rojas</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">37086932F</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">20/09/2004</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Lope de Vega 62, 5W</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">28594</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">marin@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 912 75 16 40</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 915 50 54 14</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3975707</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">37086932F</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Estudiante universitario</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Paz</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jurado Beltran</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">573629885</TAG>. <TAG TYPE="PROFESION">Investigadora Principal en Optometría Clínica</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">92918996</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de A Coruña</TAG>
+    Informe clínico del paciente:
+    Paciente no fumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> de edad, sin antecedentes médicos relevantes, que acude al servicio de emergencias con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal crónico</TAG> y pérdida de apetito durante las últimas semanas. El paciente informa que ha estado experimentando dificultades para digerir alimentos y ha perdido aproximadamente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">5 kg</TAG> en las últimas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">2 semanas</TAG>.
+    La exploración física revela: <TAG TYPE="FECHAS">Tª 37,2 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 90 lpm</TAG>. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración abdominal se aprecia <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor en el epigastrio</TAG>, sin masas ni megalias.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="FECHAS">Hemograma: Hb 14,5 g/dl</TAG>; <TAG TYPE="FECHAS">leucocitos 8.500/mm3 (neutrófilos 60%)</TAG>; <TAG TYPE="FECHAS">plaquetas 250.000/mm3</TAG>. <TAG TYPE="FECHAS">Bioquímica: Glucosa 110 mg/dl</TAG>; <TAG TYPE="FECHAS">urea 20 mg/dl</TAG>; <TAG TYPE="FECHAS">creatinina 1,0 mg/dl</TAG>; <TAG TYPE="FECHAS">sodio 140 mEq/l</TAG>; <TAG TYPE="FECHAS">potasio 4,2 mEq/l</TAG>; <TAG TYPE="FECHAS">GOT 20 U/l</TAG>; <TAG TYPE="FECHAS">GPT 30 U/l</TAG>; <TAG TYPE="FECHAS">GGT 40 U/l</TAG>.
+    Se solicitan pruebas de imagen (<TAG TYPE="FECHAS">Ecografía abdominal</TAG> y <TAG TYPE="FECHAS">TAC abdominal</TAG>) para evaluar la causa del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal</TAG>. El diagnóstico se realizará una vez se obtengan los resultados de las pruebas.
+    Antecedentes:
+    El paciente informa que ha estado tomando medicamentos para la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">depresión</TAG> durante los últimos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">6 meses</TAG>, pero no ha notado ningún efecto secundario. El paciente también informa que ha estado bebiendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alcohol en exceso</TAG> durante las últimas semanas.
+    Evolución y comentarios:
+    El paciente se encuentra en observación en la unidad de cuidados intensivos. Se le han administrado <TAG TYPE="OTROS_SUJETO_ASISTENCIA">analgésicos</TAG> para controlar el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor</TAG> y se le está evaluando la necesidad de hospitalización.
+    Remitido por:
+    El paciente fue remitido por el servicio de emergencias del hospital.
+  </TEXT>
+</MEDDOCAN>

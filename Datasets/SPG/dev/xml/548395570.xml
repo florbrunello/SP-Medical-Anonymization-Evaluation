@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Carmen Carrasco Castillo
+DNI: 61699446Z
+Fecha de nacimiento: 15/07/1997
+Género: Mujer
+Domicilio: Calle de la Alameda 30
+Ciudad: Móstoles, Segovia, Castilla y León
+Código postal: 40634
+Email: castillo@protonmail.com
+Teléfono fijo: +34 921 97 21 74
+Teléfono móvil: +34 721 66 33 48
+NHC: 9592272
+NASS: 791197783206
+
+Datos asistenciales.
+Médico: Dra. María Cristina Arroyo García. NC 892591079. Gastroenteróloga Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/04/2003
+Episodio: 42257888
+Hospital: Complejo Asistencial Universitario Salamanca
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 5 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Carmen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="52" text="Carrasco Castillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="61699446Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="15/07/1997" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="113" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="147" text="Calle de la Alameda 30" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="164" text="Móstoles" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="173" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="190" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="40634" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="242" text="castillo@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="258" end="274" text="+34 921 97 21 74" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="291" end="307" text="+34 721 66 33 48" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="313" end="320" text="9592272" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="327" end="339" text="791197783206" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="643" end="653" text="17/04/2003" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="664" end="672" text="42257888" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="683" end="727" text="Complejo Asistencial Universitario Salamanca" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="771" end="800" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="804" end="810" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="837" end="843" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

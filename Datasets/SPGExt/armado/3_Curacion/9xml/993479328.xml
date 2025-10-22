@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Miriam Salas Pascual</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">92058055A</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">12/10/2007</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Covarrubias 27</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Hellín, Almería, Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">04906</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">miriam_pascual@uca.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 950 64 25 21</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 650 30 64 30</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4186613</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">403436517607</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Minería</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Samuel Hidalgo Aparicio</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">167533492</TAG>. <TAG TYPE="PROFESION">Cardiólogo</TAG> <TAG TYPE="PROFESION">Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/06/2011</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">89303381</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Cabueñes</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">4336TJB</TAG>.
+    Modelo: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">Mercedes-Benz C-Class</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSZP776JWCE799419</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años</TAG> de edad, acompañado de su madre. Presenta un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fiebre alta</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG> durante las últimas 24 horas, con picos de temperatura de hasta <TAG TYPE="OTROS_SUJETO_ASISTENCIA">40°C</TAG>. La madre informa que el paciente ha estado con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas respiratorios leves</TAG> durante la semana pasada.
+    La exploración física revela:
+    Temperatura: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">40,5°C</TAG>
+    Pulso: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120 bpm</TAG>
+    Respiración: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 rpm</TAG>
+    Presión arterial: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">80/50 mmHg</TAG>
+    Estado general: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Desorientado</TAG> y con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">signos de deshidratación</TAG>
+    Los resultados de las pruebas de laboratorio muestran:
+    Hemograma: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Leucocitos 15.000/mm³</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">neutrófilos 80%</TAG>)
+    Físico-químico: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Glucosa 120 mg/dl</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Urea 30 mg/dl</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Creatinina 1,2 mg/dl</TAG>
+    Orina: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Sedimento con leucocitos y bacterias</TAG>
+    Se solicitan pruebas de imagen para evaluar la causa subyacente de los síntomas, incluyendo una radiografía de tórax y una ecografía abdominal.
+    Con base en la información recopilada, se considera un diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">neumonía bacteriana</TAG> y se inicia tratamiento con antibióticos intravenosos. El paciente es ingresado en la unidad de cuidados intensivos para monitorizar su estado y proporcionar soporte vital adecuado.
+    Antecedentes:
+    La madre informa que el paciente ha estado con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas respiratorios leves</TAG> durante la semana pasada.
+    El paciente ha recibido todas las <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vacunas recomendadas</TAG> para su edad.
+    Evolución y comentarios:
+    El paciente ha mejorado ligeramente después de la administración de antibióticos.
+    Se requiere <TAG TYPE="OTROS_SUJETO_ASISTENCIA">seguimiento estrecho</TAG> para evaluar la respuesta al tratamiento y ajustar el plan de cuidados según sea necesario.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Samuel Hidalgo Aparicio</TAG>, <TAG TYPE="PROFESION">Cardiólogo</TAG> <TAG TYPE="PROFESION">Especialista en Electrofisiología</TAG>.
+    <TAG TYPE="HOSPITAL">Hospital Universitario de Cabueñes</TAG>.
+  </TEXT>
+</MEDDOCAN>

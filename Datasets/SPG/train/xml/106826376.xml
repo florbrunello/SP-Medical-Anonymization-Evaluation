@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Anna Rojas Palacios
+DNI: 71257526F
+Fecha de nacimiento: 29/10/2018
+Género: Mujer
+Domicilio: Calle del Olivar 90
+Ciudad: Aranda de Duero, Almería, Andalucía
+Código postal: 04859
+Email: rojaspalacios@uhu.es
+Teléfono fijo: +34 950 75 36 47
+Teléfono móvil: +34 650 03 76 68
+NHC: 0354528
+NASS: 535002612691
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dra. María Dolores Quintana Castaño. NC 273951967. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 29/06/2023
+Episodio: 49616718
+Centro de salud: Centro de Salud Alcorcón
+Matrícula del coche: 0897PBM
+Modelo: Ford F-150
+VIN: VSZWU74R25R574132
+
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 4 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Anna" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="47" text="Rojas Palacios" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="71257526F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="29/10/2018" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="108" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="139" text="Calle del Olivar 90" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="163" text="Aranda de Duero" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="172" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="183" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="199" end="204" text="04859" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="212" end="232" text="rojaspalacios@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 950 75 36 47" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 650 03 76 68" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="0354528" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="535002612691" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="351" end="361" text="Paramédico" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="660" end="670" text="29/06/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="681" end="689" text="49616718" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="707" end="731" text="Centro de Salud Alcorcón" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="753" end="760" text="0897PBM" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="785" end="802" text="VSZWU74R25R574132" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="846" end="869" text="comunidades vulnerables" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="873" end="879" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="906" end="911" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Blanca Andres Ríos
+DNI: 79635393D
+Fecha de nacimiento: 19/02/1939
+Género: F
+Domicilio: Calle de Jesús y María 13
+Ciudad: Xàtiva, Cádiz, Andalucía
+Código postal: 11134
+Email: andres@uca.es
+Teléfono fijo: +34 956 21 10 06
+Teléfono móvil: +34 756 78 55 34
+NHC: 3618497
+NASS: 990352663991
+Condición de riesgo: Trabajador Industrial
+
+Datos asistenciales.
+Médico: Dr. Víctor Castro Mateos. NC 619043421. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 13/06/1978
+Episodio: 17041325
+Hospital: Hospital Universitario Central de Asturias
+Matrícula del coche: 9803ESF
+Modelo: Mazda CX-5
+VIN: VSSACUR0JML811324
+
+Informe clínico del paciente:
+Paciente de tez blanca de 39 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.52.135, con dirección MAC EA:67:CC:CA:D7:76. Se registró una sesión de huella dactilar, el código obtenido para revisarla es ZN647BLW048. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Blanca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="46" text="Andres Ríos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="79635393D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="19/02/1939" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="140" text="Calle de Jesús y María 13" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="155" text="Xàtiva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="162" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="173" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="189" end="194" text="11134" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="202" end="215" text="andres@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="231" end="247" text="+34 956 21 10 06" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="264" end="280" text="+34 756 78 55 34" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="286" end="293" text="3618497" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="300" end="312" text="990352663991" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="334" end="355" text="Trabajador Industrial" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="390" end="410" text="Víctor Castro Mateos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="415" end="424" text="619043421" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="426" end="464" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="466" end="533" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="535" end="562" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="564" end="569" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="571" end="578" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="580" end="586" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="606" end="616" text="13/06/1978" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="627" end="635" text="17041325" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="646" end="688" text="Hospital Universitario Central de Asturias" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="710" end="717" text="9803ESF" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="742" end="759" text="VSSACUR0JML811324" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="803" end="813" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="817" end="824" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="940" end="957" text="EA:67:CC:CA:D7:76" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <ID id="T33" start="1039" end="1050" text="ZN647BLW048" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

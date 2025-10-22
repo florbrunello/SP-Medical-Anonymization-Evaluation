@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Noelia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Galvez Bravo</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">41555453L</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/04/1942</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle de Fuencarral 73</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Jaca, Huesca, Aragón</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">22999</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">noelia-galvez@uhu.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 974 17 69 23</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 674 76 71 56</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9056826</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Laboratorio</TAG>.
+    Datos asistenciales.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Ángel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pérez Santos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">489565873</TAG>. <TAG TYPE="PROFESION">Cardiólogo</TAG> de <TAG TYPE="CENTRO_SALUD">Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">22/03/1984</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">95542365</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud San Sebastián de los Reyes</TAG>.
+  </TEXT>
+</MEDDOCAN>

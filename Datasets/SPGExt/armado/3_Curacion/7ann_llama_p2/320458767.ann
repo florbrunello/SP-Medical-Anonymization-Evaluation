@@ -1,0 +1,29 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 38	Francisco Manuel Lorenzo Salazar
+T2	ID_SUJETO_ASISTENCIA 57 72	30170068W
+T3	FECHAS 97 109	19/11/2018
+T4	SEXO_SUJETO_ASISTENCIA 122 123	M
+T5	CALLE 145 161	Calle de la Reina 79, 4F
+T6	TERRITORIO 173 184	Bormujos, Córdoba, Andalucía
+T7	TERRITORIO 196 206	14112
+T8	CORREO_ELECTRONICO 234 265	franciscomanuel.lorenzosalazar@hotmail.com
+T9	NUMERO_TELEFONO 276 284	+34 957 71 53 50
+T10	NUMERO_TELEFONO 299 309	+34 657 63 99 41
+T11	ID_SUJETO_ASISTENCIA 322 338	3388850
+T12	ID_SUJETO_ASISTENCIAL 349 363	858201709193
+T13	PROFESION 366 383	Pintor de Construcción
+T14	NOMBRE_PERSONAL_SANITARIO 399 433	Dr. Adrián Velasco Jiménez
+T15	ID_TITULACION_PERSONAL_SANITARIO 446 458	015887777
+T16	NOMBRE_INSTITUCION 469 488	Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)
+T17	CALLE 511 528	Avenida de Córdoba, s/n
+T18	TERRITORIO 540 550	28041
+T19	PAIS 553 559	España
+T20	FECHAS 563 573	20/02/2025
+T21	ID_CONTACTO_ASISTENCIAL 595 603	17901372
+T22	HOSPITAL 616 635	Centro de Salud Málaga Oeste
+T23	MATRICULA_VEHICULO 658 672	3011KSS
+T24	MARCA_VEHICULO 685 694	Ford F-150
+T25	NUMERO_SERIE_VEHICULO 707 721	VSMGE2J4IAH629221
+T26	INFORME_CLINICO 744 780	Paciente usuario de drogas de 6 años de edad, acompañado de su hermana. Presenta signos de intoxicación aguda por sustancias, con vómitos y alteración de la conciencia. La exploración física revela: Tª 38,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra desorientado y con signos de disminución de la función cognitiva.
+T27	ANTECEDENTES 826 860	El paciente tiene antecedentes de consumo de sustancias ilegales en su entorno familiar.
+T28	EVOLUCION 891 916	El paciente ha sido ingresado en la unidad de cuidados intensivos para recibir tratamiento de soporte vital y tratamiento farmacológico para la intoxicación aguda. Se está realizando una evaluación psicológica para determinar la gravedad del daño cerebral.
+T29	REMITE 963 979	El paciente ha sido remitido por su madre, quien se encuentra preocupada por su bienestar y la posibilidad de que haya sido expuesto a sustancias peligrosas en su entorno familiar.

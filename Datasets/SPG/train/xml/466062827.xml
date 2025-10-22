@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Cuesta Muñoz
+DNI: 93969174Y
+Fecha de nacimiento: 11/05/2006
+Género: M
+Domicilio: Calle de la Magdalena 74
+Ciudad: Motril, Burgos, Castilla y León
+Código postal: 09157
+Email: maria.cuesta1871@us.es
+Teléfono fijo: +34 947 11 95 13
+FAX: +34 947 70 65 10
+NHC: 9068405
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dra. Lorena Menendez Ruiz. NC 094636279. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/02/2013
+Episodio: 85701754
+Centro de salud: Centro de Salud Málaga Norte
+Matrícula del coche: 3460WLH
+Modelo: Mercedes-Benz C-Class
+VIN: VSATCR2AKGP896386
+
+Informe clínico del paciente:
+Paciente terminal de 6 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="María" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="46" text="Cuesta Muñoz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="93969174Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="11/05/2006" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="139" text="Calle de la Magdalena 74" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="154" text="Motril" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="162" text="Burgos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="179" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="09157" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="230" text="maria.cuesta1871@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="246" end="262" text="+34 947 11 95 13" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="268" end="284" text="+34 947 70 65 10" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="290" end="297" text="9068405" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="319" end="325" text="Médico" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="588" end="598" text="07/02/2013" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="609" end="617" text="85701754" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="635" end="663" text="Centro de Salud Málaga Norte" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="685" end="692" text="3460WLH" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="728" end="745" text="VSATCR2AKGP896386" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="786" end="794" text="terminal" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="798" end="804" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="831" end="836" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

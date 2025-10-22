@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Olga</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ramírez Vila</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">59290135E</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">16/12/1963</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Arenal 8, 9H</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Eibar</TAG>, <TAG TYPE="TERRITORIO">Orense</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">32788</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">olga@uca.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 988 35 22 25</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 788 61 62 98</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2487518</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">231236831364</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Almacén</TAG>.
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Roberto Andres</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Otero</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">251729795</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/01/2017</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">47740998</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Puente de Vallecas</TAG>.
+    Informe clínico del paciente:
+    Paciente testigo de Jehová de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">53 años</TAG> de edad, acompañado de su compañero, que refiere dolor abdominal crónico de localización difusa, con picos de intensidad variable durante los últimos 6 meses. El paciente ha tenido varios episodios de vómitos y diarrea, con pérdida de peso significativa en el último mes.
+    La exploración física revela: Tª <TAG TYPE="FECHAS">37,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">80 lpm</TAG>. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. La exploración abdominal revela dolor difuso en el hígado y la región epigástrica, con ausencia de signos de obstrucción intestinal.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">12,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">9.500/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>); plaquetas <TAG TYPE="FECHAS">180.000/mm3</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">90 mg/dl</TAG>; urea <TAG TYPE="FECHAS">20 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,2 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,5 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">20 U/l</TAG>; GPT <TAG TYPE="FECHAS">30 U/l</TAG>; GGT <TAG TYPE="FECHAS">40 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">120 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Durante el ingreso se solicitan pruebas de imagen (Ecografía abdominal, TAC abdominal) que no evidencian patología significativa, excepto la presencia de un pequeño absceso en la región epigástrica.
+    Con el diagnóstico de dolor abdominal crónico de causa desconocida se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo) y se realiza un seguimiento estrecho del paciente para descartar otras causas de la sintomatología.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Tamara Castillo Ramírez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">50875687D</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">31/10/1976</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Princesa 27</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ibiza, Mallorca, Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07238</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ramirez@ciberehd.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 24 57 30</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 671 10 22 65</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7950440</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">990518549622</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador Agrícola</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Juan Antonio Andres Costa</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 348426192</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Epidemiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">21/01/1992</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">00460225</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Tetuán</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15 años</TAG> de edad, acompañado de su hermana, que refiere <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal crónico</TAG> de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">2 meses</TAG> de evolución, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas de náuseas y vómitos</TAG> en las últimas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">48 horas</TAG>. La exploración física revela: <TAG TYPE="FECHAS">Tª 36,8 C</TAG>; <TAG TYPE="FECHAS">T.A: 110/70 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 90 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor en el hipocondrio derecho</TAG>.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: <TAG TYPE="FECHAS">Hb 12,5 g/dl</TAG>; <TAG TYPE="FECHAS">leucocitos 10.500/mm3 (neutrófilos 60%)</TAG>; <TAG TYPE="FECHAS">plaquetas 250.000/ mm3</TAG>. VSG: <TAG TYPE="FECHAS">20 mm 1ª hora</TAG>. Coagulación: <TAG TYPE="FECHAS">TQ 95%</TAG>; <TAG TYPE="FECHAS">TTPA 25,5 seg</TAG>. Bioquímica: <TAG TYPE="FECHAS">Glucosa 90 mg/dl</TAG>; <TAG TYPE="FECHAS">urea 25 mg/dl</TAG>; <TAG TYPE="FECHAS">creatinina 0,8 mg/dl</TAG>; <TAG TYPE="FECHAS">sodio 135 mEq/l</TAG>; <TAG TYPE="FECHAS">potasio 3,5 mEq/l</TAG>; <TAG TYPE="FECHAS">GOT 15 U/l</TAG>; <TAG TYPE="FECHAS">GPT 20 U/l</TAG>; <TAG TYPE="FECHAS">GGT 30 U/l</TAG>; <TAG TYPE="FECHAS">fosfatasa alcalina 120 U/l</TAG>; <TAG TYPE="FECHAS">calcio 8,5 mg/dl</TAG>. Orina: <TAG TYPE="FECHAS">sedimento normal</TAG>.
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hepatitis aguda de causa desconocida</TAG> se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">antitérmicos, antiinflamatorios, reposo y elevación de la cama</TAG>) así como tratamiento específico con: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Metilprednisolona 20 mg vía oral cada 12 horas (durante 5 días)</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Acetaminofén 500 mg vía oral cada 6 horas (durante 3 días)</TAG>. El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde completó la pauta de tratamiento.
+    </TEXT>
+  </MEDDOCAN>

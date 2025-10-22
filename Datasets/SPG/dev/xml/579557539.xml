@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Elena Flores Tomas
+DNI: 97279686J
+Fecha de nacimiento: 16/05/1994
+Género: M
+Domicilio: Calle de Amor de Dios 54
+Ciudad: Liria, Las Palmas, Canarias
+Código postal: 35923
+Email: mariaelena.flores.tomas1451@ub.edu
+Teléfono fijo: +34 928 55 21 37
+FAX: +34 928 63 72 44
+NHC: 6713416
+Condición de riesgo: Farmacéutico
+
+Datos asistenciales.
+Médico: Dr. Diego Moreno Domínguez. NC 860781822. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/05/2008
+Centro de salud: Centro de Salud Sevilla Oeste
+
+Informe clínico del paciente:
+Paciente terminal de 14 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="María Elena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="52" text="Flores Tomas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="97279686J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="16/05/1994" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="145" text="Calle de Amor de Dios 54" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="159" text="Liria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="171" text="Las Palmas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="181" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="35923" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="244" text="mariaelena.flores.tomas1451@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 928 55 21 37" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 928 63 72 44" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="304" end="311" text="6713416" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="333" end="345" text="Farmacéutico" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="380" end="402" text="Diego Moreno Domínguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="407" end="416" text="860781822" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="418" end="452" text="Residente de 3° año en Psiquiatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="454" end="524" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="526" end="555" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="557" end="562" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="564" end="570" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="572" end="578" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="598" end="608" text="25/05/2008" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="626" end="655" text="Centro de Salud Sevilla Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="696" end="704" text="terminal" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="708" end="715" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="742" end="749" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

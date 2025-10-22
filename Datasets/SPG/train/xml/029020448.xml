@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Carmen Rojas Román
+DNI: 87893174P
+Fecha de nacimiento: 01/06/1980
+Género: F
+Domicilio: Calle de Fuencarral 40, 2K
+Ciudad: Ponferrada, Lérida, Cataluña
+Código postal: 25145
+Email: rojas@ub.edu
+Teléfono fijo: +34 973 83 02 41
+Teléfono móvil: +34 773 23 86 57
+NHC: 4603987
+NASS: 408387098690
+Condición de riesgo: Inspector de Seguridad Minera
+
+Datos asistenciales.
+Médico: Dr. Omar Ibáñez Andres. NC 067002201. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/03/1999
+Hospital: Hospital Universitario Puerto Real
+
+Informe clínico del paciente:
+Paciente musulman de 18 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.158.124, con dirección MAC 61:A9:64:BE:03:53. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="María Carmen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="52" text="Rojas Román" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="87893174P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="01/06/1980" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="147" text="Calle de Fuencarral 40, 2K" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="166" text="Ponferrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="174" text="Lérida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="184" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="25145" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="225" text="rojas@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 973 83 02 41" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 773 23 86 57" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="296" end="303" text="4603987" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="310" end="322" text="408387098690" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="344" end="373" text="Inspector de Seguridad Minera" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="408" end="426" text="Omar Ibáñez Andres" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="431" end="440" text="067002201" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="442" end="482" text="Especialista en Enfermedades Infecciosas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="484" end="568" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="570" end="599" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="601" end="606" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="608" end="614" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="616" end="622" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="642" end="652" text="07/03/1999" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="663" end="697" text="Hospital Universitario Puerto Real" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="738" end="746" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="750" end="757" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="784" end="789" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="898" end="915" text="61:A9:64:BE:03:53" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

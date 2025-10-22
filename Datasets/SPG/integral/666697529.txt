@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Alfonso Andres Camacho
+DNI: 31373659A
+Fecha de nacimiento: 11/10/1973
+Género: Hombre
+Domicilio: Calle de Almagro 76
+Ciudad: Getafe, Teruel, Aragón
+Código postal: 44702
+Email: alfonso_andres_camacho@uhu.es
+Teléfono fijo: +34 978 35 24 04
+Teléfono móvil: +34 678 29 92 32
+NHC: 0215437
+NASS: 448729669155
+Condición de riesgo: Trabajador de Mantenimiento
+
+Datos asistenciales.
+Médico: Dr. Izan Paredes Díaz. NC 460271844. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/07/2024
+Episodio: 26181587
+Hospital: Hospital Clínic Barcelona
+Matrícula del coche: 9597AWV
+Modelo: Mazda CX-5
+VIN: VSM46ZGMYDL453338
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 50 años de edad. 

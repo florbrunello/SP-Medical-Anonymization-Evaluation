@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aarón Conde Del Rio</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">80510613X</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/08/2018</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Gran Vía 43, 5T</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Vilanova i la Geltrú</TAG>, <TAG TYPE="TERRITORIO">Ávila</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">05369</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">conde_delrio@udc.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 920 85 32 59</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 720 37 90 26</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6673406</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">228797461943</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Población infantil</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Blanca</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ferrer Villar</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">959814772</TAG>. <TAG TYPE="PROFESION">Neuróloga Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">05/05/2023</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">43138955</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Cartagena</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> de edad, acompañado de su abuela. Presenta un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipersensibilidad a ciertos alimentos</TAG>, con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG>. La exploración física revela: Tª <TAG TYPE="FECHAS">37,5 C</TAG>; T.A: <TAG TYPE="FECHAS">95/60 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración ni signos de infección. En la exploración neurológica no se detectan signos de alteración. El paciente ha sido tratado con un régimen de dieta estricta y ha mostrado una buena respuesta al tratamiento.
+    Antecedentes:
+    El paciente tiene un antecedente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alergia a ciertos alimentos</TAG>, que ha sido controlada con un régimen de dieta estricta. Sin embargo, en las últimas semanas ha presentado un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipersensibilidad a ciertos alimentos</TAG>, con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG>.
+    Evolución y comentarios:
+    El paciente ha sido tratado con un régimen de dieta estricta y ha mostrado una buena respuesta al tratamiento. Se le ha recomendado seguir un régimen de dieta estricta y evitar los alimentos que le causan síntomas.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Blanca</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ferrer Villar</TAG>. <TAG TYPE="PROFESION">Neuróloga Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

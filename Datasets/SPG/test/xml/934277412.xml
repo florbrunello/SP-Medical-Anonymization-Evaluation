@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Lidia Aparicio Costa
+DNI: 62419506J
+Fecha de nacimiento: 22/11/1980
+Género: M
+Domicilio: Calle de Valverde 49, 10F
+Ciudad: León, Granada, Andalucía
+Código postal: 18021
+Email: costa@imibic.org
+Teléfono fijo: +34 958 33 05 60
+FAX: +34 958 31 76 38
+NHC: 4505205
+
+Datos asistenciales.
+Médico: Dr. Germán Montoya Lorenzo. NC 629557968. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/02/1985
+Centro de salud: Centro de Salud Fuenlabrada
+
+Informe clínico del paciente:
+Paciente exfumador de 4 años de edad, acompañado de su padre. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es KT478TCB792. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Lidia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Aparicio Costa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="62419506J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="22/11/1980" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="142" text="Calle de Valverde 49, 10F" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="155" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="164" text="Granada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="175" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="18021" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="220" text="costa@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="236" end="252" text="+34 958 33 05 60" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="258" end="274" text="+34 958 31 76 38" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="280" end="287" text="4505205" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="322" end="344" text="Germán Montoya Lorenzo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="349" end="358" text="629557968" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="360" end="395" text="Neurólogo Especialista en Alzheimer" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="397" end="486" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="488" end="517" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="519" end="524" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="526" end="532" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="534" end="540" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="560" end="570" text="07/02/1985" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T24" start="588" end="615" text="Centro de Salud Fuenlabrada" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T25" start="656" end="665" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T26" start="669" end="675" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T27" start="702" end="707" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T28" start="795" end="806" text="KT478TCB792" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

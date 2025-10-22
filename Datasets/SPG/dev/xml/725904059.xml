@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rosa María Quintana Gil
+DNI: 95198621B
+Fecha de nacimiento: 13/03/1942
+Género: F
+Domicilio: Calle de la Ribera 68, 10E
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52182
+Email: rosamariaquintana1903@icloud.com
+Teléfono fijo: +34 956 55 64 28
+Teléfono móvil: +34 756 17 16 51
+NHC: 7504458
+NASS: 072218479509
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. Christian Lozano Alarcon. NC 136978874. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/08/1946
+Episodio: 06795099
+Hospital: Hospital Universitario Rey Juan Carlos de Mostoles
+Matrícula del coche: 9965TKB
+Modelo: Honda Civic
+VIN: VSVYHZBEMBB254114
+
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 4 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Rosa María" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="51" text="Quintana Gil" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="95198621B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="13/03/1942" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="146" text="Calle de la Ribera 68, 10E" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="179" text="Ciudad autónoma de Ceuta" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="181" end="187" text="Ceuta," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="204" end="209" text="52182" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="217" end="249" text="rosamariaquintana1903@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="265" end="281" text="+34 956 55 64 28" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="298" end="314" text="+34 756 17 16 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T13" start="320" end="327" text="7504458" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="334" end="346" text="072218479509" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T15" start="368" end="393" text="Trabajador de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="428" end="452" text="Christian Lozano Alarcon" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="457" end="466" text="136978874" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="468" end="507" text="Investigador Clínico en Síndromes Raros" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="509" end="584" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="586" end="615" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="617" end="622" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="624" end="630" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="632" end="638" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="658" end="668" text="02/08/1946" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="679" end="687" text="06795099" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="698" end="748" text="Hospital Universitario Rey Juan Carlos de Mostoles" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="770" end="777" text="9965TKB" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="803" end="820" text="VSVYHZBEMBB254114" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="864" end="887" text="comunidades vulnerables" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="891" end="897" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="924" end="929" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

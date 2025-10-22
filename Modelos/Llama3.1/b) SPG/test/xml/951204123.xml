@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Claudia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Galvez</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Casado</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">39682102H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/02/1986</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Sombrerete</TAG> <TAG TYPE="NUMERO">73</TAG>, <TAG TYPE="NOMBRE_PARTE">3A</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Dos Hermanas</TAG>, <TAG TYPE="TERRITORIO">Ibiza</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07904</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">claudia.casado@ciberned.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 60 38 32</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 671 21 04 81</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4309849</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Servicios de Limpieza</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ángel Aparicio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Aranda</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">298631931</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/05/2015</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Basurto</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7752PLO</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Toyota Corolla</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSJBU9BRGYN774156</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">29 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se registró una consulta virtual desde la dirección IP <TAG TYPE="DIREC_PROT_INTERNET">192.168.56.59</TAG>, con dirección MAC <TAG TYPE="IDENTIF_BIOMETRICOS">09:E1:71:3B:74:41</TAG>.
+  </TEXT>
+</MEDDOCAN>

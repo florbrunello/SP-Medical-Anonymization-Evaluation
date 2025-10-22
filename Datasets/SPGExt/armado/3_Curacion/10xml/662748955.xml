@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jon Domínguez Cano</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">59841900V</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/07/1967</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Tribulete 29, 10B</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Castellón de la Plana, Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">09823</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jon.dominguez-cano@ioba.med.uva.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 947 68 57 68</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 947 58 93 03</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7849375</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador Agrícola</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Pedro Aguilera Paredes</TAG> NC: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">961493260</TAG>.
+    Cargo: <TAG TYPE="PROFESION">Residente de 5° año en Urología</TAG>.
+    Instituto: <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>.
+    Dirección: <TAG TYPE="CALLE">Avenida de Córdoba, s/n.</TAG> <TAG TYPE="TERRITORIO">28041.</TAG> <TAG TYPE="TERRITORIO">Madrid.</TAG> <TAG TYPE="PAIS">España.</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">21/09/2022</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">61124625</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Moratalaz</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">4952YKU</TAG>.
+    Modelo: <TAG TYPE="OTRO_SUJETO_ASISTENCIA">Kia Sorento</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSMHJPF5MJG140378</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">45 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, acude al Servicio de Urgencias con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal agudo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG>. La exploración física revela: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Tª 38,5 C</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">T.A: 140/90 mmHg</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Fc: 120 lpm</TAG>. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen distendido, con dolor en el epigastrio y rechazo de la palpa.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hb 14,2 g/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">leucocitos 17.500/mm3</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">neutrófilos 85%</TAG>); <TAG TYPE="OTROS_SUJETO_ASISTENCIA">plaquetas 250.000/ mm3</TAG>. VSG: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">60 mm 1ª hora</TAG>. Coagulación: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TQ 90%</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TTPA 25,5 seg</TAG>. Bioquímica: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Glucosa 180 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urea 30 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina 1,1 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sodio 135 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">potasio 3,8 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GOT 15 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GPT 25 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GGT 35 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fosfatasa alcalina 130 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">calcio 8,5 mg/dl</TAG>. Orina: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sedimento normal</TAG>.
+    Se solicitan pruebas de imagen (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ecografía abdominal</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TAC abdominal</TAG>) que revelan un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">quiste hepático</TAG> de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">5 cm</TAG> de diámetro. Se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">antitérmicos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antiinflamatorios</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG>) y se realiza una exploración quirúrgica para la extracción del quiste. El paciente se encuentra estable y se le prescribe un seguimiento ambulatorio.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>. Ha tenido episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal agudo</TAG> en el pasado, pero nunca ha requerido hospitalización.
+    Evolución y comentarios:
+    El paciente se encuentra estable después de la exploración quirúrgica. Se le prescribe un seguimiento ambulatorio para controlar la evolución del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">quiste hepático</TAG>.
+    Remitido por:
+    El paciente fue remitido por su médico de cabecera, quien sospechaba una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infección gastrointestinal</TAG>.
+  </TEXT>
+</MEDDOCAN>

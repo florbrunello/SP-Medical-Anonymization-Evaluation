@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marcos</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Puebla Ordoñez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8943568</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">84 37583784 05</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle FInisterre, 2</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28029</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/05/1995</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">23 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">25/06/2018</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carla</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Núñez Mora</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 62003</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">23 años</TAG> de edad diagnosticado de vejiga hiperrefléxica secundaria a mielomeningocele. Portador de derivación ventrículo-peritoneal por hidrocefalia. A pesar del tratamiento médico el paciente presentaba clínica de incontinencia urinaria total, con necesidad de usar colector peneano, así como cuadros de pielonefritis de repetición de predominio en el lado derecho. En la cistografía se apreciaba la presencia de una vejiga de contorno festoneado, de baja capacidad con un reflujo vesicoureteral pasivo grado III derecho y activo grado I izquierdo. Los datos de la cistografía fueron confirmados por el estudio urodinámico.
+    Se realizó enterocistoplastia de ampliación laparoscópica con un segmento ileal destubularizado de 15 cm. La duración de la cirugía fue de 6 horas. La hemorragia fue de unos 100 cc. El postoperatorio cursó sin incidencias y se procedió al alta hospitalaria al noveno día postoperatorio.
+    Tras 18 meses de seguimiento el paciente se encuentra continente y no ha tenido nuevos episodios de pielonefritis. La cistografía realizada a los 6 meses de la cirugía a desaparición del reflujo pasivo derecho y activo izquierdo. Sólo se evidenció la persistencia de un reflujo activo grado I derecho.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carla</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Núñez Mora</TAG>. <TAG TYPE="PROFESION">Servicio de Urología</TAG>. <TAG TYPE="HOSPITAL">Hospital Univ. La Paz</TAG>. <TAG TYPE="CALLE">Pº de la Castellana, 261</TAG>. <TAG TYPE="TERRITORIO">28046</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG>. Tel.: <TAG TYPE="NUMERO_TELEFONO">917 277 000</TAG> E-mail autor: <TAG TYPE="CORREO_ELECTRONICO">cnunezmora@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

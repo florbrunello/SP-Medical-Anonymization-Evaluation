@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Miguel Angel</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Baudí Blanco</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">879475839/710</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Entrada de las colinas #8234 Casa A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Chaco</TAG>.
+    CP: <TAG TYPE="TERRITORIO">3500</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/03/1956</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">Argentina</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">55 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">18/06/2011</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Karina</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marinic</TAG>.
+    Informe clínico del paciente: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">55 años</TAG> que recibe trasplante cadavérico. Inducción: daclizumab-tacrolimus-MMF-esteroides. Mantenimiento: tacrolimus-MMF-esteroides. Creatinina <TAG TYPE="EDAD_SUJETO_ASISTENCIA">1 y 1,2 mg/dl</TAG>; clearence de creatinina: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">96 ml</TAG>, sin proteinuria. A los nueve meses postrasplante presenta viruria (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">107 copias/ml</TAG>) para BKV, sin disfunción renal, con viremia negativa. Persiste viruria alta con viremia negativa, que se positiviza al mes <TAG TYPE="EDAD_SUJETO_ASISTENCIA">12</TAG> (> <TAG TYPE="EDAD_SUJETO_ASISTENCIA">104 copias/ml</TAG>), la biopsia constata nefritis intersticial, alteraciones nucleares tubulares vinculables a BKV. Se rotó la medicación inmunosupresora a sirolimus <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 mg/día</TAG> y se agrega cipro-floxacina <TAG TYPE="EDAD_SUJETO_ASISTENCIA">500 mg/día</TAG> (10 días). Mantiene valores estables de función renal, con clearence de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">86 ml</TAG>, sin proteinuria y con disminución de la carga viral en orina y sangre. En la actualidad el paciente conserva su riñón y no requirió diálisis.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Karina Marinic</TAG> Servicio de <TAG TYPE="PROFESION">Histocompatibilidad</TAG> y <TAG TYPE="PROFESION">Genética Molecular</TAG> Hospital <TAG TYPE="HOSPITAL">Dr. Julio C. Perrando</TAG> <TAG TYPE="CALLE">Avda. 9 de Julio 1100</TAG> <TAG TYPE="TERRITORIO">3500</TAG> <TAG TYPE="TERRITORIO">Resistencia</TAG>, <TAG TYPE="TERRITORIO">Chaco</TAG>, <TAG TYPE="PAIS">Argentina</TAG> <TAG TYPE="CORREO_ELECTRONICO">karinamarinic@yahoo.com.ar</TAG> <TAG TYPE="CORREO_ELECTRONICO">msp.histocompat@ecomchaco.com.ar</TAG>
+  </TEXT>
+</MEDDOCAN>

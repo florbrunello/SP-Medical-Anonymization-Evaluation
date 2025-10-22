@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ángela Vargas Pacheco
+DNI: 93812059G
+Fecha de nacimiento: 28/11/1937
+Género: Femenino
+Domicilio: Calle de Toledo 20
+Ciudad: Ourense, León, Castilla y León
+Código postal: 24701
+Email: vargas_pacheco1986@ual.es
+Teléfono fijo: +34 987 47 83 62
+Teléfono móvil: +34 787 30 42 63
+NHC: 6328372
+Condición de riesgo: Repartidor
+
+Datos asistenciales.
+Médico: Dra. Paula Calderon Sánchez. NC 439196146. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/01/2001
+Episodio: 45997528
+Centro de salud: Centro de Salud Chamartín
+Matrícula del coche: 7060HTU
+Modelo: Mercedes-Benz C-Class
+VIN: VSVMF65OTLO819290
+
+Informe clínico del paciente:
+Paciente de ascendencia gitana de 63 años de edad, acompañado de su hija. Se registró una sesión de firma biométrica, el código obtenido para revisarla es WB469PAT738. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Ángela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Vargas Pacheco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="93812059G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="28/11/1937" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="113" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="143" text="Calle de Toledo 20" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="159" text="Ourense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="165" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="167" end="182" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="24701" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="236" text="vargas_pacheco1986@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 987 47 83 62" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="285" end="301" text="+34 787 30 42 63" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="307" end="314" text="6328372" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="336" end="346" text="Repartidor" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="603" end="613" text="16/01/2001" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="624" end="632" text="45997528" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="650" end="675" text="Centro de Salud Chamartín" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="697" end="704" text="7060HTU" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="740" end="757" text="VSVMF65OTLO819290" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="801" end="819" text="ascendencia gitana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="823" end="830" text="63 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="857" end="861" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T24" start="944" end="955" text="WB469PAT738" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

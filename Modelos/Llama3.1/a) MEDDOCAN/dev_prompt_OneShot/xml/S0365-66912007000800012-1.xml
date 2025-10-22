@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Maialen</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aizpurua Izaguirre</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">41877</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">45 76557866 03</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Avenida libertad 46, 4D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">San Sebastian</TAG>.
+    CP: <TAG TYPE="TERRITORIO">20009</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/04/1973</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">45 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/09/2018</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Oftalmologia</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Aritz</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bidaguren Urbieta</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">20 20 86795</TAG>.
+    Historia Actual: Paciente <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>, vista por primera vez en el servicio de <TAG TYPE="PROFESION">oftalmología</TAG> de nuestro hospital en el año 1992 por disminución de la agudeza visual de su ojo derecho.
+    La exploración oftalmológica inicial Maialen mostró una agudeza visual (AV) de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0,2</TAG> en ojo derecho (OD) y de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0,6</TAG> en ojo izquierdo (OI), con -<TAG TYPE="OTRO_NUMERO_IDENTIF">5,0</TAG> y -<TAG TYPE="OTRO_NUMERO_IDENTIF">4,0</TAG> dioptrías esféricas respectivamente. En el examen biomicroscópico de polo anterior se apreciaba un embriotoxon posterior marcado y la presión intraocular era de <TAG TYPE="OTRO_NUMERO_IDENTIF">12</TAG> mmHg en ambos ojos. El fondo de ojo de la paciente mostraba las siguientes características OD: Atrofia geográfica circumpapilar del EPR y coroides con límites precisos que abarca todo el área macular y permite visualizar los vasos coroideos subyacentes. OI: Lesiones difusas de características similares a las del OD, con semiluna de atrofia que afecta parcialmente el área macular. Ante esta situación se realizó una angiografía fluoresceínica (AFG) que mostraba la atrofia del EPR y coriocapilar ya descrita, sin claros signos de actividad. Ante la posibilidad de que se tratara de una coroiditis serpiginosa, se inició tratamiento inmunosupresor con Corticoides y Ciclosporina, además de suplementos vitamínicos por un posible déficit nutricional, sin que se objetivara respuesta favorable. Con posterioridad, y debido a la evolución desfavorable, se reinstauró tratamiento inmunosupresor con Azatioprina y Metotrexate sin presentar, en ningún momento, signo alguno de mejoría.
+    En el año 2003, y debido a sus antecedentes familiares (2 sobrinos diagnosticados genéticamente de Síndrome de Alagille sin manifestaciones oftalmológicas asociadas), se realiza estudio genético a la paciente, descubriendo la mutación <TAG TYPE="OTRO_NUMERO_IDENTIF">2785+3</TAG> del <TAG TYPE="OTRO_NUMERO_IDENTIF">AAGT</TAG> en el intrón <TAG TYPE="OTRO_NUMERO_IDENTIF">19</TAG> del gen <TAG TYPE="OTRO_NUMERO_IDENTIF">Jagged 1</TAG> y confirmando así la sospecha de Síndrome de Alagille.
+    Su hermana mayor <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Maite</TAG> no es portadora de la mutación identificada.
+    En la actualidad, y tras <TAG TYPE="OTRO_NUMERO_IDENTIF">14</TAG> años de seguimiento, la paciente presenta una agudeza visual de percepción de luz en OD y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0,1</TAG> con fijación excéntrica en OI. En el fondo de ojo se objetiva el crecimiento de las lesiones atróficas coriorretinianas que abarcan completamente el área macular sin haber mostrado evidencia alguna de signos angiográficos de actividad en los controles periódicos realizados a lo largo del seguimiento en nuestro servicio.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Aritz</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bidaguren Urbieta</TAG> <TAG TYPE="CALLE">Paseo Dr. Marañón, 14, 3.º C</TAG> <TAG TYPE="TERRITORIO">20009</TAG> <TAG TYPE="TERRITORIO">San Sebastián</TAG> (<TAG TYPE="TERRITORIO">Guipúzcoa</TAG>) <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">aritzbidaguren@kaixo.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

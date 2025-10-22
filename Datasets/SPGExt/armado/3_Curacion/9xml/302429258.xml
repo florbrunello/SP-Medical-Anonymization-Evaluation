@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Javier Santamaria Galan</TAG>.
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">26836297N</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">08/09/1983</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Embajadores 19</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">Vitoria</TAG>, <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">13756</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">josejavier_santamaria@uca.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 00 44 44</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 626 29 05 42</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3880747</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">745752553172</TAG>
+  Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Almacén</TAG>
+  Datos asistenciales.
+  Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Aurora</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Aranda Manzano</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 179840240</TAG>. <TAG TYPE="PROFESION">Gastroenteróloga Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">03/12/2022</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">55523327</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Ciudad Lineal</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">4892HUW</TAG>
+  Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Jeep Wrangler</TAG>
+  VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSU6WW9YQ2A890338</TAG>
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años</TAG> de edad, sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedentes médicos relevantes</TAG>, que acude al centro de salud con su padre debido a una leve infección respiratoria. El paciente presenta síntomas de tos y fiebre, pero no hay signos de gravedad. La exploración física revela una temperatura de 38,5°C, sin signos de dolor ni inflamación en la región torácica. El paciente es consciente y orientado, con buen estado de nutrición e hidratación.
+  Se solicitan análisis de sangre y orina para determinar la causa de la infección. El paciente se mantiene en observación en el centro de salud y se le proporciona tratamiento sintomático para aliviar los síntomas.
+  Antecedentes:
+  El paciente no tiene <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedentes médicos relevantes</TAG>.
+  Evolución y comentarios:
+  El paciente se mantiene estable y sin signos de gravedad. Se le proporciona tratamiento sintomático y se le realiza seguimiento para determinar la causa de la infección.
+  Remitido por:
+  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Aurora</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Aranda Manzano</TAG>.
+  </TEXT>
+  </MEDDOCAN>

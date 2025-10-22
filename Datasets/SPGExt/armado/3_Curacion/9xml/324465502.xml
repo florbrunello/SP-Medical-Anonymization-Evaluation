@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jordi Bravo Casas</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">76651187F</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/05/1987</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Fe 70</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Lorca</TAG>, <TAG TYPE="TERRITORIO">Ibiza</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">07659</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jordibravocasas@salud.madrid.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 44 86 35</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 971 52 63 31</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5573901</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Marta Fernández Cortés</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">982835487</TAG>. Psiquiatra Especialista en Trastornos de Ansiedad. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/07/2013</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Santiago</TAG>.
+    Informe clínico del paciente:
+    Paciente vegano de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">26 años</TAG> de edad. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">IW715DQP711</TAG>.
+    Fecha de ingreso:
+    <TAG TYPE="FECHAS">24/07/2013</TAG>
+    Centro de salud de ingreso:
+    <TAG TYPE="CENTRO_SALUD">Complejo Hospitalario Universitario de Santiago</TAG>
+  </TEXT>
+</MEDDOCAN>

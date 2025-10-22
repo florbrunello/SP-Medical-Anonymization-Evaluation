@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Pilar Mateo Soriano
+DNI: 91449816E
+Fecha de nacimiento: 15/05/1990
+Género: Femenino
+Domicilio: Calle Serrano 96, 10Q
+Ciudad: Cáceres, Albacete, Castilla-La Mancha
+Código postal: 02330
+Email: 5gVzPfOyR403@udc.es
+Teléfono fijo: +34 967 98 37 49
+Teléfono móvil: +34 667 28 10 55
+NHC: 7301861
+NASS: 595448029611
+Condición de riesgo: Microbiólogo
+
+Datos asistenciales.
+Médico: Dra. Luisa Escobar Domínguez. NC 198927407. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/11/2022
+Episodio: 29442987
+Hospital: Hospital Universitari de Bellvitge
+
+Informe clínico del paciente:
+Paciente no fumador de 32 años de edad. El servidor para envío de información desde cual el usuario se comunica es smtp://example-therapy.org. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="María Pilar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="53" text="Mateo Soriano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="91449816E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="15/05/1990" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="117" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="129" end="150" text="Calle Serrano 96, 10Q" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="166" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="176" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="196" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="212" end="217" text="02330" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="225" end="244" text="5gVzPfOyR403@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 967 98 37 49" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="293" end="309" text="+34 667 28 10 55" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="315" end="322" text="7301861" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="329" end="341" text="595448029611" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="363" end="375" text="Microbiólogo" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="659" end="669" text="18/11/2022" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="680" end="688" text="29442987" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="699" end="733" text="Hospital Universitari de Bellvitge" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="774" end="784" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="788" end="795" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="880" end="902" text="smtp://example-therapy" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

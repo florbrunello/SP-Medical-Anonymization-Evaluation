@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ramón</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">García Robles</TAG>.
+    CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc-2906854</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">28 32128591 09</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Avenida de concha espina 16, 2,1</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28001</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2906854</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/06/1944</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">64</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">26/09/2008</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jesús Ignacio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tornero Ruiz</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 34615</TAG>.
+    Antecedentes: El paciente sufre un trastorno mental y es alérgico a <TAG TYPE="PROFESION">penicilina</TAG>.
+    Historia Actual: El paciente se presenta acompañado de su esposa quien está a cargo de él ya que está incapacitado para ABVD. El número de móvil de su esposa es el <TAG TYPE="NUMERO_TELEFONO">633 349 565</TAG>.
+    Acude para un recambio valvular aórtico por endocarditis que consultó por aparición de masa peneana de crecimiento progresivo en las últimas semanas,
+    Exploración física: la exploración física destacaba una formación excrecente y abigarrada en glande, que deformaba meato, con áreas ulceradas cubiertas de fibrina. Se palpaban adenopatías fijas y duras en ambas regiones inguinales.
+    Resumen de pruebas complementarias: La radiografía de tórax y el TAC abdomino-pélvico confirmaron la presencia de adenopatías pulmonares e inguinales de gran tamaño.
+    Evolución y comentarios:  Con el diagnóstico de neoplasia de pene, se practicó penectomía parcial con margen de seguridad. La anatomía patológica demostró que se trataba de un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sarcoma pleomórfico de pene</TAG> con diferenciación osteosarcomatosa y márgenes libres de afectación. Se decidió tratamiento con dos líneas de quimioterapia consistente en <TAG TYPE="PROFESION">adriamicina</TAG> e <TAG TYPE="PROFESION">ifosfamida</TAG> pero no hubo respuesta. Ingresó de nuevo con recidiva local sangrante de gran tamaño y crecimiento rápido que provocaba obstrucción de meato con insuficiencia renal aguda. Se colocó sonda de cistostomía y se instauró tratamiento con sueroterapia, mejorando la función renal, pero con empeoramiento progresivo del estado general hasta que falleció a los 6 meses del diagnóstico.
+    Diagnóstico Principal: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">neoplasia de pene</TAG>
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Jesús Ignacio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tornero Ruiz</TAG> <TAG TYPE="HOSPITAL">Hospital Virgen de la Arrixaca</TAG> <TAG TYPE="CALLE">Ctra. Madrid - Cartagena s/n</TAG> <TAG TYPE="TERRITORIO">30120 Mucria</TAG>. (<TAG TYPE="PAIS">España</TAG>) <TAG TYPE="CORREO_ELECTRONICO">ignaciotorne@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA" start="0" end="5">Cesar</TAG>.
+    <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA" start="7" end="29">Massoti Fernandez</TAG>.
+    <TAG TYPE="ID_SUJETO_ASISTENCIA" start="31" end="36">384546</TAG>.
+    <TAG TYPE="ID_ASEGURAMIENTO" start="38" end="65">46 27896474 38</TAG>.
+    <TAG TYPE="CALLE" start="67" end="81">Av/ portugal 65, 3D</TAG>.
+    <TAG TYPE="TERRITORIO" start="83" end="94">La coruña</TAG>.
+    <TAG TYPE="TERRITORIO" start="96" end="103">15006</TAG>.
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO" start="106" end="121">José</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO" start="123" end="146">Ferreras Granado</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO" start="148" end="163">15 15 36985</TAG>.
+    <TAG TYPE="FECHAS" start="165" end="174">19/05/1954</TAG>.
+    <TAG TYPE="PAIS" start="176" end="183">España</TAG>.
+    <TAG TYPE="EDAD_SUJETO_ASISTENCIA" start="185" end="192">59 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA" start="194" end="195">H</TAG>.
+    <TAG TYPE="FECHAS" start="197" end="206">29/02/2013</TAG>.
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO" start="208" end="223">José</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO" start="225" end="248">Ferreras Granado</TAG>.
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO" start="250" end="265">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO" start="267" end="290">José Ferreras Granado</TAG>.
+    <TAG TYPE="CALLE" start="292" end="310">CHU Juan Canalejo Servicio de Cirugía Oral y Maxilofacial As Xubias de Arriba, 84</TAG> <TAG TYPE="TERRITORIO" start="312" end="323">15006</TAG> <TAG TYPE="TERRITORIO" start="325" end="332">La Coruña</TAG>, <TAG TYPE="PAIS" start="334" end="341">España</TAG> <TAG TYPE="CORREO_ELECTRONICO" start="343" end="358">joseferreras@terra.es</TAG>.
+    Informe Clinico: Varón de raza caucásica de <TAG TYPE="EDAD_SUJETO_ASISTENCIA" start="360" end="365">59 años</TAG> de edad que es remitido a nuestro Servicio refiriendo dolor lancinante en el cuerpo mandibular izquierdo así como hipoestesia labio - mentoniana de ese mismo lado desde hacía un mes.
+    La exploración intraoral fue normal.
+    Se realizó un estudio radiográfico mediante ortopantomografía y TC que reveló la presencia de una lesión osteolítica bien delimitada de unos 2,5 cm de diámetro localizada a nivel de la rama ascendente mandibular izquierda.
+    Se llevó a cabo una biopsia de la lesión.
+    El estudio histológico demostró una imagen compatible con lesión metastásica de adenocarcinoma, probablemente de tipo mucosecretor.
+    Se realizó entonces una gammagrafía ósea que mostró zonas de hipercaptación en la rama ascendente mandibular izquierda, cuerpo vertebral izquierdo a nivel de T12, 8ª costilla derecha y en unión costocondral de 6ª costilla derecha.
+    La TC toraco - abdominal evidenció una gran masa afectando al cuerpo y antro gástrico, con adenopatías regionales y un nódulo en el lóbulo superior pulmonar izquierdo.
+    Se le administró un tratamiento combinado con radio y quimioterapia.
+    El paciente falleció 2 meses después.
+    La autopsia confirmó el origen gástrico de la metástasis.
+  </TEXT>
+</MEDDOCAN>

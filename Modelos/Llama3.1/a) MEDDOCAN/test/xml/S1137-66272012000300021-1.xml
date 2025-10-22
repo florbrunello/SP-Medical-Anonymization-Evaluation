@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Diego</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gutierrez Lozano</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2958791</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">83 23783246 78</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. San Ignacio, 11</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Pamplona</TAG>.
+    CP: <TAG TYPE="TERRITORIO">31002</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/01/1957</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">54 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">23/04/2011</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Urología</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Andrea</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tienza Fernández</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">31 31 93072</TAG>.
+    Historia Actual: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">54 años</TAG> que acudió a la consulta por elevación de las cifras del PSA, se recomendó tratamiento antibiótico y nuevo análisis posterior. Tras un resultado de <TAG TYPE="FECHAS">8 ng/ml</TAG> se aconsejó realizar una biopsia prostática. El resultado anatomopatológico fue de adenocarcinoma de próstata Gleason <TAG TYPE="FECHAS">3+3= 6</TAG>, confirmando enfermedad localizada con una resonancia magnética nuclear. Como antecedentes de interés destacaba cirugías previas de apendicectomía y de herniorrafia inguinal.
+    Se propone tratamiento quirúrgico mediante prostatectomía radical, siendo el acceso por vía retropúbica y extraperitoneal mediante la técnica de Walsh, cursando la intervención sin incidencias.
+    Durante los primeros días presenta picos de fiebre de hasta <TAG TYPE="FECHAS">38,1oC</TAG>, sintomatología de íleo paralítico postoperatorio con un vómito abundante el 2o día, suspendiendo la tolerancia oral iniciada el primer día.
+    El cuarto día se le realiza radiografía de abdomen con presencia de gas en marco cólico y niveles hidroaéreos en colon derecho. Se planifica el alta para el octavo día dada la evolución satisfactoria.
+    El séptimo día presenta un cuadro de dolor en flanco derecho y enrojecimiento de la zona con fiebre hasta <TAG TYPE="FECHAS">39oC</TAG>. Se realiza TAC de abdomen mostrando una colección líquida con abundante gas de localización retroperitoneal, por detrás de las porciones duodenales segunda y tercera acompañado de mínimo neumoperitoneo, así como diverticulosis al nivel del colon descendente y sigma 
+    Resumen de pruebas complementarias: Ante estos hallazgos se sospecha la existencia de perforación duodenal en porción retroperitoneal y cuadro infeccioso, optando por tratamiento conservador. Se coloca drenaje en la colección mediante ecografía, obteniendo cultivos del líquido, con crecimiento de <TAG TYPE="OTRO_NUMERO_IDENTIF">Staphyloccus haemolyticus</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">Candida albicans</TAG> al cabo de días.
+    Durante todo el ingreso permaneció con tratamiento antibiótico empírico y basado en los cultivos. Se colocó una sonda nasogástrica y se sustituyó la alimentación oral por parenteral.
+    El seguimiento de la colección se hizo mediante ecografía, confirmando la estanqueidad intestinal con uso de contraste en un tránsito gastroduodenal a los <TAG TYPE="FECHAS">30 días</TAG> de la colocación del drenaje, iniciando posteriormente tolerancia oral. Tras buena tolerancia a la ingesta y estado apirético, se retiró tubo de drenaje y se dio el alta médica tras <TAG TYPE="FECHAS">45 días</TAG> desde la intervención.
+    A los <TAG TYPE="FECHAS">26 meses</TAG> permanece asintomático y con PSA indetectable.
+    Responsable clinico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Andrea</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tienza Fernández</TAG>. <TAG TYPE="CALLE">Clínica Universidad de Navarra Departamento de Urología Avda. Pío XII, 36</TAG> <TAG TYPE="TERRITORIO">31008</TAG> <TAG TYPE="TERRITORIO">Pamplona</TAG> <TAG TYPE="PAIS">Navarra</TAG>
+  </TEXT>
+</MEDDOCAN>

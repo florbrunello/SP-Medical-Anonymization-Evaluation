@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Agustín Vidal Zamora
+DNI: 69795567C
+Fecha de nacimiento: 15/09/1973
+Género: Masculino
+Domicilio: Calle de San Bernardo 61
+Ciudad: Getafe, León, Castilla y León
+Código postal: 24803
+Email: zamora@protonmail.com
+Teléfono fijo: +34 987 23 22 51
+FAX: +34 987 26 69 80
+NHC: 4985019
+
+Datos asistenciales.
+Médico: Dr. Mateo Macias Blazquez. NC 234184436. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/03/1996
+Episodio: 05020615
+Hospital: Hospital Universitario 12 de Octubre
+
+Informe clínico del paciente:
+Paciente vegano de 22 años de edad, acompañado de su hija. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. 

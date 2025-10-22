@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Mariano Miguel Castaño
+DNI: 35363483V
+Fecha de nacimiento: 03/06/2009
+Género: Varón
+Domicilio: Calle de la Luna 38
+Ciudad: Zamora, Lugo, Galicia
+Código postal: 27845
+Email: mariano-castano@salud.madrid.org
+Teléfono fijo: +34 982 41 81 47
+Teléfono móvil: +34 782 67 75 57
+NHC: 7193368
+
+Datos asistenciales.
+Médico: Dra. Esther Alonso Padilla. NC 277482918. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/12/2012
+Episodio: 00404341
+Hospital: Hospital Universitario 12 de Octubre
+Matrícula del coche: 9719SXE
+Modelo: Toyota Corolla
+VIN: VSMJ99R7NAV124544
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 3 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Mariano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Miguel Castaño" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="35363483V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="03/06/2009" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="142" text="Calle de la Luna 38" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="157" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="163" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="172" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="188" end="193" text="27845" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="201" end="233" text="mariano-castano@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 982 41 81 47" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 782 67 75 57" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="304" end="311" text="7193368" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="566" end="576" text="13/12/2012" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="587" end="595" text="00404341" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="606" end="642" text="Hospital Universitario 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+        <ID id="T18" start="664" end="671" text="9719SXE" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="700" end="717" text="VSMJ99R7NAV124544" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="761" end="785" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="789" end="795" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="822" end="827" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

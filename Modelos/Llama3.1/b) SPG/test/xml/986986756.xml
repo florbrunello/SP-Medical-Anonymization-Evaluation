@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vázquez Gallego</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">84742239G</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">29/12/1940</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Preciados 83</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Jaca</TAG>, <TAG TYPE="TERRITORIO">Jaén</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">23024</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">maria@ucm.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 953 88 76 62</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 753 67 57 55</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1178379</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Mantenimiento</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Soledad Álvarez Vega</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">485089900</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/01/1968</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Príncipe de Asturias</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">27 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tía</TAG>.
+  </TEXT>
+</MEDDOCAN>

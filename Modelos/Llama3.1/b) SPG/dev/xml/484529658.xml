@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan Carlos</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rivero Guerra</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">66377870P</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">20/04/1926</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Áncora 22</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Plasencia</TAG>, <TAG TYPE="TERRITORIO">La Rioja</TAG>, <TAG TYPE="TERRITORIO">La Rioja</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">26583</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">juancarlos@hotmail.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 941 63 74 38</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 741 62 16 09</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2019538</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">966739967889</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Servicios de Limpieza</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Aarón Mora Ortega</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">522124633</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">17/11/2015</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Arganda del Rey</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">89 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermana</TAG>.
+  </TEXT>
+</MEDDOCAN>

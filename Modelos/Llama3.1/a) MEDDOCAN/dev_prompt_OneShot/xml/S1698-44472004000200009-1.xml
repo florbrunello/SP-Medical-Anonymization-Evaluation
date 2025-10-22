@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gonzalo</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Romero Velasco</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5684614</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">65 84236989 10</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. del puerto 177, 2, 1</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Valencia</TAG>.
+    CP: <TAG TYPE="TERRITORIO">46005</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">18/07/1969</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">19/01/2016</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Odontología</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Miguel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Peñarrocha Castro</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">46 46 87102</TAG>.
+    Informe clínico del paciente: Hombre de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG>, sin antecedentes patológicos relevantes, no fumador. Se le realizó una rehabilitación fija sobre un implante unitario (<TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">ITI</TAG> <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">SLA</TAG> <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">Straumann</TAG> <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">Walderburg-Switzerland</TAG>) colocado en zona de 3.6. A los 6 meses de cementada la corona, acudió a control sin relatar sintomatología asociada. Al examen clínico se detectó un leve enrojecimiento de la mucosa adyacente al implante y una bolsa periimplantaria de 6 mm de profundidad, con leve sangramiento al sondaje. El papel de articular mostró un contacto prematuro sobre corona protésica. En la radiografía panorámica se observó un área radiotransparente en el hueso marginal a 3.6.
+    Se realizó el tallado oclusal de la corona protésica. Posteriormente, se levantó un colgajo mucoperióstico desde 3.5 a 3.7, observándose un rodete de tejido blando de aspecto fibroso que ocupaba un defecto óseo periimplantario marginal a 3.6. Se procedió a retirar el tejido patológico con curetas plásticas y fue enviado a estudio anatomopatológico. La superficie del implante se descontaminó con gel de clorhexidina al 0.2% durante 2 minutos e irrigación con suero fisiológico. El colgajo fue ampliado para acceder a un torus mandibular lingual en zona de premolares ipsilateral, el cual se extrajo y particuló para servir de autoinjerto. El colgajo fue reposicionado y se suturó con seda 3.0. El paciente fue reinstruido en higiene oral, se prescibió ibuprofeno 600 mg cada 8 hrs x 4 días y colutorios con digluconato de clorhexidina al 0.12% 2 veces al día x 2 semanas.
+    El análisis histopatológico evidenció un tejido epitelio-conectivo, con abundante infiltrado linfo-plasmocitario yuxtaepitelial. Bajo la zona superficial, se apreció un tejido fibroconectivo denso con escasa células inflamatorias.
+    A los 12 meses de realizado el tratamiento quirúrgico, en una radiografía se observó la recuperación ósea marginal y un aspecto clínico de normalidad, con ausencia de sintomatología.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Miguel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Peñarrocha Castro</TAG> <TAG TYPE="CALLE">Facultad de Medicina y Odontología. Universidad de Valencia Gascò Oliag Nº 1</TAG> <TAG TYPE="TERRITORIO">Valencia</TAG> <TAG TYPE="TERRITORIO">46010</TAG> FAX: <TAG TYPE="NUMERO_FAX">+ 34- 963864175</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">penarroc@uv.es</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Esteban Velasco Camacho
+DNI: 90200434T
+Fecha de nacimiento: 08/05/1972
+Género: V
+Domicilio: Calle del Carmen 32
+Ciudad: Plasencia, Cáceres, Extremadura
+Código postal: 10578
+Email: velasco@ciberehd.org
+Teléfono fijo: +34 927 74 62 08
+Teléfono móvil: +34 627 58 74 30
+NHC: 9451673
+
+Datos asistenciales.
+Médico: Dra. María Inmaculada Pardo Macias. NC 001271083. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/05/1991
+Episodio: 57156656
+Centro de salud: Centro de Salud Carabanchel
+
+Informe clínico del paciente:
+Paciente musulman de 19 años de edad. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es NI617NBJ441. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es RM866AHF526. 

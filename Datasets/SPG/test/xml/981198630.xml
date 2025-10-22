@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Joaquín Nieto Gallego
+DNI: 19556895H
+Fecha de nacimiento: 16/05/1980
+Género: Masculino
+Domicilio: Calle de Santa Ana 57
+Ciudad: Reus, Sevilla, Andalucía
+Código postal: 41575
+Email: joaquinnieto@gmail.com
+Teléfono fijo: +34 954 75 78 75
+Teléfono móvil: +34 754 65 17 38
+NHC: 7900614
+NASS: 637542911742
+Condición de riesgo: Técnico de Cuidados Auxiliares de Enfermería
+
+Datos asistenciales.
+Médico: Dra. Paula Cabrera Muñoz. NC 864440210. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/06/2013
+Episodio: 73693808
+Centro de salud: Centro de Salud Alcalá de Henares
+
+Informe clínico del paciente:
+Paciente no fumador de 33 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Joaquín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="49" text="Nieto Gallego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="19556895H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="16/05/1980" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="114" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="147" text="Calle de Santa Ana 57" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="160" text="Reus" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="169" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="180" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="41575" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="231" text="joaquinnieto@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 954 75 78 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 754 65 17 38" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="7900614" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="316" end="328" text="637542911742" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="350" end="394" text="Técnico de Cuidados Auxiliares de Enfermería" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="682" end="692" text="03/06/2013" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="703" end="711" text="73693808" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="729" end="762" text="Centro de Salud Alcalá de Henares" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="803" end="813" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="817" end="824" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

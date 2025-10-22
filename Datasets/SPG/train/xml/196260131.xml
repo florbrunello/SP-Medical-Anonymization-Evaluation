@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Pilar Moya Franco
+DNI: 77895353B
+Fecha de nacimiento: 01/10/1969
+Género: Mujer
+Domicilio: Calle de Ibiza 92, 7N
+Ciudad: Hellín, Gerona, Cataluña
+Código postal: 17795
+Email: franco@ciberned.es
+Teléfono fijo: +34 972 34 96 44
+Teléfono móvil: +34 772 56 62 22
+NHC: 8116603
+NASS: 557774680517
+
+Datos asistenciales.
+Médico: Dr. Sergi Medina Medina. NC 880535197. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/09/2009
+Centro de salud: Centro de Salud Carabanchel
+Matrícula del coche: 4421TAH
+Modelo: Toyota Corolla
+VIN: VSNY5HAJU1B212118
+
+Informe clínico del paciente:
+Paciente de tez blanca de 39 años de edad, acompañado de su vecina. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="María Pilar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="51" text="Moya Franco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="77895353B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="01/10/1969" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="112" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="145" text="Calle de Ibiza 92, 7N" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="160" text="Hellín" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="168" text="Gerona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="178" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="194" end="199" text="17795" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="207" end="225" text="franco@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 972 34 96 44" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 772 56 62 22" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="296" end="303" text="8116603" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="310" end="322" text="557774680517" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="357" end="376" text="Sergi Medina Medina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="381" end="390" text="880535197" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="392" end="424" text="Residente de 2° año en Pediatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="426" end="501" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="503" end="532" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="534" end="539" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="541" end="547" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="549" end="555" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="575" end="585" text="05/09/2009" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="603" end="630" text="Centro de Salud Carabanchel" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T26" start="652" end="659" text="4421TAH" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="688" end="705" text="VSNY5HAJU1B212118" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="749" end="759" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="763" end="770" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="797" end="803" text="vecina" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

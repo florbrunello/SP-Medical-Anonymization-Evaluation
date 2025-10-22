@@ -1,0 +1,52 @@
+```xml
+<informe_clinico>
+  <datos_paciente>
+    <nombre TYPE="NOMBRE_SUJETO_ASISTENCIA" start="0" end="7">Martina</nombre>
+    <apellidos TYPE="NOMBRE_SUJETO_ASISTENCIA" start="9" end="18">Diaz Saez</apellidos>
+    <nhc TYPE="ID_SUJETO_ASISTENCIA" start="20" end="27">2386590</nhc>
+    <nass TYPE="ID_CONTACTO_ASISTENCIAL" start="29" end="43">94 26075685 39</nass>
+    <domicilio TYPE="OTROS_SUJETO_ASISTENCIA" start="45" end="63">Avenida de la Paz 98, 5 B.</domicilio>
+    <localidad_provincia TYPE="TERRITORIO" start="65" end="76">Barcelona</localidad_provincia>
+    <cp TYPE="CP" start="78" end="81">08010</cp>
+  </datos_paciente>
+  <datos_asistenciales>
+    <fecha_nacimiento TYPE="FECHAS" start="83" end="92">30/09/1949</fecha_nacimiento>
+    <pais TYPE="PAIS" start="94" end="100">España</pais>
+    <edad TYPE="EDAD_SUJETO_ASISTENCIA" start="102" end="105">67</edad>
+    <sexo TYPE="SEXO_SUJETO_ASISTENCIA" start="107" end="108">M</sexo>
+    <fecha_ingreso TYPE="FECHAS" start="110" end="119">08/04/2017</fecha_ingreso>
+    <medico TYPE="NOMBRE_PERSONAL_SANITARIO" start="121" end="135">Javier González Lagunas</medico>
+    <nocol TYPE="ID_TITULACION_PERSONAL_SANITARIO" start="137" end="145">08 08 57496</nocol>
+  </datos_asistenciales>
+  <historia_actual>
+    <texto TYPE="OTROS_SUJETO_ASISTENCIA" start="147" end="170">Mujer de 67 años de edad que consulta a nuestro servicio por tumefacción en la región posterior del hemipaladar derecho.</texto>
+  </historia_actual>
+  <antecedentes>
+    <texto TYPE="OTROS_SUJETO_ASISTENCIA" start="172" end="202">Como antecedente más relevante existía un tratamiento con radioterapia en la infancia por una patología no catalogada en la región de cabeza y cuello.</texto>
+  </antecedentes>
+  <exploracion_fisica>
+    <texto TYPE="OTROS_SUJETO_ASISTENCIA" start="204" end="224">En la exploración cervical presentaba una adenopatía a nivel submandibular derecho.</texto>
+  </exploracion_fisica>
+  <pruebas_complementarias>
+    <texto TYPE="OTROS_SUJETO_ASISTENCIA" start="226" end="247">La ortopantomografía era normal. Se solicitó una tomografia computerizada cervicofacial que se informa como lesión a nivel de fosa nasal derecha en estadio IV (T4N2CMx).</texto>
+  </pruebas_complementarias>
+  <evolucion_y_comentarios>
+    <texto TYPE="OTROS_SUJETO_ASISTENCIA" start="249" end="270">Se decide intervención quirúrgica bajo anestesia general. El tumor fue abordado mediante una maxilotomía tipo Lefort I.</texto>
+  </evolucion_y_comentarios>
+  <resultado_definitivo>
+    <texto TYPE="OTROS_SUJETO_ASISTENCIA" start="272" end="293">El resultado definitivo de la anatomía patológica confirmó el diagnóstico de PLGA, con invasión de márgenes quirúrgicos a nivel del área pterigomaxilar derecha.</texto>
+  </resultado_definitivo>
+  <remision>
+    <texto TYPE="OTROS_SUJETO_ASISTENCIA" start="295" end="316">Se presentó a la paciente en la sesión de Cirugía Maxilofacial - Oncología decidiéndose radioterapia coadyuvante en la región pterigomaxilar derecha.</texto>
+  </remision>
+  <contacto>
+    <texto TYPE="NOMBRE_PERSONAL_SANITARIO" start="318" end="333">Dr. Javier González Lagunas</texto>
+    <clinica TYPE="INSTITUCION" start="335" end="343">Clinica Gnation</clinica>
+    <direccion TYPE="CALLE" start="345" end="354">C/ Casanova 101, Principal</direccion>
+    <cp TYPE="CP" start="356" end="359">08011</cp>
+    <telefono TYPE="NUMERO_TELEFONO" start="361" end="371">948537965</telefono>
+    <fax TYPE="NUMERO_FAX" start="373" end="380">934514480</fax>
+    <email TYPE="CORREO_ELECTRONICO" start="382" end="392">glagunas@terra.es</email>
+  </contacto>
+</informe_clinico>
+```

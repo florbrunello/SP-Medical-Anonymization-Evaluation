@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Mariano León Moya
+DNI: 68052475Y
+Fecha de nacimiento: 07/06/1995
+Género: Varón
+Domicilio: Calle del Marqués de Urquijo 51
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52226
+Email: marianomoya@protonmail.com
+Teléfono fijo: +34 956 35 06 42
+FAX: +34 956 44 31 32
+NHC: 4035050
+Condición de riesgo: Trabajador de Mantenimiento
+
+Datos asistenciales.
+Médico: Dra. Almudena Parra Rivera. NC 339608598. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/09/2015
+Episodio: 33917524
+Hospital: Hospital Universitario Ramón y Cajal
+Matrícula del coche: 2420CBZ
+Modelo: Chrysler Pacifica
+VIN: VSS2C99Y38I511154
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática occidental de 20 años de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es MN175OSA832. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Mariano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="45" text="León Moya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="68052475Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="07/06/1995" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="106" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="149" text="Calle del Marqués de Urquijo 51" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="182" text="Ciudad autónoma de Ceuta" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="184" end="190" text="Ceuta," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="207" end="212" text="52226" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="220" end="246" text="marianomoya@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="262" end="278" text="+34 956 35 06 42" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="284" end="300" text="+34 956 44 31 32" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T13" start="306" end="313" text="4035050" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T14" start="335" end="362" text="Trabajador de Mantenimiento" TYPE="PROFESION" comment=""/>
+        <DATE id="T15" start="644" end="654" text="07/09/2015" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="665" end="673" text="33917524" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="684" end="720" text="Hospital Universitario Ramón y Cajal" TYPE="HOSPITAL" comment=""/>
+        <ID id="T18" start="742" end="749" text="2420CBZ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="781" end="798" text="VSS2C99Y38I511154" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="842" end="873" text="ascendencia asiática occidental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="877" end="884" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T22" start="976" end="987" text="MN175OSA832" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

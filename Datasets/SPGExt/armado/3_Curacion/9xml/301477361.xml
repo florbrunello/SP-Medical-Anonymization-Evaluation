@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Isaac Paredes Durán</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">10265455A</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">31/10/1961</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del León 63, 8M</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Telde</TAG>, <TAG TYPE="TERRITORIO">Álava</TAG>, <TAG TYPE="PAIS">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">01060</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">isaac-paredes@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 945 02 91 46</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 745 51 75 07</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7375971</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">979073765909</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">No se proporcionó</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Belén Silva Bueno</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 050678014</TAG>. <TAG TYPE="PROFESION">Neuróloga Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">12/06/1992</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">27474038</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitari Vall d'Hebron</TAG>
+    Informe clínico del paciente:
+    El paciente, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">61 años</TAG> de edad, fue ingresado en la unidad de neurología debido a una serie de síntomas que comenzaron a manifestarse en los últimos meses. El paciente refirió dolores de cabeza frecuentes, mareos y dificultad para mantener el equilibrio. También presentó una disminución en su capacidad para recordar eventos recientes y una dificultad para encontrar palabras en su idioma nativo. El paciente también refirió una sensación de cansancio y fatiga generalizada.
+    La exploración física reveló signos de deterioro cognitivo, incluyendo una disminución en la velocidad de procesamiento y una dificultad para realizar tareas que requieren una gran cantidad de atención y concentración. El paciente también presentó signos de deterioro motor, incluyendo una disminución en la fuerza muscular y una dificultad para mantener el equilibrio.
+    Los análisis de laboratorio mostraron signos de inflamación en el cerebro y una disminución en la función cognitiva. El paciente fue diagnosticado con una enfermedad neurodegenerativa, específicamente con una forma leve de demencia.
+    El tratamiento incluyó medicamentos para controlar los síntomas y mejorar la función cognitiva. El paciente también recibió terapia ocupacional y fisioterapia para ayudarlo a mantener sus habilidades motoras y cognitivas. El paciente fue dado de alta del hospital después de una semana de tratamiento y se le recomendó seguir con el tratamiento en su casa.
+    En la revisión del paciente en la clínica, se observó una mejoría en los síntomas y una mejora en la función cognitiva. El paciente continuó con el tratamiento y se le realizó una revisión regular para monitorear su progreso.
+  </TEXT>
+</MEDDOCAN>

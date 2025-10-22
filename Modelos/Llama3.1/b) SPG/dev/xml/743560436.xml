@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lara</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pereira Arroyo</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">62330846H</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">19/08/2008</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de la Alameda 95, 4X</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">Écija</TAG>, <TAG TYPE="TERRITORIO">Cádiz</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">11201</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">larapereira@gmail.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 58 90 49</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 656 62 32 17</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9038552</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Almacén</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ana Belén Ortega Ramos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">467009381</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">12/11/2017</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">44229652</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Universitario de Valencia</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2009GVX</TAG>
+  Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Honda Civic</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSCEZ227DBU488801</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>.
+  </TEXT>
+</MEDDOCAN>

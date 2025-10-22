@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ana</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Torres Arroyo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">22725531J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/05/1941</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Carmen 25</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Úbeda</TAG>, <TAG TYPE="TERRITORIO">Valladolid</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">47788</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ana_torres.arroyo@h12o.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 983 48 07 68</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 683 60 88 67</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2879158</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">382469514035</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador Industrial</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Cristina Marín Soriano</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">927737903</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Psiquiatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">23/05/1977</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">03616741</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Asistencial Universitario Salamanca</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6772ZNC</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Ford Mustang</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSVL4OAJG2T251736</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">36 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">suegro</TAG>. Se registró una consulta virtual desde la dirección IP <TAG TYPE="DIREC_PROT_INTERNET">192.168.66.27</TAG>, con dirección MAC <TAG TYPE="IDENTIF_BIOMETRICOS">9B:DA:92:23:33:BA</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ahmed Plaza Soriano
+DNI: 72724831G
+Fecha de nacimiento: 09/03/2025
+Género: M
+Domicilio: Calle de la Cabeza 93
+Ciudad: Majadahonda, Santa Cruz de Tenerife, Canarias
+Código postal: 38570
+Email: plaza537@udc.es
+Teléfono fijo: +34 922 54 27 37
+Teléfono móvil: +34 722 41 51 43
+NHC: 2469293
+NASS: 127004945971
+Condición de riesgo: Trabajador Industrial
+
+Datos asistenciales.
+Médico: Dr. Alberto Vega Rueda. NC 111416120. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 09/03/2025
+Hospital: Hospital Clínic Barcelona
+Matrícula del coche: 7841EQU
+Modelo: Ram 1500
+VIN: VSTT7R59QPF102164
+
+Informe clínico del paciente:
+Paciente de ascendencia australiana de 0 meses de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Ahmed" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Plaza Soriano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="72724831G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="137" text="Calle de la Cabeza 93" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="157" text="Majadahonda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="181" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="183" end="191" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="38570" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="235" text="plaza537@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 922 54 27 37" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 722 41 51 43" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="2469293" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="127004945971" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="354" end="375" text="Trabajador Industrial" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="410" end="428" text="Alberto Vega Rueda" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="433" end="442" text="111416120" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="444" end="482" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="484" end="551" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="553" end="580" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="582" end="587" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="589" end="596" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="598" end="604" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="624" end="634" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="645" end="670" text="Hospital Clínic Barcelona" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="692" end="699" text="7841EQU" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="722" end="739" text="VSTT7R59QPF102164" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="783" end="806" text="ascendencia australiana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="810" end="817" text="0 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="844" end="850" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

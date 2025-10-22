@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gregorio Cortés López</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">40079841H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/03/1993</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Áncora 16</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ontinyent</TAG>, <TAG TYPE="TERRITORIO">Orense</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">32114</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">OKVT9unkBaS@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 988 56 04 32</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 688 76 72 77</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8846309</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">423129880313</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Electricista</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Eugenio Bermudez Romero</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">NC</TAG> <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">891550277</TAG> <TAG TYPE="PROFESION">Residente de 5° año en Urología</TAG> <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n.</TAG> <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">16/09/2022</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">61776107</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Puente de Vallecas</TAG>
+    Informe clínico del paciente:
+    El paciente, de un año de edad, fue ingresado en la unidad de Urología con síntomas de dolor abdominal y frecuencia urinaria. La madre del paciente informó que había comenzado a notar estos síntomas en las últimas 48 horas. El paciente tiene una condición de riesgo de Electricista, lo que puede aumentar su riesgo de desarrollar problemas de salud relacionados con la exposición a la electricidad.
+    La exploración física reveló que el paciente estaba consciente, orientado y con buen estado de nutrición e hidratación. La temperatura corporal fue de 37,5°C y la presión arterial fue de 90/60 mmHg. La exploración abdominal reveló un dolor en la región lumbar y la orina fue de color amarillento.
+    Se solicitó una serie de pruebas para determinar la causa del dolor abdominal y la frecuencia urinaria del paciente. Las pruebas incluyeron una ecografía abdominal, una radiografía de tórax y una analítica de orina. Los resultados de las pruebas mostraron que el paciente tenía una infección urinaria, probablemente causada por una bacteria.
+    Se inició el tratamiento con antibióticos y se le recomendó al paciente y a su madre que se mantuvieran hidratados y que se tomaran medidas para evitar la propagación de la infección. El paciente se encuentra en observación en la unidad de Urología y se le realizarán más pruebas para determinar la causa exacta del dolor abdominal y la frecuencia urinaria.
+    Antecedentes:
+    El paciente no tiene antecedentes médicos relevantes.
+    Evolución y comentarios:
+    El paciente ha estado bien durante la observación y ha respondido bien al tratamiento. Se le realizarán más pruebas para determinar la causa exacta del dolor abdominal y la frecuencia urinaria.
+    Remitido por:
+    El paciente fue remitido por su madre, quien informó que había comenzado a notar los síntomas en las últimas 48 horas.
+  </TEXT>
+</MEDDOCAN>

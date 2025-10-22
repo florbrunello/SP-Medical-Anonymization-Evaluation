@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Elena Aparicio Castro</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">47780168Z</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">01/03/2012</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de las Letras 23</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ronda, Ciudad Real, Castilla-La Mancha</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">13678</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariaelena@uhu.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 40 36 29</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 626 75 07 87</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9048235</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. José Luis Cuesta Aguilera</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">613317502</TAG>. Residente de <TAG TYPE="PROFESION">4° año</TAG> en <TAG TYPE="PROFESION">Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">12/06/2016</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">84731653</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Sur</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">descendencia africana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> de edad, acompañado de su madre. Se registró una sesión de huella dactilar, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">HU346GXF600</TAG>.
+    Fecha de ingreso:
+    <TAG TYPE="FECHAS">12/06/2016</TAG>
+    Centro de salud de ingreso:
+    <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Sur</TAG>
+  </TEXT>
+</MEDDOCAN>

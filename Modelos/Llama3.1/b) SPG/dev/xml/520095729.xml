@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Francisco Javier</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ramos Simon</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">35694729V</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/07/2021</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Virgen de los Peligros 58</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Lugo</TAG>, <TAG TYPE="TERRITORIO">Alicante</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">03935</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">franciscojavierramos-simon@ucm.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 965 30 96 71</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 665 19 19 14</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4546914</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Silvia Soler Soto</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">787922819</TAG>. <TAG TYPE="PROFESION">Gastroenteróloga Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/07/2022</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">54008497</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitari Vall d'Hebron</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6635CQX</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Chevrolet Silverado</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSGQP7I0E5S880108</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">JO431WUE153</TAG>.
+  </TEXT>
+</MEDDOCAN>

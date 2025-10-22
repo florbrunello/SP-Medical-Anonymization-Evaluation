@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Manuela Morales Cabrera
+DNI: 67539363R
+Fecha de nacimiento: 11/01/1989
+Género: Mujer
+Domicilio: Calle de Embajadores 61, 6X
+Ciudad: Elda, Teruel, Aragón
+Código postal: 44075
+Email: manuela@uca.es
+Teléfono fijo: +34 978 49 11 69
+Teléfono móvil: +34 678 44 45 86
+NHC: 6194951
+
+Datos asistenciales.
+Médico: Dra. Susana Carmona Rey. NC 610597653. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 50535453
+Centro de salud: Centro de Salud Valdemoro
+
+Informe clínico del paciente:
+Paciente judío de 36 años de edad, acompañado de su amigo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Manuela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="51" text="Morales Cabrera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="67539363R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="11/01/1989" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="112" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="151" text="Calle de Embajadores 61, 6X" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="164" text="Elda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="172" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="180" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="44075" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="223" text="manuela@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="239" end="255" text="+34 978 49 11 69" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="272" end="288" text="+34 678 44 45 86" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="294" end="301" text="6194951" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="554" end="564" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="575" end="583" text="50535453" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="601" end="626" text="Centro de Salud Valdemoro" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T18" start="667" end="672" text="judío" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="676" end="683" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="710" end="715" text="amigo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

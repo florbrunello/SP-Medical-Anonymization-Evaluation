@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Antonio</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lopez Gomez</TAG>.
+    CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc-79431562</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">32 65474612 65</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Avenida de los periodistas 66, 9B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28036</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">79431562</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">25/05/1942</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA"> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA"></TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">08/08/2017</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Nerea</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Senarriaga Ruiz de la Illa</TAG>  NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">20 20 34913</TAG>.
+    Motivo de ingreso: El paciente se presenta debido a <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas leves del tracto urinario inferior</TAG>, se objetiva en una anterior radiografía simple de abdomen una imagen cálcica anular paravesical derecha pelviana.
+    Antecedentes: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> e <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hiperplasia benigna de próstata</TAG>.
+    Pruebas complementarias: se realiza <TAG TYPE="PROFESION">TC</TAG> abdominal y se observa, en situación retrovesical, dos masas, una de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 cm</TAG> y otra de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">1,5 cm</TAG> de diámetro, de paredes calcificadas, compatible con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">quiste hidatídico retrovesical</TAG>, sin otros hallazgos en el abdomen ni en la radiografía de tórax.
+    Evolución y comentarios: El paciente, desde el comienzo, se ha encontrado <TAG TYPE="OTROS_SUJETO_ASISTENCIA">asintomático</TAG>, por lo que se han establecido controles periódicos mediante <TAG TYPE="PROFESION">TC</TAG>, y ha permanecido invariable con el paso del tiempo; persiste en la cavidad pelviana una masa de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2,5 cm</TAG> de diámetro, heterogénea, que asienta por encima de la vesícula seminal izquierda, junto con otra similar algo más pequeña totalmente calcificada en su periferia en el lado derecho, en relación con su <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hidatidosis pelviana</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Nerea</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Senarriaga Ruiz de la Illa</TAG>. <TAG TYPE="HOSPITAL">Hospital Universitario Donostia</TAG>. <TAG TYPE="CALLE">Paseo Dr. Begiristain, s/n</TAG> <TAG TYPE="TERRITORIO">20014</TAG> <TAG TYPE="TERRITORIO">Donostia</TAG>. Email: <TAG TYPE="CORREO_ELECTRONICO">nerea.senarriagaruiz@osakidetza.net</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Adrián Flores Escudero
+DNI: 91465913L
+Fecha de nacimiento: 25/06/1932
+Género: Varón
+Domicilio: Calle Gran Vía 62, 6N
+Ciudad: San Fernando, Almería, Andalucía
+Código postal: 04097
+Email: adrian.flores1812@hotmail.com
+Teléfono fijo: +34 950 67 00 04
+Teléfono móvil: +34 650 20 74 30
+NHC: 2407590
+Condición de riesgo: Trabajador de Mantenimiento
+
+Datos asistenciales.
+Médico: Dr. José Manuel Ferrer Pascual. NC 940111024. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/07/1969
+Hospital: Hospital General Universitario Reina Sofía
+
+Informe clínico del paciente:
+Paciente de tez blanca de 37 años de edad, acompañado de su suegra. Se registró una sesión de huella dactilar, el código obtenido para revisarla es IE207FOR591. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es ZW621XQA854. Se registró una sesión de firma biométrica, el código obtenido para revisarla es KY800WEF856. 

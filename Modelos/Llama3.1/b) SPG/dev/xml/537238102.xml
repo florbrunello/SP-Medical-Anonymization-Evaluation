@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Claudia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ramírez Palacios</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">91863554J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/02/2010</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Piamonte 72, 1E</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Logroño</TAG>, <TAG TYPE="TERRITORIO">Vizcaya</TAG>, <TAG TYPE="TERRITORIO">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">48220</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ramirez.palacios@aol.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 946 44 47 91</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 646 23 52 45</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9381667</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">147663598238</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Arturo Rivas Salas</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">163965707</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/06/2020</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Ciudad Lineal</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">musulman</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

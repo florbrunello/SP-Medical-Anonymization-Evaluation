@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sandra</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Castaño Sanz</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">13327974A</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/06/1970</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Marqués de Urquijo 84</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Zamora</TAG>, <TAG TYPE="TERRITORIO">Almería</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">04585</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">sandra@ciberehd.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 950 55 38 62</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 750 65 86 38</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2020981</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">752275243070</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Almacén</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ana Belén Montoya Lara</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">730681417</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">30/12/2008</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Universitario de Valencia</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">38 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hija</TAG>.
+    El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-healthcare.net</TAG>.
+  </TEXT>
+</MEDDOCAN>

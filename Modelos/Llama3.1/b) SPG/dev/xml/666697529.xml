@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alfonso Andres</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Camacho</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">31373659A</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/10/1973</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Almagro 76</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Getafe</TAG>, <TAG TYPE="TERRITORIO">Teruel</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">44702</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">alfonso_andres_camacho@uhu.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 978 35 24 04</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 678 29 92 32</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0215437</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">448729669155</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Mantenimiento</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Izan Paredes Díaz</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">460271844</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">13/07/2024</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">26181587</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Barcelona</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">9597AWV</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mazda CX-5</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSM46ZGMYDL453338</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">50 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

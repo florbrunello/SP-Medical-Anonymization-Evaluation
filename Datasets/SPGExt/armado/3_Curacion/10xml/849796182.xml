@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Antonio José Santos Caballero</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">14491915Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/04/1962</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Libertad 51</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Torrelodones</TAG>
+    Provincia: <TAG TYPE="TERRITORIO">Salamanca</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">37782</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">pWw0Zsk6Cr@ioba.med.uva.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 28 70 33</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 623 85 84 49</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2532005</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">885680089229</TAG>
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Microbiólogo</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Elvira Calderon Ortega</TAG>
+    NC: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">082284604</TAG>
+    Cargo: <TAG TYPE="PROFESION">Residente de 5° año en Neurología</TAG>
+    Institución: <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>
+    Dirección: <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5. 28029. Madrid. España</TAG>
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/02/2015</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">88586574</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Aluche</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">52 años</TAG> de edad, de ascendencia norteamericana, acompañado de su abuela, presenta una condición médica sin especificar. Se ha registrado una sesión de reconocimiento facial, cuyo código de revisión es <TAG TYPE="IDENTIF_BIOMETRICOS">XW552GNK624</TAG>.
+    Antecedentes:
+    No se dispone de información sobre antecedentes médicos previos del paciente.
+    Evolución y comentarios:
+    No se ha proporcionado información sobre la evolución clínica del paciente.
+    Remitido por:
+    No se ha proporcionado información sobre el médico que remitió al paciente al centro de salud.
+  </TEXT>
+</MEDDOCAN>

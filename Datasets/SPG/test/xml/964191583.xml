@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Pau Zamora Salazar
+DNI: 65061925P
+Fecha de nacimiento: 04/05/1992
+Género: Varón
+Domicilio: Calle de Covarrubias 30
+Ciudad: Huelva, Santa Cruz de Tenerife, Canarias
+Código postal: 38551
+Email: zamora@aol.com
+Teléfono fijo: +34 922 15 46 72
+Teléfono móvil: +34 622 49 59 19
+NHC: 4832654
+
+Datos asistenciales.
+Médico: Dra. Remedios Carrillo Silva. NC 619111435. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/06/2012
+Episodio: 24621056
+Hospital: Hospital Universitario Reina Sofía de Córdoba
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 20 años de edad, acompañado de su hijo. Se realizó un expediente con URL http://example-clinica.com//50515210P. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Pau" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="46" text="Zamora Salazar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="65061925P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="04/05/1992" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="107" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="142" text="Calle de Covarrubias 30" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="157" text="Huelva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="181" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="183" end="191" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="38551" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="234" text="zamora@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 922 15 46 72" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 622 49 59 19" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="4832654" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="583" end="593" text="14/06/2012" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="604" end="612" text="24621056" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="623" end="668" text="Hospital Universitario Reina Sofía de Córdoba" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="709" end="730" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="734" end="741" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="768" end="772" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="807" end="829" text="http://example-clinica" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

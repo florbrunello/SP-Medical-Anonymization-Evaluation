@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mariano León Moya</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">68052475Y</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/06/1995</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Marqués de Urquijo 51</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad autónoma de Ceuta, Ceuta</TAG>, 
+    Código postal: <TAG TYPE="TERRITORIO">52226</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">marianomoya@protonmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 35 06 42</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 956 44 31 32</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4035050</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Mantenimiento</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Almudena Parra Rivera</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">339608598</TAG>. <TAG TYPE="PROFESION">Investigadora Clínica en Insuficiencia Cardíaca</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">07/09/2015</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">33917524</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Ramón y Cajal</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2420CBZ</TAG>.
+    Modelo: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">Chrysler Pacifica</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSS2C99Y38I511154</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática occidental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG>, que acude al servicio de urgencias con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor torácico agudo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dificultad para respirar</TAG>. La exploración física revela: <TAG TYPE="FECHAS">Tª 38,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 22 lpm</TAG>. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En la exploración cardíaca se aprecia una frecuencia cardíaca acelerada y una presión arterial elevada. Los análisis de sangre muestran un aumento en la creatinina y una disminución en la función renal.
+    Se solicitan pruebas complementarias, incluyendo una ecografía cardíaca y una resonancia magnética de la cabeza y el cuello. Los resultados de las pruebas revelan una coagulación sanguínea anormal y una lesión en la arteria coronaria. Se decide someter al paciente a una angiografía coronaria para evaluar la lesión.
+    El paciente es sometido a una angiografía coronaria, que revela una lesión en la arteria coronaria principal. Se decide someter al paciente a una angioplastia coronaria para restaurar la circulación sanguínea. La angioplastia se realiza con éxito, y el paciente es sometido a una quimioterapia para prevenir la coagulación sanguínea.
+    El paciente se encuentra estable en la unidad de cuidados intensivos, y se le sigue monitoreando de cerca. Se le prescribe un tratamiento con antiagregantes plaquetarios y un régimen de medicamentos para prevenir la coagulación sanguínea.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y se ha sometido a varias sesiones de terapia física para mejorar su condición cardiovascular.
+    Evolución y comentarios:
+    El paciente ha mostrado una buena respuesta al tratamiento y se encuentra estable en la unidad de cuidados intensivos. Se le seguirá monitoreando de cerca para evitar complicaciones.
+    Remitido por:
+    Se remite al paciente a la unidad de cardiología para seguir su seguimiento y tratamiento.
+  </TEXT>
+</MEDDOCAN>

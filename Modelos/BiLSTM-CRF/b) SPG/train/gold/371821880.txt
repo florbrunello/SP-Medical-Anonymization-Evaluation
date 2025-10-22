@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Cristina Miguel Varela
+DNI: 97905373P
+Fecha de nacimiento: 16/02/1957
+Género: F
+Domicilio: Calle de Velázquez 27
+Ciudad: Ourense, Alicante, Comunidad Valenciana
+Código postal: 03147
+Email: varela@ioba.med.uva.es
+Teléfono fijo: +34 965 61 81 86
+FAX: +34 965 60 30 73
+NHC: 6937015
+NASS: 102275343900
+Condición de riesgo: Pintor de Construcción
+
+Datos asistenciales.
+Médico: Dr. José Manuel Calderon Guillen. NC 593840367. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 16/11/1992
+Centro de salud: Centro de Salud Sevilla Oeste
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 35 años de edad. El servidor para envío de información desde cual el usuario se comunica es smtp://example-clinica.com. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es LN921MPH995. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es RL561EVH845. 

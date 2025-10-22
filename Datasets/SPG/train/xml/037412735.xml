@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Carolina Muñoz Calderon
+DNI: 16959821N
+Fecha de nacimiento: 02/07/2023
+Género: F
+Domicilio: Calle de Preciados 51
+Ciudad: San Vicente del Raspeig, Lérida, Cataluña
+Código postal: 25714
+Email: munoz478@isciii.es
+Teléfono fijo: +34 973 16 97 08
+Teléfono móvil: +34 773 86 57 18
+NHC: 2251905
+NASS: 759812444938
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dr. Víctor Paredes Escobar. NC 142636383. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 06/09/2024
+Episodio: 17756245
+Centro de salud: Centro de Salud Alcalá de Henares
+Matrícula del coche: 4694VIL
+Modelo: Kia Sorento
+VIN: VSVVVXA6QAT363400
+
+Informe clínico del paciente:
+Paciente transeúnte de un año de edad, acompañado de su padre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-therapy.org. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es GO489FQI484. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Carolina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="51" text="Muñoz Calderon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="16959821N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="02/07/2023" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="141" text="Calle de Preciados 51" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="173" text="San Vicente del Raspeig" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="175" end="181" text="Lérida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="183" end="191" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="25714" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="238" text="munoz478@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 973 16 97 08" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 773 86 57 18" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="2251905" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="323" end="335" text="759812444938" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="357" end="367" text="Paramédico" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="402" end="424" text="Víctor Paredes Escobar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="429" end="438" text="142636383" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="440" end="478" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="480" end="547" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="549" end="576" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="578" end="583" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="585" end="592" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="594" end="600" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="620" end="630" text="06/09/2024" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="641" end="649" text="17756245" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="667" end="700" text="Centro de Salud Alcalá de Henares" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="722" end="729" text="4694VIL" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="755" end="772" text="VSVVVXA6QAT363400" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="813" end="823" text="transeúnte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="827" end="833" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="860" end="865" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T33" start="942" end="964" text="smtp://example-therapy" TYPE="URL_WEB" comment=""/>
+        <ID id="T34" start="1052" end="1063" text="GO489FQI484" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Nieves</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mendoza Ruiz</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">72782110J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/11/1979</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Ibiza 16, 10P</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Fuenlabrada</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">17534</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">marianieves-ruiz1520@salud.madrid.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 88 61 34</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 772 72 54 11</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8443009</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">997244982767</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Guardia de Seguridad</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Ángeles Galvez Castro</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">482838612</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">30/12/1996</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">98067548</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Doctor Peset</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">17 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuelo</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">escaneo del iris</TAG>, el <TAG TYPE="IDENTIF_BIOMETRICOS">código obtenido para revisarla</TAG> es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">HD563YJV509</TAG>.
+  </TEXT>
+</MEDDOCAN>

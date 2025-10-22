@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Araceli Sierra Lorenzo
+DNI: 53398368G
+Fecha de nacimiento: 03/04/1960
+Género: M
+Domicilio: Calle de Gobernador 83
+Ciudad: Langreo, Zamora, Castilla y León
+Código postal: 49632
+Email: araceli.sierra.lorenzo582@uhu.es
+Teléfono fijo: +34 980 83 20 26
+FAX: +34 980 00 07 41
+NHC: 7314813
+NASS: 888843696261
+
+Datos asistenciales.
+Médico: Dr. Gregorio Ortiz Mora. NC 024515863. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/06/1974
+Episodio: 88906248
+Hospital: Hospital Regional Universitario de Málaga
+Matrícula del coche: 5461NSC
+Modelo: Toyota RAV4
+VIN: VSBKPL2EZ4C553029
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 14 años de edad, acompañado de su abuela. Se registró una sesión de huella dactilar, el código obtenido para revisarla es LL378LXM344. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Araceli" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Sierra Lorenzo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="53398368G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="03/04/1960" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="141" text="Calle de Gobernador 83" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="157" text="Langreo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="165" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="167" end="182" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="49632" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="243" text="araceli.sierra.lorenzo582@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 980 83 20 26" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 980 00 07 41" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="303" end="310" text="7314813" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="888843696261" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="364" end="383" text="Gregorio Ortiz Mora" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="388" end="397" text="024515863" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="399" end="454" text="Gastroenterólogo Especialista en Enfermedades Hepáticas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="456" end="549" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="551" end="580" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="582" end="587" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="589" end="595" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="597" end="603" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="623" end="633" text="18/06/1974" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="644" end="652" text="88906248" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="663" end="704" text="Hospital Regional Universitario de Málaga" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="726" end="733" text="5461NSC" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="759" end="776" text="VSBKPL2EZ4C553029" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="820" end="848" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="852" end="859" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="886" end="892" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T32" start="974" end="985" text="LL378LXM344" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

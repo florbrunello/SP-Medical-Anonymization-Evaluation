@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Cristóbal Rivas Montes
+DNI: 48451016K
+Fecha de nacimiento: 12/11/2000
+Género: V
+Domicilio: Calle de Villalar 94, 7Z
+Ciudad: Xirivella, Barcelona, Cataluña
+Código postal: 08176
+Email: cristobal_montes624@h12o.es
+Teléfono fijo: +34 932 05 83 71
+Teléfono móvil: +34 634 87 72 75
+NHC: 4165420
+NASS: 658958795387
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dr. Moisés Sanz Arias. NC 150584238. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/07/2013
+Centro de salud: Centro de Salud Aluche
+Matrícula del coche: 0221JHH
+Modelo: Mazda CX-5
+VIN: VSITD7SBX1H834011
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 12 años de edad, acompañado de su abuela. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es AK009HNW661. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Cristóbal" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="50" text="Rivas Montes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="48451016K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="12/11/2000" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="143" text="Calle de Villalar 94, 7Z" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="161" text="Xirivella" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="172" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="182" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="08176" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="238" text="cristobal_montes624@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 932 05 83 71" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 634 87 72 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="4165420" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="323" end="335" text="658958795387" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="357" end="363" text="Minero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="398" end="415" text="Moisés Sanz Arias" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="420" end="429" text="150584238" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="431" end="468" text="Investigador Clínico en Epidemiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="470" end="554" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="556" end="585" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="587" end="592" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="594" end="600" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="602" end="608" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="628" end="638" text="09/07/2013" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="656" end="678" text="Centro de Salud Aluche" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="700" end="707" text="0221JHH" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="732" end="749" text="VSITD7SBX1H834011" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="793" end="814" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="818" end="825" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="852" end="858" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T32" start="946" end="957" text="AK009HNW661" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

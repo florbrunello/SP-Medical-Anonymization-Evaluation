@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Noelia</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Benitez Breton</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4358970</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">38 69730405 22</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. De las Provincias, 86, 3 C</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Badajoz</TAG>.
+    CP: <TAG TYPE="TERRITORIO">06233</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/01/1938</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">77 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/08/2015</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Luis Miguel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bernal García</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">06 06 22856</TAG>.
+    Informe clínico del paciente: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">77 años</TAG> de edad con único antecedente de hipertensión arterial. Presentaba un cuadro clínico consistente en ataxia de la marcha, incontinencia de esfínteres y trastorno de funciones superiores. Los estudios de neuroimagen mostraron dilatación del sistema ventricular, por lo que, ante la sospecha de una HCA, se procedió a la colocación de un DLE. A las 30 horas de su colocación comenzó, bruscamente, a presentar cefaleas y vómitos no asociados a ortostatismo. No hubo deterioro del nivel de consciencia. En la bolsa de drenaje había <TAG TYPE="NUMERO">510</TAG> ml de LCR. Una TC craneal, mostró un hematoma en el hemisferio cerebeloso izquierdo, de disposición transversal, con escaso efecto de masa. Ante los hallazgos y la situación clínica de la paciente, se decidió la retirada del DLE y tratamiento conservador. En la RM cerebral realizada previa al ingreso se había descartado patología subyacente. A los cinco días la paciente fue dada de alta con recuperación hasta su estado premórbido.
+    No se le implantó válvula de derivación al no objetivarse mejoría con la colocación de DLE.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Luis Miguel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bernal García</TAG>. <TAG TYPE="PROFESION">S. de Neurocirugía</TAG>. <TAG TYPE="HOSPITAL">Hospital Infanta Cristina</TAG>. <TAG TYPE="CALLE">Avenida de Elvas s/n</TAG>. <TAG TYPE="TERRITORIO">Badajoz</TAG>.
+  </TEXT>
+</MEDDOCAN>

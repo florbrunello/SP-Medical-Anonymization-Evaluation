@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santiago Quintana Montero</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">49364377Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/02/1986</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de San Ildefonso 87, 9V</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Totana, Mallorca, Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07031</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">4V7Iix@hotmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 11 29 05</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 771 91 89 38</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4018695</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">763985754183</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente pediátrico</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Asier Conde Ramos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">389097768</TAG>. <TAG TYPE="PROFESION">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/08/1993</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">24485443</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital General de Villalba</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia europea oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP <TAG TYPE="DIREC_PROT_INTERNET">(en red interna)</TAG> <TAG TYPE="NUMERO_IP">192.168.95.250</TAG>, con dirección MAC <TAG TYPE="IDENTIF_BIOMETRICOS">D8:93:AD:49:9B:49</TAG>. El paciente presenta una temperatura corporal de <TAG TYPE="FECHAS">37,5°C</TAG>, sin síntomas de infección respiratoria. La exploración física revela un estado general bueno, con buena nutrición y hidratación. La exploración neurológica no muestra signos de alteración.
+    Antecedentes:
+    El paciente tiene una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alergia a los alimentos</TAG>, específicamente a la <TAG TYPE="OTRO_NUMERO_IDENTIF">leche de vaca</TAG>. Ha tenido episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urticaria</TAG> en el pasado después de consumir productos lácteos.
+    Evolución y comentarios:
+    El paciente ha estado bien durante los últimos días, sin síntomas de infección. Se le ha recomendado seguir una dieta libre de lácteos para evitar reacciones alérgicas.
+    Remitido por:
+    El paciente ha sido remitido por su <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">pediatra de cabecera</TAG>, quien ha solicitado una evaluación más detallada de su condición alérgica.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/08/1993</TAG>
+    Centro de salud de ingreso: <TAG TYPE="HOSPITAL">Hospital General de Villalba</TAG>
+  </TEXT>
+</MEDDOCAN>

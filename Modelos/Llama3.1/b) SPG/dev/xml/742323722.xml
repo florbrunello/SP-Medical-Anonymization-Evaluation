@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Isabel María</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Bermudez Sierra</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">42313288G</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">31/12/2006</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Arenal 49, 4I</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Torrelodones</TAG>, <TAG TYPE="TERRITORIO">Guadalajara</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">19847</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">isabelmaria.bermudezsierra@ciberehd.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 949 97 95 64</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 649 40 05 45</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2928861</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">986119120462</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador Industrial</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Manuel Jesús Castro Montoya</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">920509304</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">21/06/2014</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Chamartín</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7551FFC</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">BMW 3 Series</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSPO0F68YRO188736</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

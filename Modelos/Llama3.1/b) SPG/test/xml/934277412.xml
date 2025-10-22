@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lidia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aparicio</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Costa</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">62419506J</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">22/11/1980</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Valverde 49</TAG>, <TAG TYPE="NUMERO">10F</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">León</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">18021</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">costa@imibic.org</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 33 05 60</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 958 31 76 38</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4505205</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Germán Montoya Lorenzo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">629557968</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neurólogo Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">07/02/1985</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuenlabrada</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">exfumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">KT478TCB792</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Miriam</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aguilar Mora</TAG>.
+    CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc-7984385</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">36 73914652 36</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Paseo Echegaray y Caballero 100, 3,1</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Zaragoza</TAG>.
+    CP: <TAG TYPE="TERRITORIO">50001</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7984385</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/01/1974</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">43</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">12/05/2017</TAG>.
+    Especialidad: <TAG TYPE="PROFESION">Hematología</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jorge</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Subirá Ríos</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">50 50 53214</TAG>.
+    Motivo de ingreso: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">leucocitosis aislada</TAG>.
+    Antecedentes: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">histerectomizada y ooferectomizada derecha por endometriosis</TAG>.
+    Historia Actual: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">43 años</TAG> de edad, <TAG TYPE="OTRO_NUMERO_IDENTIF">ama de casa</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">alérgica al contraste yodado</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">fumadora de 1 paquete diario de cigarrillos</TAG>, se encuentra en <TAG TYPE="PROFESION">estudio por el Servicio de Hematología</TAG> por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">leucocitosis aislada</TAG>; En el interrogatorio refiere un ingreso de 27 días de duración, cuando tenía 12 años, en otro hospital por dolor lumbar con hematuria sin conocer su diagnóstico. También refiere ocasionales dolores lumbares de tipo mecánico con astenia moderada.
+    Exploración física: <TAG TYPE="OTRO_NUMERO_IDENTIF">sin hallazgos</TAG>
+    Resumen de pruebas complementarias: se le realizó <TAG TYPE="PROFESION">ecografía abdominal</TAG> hallando un riñón izquierdo desestructurado con imágenes quísticas o hidronefrosis.
+    hemograma con ligera leucocitosis sin desviación de fórmula leucocitaria siendo el resto normal, bioquímica y coagulación normales.
+    Renograma MAG-3-Tc-99m: riñón derecho normal. Captación heterogénea en riñón izquierdo con dilatación calicilar superior, retención en polo superior izquierdo presentando un enlentecimiento excretor de la curva cuya actividad desaparece en imágenes tardías.
+    TC sin contraste: <TAG TYPE="OTRO_NUMERO_IDENTIF">masa quística renal polar superior izquierda de aproximadamente 12 cm. de diámetro máximo</TAG> desplazando páncreas y bazo. Internamente constituida por múltiples quistes de diferentes tamaños y presenta tabiques internos heterogéneos, alguno de ellos grueso e irregular sugestivo de <TAG TYPE="OTRO_NUMERO_IDENTIF">nefroma quístico multinodular o carcinoma de células renales quístico</TAG>.
+    Se decide realizar <TAG TYPE="PROFESION">nefrectomía con linfadenectomía izquierda</TAG>. En el estudio anatomopatológico de la pieza se informa como riñón que presenta tumoración de 9x10 cm. multiquística que ocupa la mayor parte del riñón. El contenido del quiste es ambarino sin presencia de partes sólidas ni adherencia del tumor en la cápsula. Las cavidades están revestidas de un epitelio simple con presencia de frecuentes células con morfología en "tachuela". El estroma intercelular es fibroso. Lesión bien delimitada del parénquima renal conservado. Diagnóstico anatomopatológico de <TAG TYPE="OTRO_NUMERO_IDENTIF">tumor quístico multilocular benigno de riñón</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jorge</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Subirá Ríos</TAG>. <TAG TYPE="CALLE">Calle San Francisco 7, 3D</TAG> <TAG TYPE="TERRITORIO">50006</TAG> <TAG TYPE="TERRITORIO">Zaragoza</TAG>. (<TAG TYPE="PAIS">España</TAG>). <TAG TYPE="CORREO_ELECTRONICO">kokedoc@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

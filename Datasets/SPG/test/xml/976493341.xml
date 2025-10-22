@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ahmed Macias Jiménez
+DNI: 28067380C
+Fecha de nacimiento: 01/03/1942
+Género: H
+Domicilio: Calle de Eduardo Dato 51
+Ciudad: Jaca, Ibiza, Islas Baleares
+Código postal: 07847
+Email: macias@ciberehd.org
+Teléfono fijo: +34 971 88 81 69
+Teléfono móvil: +34 771 05 79 59
+NHC: 1963684
+NASS: 739345763604
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dra. Andrea Martínez Pastor. NC 537316574. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/02/2002
+Episodio: 98044560
+Centro de salud: Centro de Salud Sevilla Norte
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 59 años de edad, acompañado de su tía. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Ahmed" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Macias Jiménez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="28067380C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="01/03/1942" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="141" text="Calle de Eduardo Dato 51" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="154" text="Jaca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="161" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="163" end="177" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="193" end="198" text="07847" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="206" end="225" text="macias@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 971 88 81 69" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 771 05 79 59" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="296" end="303" text="1963684" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="310" end="322" text="739345763604" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="344" end="350" text="Médico" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="607" end="617" text="09/02/2002" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="628" end="636" text="98044560" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="654" end="683" text="Centro de Salud Sevilla Norte" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="727" end="748" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="752" end="759" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="786" end="789" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

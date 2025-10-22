@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Rosario Herrera Garrido
+DNI: 41285166M
+Fecha de nacimiento: 18/05/2012
+Género: Mujer
+Domicilio: Calle de Santa Ana 46
+Ciudad: Salamanca, Ciudad Real, Castilla-La Mancha
+Código postal: 13729
+Email: mariarosariogarrido@hotmail.com
+Teléfono fijo: +34 926 82 07 12
+Teléfono móvil: +34 626 67 72 55
+NHC: 6375672
+NASS: 458155862406
+Condición de riesgo: Soldado
+
+Datos asistenciales.
+Médico: Dra. Sofía Zamora Bermudez. NC 674953567. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 19/07/2018
+Episodio: 36901283
+Hospital: Complejo Asistencial Universitario de León
+Matrícula del coche: 7294RBK
+Modelo: Honda CR-V
+VIN: VSJ4KULILXW135919
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 6 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Rosario" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="57" text="Herrera Garrido" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="63" end="72" text="41285166M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="94" end="104" text="18/05/2012" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="113" end="118" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="130" end="151" text="Calle de Santa Ana 46" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="169" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="182" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="184" end="202" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="218" end="223" text="13729" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="231" end="262" text="mariarosariogarrido@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="278" end="294" text="+34 926 82 07 12" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="311" end="327" text="+34 626 67 72 55" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="333" end="340" text="6375672" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="347" end="359" text="458155862406" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="381" end="388" text="Soldado" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="644" end="654" text="19/07/2018" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="665" end="673" text="36901283" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="684" end="726" text="Complejo Asistencial Universitario de León" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="748" end="755" text="7294RBK" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="780" end="797" text="VSJ4KULILXW135919" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="838" end="859" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="863" end="869" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="896" end="901" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

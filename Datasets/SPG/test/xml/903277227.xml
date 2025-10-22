@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Christian Valero Durán
+DNI: 83644176F
+Fecha de nacimiento: 28/06/1975
+Género: Varón
+Domicilio: Calle de Don Ramón de la Cruz 60
+Ciudad: Parla, Huelva, Andalucía
+Código postal: 21524
+Email: valero.duran@ual.es
+Teléfono fijo: +34 959 87 52 07
+Teléfono móvil: +34 659 40 85 64
+NHC: 2214465
+NASS: 717844049728
+Condición de riesgo: Operador de Maquinaria Pesada
+
+Datos asistenciales.
+Médico: Dra. María Luz Méndez León. NC 718631569. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/04/2007
+Episodio: 02171681
+Hospital: Hospital Universitario de Basurto
+Matrícula del coche: 6292RRG
+Modelo: Subaru Outback
+VIN: VSFTUHWXLMK513538
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 31 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Christian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="50" text="Valero Durán" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="83644176F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="28/06/1975" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="155" text="Calle de Don Ramón de la Cruz 60" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="164" end="169" text="Parla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="177" text="Huelva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="188" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="21524" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="236" text="valero.duran@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 959 87 52 07" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="285" end="301" text="+34 659 40 85 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="307" end="314" text="2214465" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="321" end="333" text="717844049728" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="355" end="384" text="Operador de Maquinaria Pesada" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="657" end="667" text="20/04/2007" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="678" end="686" text="02171681" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="697" end="730" text="Hospital Universitario de Basurto" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="752" end="759" text="6292RRG" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="788" end="805" text="VSFTUHWXLMK513538" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="846" end="867" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="871" end="878" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

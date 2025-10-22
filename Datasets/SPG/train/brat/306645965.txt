@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Lucas Hidalgo Alonso
+DNI: 48391990J
+Fecha de nacimiento: 18/07/1942
+Género: Masculino
+Domicilio: Calle del Olivar 42
+Ciudad: San Pedro del Pinatar, Barcelona, Cataluña
+Código postal: 08056
+Email: hidalgo353@protonmail.com
+Teléfono fijo: +34 931 58 74 85
+Teléfono móvil: +34 737 47 18 68
+NHC: 9821272
+
+Datos asistenciales.
+Médico: Dr. Julio Cortés Robles. NC 700408392. Investigador Clínico en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/11/1995
+Centro de salud: Centro de Salud Málaga Este
+Matrícula del coche: 2544CRR
+Modelo: Kia Sorento
+VIN: VSL58VLSUYS699302
+
+Informe clínico del paciente:
+Paciente vegano de 53 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.229.155, con dirección MAC 98:28:FD:1C:63:0A. Se registró una sesión de firma biométrica, el código obtenido para revisarla es TT194HPJ653. 

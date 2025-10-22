@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sonia Vega Aparicio
+DNI: 96637539A
+Fecha de nacimiento: 10/09/1994
+Género: Femenino
+Domicilio: Calle del Olivar 27, 6K
+Ciudad: Alcorcón, Gerona, Cataluña
+Código postal: 17664
+Email: sonia.vega@uca.es
+Teléfono fijo: +34 972 81 88 71
+Teléfono móvil: +34 772 92 42 01
+NHC: 9920356
+Condición de riesgo: Soldador
+
+Datos asistenciales.
+Médico: Dra. Rebeca Marín Montes. NC 738016152. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/11/2011
+Episodio: 80230205
+Centro de salud: Centro de Salud Leganés
+Matrícula del coche: 8930QBR
+Modelo: Toyota RAV4
+VIN: VSQO18O8XAO433149
+
+Informe clínico del paciente:
+Paciente de tez blanca de 17 años de edad, acompañado de su vecino. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es VW799ZKS764. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Sonia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Vega Aparicio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="96637539A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="10/09/1994" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="111" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="146" text="Calle del Olivar 27, 6K" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="163" text="Alcorcón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="171" text="Gerona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="181" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="17664" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="227" text="sonia.vega@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="243" end="259" text="+34 972 81 88 71" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="276" end="292" text="+34 772 92 42 01" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="298" end="305" text="9920356" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="327" end="335" text="Soldador" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="607" end="617" text="30/11/2011" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="628" end="636" text="80230205" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="654" end="677" text="Centro de Salud Leganés" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="699" end="706" text="8930QBR" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="732" end="749" text="VSQO18O8XAO433149" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="793" end="803" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="807" end="814" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="841" end="847" text="vecino" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T24" start="930" end="941" text="VW799ZKS764" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

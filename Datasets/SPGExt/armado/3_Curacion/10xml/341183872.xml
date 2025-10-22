@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rafael Durán Navarro</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">49027484V</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/11/1947</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Ríos Rosas 47</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Burgos, Zamora, Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">49537</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">rafael_duran-navarro@udc.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 980 63 32 82</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 680 36 02 80</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0674259</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">531398854640</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Soldador</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Emma Montoya Cabrera</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">. NC 329322671</TAG> <TAG TYPE="PROFESION">Residente de 5° año en Neurología</TAG> <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG> <TAG TYPE="TERRITORIO">28029</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG> <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/09/2013</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">65006213</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Tetuán</TAG>
+    Informe clínico del paciente:
+    Paciente transeúnte de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">65 años</TAG> de edad, acompañado de su hermano, que refiere una serie de episodios de confusión y disorientación en los últimos días. El paciente tiene una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, controladas con medicación. El examen físico revela una presión arterial de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">180/90 mmHg</TAG>, frecuencia cardíaca de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">90 bpm</TAG> y temperatura corporal de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37,5°C</TAG>. El paciente está consciente y orientado, pero presenta dificultades para recordar su nombre y fecha de nacimiento.
+    La exploración neurológica revela signos de deterioro cognitivo, incluyendo disminución de la conciencia, dificultades para hablar y dificultades para realizar tareas simples. El paciente también presenta signos de debilidad en los miembros inferiores.
+    Los datos analíticos muestran un aumento en la creatinina sérica (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">1,2 mg/dl</TAG>) y una disminución en la función renal (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">creatinina de 0,9 ml/min</TAG>). El paciente también presenta un aumento en la glucemia (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">180 mg/dl</TAG>) y una disminución en la función pancreática (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">glucosa de 120 mg/dl</TAG>).
+    Con el diagnóstico de deterioro cognitivo y función renal disminuida, se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">antitérmicos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antiinflamatorios</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">elevación de la presión arterial</TAG>) así como tratamiento para la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>. El paciente se encuentra en observación en la unidad de cuidados intensivos.
+    Evolución y comentarios:
+    El paciente ha mostrado una respuesta favorable al tratamiento, con una disminución en la frecuencia cardíaca y una mejora en la función renal. Sin embargo, el paciente sigue presentando signos de deterioro cognitivo y debilidad en los miembros inferiores.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Emma Montoya Cabrera</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">. NC 329322671</TAG> <TAG TYPE="PROFESION">Residente de 5° año en Neurología</TAG> <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG> <TAG TYPE="TERRITORIO">28029</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG> <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

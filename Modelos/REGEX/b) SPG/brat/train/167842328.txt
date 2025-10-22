@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Sofía Casas Hernández
+DNI: 77916349P
+Fecha de nacimiento: 08/01/1930
+Género: F
+Domicilio: Calle de las Huertas 43, 9P
+Ciudad: Cáceres, Zaragoza, Aragón
+Código postal: 50729
+Email: sofia.hernandez@outlook.com
+Teléfono fijo: +34 976 41 65 56
+Teléfono móvil: +34 776 11 91 79
+NHC: 1263365
+NASS: 959680311272
+
+Datos asistenciales.
+Médico: Dra. María Jesús De la Fuente Lozano. NC 941167921. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/09/1957
+Centro de salud: Centro de Salud Sevilla Este
+Matrícula del coche: 6923JOA
+Modelo: Honda Civic
+VIN: VSG6AM9E2FD452751
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática del sudeste de 27 años de edad, acompañado de su hijo. El servidor para envío de información desde cual el usuario se comunica es smtp://example-research.net. 

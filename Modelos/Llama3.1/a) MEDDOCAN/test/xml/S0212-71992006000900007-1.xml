@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jose</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Llorente Zabala</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3785649</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">43 97856395 65</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Avenida de las Américas, 5, 3 D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Culleredo</TAG>.
+    CP: <TAG TYPE="TERRITORIO">15714</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/04/1963</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">51 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/08/2014</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Dermatología</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Beatriz</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernández Jorge</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">15 28 54789</TAG>.
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">51 años</TAG> que acudió a las consultas de <TAG TYPE="PROFESION">Dermatología</TAG> por presentar desde hacía 6-7 días lesiones nodulares, eritemato-violáceas y dolorosas en las piernas y el dorso de pies, acompañadas de hinchazón de los tobillos.
+    El paciente presentaba un buen estado general, sin otra clínica acompañante.
+    Antecedentes: Entre sus antecedentes personales destacaban tres episodios de pancreatitis aguda secundaria a etilismo crónico, el último hacía un año. En la colangio-resonancia magnética realizada en aquel momento se había detectado una pancreatitis crónica, así como dos pseudoquistes pancreáticos, por lo que estaba en seguimiento por el Servicio de Digestivo. Se realizó biopsia cutánea y estudio analítico y se inició tratamiento con antiinflamatorios no esteroideos y omeprazol. La histopatología de una de las lesiones cutáneas mostró un intenso infiltrado inflamatorio en el lobulillo graso constituido por polimorfonucleares neutrófilos, jabones secundarios a necrosis grasa y áreas de hemorragia.
+    Pruebas complementarias: El estudio analítico evidenció valores de amilasa pancreática de <TAG TYPE="NUMERO_FAX">469 UI/L</TAG>. Ante estos hallazgos, compatibles con el diagnóstico de paniculitis pancreática, se procedió al ingreso del paciente para estudio y vigilancia de una posible reagudización de su pancreatitis crónica. La evolución de las lesiones cutáneas fue buena, a pesar de que el paciente había suspendido el tratamiento antiinflamatorio por epigastralgia. Sin embargo, la epigastralgia no remitió e incluso se hizo más continua e intensa, acompañándose posteriormente de náuseas y vómitos. La clínica y niveles de amilasa se controlaron durante el ingreso mediante medidas conservadoras, pero en la tomografía computerizada (TC) de control se observó un aumento del tamaño de la cabeza del páncreas, con dilatación del conducto de Wirsung, destrucción parcial de la glándula pancreática, adenopatías peripancreáticas, celíacas y del ligamento gastrohepático, junto a trombosis de la vena porta, que requirió tratamiento anticoagulante. 
+    Evolución: Al cabo de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 meses</TAG> del diagnóstico de la paniculitis pancreática, la TC de control informó de la resolución de la patología pancreática, con transformación cavernomatosa portal y persistencia de pequeñas adenopatías sin significado patológico claro, por lo que el cuadro se interpretó finalmente como una reagudización de su pancreatitis crónica.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Beatriz</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernández Jorge</TAG>. <TAG TYPE="CALLE">Avda. Alcalde Electro Carballo, 20B, 4C</TAG> <TAG TYPE="TERRITORIO">15174 Culleredo, A Coruña</TAG> e-mail: <TAG TYPE="CORREO_ELECTRONICO">Beafjorge@hotmail.com</TAG>; <TAG TYPE="CORREO_ELECTRONICO">bea_fjorge@yahoo.es</TAG>
+  </TEXT>
+</MEDDOCAN>

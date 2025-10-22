@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">David Blanco</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santos</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">40983665B</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/05/1957</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de los Jardines 54</TAG>, <TAG TYPE="TERRITORIO">9S</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Lugo</TAG>, <TAG TYPE="TERRITORIO">Valladolid</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">47481</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">david@ucm.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 983 57 36 85</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 683 73 13 12</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9907251</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">292612116211</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">usuario de drogas</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Teresa González Escobar</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">717514163</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardióloga de Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">23/10/1993</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">21274043</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Collado Villalba</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">usuario de drogas</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">36 años</TAG> de edad. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">escaneo del iris</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">DX634SCC251</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Joel</TAG>.
+Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Leon Aguilar</TAG>.
+CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc/19453</TAG>.
+NASS: <TAG TYPE="ID_ASEGURAMIENTO">33 4568642 23</TAG>.
+Domicilio: <TAG TYPE="CALLE">Calle Padre José de Sosa, 22 - 1ª</TAG>.
+Localidad/ Provincia: <TAG TYPE="TERRITORIO">La palma</TAG>.
+CP: <TAG TYPE="TERRITORIO">35001</TAG>.
+NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">19453</TAG>.
+Datos asistenciales.
+Fecha de nacimiento: <TAG TYPE="FECHAS">13/01/1978</TAG>.
+País: <TAG TYPE="PAIS">España</TAG>.
+Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+Fecha de Ingreso: <TAG TYPE="FECHAS">19/04/2018</TAG>.
+Especialidad: <TAG TYPE="PROFESION">urología</TAG>.
+Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José A.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Hermida Pérez</TAG>       NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">35 35 16446</TAG>.
+Motivo de ingreso: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Disuria</TAG>.
+Historia Actual: Paciente <TAG TYPE="SEXO_SUJETO_ASISTENCIA">varón</TAG>, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40</TAG> años de edad, con antecedentes de salud. Acude a consulta de <TAG TYPE="PROFESION">urología</TAG> por presentar <TAG TYPE="OTROS_SUJETO_ASISTENCIA">disuria</TAG> y 3 episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">uretrorragia</TAG>.
+Exploración física: Al examen físico las mucosas son <TAG TYPE="OTROS_SUJETO_ASISTENCIA">húmedas</TAG> y normocoloreadas, la auscultación cardio-respiratoria es normal, el abdomen es negativo, fosas lumbares libres, el tacto rectal, los genitales externos y las regiones inguinales son normales. 
+Resumen de pruebas complementarias: Se le realiza <TAG TYPE="PROFESION">ecografía urológica</TAG> que es normal. La <TAG TYPE="PROFESION">cistouretroscopía</TAG> es normal, sólo notándose un leve resalto al paso del <TAG TYPE="PROFESION">cistoscopio</TAG> por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">uretra anterior</TAG>. Se le realiza <TAG TYPE="PROFESION">radiografía de uretrocistografía miccional</TAG> donde se observa un defecto de llenado a nivel de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">uretra anterior</TAG>.
+Por todo lo anterior decidimos realizar un estudio endoscópico bajo anestesia, detectándose una tumoración polipoide, de color rojiza, bien delimitada, por lo que se decide resección endoscópica de la misma. El resultado anatomopatológico de la pieza quirúrgica fue un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">papiloma invertido de uretra anterior</TAG>. 
+Evolución y comentarios: Se da de alta por mejoría, evolucionando satisfactoriamente con desaparición de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">disuria</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">uretrorragia</TAG>.
+Diagnóstico Principal: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">papiloma invertido de uretra anterior</TAG>
+Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José A.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Hermida Pérez</TAG> <TAG TYPE="CALLE">Calle Manuel Gomez 35. 1F</TAG> <TAG TYPE="TERRITORIO" >38750</TAG> <TAG TYPE="TERRITORIO" >El Paso</TAG>. <TAG TYPE="TERRITORIO" >La Palma</TAG>. <TAG TYPE="PAIS">España</TAG>
+  </TEXT>
+</MEDDOCAN>

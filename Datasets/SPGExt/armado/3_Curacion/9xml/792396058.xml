@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Arturo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mora</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Prieto</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">33496226S</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">23/11/2015</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de San Bernardo 64, 9J</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">Socuéllamos</TAG>, <TAG TYPE="TERRITORIO">Tarragona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">43534</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">mora@ciberehd.org</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 977 85 30 58</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 777 90 21 93</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7547353</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">932935932855</TAG>
+  Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Almacén</TAG>
+  Datos asistenciales.
+  Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Carlos</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gutiérrez Ruiz</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 371081132</TAG>. <TAG TYPE="PROFESION">Gastroenterólogo Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">25/07/2020</TAG>
+  Episodio: <TAG TYPE="ID_SUJETO_ASISTENCIA">71830277</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Conde de Casal</TAG>
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="SEXO_SUJETO_ASISTENCIA">judío</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> de edad, acompañado de su tío. Presenta una temperatura corporal de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">38,5°C</TAG>, con sudoración y tos seca. Se encuentra en buen estado de nutrición y hidratación. La exploración física revela ausencia de signos de infección respiratoria aguda, sin ronquidos ni dificultad para respirar. La auscultación cardíaca es rítmica y sin soplos ni roces. La exploración abdominal no muestra signos de dolor ni distensión.
+  Antecedentes:
+  El paciente tiene antecedentes de una enfermedad respiratoria crónica, diagnosticada como <TAG TYPE="OTROS_SUJETO_ASISTENCIA">asma bronquial</TAG>, desde los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> de edad. Ha sido tratado con <TAG TYPE="PROFESION">broncodilatadores</TAG> y <TAG TYPE="PROFESION">corticosteroides inhalados</TAG>, sin necesidad de hospitalización. El paciente también tiene una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alergia a los alimentos</TAG>, específicamente a la <TAG TYPE="OTRO_NUMERO_IDENTIF">leche de vaca</TAG> y el <TAG TYPE="OTRO_NUMERO_IDENTIF">gluten</TAG>.
+  Evolución y comentarios:
+  El paciente fue ingresado en el <TAG TYPE="HOSPITAL">Servicio de Pediatría del Hospital Universitario de Madrid</TAG> el <TAG TYPE="FECHAS">25 de julio de 2020</TAG>, con un diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">neumonía viral aguda</TAG>. Se le realizó una exploración física y se solicitaron análisis de sangre y orina. Los resultados de los análisis mostraron una infección viral aguda, sin signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bacteriemia ni sepsis</TAG>. El paciente se encuentra en buen estado de salud y se le ha iniciado un tratamiento con <TAG TYPE="PROFESION">antivirales</TAG> y <TAG TYPE="PROFESION">antibióticos</TAG> para prevenir posibles complicaciones.
+  Remitido por:
+  El paciente fue remitido por su <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">pediatra de cabecera</TAG>, quien notificó una temperatura corporal alta y tos seca en el paciente. Se le solicitó un estudio de sangre y orina para confirmar el diagnóstico y determinar el tratamiento adecuado.
+  </TEXT>
+</MEDDOCAN>

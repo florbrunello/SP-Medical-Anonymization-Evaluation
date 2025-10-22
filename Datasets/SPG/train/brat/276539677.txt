@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Sara Ramos Andres
+DNI: 50991363H
+Fecha de nacimiento: 13/12/2015
+Género: Mujer
+Domicilio: Calle de Don Ramón de la Cruz 92, 2X
+Ciudad: Almería, Málaga, Andalucía
+Código postal: 29272
+Email: sara.andres@ioba.med.uva.es
+Teléfono fijo: +34 951 26 64 89
+Teléfono móvil: +34 751 16 09 40
+NHC: 0790424
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dra. Laura Lorenzo Carmona. NC 308151832. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/04/2018
+Episodio: 96806778
+Centro de salud: Centro de Salud Móstoles
+Matrícula del coche: 0335SWG
+Modelo: Chrysler Pacifica
+VIN: VSHDLZSEJAD403750
+
+Informe clínico del paciente:
+Paciente fumador de 2 años de edad, acompañado de su hermana. El servidor para envío de información desde cual el usuario se comunica es smtp://example-dermatology.org. 

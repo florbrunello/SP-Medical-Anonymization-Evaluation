@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Ignacio Prieto Ferrer
+DNI: 64022332S
+Fecha de nacimiento: 03/01/2020
+Género: Hombre
+Domicilio: Calle del Doctor Piga 97, 3N
+Ciudad: Pamplona, Soria, Castilla y León
+Código postal: 42195
+Email: joseignacio-prieto.ferrer@ciberer.es
+Teléfono fijo: +34 975 60 35 31
+Teléfono móvil: +34 675 03 67 68
+NHC: 3088225
+NASS: 817379341342
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dra. Catalina Ruiz Serrano. NC 989535253. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/10/2021
+Episodio: 76151481
+Hospital: Hospital Universitario Río Hortega
+
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de un año de edad, acompañado de su tío. Se registró una sesión de huella dactilar, el código obtenido para revisarla es BB548HTN415. Se registró una sesión de firma biométrica, el código obtenido para revisarla es JI828EKR156. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="José Ignacio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="54" text="Prieto Ferrer" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="64022332S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="03/01/2020" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="116" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="156" text="Calle del Doctor Piga 97, 3N" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="165" end="173" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="175" end="180" text="Soria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="182" end="197" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="42195" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="262" text="joseignacio-prieto.ferrer@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="278" end="294" text="+34 975 60 35 31" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="311" end="327" text="+34 675 03 67 68" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="333" end="340" text="3088225" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="347" end="359" text="817379341342" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="381" end="412" text="Operador de Maquinaria Agrícola" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="702" end="712" text="18/10/2021" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="723" end="731" text="76151481" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="742" end="776" text="Hospital Universitario Río Hortega" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="820" end="843" text="comunidades vulnerables" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="847" end="853" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="880" end="883" text="tío" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="965" end="976" text="BB548HTN415" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T24" start="1059" end="1070" text="JI828EKR156" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Alba Flores Macias
+DNI: 91754804F
+Fecha de nacimiento: 04/03/1988
+Género: Femenino
+Domicilio: Calle de Hortaleza 40
+Ciudad: Xàtiva, Valencia, Comunidad Valenciana
+Código postal: 46875
+Email: albamacias1539@ual.es
+Teléfono fijo: +34 960 26 74 93
+FAX: +34 960 28 15 66
+NHC: 7340475
+NASS: 202106530316
+
+Datos asistenciales.
+Médico: Dr. Rodrigo Valero Morales. NC 924278877. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 31/01/1993
+Episodio: 30179914
+Centro de salud: Centro de Salud Vicálvaro
+
+Informe clínico del paciente:
+Paciente de ascendencia centroasiática de 4 años de edad, acompañado de su tía. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Alba" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="46" text="Flores Macias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="91754804F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="04/03/1988" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="110" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="143" text="Calle de Hortaleza 40" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="158" text="Xàtiva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="168" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="190" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="46875" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="240" text="albamacias1539@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 960 26 74 93" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 960 28 15 66" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="300" end="307" text="7340475" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="314" end="326" text="202106530316" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="361" end="383" text="Rodrigo Valero Morales" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="388" end="397" text="924278877" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="399" end="433" text="Residente de 4° año en Cardiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="435" end="521" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="523" end="552" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="554" end="559" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="561" end="567" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="569" end="575" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="595" end="605" text="31/01/1993" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="616" end="624" text="30179914" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="642" end="667" text="Centro de Salud Vicálvaro" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="711" end="737" text="ascendencia centroasiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="741" end="747" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="774" end="777" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

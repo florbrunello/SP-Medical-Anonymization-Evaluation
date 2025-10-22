@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Ramón Marín Aranda
+DNI: 45897390Q
+Fecha de nacimiento: 16/12/1978
+Género: M
+Domicilio: Calle de Don Ramón de la Cruz 13, 3A
+Ciudad: Jaén, Tarragona, Cataluña
+Código postal: 43955
+Email: joseramon_aranda@hotmail.com
+Teléfono fijo: +34 977 89 55 88
+Teléfono móvil: +34 777 24 34 62
+NHC: 7608153
+
+Datos asistenciales.
+Médico: Dra. Magdalena Franco Méndez. NC 215619458. Gastroenteróloga Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/04/1993
+Centro de salud: Centro de Salud Barajas
+
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 14 años de edad, acompañado de su madre. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es AT550PFS924. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="José Ramón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="51" text="Marín Aranda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="45897390Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="16/12/1978" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="156" text="Calle de Don Ramón de la Cruz 13, 3A" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="165" end="169" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="180" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="182" end="190" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="43955" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="247" text="joseramon_aranda@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="263" end="279" text="+34 977 89 55 88" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="296" end="312" text="+34 777 24 34 62" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="318" end="325" text="7608153" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="624" end="634" text="07/04/1993" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T16" start="652" end="675" text="Centro de Salud Barajas" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T17" start="719" end="742" text="comunidades vulnerables" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T18" start="746" end="753" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T19" start="780" end="785" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T20" start="873" end="884" text="AT550PFS924" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

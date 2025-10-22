@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: María Nieves Santos Navarro
+DNI: 83526544C
+Fecha de nacimiento: 19/06/1943
+Género: F
+Domicilio: Calle del Gobernador 40, 6S
+Ciudad: Reus, Barcelona, Cataluña
+Código postal: 08941
+Email: santos1978@yahoo.com
+Teléfono fijo: +34 930 89 77 34
+Teléfono móvil: +34 731 11 40 69
+NHC: 4597873
+NASS: 799990046483
+Condición de riesgo: Dentista
+
+Datos asistenciales.
+Médico: Dra. Pilar Mendoza Pérez. NC 041605631. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/06/1990
+Episodio: 96893048
+Hospital: Hospital Universitario Nuestra Señora de Candelaria
+
+Informe clínico del paciente:
+Paciente de tez blanca de 46 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.103.10, con dirección MAC 94:E9:BF:E9:67:C5. Se realizó un expediente con URL http://example-healthcare.net//10205126J. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es IW681WWU957. 

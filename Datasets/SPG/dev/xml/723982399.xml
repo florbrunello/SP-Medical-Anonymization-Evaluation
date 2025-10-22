@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Rosario Gómez Molina
+DNI: 37664039K
+Fecha de nacimiento: 03/05/1960
+Género: F
+Domicilio: Calle de las Letras 78
+Ciudad: San Sebastián, Palencia, Castilla y León
+Código postal: 34745
+Email: mariarosario_gomez.molina1138@imibic.org
+Teléfono fijo: +34 979 45 42 55
+Teléfono móvil: +34 779 00 19 51
+NHC: 3850769
+NASS: 473477488614
+Condición de riesgo: Cirujano
+
+Datos asistenciales.
+Médico: Dr. Albert Avila Palacios. NC 508286995. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/05/1977
+Hospital: Complejo Hospitalario Universitario de Cartagena
+Matrícula del coche: 3659UKI
+Modelo: Tesla Model 3
+VIN: VSLUUJTOK4Y967293
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 17 años de edad, acompañado de su amiga. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Rosario" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="54" text="Gómez Molina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="37664039K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="03/05/1960" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="111" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="145" text="Calle de las Letras 78" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="167" text="San Sebastián" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="177" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="194" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="34745" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="263" text="mariarosario_gomez.molina1138@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="279" end="295" text="+34 979 45 42 55" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="312" end="328" text="+34 779 00 19 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="334" end="341" text="3850769" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="348" end="360" text="473477488614" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="382" end="390" text="Cirujano" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="425" end="446" text="Albert Avila Palacios" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="451" end="460" text="508286995" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="462" end="509" text="Investigador Clínico en Enfermedades Digestivas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="511" end="604" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="606" end="635" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="637" end="642" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="644" end="650" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="652" end="658" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="678" end="688" text="19/05/1977" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="699" end="747" text="Complejo Hospitalario Universitario de Cartagena" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="769" end="776" text="3659UKI" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="804" end="821" text="VSLUUJTOK4Y967293" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="865" end="894" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="898" end="905" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="932" end="937" text="amiga" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

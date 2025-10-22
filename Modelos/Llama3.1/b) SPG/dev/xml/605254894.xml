@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Matilde</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rey Montes</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">19868388E</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/03/1936</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Barquillo 31</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Vitoria</TAG>, <TAG TYPE="TERRITORIO">Cantabria</TAG>, <TAG TYPE="TERRITORIO">Cantabria</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">39641</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">matilde_rey-montes1814@h12o.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 942 76 95 10</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 642 43 89 74</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9267363</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">969399103644</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Laboratorio</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Izan Vila Pereira</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">779981405</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">13/08/1937</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">19088343</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Parla</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5351KVA</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Tesla Model 3</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSSRIGXHMFG592783</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia del medio oriente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">1 año</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

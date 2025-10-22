@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Vicente Salazar Miguel
+DNI: 97261304P
+Fecha de nacimiento: 22/09/1973
+Género: H
+Domicilio: Calle de Moratín 89
+Ciudad: Cáceres, Asturias, Asturias
+Código postal: 33744
+Email: vicentemiguel@ciberer.es
+Teléfono fijo: +34 984 69 77 47
+FAX: +34 984 08 60 77
+NHC: 9190058
+NASS: 982960571712
+
+Datos asistenciales.
+Médico: Dr. Mateo Torres Escobar. NC 344612175. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/06/1994
+Hospital: Hospital Universitari i Politècnic La Fe
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 20 años de edad. 

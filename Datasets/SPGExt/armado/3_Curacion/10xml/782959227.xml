@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lidia Morales Galan</TAG>
+  DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">45148863R</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">02/04/1942</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Ibiza 76, 5L</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">Badajoz, Salamanca, Castilla y León</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">37746</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">lidia_moralesgalan@yahoo.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 09 41 45</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 723 18 80 82</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7937596</TAG>
+  Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Granjero</TAG>
+  Datos asistenciales.
+  Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Joaquín</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Serrano Hernández</TAG> NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">717384222</TAG>. <TAG TYPE="PROFESION">Oftalmólogo Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">07/02/1974</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">38905088</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Torrejón de Ardoz</TAG>
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">31 años</TAG> de edad, con antecedentes de enfermedades oculares en su familia. Presenta una visión borrosa en el ojo derecho desde hace 2 semanas, con dolor leve en la región ocular. La exploración física revela una pupila dilatada en el ojo derecho, con una visión de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20/50</TAG> en ese ojo. La exploración oftalmológica muestra una retinopatía proliferativa en el ojo derecho, con una neovascularización significativa.
+  Los datos analíticos muestran un hemograma normal, con un recuento de leucocitos de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8.500/mm3</TAG> y un recuento de plaquetas de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">250.000/mm3</TAG>. La bioquímica muestra un nivel de glucosa de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">120 mg/dl</TAG> y un nivel de colesterol de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">200 mg/dl</TAG>.
+  Se solicitan pruebas de imagen para evaluar la extensión de la retinopatía proliferativa y la presencia de cualquier otro tipo de lesión ocular. Se realiza una angiografía fluoresceínica de la retina, que muestra una gran neovascularización en el ojo derecho.
+  Con el diagnóstico de retinopatía proliferativa secundaria a diabetes mellitus, se instaura un tratamiento con láser panretinal para reducir la neovascularización y prevenir la progresión de la enfermedad. El paciente se somete a una serie de sesiones de láser, con una mejora significativa en la visión en el ojo derecho.
+  Evolución y comentarios:
+  El paciente se somete a una serie de controles para evaluar la respuesta al tratamiento y la progresión de la enfermedad. Se realiza una angiografía fluoresceínica de la retina cada 3 meses para evaluar la reducción de la neovascularización.
+  Remitido por:
+  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Joaquín</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Serrano Hernández</TAG> <TAG TYPE="PROFESION">Oftalmólogo Especialista en Retina y Vítreo</TAG> <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG> <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Beatriz Izquierdo Casado
+DNI: 59377226N
+Fecha de nacimiento: 17/01/1950
+Género: Femenino
+Domicilio: Calle de Don Ramón de la Cruz 20, 6J
+Ciudad: Onda, Zaragoza, Aragón
+Código postal: 50994
+Email: beatriz-casado@icloud.com
+Teléfono fijo: +34 976 94 09 64
+Teléfono móvil: +34 676 78 38 54
+NHC: 2567852
+
+Datos asistenciales.
+Médico: Dr. José Vicente Del Rio Prieto. NC 665464990. Investigador Clínico en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/02/2020
+Episodio: 16419208
+Centro de salud: Centro de Salud Barajas
+Matrícula del coche: 5697QYZ
+Modelo: Toyota RAV4
+VIN: VSPY86WP4YW018494
+
+Informe clínico del paciente:
+Paciente judío de 70 años de edad, acompañado de su conviviente. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Beatriz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="52" text="Izquierdo Casado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="59377226N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="17/01/1950" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="116" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="164" text="Calle de Don Ramón de la Cruz 20, 6J" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="173" end="177" text="Onda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="179" end="187" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="189" end="195" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="211" end="216" text="50994" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="224" end="249" text="beatriz-casado@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="265" end="281" text="+34 976 94 09 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="298" end="314" text="+34 676 78 38 54" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="320" end="327" text="2567852" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="362" end="389" text="José Vicente Del Rio Prieto" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="394" end="403" text="665464990" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="405" end="451" text="Investigador Clínico en Insuficiencia Cardíaca" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="453" end="539" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="541" end="570" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="572" end="577" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="579" end="585" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="587" end="593" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="613" end="623" text="07/02/2020" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="634" end="642" text="16419208" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="660" end="683" text="Centro de Salud Barajas" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T26" start="705" end="712" text="5697QYZ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="738" end="755" text="VSPY86WP4YW018494" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="796" end="801" text="judío" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="805" end="812" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="839" end="850" text="conviviente" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

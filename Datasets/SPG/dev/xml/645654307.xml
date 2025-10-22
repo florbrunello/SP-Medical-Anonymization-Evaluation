@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Montserrat Contreras Carrillo
+DNI: 71457176V
+Fecha de nacimiento: 26/04/2001
+Género: M
+Domicilio: Calle de Lavapiés 12, 5X
+Ciudad: Aranda de Duero, Ciudad Real, Castilla-La Mancha
+Código postal: 13791
+Email: montserrat_contreras@ual.es
+Teléfono fijo: +34 926 32 85 42
+FAX: +34 926 41 68 24
+NHC: 8649924
+NASS: 636730738141
+Condición de riesgo: Trabajador de Línea de Producción
+
+Datos asistenciales.
+Médico: Dr. Juan Pedro Ibáñez Rico. NC 550025198. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/09/2003
+Centro de salud: Centro de Salud Majadahonda
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 2 años de edad, acompañado de su padre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-dermatology.org. Se registró una sesión de huella dactilar, el código obtenido para revisarla es NK353PBK433. Se registró una sesión de firma biométrica, el código obtenido para revisarla es MI243OJQ174. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Montserrat" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="57" text="Contreras Carrillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="63" end="72" text="71457176V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="94" end="104" text="26/04/2001" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="113" end="114" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="150" text="Calle de Lavapiés 12, 5X" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="174" text="Aranda de Duero" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="176" end="187" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="189" end="207" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="223" end="228" text="13791" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="236" end="263" text="montserrat_contreras@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="279" end="295" text="+34 926 32 85 42" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="301" end="317" text="+34 926 41 68 24" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="323" end="330" text="8649924" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="337" end="349" text="636730738141" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="371" end="404" text="Trabajador de Línea de Producción" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="439" end="461" text="Juan Pedro Ibáñez Rico" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="466" end="475" text="550025198" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="477" end="510" text="Residente de 5° año en Neurología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="512" end="601" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="603" end="632" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="634" end="639" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="641" end="647" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="649" end="655" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="675" end="685" text="09/09/2003" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="703" end="730" text="Centro de Salud Majadahonda" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="771" end="788" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="792" end="798" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="825" end="830" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="907" end="933" text="smtp://example-dermatology" TYPE="URL_WEB" comment=""/>
+        <ID id="T31" start="1019" end="1030" text="NK353PBK433" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T32" start="1113" end="1124" text="MI243OJQ174" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

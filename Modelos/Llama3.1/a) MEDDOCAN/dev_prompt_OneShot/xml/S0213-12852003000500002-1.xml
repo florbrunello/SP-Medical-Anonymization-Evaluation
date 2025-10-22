@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Antonia</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Machado Rivas</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1378056</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">54 78926732 74</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. Mar Mediterráneo, 4 bajo A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Alcalá de Guadaíra, Sevilla</TAG>.
+    CP: <TAG TYPE="TERRITORIO">41500</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/11/1939</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">76 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">27/12/2015</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Urgencias</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carmen</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marias Puerto</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">41 41 34641</TAG>.
+    Historia del paciente: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">76 años</TAG> de sexo femenino, que consulta en un <TAG TYPE="PROFESION">Servicio de Urgencias</TAG> hospitalario, por presentar dolor en área mandibular de tres días de evolución.
+    Tras la exploración médica, la paciente fue remitida a su domicilio con el diagnóstico de "artrosis mandibular" prescribiéndole analgésicos y recomendándole que acudiera al dentista.
+    Horas después la paciente acudió a nuestra consulta, donde le aplicamos el protocolo de estudio a pacientes con desórdenes temporomandibulares (DTM) y como examen complementario le practicamos una ortopantomografía.
+    Dentro de los antecedentes médicos personales de la paciente, cabe destacar que padecía <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hipertensión arterial</TAG> desde hace 3 años y <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hipercolesterolemia</TAG> desde hace un año.
+    En la anamnesis acerca de las características temporoespaciales del dolor, la paciente refiere que presenta episodios de dolor en región submandibular bilateral, de tres días de evolución, que ahora se irradia a zona precordial y a la garganta. Los episodios de dolor tienen una duración que oscila entre los cinco y diez minutos, con sensación de falta el aire y sudoración acompañante. En este día ha presentado tres episodios. Este dolor ha sido resistente a los analgésicos que le prescribieron en el servicio de urgencias.
+    Tras la realización del examen estomatológico completo, encontramos un "Clic" de apertura en articulación temporomandibular derecha y crepitación en el lado izquierdo. Oclusalmente presentaba mordida cruzada y desviación de la línea media dental. La función mandibular estaba conservada con una apertura máxima de 39 mm.
+    En la ortopantomografía se evidenciaban signos de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">artrosis leve</TAG> en la articulación temporomandibular izquierda.
+    Estos hallazgos no justificaban la clínica del dolor que presenta la paciente, por lo que emitimos el diagnóstico clínico de presunción de "cardiopatía isquémica" y remitimos a la paciente, con carácter urgente, desde nuestra consulta a un centro hospitalario para evaluación y tratamiento.
+    La paciente ingresó en el hospital y mientras le realizaban los exámenes clínicos, presento de nuevo varios episodios del dolor mandibular. En el electrocardiograma (ECG) se apreciaban signos de crecimiento y sobrecarga sistólica del ventrículo izquierdo, T negativa en II, III, aVF y de V4 a V6.
+    Tras efectuarle los estudios complementarios pertinentes: análisis de sangre, radiografía de tórax, ecocardiograma y cateterismo diagnóstico, se encontró <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">lesión severa</TAG> en dos vasos coronarios.
+    Se le practicó <TAG TYPE="PROFESION">angioplastia</TAG> y a las tres semanas fue dada de alta con el diagnóstico de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">anguor inestable</TAG> (Grado III, B1), <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">lesión severa de dos vasos coronarios</TAG> y <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">doble lesión aórtica degenerativa</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Carmen</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marias Puerto</TAG>. <TAG TYPE="CALLE">C/ Lope de Vega 3, bajo der.</TAG> <TAG TYPE="TERRITORIO">41500</TAG> <TAG TYPE="TERRITORIO">Alcalá de Guadaira, Sevilla</TAG>, <TAG TYPE="PAIS">España</TAG> <TAG TYPE="CORREO_ELECTRONICO">carmen-ms@supercable.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

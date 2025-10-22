@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Jaume Franco Miranda
+DNI: 75769613T
+Fecha de nacimiento: 10/02/1990
+Género: Hombre
+Domicilio: Calle de Velázquez 24
+Ciudad: Motril, Vizcaya, Pais Vasco
+Código postal: 48881
+Email: franco_miranda@udc.es
+Teléfono fijo: +34 946 38 51 17
+Teléfono móvil: +34 746 95 39 63
+NHC: 2497653
+NASS: 189436278471
+Condición de riesgo: Trabajador de Minería
+
+Datos asistenciales.
+Médico: Dr. Cristóbal Silva Rico. NC 504105700. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 02/02/2013
+Episodio: 04616991
+Hospital: Hospital Clínic Barcelona
+Matrícula del coche: 0735RLS
+Modelo: Hyundai Elantra
+VIN: VSULUYW4OHS533377
+
+Informe clínico del paciente:
+Paciente exfumador de 22 años de edad, acompañado de su tía. Se registró una sesión de huella dactilar, el código obtenido para revisarla es YX447GHA811. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Jaume" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Franco Miranda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="75769613T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="10/02/1990" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="110" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="143" text="Calle de Velázquez 24" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="158" text="Motril" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="167" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="179" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="48881" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="229" text="franco_miranda@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="245" end="261" text="+34 946 38 51 17" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 746 95 39 63" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="300" end="307" text="2497653" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="314" end="326" text="189436278471" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="348" end="369" text="Trabajador de Minería" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="404" end="424" text="Cristóbal Silva Rico" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="429" end="438" text="504105700" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="440" end="483" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="485" end="543" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="545" end="569" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="571" end="576" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="578" end="588" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="590" end="596" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="616" end="626" text="02/02/2013" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="637" end="645" text="04616991" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="656" end="681" text="Hospital Clínic Barcelona" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="703" end="710" text="0735RLS" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="740" end="757" text="VSULUYW4OHS533377" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="798" end="807" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="811" end="818" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="845" end="848" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T33" start="930" end="941" text="YX447GHA811" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

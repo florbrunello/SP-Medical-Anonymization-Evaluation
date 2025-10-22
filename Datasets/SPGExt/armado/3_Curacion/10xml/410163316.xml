@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Luisa Aguilera Castro</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">22440786P</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/06/1928</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Atocha 84, 5P</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Dos Hermanas</TAG>, <TAG TYPE="TERRITORIO">Zamora</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">49345</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">castro@outlook.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 980 32 94 58</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 680 99 37 78</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9365602</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">500393395625</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente con antecedentes médicos relevantes</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lourdes Sáez Ferrer</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 502039575</TAG>. <TAG TYPE="PROFESION">Investigadora Clínica en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Cargo: <TAG TYPE="PROFESION">Jefa de Sección de Síndromes Raros</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/1950</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">63993131</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Ramón y Cajal</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="TEJIDO_CORPORAL">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">21 años</TAG> de edad, acompañado de su padre, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedentes médicos relevantes</TAG>. Presenta una <TAG TYPE="CONDICION_CLINICA">condición clínica compleja</TAG> que requiere una <TAG TYPE="EVALUACION">evaluación detallada</TAG>. A continuación, se describen los <TAG TYPE="HALLAZGOS">hallazgos clínicos</TAG> y los <TAG TYPE="RESULTADOS">resultados de las pruebas</TAG> realizadas.
+    Exploración física:
+    La exploración física revela: <TAG TYPE="PARAMETRO_FISICO">Tª</TAG> <TAG TYPE="PARAMETRO_FISICO">36,5 C</TAG>; <TAG TYPE="PARAMETRO_FISICO">T.A</TAG>: <TAG TYPE="PARAMETRO_FISICO">120/80 mmHg</TAG>; <TAG TYPE="PARAMETRO_FISICO">Fc</TAG>: <TAG TYPE="PARAMETRO_FISICO">90 lpm</TAG>. El paciente se encuentra <TAG TYPE="ESTADO_CONCIENCIA">consciente</TAG>, <TAG TYPE="ESTADO_CONCIENCIA">orientado</TAG>, con <TAG TYPE="ESTADO_NUTRICION">buen estado de nutrición</TAG> e <TAG TYPE="ESTADO_HIDRATACION">hidratación</TAG>. En <TAG TYPE="REGION_CEREBRAL">cabeza y cuello</TAG> no se palpan <TAG TYPE="ADENOPATIAS">adenopatías</TAG>, ni <TAG TYPE="BUCO">bocio</TAG> ni <TAG TYPE="INGURGITACION_VENA_YUGULAR">ingurgitación de vena yugular</TAG>, con <TAG TYPE="PULSO">pulsos carotídeos simétricos</TAG>. <TAG TYPE="AUSCULTACION">Auscultación cardíaca</TAG> <TAG TYPE="RITMO_CARDIACA">rítmica</TAG>, sin <TAG TYPE="SOPLOS">soplos</TAG>, <TAG TYPE="ROCES">roces</TAG> ni <TAG TYPE="EXTRATONOS">extratonos</TAG>. <TAG TYPE="AUSCULTACION">Auscultación pulmonar</TAG> con <TAG TYPE="CONSERVACION_MURMULLO_VESICULAR">conservación del murmullo vesicular</TAG>. <TAG TYPE="ABDOMEN">Abdomen</TAG> <TAG TYPE="TIPO_ABOMEN">blando</TAG>, <TAG TYPE="TIPO_ABOMEN">depresible</TAG>, sin <TAG TYPE="MASAS">masas</TAG> ni <TAG TYPE="MEGALIAS">megalias</TAG>.
+    Pruebas diagnósticas:
+    Se realizaron las siguientes <TAG TYPE="PRUEBAS_DIAGNOSTICAS">pruebas diagnósticas</TAG>:
+    <TAG TYPE="HALLAZGOS">Hemograma</TAG>: <TAG TYPE="PARAMETRO_HEMATOLOGICO">Hb</TAG> <TAG TYPE="PARAMETRO_HEMATOLOGICO">14,5 g/dl</TAG>; <TAG TYPE="PARAMETRO_HEMATOLOGICO">leucocitos</TAG> <TAG TYPE="PARAMETRO_HEMATOLOGICO">12.000/mm3</TAG> (<TAG TYPE="NEUTROFILOS">neutrófilos</TAG> <TAG TYPE="NEUTROFILOS">70%</TAG>); <TAG TYPE="PARAMETRO_HEMATOLOGICO">plaquetas</TAG> <TAG TYPE="PARAMETRO_HEMATOLOGICO">250.000/mm3</TAG>.
+    <TAG TYPE="HALLAZGOS">VSG</TAG>: <TAG TYPE="PARAMETRO_VSG">35 mm</TAG> <TAG TYPE="PARAMETRO_VSG">1ª hora</TAG>.
+    <TAG TYPE="HALLAZGOS">Coagulación</TAG>: <TAG TYPE="PARAMETRO_COAGULACION">TQ</TAG> <TAG TYPE="PARAMETRO_COAGULACION">90%</TAG>; <TAG TYPE="PARAMETRO_COAGULACION">TTPA</TAG> <TAG TYPE="PARAMETRO_COAGULACION">20,5 seg</TAG>.
+    <TAG TYPE="HALLAZGOS">Bioquímica</TAG>: <TAG TYPE="PARAMETRO_BIOQUIMICO">Glucosa</TAG> <TAG TYPE="PARAMETRO_BIOQUIMICO">110 mg/dl</TAG>; <TAG TYPE="PARAMETRO_BIOQUIMICO">urea</TAG> <TAG TYPE="PARAMETRO_BIOQUIMICO">25 mg/dl</TAG>; <TAG TYPE="PARAMETRO_BIOQUIMICO">creatinina</TAG> <TAG TYPE="PARAMETRO_BIOQUIMICO">0,8 mg/dl</TAG>; <TAG TYPE="PARAMETRO_BIOQUIMICO">sodio</TAG> <TAG TYPE="PARAMETRO_BIOQUIMICO">135 mEq/l</TAG>; <TAG TYPE="PARAMETRO_BIOQUIMICO">potasio</TAG> <TAG TYPE="PARAMETRO_BIOQUIMICO">3,5 mEq/l</TAG>; <TAG TYPE="PARAMETRO_BIOQUIMICO">GOT</TAG> <TAG TYPE="PARAMETRO_BIOQUIMICO">12 U/l</TAG>; <TAG TYPE="PARAMETRO_BIOQUIMICO">GPT</TAG> <TAG TYPE="PARAMETRO_BIOQUIMICO">20 U/l</TAG>; <TAG TYPE="PARAMETRO_BIOQUIMICO">GGT</TAG> <TAG TYPE="PARAMETRO_BIOQUIMICO">30 U/l</TAG>; <TAG TYPE="PARAMETRO_BIOQUIMICO">fosfatasa alcalina</TAG> <TAG TYPE="PARAMETRO_BIOQUIMICO">130 U/l</TAG>; <TAG TYPE="PARAMETRO_BIOQUIMICO">calcio</TAG> <TAG TYPE="PARAMETRO_BIOQUIMICO">8,5 mg/dl</TAG>.
+    <TAG TYPE="HALLAZGOS">Orina</TAG>: <TAG TYPE="PARAMETRO_ORINA">sedimento</TAG> <TAG TYPE="PARAMETRO_ORINA">normal</TAG>.
+    Diagnóstico y tratamiento:
+    Con base en los <TAG TYPE="HALLAZGOS">hallazgos clínicos</TAG> y los <TAG TYPE="RESULTADOS">resultados de las pruebas</TAG>, se estableció el <TAG TYPE="DIAGNOSTICO">diagnóstico</TAG> de <TAG TYPE="DIAGNOSTICO">[insertar diagnóstico]</TAG>. Se inició el <TAG TYPE="TRATAMIENTO">tratamiento</TAG> con <TAG TYPE="TRATAMIENTO">[insertar tratamiento]</TAG>, que se continuará durante <TAG TYPE="DURACION_TRATAMIENTO">[insertar duración]</TAG>.
+    Evolución y pronóstico:
+    El paciente se encuentra <TAG TYPE="ESTADO_CONCIENCIA">estable</TAG> y sin <TAG TYPE="COMPLICACIONES">complicaciones</TAG>. La <TAG TYPE="EVALUACION">evaluación clínica</TAG> será seguida de cerca y se realizarán <TAG TYPE="REVISIONES">revisiones periódicas</TAG> para ajustar el <TAG TYPE="TRATAMIENTO">tratamiento</TAG> según sea necesario.
+    </TEXT>
+  </MEDDOCAN>

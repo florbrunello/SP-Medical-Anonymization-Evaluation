@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Bruno Vera Santamaria
+DNI: 52738758B
+Fecha de nacimiento: 10/04/1932
+Género: H
+Domicilio: Calle del Doctor Esquerdo 35, 5M
+Ciudad: Guadix, Barcelona, Cataluña
+Código postal: 08211
+Email: qQQ0xoi1TjlZi00117@ciberehd.org
+Teléfono fijo: +34 936 19 49 23
+Teléfono móvil: +34 735 89 94 73
+NHC: 9592671
+NASS: 828713097547
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dr. Pol Cabrera Alonso. NC 288929861. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 06/08/1989
+Episodio: 98874470
+Centro de salud: Centro de Salud Alcorcón
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 57 años de edad, acompañado de su vecino. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Bruno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="49" text="Vera Santamaria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="52738758B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="10/04/1932" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="150" text="Calle del Doctor Esquerdo 35, 5M" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="165" text="Guadix" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="176" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="186" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="08211" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="246" text="qQQ0xoi1TjlZi00117@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="262" end="278" text="+34 936 19 49 23" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="295" end="311" text="+34 735 89 94 73" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="317" end="324" text="9592671" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="331" end="343" text="828713097547" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="365" end="372" text="Bombero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="407" end="425" text="Pol Cabrera Alonso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="430" end="439" text="288929861" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="441" end="478" text="Residente de 4° año en Endocrinología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="480" end="547" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="549" end="576" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="578" end="583" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="585" end="592" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="594" end="600" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="620" end="630" text="06/08/1989" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="641" end="649" text="98874470" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="667" end="691" text="Centro de Salud Alcorcón" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="735" end="764" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="768" end="775" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="802" end="808" text="vecino" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

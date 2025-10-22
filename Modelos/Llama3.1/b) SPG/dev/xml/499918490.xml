@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Yolanda</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Soriano Pérez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">39147193C</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/09/2002</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Bailén 92, 10O</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Linares</TAG>, <TAG TYPE="TERRITORIO">Segovia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">40940</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">yolanda_soriano-perez1989@ual.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 921 76 68 63</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 621 05 99 56</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8575789</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">122373151230</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Sanitización</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pedro Mateo Márquez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">328999190</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Insuficiencia Cardíaca</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">30/07/2018</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Getafe</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="RELIGIÓN">musulmán</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermano</TAG>. Se registró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP</TAG> (<TAG TYPE="TERRITORIO">192.168.123.108</TAG>) y la <TAG TYPE="IDENTIF_BIOMETRICOS">dirección MAC</TAG> (<TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7F:72:F2:6C:4A:63</TAG>).
+  </TEXT>
+</MEDDOCAN>

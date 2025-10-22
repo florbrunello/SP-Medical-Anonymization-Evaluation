@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Mónica Millan Castillo
+DNI: 75662248E
+Fecha de nacimiento: 30/07/1950
+Género: M
+Domicilio: Calle del Gobernador 14, 1K
+Ciudad: Vitoria, Granada, Andalucía
+Código postal: 18803
+Email: monica-millancastillo@gmail.com
+Teléfono fijo: +34 958 52 98 49
+Teléfono móvil: +34 658 64 44 97
+NHC: 9411723
+
+Datos asistenciales.
+Médico: Dr. Juan José Aparicio Alonso. NC 096992338. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/06/1973
+Episodio: 42764372
+Hospital: Hospital Universitario Virgen Macarena
+Matrícula del coche: 0955LYQ
+Modelo: Ram 1500
+VIN: VSHEO7AMD3K253978
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 22 años de edad, acompañado de su pareja. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Mónica" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Millan Castillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="75662248E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="30/07/1950" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="146" text="Calle del Gobernador 14, 1K" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="162" text="Vitoria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="171" text="Granada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="182" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="18803" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="242" text="monica-millancastillo@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="258" end="274" text="+34 958 52 98 49" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="291" end="307" text="+34 658 64 44 97" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="313" end="320" text="9411723" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="355" end="380" text="Juan José Aparicio Alonso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="385" end="394" text="096992338" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="396" end="428" text="Residente de 2° año en Pediatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="430" end="505" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="507" end="536" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="538" end="543" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="545" end="551" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="553" end="559" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="579" end="589" text="02/06/1973" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="600" end="608" text="42764372" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="619" end="657" text="Hospital Universitario Virgen Macarena" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="679" end="686" text="0955LYQ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="709" end="726" text="VSHEO7AMD3K253978" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="770" end="794" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="798" end="805" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="832" end="838" text="pareja" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

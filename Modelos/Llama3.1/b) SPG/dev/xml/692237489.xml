@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gloria</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ibáñez</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Prieto</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">14477385N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/05/1973</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Bravo Murillo 20, 9D</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Eibar</TAG>, <TAG TYPE="TERRITORIO">Lugo</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">27258</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">prieto473@udc.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 982 71 61 40</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 782 70 39 57</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5845263</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">919955328975</TAG>
+    Condición de riesgo: 
+
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rocío Marti Mendoza</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">114802071</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Epidemiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">05/06/1995</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">28951103</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Crúces</TAG>
+
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTRO_NUMERO_IDENTIF">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hijo</TAG>.
+    Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">URL</TAG> <TAG TYPE="URL_WEB">http://example-clinica.com//83680731M</TAG>. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp</TAG> <TAG TYPE="DIREC_PROT_INTERNET">://example-clinica.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

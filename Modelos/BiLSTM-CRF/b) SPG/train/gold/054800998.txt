@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Rosa María Costa Cortés
+DNI: 17418926Z
+Fecha de nacimiento: 13/02/1985
+Género: Mujer
+Domicilio: Calle de las Letras 76, 4T
+Ciudad: Ponferrada, Valencia, Comunidad Valenciana
+Código postal: 46653
+Email: rosamaria@gmail.com
+Teléfono fijo: +34 960 54 80 21
+Teléfono móvil: +34 760 77 13 95
+NHC: 2656132
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dr. Marco Crespo Merino. NC 632872034. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/07/2002
+Episodio: 75950661
+Centro de salud: Centro de Salud Arganzuela
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 17 años de edad, acompañado de su hijo. Se registró una sesión de huella dactilar, el código obtenido para revisarla es NC419RHQ290. Se registró una sesión de firma biométrica, el código obtenido para revisarla es AZ505LYE082. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es IQ227ZFD432. 

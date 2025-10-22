@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Concepción Galvez Tomas
+DNI: 74575647X
+Fecha de nacimiento: 26/04/2002
+Género: F
+Domicilio: Calle de Covarrubias 32
+Ciudad: Ontinyent, Santa Cruz de Tenerife, Canarias
+Código postal: 38174
+Email: galvez.tomas@h12o.es
+Teléfono fijo: +34 922 19 31 66
+FAX: +34 922 22 88 29
+NHC: 4118944
+NASS: 301548425604
+
+Datos asistenciales.
+Médico: Dr. Pedro José Navarro Roca. NC 264393052. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 29/12/2011
+Hospital: Hospital Universitario Reina Sofía de Córdoba
+Matrícula del coche: 2083IMW
+Modelo: Honda CR-V
+VIN: VSZSPEV6E7C122873
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 9 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Concepción" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="51" text="Galvez Tomas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="74575647X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="26/04/2002" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="143" text="Calle de Covarrubias 32" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="161" text="Ontinyent" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="185" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="187" end="195" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="211" end="216" text="38174" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="224" end="244" text="galvez.tomas@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 922 19 31 66" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 922 22 88 29" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="304" end="311" text="4118944" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="318" end="330" text="301548425604" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="365" end="388" text="Pedro José Navarro Roca" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="393" end="402" text="264393052" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="404" end="444" text="Investigador Clínico en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="446" end="513" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="515" end="542" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="544" end="549" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="551" end="558" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="560" end="566" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="586" end="596" text="29/12/2011" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="607" end="652" text="Hospital Universitario Reina Sofía de Córdoba" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="674" end="681" text="2083IMW" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="706" end="723" text="VSZSPEV6E7C122873" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="767" end="796" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="800" end="806" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="833" end="839" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

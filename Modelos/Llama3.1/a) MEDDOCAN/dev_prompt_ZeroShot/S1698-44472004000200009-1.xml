@@ -1,0 +1,175 @@
+```xml
+<documento>
+  <p>
+    <etiqueta start="1" end="9" text="Gonzalo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="10" end="23" text="Romero Velasco" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="24" end="28" text="NHC" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="29" end="44" text="5684614" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="45" end="64" text="NASS" TYPE="ID_SUJETO_ASISTENCIAL" comment=""/>
+    <etiqueta start="65" end="83" text="65 84236989 10" TYPE="OTRO_NUMERO_IDENTIF" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="84" end="99" text="Domicilio" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="100" end="122" text="Av. del puerto 177, 2, 1" TYPE="DIREC_PROT_INTERNET" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="123" end="137" text="Localidad/" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="138" end="145" text="Provincia" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="146" end="151" text="Valencia" TYPE="TERRITORIO" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="152" end="158" text="CP" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="159" end="164" text="46005" TYPE="OTRO_NUMERO_IDENTIF" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="165" end="175" text="Fecha de nacimiento" TYPE="FECHAS" comment=""/>
+    <etiqueta start="176" end="182" text="18/07/1969" TYPE="FECHAS" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="183" end="191" text="País" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="192" end="198" text="España" TYPE="PAIS" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="199" end="205" text="Edad" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="206" end="212" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="213" end="217" text="Sexo" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="218" end="219" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="220" end="228" text="Fecha de Ingreso" TYPE="FECHAS" comment=""/>
+    <etiqueta start="229" end="235" text="19/01/2016" TYPE="FECHAS" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="236" end="244" text="Servicio" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="245" end="251" text="Odontología" TYPE="PROFESION" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="252" end="266" text="Médico" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="267" end="279" text="Miguel Peñarrocha Castro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="280" end="291" text="NºCol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="292" end="306" text="46 46 87102" TYPE="NUMERO_TELEFONO" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="307" end="319" text="Hombre de 46 años" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="320" end="323" text="sin antecedentes" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="324" end="329" text="patológicos relevantes" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="330" end="335" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="336" end="346" text="Se le realizó una rehabilitación" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="347" end="361" text="fija sobre un implante unitario" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="362" end="372" text="ITI SLA. Straumann" TYPE="OTRO_NUMERO_IDENTIF" comment=""/>
+    <etiqueta start="373" end="377" text="Walderburg-Switzerland" TYPE="OTRO_NUMERO_IDENTIF" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="378" end="385" text="colocado en zona de 3.6" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="386" end="394" text="A los 6 meses de cementada" TYPE="FECHAS" comment=""/>
+    <etiqueta start="395" end="400" text="la corona" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="401" end="405" text="acudió a control" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="406" end="412" text="sin relatar sintomatología asociada" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="413" end="423" text="Al examen clínico" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="424" end="430" text="se detectó un leve enrojecimiento" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="431" end="438" text="de la mucosa adyacente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="439" end="445" text="al implante" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="446" end="453" text="y una bolsa periimplantaria" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="454" end="463" text="de 6 mm de profundidad" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="464" end="471" text="con leve sangramiento" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="472" end="475" text="al sondaje" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="476" end="483" text="El papel de articular" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="484" end="494" text="mostró un contacto prematuro" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="495" end="502" text="sobre corona protésica" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="503" end="512" text="En la radiografía panorámica" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="513" end="521" text="se observó un área radiotransparente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="522" end="529" text="en el hueso marginal" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="530" end="535" text="a 3.6" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="536" end="544" text="Se realizó el tallado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="545" end="555" text="oclusal de la corona protésica" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="556" end="566" text="Posteriormente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="567" end="574" text="se levantó un colgajo" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="575" end="585" text="mucoperióstico desde 3.5 a 3.7" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="586" end="593" text="observándose un rodete" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="594" end="603" text="de tejido blando" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="604" end="611" text="de aspecto fibroso" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="612" end="619" text="que ocupaba un defecto" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="620" end="626" text="óseo periimplantario" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="627" end="632" text="marginal a 3.6" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="633" end="641" text="Se procedió a retirar" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="642" end="652" text="el tejido patológico" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="653" end="661" text="con curetas plásticas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="662" end="667" text="y fue enviado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="668" end="674" text="a estudio anatomopatológico" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="675" end="683" text="La superficie del implante" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="684" end="692" text="se descontaminó con gel" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="693" end="701" text="de clorhexidina al 0.2%" TYPE="OTRO_NUMERO_IDENTIF" comment=""/>
+    <etiqueta start="702" end="708" text="durante 2 minutos" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="709" end="716" text="e irrigación con suero" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="717" end="723" text="fisiológico" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="724" end="732" text="El colgajo fue ampliado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="733" end="743" text="para acceder a un torus" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="744" end="751" text="mandibular lingual" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="752" end="758" text="en zona de premolares" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="759" end="764" text="ipsilateral" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="765" end="771" text="el cual se extrajo" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="772" end="778" text="y particuló para servir" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="779" end="785" text="de autoinjerto" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="786" end="794" text="El colgajo fue reposicionado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="795" end="803" text="y se suturó con seda" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="804" end="810" text="3.0" TYPE="OTRO_NUMERO_IDENTIF" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="811" end="819" text="El paciente fue reinstruido" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="820" end="829" text="en higiene oral" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="830" end="838" text="se prescibió ibuprofeno" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="839" end="845" text="600 mg cada 8 hrs" TYPE="OTRO_NUMERO_IDENTIF" comment=""/>
+    <etiqueta start="846" end="852" text="x 4 días" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="853" end="864" text="y colutorios con digluconato" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="865" end="874" text="de clorhexidina al 0.12%" TYPE="OTRO_NUMERO_IDENTIF" comment=""/>
+    <etiqueta start="875" end="881" text="2 veces al día" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="882" end="888" text="x 2 semanas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="889" end="897" text="El análisis histopatológico" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="898" end="906" text="evidenció un tejido" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="907" end="915" text="epitelio-conectivo" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="916" end="924" text="con abundante infiltrado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="925" end="932" text="linfo-plasmocitario" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="933" end="939" text="yuxtaepitelial" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="940" end="948" text="Bajo la zona superficial" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="949" end="957" text="se apreció un tejido" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="958" end="966" text="fibroconectivo denso" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="967" end="973" text="con escasa células" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <etiqueta start="974" end="977" text="inflamatorias" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  </p>
+  <p>
+    <etiqueta start="978" end="986" text="A los 12 meses" TYPE="FECHAS" comment=""/>
+   

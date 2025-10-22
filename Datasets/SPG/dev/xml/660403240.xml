@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rosa María Parra Cuesta
+DNI: 33385520P
+Fecha de nacimiento: 23/07/1927
+Género: F
+Domicilio: Calle de Santa Engracia 21, 5M
+Ciudad: Zaragoza, Alicante, Comunidad Valenciana
+Código postal: 03982
+Email: parra.cuesta140@ub.edu
+Teléfono fijo: +34 965 16 96 25
+Teléfono móvil: +34 665 09 68 42
+NHC: 1565780
+NASS: 536156080646
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dra. Fátima Diez Acosta. NC 973389977. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/02/1932
+Episodio: 80507157
+Centro de salud: Centro de Salud Moratalaz
+
+Informe clínico del paciente:
+Paciente refugiado de 4 años de edad, acompañado de su tío. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Rosa María" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="51" text="Parra Cuesta" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="33385520P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="23/07/1927" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="150" text="Calle de Santa Engracia 21, 5M" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="167" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="177" text="Alicante" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="199" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="215" end="220" text="03982" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="228" end="250" text="parra.cuesta140@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="266" end="282" text="+34 965 16 96 25" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="299" end="315" text="+34 665 09 68 42" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="321" end="328" text="1565780" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="335" end="347" text="536156080646" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="369" end="390" text="Trabajador de Almacén" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="655" end="665" text="27/02/1932" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="676" end="684" text="80507157" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="702" end="727" text="Centro de Salud Moratalaz" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="768" end="777" text="refugiado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="781" end="787" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="814" end="817" text="tío" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

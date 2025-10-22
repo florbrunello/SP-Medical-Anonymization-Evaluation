@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Iván Gil Villar
+DNI: 93107262L
+Fecha de nacimiento: 10/12/2021
+Género: Masculino
+Domicilio: Calle del Sombrerete 45, 2W
+Ciudad: Ciudad Real, Cáceres, Extremadura
+Código postal: 10312
+Email: gil@ucm.es
+Teléfono fijo: +34 927 36 67 11
+Teléfono móvil: +34 727 91 54 47
+NHC: 5074593
+NASS: 412178837369
+
+Datos asistenciales.
+Médico: Dra. María Luz Marti Bravo. NC 692179289. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/04/2023
+Episodio: 67884477
+Centro de salud: Centro de Salud Latina
+
+Informe clínico del paciente:
+Paciente fumador de un año de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.227.132, con dirección MAC 0F:73:A6:58:3D:01. Se registró una sesión de huella dactilar, el código obtenido para revisarla es MZ812HMD740. 

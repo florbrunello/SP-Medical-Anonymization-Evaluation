@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sergio Exposito Salazar
+DNI: 79218332F
+Fecha de nacimiento: 12/10/1993
+Género: Masculino
+Domicilio: Calle de Argumosa 61, 7P
+Ciudad: Xàtiva, Cantabria, Cantabria
+Código postal: 39993
+Email: sergio-exposito@udc.es
+Teléfono fijo: +34 942 84 80 25
+Teléfono móvil: +34 742 50 92 91
+NHC: 2375650
+Condición de riesgo: Operador de Maquinaria Pesada
+
+Datos asistenciales.
+Médico: Dra. Andrea Ramos Jurado. NC 955959149. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 24/11/2008
+Episodio: 95380907
+Hospital: Complejo Hospitalario Universitario de Cartagena
+Matrícula del coche: 3231ITJ
+Modelo: Honda Civic
+VIN: VSSZ3OQJDKT708335
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 15 años de edad, acompañado de su hermano. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Sergio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="51" text="Exposito Salazar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="79218332F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="12/10/1993" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="116" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="152" text="Calle de Argumosa 61, 7P" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="161" end="167" text="Xàtiva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="178" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="180" end="189" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="39993" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="240" text="sergio-exposito@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 942 84 80 25" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="289" end="305" text="+34 742 50 92 91" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="311" end="318" text="2375650" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="340" end="369" text="Operador de Maquinaria Pesada" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="630" end="640" text="24/11/2008" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="651" end="659" text="95380907" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="670" end="718" text="Complejo Hospitalario Universitario de Cartagena" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="740" end="747" text="3231ITJ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="773" end="790" text="VSSZ3OQJDKT708335" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="834" end="863" text="ascendencia del medio oriente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="867" end="874" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="901" end="908" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

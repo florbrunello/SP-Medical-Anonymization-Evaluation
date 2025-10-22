@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Darío Román Guerra
+DNI: 58661032S
+Fecha de nacimiento: 30/09/2007
+Género: Hombre
+Domicilio: Calle del Barquillo 98
+Ciudad: Navalcarnero, Granada, Andalucía
+Código postal: 18879
+Email: dario.guerra1478@h12o.es
+Teléfono fijo: +34 958 16 14 18
+Teléfono móvil: +34 658 39 46 79
+NHC: 9416596
+NASS: 836890328714
+Condición de riesgo: Montador
+
+Datos asistenciales.
+Médico: Dr. José Ramón Aranda Hernández. NC 365309629. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 08/01/2008
+Centro de salud: Centro de Salud Getafe
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 3 meses de edad, acompañado de su padre. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es AW144QHL655. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Darío" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="46" text="Román Guerra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="58661032S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="30/09/2007" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="108" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="142" text="Calle del Barquillo 98" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="163" text="Navalcarnero" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="172" text="Granada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="183" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="199" end="204" text="18879" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="212" end="236" text="dario.guerra1478@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 958 16 14 18" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="285" end="301" text="+34 658 39 46 79" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="307" end="314" text="9416596" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="321" end="333" text="836890328714" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="355" end="363" text="Montador" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="398" end="425" text="José Ramón Aranda Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="430" end="439" text="365309629" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="441" end="485" text="Investigador Principal en Optometría Clínica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="487" end="545" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="547" end="571" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="573" end="578" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="580" end="590" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="592" end="598" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="618" end="628" text="08/01/2008" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="646" end="668" text="Centro de Salud Getafe" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="709" end="730" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="734" end="741" text="3 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="768" end="773" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="861" end="872" text="AW144QHL655" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ramón Bueno Camacho
+DNI: 87643397B
+Fecha de nacimiento: 03/06/1929
+Género: Masculino
+Domicilio: Calle de la Princesa 32
+Ciudad: Cáceres, Soria, Castilla y León
+Código postal: 42761
+Email: bueno@ciberehd.org
+Teléfono fijo: +34 975 01 49 28
+Teléfono móvil: +34 675 14 39 94
+NHC: 4975425
+NASS: 702213765175
+Condición de riesgo: Trabajador de la Construcción
+
+Datos asistenciales.
+Médico: Dra. María Carmen Espinosa Díaz. NC 814090744. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/03/1959
+Episodio: 75585694
+Hospital: Hospital Universitari de Bellvitge
+Matrícula del coche: 3154QQK
+Modelo: Jeep Wrangler
+VIN: VSL1BP9QK1S907516
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 29 años de edad, acompañado de su compañero de trabajo. Se registró una sesión de huella dactilar, el código obtenido para revisarla es UU292TIJ975. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es AX323WLR154. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Ramón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Bueno Camacho" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="87643397B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="03/06/1929" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="112" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="147" text="Calle de la Princesa 32" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="163" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="170" text="Soria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="187" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="42761" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="234" text="bueno@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 975 01 49 28" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 675 14 39 94" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="4975425" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="702213765175" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="353" end="382" text="Trabajador de la Construcción" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="666" end="676" text="18/03/1959" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="687" end="695" text="75585694" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="706" end="740" text="Hospital Universitari de Bellvitge" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="762" end="769" text="3154QQK" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="797" end="814" text="VSL1BP9QK1S907516" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="855" end="872" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="876" end="883" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="910" end="919" text="compañero" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T25" start="1012" end="1023" text="UU292TIJ975" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T26" start="1106" end="1117" text="AX323WLR154" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

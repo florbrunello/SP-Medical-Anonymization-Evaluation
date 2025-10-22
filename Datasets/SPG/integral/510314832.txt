@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Arnau Hurtado Morales
+DNI: 59803012E
+Fecha de nacimiento: 06/02/2017
+Género: M
+Domicilio: Calle de la Luna 15
+Ciudad: Jaén, Madrid, Madrid
+Código postal: 28884
+Email: hurtado@uca.es
+Teléfono fijo: +34 911 94 18 63
+Teléfono móvil: +34 613 41 57 20
+NHC: 0208527
+NASS: 635779744366
+Condición de riesgo: Trabajador de la Construcción
+
+Datos asistenciales.
+Médico: Dr. Domingo Menendez Pacheco. NC 879649510. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/05/2019
+Hospital: Hospital Universitario Infanta Leonor
+Matrícula del coche: 8714SSR
+Modelo: Tesla Model 3
+VIN: VSSKSOWHNHL291629
+
+Informe clínico del paciente:
+Paciente de ascendencia caribeña de 2 años de edad, acompañado de su abuela. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.121.224, con dirección MAC DA:E1:4D:DF:D5:70. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. 

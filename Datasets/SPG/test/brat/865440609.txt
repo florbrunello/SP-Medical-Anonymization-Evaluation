@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: José Ignacio Sanz Núñez
+DNI: 90893723T
+Fecha de nacimiento: 02/05/1959
+Género: Hombre
+Domicilio: Calle de Leganitos 59
+Ciudad: Alcoy, Huelva, Andalucía
+Código postal: 21094
+Email: joseignacio_nunez@ciberehd.org
+Teléfono fijo: +34 959 59 41 52
+FAX: +34 959 04 54 18
+NHC: 4992870
+NASS: 975493161084
+Condición de riesgo: Repartidor
+
+Datos asistenciales.
+Médico: Dra. María Inmaculada Aranda Pereira. NC 076319711. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/06/1990
+Episodio: 56435724
+Hospital: Hospital de Manises
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 31 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.153.14, con dirección MAC 07:12:80:2E:15:0C. 

@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Iker Cuesta Guerra
+DNI: 12237894P
+Fecha de nacimiento: 13/08/2001
+Género: M
+Domicilio: Calle de Fortuny 8
+Ciudad: Ibiza, La Coruña, Galicia
+Código postal: 15156
+Email: iker@imibic.org
+Teléfono fijo: +34 981 36 60 19
+Teléfono móvil: +34 681 62 37 50
+NHC: 7634404
+NASS: 736182014073
+Condición de riesgo: Trabajador de Residuos Sólidos
+
+Datos asistenciales.
+Médico: Dra. María Ángeles Galvez Cuesta. NC 861250012. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/07/2008
+Episodio: 14660465
+Centro de salud: Centro de Salud Vicálvaro
+
+Informe clínico del paciente:
+Paciente vegano de 6 años de edad, acompañado de su tío. El servidor para envío de información desde cual el usuario se comunica es smtp://example-ophthalmology.net. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es CL852UAD824. 

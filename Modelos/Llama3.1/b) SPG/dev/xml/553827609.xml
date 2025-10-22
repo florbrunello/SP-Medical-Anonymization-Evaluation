@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sebastián</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mesa Robles</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">67828581V</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">19/05/2008</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Atocha 57</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Plasencia</TAG>, <TAG TYPE="TERRITORIO">Lérida</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">25262</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">sebastianmesarobles@isciii.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 973 14 04 62</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 973 58 73 76</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4925653</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">886643780014</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Trabajador Agrícola</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Concepción Padilla Montes</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">349394405</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">17/10/2021</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">98183598</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Valdemoro</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una consulta virtual desde la dirección IP <TAG TYPE="DIREC_PROT_INTERNET">(en red interna)</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">192.168.204.227</TAG>, con dirección MAC <TAG TYPE="IDENTIF_BIOMETRICOS">0D:C8:C1:AC:D7:58</TAG>. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">LC076KYG016</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Victor</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Herrero Casado</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9521025</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">84 526908 56</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. Marcelo Celayeta, 35 10C</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Pamplona</TAG>.
+    CP: <TAG TYPE="TERRITORIO">31014</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/01/1976</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">26/05/2009</TAG>.
+    Unidad/ Sección: <TAG TYPE="CENTRO_SALUD">Unidad de Aparato Digestivo</TAG>.
+    Episodio: <TAG TYPE="ID_SUJETO_ASISTENCIA">635467</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">David</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Remedios Clavijo</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">31 31 85978</TAG>.
+    Historia Actual: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG> de edad sin antecedentes de interés, diagnosticado de enfermedad de Crohn ileal a principios de 2005. Siguió tratamiento con claversal 500 mg/8 h y azatioprina a dosis de 150 mg/día desde diciembre de 2005 por corticodependencia. Asimismo estaba en tratamiento con hierro oral en tandas trimestrales, vitamina B12 intramuscular mensual y ácido fólico dos días a la semana. Desde entonces el paciente se encontraba asintomático. En enero de 2007 se objetivó un aumento de las enzimas de colestasis mantenido en el tiempo, decidiendo ampliar el estudio de forma ambulatoria y retirar la azatioprina.
+    Exploración física: Tensión arterial: 100/60 mm/seg; Pulso: 70 lpm; Temperatura: 36oC; Peso: 80 kg; Talla: 180 cm; Buen estado general. Consciente y orientado. Auscultación cardiopulmonar normal. Abdomen blando, depresible, no doloroso, no masas, ni megalias. Extremidades inferiores sin alteraciones.
+    Resumen de pruebas complementarias: Ante la persistencia de la colestasis se realizan:
+    Analítica. Hemograma y coagulación normal. Plaquetas: 108.000/ml. Perfil hepático: Transaminasas normales. FA: 248U/L. GGT: 390U/L. Perfil férrico y autoinmunidad negativos. Serologías virus de hepatitis B y C negativas.
+    Ecografía abdominal. Hígado aumentado difusamente de tamaño, con contorno liso y parénquima difusamente tosco, heterogéneo e hiperecogénico, sin lesiones ocupacionales. Leve esplenomegalia. Calibre y permeabilidad de la porta normal. Resto de estructuras sin alteraciones.
+    RMN abdominal. Hígado aumentado difusamente de tamaño, contorno capsular liso y parénquima homogéneo en las secuencias T1 de nivel medio, en las secuencias T2 aparece hipointenso, con áreas parcheadas difusas, discretamente hiperintensas, sin lesiones ocupacionales. Leve esplenomegalia. Resto de estructuras sin alteraciones.
+    Gastroscopia. En tercio inferior de esófago se observan 3 cordones varicosos pequeños que desaparecen con la insuflación.
+    Evolución y comentarios: Ante la persistencia de colestasis disociada a pesar de la retirada de la azatioprina se decidió realizar una biopsia hepática en la que se aprecia una arquitectura general conservada. Algunos espacios porta están ensanchados con puenteo incompleto porto-portal. Venas centrolobulillares aisladas. No se aprecia colestasis ni hemosiderosis. No macrófagos. PAS diastasa positivo. Algunos espacios porta presentan un ligero infiltrado de células redondas que no desborda la placa limitante. Las trabéculas de hepatocitos irregulares presentan un patrón en zonas regenerativo y en zonas pavimentoso. Aparecen frecuentes células binucleadas, estructuras vasculares y zonas sinusoidales dilatadas con patrón peliótico. Se aprecia un armazón de reticulina irregular con áreas de colapso. La histología descrita anteriormente es compatible con hiperplasia nodular regenerativa..
+    La evolución posterior, tanto analítica como de datos de hipertensión portal, fue buena con normalidad analítica y desaparición de las varices esofágicas.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">David</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Remedios Clavijo</TAG>. <TAG TYPE="CENTRO_SALUD">Sección de Aparato Digestivo B Complejo Hospitalario de Navarra</TAG> <TAG TYPE="CALLE">Irunlarrea, 4</TAG> <TAG TYPE="TERRITORIO">31008</TAG> <TAG TYPE="TERRITORIO">Pamplona</TAG> <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">davidruizcla@gmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

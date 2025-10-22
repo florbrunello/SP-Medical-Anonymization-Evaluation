@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Rosa Benito Conde
+DNI: 11634310J
+Fecha de nacimiento: 04/09/1943
+Género: F
+Domicilio: Calle de Áncora 99, 1B
+Ciudad: MelillaHuesca, Ciudad Real, Castilla-La Mancha
+Código postal: 13789
+Email: mariarosa_conde68@ual.es
+Teléfono fijo: +34 926 98 24 84
+Teléfono móvil: +34 726 13 81 83
+NHC: 9174691
+
+Datos asistenciales.
+Médico: Dra. Rosario Díaz Otero. NC 709333066. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 29/04/2015
+Centro de salud: Centro de Salud Pozuelo de Alarcón
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 71 años de edad, acompañado de su marido. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="María Rosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="51" text="Benito Conde" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="11634310J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="04/09/1943" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="142" text="Calle de Áncora 99, 1B" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="164" text="MelillaHuesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="177" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="197" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="13789" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="250" text="mariarosa_conde68@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="266" end="282" text="+34 926 98 24 84" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="299" end="315" text="+34 726 13 81 83" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="321" end="328" text="9174691" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="589" end="599" text="29/04/2015" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T16" start="617" end="651" text="Centro de Salud Pozuelo de Alarcón" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T17" start="695" end="716" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T18" start="720" end="727" text="71 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T19" start="754" end="760" text="marido" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

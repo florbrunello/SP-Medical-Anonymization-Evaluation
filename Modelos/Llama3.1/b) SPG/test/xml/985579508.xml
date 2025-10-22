@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Belén</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ferrer Gómez</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">77253760A</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">05/04/1944</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Villalar 85</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Zaragoza</TAG>, <TAG TYPE="TERRITORIO">Jaén</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">23470</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">belen.gomez@outlook.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 953 03 67 03</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 753 60 11 51</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5637713</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">760534494310</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Conductor de Camión</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rebeca Silva Jiménez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">617205796</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">05/07/1950</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">24777945</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Cartagena</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">descendencia africana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se realizó un <TAG TYPE="OTRO_NUMERO_IDENTIF">expediente</TAG> con <TAG TYPE="URL_WEB">http://example-research.net//50515210P</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de escaneo retiniano</TAG>, el <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">código obtenido</TAG> para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">WT471ITD000</TAG>.
+  </TEXT>
+</MEDDOCAN>

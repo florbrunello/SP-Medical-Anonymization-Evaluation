@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Anna Torres Jiménez
+DNI: 82468709R
+Fecha de nacimiento: 02/08/1962
+Género: M
+Domicilio: Calle de los Relatores 3
+Ciudad: Almería, Soria, Castilla y León
+Código postal: 42672
+Email: anna_jimenez1415@ioba.med.uva.es
+Teléfono fijo: +34 975 43 91 54
+Teléfono móvil: +34 775 66 81 76
+NHC: 7943450
+
+Datos asistenciales.
+Médico: Dra. Vanessa Paredes Ramos. NC 813380162. Neuropsicóloga Clínica Investigadora. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/05/2017
+Episodio: 47404123
+Centro de salud: Centro de Salud Boadilla del Monte
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena centroamericana de 54 años de edad, acompañado de su primo. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.123.52, con dirección MAC 31:BB:FF:BD:1D:33. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Anna" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="47" text="Torres Jiménez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="82468709R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="02/08/1962" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="140" text="Calle de los Relatores 3" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="156" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="163" text="Soria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="180" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="42672" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="241" text="anna_jimenez1415@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 975 43 91 54" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="290" end="306" text="+34 775 66 81 76" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="312" end="319" text="7943450" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="574" end="584" text="08/05/2017" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="595" end="603" text="47404123" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="621" end="655" text="Centro de Salud Boadilla del Monte" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T18" start="699" end="735" text="ascendencia indígena centroamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="739" end="746" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="773" end="778" text="primo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="886" end="903" text="31:BB:FF:BD:1D:33" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

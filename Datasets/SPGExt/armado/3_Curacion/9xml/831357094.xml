@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Noelia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Menendez Palacios</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">51833107P</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/07/1941</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Libertad 52</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">León, Soria, Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">42249</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">noelia.palacios@yahoo.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 975 85 20 78</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 775 65 49 36</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2535716</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">137493900288</TAG>.
+    Condición de riesgo: <TAG TYPE="PROFESION">Médico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lara Guillen Salazar</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">955738227</TAG>. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/01/1981</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">15760719</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic San Carlos</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">8351HKU</TAG>.
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Kia Sorento</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSKQFOS2UFA605590</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia nórdica o escandinava</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">39 años</TAG> de edad, acompañado de su madre. Presenta una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> desde los 30 años, con tratamiento con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enalapril</TAG> 10 mg diario y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">amlodipino</TAG> 5 mg diario. En la exploración física, se encuentra con una presión arterial de 140/90 mmHg, sin otros hallazgos relevantes. Los análisis de sangre muestran un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">colesterol total</TAG> de 220 mg/dl y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">triglicéridos</TAG> de 180 mg/dl.
+    Se solicitan pruebas adicionales, incluyendo una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ecografía de hígado</TAG> y una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">resonancia magnética de cerebro</TAG>, que no evidencian patología significativa. Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG>, se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">reducción de sal en la dieta</TAG> y aumento de la actividad física) y tratamiento farmacológico (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">aumento de la dosis de enalapril a 20 mg diario</TAG> y adición de un bloqueador de los receptores de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">angiotensina II</TAG>).
+    El paciente se encuentra estable y se decide su alta a su domicilio, donde continuará con el tratamiento y se le solicita realizar seguimiento con su médico de cabecera.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> desde los 30 años y ha estado en tratamiento con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enalapril</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">amlodipino</TAG>. También tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sobrepeso</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">obesidad</TAG>, con un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">índice de masa corporal</TAG> (IMC) de 30.
+    Evolución y comentarios:
+    El paciente se encuentra estable y se decide su alta a su domicilio. Se le solicita realizar seguimiento con su médico de cabecera y se le recomienda realizar cambios en su estilo de vida para mejorar su salud.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lara Guillen Salazar</TAG>, Investigadora Clínica en Enfermedades Digestivas, Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd).
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Olga Benito Torres
+DNI: 71210411L
+Fecha de nacimiento: 11/10/1987
+Género: F
+Domicilio: Calle de Bailén 11
+Ciudad: San Sebastián, Almería, Andalucía
+Código postal: 04609
+Email: olga_benito754@ioba.med.uva.es
+Teléfono fijo: +34 950 22 72 70
+Teléfono móvil: +34 650 89 76 80
+NHC: 9748405
+NASS: 399654244143
+Condición de riesgo: Científico de Investigación
+
+Datos asistenciales.
+Médico: Dr. Ignacio De la Fuente Silva. NC 246884478. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 18/01/2020
+Centro de salud: Centro de Salud Centro
+
+Informe clínico del paciente:
+Paciente vegetariano de 32 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Olga" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="46" text="Benito Torres" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="71210411L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="11/10/1987" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="133" text="Calle de Bailén 11" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="142" end="155" text="San Sebastián" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="164" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="175" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="04609" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="234" text="olga_benito754@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 950 22 72 70" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 650 89 76 80" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="9748405" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="399654244143" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="353" end="380" text="Científico de Investigación" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="415" end="441" text="Ignacio De la Fuente Silva" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="446" end="455" text="246884478" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="457" end="497" text="Investigador Clínico en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="499" end="566" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="568" end="595" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="597" end="602" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="604" end="611" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="613" end="619" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="639" end="649" text="18/01/2020" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="667" end="689" text="Centro de Salud Centro" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="730" end="741" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="745" end="752" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="779" end="784" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

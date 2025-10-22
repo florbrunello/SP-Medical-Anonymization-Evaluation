@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Oliver</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Torres Conde</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">95895085N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">29/09/1929</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Magdalena 85, 7G</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Úbeda</TAG>, <TAG TYPE="TERRITORIO">Asturias</TAG>, <TAG TYPE="TERRITORIO">Asturias</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">33751</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">torres@ucm.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 984 51 93 75</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 784 63 13 56</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3190168</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Electricista</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jon Pérez Soto</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">858584876</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Oftalmólogo Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/11/1979</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">51163929</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Regional Universitario de Málaga</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">50 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">compañero de trabajo</TAG>.
+  </TEXT>
+</MEDDOCAN>

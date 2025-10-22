@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Rosario Mesa López
+DNI: 88991962V
+Fecha de nacimiento: 21/07/1995
+Género: F
+Domicilio: Calle de Alcalá 53, 10R
+Ciudad: Fuenlabrada, León, Castilla y León
+Código postal: 24544
+Email: mariarosario1962@uca.es
+Teléfono fijo: +34 987 20 64 20
+FAX: +34 987 41 84 73
+NHC: 3415139
+
+Datos asistenciales.
+Médico: Dra. Verónica Acosta Paredes. NC 030192747. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/07/2010
+Centro de salud: Centro de Salud Aranjuez
+
+Informe clínico del paciente:
+Paciente vegetariano de 14 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Rosario" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="52" text="Mesa López" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="88991962V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="21/07/1995" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="144" text="Calle de Alcalá 53, 10R" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="164" text="Fuenlabrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="170" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="187" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="24544" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="239" text="mariarosario1962@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 987 20 64 20" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="277" end="293" text="+34 987 41 84 73" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="299" end="306" text="3415139" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="579" end="589" text="13/07/2010" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T16" start="607" end="631" text="Centro de Salud Aranjuez" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T17" start="672" end="683" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T18" start="687" end="694" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T19" start="721" end="728" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

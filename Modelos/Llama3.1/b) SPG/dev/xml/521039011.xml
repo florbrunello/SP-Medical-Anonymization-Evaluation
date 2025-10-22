@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Bruno</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cabrera Varela</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">95544654D</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/11/1939</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de San Millán 28, 6E</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Jerez de la Frontera</TAG>, <TAG TYPE="TERRITORIO">Menorca</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07797</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">bruno@imibic.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 08 70 33</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 671 97 61 19</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0439119</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">197103902415</TAG>
+    Condición de riesgo: (vacío)
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Robles Gil</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">838973667</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">13/02/2000</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">31903333</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Príncipe de Asturias</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia europea oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">60 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">marido</TAG>. Se registró una <TAG TYPE="PROFESION">sesión de escaneo retiniano</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">KW914RWE780</TAG>.
+  </TEXT>
+</MEDDOCAN>

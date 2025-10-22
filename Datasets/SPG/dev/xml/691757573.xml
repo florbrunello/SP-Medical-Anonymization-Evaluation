@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Adam Galan Estevez
+DNI: 99454442G
+Fecha de nacimiento: 27/02/1925
+Género: M
+Domicilio: Calle del Sombrerete 87
+Ciudad: Vitoria, Sevilla, Andalucía
+Código postal: 41527
+Email: adam.estevez795@salud.madrid.org
+Teléfono fijo: +34 954 70 45 65
+Teléfono móvil: +34 754 53 40 87
+NHC: 2584498
+NASS: 568296284626
+
+Datos asistenciales.
+Médico: Dra. Almudena Villanueva Menendez. NC 184758622. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/12/1940
+Hospital: Hospital Universitario Virgen del Rocío
+Matrícula del coche: 1909QHD
+Modelo: Jeep Wrangler
+VIN: VSC8MMC8I9Y533268
+
+Informe clínico del paciente:
+Paciente vegetariano de 15 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Adam" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="46" text="Galan Estevez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="99454442G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="27/02/1925" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="138" text="Calle del Sombrerete 87" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="154" text="Vitoria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="163" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="174" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="41527" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="235" text="adam.estevez795@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 954 70 45 65" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 754 53 40 87" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="2584498" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="568296284626" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="612" end="622" text="18/12/1940" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="633" end="672" text="Hospital Universitario Virgen del Rocío" TYPE="HOSPITAL" comment=""/>
+        <ID id="T18" start="694" end="701" text="1909QHD" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="729" end="746" text="VSC8MMC8I9Y533268" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="787" end="798" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="802" end="809" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="836" end="842" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

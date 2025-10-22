@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Adrián Gracia Jurado
+DNI: 96420152N
+Fecha de nacimiento: 10/06/1956
+Género: Masculino
+Domicilio: Calle de Recoletos 19
+Ciudad: Almería, La Coruña, Galicia
+Código postal: 15095
+Email: adrian-gracia-jurado@ioba.med.uva.es
+Teléfono fijo: +34 981 85 76 26
+Teléfono móvil: +34 781 53 22 85
+NHC: 2040120
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dr. Pedro José Valero Romero. NC 312744693. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 23/05/1976
+Episodio: 68239357
+Centro de salud: Centro de Salud Puente de Vallecas
+Matrícula del coche: 2367KXU
+Modelo: Tesla Model 3
+VIN: VSBLIOARVRJ730170
+
+Informe clínico del paciente:
+Paciente de tez blanca de 19 años de edad, acompañado de su nuera. Se registró una sesión de huella dactilar, el código obtenido para revisarla es RZ321PIS425. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Adrián" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Gracia Jurado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="96420152N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="10/06/1956" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="113" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="146" text="Calle de Recoletos 19" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="162" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="173" text="La Coruña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="182" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="15095" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="247" text="adrian-gracia-jurado@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="263" end="279" text="+34 981 85 76 26" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="296" end="312" text="+34 781 53 22 85" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="318" end="325" text="2040120" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="347" end="355" text="Granjero" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="390" end="414" text="Pedro José Valero Romero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="419" end="428" text="312744693" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="430" end="473" text="Cardiólogo de Unidad de Cuidados Intensivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="475" end="547" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="549" end="572" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="574" end="579" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="581" end="587" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="589" end="595" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="615" end="625" text="23/05/1976" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="636" end="644" text="68239357" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="662" end="696" text="Centro de Salud Puente de Vallecas" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="718" end="725" text="2367KXU" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="753" end="770" text="VSBLIOARVRJ730170" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="814" end="824" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="828" end="835" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="862" end="867" text="nuera" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T32" start="949" end="960" text="RZ321PIS425" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

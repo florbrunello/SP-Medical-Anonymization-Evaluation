@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Yolanda</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Redondo Santiago</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">25511757L</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/02/1957</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Áncora 35, 7T</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Murcia</TAG>, <TAG TYPE="TERRITORIO">Lérida</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">25081</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">redondo@ciberned.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 973 39 10 54</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 973 99 03 94</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7134269</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">395789255976</TAG>
+    Condición de riesgo: 
+            <TAG TYPE="OTROS_SUJETO_ASISTENCIA">de ascendencia del medio oriente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>.
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Miguel Vega Caballero</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">764020996</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardiólogo Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">05/01/1961</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">78626246</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Collado Villalba</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2472HHB</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Honda CR-V</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSEE2E62O2P987203</TAG>
+    Informe clínico del paciente:
+    Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">http://example-hospital.org//52873417M</TAG>. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">AV032EJV726</TAG>.
+  </TEXT>
+</MEDDOCAN>

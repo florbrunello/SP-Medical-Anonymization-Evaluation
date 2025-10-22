@@ -1,0 +1,48 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 0 14	Mikel Guerra Serra
+T2	ID_SUJETO_ASISTENCIA 28 42	18091840V
+T3	FECHAS 59 69	05/04/1931
+T4	SEXO_SUJETO_ASISTENCIA 82 83	M
+T5	CALLE 100 118	Calle del Gobernador 19
+T6	TERRITORIO 125 140	Béjar
+T7	TERRITORIO 145 152	Gerona
+T8	TERRITORIO 161 168	Cataluña
+T9	TERRITORIO 173 180	17739
+T10	CORREO_ELECTRONICO 203 219	mikel@icloud.com
+T11	NUMERO_TELEFONO 236 252	+34 972 30 88 41
+T12	NUMERO_TELEFONO 264 280	+34 772 64 76 53
+T13	ID_SUJETO_ASISTENCIA 292 306	5438852
+T14	ID_SUJETO_ASISTENCIAL 315 330	007767192192
+T15	NOMBRE_PROFESION 338 362	Bombero
+T16	NOMBRE_PERSONAL_SANITARIO 391 415	Dra. Teresa Mesa Soto
+T17	ID_TITULACION_PERSONAL_SANITARIO 434 445	NC 576487501
+T18	NOMBRE_INSTITUCION 455 475	Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)
+T19	CALLE 487 506	Avenida Monforte de Lemos 3-5
+T20	TERRITORIO 518 525	28029
+T21	PAIS 532 538	España
+T22	FECHAS 544 554	11/04/1993
+T23	ID_CONTACTO_ASISTENCIAL 566 575	96968853
+T24	NOMBRE_HOSPITAL 587 609	Hospital Universitario 12 de Octubre
+T25	NOMBRE_SUJETO_ASISTENCIA 613 626	paciente
+T26	EDAD_SUJETO_ASISTENCIA 630 637	62 años
+T27	SEXO_SUJETO_ASISTENCIA 642 643	M
+T28	FAMILIARES_SUJETO_ASISTENCIA 656 663	pareja
+T29	FECHAS 668 678	11/04/1993
+T30	NOMBRE_SUJETO_ASISTENCIA 692 705	paciente
+T31	T1	720 730	37,5 C
+T32	T1	741 751	120/80 mmHg
+T33	T1	763 774	20 lpm
+T34	T1	786 796	consciente, orientado, con buen estado de nutrición e hidratación
+T35	T1	808 819	en cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos
+T36	T1	841 852	Auscultación cardíaca rítmica, sin soplos, roces ni extratonos
+T37	T1	864 875	Auscultación pulmonar con conservación del murmullo vesicular
+T38	T1	889 899	Abdomen blando, depresible, sin masas ni megalias
+T39	T1	912 922	en la exploración neurológica no se detectan signos meníngeos ni datos de focalidad
+T40	T1	935 946	Extremidades sin varices ni edemas
+T41	T1	959 969	pulsos periféricos presentes y simétricos
+T42	T1	983 994	Hemograma: Hb 14,5 g/dl
+T43	T1	1007 1017	leucocitos 9.500/mm3 (neutrófilos 70%)
+T44	T1	1031 1041	plaquetas 250.000/ mm3
+T45	T1	1055 1065	VSG: 10 mm 1ª hora
+T46	T1	1080 1090	Coagulación: TQ 95%
+T47	T1	1104 1114	TTPA 20,5 seg
+T48	T1	1120 113

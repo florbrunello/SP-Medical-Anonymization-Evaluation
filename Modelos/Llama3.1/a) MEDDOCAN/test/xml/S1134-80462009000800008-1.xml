@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Raquel</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Moncada Lopez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7385609</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">89 35672561 02</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av, Planetario, 43, 3D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28027</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">16/06/1934</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">78 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">04/08/2012</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Luz Adriana</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Templo Soto</TAG>  NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">08 08 57798</TAG>.
+    Informe clínico del paciente: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">78 años</TAG>, remitida del servicio de cirugía general al de clínica de dolor por dolor abdominal crónico secundario a <TAG TYPE="OTROS_SUJETO_ASISTENCIA">angina intestinal</TAG>. Sin antecedentes de enfermedades cronicodegenerativas. Se le realizaron 2 <TAG TYPE="OTROS_SUJETO_ASISTENCIA">laparotomías</TAG> en 6 meses y 1 <TAG TYPE="OTROS_SUJETO_ASISTENCIA">laparoscopia diagnóstica</TAG> por episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">isquemia mesentérica</TAG>.
+    - Diagnóstico: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">isquemia mesentérica</TAG> corroborada por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tomografía computarizada con contraste venoso y arterial</TAG>.
+    - Enfermedad actual: paciente con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal crónico</TAG>, generalizado, severo, de 6 meses de evolución, que no remite con analgésicos habituales. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Dolor de tipo cólico</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">EVA</TAG> 10/10, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">EVERA</TAG> severo, incapacitante, episódico, que se acompaña en ocasiones de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">náusea</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómito</TAG>, sin factores que lo aumenten o disminuyan.
+    - Exploración física: peso <TAG TYPE="OTRO_NUMERO_IDENTIF">45 kg</TAG>; talla <TAG TYPE="OTRO_NUMERO_IDENTIF">1,50 m</TAG>; presión arterial 90/50 mmHg; frecuencia cardíaca 65; frecuencia respiratoria 18. Consciente, orientada, hidratada, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">palidez de mucosas y tegumentos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">caquéctica</TAG>. Cara, cabeza y cuello sin alteraciones, cardiopulmonar sin compromiso, abdomen con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor generalizado en todos los cuadrantes</TAG>, severo, a la palpación superficial y profunda, peristalsis presente y de características normales, sin masas palpables. Resto de exploración física normal.
+    - Diagnóstico algológico: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal crónico de tipo visceral severo</TAG>.
+    - Diagnóstico etiológico: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">angina intestinal</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">isquemia mesentérica</TAG>).
+    Evolución clínica
+    Terapéutica con <TAG TYPE="OTRO_NUMERO_IDENTIF">opiáceos potentes</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">hidromorfona</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">metadona</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">oxicodona</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">morfina</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">fentanilo transdérmico</TAG>) y adyuvantes, como <TAG TYPE="OTRO_NUMERO_IDENTIF">antagonistas del calcio</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">nitratos</TAG>, etc., realizando diferentes rotaciones y esquemas de manejo de acuerdo a su evolución clínica. No candidata a intervencionismo por estado clínico y por <TAG TYPE="OTRO_NUMERO_IDENTIF">anticoagulación con acenocumarina</TAG>, y por el uso de <TAG TYPE="OTRO_NUMERO_IDENTIF">antiagregantes plaquetarios</TAG>.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Luz Adriana</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Templo Soto</TAG>. Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">luzadrianatemplos@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

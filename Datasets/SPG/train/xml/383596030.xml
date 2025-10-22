@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Carolina Serra Rivas
+DNI: 79853076C
+Fecha de nacimiento: 15/02/1987
+Género: Mujer
+Domicilio: Calle de Lope de Vega 55
+Ciudad: Langreo, Asturias, Asturias
+Código postal: 33080
+Email: carolina-serra_rivas@ioba.med.uva.es
+Teléfono fijo: +34 984 17 08 94
+Teléfono móvil: +34 784 51 80 58
+NHC: 9993240
+Condición de riesgo: Químico
+
+Datos asistenciales.
+Médico: Dra. Eva María Benito Núñez. NC 936789898. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/11/2020
+Episodio: 63009641
+Centro de salud: Centro de Salud Sevilla Norte
+Matrícula del coche: 3525FRQ
+Modelo: Subaru Outback
+VIN: VSR4W7PL8VT155931
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 33 años de edad, acompañado de su hijo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Carolina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="48" text="Serra Rivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="79853076C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="15/02/1987" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="145" text="Calle de Lope de Vega 55" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="161" text="Langreo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="171" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="181" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="33080" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="246" text="carolina-serra_rivas@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="262" end="278" text="+34 984 17 08 94" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="295" end="311" text="+34 784 51 80 58" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="317" end="324" text="9993240" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="346" end="353" text="Químico" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="618" end="628" text="14/11/2020" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="639" end="647" text="63009641" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="665" end="694" text="Centro de Salud Sevilla Norte" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="716" end="723" text="3525FRQ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="752" end="769" text="VSR4W7PL8VT155931" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="813" end="846" text="ascendencia indígena sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="850" end="857" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="884" end="888" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

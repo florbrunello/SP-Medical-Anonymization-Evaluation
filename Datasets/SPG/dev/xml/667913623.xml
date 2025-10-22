@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Christian Macias Lozano
+DNI: 34359197A
+Fecha de nacimiento: 19/06/1934
+Género: Hombre
+Domicilio: Calle de Tribulete 72
+Ciudad: Xàtiva, Granada, Andalucía
+Código postal: 18377
+Email: christian.macias1489@ioba.med.uva.es
+Teléfono fijo: +34 958 10 65 68
+FAX: +34 958 84 36 49
+NHC: 0476974
+NASS: 447919203957
+Condición de riesgo: Trabajador de Servicios de Limpieza
+
+Datos asistenciales.
+Médico: Dra. Milagros Méndez Flores. NC 296028946. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 29/11/1956
+Episodio: 89093563
+Centro de salud: Centro de Salud Parla
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 22 años de edad, acompañado de su compañero de trabajo. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.198.77, con dirección MAC 1E:CA:1E:27:4E:18. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Christian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="51" text="Macias Lozano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="34359197A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="19/06/1934" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="113" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="146" text="Calle de Tribulete 72" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="161" text="Xàtiva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="170" text="Granada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="181" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="18377" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="246" text="christian.macias1489@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="262" end="278" text="+34 958 10 65 68" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 958 84 36 49" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="306" end="313" text="0476974" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="447919203957" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="354" end="389" text="Trabajador de Servicios de Limpieza" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="631" end="641" text="29/11/1956" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="652" end="660" text="89093563" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="678" end="699" text="Centro de Salud Parla" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="740" end="761" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="765" end="772" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="799" end="808" text="compañero" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="927" end="944" text="1E:CA:1E:27:4E:18" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

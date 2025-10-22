@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Aarón Arroyo Fuentes
+DNI: 24881291Y
+Fecha de nacimiento: 01/01/2005
+Género: Varón
+Domicilio: Calle de la Primavera 81
+Ciudad: Jaca, Las Palmas, Canarias
+Código postal: 35840
+Email: aaron-arroyo145@salud.madrid.org
+Teléfono fijo: +34 928 16 16 43
+Teléfono móvil: +34 728 92 38 17
+NHC: 9533311
+
+Datos asistenciales.
+Médico: Dra. Elisa Casado Manzano. NC 377634303. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/01/2019
+Hospital: Hospital Universitari de Bellvitge
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 14 años de edad, acompañado de su abuelo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Aarón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Arroyo Fuentes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="24881291Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="01/01/2005" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="145" text="Calle de la Primavera 81" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="158" text="Jaca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="170" text="Las Palmas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="180" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="35840" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="241" text="aaron-arroyo145@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 928 16 16 43" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="290" end="306" text="+34 728 92 38 17" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="312" end="319" text="9533311" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="574" end="584" text="20/01/2019" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T16" start="595" end="629" text="Hospital Universitari de Bellvitge" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T17" start="673" end="699" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T18" start="703" end="710" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T19" start="737" end="743" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

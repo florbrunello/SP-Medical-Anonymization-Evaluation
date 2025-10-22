@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan José</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Martínez Herrera</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">56298589V</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">26/09/1972</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle del Gobernador 41</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Teruel</TAG>, <TAG TYPE="TERRITORIO">Almería</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">04684</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">wzStJm5fErB@ub.edu</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 950 48 03 93</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 650 95 14 58</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1670945</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">019184534118</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Técnico de Laboratorio</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Luis Manzano Moya</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">030582971</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardiólogo Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">26/11/1983</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">25525269</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Crúces</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0289DJH</TAG>
+  Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Audi A4</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSWZZT5HD0B874763</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">11 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tía</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de escaneo retiniano</TAG>, el código obtenido para revisarla es <TAG TYPE="CORREO_ELECTRONICO">FD665GEN105</TAG>.
+  </TEXT>
+</MEDDOCAN>

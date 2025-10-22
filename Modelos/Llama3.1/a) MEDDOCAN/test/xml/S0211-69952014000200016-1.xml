@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carmen</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mercado Paz</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3956384</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">89 34657896 35</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Moliner, 23</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Barakaldo</TAG>.
+    CP: <TAG TYPE="TERRITORIO">20101</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/05/1947</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">68 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">04/08/2015</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ane</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mujika López</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">20 20 56890</TAG>.
+    Informe clínico del paciente: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">68 años</TAG>, cuyo único antecedente de interés es <TAG TYPE="OTRO_NUMERO_IDENTIF">anemia ferropénica</TAG> estudiada por <TAG TYPE="PROFESION">Gastroenterología</TAG> desde mayo de <TAG TYPE="FECHAS">2013</TAG>, sin antecedentes nefrológicos. Tras <TAG TYPE="OTRO_NUMERO_IDENTIF">anemización progresiva</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">hemoglobina</TAG> 6,5g/dl), se remitió a centro hospitalario para <TAG TYPE="OTRO_NUMERO_IDENTIF">transfusión de concentrado de hematíes</TAG>, observándose <TAG TYPE="OTRO_NUMERO_IDENTIF">reacción postransfusional</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">deterioro de la función renal</TAG> progresivo, alcanzando niveles de <TAG TYPE="OTRO_NUMERO_IDENTIF">creatinina</TAG> máxima de 7,67mg/dl, <TAG TYPE="OTRO_NUMERO_IDENTIF">urea</TAG> 171mg/dl y <TAG TYPE="OTRO_NUMERO_IDENTIF">oligoanuria</TAG>. Se decidió ingreso en el <TAG TYPE="PROFESION">Servicio de Nefrología</TAG>, donde se realizó <TAG TYPE="OTRO_NUMERO_IDENTIF">estudio completo</TAG> y se observaron valores de <TAG TYPE="OTRO_NUMERO_IDENTIF">hemoglobina</TAG> de hasta 4,2mg/dl, <TAG TYPE="OTRO_NUMERO_IDENTIF">LDH</TAG> de 997UI/l, <TAG TYPE="OTRO_NUMERO_IDENTIF">bilirrubina indirecta</TAG> de 1,1mg/dl, <TAG TYPE="OTRO_NUMERO_IDENTIF">reticulocitos</TAG> 2,9%, <TAG TYPE="OTRO_NUMERO_IDENTIF">haptoglobina</TAG> de 36,40mg/dl y en el <TAG TYPE="OTRO_NUMERO_IDENTIF">frotis sanguíneo</TAG>: <TAG TYPE="OTRO_NUMERO_IDENTIF">anisopoiquilocitosis</TAG> con <TAG TYPE="OTRO_NUMERO_IDENTIF">policromasia</TAG>. En <TAG TYPE="OTRO_NUMERO_IDENTIF">tira reactiva de orina</TAG> se observó <TAG TYPE="OTRO_NUMERO_IDENTIF">hematuria</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">piuria</TAG>. Los datos sugirieron <TAG TYPE="OTRO_NUMERO_IDENTIF">anemia hemolítica intravascular</TAG> de origen autoinmune por <TAG TYPE="OTRO_NUMERO_IDENTIF">incompatibilidad sanguínea</TAG>.
+    Se consultó con el <TAG TYPE="PROFESION">Servicio de Hematología</TAG>, que informó de la presencia de <TAG TYPE="OTRO_NUMERO_IDENTIF">anticuerpos irregulares</TAG> de especificidad anti-Tja a título de 1/16. Estos resultados son compatibles con la ausencia de un <TAG TYPE="OTRO_NUMERO_IDENTIF">antígeno de alta incidencia</TAG> en la población general, el <TAG TYPE="OTRO_NUMERO_IDENTIF">antígeno P</TAG>. Durante el ingreso la función renal fue mejorando. Requirió varias sesiones de <TAG TYPE="OTRO_NUMERO_IDENTIF">hemodiálisis</TAG>, tratamiento de soporte con <TAG TYPE="OTRO_NUMERO_IDENTIF">sueroterapia intensa</TAG> y alcalinización, y tratamiento para su <TAG TYPE="OTRO_NUMERO_IDENTIF">anemia</TAG> con <TAG TYPE="OTRO_NUMERO_IDENTIF">eritropoyetina</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">hierro intravenoso</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">transfusión de cuatro concentrados de hematíes</TAG>. Actualmente presenta una <TAG TYPE="OTRO_NUMERO_IDENTIF">creatinina</TAG> de 0,3mg/dl y una <TAG TYPE="OTRO_NUMERO_IDENTIF">hemoglobina</TAG> de 10,6g/dl.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ane</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mujika López</TAG>, <TAG TYPE="PROFESION">Servicio de Nefrología</TAG>, <TAG TYPE="HOSPITAL">Hospital Universitario de Cruces</TAG>, <TAG TYPE="TERRITORIO">Barakaldo</TAG>, <TAG TYPE="TERRITORIO">Vizcaya</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">ane.mujikalopez@osakidetza.net</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">ane.mujikalopez@gmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

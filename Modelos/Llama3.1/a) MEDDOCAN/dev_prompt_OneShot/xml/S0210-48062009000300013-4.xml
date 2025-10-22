@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">David</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Melquiades Ramos</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7625431</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">37 45637632 02</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. Castilla La Mancha, 36</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Albacete</TAG>.
+    CP: <TAG TYPE="TERRITORIO">02841</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/09/1981</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">34 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">15/04/2016</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Héctor</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pastor Navarro</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">02 02 54780</TAG>.
+    Informe clínico del paciente: Paciente varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">34 años</TAG>, con antecedentes Personales: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hepatitis en la infancia</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ureterolitectomía derecha</TAG> <TAG TYPE="FECHAS">10 años antes</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Cistinuria</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">UIV previa a la Leoch</TAG> con normal función renal bilateral pero con riñón derecho de menor tamaño que el izquierdo. No <TAG TYPE="OTRO_NUMERO_IDENTIF">HTA</TAG>.
+    Leoch de <TAG TYPE="OTRO_NUMERO_IDENTIF">litiasis</TAG> de <TAG TYPE="OTRO_NUMERO_IDENTIF">1 cm</TAG> en <TAG TYPE="OTRO_NUMERO_IDENTIF">cáliz inferior</TAG> de riñón derecho. <TAG TYPE="OTRO_NUMERO_IDENTIF">3.500 impactos</TAG>, intensidad <TAG TYPE="OTRO_NUMERO_IDENTIF">3</TAG>. A las <TAG TYPE="OTRO_NUMERO_IDENTIF">5-6 horas</TAG> del tratamiento presentó <TAG TYPE="OTRO_NUMERO_IDENTIF">dolor intenso</TAG> en <TAG TYPE="OTRO_NUMERO_IDENTIF">flanco derecho</TAG> diagnosticándose con <TAG TYPE="OTRO_NUMERO_IDENTIF">ecografía</TAG> de discreto <TAG TYPE="OTRO_NUMERO_IDENTIF">hematoma subcapsular</TAG>. En <TAG TYPE="OTRO_NUMERO_IDENTIF">TAC</TAG> tres días después, <TAG TYPE="OTRO_NUMERO_IDENTIF">hematoma</TAG> de <TAG TYPE="OTRO_NUMERO_IDENTIF">12 cm</TAG>. Se transfundieron dos <TAG TYPE="OTRO_NUMERO_IDENTIF">concentados de hematíes</TAG>.
+    <TAG TYPE="FECHAS">14 días</TAG> después de la <TAG TYPE="OTRO_NUMERO_IDENTIF">litotricia</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">drenaje del hematoma</TAG> con <TAG TYPE="OTRO_NUMERO_IDENTIF">cirugía abierta</TAG>. Alta hospitalaria <TAG TYPE="OTRO_NUMERO_IDENTIF">7 días</TAG> después. Los controles mediante <TAG TYPE="OTRO_NUMERO_IDENTIF">ecografía</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">UIV</TAG> posteriores son similares a los previos a la <TAG TYPE="OTRO_NUMERO_IDENTIF">Leoch</TAG>.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Héctor Pastor Navarro</TAG> <TAG TYPE="PROFESION">Servicio de Urología</TAG> <TAG TYPE="INSTITUCION">Complejo Hospitalario Universitario de Albacete Hermanos Falcó</TAG>, <TAG TYPE="CALLE">s/n</TAG> - <TAG TYPE="TERRITORIO">02006</TAG> <TAG TYPE="TERRITORIO">Albacete</TAG> <TAG TYPE="NUMERO_TELEFONO">Tel.: 967 597 100</TAG> <TAG TYPE="CORREO_ELECTRONICO">E-mail: hektorpn@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

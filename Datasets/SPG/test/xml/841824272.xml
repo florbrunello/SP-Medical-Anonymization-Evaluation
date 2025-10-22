@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Miguel Arias Jiménez
+DNI: 45454108J
+Fecha de nacimiento: 26/12/1927
+Género: Varón
+Domicilio: Calle de la Paz 73
+Ciudad: Benidorm, La Coruña, Galicia
+Código postal: 15164
+Email: josemiguel.arias.jimenez@hotmail.com
+Teléfono fijo: +34 981 75 09 56
+Teléfono móvil: +34 781 42 82 76
+NHC: 0428605
+Condición de riesgo: Técnico de Radiología
+
+Datos asistenciales.
+Médico: Dra. Raquel Santos Rico. NC 691570170. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/03/1933
+Episodio: 79312672
+Hospital: Complejo Hospitalario Universitario de Cartagena
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 5 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="José Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="53" text="Arias Jiménez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="45454108J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="26/12/1927" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="114" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="144" text="Calle de la Paz 73" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="161" text="Benidorm" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="172" text="La Coruña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="181" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="15164" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="246" text="josemiguel.arias.jimenez@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="262" end="278" text="+34 981 75 09 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="295" end="311" text="+34 781 42 82 76" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="317" end="324" text="0428605" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="346" end="367" text="Técnico de Radiología" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="637" end="647" text="01/03/1933" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="658" end="666" text="79312672" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="677" end="725" text="Complejo Hospitalario Universitario de Cartagena" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="769" end="793" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="797" end="803" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="830" end="836" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Josefina Esteban Esteban
+DNI: 31070954R
+Fecha de nacimiento: 11/12/1983
+Género: F
+Domicilio: Calle de Arganzuela 79, 6E
+Ciudad: San Sebastián, Pontevedra, Galicia
+Código postal: 36025
+Email: esteban@ub.edu
+Teléfono fijo: +34 986 49 49 83
+Teléfono móvil: +34 686 69 56 62
+NHC: 4913897
+NASS: 420786258469
+Condición de riesgo: Trabajador de Minería
+
+Datos asistenciales.
+Médico: Dr. Juan Ramón Vera Vargas. NC 733583391. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/02/1987
+Centro de salud: Centro de Salud Arganzuela
+Matrícula del coche: 4223OXA
+Modelo: Subaru Outback
+VIN: VSD0J37JD1V481040
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 3 años de edad, acompañado de su abuela. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.19.12, con dirección MAC A8:7D:68:1C:2E:F1. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Josefina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="52" text="Esteban Esteban" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="31070954R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="11/12/1983" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="147" text="Calle de Arganzuela 79, 6E" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="169" text="San Sebastián" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="181" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="183" end="190" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="36025" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="233" text="esteban@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 986 49 49 83" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 686 69 56 62" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="304" end="311" text="4913897" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="318" end="330" text="420786258469" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="352" end="373" text="Trabajador de Minería" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="408" end="430" text="Juan Ramón Vera Vargas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="435" end="444" text="733583391" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="446" end="479" text="Residente de 5° año en Neurología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="481" end="570" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="572" end="601" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="603" end="608" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="610" end="616" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="618" end="624" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="644" end="654" text="25/02/1987" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="672" end="698" text="Centro de Salud Arganzuela" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="720" end="727" text="4223OXA" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="756" end="773" text="VSD0J37JD1V481040" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="817" end="837" text="ascendencia asiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="841" end="847" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="874" end="880" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="987" end="1004" text="A8:7D:68:1C:2E:F1" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

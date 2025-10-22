@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan Arias Sierra</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">91993201D</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/07/1956</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Engracia 80, 5Y</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Lleida</TAG>, <TAG TYPE="TERRITORIO">Huesca</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">22088</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">juan@aol.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 974 45 45 50</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 774 12 17 33</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3366699</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">988164436801</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Electricista</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Luis Villar Rico</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">158401239</TAG>. <TAG TYPE="PROFESION">Neurólogo Investigador en Trastornos Cognitivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">11/09/2022</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Río Hortega</TAG>.
+    Informe clínico del paciente:
+    Paciente de ascendencia indígena sudamericana de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">66 años</TAG> de edad, que acude al servicio de urgencias con quejas de cefaleas intensas y frecuentes durante las últimas semanas, acompañadas de náuseas y vómitos. La exploración física revela signos de hipertensión arterial y taquicardia. Se solicitan análisis de sangre y estudios de imagen para determinar la causa subyacente de sus síntomas.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>. También ha tenido episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">migraña</TAG> en el pasado.
+    Evolución y comentarios:
+    El paciente se encuentra en estado estable, aunque con signos de dolor en la cabeza y en la región cervical. Se le ha iniciado tratamiento con analgésicos y antieméticos, y se le han solicitado estudios de imagen para determinar la causa subyacente de sus síntomas.
+    Remitido por:
+    El paciente fue remitido por su médico de cabecera, quien se encontraba en la ciudad de <TAG TYPE="TERRITORIO">Lleida</TAG> y no tenía acceso a los recursos necesarios para tratar a su paciente.
+  </TEXT>
+</MEDDOCAN>

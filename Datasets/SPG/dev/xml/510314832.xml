@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Arnau Hurtado Morales
+DNI: 59803012E
+Fecha de nacimiento: 06/02/2017
+Género: M
+Domicilio: Calle de la Luna 15
+Ciudad: Jaén, Madrid, Madrid
+Código postal: 28884
+Email: hurtado@uca.es
+Teléfono fijo: +34 911 94 18 63
+Teléfono móvil: +34 613 41 57 20
+NHC: 0208527
+NASS: 635779744366
+Condición de riesgo: Trabajador de la Construcción
+
+Datos asistenciales.
+Médico: Dr. Domingo Menendez Pacheco. NC 879649510. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/05/2019
+Hospital: Hospital Universitario Infanta Leonor
+Matrícula del coche: 8714SSR
+Modelo: Tesla Model 3
+VIN: VSSKSOWHNHL291629
+
+Informe clínico del paciente:
+Paciente de ascendencia caribeña de 2 años de edad, acompañado de su abuela. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.121.224, con dirección MAC DA:E1:4D:DF:D5:70. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Arnau" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="49" text="Hurtado Morales" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="59803012E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="06/02/2017" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="137" text="Calle de la Luna 15" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="150" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="152" end="158" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="160" end="166" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="182" end="187" text="28884" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="195" end="209" text="hurtado@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="225" end="241" text="+34 911 94 18 63" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="258" end="274" text="+34 613 41 57 20" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="280" end="287" text="0208527" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="294" end="306" text="635779744366" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="328" end="357" text="Trabajador de la Construcción" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="392" end="416" text="Domingo Menendez Pacheco" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="421" end="430" text="879649510" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="432" end="467" text="Investigador Principal en Parkinson" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="469" end="558" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="560" end="589" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="591" end="596" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="598" end="604" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="606" end="612" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="632" end="642" text="20/05/2019" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="653" end="690" text="Hospital Universitario Infanta Leonor" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="712" end="719" text="8714SSR" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="747" end="764" text="VSSKSOWHNHL291629" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="808" end="828" text="ascendencia caribeña" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="832" end="838" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="865" end="871" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="980" end="997" text="DA:E1:4D:DF:D5:70" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <OTHER id="T33" start="1074" end="1098" text="smtp://example-nutrition" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

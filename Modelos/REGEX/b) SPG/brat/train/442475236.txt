@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Ahmed Álvarez Andres
+DNI: 74820097Q
+Fecha de nacimiento: 30/12/1926
+Género: Varón
+Domicilio: Calle de Jesús y María 92
+Ciudad: Lugo, Lugo, Galicia
+Código postal: 27331
+Email: alvarezandres@outlook.com
+Teléfono fijo: +34 982 63 45 79
+FAX: +34 982 30 09 61
+NHC: 9889846
+NASS: 093232492265
+Condición de riesgo: Limpiador
+
+Datos asistenciales.
+Médico: Dr. Gerard Luque Espinosa. NC 224307502. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 14/11/1992
+Episodio: 42823121
+Hospital: Hospital Universitario Rey Juan Carlos de Mostoles
+Matrícula del coche: 6134HPO
+Modelo: Mercedes-Benz C-Class
+VIN: VSVAMNSR83N996724
+
+Informe clínico del paciente:
+Paciente terminal de 65 años de edad, acompañado de su madre. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es UE062EJC011. 

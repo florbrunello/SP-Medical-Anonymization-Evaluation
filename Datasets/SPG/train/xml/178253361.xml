@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Domingo Marcos Ramírez
+DNI: 83653692R
+Fecha de nacimiento: 15/04/2020
+Género: Varón
+Domicilio: Calle del Oso 61
+Ciudad: Gijón, Cantabria, Cantabria
+Código postal: 39630
+Email: ramirez@uhu.es
+Teléfono fijo: +34 942 22 34 60
+Teléfono móvil: +34 642 50 70 74
+NHC: 1528795
+NASS: 368809983182
+Condición de riesgo: Soldador
+
+Datos asistenciales.
+Médico: Dr. Jonathan Montoya Hidalgo. NC 607449478. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/01/2023
+Episodio: 61666409
+Centro de salud: Centro de Salud Sevilla Sur
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 2 años de edad, acompañado de su tía. Se realizó un expediente con URL http://example-labs.com//78533406Y. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Domingo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Marcos Ramírez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="83653692R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="15/04/2020" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="139" text="Calle del Oso 61" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="153" text="Gijón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="164" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="175" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="39630" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="218" text="ramirez@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="234" end="250" text="+34 942 22 34 60" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="267" end="283" text="+34 642 50 70 74" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="289" end="296" text="1528795" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="303" end="315" text="368809983182" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="337" end="345" text="Soldador" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="380" end="404" text="Jonathan Montoya Hidalgo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="409" end="418" text="607449478" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="420" end="454" text="Residente de 4° año en Cardiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="456" end="542" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="544" end="573" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="575" end="580" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="582" end="588" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="590" end="596" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="616" end="626" text="03/01/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="637" end="645" text="61666409" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="663" end="690" text="Centro de Salud Sevilla Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="734" end="758" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="762" end="768" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="795" end="798" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="833" end="852" text="http://example-labs" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

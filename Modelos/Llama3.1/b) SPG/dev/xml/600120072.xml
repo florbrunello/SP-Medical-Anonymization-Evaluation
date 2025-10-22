@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Paula</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Villanueva Alarcon</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">91983871V</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">29/06/1990</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Génova 88, 3Q</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Liria</TAG>, <TAG TYPE="TERRITORIO">Cuenca</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">16353</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">paula-villanueva.alarcon@us.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 969 45 04 11</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 769 35 02 55</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4933945</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">735119812856</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ama de casa</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bruno Crespo Varela</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">125085404</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">04/04/1998</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">18893742</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Lugo</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia centroasiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermano</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">escaneo del iris</TAG>, el <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">código obtenido</TAG> para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">QQ707PXQ775</TAG>.
+  </TEXT>
+</MEDDOCAN>

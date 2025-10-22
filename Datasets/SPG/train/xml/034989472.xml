@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Vanessa Fernández Hidalgo
+DNI: 81323063P
+Fecha de nacimiento: 06/10/1955
+Género: M
+Domicilio: Calle de Amor de Dios 75, 4N
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52956
+Email: vanessahidalgo536@gmail.com
+Teléfono fijo: +34 956 49 68 35
+Teléfono móvil: +34 756 27 78 89
+NHC: 0359081
+NASS: 066639713897
+Condición de riesgo: Conductor de Camión
+
+Datos asistenciales.
+Médico: Dra. Noemí Santos Valero. NC 493742703. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/03/1984
+Hospital: Hospital Clínic Universitario de Valencia
+Matrícula del coche: 1694JZP
+Modelo: Ram 1500
+VIN: VSCYFG5QP0R652821
+
+Informe clínico del paciente:
+Paciente vegetariano de 28 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Vanessa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="53" text="Fernández Hidalgo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="81323063P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="06/10/1955" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="150" text="Calle de Amor de Dios 75, 4N" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="183" text="Ciudad autónoma de Ceuta" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="185" end="191" text="Ceuta," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="208" end="213" text="52956" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="221" end="248" text="vanessahidalgo536@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="264" end="280" text="+34 956 49 68 35" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="297" end="313" text="+34 756 27 78 89" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T13" start="319" end="326" text="0359081" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="333" end="345" text="066639713897" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T15" start="367" end="386" text="Conductor de Camión" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="658" end="668" text="12/03/1984" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="679" end="720" text="Hospital Clínic Universitario de Valencia" TYPE="HOSPITAL" comment=""/>
+        <ID id="T18" start="742" end="749" text="1694JZP" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="772" end="789" text="VSCYFG5QP0R652821" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="830" end="841" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="845" end="852" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

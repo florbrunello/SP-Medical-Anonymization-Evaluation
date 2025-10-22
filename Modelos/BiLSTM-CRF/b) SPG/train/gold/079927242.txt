@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Christian Santamaria Ferrer
+DNI: 17939595D
+Fecha de nacimiento: 03/02/1932
+Género: V
+Domicilio: Calle de Segovia 27, 5F
+Ciudad: Burgos, Formentera, Islas Baleares
+Código postal: 07737
+Email: ferrer690@uhu.es
+Teléfono fijo: +34 971 33 27 12
+Teléfono móvil: +34 671 33 75 03
+NHC: 7111348
+NASS: 194527847394
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dr. Asier Mora Navarro. NC 942011150. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/09/1983
+Episodio: 56401146
+Centro de salud: Centro de Salud Málaga Oeste
+
+Informe clínico del paciente:
+Paciente fumador de 51 años de edad, acompañado de su compañero de estudio. El servidor para envío de información desde cual el usuario se comunica es smtp://example-hospital.org. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es OP030IKN536. 

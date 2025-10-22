@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Zamora Millan</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">41983785E</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">31/07/2022</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Tribulete 48</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Jaén</TAG>, <TAG TYPE="TERRITORIO">León</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">24088</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jose_zamora-millan@ub.edu</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 987 64 75 33</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 687 60 45 65</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7147945</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">797555158188</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Bombero</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Adrián Guzman Galvez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">500917262</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">65410751</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Torrecárdenas</TAG>.
+    Evolución y comentarios:
+    El paciente se registró en la consulta virtual con una dirección IP (en red interna) <TAG TYPE="DIREC_PROT_INTERNET">192.168.76.95</TAG> y dirección MAC <TAG TYPE="IDENTIF_BIOMETRICOS">3D:B6:78:99:64:68</TAG>. No se tiene información adicional sobre su evolución clínica.
+    Informe clínico del paciente:
+    El paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> de edad presenta una condición médica sin especificar. Se requiere una exploración física y análisis de laboratorio para determinar la causa subyacente de su condición.
+    La exploración física revela:
+    Temperatura: <TAG TYPE="FECHAS">37,5°C</TAG>
+    Presión arterial: <TAG TYPE="FECHAS">90/60 mmHg</TAG>
+    Frecuencia cardíaca: <TAG TYPE="FECHAS">120 lpm</TAG>
+    Estado de conciencia: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consciente y orientado</TAG>
+    Los resultados de los análisis de laboratorio no se han proporcionado.
+    Se requiere una exploración más exhaustiva para determinar la causa subyacente de la condición del paciente y desarrollar un plan de tratamiento adecuado.
+    Remitido por:
+    El paciente fue remitido por su padre, quien se presentó en la consulta virtual con su hijo.
+    Fecha de ingreso:
+    <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Centro de salud de ingreso:
+    <TAG TYPE="HOSPITAL">Complejo Hospitalario Torrecárdenas</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Encarnación Santos Menendez
+DNI: 43811831M
+Fecha de nacimiento: 15/10/2012
+Género: Femenino
+Domicilio: Calle de la Cabeza del Rey Don Pedro 80, 7E
+Ciudad: Palencia, Segovia, Castilla y León
+Código postal: 40906
+Email: encarnacion-santos@hotmail.com
+Teléfono fijo: +34 921 32 19 29
+Teléfono móvil: +34 621 20 36 92
+NHC: 4081359
+Condición de riesgo: Trabajador Industrial
+
+Datos asistenciales.
+Médico: Dra. María Rosario Andres Rey. NC 728265965. Neuropsicóloga Clínica Investigadora. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/05/2017
+Episodio: 37805974
+Hospital: Hospital Universitario Rey Juan Carlos de Mostoles
+Matrícula del coche: 1900NSM
+Modelo: Nissan Altima
+VIN: VSSCQRPEY4W776709
+
+Informe clínico del paciente:
+Paciente exfumador de 4 años de edad, acompañado de su tía. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es UH260VHM028. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="Encarnación" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="55" text="Santos Menendez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="43811831M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="15/10/2012" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="119" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="131" end="174" text="Calle de la Cabeza del Rey Don Pedro 80, 7E" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="183" end="191" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="193" end="200" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="202" end="217" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="233" end="238" text="40906" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="246" end="276" text="encarnacion-santos@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="292" end="308" text="+34 921 32 19 29" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="325" end="341" text="+34 621 20 36 92" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="347" end="354" text="4081359" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="376" end="397" text="Trabajador Industrial" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="655" end="665" text="17/05/2017" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="676" end="684" text="37805974" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="695" end="745" text="Hospital Universitario Rey Juan Carlos de Mostoles" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="767" end="774" text="1900NSM" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="802" end="819" text="VSSCQRPEY4W776709" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="860" end="869" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="873" end="879" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="906" end="909" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="986" end="1010" text="smtp://example-nutrition" TYPE="URL_WEB" comment=""/>
+        <ID id="T25" start="1102" end="1113" text="UH260VHM028" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

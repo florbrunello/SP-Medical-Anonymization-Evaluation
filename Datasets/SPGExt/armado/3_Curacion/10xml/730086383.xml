@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Miriam Salas Pacheco</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">67487556J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">16/09/1936</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Sombrerete 16</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Badajoz, Ávila, Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">05168</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">miriam.salas@uca.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 920 88 95 07</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 720 40 83 88</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8897932</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">468043486571</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Residuos Sólidos</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mateo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Salas</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marcos</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 024027941</TAG>. <TAG TYPE="PROFESION">Residente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5°</TAG> año en <TAG TYPE="PROFESION">Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/01/1959</TAG>
+    Centro de salud de ingreso: <TAG TYPE="HOSPITAL">Hospital Clínic Universitario de Valencia</TAG>
+    Informe clínico del paciente:
+    Paciente consumidor de alcohol de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22</TAG> años de edad, con antecedentes de episodios de ingestión excesiva de alcohol en los últimos meses. Presenta síntomas de dependencia, incluyendo ansiedad y ansiedad por no poder consumir alcohol.
+    La exploración física revela: Tª <TAG TYPE="EDAD_SUJETO_ASISTENCIA">36,5</TAG> C; T.A: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">120/80</TAG> mmHg; Fc: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">80</TAG> lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14,5</TAG> g/dl; leucocitos <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10.000/mm3</TAG> (neutrófilos <TAG TYPE="EDAD_SUJETO_ASISTENCIA">60%</TAG>); plaquetas <TAG TYPE="EDAD_SUJETO_ASISTENCIA">250.000/</TAG> mm3. VSG: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20</TAG> mm 1ª hora. Coagulación: TQ <TAG TYPE="EDAD_SUJETO_ASISTENCIA">90%</TAG>%; TTPA <TAG TYPE="EDAD_SUJETO_ASISTENCIA">25,5</TAG> seg. Bioquímica: Glucosa <TAG TYPE="EDAD_SUJETO_ASISTENCIA">90</TAG> mg/dl; urea <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20</TAG> mg/dl; creatinina <TAG TYPE="EDAD_SUJETO_ASISTENCIA">1,0</TAG> mg/dl; sodio <TAG TYPE="EDAD_SUJETO_ASISTENCIA">140</TAG> mEq/l; potasio <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3,8</TAG> mEq/l; GOT <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20</TAG> U/l; GPT <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30</TAG> U/l; GGT <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40</TAG> U/l; fosfatasa alcalina <TAG TYPE="EDAD_SUJETO_ASISTENCIA">120</TAG> U/l; calcio <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8,5</TAG> mg/dl. Orina: sedimento normal.
+    Con el diagnóstico de dependencia alcohólica se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo) así como tratamiento psicológico y de apoyo para la recuperación. El paciente muestra una buena respuesta al tratamiento y se decide su alta a su domicilio con seguimiento regular.
+  </TEXT>
+</MEDDOCAN>

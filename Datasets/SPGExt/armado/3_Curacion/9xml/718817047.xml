@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carlota</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Martínez Esteban</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">95423597R</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/02/1932</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Segovia 93</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Bormujos, Zaragoza, Aragón</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">50565</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">carlota-esteban1171@ciberned.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 976 87 85 13</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 776 27 66 95</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1162829</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">293686502214</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Electricista</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Diana Castillo Sierra</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">340243682</TAG>. Residente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3°</TAG> año en <TAG TYPE="PROFESION">Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">05/05/1973</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">88848341</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Benalmádena</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2140NVS</TAG>.
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Honda Civic</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSGVBHXMLFZ742548</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">41 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, se presenta con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor ocular</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">visión borrosa</TAG> en el ojo derecho. La exploración física revela: presión intraocular de <TAG TYPE="OTRO_NUMERO_IDENTIF">22 mmHg</TAG> en el ojo derecho y <TAG TYPE="OTRO_NUMERO_IDENTIF">18 mmHg</TAG> en el ojo izquierdo; pupila dilatada en el ojo derecho y reactividad normal en el ojo izquierdo; campo visual reducido en el ojo derecho. Se solicitan estudios de imagenología, incluyendo <TAG TYPE="OTRO_NUMERO_IDENTIF">tomografía de coherencia óptica (OCT)</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">resonancia magnética (RM)</TAG> para evaluar la presencia de cualquier lesión ocular.
+    La evolución clínica del paciente es la siguiente: al día siguiente de la admisión, el paciente se encuentra con una mejoría en la visión borrosa en el ojo derecho, aunque sigue presentando <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor ocular</TAG>. Se inicia tratamiento con medicamentos antiinflamatorios y analgésicos para controlar los síntomas. Se solicitan pruebas de laboratorio para evaluar la función renal y hepática del paciente.
+    En la exploración física del día siguiente, se observa una mejoría en la presión intraocular en el ojo derecho, aunque sigue siendo elevada. Se solicitan pruebas de imagenología adicionales para evaluar la presencia de cualquier lesión ocular subyacente. El paciente se encuentra estable y se continúa con el tratamiento.
+    Evolución y comentarios:
+    El paciente ha sido ingresado en la unidad de cuidados intensivos para recibir tratamiento intensivo y monitorización cercana. El equipo médico está trabajando estrechamente con el paciente y su familia para asegurarse de que reciba el tratamiento adecuado y se recupere lo antes posible.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Diana Castillo Sierra</TAG>, <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Residente de 3°</TAG> año en <TAG TYPE="PROFESION">Oftalmología</TAG>, <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>.
+  </TEXT>
+</MEDDOCAN>

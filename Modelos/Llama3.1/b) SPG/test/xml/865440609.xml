@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Ignacio</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sanz Núñez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">90893723T</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/05/1959</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Leganitos 59</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcoy</TAG>, <TAG TYPE="TERRITORIO">Huelva</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">21094</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">joseignacio_nunez@ciberehd.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 959 59 41 52</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 959 04 54 18</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4992870</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">975493161084</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Repartidor</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Inmaculada Aranda Pereira</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">076319711</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/06/1990</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">56435724</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital de Manises</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">31 años</TAG> de edad. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP</TAG> (<TAG TYPE="DIREC_PROT_INTERNET">192.168.153.14</TAG>) (<TAG TYPE="DIREC_PROT_INTERNET">en red interna</TAG>), con <TAG TYPE="DIREC_PROT_INTERNET">dirección MAC</TAG> <TAG TYPE="DIREC_PROT_INTERNET">07:12:80:2E:15:0C</TAG>.
+  </TEXT>
+</MEDDOCAN>

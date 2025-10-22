@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Mercedes</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Domínguez Marín</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">16709740X</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">20/04/2004</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Recoletos 31</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Hellín</TAG>, <TAG TYPE="TERRITORIO">Cantabria</TAG>, <TAG TYPE="TERRITORIO">Cantabria</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">39819</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">vWVmuNA1gXf7w@hotmail.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 942 37 11 84</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 742 70 39 25</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4420494</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">430574478731</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Residuos Sólidos</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lorenzo Santamaria Blanco</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">302343639</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">08/09/2007</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">42700280</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Fundació Jiménez Díaz</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>.
+  Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">RU189KBA590</TAG>.
+            </TEXT>
+        </MEDDOCAN>

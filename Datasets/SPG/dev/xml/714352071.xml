@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Zamora Millan
+DNI: 41983785E
+Fecha de nacimiento: 31/07/2022
+Género: M
+Domicilio: Calle de Tribulete 48
+Ciudad: Jaén, León, Castilla y León
+Código postal: 24088
+Email: jose_zamora-millan@ub.edu
+Teléfono fijo: +34 987 64 75 33
+Teléfono móvil: +34 687 60 45 65
+NHC: 7147945
+NASS: 797555158188
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dr. Adrián Guzman Galvez. NC 500917262. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 65410751
+Hospital: Complejo Hospitalario Torrecárdenas
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 2 años de edad, acompañado de su padre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.76.95, con dirección MAC 3D:B6:78:99:64:68. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="José" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="46" text="Zamora Millan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="41983785E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="31/07/2022" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="136" text="Calle de Tribulete 48" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="149" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="151" end="155" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="157" end="172" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="188" end="193" text="24088" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="201" end="226" text="jose_zamora-millan@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="242" end="258" text="+34 987 64 75 33" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="275" end="291" text="+34 687 60 45 65" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="297" end="304" text="7147945" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="311" end="323" text="797555158188" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="345" end="352" text="Bombero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="387" end="407" text="Adrián Guzman Galvez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="412" end="421" text="500917262" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="423" end="470" text="Investigador Clínico en Enfermedades Digestivas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="472" end="565" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="567" end="596" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="598" end="603" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="605" end="611" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="613" end="619" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="639" end="649" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="660" end="668" text="65410751" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="679" end="714" text="Complejo Hospitalario Torrecárdenas" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="758" end="778" text="ascendencia asiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="782" end="788" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="815" end="820" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="927" end="944" text="3D:B6:78:99:64:68" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Miguel Velasco Velasco
+DNI: 65959659Y
+Fecha de nacimiento: 01/09/1940
+Género: M
+Domicilio: Calle de Gobernador 6
+Ciudad: Xàtiva, Valladolid, Castilla y León
+Código postal: 47423
+Email: juanmiguel-velasco@aol.com
+Teléfono fijo: +34 983 53 26 76
+Teléfono móvil: +34 683 38 11 76
+NHC: 0495397
+
+Datos asistenciales.
+Médico: Dr. Héctor Gallego Silva. NC 702384240. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 17/01/1976
+Episodio: 40947832
+Centro de salud: Centro de Salud Chamartín
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 35 años de edad, acompañado de su prima. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="Juan Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="55" text="Velasco Velasco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="65959659Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="01/09/1940" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="112" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="145" text="Calle de Gobernador 6" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="160" text="Xàtiva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="172" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="189" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="47423" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="244" text="juanmiguel-velasco@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 983 53 26 76" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="293" end="309" text="+34 683 38 11 76" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="315" end="322" text="0495397" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="357" end="377" text="Héctor Gallego Silva" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="382" end="391" text="702384240" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="393" end="428" text="Residente de 3° año en Oftalmología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="430" end="488" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="490" end="514" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="516" end="521" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="523" end="533" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="535" end="541" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="561" end="571" text="17/01/1976" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="582" end="590" text="40947832" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="608" end="633" text="Centro de Salud Chamartín" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="677" end="698" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="702" end="709" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="736" end="741" text="prima" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

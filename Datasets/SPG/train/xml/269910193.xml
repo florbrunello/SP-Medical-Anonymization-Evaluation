@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ricardo Zamora Ortiz
+DNI: 60983530L
+Fecha de nacimiento: 09/02/1971
+Género: Hombre
+Domicilio: Calle de Arenal 95, 7C
+Ciudad: Ciudad autónoma de Melilla, Melilla, 
+Código postal: 51558
+Email: zamora_ortiz503@yahoo.com
+Teléfono fijo: +34 951 83 21 10
+Teléfono móvil: +34 651 40 79 61
+NHC: 6125325
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dra. Anna Bernal Palacios. NC 511294970. Neuropsicóloga Clínica Investigadora. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/07/1983
+Hospital: Hospital Clínic Barcelona
+
+Informe clínico del paciente:
+Paciente no fumador de 12 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Ricardo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Zamora Ortiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="60983530L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="09/02/1971" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="110" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="144" text="Calle de Arenal 95, 7C" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="179" text="Ciudad autónoma de Melilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="181" end="189" text="Melilla," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="206" end="211" text="51558" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="219" end="244" text="zamora_ortiz503@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="260" end="276" text="+34 951 83 21 10" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="293" end="309" text="+34 651 40 79 61" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T13" start="315" end="322" text="6125325" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T14" start="344" end="362" text="Ingeniero de Minas" TYPE="PROFESION" comment=""/>
+        <DATE id="T15" start="616" end="626" text="16/07/1983" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T16" start="637" end="662" text="Hospital Clínic Barcelona" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T17" start="703" end="713" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T18" start="717" end="724" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T19" start="751" end="756" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

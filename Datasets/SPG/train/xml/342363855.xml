@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Marco Diez Luna
+DNI: 64302995D
+Fecha de nacimiento: 09/08/1995
+Género: M
+Domicilio: Calle de Piamonte 50
+Ciudad: Ferrol, Álava, Pais Vasco
+Código postal: 01770
+Email: marco-luna638@yahoo.com
+Teléfono fijo: +34 945 03 41 99
+Teléfono móvil: +34 645 04 34 53
+NHC: 2150291
+NASS: 898876918364
+Condición de riesgo: Trabajador de Minería
+
+Datos asistenciales.
+Médico: Dr. Mikel Cano Diez. NC 220723937. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/08/2008
+Episodio: 10756700
+Centro de salud: Centro de Salud Fuenlabrada
+
+Informe clínico del paciente:
+Paciente de tez blanca de 13 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Marco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="43" text="Diez Luna" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="49" end="58" text="64302995D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="80" end="90" text="09/08/1995" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="99" end="100" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="112" end="132" text="Calle de Piamonte 50" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="141" end="147" text="Ferrol" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="149" end="154" text="Álava" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="156" end="166" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="182" end="187" text="01770" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="195" end="218" text="marco-luna638@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="234" end="250" text="+34 945 03 41 99" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="267" end="283" text="+34 645 04 34 53" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="289" end="296" text="2150291" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="303" end="315" text="898876918364" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="337" end="358" text="Trabajador de Minería" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="393" end="408" text="Mikel Cano Diez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="413" end="422" text="220723937" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="424" end="479" text="Gastroenterólogo Especialista en Enfermedades Hepáticas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="481" end="574" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="576" end="605" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="607" end="612" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="614" end="620" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="622" end="628" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="648" end="658" text="22/08/2008" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="669" end="677" text="10756700" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="695" end="722" text="Centro de Salud Fuenlabrada" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="766" end="776" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="780" end="787" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="814" end="819" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

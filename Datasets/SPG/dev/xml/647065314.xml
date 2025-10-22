@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Adam Vicente Acosta
+DNI: 43005770W
+Fecha de nacimiento: 24/03/1976
+Género: Masculino
+Domicilio: Calle de la Luna 43
+Ciudad: Alcoy, Almería, Andalucía
+Código postal: 04525
+Email: adam-vicente@ioba.med.uva.es
+Teléfono fijo: +34 950 10 11 65
+Teléfono móvil: +34 650 85 52 79
+NHC: 2456344
+NASS: 693781393877
+Condición de riesgo: Inspector de Seguridad Minera
+
+Datos asistenciales.
+Médico: Dra. María Carmen Cabrera Soto. NC 109107247. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/08/2022
+Episodio: 01633306
+Hospital: Hospital Universitario Marqués de Valdecilla
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 46 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Adam" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="47" text="Vicente Acosta" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="43005770W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="24/03/1976" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="112" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="143" text="Calle de la Luna 43" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="157" text="Alcoy" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="166" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="177" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="193" end="198" text="04525" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="206" end="234" text="adam-vicente@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 950 10 11 65" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 650 85 52 79" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="2456344" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="693781393877" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="353" end="382" text="Inspector de Seguridad Minera" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="654" end="664" text="15/08/2022" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="675" end="683" text="01633306" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="694" end="738" text="Hospital Universitario Marqués de Valdecilla" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="782" end="811" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="815" end="822" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="849" end="856" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

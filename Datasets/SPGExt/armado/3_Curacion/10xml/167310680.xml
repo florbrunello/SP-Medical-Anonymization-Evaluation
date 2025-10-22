@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ismael Serra Rivero</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">74129852R</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/12/1989</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de los Embajadores 16, 4R</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Fuenlabrada</TAG>, <TAG TYPE="TERRITORIO">Huelva</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">21282</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">serra@icloud.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 959 69 33 94</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 659 47 20 96</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7978823</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Silvia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Miguel Guzman</TAG> NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">372530525</TAG>. <TAG TYPE="PROFESION">Endocrinóloga Especialista en Diabetes</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">14/06/2021</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Norte</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3726YBH</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Honda CR-V</TAG>
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSAWPH8JRJH075154</TAG>
+    Informe clínico del paciente:
+    Paciente no fumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">31 años</TAG> de edad, acompañado de su hijo, que refiere dolor abdominal crónico de 6 meses de evolución, con episodios de diarrea y estreñimiento intermitentes. El paciente tiene una historia de obesidad desde la infancia y ha sido tratado con dieta y ejercicio sin resultados significativos. En el momento del ingreso, el paciente presentaba una temperatura de <TAG TYPE="FECHAS">37,5°C</TAG>, pulso de <TAG TYPE="FECHAS">90 bpm</TAG> y presión arterial de <TAG TYPE="FECHAS">120/80 mmHg</TAG>. La exploración física reveló un abdomen distendido, con una masa abdominal palpable en la región epigástrica.
+    La exploración complementaria incluyó análisis de sangre, que mostraron un nivel de glucosa en sangre de <TAG TYPE="FECHAS">140 mg/dl</TAG>, con un nivel de insulina de <TAG TYPE="FECHAS">20 μU/ml</TAG>. El paciente también presentaba un nivel de colesterol total de <TAG TYPE="FECHAS">220 mg/dl</TAG>, con un nivel de triglicéridos de <TAG TYPE="FECHAS">150 mg/dl</TAG>.
+    El diagnóstico de la condición del paciente fue diabetes tipo 2, con obesidad como factor de riesgo. El tratamiento recomendado fue una dieta hipocalórica y hipoglucémica, con un objetivo de pérdida de peso de <TAG TYPE="FECHAS">5-10%</TAG> del peso corporal en los primeros 3 meses. También se recomendó la iniciación de tratamiento con metformina para controlar la glucosa en sangre.
+    La evolución del paciente en el hospital fue favorable, con una reducción significativa de la glucosa en sangre y una mejoría en los síntomas abdominales. El paciente fue dado de alta con instrucciones para seguir la dieta y el tratamiento recomendado, y se programó una revisión en el consultorio en <TAG TYPE="FECHAS">1 mes</TAG>.
+    </TEXT>
+</MEDDOCAN>

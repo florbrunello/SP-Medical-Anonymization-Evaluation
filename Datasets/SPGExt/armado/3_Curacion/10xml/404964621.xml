@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Moisés</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Nieto Acosta</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">32362040M</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/09/1960</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Lope de Vega 35</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Avilés</TAG>, <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">37805</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">moises_nieto_acosta@ub.edu</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 04 29 38</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 723 31 80 79</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7546264</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">4632480987561</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Fumador</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Inés</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Hernández Rivero</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">860748236</TAG>. <TAG TYPE="PROFESION">Residente de 3° año en Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/05/1984</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">08555389</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital de la Santa Creu i Sant Pau</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="SEXO_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">23 años</TAG> de edad, acompañado de su abuela, que refiere una lesión en el ojo izquierdo tras un accidente en un taller de mecánica. Presenta dolor y visión borrosa en el ojo afectado. La exploración física revela: Tª <TAG TYPE="FECHAS">36,8 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración oftalmológica se aprecia una hinchazón en el globo ocular izquierdo, con pérdida de la acuidad visual. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">14,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">8.500/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">55%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">95%</TAG>; TTPA <TAG TYPE="FECHAS">20,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">90 mg/dl</TAG>; urea <TAG TYPE="FECHAS">20 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">0,8 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,8 mEq/l</TAG>. Orina: sedimento normal.
+    Antecedentes:
+    El paciente tiene antecedentes de accidentes en el trabajo, incluyendo una fractura de clavícula en el año <TAG TYPE="FECHAS">2018</TAG>. No tiene antecedentes de enfermedades oculares previas.
+    Evolución y comentarios:
+    El paciente fue estabilizado en el hospital y se le realizó una exploración oftalmológica más detallada, que confirmó la presencia de una lesión en el ojo izquierdo. Se le inició tratamiento con analgésicos y antiinflamatorios, y se le recomendó reposo y evitación de actividades que puedan empeorar la lesión.
+    Remitido por:
+    El paciente fue remitido por su abuela, quien lo acompañó al hospital.
+  </TEXT>
+</MEDDOCAN>

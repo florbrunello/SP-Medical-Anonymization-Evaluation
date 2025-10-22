@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Valeria Mateo Cortés
+DNI: 16892450P
+Fecha de nacimiento: 29/10/1967
+Género: Mujer
+Domicilio: Calle de Segovia 86, 8K
+Ciudad: Las Palmas de Gran Canaria, Almería, Andalucía
+Código postal: 04850
+Email: mateo429@aol.com
+Teléfono fijo: +34 950 40 92 59
+Teléfono móvil: +34 650 70 99 78
+NHC: 9931360
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dr. Jesús Palacios Exposito. NC 838044302. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2020
+Episodio: 67696699
+Centro de salud: Centro de Salud Sevilla Oeste
+
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 52 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.188.45, con dirección MAC 60:7C:72:0E:94:F5. 

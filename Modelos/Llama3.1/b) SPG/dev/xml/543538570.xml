@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Patricia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Molina Casas</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">78124683P</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/05/2016</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de O'Donnell 3, 1D</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Linares</TAG>, <TAG TYPE="TERRITORIO">Orense</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">32189</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">patricia-molina778@h12o.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 988 09 55 56</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 788 26 57 62</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3272817</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">728150547102</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Sanitización</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Raúl Ramos Villar</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">783323251</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/08/2023</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">17676171</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Ronda</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tía</TAG>.
+  </TEXT>
+</MEDDOCAN>

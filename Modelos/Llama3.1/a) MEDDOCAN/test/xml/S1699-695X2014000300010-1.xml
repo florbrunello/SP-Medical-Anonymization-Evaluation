@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ana María</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gimenez Gonzalez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2679705</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">67 92575775 89</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle el Charco, 44, 7A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Leganés</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28911</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/07/1948</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">57 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">24/08/2005</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Petra María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cortés Durán</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 99640</TAG>.
+    Motivo de ingreso: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Consulta por hematuria franca que lo relaciona con dolor lumbar de carácter mecánico</TAG>.
+    Historia Actual: paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">57 años</TAG> de edad con antecedente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">carcinoma ductal de mama izquierda diagnosticado en 1999</TAG> y de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">carcinoma ductal "in situ" de mama derecha en 2002</TAG>, sin datos de recidiva desde entonces, trabajadora en una lavandería hospitalaria como planchadora. La paciente nunca ha fumado, pero convive en un piso de 65 metros cuadrados con su marido, fumador de 30 cigarrillos diarios (variedad negro), con el que vive desde hace 35 años, su hijo e hija, ambos también fumadores. El hijo es fumador de 20 cigarrillos diarios, con el que ha convivido 31 años; y la hija es fumadora de 10 cigarrillos diarios, con la que ha convivido 25 años. Todos fumaban dentro del piso, ninguno salía a la terraza a fumar.
+    Exploración física: A la exploración física no se objetiva ningún dato relevante, no se palpa masa en fosas renales. 
+    Resumen de pruebas complementarias: Se solicita <TAG TYPE="OTRO_NUMERO_IDENTIF">urocultivo</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">ecografía</TAG> y analítica (<TAG TYPE="OTRO_NUMERO_IDENTIF">hematología</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">bioquímica general</TAG>). La analítica fue normal, excepto <TAG TYPE="OTRO_NUMERO_IDENTIF">proteinuria</TAG>, y el <TAG TYPE="OTRO_NUMERO_IDENTIF">urocultivo</TAG> fue negativo. La <TAG TYPE="OTRO_NUMERO_IDENTIF">ecografía</TAG> fue informada como "sin alteraciones significativas, excepto ligera ectasia en grupo calicial superior derecho". Decidimos que ante una hematuria con <TAG TYPE="OTRO_NUMERO_IDENTIF">proteinuria</TAG> positiva (confirmada en orina de 24 horas), lo derivábamos al servicio de <TAG TYPE="PROFESION">Nefrología</TAG> para completar estudio y seguimiento.
+    Se le practicó una segunda <TAG TYPE="OTRO_NUMERO_IDENTIF">ecografía</TAG>, dando como resultado la misma conclusión que la primera (realizada con 6 meses de diferencia), al igual que una <TAG TYPE="OTRO_NUMERO_IDENTIF">urografía intravenosa</TAG> donde se visualiza dilatación pielocalicial y del uréter derecho. En la <TAG TYPE="OTRO_NUMERO_IDENTIF">Tomografía Computerizada</TAG> (TC) se encuentran los mismos hallazgos, sin observar causa obstructiva que justifique esa dilatación. En la tercera <TAG TYPE="OTRO_NUMERO_IDENTIF">ecografía</TAG> (meses después) se visualiza contenido ecogénico en el sistema pielocalicial de riñón derecho, solicitando por ello <TAG TYPE="OTRO_NUMERO_IDENTIF">TC</TAG> de nuevo, donde se encuentra una imagen con densidad de partes blandas que afecta al infundíbulo superior y pelvis renal en su porción intrarrenal, produciendo dilatación del cáliz superior. La lesión capta y es compatible con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">carcinoma de células transicionales</TAG> en sistema colector derecho, infundíbulo superior y parte de pelvis renal. Las <TAG TYPE="OTRO_NUMERO_IDENTIF">citologías de orina</TAG> fueron positivas. La paciente fue sometida a una <TAG TYPE="OTRO_NUMERO_IDENTIF">nefrectomía</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">ureterectomía laparoscópica</TAG> derecha.
+    Evolución y comentarios: En la anatomía patológica se confirma <TAG TYPE="OTROS_SUJETO_ASISTENCIA">carcinoma de células transicionales</TAG> de pelvis renal, con focos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">carcinoma mucinoso</TAG> que afecta a pelvis, infiltra parénquima y respeta bordes ureterales, estadio teórico pT3. Casi dos años más tarde, en TC torácico se confirman lesiones ocupantes de espacio en hígado compatibles con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">metástasis hepáticas</TAG> y óseas.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Petra María Cortés Durán</TAG>. <TAG TYPE="CENTRO_SALUD">Centro de Salud María Ángeles López Gómez</TAG>. <TAG TYPE="CALLE">C/ María Ángeles López Gómez, 2</TAG>. <TAG TYPE="TERRITORIO">C.P. 28915</TAG>. <TAG TYPE="TERRITORIO">Leganés</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG> (<TAG TYPE="PAIS">España</TAG>). <TAG TYPE="CORREO_ELECTRONICO">artep03@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

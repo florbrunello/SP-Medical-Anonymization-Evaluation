@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jorge Trujillo Sanz</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">70699964B</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/12/1942</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Piamonte 86, 7Q</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Bormujos, Cáceres, Extremadura</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">10295</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">sanz430@h12o.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 927 34 50 17</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 627 53 33 45</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8913190</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">133501315289</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente con antecedentes de enfermedad crónica</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. José Paredes Giménez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">497234511</TAG>. <TAG TYPE="PROFESION">Residente de 3° año en Psiquiatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">15/05/1994</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Universitario de Valencia</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia caribeña</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">51 años</TAG> de edad, acompañado de su hijo, que refiere sentirse <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansioso</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">deprimido</TAG> durante los últimos meses, con pérdida de apetito y cambios en el sueño. Presenta antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, controladas con medicación. La exploración física revela: <TAG TYPE="FECHAS">Tª 36,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 80 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: <TAG TYPE="FECHAS">Hb 14,2 g/dl</TAG>; <TAG TYPE="FECHAS">leucocitos 7.500/mm3</TAG> (<TAG TYPE="FECHAS">neutrófilos 50%</TAG>); <TAG TYPE="FECHAS">plaquetas 250.000/ mm3</TAG>. VSG: <TAG TYPE="FECHAS">20 mm 1ª hora</TAG>. Coagulación: <TAG TYPE="FECHAS">TQ 95%</TAG>; <TAG TYPE="FECHAS">TTPA 25,5 seg</TAG>. Bioquímica: <TAG TYPE="FECHAS">Glucosa 120 mg/dl</TAG>; <TAG TYPE="FECHAS">urea 20 mg/dl</TAG>; <TAG TYPE="FECHAS">creatinina 1,2 mg/dl</TAG>; <TAG TYPE="FECHAS">sodio 140 mEq/l</TAG>; <TAG TYPE="FECHAS">potasio 3,8 mEq/l</TAG>; <TAG TYPE="FECHAS">GOT 20 U/l</TAG>; <TAG TYPE="FECHAS">GPT 30 U/l</TAG>; <TAG TYPE="FECHAS">GGT 40 U/l</TAG>; <TAG TYPE="FECHAS">fosfatasa alcalina 100 U/l</TAG>; <TAG TYPE="FECHAS">calcio 9,5 mg/dl</TAG>. Orina: <TAG TYPE="FECHAS">sedimento normal</TAG>.
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">trastorno depresivo mayor</TAG> se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">antidepresivos, ansiolíticos, reposo y terapia cognitivo-conductual</TAG>) y tratamiento farmacológico: <TAG TYPE="OTRO_NUMERO_IDENTIF">Fluoxetina 20 mg</TAG> vía oral cada 24 horas (<TAG TYPE="FECHAS">durante 6 semanas</TAG>) y <TAG TYPE="OTRO_NUMERO_IDENTIF">Diazepam 5 mg</TAG> vía oral cada 8 horas (<TAG TYPE="FECHAS">durante 2 semanas</TAG>). El paciente mejora significativamente de su cuadro tras 4 semanas de tratamiento, decidiéndose el alta a su domicilio con seguimiento en consulta.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Raúl</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marín</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Costa</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">81885316A</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/11/1946</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Gobernador 78</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcalá de Henares</TAG>, <TAG TYPE="TERRITORIO">Segovia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">40894</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">raul.marin.costa1864@protonmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 921 51 38 33</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 621 14 76 43</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9392757</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">154138042770</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Laboratorio</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Diana Ibáñez Trujillo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">976136775</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">30/06/1989</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Asistencial Universitario Salamanca</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6699GRS</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Volkswagen Golf</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSXF6C2E6SF140812</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTRO_NUMERO_IDENTIF">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">42 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tía</TAG>.
+  </TEXT>
+</MEDDOCAN>

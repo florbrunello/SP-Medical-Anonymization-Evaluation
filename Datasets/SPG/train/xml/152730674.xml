@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ariadna Méndez Moya
+DNI: 47947151V
+Fecha de nacimiento: 19/08/1998
+Género: Mujer
+Domicilio: Calle de San Bernardo 15
+Ciudad: Ferrol, La Rioja, La Rioja
+Código postal: 26826
+Email: ariadna-mendez-moya@hotmail.com
+Teléfono fijo: +34 941 05 21 50
+FAX: +34 941 88 07 55
+NHC: 4323735
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dr. Abel Guerra Alarcon. NC 270957523. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/04/2006
+Episodio: 38662107
+Centro de salud: Centro de Salud Latina
+Matrícula del coche: 4991GKS
+Modelo: BMW 3 Series
+VIN: VSU8ZDEJ9FR524864
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 7 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-medical.edu//10205126J. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Ariadna" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="47" text="Méndez Moya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="47947151V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="19/08/1998" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="108" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="144" text="Calle de San Bernardo 15" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="159" text="Ferrol" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="169" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="179" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="26826" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="239" text="ariadna-mendez-moya@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 941 05 21 50" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="277" end="293" text="+34 941 88 07 55" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="299" end="306" text="4323735" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="328" end="338" text="Paramédico" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="373" end="392" text="Abel Guerra Alarcon" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="397" end="406" text="270957523" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="408" end="445" text="Investigador Clínico en Epidemiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="447" end="531" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="533" end="562" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="564" end="569" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="571" end="577" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="579" end="585" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="605" end="615" text="30/04/2006" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="626" end="634" text="38662107" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="652" end="674" text="Centro de Salud Latina" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="696" end="703" text="4991GKS" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="730" end="747" text="VSU8ZDEJ9FR524864" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="788" end="809" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="813" end="819" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="846" end="851" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="886" end="908" text="http://example-medical" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

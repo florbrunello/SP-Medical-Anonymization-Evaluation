@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Andrea Velasco Luna
+DNI: 50841418X
+Fecha de nacimiento: 04/09/1981
+Género: F
+Domicilio: Calle de las Tres Cruces 34
+Ciudad: Elda, Región de Murcia, Región de Murcia
+Código postal: 30890
+Email: andreavelasco1481@aol.com
+Teléfono fijo: +34 968 97 66 77
+Teléfono móvil: +34 768 12 29 32
+NHC: 5579418
+NASS: 533558326314
+Condición de riesgo: Ama de casa
+
+Datos asistenciales.
+Médico: Dra. Carmen Aguilera Sánchez. NC 807641809. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/10/1996
+Episodio: 29478406
+Hospital: Hospital Universitario Reina Sofía de Córdoba
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 15 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Andrea" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Velasco Luna" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="50841418X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="04/09/1981" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="143" text="Calle de las Tres Cruces 34" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="156" text="Elda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="174" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="192" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="208" end="213" text="30890" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="221" end="246" text="andreavelasco1481@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="262" end="278" text="+34 968 97 66 77" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="295" end="311" text="+34 768 12 29 32" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="317" end="324" text="5579418" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="331" end="343" text="533558326314" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="365" end="376" text="Ama de casa" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="660" end="670" text="17/10/1996" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="681" end="689" text="29478406" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="700" end="745" text="Hospital Universitario Reina Sofía de Córdoba" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="789" end="813" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="817" end="824" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="851" end="856" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

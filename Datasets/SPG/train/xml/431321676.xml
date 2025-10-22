@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Vanessa Conde Izquierdo
+DNI: 19164288K
+Fecha de nacimiento: 04/05/2006
+Género: M
+Domicilio: Calle de Fortuny 10, 1H
+Ciudad: Reus, Zamora, Castilla y León
+Código postal: 49368
+Email: vanessa@us.es
+Teléfono fijo: +34 980 39 24 95
+FAX: +34 980 27 36 61
+NHC: 8702080
+NASS: 735356562415
+Condición de riesgo: Técnico de Cuidados Auxiliares de Enfermería
+
+Datos asistenciales.
+Médico: Dr. Pedro Avila Marcos. NC 127048444. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/07/2023
+Hospital: Hospital Universitario Infanta Leonor
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 17 años de edad, acompañado de su primo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Vanessa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="51" text="Conde Izquierdo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="19164288K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="04/05/2006" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="143" text="Calle de Fortuny 10, 1H" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="156" text="Reus" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="164" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="181" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="49368" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="223" text="vanessa@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="239" end="255" text="+34 980 39 24 95" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="261" end="277" text="+34 980 27 36 61" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="283" end="290" text="8702080" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="297" end="309" text="735356562415" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="331" end="375" text="Técnico de Cuidados Auxiliares de Enfermería" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="410" end="428" text="Pedro Avila Marcos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="433" end="442" text="127048444" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="444" end="484" text="Residente de 3° año en Gastroenterología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="486" end="579" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="581" end="610" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="612" end="617" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="619" end="625" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="627" end="633" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="653" end="663" text="11/07/2023" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="674" end="711" text="Hospital Universitario Infanta Leonor" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="755" end="775" text="ascendencia asiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="779" end="786" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="813" end="818" text="primo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

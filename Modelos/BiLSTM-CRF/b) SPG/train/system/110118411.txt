@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Aitor Otero Estevez
+DNI: 46909656Y
+Fecha de nacimiento: 29/10/1993
+Género: Varón
+Domicilio: Calle de la Ribera 44, 6Q
+Ciudad: Ermua, Palencia, Castilla y León
+Código postal: 34370
+Email: estevez@ciberned.es
+Teléfono fijo: +34 979 29 01 47
+Teléfono móvil: +34 679 69 61 11
+NHC: 2165840
+NASS: 752685871606
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dra. Catalina Merino Iglesias. NC 322032341. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/09/1995
+Centro de salud: Centro de Salud Getafe
+Matrícula del coche: 0287LBB
+Modelo: Chrysler Pacifica
+VIN: VSRROJBPS3W010733
+
+Informe clínico del paciente:
+Paciente no fumador de un año de edad, acompañado de su tío. El servidor para envío de información desde cual el usuario se comunica es smtp://example-ophthalmology.net. 

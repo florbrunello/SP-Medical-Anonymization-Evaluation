@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Eduardo Segura Bravo
+DNI: 34651073D
+Fecha de nacimiento: 05/08/2022
+Género: Hombre
+Domicilio: Calle del Rollo 8, 8S
+Ciudad: Alcobendas, Ciudad Real, Castilla-La Mancha
+Código postal: 13524
+Email: bravo@yahoo.com
+Teléfono fijo: +34 926 37 25 56
+Teléfono móvil: +34 726 93 92 57
+NHC: 4306148
+Condición de riesgo: Trabajador de la Construcción
+
+Datos asistenciales.
+Médico: Dr. Mohamed Durán Redondo. NC 732529332. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 22/06/2024
+Episodio: 64322246
+Hospital: Hospital Universitario Puerta de Hierro Majadahonda
+
+Informe clínico del paciente:
+Paciente fumador de un año de edad, acompañado de su hermano. Se registró una sesión de huella dactilar, el código obtenido para revisarla es GE499CVQ329. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Eduardo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Segura Bravo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="34651073D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="05/08/2022" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="110" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="143" text="Calle del Rollo 8, 8S" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="162" text="Alcobendas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="175" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="195" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="211" end="216" text="13524" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="224" end="239" text="bravo@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 926 37 25 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 726 93 92 57" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="4306148" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="339" end="368" text="Trabajador de la Construcción" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="403" end="424" text="Mohamed Durán Redondo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="429" end="438" text="732529332" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="440" end="471" text="Residente de 5° año en Urología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="473" end="545" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="547" end="570" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="572" end="577" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="579" end="585" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="587" end="593" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="613" end="623" text="22/06/2024" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="634" end="642" text="64322246" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="653" end="704" text="Hospital Universitario Puerta de Hierro Majadahonda" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="745" end="752" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="756" end="762" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="789" end="796" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="878" end="889" text="GE499CVQ329" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

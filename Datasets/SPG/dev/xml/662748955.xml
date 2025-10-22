@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Jon Domínguez Cano
+DNI: 59841900V
+Fecha de nacimiento: 23/07/1967
+Género: H
+Domicilio: Calle de Tribulete 29, 10B
+Ciudad: Castellón de la Plana, Burgos, Castilla y León
+Código postal: 09823
+Email: jon.dominguez-cano@ioba.med.uva.es
+Teléfono fijo: +34 947 68 57 68
+FAX: +34 947 58 93 03
+NHC: 7849375
+Condición de riesgo: Trabajador Agrícola
+
+Datos asistenciales.
+Médico: Dr. Juan Pedro Aguilera Paredes. NC 961493260. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 21/09/1977
+Episodio: 61124625
+Centro de salud: Centro de Salud Moratalaz
+Matrícula del coche: 4952YKU
+Modelo: Kia Sorento
+VIN: VSMHJPF5MJG140378
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 10 años de edad, acompañado de su tía. Se realizó un expediente con URL http://example-medical.edu//39546191D. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Jon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="46" text="Domínguez Cano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="59841900V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="23/07/1967" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="141" text="Calle de Tribulete 29, 10B" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="171" text="Castellón de la Plana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="173" end="179" text="Burgos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="181" end="196" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="212" end="217" text="09823" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="225" end="259" text="jon.dominguez-cano@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="275" end="291" text="+34 947 68 57 68" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="297" end="313" text="+34 947 58 93 03" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="319" end="326" text="7849375" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="348" end="367" text="Trabajador Agrícola" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="402" end="429" text="Juan Pedro Aguilera Paredes" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="434" end="443" text="961493260" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="445" end="476" text="Residente de 5° año en Urología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="478" end="550" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="552" end="575" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="577" end="582" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="584" end="590" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="592" end="598" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="618" end="628" text="21/09/1977" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="639" end="647" text="61124625" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="665" end="690" text="Centro de Salud Moratalaz" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="712" end="719" text="4952YKU" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="745" end="762" text="VSMHJPF5MJG140378" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="806" end="832" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="836" end="843" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="870" end="873" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="908" end="930" text="http://example-medical" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Marina González Trujillo
+DNI: 85822367Y
+Fecha de nacimiento: 08/06/1965
+Género: M
+Domicilio: Calle de las Huertas 81, 9H
+Ciudad: Teruel, León, Castilla y León
+Código postal: 24956
+Email: marina.gonzalez.trujillo2013@imibic.org
+Teléfono fijo: +34 987 32 09 07
+Teléfono móvil: +34 787 51 31 78
+NHC: 9870448
+NASS: 105468731253
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dr. David Santana Andres. NC 731795254. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/03/2008
+Episodio: 68632296
+Hospital: Hospital Clínic San Carlos
+Matrícula del coche: 2957ZIA
+Modelo: Hyundai Elantra
+VIN: VSCV1AUYK9S888762
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 42 años de edad. Se realizó un expediente con URL http://example-research.net//52873417M. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Marina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="52" text="González Trujillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="85822367Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="08/06/1965" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="148" text="Calle de las Huertas 81, 9H" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="163" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="169" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="186" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="24956" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="254" text="marina.gonzalez.trujillo2013@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="270" end="286" text="+34 987 32 09 07" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="303" end="319" text="+34 787 51 31 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="325" end="332" text="9870448" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="339" end="351" text="105468731253" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="373" end="381" text="Granjero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="416" end="436" text="David Santana Andres" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="441" end="450" text="731795254" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="452" end="492" text="Residente de 3° año en Gastroenterología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="494" end="587" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="589" end="618" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="620" end="625" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="627" end="633" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="635" end="641" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="661" end="671" text="27/03/2008" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="682" end="690" text="68632296" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="701" end="727" text="Hospital Clínic San Carlos" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="749" end="756" text="2957ZIA" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="786" end="803" text="VSCV1AUYK9S888762" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="847" end="868" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="872" end="879" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="922" end="945" text="http://example-research" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

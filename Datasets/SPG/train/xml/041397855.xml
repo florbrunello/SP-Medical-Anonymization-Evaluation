@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Jorge Estevez Carrasco
+DNI: 29934078S
+Fecha de nacimiento: 23/05/1965
+Género: M
+Domicilio: Calle de la Alameda 43
+Ciudad: Estepa, Lérida, Cataluña
+Código postal: 25048
+Email: GrDHyR0S@protonmail.com
+Teléfono fijo: +34 973 94 99 08
+Teléfono móvil: +34 773 14 88 82
+NHC: 4480232
+NASS: 174005559349
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dra. Lorena Rodríguez Maldonado. NC 530724205. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/01/1980
+Episodio: 62246480
+Hospital: Hospital Universitario 12 de Octubre
+
+Informe clínico del paciente:
+Paciente vegetariano de 14 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Jorge" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="50" text="Estevez Carrasco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="29934078S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="23/05/1965" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="141" text="Calle de la Alameda 43" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="156" text="Estepa" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="164" text="Lérida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="174" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="25048" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="226" text="GrDHyR0S@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="242" end="258" text="+34 973 94 99 08" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="275" end="291" text="+34 773 14 88 82" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="297" end="304" text="4480232" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="311" end="323" text="174005559349" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="345" end="363" text="Ingeniero de Minas" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="650" end="660" text="27/01/1980" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="671" end="679" text="62246480" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="690" end="726" text="Hospital Universitario 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="767" end="778" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="782" end="789" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="816" end="823" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

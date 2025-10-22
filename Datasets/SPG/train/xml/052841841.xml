@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Pedro Conde Marti
+DNI: 76380191C
+Fecha de nacimiento: 04/11/1986
+Género: M
+Domicilio: Calle de Arenal 58
+Ciudad: Ourense, Jaén, Andalucía
+Código postal: 23454
+Email: juanpedro-conde_marti983@gmail.com
+Teléfono fijo: +34 953 48 80 04
+Teléfono móvil: +34 653 20 22 33
+NHC: 4102521
+
+Datos asistenciales.
+Médico: Dr. Eric Aguilar Garrido. NC 847719664. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/10/2013
+Episodio: 22651389
+Hospital: Hospital Universitario de Crúces
+Matrícula del coche: 7666WLC
+Modelo: Hyundai Elantra
+VIN: VSHMMRYRVAT344167
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 26 años de edad, acompañado de su hija. Se realizó un expediente con URL http://example-radiology.edu//97660262I. Se registró una sesión de huella dactilar, el código obtenido para revisarla es GN460PFV471. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es LZ015INQ525. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Juan Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="50" text="Conde Marti" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="76380191C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="04/11/1986" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="137" text="Calle de Arenal 58" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="153" text="Ourense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="159" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="161" end="170" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="186" end="191" text="23454" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="199" end="233" text="juanpedro-conde_marti983@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 953 48 80 04" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 653 20 22 33" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="304" end="311" text="4102521" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="346" end="366" text="Eric Aguilar Garrido" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="371" end="380" text="847719664" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="382" end="419" text="Investigador Clínico en Epidemiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="421" end="505" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="507" end="536" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="538" end="543" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="545" end="551" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="553" end="559" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="579" end="589" text="26/10/2013" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="600" end="608" text="22651389" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="619" end="651" text="Hospital Universitario de Crúces" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="673" end="680" text="7666WLC" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="710" end="727" text="VSHMMRYRVAT344167" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="771" end="804" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="808" end="815" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="842" end="846" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="881" end="905" text="http://example-radiology" TYPE="URL_WEB" comment=""/>
+        <ID id="T32" start="1002" end="1013" text="GN460PFV471" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T33" start="1096" end="1107" text="LZ015INQ525" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

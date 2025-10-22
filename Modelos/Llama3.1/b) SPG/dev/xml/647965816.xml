@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Elvira</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Flores Hernández</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">35412440F</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/06/1964</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Génova 31, 1R</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Torrelodones</TAG>, <TAG TYPE="TERRITORIO">Álava</TAG>, <TAG TYPE="TERRITORIO">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">01604</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">floreshernandez@hotmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 945 83 22 74</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 745 97 39 28</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8541988</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">959615321739</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Equipos Mineros</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Teresa Castro Bernal</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">364602099</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">16/11/1990</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">61332443</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Lugo</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0308DGA</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Chevrolet Silverado</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSX9M6WU57C737545</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">exfumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">26 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermana</TAG>. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">UF410IOE309</TAG>.
+  </TEXT>
+</MEDDOCAN>

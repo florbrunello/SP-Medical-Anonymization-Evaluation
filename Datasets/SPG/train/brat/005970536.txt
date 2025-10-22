@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Alfonso Pacheco Rivero
+DNI: 76616791L
+Fecha de nacimiento: 26/05/1937
+Género: H
+Domicilio: Calle de Ferraz 85, 2B
+Ciudad: Fuenlabrada, Ibiza, Islas Baleares
+Código postal: 07936
+Email: pacheco.rivero@udc.es
+Teléfono fijo: +34 971 62 02 09
+Teléfono móvil: +34 671 61 03 42
+NHC: 2511574
+
+Datos asistenciales.
+Médico: Dra. María Nieves De la Fuente Arias. NC 344119272. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/07/2022
+Episodio: 87169677
+Centro de salud: Centro de Salud Puente de Vallecas
+Matrícula del coche: 0140VCT
+Modelo: Toyota RAV4
+VIN: VSXKQILWJKW040559
+
+Informe clínico del paciente:
+Paciente testigo de Jehová de 85 años de edad. El servidor para envío de información desde cual el usuario se comunica es smtp://example-biotech.com. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es LZ015INQ525. 

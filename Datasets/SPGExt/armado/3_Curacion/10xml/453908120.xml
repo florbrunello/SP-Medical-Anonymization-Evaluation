@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Soledad</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Beltran Blanco</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">79217823G</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/05/1944</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Sombrerete 87, 5D</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Segovia, Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">32195</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariasoledad@hotmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 988 54 72 14</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 788 42 43 18</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8113488</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">321952098789</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente con antecedentes de diabetes tipo 2</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Cristian</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Izquierdo Carrillo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">664647438</TAG>. <TAG TYPE="PROFESION">Investigador Principal en Optometría Clínica</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">25/04/2003</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">95380124</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Fundació Jiménez Díaz</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">58 años</TAG> de edad, acompañado de su esposa, que acude al servicio de urgencias con dolor abdominal severo y vómitos durante las últimas 24 horas. La paciente tiene antecedentes de diabetes tipo 2 y ha estado tomando medicamentos orales para controlar su glucemia.
+    La exploración física revela: Tª <TAG TYPE="FECHAS">38,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. La paciente se encuentra consciente, orientada, sudorosa, con buen estado de nutrición e hidratación. En la exploración abdominal se aprecia distensión abdominal, dolor en la región epigástrica y ausencia de signos de obstrucción intestinal.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">12,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">15.000/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">80%</TAG>); plaquetas <TAG TYPE="FECHAS">200.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">90%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">250 mg/dl</TAG>; urea <TAG TYPE="FECHAS">40 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,2 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,8 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">20 U/l</TAG>; GPT <TAG TYPE="FECHAS">30 U/l</TAG>; GGT <TAG TYPE="FECHAS">40 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">150 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía abdominal y TAC abdominal) que revelan una obstrucción intestinal en la región del colon ascendente. Se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y fluidoterapia) así como tratamiento quirúrgico (colecistectomía y colostomía) para resolver la obstrucción intestinal. La paciente se encuentra en estado estable y se le recomienda una evaluación posterior para determinar la causa subyacente de la obstrucción intestinal.
+  </TEXT>
+</MEDDOCAN>

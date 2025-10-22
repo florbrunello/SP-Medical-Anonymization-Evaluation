@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Mercedes</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cruz Fernández</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">38407929E</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/11/1949</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Alcalá 68</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Jaén, Badajoz, Extremadura</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">06252</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariamercedes.cruz_fernandez@aol.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 924 84 10 49</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 624 58 03 99</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6207968</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">064698689911</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Investigadora</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Emilia Menendez Franco</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">305477908</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Investigadora Principal en Parkinson</TAG>.
+    Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED).
+    Avenida Monforte de Lemos 3-5. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">02/01/2004</TAG>.
+    Centro de salud: <TAG TYPE="INSTITUCION">Hospital Universitario de la Princesa</TAG>.
+    Informe clínico del paciente:
+    La paciente, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">54 años</TAG> de edad, presenta una historia de antecedentes familiares de enfermedades neurodegenerativas, incluyendo una tía materna con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Parkinson</TAG>. Su madre, que la acompaña en la consulta, también tiene antecedentes de enfermedad de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Alzheimer</TAG>. La paciente se queja de un declive progresivo en su función motora, con dificultades para caminar y mantener el equilibrio. También ha notado una disminución en su capacidad para realizar tareas cotidianas, como vestirse y desayunar.
+    La exploración física revela una postura encorvada y una marcha inestable. La paciente tiene dificultades para levantar los brazos y mantener el equilibrio en una posición de pie. La función motora de las manos es normal. La paciente tiene una disminución en su capacidad para realizar tareas cognitivas, como recordar nombres y fechas.
+    Los datos analíticos muestran una disminución en la velocidad de procesamiento y una disminución en la capacidad para realizar tareas de atención. La paciente tiene una disminución en su capacidad para recordar eventos recientes.
+    Se solicitan pruebas de imagen para evaluar la función cerebral y la presencia de lesiones en el cerebro. Se realizan pruebas de sangre para evaluar la función hepática y la presencia de enfermedades infecciosas.
+    El diagnóstico diferencial incluye enfermedad de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Parkinson</TAG>, enfermedad de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Alzheimer</TAG> y otras enfermedades neurodegenerativas. La paciente se somete a un tratamiento con medicamentos para mejorar la función motora y la función cognitiva.
+    Antecedentes:
+    La paciente tiene antecedentes de enfermedades familiares de enfermedades neurodegenerativas, incluyendo una tía materna con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Parkinson</TAG> y una madre con enfermedad de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Alzheimer</TAG>.
+    Evolución y comentarios:
+    La paciente se somete a un tratamiento con medicamentos para mejorar la función motora y la función cognitiva. La paciente tiene una respuesta favorable al tratamiento y se observa una mejoría en su función motora y su función cognitiva.
+    Remitido por:
+    La <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Emilia Menendez Franco</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Investigadora Principal en Parkinson</TAG>, remite a la paciente a la unidad de neurología para continuar con el tratamiento y la evaluación de su condición.
+  </TEXT>
+</MEDDOCAN>

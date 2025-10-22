@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Borja</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sandoval Recamal</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3456944</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle La Marina, 32, 4 B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28035</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">12/11/2013</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">08/02/2017</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Maria</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Andrade Castellar</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28</TAG>.
+    Informe clínico del paciente: NIño preescolar de tres años que acude a su centro de salud por presentar, desde hace un mes, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cefalea bitemporal, diaria, vespertina, de horas de duración</TAG>, que cede tras <TAG TYPE="PROFESION">analgesia</TAG>. El dolor no aparece durante el sueño ni interfiere en su actividad diaria. No presenta <TAG TYPE="OTROS_SUJETO_ASISTENCIA">aura, sonofobia ni fotofobia</TAG>. No asocia <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos ni otros síntomas</TAG>. Antecedentes personales sin interés. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Desarrollo psicomotor y pondoestatural normal</TAG>. Exploración física y neurológica dentro de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">normalidad</TAG>. Se remite a <TAG TYPE="PROFESION">Oftalmología</TAG>, donde se descarta patología. Se solicita una <TAG TYPE="PROFESION">analítica</TAG> en la que destaca la <TAG TYPE="OTRO_NUMERO_IDENTIF">ferritina</TAG>, de <TAG TYPE="OTRO_NUMERO_IDENTIF">8 ng/ml</TAG>, siendo el <TAG TYPE="HOSPITAL">hemograma</TAG> y resto de <TAG TYPE="PROFESION">bioquímica</TAG> anodinas. Tras ello se inicia un <TAG TYPE="PROFESION">tratamiento</TAG> con <TAG TYPE="PROFESION">hierro oral</TAG>.
+    A los dos meses consulta por persistencia de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cefalea</TAG>, por lo que se deriva a <TAG TYPE="PROFESION">Neuropediatría</TAG> (<TAG TYPE="PROFESION">resonancia magnética nuclear</TAG> <TAG TYPE="PROFESION">cerebral</TAG> normal) y se realiza un <TAG TYPE="PROFESION">control analítico</TAG> para la valoración de la <TAG TYPE="OTRO_NUMERO_IDENTIF">ferropenia</TAG> previa, determinándose <TAG TYPE="OTRO_NUMERO_IDENTIF">anticuerpos IgA antitransglutaminasa</TAG> (> <TAG TYPE="OTRO_NUMERO_IDENTIF">128 U/ml</TAG>) e <TAG TYPE="OTRO_NUMERO_IDENTIF">IgA</TAG> (normal). Posteriormente se obtuvo <TAG TYPE="PROFESION">biopsia</TAG> confirmatoria de <TAG TYPE="OTRO_NUMERO_IDENTIF">enfermedad celíaca</TAG> con <TAG TYPE="OTRO_NUMERO_IDENTIF">atrofia vellositaria Marsh tipo II-III</TAG>, y se realizó <TAG TYPE="PROFESION">tipificación sistema de histocompatibilidad</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">human leukocyte antigen</TAG>) de baja resolución, obteniéndose un <TAG TYPE="OTRO_NUMERO_IDENTIF">haplotipo DQ2</TAG> de susceptibilidad celíaca en cis. Tras el diagnóstico se inició <TAG TYPE="PROFESION">dieta exenta de gluten</TAG> presentando una evolución favorable con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">desaparición de la cefalea</TAG> y corrección de los niveles de <TAG TYPE="OTRO_NUMERO_IDENTIF">ferritina</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Maria Andrade Castellar</TAG>. <TAG TYPE="CORREO_ELECTRONICO">marian22_84@hotmail.es</TAG>
+  </TEXT>
+</MEDDOCAN>

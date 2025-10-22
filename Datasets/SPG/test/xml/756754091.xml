@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Carmen Guillen Herrera
+DNI: 75793684J
+Fecha de nacimiento: 06/07/1934
+Género: Femenino
+Domicilio: Calle de los Jardines 30
+Ciudad: Vitoria, Ibiza, Islas Baleares
+Código postal: 07455
+Email: mariacarmen-guillenherrera@ciberned.es
+Teléfono fijo: +34 971 32 73 49
+FAX: +34 971 57 97 33
+NHC: 8711915
+NASS: 183186581038
+Condición de riesgo: Albañil
+
+Datos asistenciales.
+Médico: Dra. Marina Bravo Pereira. NC 476321335. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/02/1941
+Episodio: 58296715
+Centro de salud: Centro de Salud Sevilla Sur
+Matrícula del coche: 5069GNF
+Modelo: Toyota RAV4
+VIN: VSBTT6QCQKN042228
+
+Informe clínico del paciente:
+Paciente fumador de 6 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="María Carmen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="56" text="Guillen Herrera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="62" end="71" text="75793684J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="93" end="103" text="06/07/1934" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="112" end="120" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="132" end="156" text="Calle de los Jardines 30" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="165" end="172" text="Vitoria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="174" end="179" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="181" end="195" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="211" end="216" text="07455" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="224" end="262" text="mariacarmen-guillenherrera@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="278" end="294" text="+34 971 32 73 49" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="300" end="316" text="+34 971 57 97 33" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="322" end="329" text="8711915" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="336" end="348" text="183186581038" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="370" end="377" text="Albañil" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="655" end="665" text="12/02/1941" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="676" end="684" text="58296715" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="702" end="729" text="Centro de Salud Sevilla Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="751" end="758" text="5069GNF" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="784" end="801" text="VSBTT6QCQKN042228" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="842" end="849" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="853" end="859" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="886" end="892" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

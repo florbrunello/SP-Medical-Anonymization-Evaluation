@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Andrea Pereira Luque
+DNI: 87766855M
+Fecha de nacimiento: 17/02/1940
+Género: M
+Domicilio: Calle del Duque de Alba 18
+Ciudad: León, Ávila, Castilla y León
+Código postal: 05561
+Email: pereira_luque@h12o.es
+Teléfono fijo: +34 920 78 28 69
+FAX: +34 920 41 35 26
+NHC: 7186901
+NASS: 555982371888
+
+Datos asistenciales.
+Médico: Dra. Lorena Prieto Cano. NC 814608336. Neuropsicóloga Clínica Investigadora. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/09/1950
+Episodio: 32783494
+Centro de salud: Centro de Salud San Blas
+
+Informe clínico del paciente:
+Paciente fumador de 10 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Andrea" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Pereira Luque" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="87766855M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="17/02/1940" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="143" text="Calle del Duque de Alba 18" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="156" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="163" text="Ávila" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="180" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="05561" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="230" text="pereira_luque@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="246" end="262" text="+34 920 78 28 69" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="268" end="284" text="+34 920 41 35 26" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="290" end="297" text="7186901" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="304" end="316" text="555982371888" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="568" end="578" text="04/09/1950" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="589" end="597" text="32783494" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="615" end="639" text="Centro de Salud San Blas" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="680" end="687" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="691" end="698" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="725" end="731" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

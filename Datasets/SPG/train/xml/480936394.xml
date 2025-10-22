@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Margarita Gutiérrez Benítez
+DNI: 48249656A
+Fecha de nacimiento: 03/11/1946
+Género: Mujer
+Domicilio: Calle del Rollo 30
+Ciudad: Santander, Zamora, Castilla y León
+Código postal: 49914
+Email: benitez@ciberehd.org
+Teléfono fijo: +34 980 20 87 53
+Teléfono móvil: +34 680 54 99 36
+NHC: 0201765
+NASS: 566951729567
+
+Datos asistenciales.
+Médico: Dr. Félix Parra Mendoza. NC 292740736. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 12/04/1947
+Episodio: 76216794
+Centro de salud: Centro de Salud Alcorcón
+
+Informe clínico del paciente:
+Paciente discapacitado de 5 meses de edad, acompañado de su hermano. El servidor para envío de información desde cual el usuario se comunica es smtp://example-research.net. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Margarita" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="55" text="Gutiérrez Benítez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="48249656A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="03/11/1946" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="116" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="146" text="Calle del Rollo 30" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="164" text="Santander" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="172" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="189" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="49914" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="238" text="benitez@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 980 20 87 53" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 680 54 99 36" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="0201765" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="323" end="335" text="566951729567" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="370" end="389" text="Félix Parra Mendoza" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="394" end="403" text="292740736" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="405" end="442" text="Residente de 4° año en Endocrinología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="444" end="511" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="513" end="540" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="542" end="547" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="549" end="556" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="558" end="564" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="584" end="594" text="12/04/1947" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="605" end="613" text="76216794" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="631" end="655" text="Centro de Salud Alcorcón" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="696" end="709" text="discapacitado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="713" end="720" text="5 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="747" end="754" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="831" end="854" text="smtp://example-research" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

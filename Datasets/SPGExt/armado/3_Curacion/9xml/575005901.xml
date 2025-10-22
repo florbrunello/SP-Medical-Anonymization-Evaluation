@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iván Román Ramos</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">30731563K</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/05/2003</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Marqués de Urquijo 49</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcorcón, Palencia, Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">34739</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ivan.roman.ramos@isciii.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 61 27 18</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 779 92 42 89</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5830940</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">017320320723</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Enfermera</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Irene Ibáñez Estevez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">741571056</TAG>. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Arganzuela</TAG>.
+    Informe clínico del paciente:
+    El paciente es un joven de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">21 años</TAG> de edad, sin antecedentes médicos relevantes, que acude al servicio de urgencias con síntomas de dolor abdominal crónico. Presenta una evolución clínica de 2 semanas, con episodios de dolor abdominal severo, acompañado de náuseas y vómitos. La exploración física revela un abdomen dolorido en la región epigástrica, con signos de irritación peritoneal. Los análisis de laboratorio muestran una elevación de la enzima alanina aminotransferasa (ALT) y una reducción de la creatinina sérica. La ecografía abdominal muestra un aumento de la espesura del hígado y una presencia de fluidos en el peritoneo.
+    La historia clínica del paciente sugiere una posible causa de hepatitis viral, con la presencia de síntomas de dolor abdominal y elevación de las enzimas hepáticas. Se solicitan pruebas de laboratorio adicionales, incluyendo una prueba de hepatitis B y C, y una biopsia hepática para confirmar el diagnóstico.
+    En cuanto a la evolución clínica, el paciente ha estado recibiendo tratamiento con analgésicos y antieméticos, pero sin mejoría significativa. Se le ha recomendado una dieta blanda y se le han proporcionado instrucciones sobre la importancia de la higiene y la prevención de la infección.
+    En resumen, el paciente es un joven de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">21 años</TAG> de edad con síntomas de dolor abdominal crónico y elevación de las enzimas hepáticas. La exploración física y los análisis de laboratorio sugieren una posible causa de hepatitis viral. Se solicitan pruebas de laboratorio adicionales y se le recomienda un tratamiento conservador hasta que se confirme el diagnóstico.
+    Evolución y comentarios:
+    El paciente ha estado recibiendo tratamiento en el servicio de urgencias durante 3 días, sin mejoría significativa. Se le ha recomendado una dieta blanda y se le han proporcionado instrucciones sobre la importancia de la higiene y la prevención de la infección. La evolución clínica del paciente es inestable y se requiere un seguimiento cercano para determinar la causa subyacente de sus síntomas.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Irene Ibáñez Estevez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">741571056</TAG>. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

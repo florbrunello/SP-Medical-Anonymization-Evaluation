@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Ramón Miranda Bernal
+DNI: 70867584F
+Fecha de nacimiento: 28/12/1999
+Género: Hombre
+Domicilio: Calle de Santa Ana 15
+Ciudad: Jaén, Barcelona, Cataluña
+Código postal: 08711
+Email: Ojb48xH@udc.es
+Teléfono fijo: +34 936 49 12 72
+FAX: +34 932 82 41 78
+NHC: 9328012
+NASS: 639843554964
+Condición de riesgo: Ama de casa
+
+Datos asistenciales.
+Médico: Dr. Agustín Pacheco Lozano. NC 504626613. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/05/2015
+Episodio: 46434978
+Centro de salud: Centro de Salud Pozuelo de Alarcón
+Matrícula del coche: 9916AXG
+Modelo: Mercedes-Benz C-Class
+VIN: VSAGUJTCS9D661976
+
+Informe clínico del paciente:
+Paciente vegano de 15 años de edad, acompañado de su hermano. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Juan Ramón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="53" text="Miranda Bernal" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="70867584F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="28/12/1999" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="115" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="127" end="148" text="Calle de Santa Ana 15" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="161" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="172" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="182" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="08711" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="225" text="Ojb48xH@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 936 49 12 72" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="263" end="279" text="+34 932 82 41 78" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="285" end="292" text="9328012" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="299" end="311" text="639843554964" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="333" end="344" text="Ama de casa" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="379" end="401" text="Agustín Pacheco Lozano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="406" end="415" text="504626613" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="417" end="457" text="Especialista en Enfermedades Infecciosas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="459" end="543" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="545" end="574" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="576" end="581" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="583" end="589" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="591" end="597" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="617" end="627" text="04/05/2015" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="638" end="646" text="46434978" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="664" end="698" text="Centro de Salud Pozuelo de Alarcón" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="720" end="727" text="9916AXG" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="763" end="780" text="VSAGUJTCS9D661976" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="821" end="827" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="831" end="838" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="865" end="872" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

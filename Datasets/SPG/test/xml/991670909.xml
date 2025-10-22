@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Elena Santamaria Rivero
+DNI: 15014925L
+Fecha de nacimiento: 04/06/2013
+Género: Femenino
+Domicilio: Calle de Piamonte 44
+Ciudad: Ermua, Valencia, Comunidad Valenciana
+Código postal: 46476
+Email: mariaelena1883@ciberehd.org
+Teléfono fijo: +34 960 03 43 65
+Teléfono móvil: +34 660 90 63 71
+NHC: 5389336
+
+Datos asistenciales.
+Médico: Dra. Elisa Vázquez Abad. NC 101519064. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 20/04/2024
+Episodio: 50556880
+Hospital: Hospital Universitario Virgen Macarena
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 10 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="María Elena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="57" text="Santamaria Rivero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="63" end="72" text="15014925L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="94" end="104" text="04/06/2013" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="113" end="121" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="133" end="153" text="Calle de Piamonte 44" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="162" end="167" text="Ermua" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="177" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="199" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="215" end="220" text="46476" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="228" end="255" text="mariaelena1883@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="271" end="287" text="+34 960 03 43 65" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="304" end="320" text="+34 660 90 63 71" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="326" end="333" text="5389336" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="581" end="591" text="20/04/2024" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="602" end="610" text="50556880" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="621" end="659" text="Hospital Universitario Virgen Macarena" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="700" end="721" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="725" end="732" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="759" end="765" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

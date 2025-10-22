@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Miguel Gómez González
+DNI: 64804836J
+Fecha de nacimiento: 08/04/1962
+Género: Hombre
+Domicilio: Calle de Atocha 58
+Ciudad: Aranda de Duero, León, Castilla y León
+Código postal: 24587
+Email: juanmiguel_gonzalez@gmail.com
+Teléfono fijo: +34 987 61 05 44
+Teléfono móvil: +34 787 95 76 86
+NHC: 7675671
+NASS: 796145935172
+Condición de riesgo: Pintor de Construcción
+
+Datos asistenciales.
+Médico: Dr. Víctor Manuel López Crespo. NC 455976563. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/08/1963
+Episodio: 57382960
+Centro de salud: Centro de Salud Arganzuela
+
+Informe clínico del paciente:
+Paciente de ascendencia árabe de un año de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="Juan Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="54" text="Gómez González" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="64804836J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="08/04/1962" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="116" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="146" text="Calle de Atocha 58" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="170" text="Aranda de Duero" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="176" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="193" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="209" end="214" text="24587" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="222" end="251" text="juanmiguel_gonzalez@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="267" end="283" text="+34 987 61 05 44" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="300" end="316" text="+34 787 95 76 86" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="322" end="329" text="7675671" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="336" end="348" text="796145935172" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="370" end="392" text="Pintor de Construcción" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="427" end="453" text="Víctor Manuel López Crespo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="458" end="467" text="455976563" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="469" end="504" text="Neuropsicólogo Clínico Investigador" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="506" end="576" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="578" end="607" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="609" end="614" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="616" end="622" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="624" end="630" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="650" end="660" text="24/08/1963" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="671" end="679" text="57382960" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="697" end="723" text="Centro de Salud Arganzuela" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="767" end="784" text="ascendencia árabe" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="788" end="794" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="821" end="827" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

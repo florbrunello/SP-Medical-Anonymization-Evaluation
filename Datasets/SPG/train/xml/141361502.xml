@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Beatriz Cabrera Menendez
+DNI: 93383366P
+Fecha de nacimiento: 10/05/2017
+Género: F
+Domicilio: Calle de Santa Engracia 6
+Ciudad: Alcorcón, Formentera, Islas Baleares
+Código postal: 07707
+Email: beatriz_cabrera.menendez@h12o.es
+Teléfono fijo: +34 971 49 15 21
+Teléfono móvil: +34 771 06 67 09
+NHC: 5265589
+NASS: 979563860087
+Condición de riesgo: Conductor de Camión
+
+Datos asistenciales.
+Médico: Dra. María Carmen Maldonado Villanueva. NC 979567370. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 26/03/2022
+Episodio: 77417534
+Hospital: Hospital Universitario Puerto Real
+Matrícula del coche: 1325TSL
+Modelo: BMW 3 Series
+VIN: VSYMH0HK1GT851550
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 4 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Beatriz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="52" text="Cabrera Menendez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="93383366P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="10/05/2017" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="146" text="Calle de Santa Engracia 6" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="163" text="Alcorcón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="175" text="Formentera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="191" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="07707" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="252" text="beatriz_cabrera.menendez@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="268" end="284" text="+34 971 49 15 21" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="301" end="317" text="+34 771 06 67 09" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="323" end="330" text="5265589" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="337" end="349" text="979563860087" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="371" end="390" text="Conductor de Camión" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="653" end="663" text="26/03/2022" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="674" end="682" text="77417534" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="693" end="727" text="Hospital Universitario Puerto Real" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="749" end="756" text="1325TSL" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="783" end="800" text="VSYMH0HK1GT851550" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="841" end="862" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="866" end="872" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="899" end="904" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Miguel Pacheco Castaño
+DNI: 90374314T
+Fecha de nacimiento: 11/01/1926
+Género: M
+Domicilio: Calle del Prado 83
+Ciudad: Puertollano, Salamanca, Castilla y León
+Código postal: 37964
+Email: miguel-pacheco_castano@ucm.es
+Teléfono fijo: +34 923 84 73 24
+FAX: +34 923 63 97 09
+NHC: 9951098
+NASS: 872313646442
+Condición de riesgo: Carpintero
+
+Datos asistenciales.
+Médico: Dra. María Esther Santamaria Ferrer. NC 315423446. Endocrinóloga Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 16/04/1992
+Episodio: 36691227
+Hospital: Hospital de la Santa Creu i Sant Pau
+Matrícula del coche: 1254PJY
+Modelo: Hyundai Elantra
+VIN: VSBJ5HIHLHC077734
+
+Informe clínico del paciente:
+Paciente fumador de 66 años de edad, acompañado de su pareja. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Pacheco Castaño" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="90374314T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="11/01/1926" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="137" text="Calle del Prado 83" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="157" text="Puertollano" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="168" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="185" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="37964" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="243" text="miguel-pacheco_castano@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 923 84 73 24" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 923 63 97 09" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="303" end="310" text="9951098" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="872313646442" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="351" end="361" text="Carpintero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="623" end="633" text="16/04/1992" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="644" end="652" text="36691227" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="663" end="699" text="Hospital de la Santa Creu i Sant Pau" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="721" end="728" text="1254PJY" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="758" end="775" text="VSBJ5HIHLHC077734" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="816" end="823" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="827" end="834" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="861" end="867" text="pareja" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

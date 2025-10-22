@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Antonia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Fuentes Rivero</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">23211613J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/03/2023</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Primavera 42</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Vilanova i la Geltrú</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">17446</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">antonia.rivero@ub.edu</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 93 98 45</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 772 10 82 76</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2521582</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">807795528124</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Daniel Sánchez Rico</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">658326374</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Marqués de Valdecilla</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuelo</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">JI573RHR725</TAG>.
+  </TEXT>
+</MEDDOCAN>

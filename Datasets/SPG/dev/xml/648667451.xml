@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sergio Delgado Lozano
+DNI: 54904219E
+Fecha de nacimiento: 10/07/1980
+Género: M
+Domicilio: Calle del Barquillo 55, 8Z
+Ciudad: Torrelodones, Cádiz, Andalucía
+Código postal: 11836
+Email: lozano@ciberehd.org
+Teléfono fijo: +34 956 36 74 28
+Teléfono móvil: +34 756 10 73 98
+NHC: 5068354
+NASS: 571173577608
+Condición de riesgo: Operador de Máquina
+
+Datos asistenciales.
+Médico: Dra. Fátima Delgado Salas. NC 404747116. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/01/2011
+Episodio: 06958770
+Hospital: Hospital Universitario Infanta Leonor
+Matrícula del coche: 9868GMX
+Modelo: Volkswagen Golf
+VIN: VSCCW2E4Z4R977749
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 30 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Sergio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Delgado Lozano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="54904219E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="10/07/1980" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="144" text="Calle del Barquillo 55, 8Z" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="165" text="Torrelodones" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="172" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="183" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="199" end="204" text="11836" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="212" end="231" text="lozano@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 956 36 74 28" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 756 10 73 98" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="5068354" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="316" end="328" text="571173577608" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="350" end="369" text="Operador de Máquina" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="640" end="650" text="26/01/2011" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="661" end="669" text="06958770" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="680" end="717" text="Hospital Universitario Infanta Leonor" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="739" end="746" text="9868GMX" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="776" end="793" text="VSCCW2E4Z4R977749" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="837" end="863" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="867" end="874" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

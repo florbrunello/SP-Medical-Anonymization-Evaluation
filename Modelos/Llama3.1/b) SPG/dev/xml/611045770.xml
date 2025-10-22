@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Purificación</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Camacho Espinosa</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">10872588M</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">11/05/1956</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Gobernador 21</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Úbeda</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">18842</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">camacho@icloud.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 17 31 57</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 758 97 06 90</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8618980</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">666790110362</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Ama de casa</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alicia Ferrer Rojas</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">646672061</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">14/06/1964</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">00392196</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario La Mancha Centro</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia europea oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>.
+  </TEXT>
+</MEDDOCAN>

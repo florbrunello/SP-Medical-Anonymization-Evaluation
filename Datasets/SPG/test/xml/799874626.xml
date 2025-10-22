@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Manuela Diez Rueda
+DNI: 67411500H
+Fecha de nacimiento: 05/10/1967
+Género: Femenino
+Domicilio: Calle del León 87
+Ciudad: Motril, Burgos, Castilla y León
+Código postal: 09622
+Email: manueladiez@protonmail.com
+Teléfono fijo: +34 947 28 56 74
+Teléfono móvil: +34 747 06 71 98
+NHC: 6489070
+NASS: 618536564341
+
+Datos asistenciales.
+Médico: Dr. Mikel Ibáñez Vázquez. NC 684995246. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 31/01/1991
+Episodio: 22292447
+Centro de salud: Centro de Salud Delicias
+
+Informe clínico del paciente:
+Paciente vegano de 23 años de edad, acompañado de su hijo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Manuela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="46" text="Diez Rueda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="67411500H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="05/10/1967" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="110" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="139" text="Calle del León 87" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="154" text="Motril" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="162" text="Burgos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="179" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="09622" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="234" text="manueladiez@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 947 28 56 74" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 747 06 71 98" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="6489070" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="618536564341" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="366" end="386" text="Mikel Ibáñez Vázquez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="391" end="400" text="684995246" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="402" end="449" text="Investigador Clínico en Enfermedades Digestivas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="451" end="544" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="546" end="575" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="577" end="582" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="584" end="590" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="592" end="598" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="618" end="628" text="31/01/1991" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="639" end="647" text="22292447" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="665" end="689" text="Centro de Salud Delicias" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="730" end="736" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="740" end="747" text="23 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="774" end="778" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

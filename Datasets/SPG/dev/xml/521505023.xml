@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Mercedes Calvo Jurado
+DNI: 74616840X
+Fecha de nacimiento: 03/10/2022
+Género: Mujer
+Domicilio: Calle de las Tres Cruces 68, 2W
+Ciudad: San Pedro del Pinatar, Cantabria, Cantabria
+Código postal: 39830
+Email: jurado@outlook.com
+Teléfono fijo: +34 942 65 36 13
+Teléfono móvil: +34 642 76 22 82
+NHC: 0561216
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dra. María Carmen Morales Iglesias. NC 042296619. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/06/2023
+Episodio: 52387905
+Hospital: Hospital Regional Universitario de Málaga
+
+Informe clínico del paciente:
+Paciente de tez blanca de 8 meses de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Mercedes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="49" text="Calvo Jurado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="74616840X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="03/10/2022" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="110" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="153" text="Calle de las Tres Cruces 68, 2W" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="162" end="183" text="San Pedro del Pinatar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="185" end="194" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="196" end="205" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="221" end="226" text="39830" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="234" end="252" text="jurado@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="268" end="284" text="+34 942 65 36 13" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="301" end="317" text="+34 642 76 22 82" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="323" end="330" text="0561216" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="352" end="370" text="Ingeniero de Minas" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="649" end="659" text="18/06/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="670" end="678" text="52387905" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="689" end="730" text="Hospital Regional Universitario de Málaga" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="774" end="784" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="788" end="795" text="8 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="822" end="829" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

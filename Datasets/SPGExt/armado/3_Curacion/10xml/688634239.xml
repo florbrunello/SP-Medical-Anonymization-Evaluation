@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan Manuel López Rivero</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">11393493Y</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">22/02/1991</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Bravo Murillo 98, 1F</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Majadahonda</TAG>, <TAG TYPE="TERRITORIO">Cáceres</TAG>, <TAG TYPE="TERRITORIO">Extremadura</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">10844</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">juanmanuellopez_rivero@salud.madrid.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 927 12 18 38</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 727 47 17 33</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3315656</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">574391438208</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Granjero</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rosa Alarcon Lozano</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">058544621</TAG>. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">25/12/1994</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">04533089</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Norte</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años</TAG> de edad, acompañado de su madre. Presenta una temperatura corporal de <TAG TYPE="FECHAS">37,5°C</TAG>, pulso de <TAG TYPE="FECHAS">120 latidos por minuto</TAG> y respiración de <TAG TYPE="FECHAS">24 respiraciones por minuto</TAG>. La exploración física revela un estado general bueno, sin signos de dolor ni malestar.
+    La historia clínica del paciente indica que ha estado recibiendo tratamiento para una infección respiratoria durante las últimas semanas. El paciente ha estado tomando medicamentos antibióticos y ha estado bajo observación en el hospital durante varios días.
+    La evolución del paciente ha sido favorable, con una disminución de la fiebre y una mejoría general de su estado de salud. El paciente ha estado recibiendo cuidados intensivos y ha estado bajo vigilancia constante.
+    La exploración de laboratorio ha revelado resultados normales para la sangre y la orina. El paciente ha estado recibiendo pruebas de imagen para evaluar la causa subyacente de su infección.
+    El tratamiento del paciente ha sido dirigido por la <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rosa Alarcon Lozano</TAG>, quien ha estado trabajando en estrecha colaboración con el equipo de atención médica para garantizar la mejoría del paciente.
+    Antecedentes:
+    El paciente tiene una historia de alergia a ciertos medicamentos y alimentos. El paciente ha estado recibiendo tratamiento para una infección respiratoria durante las últimas semanas.
+    Evolución y comentarios:
+    El paciente ha estado recibiendo tratamiento para una infección respiratoria durante las últimas semanas. El paciente ha estado bajo observación en el hospital durante varios días y ha estado recibiendo cuidados intensivos.
+    La evolución del paciente ha sido favorable, con una disminución de la fiebre y una mejoría general de su estado de salud. El paciente ha estado recibiendo pruebas de imagen para evaluar la causa subyacente de su infección.
+    Remitido por:
+    La <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rosa Alarcon Lozano</TAG>, Investigadora Clínica en Enfermedades Digestivas, Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd).
+  </TEXT>
+</MEDDOCAN>

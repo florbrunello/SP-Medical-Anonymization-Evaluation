@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Inés Ortiz Montes
+DNI: 26332127W
+Fecha de nacimiento: 10/12/2012
+Género: Mujer
+Domicilio: Calle de Argumosa 78
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52839
+Email: ines.montes1672@ciberehd.org
+Teléfono fijo: +34 956 28 37 49
+FAX: +34 956 17 15 98
+NHC: 8266637
+NASS: 484408915295
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dr. Valentín Ruiz Carmona. NC 310562934. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/02/2022
+Episodio: 67592056
+Centro de salud: Centro de Salud Collado Villalba
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 9 años de edad, acompañado de su abuela. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.6.81, con dirección MAC 48:61:8E:0C:E6:F6. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Inés" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="45" text="Ortiz Montes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="26332127W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="10/12/2012" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="106" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="138" text="Calle de Argumosa 78" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="171" text="Ciudad autónoma de Ceuta" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="173" end="179" text="Ceuta," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="196" end="201" text="52839" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="209" end="237" text="ines.montes1672@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="253" end="269" text="+34 956 28 37 49" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="275" end="291" text="+34 956 17 15 98" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T13" start="297" end="304" text="8266637" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="311" end="323" text="484408915295" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T15" start="345" end="355" text="Paramédico" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="390" end="411" text="Valentín Ruiz Carmona" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="416" end="425" text="310562934" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="427" end="460" text="Residente de 5° año en Neurología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="462" end="551" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="553" end="582" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="584" end="589" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="591" end="597" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="599" end="605" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="625" end="635" text="19/02/2022" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="646" end="654" text="67592056" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="672" end="704" text="Centro de Salud Collado Villalba" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="745" end="766" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="770" end="776" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="803" end="809" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="915" end="932" text="48:61:8E:0C:E6:F6" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

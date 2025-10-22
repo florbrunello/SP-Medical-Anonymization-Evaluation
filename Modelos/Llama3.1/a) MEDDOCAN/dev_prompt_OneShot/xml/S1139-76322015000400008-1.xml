@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Manuel</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Fernandez de Miguel Rodriguez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9841264</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle Sta. Elena 28, 2 A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Plasencia, Cáceres</TAG>.
+    CP: <TAG TYPE="TERRITORIO">10600</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/11/2009</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">19/05/2018</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Júlia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Morata Alba</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">10 10 58743</TAG>.
+    Informe clínico del paciente: Niño de ocho años con molestias abdominales intermitentes difusas en los últimos años, atribuidas a procesos banales agudos. Sin antecedentes personales ni familiares de interés. Sin infecciones de orina ni otra sintomatología urinaria.
+    Coincidiendo con un episodio de dolor abdominal en hemiabdomen derecho, se realizó una ecografía abdominal, en la que se objetivó una adenitis mesentérica y una dilatación de pelvis renal derecha leve, con sospecha de estenosis de la UPU. Sedimento de orina y urinocultivo normales.
+    Desapareció la clínica de dolor abdominal espontáneamente, pero se remitió a Nefrología Pediátrica para control evolutivo.
+    En la ecografía de control, estando asintomático, se seguía visualizando la dilatación de la vía urinaria con dilatación de pelvis renal derecha grado leve-moderada, por lo que se solicitó renograma isotópico (sospecha de estenosis de la unión pieloureteral). El renograma confirmó una ectasia obstructiva en riñón derecho. En el estudio de gammagrafía renal se objetivó aumento del tamaño renal derecho, con evidente hipocaptación en todo el borde medial, signos de dilatación de vía, con una función renal del 58,8% en riñón izquierdo y del 41,2% en riñón derecho.
+    Ante la dilatación del tracto urinario de causa obstructiva se remitió a Urología Infantil para intervención quirúrgica. Se colocó un catéter de nefrostomía durante unos meses para recuperar y evitar el deterioro de la función renal5,6. Tras la retirada del catéter de nefrostomía se siguieron realizando controles de imagen, clínicos y analíticos, normalizándose progresivamente.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Júlia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Morata Alba</TAG>. <TAG TYPE="CORREO_ELECTRONICO">juliamorataalba@gmail.com</TAG> <TAG TYPE="HOSPITAL">Hospital Virgen Del Puerto Plasencia</TAG>. <TAG TYPE="CALLE">Av. Paraje Valcorchero, S/N</TAG>, <TAG TYPE="TERRITORIO">10600</TAG> <TAG TYPE="TERRITORIO">Plasencia, Cáceres</TAG>.
+  </TEXT>
+</MEDDOCAN>

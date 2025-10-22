@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Virginia Vicente Crespo
+DNI: 31904268W
+Fecha de nacimiento: 01/09/1968
+Género: F
+Domicilio: Paseo de la Castellana 70
+Ciudad: León, Madrid, Madrid
+Código postal: 28322
+Email: virginia-vicente@yahoo.com
+Teléfono fijo: +34 914 18 67 93
+Teléfono móvil: +34 719 71 72 70
+NHC: 6198494
+NASS: 718003080212
+Condición de riesgo: Técnico de Radiología
+
+Datos asistenciales.
+Médico: Dra. Lucía Ruiz Salas. NC 151527305. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/03/1998
+Hospital: Hospital Universitario Fundació Jiménez Díaz
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 29 años de edad, acompañado de su madre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-hospital.org. 

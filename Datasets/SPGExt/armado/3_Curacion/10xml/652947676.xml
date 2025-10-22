@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aitor</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">García Pereira</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">93474320C</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/04/1979</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Isabel 29</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Langreo</TAG>, <TAG TYPE="TERRITORIO">Valladolid</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">47084</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">garcia_pereira@uhu.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 983 35 68 86</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 783 38 67 90</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8104420</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">506721243107</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">No especificada</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Esther</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Maldonado Núñez</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 175583630</TAG>. <TAG TYPE="PROFESION">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">04/03/2003</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">39759106</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Parla</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1026USA</TAG>
+    Modelo: <TAG TYPE="OTRO_SUJETO_ASISTENCIA">Mercedes-Benz C-Class</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSAB6KA0W9U457432</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia del medio oriente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">23 años</TAG> de edad, acompañado de su tía. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">LW779VZP635</TAG>.
+    La exploración física revela: el paciente se encuentra <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consciente, orientado</TAG>, sin signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor ni malestar</TAG>. No se palpan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">adenopatías ni bocio</TAG>. La <TAG TYPE="PROFESION">auscultación cardíaca</TAG> es <TAG TYPE="OTROS_SUJETO_ASISTENCIA">rítmica y sin soplos</TAG>. La <TAG TYPE="PROFESION">auscultación pulmonar</TAG> es <TAG TYPE="OTROS_SUJETO_ASISTENCIA">normal</TAG>. El <TAG TYPE="OTROS_SUJETO_ASISTENCIA">abdomen</TAG> es <TAG TYPE="OTROS_SUJETO_ASISTENCIA">blando y depresible</TAG>. La <TAG TYPE="PROFESION">exploración neurológica</TAG> no muestra signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">meníngeos ni focalidad</TAG>. Las <TAG TYPE="OTROS_SUJETO_ASISTENCIA">extremidades</TAG> están sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">varices ni edemas</TAG>.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="PROFESION">Hemograma</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hb 14,5 g/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">leucocitos 8.500/mm3</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">neutrófilos 60%</TAG>); <TAG TYPE="OTROS_SUJETO_ASISTENCIA">plaquetas 250.000/mm3</TAG>. <TAG TYPE="PROFESION">VSG</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 mm 1ª hora</TAG>. <TAG TYPE="PROFESION">Coagulación</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TQ 90%</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TTPA 25,5 seg</TAG>. <TAG TYPE="PROFESION">Bioquímica</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Glucosa 110 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urea 20 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina 1,0 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sodio 135 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">potasio 3,8 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GOT 15 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GPT 20 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GGT 30 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fosfatasa alcalina 140 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">calcio 8,5 mg/dl</TAG>. <TAG TYPE="PROFESION">Orina</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sedimento normal</TAG>.
+    Se solicitan <TAG TYPE="PROFESION">pruebas de imagen</TAG> (<TAG TYPE="PROFESION">Ecografía abdominal</TAG>, <TAG TYPE="PROFESION">TAC craneal</TAG>) que no evidencian <TAG TYPE="OTROS_SUJETO_ASISTENCIA">patología significativa</TAG>.
+    Con base en la <TAG TYPE="PROFESION">exploración</TAG> y los resultados analíticos, se considera que el paciente no presenta <TAG TYPE="OTROS_SUJETO_ASISTENCIA">signos de enfermedad grave</TAG>. Se le recomienda realizar una <TAG TYPE="PROFESION">revisión médica</TAG> en un plazo de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">6 meses</TAG> para evaluar su estado de salud.
+    Antecedentes:
+    No se registran <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedentes médicos relevantes</TAG>.
+    Evolución y comentarios:
+    No se registran <TAG TYPE="OTROS_SUJETO_ASISTENCIA">comentarios adicionales</TAG>.
+    Remitido por:
+    No se especifica <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">remitido por</TAG>.
+  </TEXT>
+</MEDDOCAN>

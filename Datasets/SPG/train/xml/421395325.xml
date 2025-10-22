@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Inmaculada Cortés Calderon
+DNI: 45900148Z
+Fecha de nacimiento: 17/05/1953
+Género: F
+Domicilio: Calle del Sacramento 39
+Ciudad: Ponferrada, Alicante, Comunidad Valenciana
+Código postal: 03514
+Email: inmaculadacortescalderon@outlook.com
+Teléfono fijo: +34 965 46 08 46
+Teléfono móvil: +34 765 74 94 73
+NHC: 4120205
+NASS: 748722112029
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dr. Felipe Luna Herrera. NC 760533108. Investigador Clínico en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/08/1979
+Episodio: 08611308
+Hospital: Hospital Universitari Vall d'Hebron
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 26 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Inmaculada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="54" text="Cortés Calderon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="45900148Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="17/05/1953" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="111" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="146" text="Calle del Sacramento 39" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="165" text="Ponferrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="175" text="Alicante" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="197" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="03514" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="262" text="inmaculadacortescalderon@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="278" end="294" text="+34 965 46 08 46" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="311" end="327" text="+34 765 74 94 73" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="333" end="340" text="4120205" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="347" end="359" text="748722112029" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="381" end="387" text="Minero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="422" end="441" text="Felipe Luna Herrera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="446" end="455" text="760533108" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="457" end="503" text="Investigador Clínico en Insuficiencia Cardíaca" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="505" end="591" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="593" end="622" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="624" end="629" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="631" end="637" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="639" end="645" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="665" end="675" text="03/08/1979" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="686" end="694" text="08611308" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="705" end="740" text="Hospital Universitari Vall d'Hebron" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="781" end="802" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="806" end="813" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carla</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santamaria Roque</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7861345</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">72 37654757 05</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Avda. Estrella, 66</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28034</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/07/1939</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">65 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">11/02/2005</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Urología</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Celia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Quicios Dorado</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 28902</TAG>.
+    Historia Actual: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">65 años</TAG> sin antecedentes personales de interés que ingresa por cuadro de fiebre elevada sin foco aparente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">1 semana</TAG> de evolución, motivo por el que se realiza <TAG TYPE="PROFESION">TC toracoabdominal</TAG> observando masa de gran tamaño (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">9x8x7 cm</TAG>) en polo superior renal derecho, en íntimo contacto con el hígado.
+    Exploración física: En la exploración física presenta abdomen blando y depresible, globuloso, sin palpación de masas ni megalias. No dolor a la exploración. Puño-percusión renal bilateral negativa.
+    Pruebas complementarias: Analíticamente presenta bioquímica sin alteraciones con perfil hepático, proteínas totales y calcio en rango normal. Hemograma con hemoglobina de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9,4 g/dL</TAG>, y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22.500</TAG> leucocitos (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">N: 72,9%</TAG>). Hemostasia sin hallazgos. Hemocultivos estériles y urocultivos <TAG TYPE="EDAD_SUJETO_ASISTENCIA"><10.000UFC/ml</TAG>.
+    Se instaura tratamiento antibiótico de amplio espectro y antitérmico a pesar de lo cual presenta picos febriles diarios con repercusión clínica en forma de astenia.
+    Ante los hallazgos en <TAG TYPE="PROFESION">TC</TAG> se decide realizar <TAG TYPE="PROFESION">RMN</TAG> confirmando masa sólida en polo superior derecho de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14X10X10 cm</TAG> de diámetro, con gran heterogeneidad de señal y necrosis en su interior. La lesión se extiende en sentido ascendente hacia el hígado con signos de infiltración hepática. La vena renal derecha y vena cava se encuentran libres. Existen adenopatías retrocavas, derrame pleural y engrosamiento diafragmático.
+    Evolución: Dada la afectación hepática se comenta el caso con el servicio de <TAG TYPE="PROFESION">Cirugía General y Digestivo</TAG> acordando realizar <TAG TYPE="PROFESION">TAC Multicorte</TAG> para delimitar con mayor exactitud el nivel de afectación de dicho órgano y planificación de la intervención quirúrgica, apreciando masa heterogénea de aspecto necrótico y diámetro máximo de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">11 cm</TAG> en mitad superior de riñón derecho sin plano de separación de los segmentos postero-superiores de lóbulo hepático derecho, existiendo afectación por contigüidad de los mismos.
+    Previa embolización renal se realiza intervención quirúrgica a través de <TAG TYPE="PROFESION">laparotomía media supra e infraumbilical</TAG>. La exploración muestra tumoración renal que infiltra el hígado (<TAG TYPE="TERRITORIO">segmento VII</TAG>) y diafragma, apreciando adenopatías patológicas en hilio renal y líquido peritoneal libre sin evidencia de implantes peritoneales. Se toman muestras de líquido peritoneal para cultivo, citología y gram con resultado negativo. Se practica <TAG TYPE="PROFESION">nefrectomía radical derecha</TAG> incluyendo en bloque el <TAG TYPE="TERRITORIO">segmento hepático VII</TAG>, <TAG TYPE="TERRITORIO">adrenal derecha</TAG> y porción de <TAG TYPE="TERRITORIO">diafragma</TAG>. <TAG TYPE="PROFESION">Colecistectomía</TAG> y <TAG TYPE="PROFESION">linfadenectomía</TAG>.
+    El análisis anatomopatológico revela un <TAG TYPE="PROFESION">cáncer de células renales</TAG> tipo convencional de alto grado citológico (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">grado 4 de Fuhrman</TAG>), con focos de transformación sarcomatoide y extensas áreas de necrosis tumoral. Dos nódulos satélites en superficie peritoneal de <TAG TYPE="TERRITORIO">diafragma</TAG> y metástasis en un <TAG TYPE="PROFESION">ganglio linfático</TAG> del hilio renal. No afectación del sistema venoso ni excretor renal ni de la <TAG TYPE="PROFESION">glándula suprarrenal</TAG>. Estadio <TAG TYPE="PROFESION">pT4G3N1</TAG> según la <TAG TYPE="PROFESION">UICC</TAG>.
+    Tras un postoperatorio satisfactorio con disminución progresiva de leucocitosis comienza tratamiento quimioterápico oral con inhibidores de la angiogénesis. En el segundo <TAG TYPE="PROFESION">TC</TAG> de control realizado dos meses después de la intervención se evidencia derrame pleural derecho con lesiones nodulares pleurales basales y posteriores. La citología del líquido pleural es compatible con <TAG TYPE="PROFESION">adenocarcinoma</TAG>.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Celia Quicios Dorado</TAG> <TAG TYPE="PROFESION">Servicio de Urología</TAG>. <TAG TYPE="INSTITUCION">Hospital Universitario Ramón y Cajal</TAG> <TAG TYPE="CALLE">Ctra. de Colmenar Viejo, Km 9,100</TAG> - <TAG TYPE="TERRITORIO">28034 Madrid</TAG>. Tel.: <TAG TYPE="NUMERO_TELEFONO">913 368 000</TAG> Email autora: <TAG TYPE="CORREO_ELECTRONICO">cquicios@yahoo.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

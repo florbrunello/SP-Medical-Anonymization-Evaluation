@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Noa</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lozano Montoya</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">34624724H</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">24/07/1986</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de la Lechuga 55</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Xirivella</TAG>, <TAG TYPE="TERRITORIO">Valladolid</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">47018</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">noa-montoya@udc.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 983 49 85 22</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 783 62 03 24</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9314195</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">740823186905</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Mantenimiento</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ismael Cuesta Reyes</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">145012985</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">15/08/1999</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital General Universitario Reina Sofía</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3139VSP</TAG>
+  Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Toyota Corolla</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSBEQD67YSQ339156</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática occidental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermano</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">YN012SRU864</TAG>.
+  </TEXT>
+</MEDDOCAN>

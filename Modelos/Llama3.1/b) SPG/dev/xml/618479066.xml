@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Victoria</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aguilar Garrido</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">16487102N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">01/12/1979</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Huertas 82</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Palma</TAG>, <TAG TYPE="TERRITORIO">Huelva</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">21662</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">aguilar-garrido517@imibic.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 959 67 21 15</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 759 09 66 84</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4678874</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">525448098411</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Fabricante</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Joaquín Plaza Rubio</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">804974294</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Insuficiencia Cardíaca</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">25/08/2013</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">23305240</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Leganés</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2325JLA</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Ram 1500</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSEMOD0V23S602127</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermana</TAG>.
+  </TEXT>
+</MEDDOCAN>

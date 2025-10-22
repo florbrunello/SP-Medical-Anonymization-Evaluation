@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: José Miguel Cruz Beltran
+DNI: 35337546R
+Fecha de nacimiento: 15/04/1954
+Género: H
+Domicilio: Calle de Fortuny 13, 8M
+Ciudad: Estepa, Santa Cruz de Tenerife, Canarias
+Código postal: 38569
+Email: josemiguel@ioba.med.uva.es
+Teléfono fijo: +34 922 86 71 37
+Teléfono móvil: +34 722 40 20 76
+NHC: 8831468
+NASS: 356384068368
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dra. Nerea Maldonado Márquez. NC 020729684. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/03/2013
+Hospital: Hospital Universitari Vall d'Hebron
+
+Informe clínico del paciente:
+Paciente de tez blanca de 58 años de edad, acompañado de su hijo. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es BV535ABK094. 

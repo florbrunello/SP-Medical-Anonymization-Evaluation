@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lara</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Heredia Rubio</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">94087329X</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">18/11/1949</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Rollo 79</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Guadix</TAG>, <TAG TYPE="TERRITORIO">Teruel</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">44287</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">lara.heredia-rubio@protonmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 978 12 64 87</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 678 18 06 62</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4069146</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">932298415797</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Albert Diez Mora</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">806880457</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/06/1966</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Río Hortega</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1305XNR</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Honda Civic</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSSD8DVVN1C081428</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">16 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

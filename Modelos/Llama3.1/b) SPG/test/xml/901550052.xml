@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Matilde</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vázquez Vila</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">59336718F</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/09/1969</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Juan Bravo 39</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Jaca</TAG>, <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">37044</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">matilde@ioba.med.uva.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 39 15 18</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 723 88 98 45</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4327579</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Maquinaria Pesada</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Belén Parra Miguel</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">774983487</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/12/1978</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">31366851</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Barajas</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia del medio oriente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. Se realizó un <TAG TYPE="DIREC_PROT_INTERNET">expediente con URL</TAG> <TAG TYPE="URL_WEB">http://example-healthcare.net//58989623R</TAG>.
+  </TEXT>
+</MEDDOCAN>

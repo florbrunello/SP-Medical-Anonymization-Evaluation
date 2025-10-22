@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Ramón Vicente Salazar</TAG>.
+  DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">91686845J</TAG>.
+  Fecha de nacimiento: <TAG TYPE="FECHAS">17/02/1953</TAG>.
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+  Domicilio:  <TAG TYPE="CALLE">Calle de la Reina 49, 7T</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Pamplona</TAG>, <TAG TYPE="TERRITORIO">Sevilla</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>.
+  Código postal: <TAG TYPE="TERRITORIO">41165</TAG>.
+  Email: <TAG TYPE="CORREO_ELECTRONICO">joseramon.salazar@udc.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 57 66 18</TAG>.
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 654 43 19 25</TAG>.
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5782796</TAG>.
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">661459126610</TAG>.
+  Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Minería</TAG>
+  Datos asistenciales.
+  Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernando</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Benítez Ferrer</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">720346537</TAG>. <TAG TYPE="PROFESION">Residente de 5° año en Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">03/04/2004</TAG>.
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Delicias</TAG>
+  Informante: <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">Abuela del paciente</TAG>
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">51 años</TAG> de edad, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG>, que acude a consulta con síntomas de... 
+  </TEXT>
+</MEDDOCAN>

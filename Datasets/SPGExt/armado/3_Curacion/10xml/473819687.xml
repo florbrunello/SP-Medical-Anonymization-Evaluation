@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ismael De la Fuente Ferrer</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">11401440H</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/01/1935</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Mayor 83</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Jaén</TAG>, <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">38674</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ismael@ciberehd.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 922 31 47 30</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 622 56 87 79</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8362853</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">734963587204</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Minería</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jorge Lara Rivera</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 749350177</TAG>. <TAG TYPE="PROFESION">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">06/12/2003</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">31724173</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Regional Universitario de Málaga</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6561POQ</TAG>.
+    Modelo: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">Toyota Corolla</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSZ3658I9FS625848</TAG>.
+    Informe clínico del paciente:
+    Paciente consumidor de alcohol de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">68 años</TAG> de edad, acompañado de su hermana. Presenta antecedentes de consumo excesivo de alcohol durante más de 20 años, lo que ha llevado a un deterioro progresivo de su salud. En la exploración física se observan signos de malnutrición, como un peso corporal inferior al normal y una pérdida de masa muscular. También se detectan signos de envejecimiento prematuro, como arrugas y pérdida de cabello.
+    La evolución clínica del paciente ha sido marcada por episodios recurrentes de intoxicación etílica, lo que ha llevado a complicaciones como la hepatosis alcohólica y la neuropatía periférica. En la exploración neurológica se observan signos de deterioro cognitivo, como dificultad para concentrarse y recordar información.
+    Los resultados de las pruebas diagnósticas muestran un aumento de la bilirrubina y la alanina aminotransferasa en sangre, lo que sugiere una lesión hepática. También se detecta una disminución de la función renal, lo que puede estar relacionada con el consumo excesivo de alcohol.
+    El tratamiento recomendado para el paciente consiste en una terapia de reemplazo de sustancias, que incluye la administración de vitaminas y minerales esenciales. También se recomienda una terapia psicológica para ayudar al paciente a manejar su consumo de alcohol y a evitar episodios de intoxicación. Se le recomienda a la familia del paciente que busque apoyo en un grupo de apoyo para familiares de personas con trastornos del consumo de alcohol.
+    Evolución y comentarios:
+    El paciente ha estado bajo tratamiento durante varias semanas, pero ha presentado dificultades para adherirse a la terapia. Se le ha ofrecido apoyo adicional, como sesiones de terapia individual y grupo, pero ha sido difícil para él comprometerse con el tratamiento. Se le recomienda una evaluación más detallada de su situación para determinar la mejor forma de abordar sus necesidades.
+    Remitido por:
+    Se le remite al paciente a un especialista en medicina de adicciones para una evaluación más detallada de su situación y para determinar la mejor forma de abordar sus necesidades. Se le recomienda que busque apoyo en un grupo de apoyo para familiares de personas con trastornos del consumo de alcohol.
+  </TEXT>
+</MEDDOCAN>

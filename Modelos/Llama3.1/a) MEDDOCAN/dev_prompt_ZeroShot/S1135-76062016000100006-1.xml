@@ -1,0 +1,83 @@
+```xml
+<informe_clinico>
+  <datos_paciente>
+    <NOMBRE_SUJETO_ASISTENCIA start="0" end="9">Francisco</NOMBRE_SUJETO_ASISTENCIA>
+    <APELLIDOS_SUJETO_ASISTENCIA start="11" end="25">Ruano Gutierrez</APELLIDOS_SUJETO_ASISTENCIA>
+    <NHC start="27" end="32">8245956</NHC>
+    <NASS start="34" end="45">79 58768954 02</NASS>
+    <DIREC start="47" end="63">C/ Sainz de Baranda, 19, 5 G</DIREC>
+    <LOCALIDAD start="65" end="74">Madrid</LOCALIDAD>
+    <PROVINCIA start="76" end="81">Madrid</PROVINCIA>
+    <CP start="83" end="88">28031</CP>
+  </datos_paciente>
+  <datos_asistenciales>
+    <FECHA_NACIMIENTO start="90" end="101">21/08/1987</FECHA_NACIMIENTO>
+    <PAIS_NACIMIENTO start="103" end="110">España</PAIS_NACIMIENTO>
+    <EDAD_SUJETO_ASISTENCIA start="112" end="115">30</EDAD_SUJETO_ASISTENCIA>
+    <SEXO_SUJETO_ASISTENCIA start="117" end="118">H</SEXO_SUJETO_ASISTENCIA>
+    <FECHA_INGRESO start="120" end="131">19/11/2017</FECHA_INGRESO>
+    <NOMBRE_PERSONAL_SANITARIO start="133" end="147">María Sandra Alfageme Redondo</NOMBRE_PERSONAL_SANITARIO>
+    <NRCOL start="149" end="152">28 28</NRCOL>
+  </datos_asistenciales>
+  <informe_clinico_paciente>
+    <TEXTO start="154" end="159">Se trataba de un varón heterosexual</TEXTO>
+    <TEXTO start="161" end="165">de 30 años de edad</TEXTO>
+    <TEXTO start="167" end="173">con antecedentes personales</TEXTO>
+    <TEXTO start="175" end="181">de bajo rendimiento escolar</TEXTO>
+    <TEXTO start="183" end="191">y patrón de crianza tipo sobreprotector</TEXTO>
+    <TEXTO start="193" end="202">Relación de pareja estable desde hacía varios años y una hija</TEXTO>
+    <TEXTO start="204" end="214">En el momento de la exploración se encontraba pendiente de juicio</TEXTO>
+    <TEXTO start="216" end="224">por dos agresiones sexuales</TEXTO>
+    <TEXTO start="226" end="232">entre las cuales mediaba una semana de diferencia</TEXTO>
+    <TEXTO start="234" end="242">habiéndose empleado en ambas un instrumento intimidatorio (navaja)</TEXTO>
+    <TEXTO start="244" end="253">y presentando la segunda de las víctimas lesiones</TEXTO>
+    <TEXTO start="255" end="265">como consecuencia de la resistencia que opuso (luxación de hombro)</TEXTO>
+    <TEXTO start="267" end="273">Carecía de antecedentes penales</TEXTO>
+  </informe_clinico_paciente>
+  <hechos_imputados>
+    <TEXTO start="275" end="280">En relación a estos</TEXTO>
+    <TEXTO start="282" end="288">narra la introducción en su coche</TEXTO>
+    <TEXTO start="290" end="296">bajo intimidación con arma blanca</TEXTO>
+    <TEXTO start="298" end="304">de una desconocida “que le gustó”</TEXTO>
+    <TEXTO start="306" end="314">a la que realizó tocamientos y le dio un beso</TEXTO>
+    <TEXTO start="316" end="324">tras convencerle la misma de que no fuese más allá</TEXTO>
+    <TEXTO start="326" end="334">por el bien de su hija</TEXTO>
+    <TEXTO start="336" end="344">La dejó en la puerta de su casa</TEXTO>
+    <TEXTO start="346" end="354">con amenazas de poder localizarla en caso de contar lo sucedido</TEXTO>
+    <TEXTO start="356" end="366">Tras aproximadamente una semana</TEXTO>
+    <TEXTO start="368" end="376">volvió a repetir la misma secuencia</TEXTO>
+    <TEXTO start="378" end="386">si bien en esta ocasión la víctima intentó huir del coche</TEXTO>
+    <TEXTO start="388" end="396">provocándose lesiones al ser sujetada por el peritado</TEXTO>
+  </hechos_imputados>
+  <hallazgos_relevantes>
+    <TEXTO start="398" end="404">Destacó la existencia de un bajo nivel de activación sexual</TEXTO>
+    <TEXTO start="406" end="414">así como una alta frecuencia en la práctica de distintas actividades sexuales</TEXTO>
+    <TEXTO start="416" end="426">coito y masturbación</TEXTO>
+    <TEXTO start="428" end="436">El peritado presentó diversas conductas sexuales desviadas</TEXTO>
+    <TEXTO start="438" end="446">que se iniciaron con prácticas con escasa interacción con las víctimas</TEXTO>
+    <TEXTO start="448" end="456">voyeurismo con masturbación</TEXTO>
+    <TEXTO start="458" end="466">produciéndose paulatinamente un incremento de la interacción</TEXTO>
+    <TEXTO start="468" end="476">tanto de tipo verbal como físico</TEXTO>
+    <TEXTO start="478" end="486">hasta llegar a los hechos que se le imputaron</TEXTO>
+    <TEXTO start="488" end="496">Consumidor habitual de pornografía y ocasional de prostitución</TEXTO>
+  </hallazgos_relevantes>
+  <hallazgos_psicopatológicos>
+    <TEXTO start="498" end="504">No se encontraron alteraciones significativas en el eje I</TEXTO>
+    <TEXTO start="506" end="514">Dado que mientras estuvo en prisión</TEXTO>
+    <TEXTO start="516" end="524">y previamente al reconocimiento médico forense</TEXTO>
+    <TEXTO start="526" end="534">se le realizó un diagnóstico de retraso mental ligero</TEXTO>
+    <TEXTO start="536" end="544">por parte del psicólogo de una organización no gubernamental</TEXTO>
+    <TEXTO start="546" end="554">se derivó a la psicóloga forense para apoyar la presunción diagnóstica</TEXTO>
+    <TEXTO start="556" end="564">de inteligencia límite con pruebas psicométricas</TEXTO>
+    <TEXTO start="566" end="574">que no resultaron válidas en lo que respecta al cálculo del coeficiente intelectual</TEXTO>
+    <TEXTO start="576" end="584">por la escasa colaboración del peritado</TEXTO>
+    <TEXTO start="586" end="594">llegándose a la conclusión diagnóstica de inteligencia límite</TEXTO>
+    <TEXTO start="596" end="604">en base a las habilidades adaptativas del mismo</TEXTO>
+    <TEXTO start="606" end="614">tras exploración clínica y aplicación de la Escala de Intensidad de Apoyos</TEXTO>
+  </hallazgos_psicopatológicos>
+  <responsable_clinico>
+    <NOMBRE_PERSONAL_SANITARIO start="616" end="630">Dra. María Sandra Alfageme Redondo</NOMBRE_PERSONAL_SANITARIO>
+    <CORREO_ELECTRONICO start="632" end="651">marias.alfageme@juntadeandalucia.es</CORREO_ELECTRONICO>
+  </responsable_clinico>
+</informe_clinico>
+```

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Belinda</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alaniz Olivas</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8439754</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">38 47563379 20</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Avda. Europa, 19</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Alcobendas</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28109</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/12/1913</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">86 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">13/07/2000</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Jesús</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Morán</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 94675</TAG>.
+    Informe clínico del paciente: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">86 años</TAG> afáquica tras extracción de cataratas en <TAG TYPE="FECHAS">1999</TAG> complicada con rotura capsular y salida de vítreo. Tres años más tarde, acude a consulta con sensación de cuerpo extraño y fotofobia. Percibe luz por ojo derecho, en la lámpara de hendidura se observa edema corneal en los 3 mm más periféricos. Se realiza microscopía especular. Se decide realizar queratoplastia penetrante debido a la baja densidad de células endoteliales centrales y a las molestias de la paciente. La córnea de la paciente se analiza histológicamente confirmando el diagnóstico de BML y mostrando desprendimiento y rotura de la membrana de Descemet y del endotelio en la zona de la periferia, siendo normal la zona central. A los 18 meses el botón corneal se mantiene transparente, sin edema, consiguiéndose una visión corregida de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">0,2</TAG> (por edema macular quístico).
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Jesús</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Morán</TAG>. <TAG TYPE="CALLE">Paseo de los Parques nº 26, ch.2</TAG>. <TAG TYPE="TERRITORIO">Alcobendas</TAG> <TAG TYPE="TERRITORIO">28109</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="PAIS">España</TAG> e-mail: <TAG TYPE="CORREO_ELECTRONICO">mjmoransoto@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

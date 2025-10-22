@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rubén Sánchez Vera
+DNI: 10418102E
+Fecha de nacimiento: 03/05/1938
+Género: M
+Domicilio: Calle de la Princesa 12
+Ciudad: Zaragoza, Menorca, Islas Baleares
+Código postal: 07457
+Email: sanchez-vera1742@ual.es
+Teléfono fijo: +34 971 89 82 57
+Teléfono móvil: +34 771 31 18 96
+NHC: 8047017
+NASS: 995436734595
+Condición de riesgo: Montador
+
+Datos asistenciales.
+Médico: Dr. Gonzalo Hernández Gutiérrez. NC 843559392. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 04/09/1954
+Episodio: 69000350
+Hospital: Hospital Universitario Nuestra Señora de Candelaria
+Matrícula del coche: 1543XSL
+Modelo: Tesla Model 3
+VIN: VSDU68V8HBS790962
+
+Informe clínico del paciente:
+Paciente vegano de 16 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Rubén" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="46" text="Sánchez Vera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="10418102E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="03/05/1938" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="138" text="Calle de la Princesa 12" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="155" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="164" text="Menorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="180" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="07457" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="232" text="sanchez-vera1742@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 971 89 82 57" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 771 31 18 96" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="8047017" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="995436734595" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="351" end="359" text="Montador" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="394" end="421" text="Gonzalo Hernández Gutiérrez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="426" end="435" text="843559392" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="437" end="477" text="Investigador Clínico en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="479" end="546" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="548" end="575" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="577" end="582" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="584" end="591" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="593" end="599" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="619" end="629" text="04/09/1954" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="640" end="648" text="69000350" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="659" end="710" text="Hospital Universitario Nuestra Señora de Candelaria" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="732" end="739" text="1543XSL" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="767" end="784" text="VSDU68V8HBS790962" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="825" end="831" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="835" end="842" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="869" end="874" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

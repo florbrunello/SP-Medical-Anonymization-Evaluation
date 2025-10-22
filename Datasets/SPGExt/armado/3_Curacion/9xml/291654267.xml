@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rosario</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Román Heredia</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">81789631K</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/10/1950</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de las Yeserías 85, 1Y</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Toledo</TAG>, <TAG TYPE="TERRITORIO">León</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">24167</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">rosario.heredia1697@ciberer.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 987 43 37 21</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 787 70 12 73</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5822091</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Operador de Maquinaria Agrícola</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Felipe Vidal Domínguez</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 038790360</TAG>. <TAG TYPE="PROFESION">Residente de 5° año en Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/04/2023</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">98895957</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Torrejón de Ardoz</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5008UYD</TAG>.
+    Modelo: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">Subaru Outback</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSGAF3LQAVC704613</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTRO_NUMERO_IDENTIF">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">72 años</TAG> de edad, acompañado de su pareja, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, que acude al servicio de urgencias con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal crónico</TAG>, especialmente en la región lumbar, con irradiación a la región glútea. El paciente refiere una pérdida de peso de 5 kg en las últimas 2 semanas, acompañada de una disminución de la apetencia y una sensación de malestar general.
+    La exploración física revela: temperatura corporal de <TAG TYPE="FECHAS">36,8°C</TAG>, pulso de <TAG TYPE="FECHAS">80 rpm</TAG>, frecuencia respiratoria de <TAG TYPE="FECHAS">18 rpm</TAG>, tensión arterial de <TAG TYPE="FECHAS">140/90 mmHg</TAG>, y una exploración abdominal que muestra una masa palpable en la región lumbar, con una longitud de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">10 cm</TAG> y una anchura de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">5 cm</TAG>, con una consistencia firme y sin dolor a la palpación.
+    Los resultados de los análisis de sangre muestran: hemoglobina de <TAG TYPE="FECHAS">12,5 g/dl</TAG>, leucocitos de <TAG TYPE="FECHAS">8.500/mm3</TAG>, y una glucemia de <TAG TYPE="FECHAS">120 mg/dl</TAG>. La ecografía abdominal realizada muestra una masa en la región lumbar, con características de un tumor.
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumor abdominal</TAG>, se decide realizar una biopsia de la masa para determinar su naturaleza. El paciente es derivado al servicio de cirugía para realizar la biopsia y se le prescribe un tratamiento conservador para la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>.
+    Evolución y comentarios:
+    El paciente se somete a la biopsia y se obtiene una muestra de tejido para su análisis. Los resultados de la biopsia muestran que la masa es un tumor de células renales, de tipo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">carcinoma renal</TAG>. El paciente es informado de su diagnóstico y se le explica el tratamiento que se le ofrece, que incluye una cirugía para remover el tumor y un tratamiento adyuvante con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">quimioterapia</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">radioterapia</TAG>.
+    Remitido por:
+    El paciente es remitido al servicio de cirugía para realizar la cirugía y se le prescribe un tratamiento conservador para la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>.
+  </TEXT>
+</MEDDOCAN>

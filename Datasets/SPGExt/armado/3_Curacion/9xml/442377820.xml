@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ángel Casas Montoya</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">16965594N</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/10/1984</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Fúcar 85, 6D</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Liria, Granada, Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">18463</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">angelcasas_montoya@isciii.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 55 08 22</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 658 89 68 61</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9360936</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Enrique Márquez Durán</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">203039696</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Epidemiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/04/2010</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Complejo Hospitalario Torrecárdenas</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">25 años</TAG> de edad, que acude a la consulta con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas de dolor abdominal crónico</TAG>, con episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diarrea</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estreñimiento</TAG>. El paciente reporta una dieta <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariana estricta</TAG> durante los últimos 5 años, con una ingesta diaria de aproximadamente 1500 kcal. El paciente también reporta una historia de antecedentes familiares de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">enfermedades gastrointestinales</TAG>.
+    La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. El paciente se encuentra consciente, orientado, sin sudoración ni fiebre. La exploración abdominal revela una masa en el quicio derecho, con dolor en la palpación.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 10.000/mm3 (neutrófilos 60%); plaquetas 200.000/ mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,8 seg. Bioquímica: Glucosa 90 mg/dl; urea 15 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 20 U/l; GPT 15 U/l; GGT 25 U/l; fosfatasa alcalina 100 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía abdominal, Rx abdominal) que revelan una masa en el quicio derecho, con características de un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">quiste hidatídico</TAG>.
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">quiste hidatídico</TAG> se instaura tratamiento quirúrgico (excisión del quiste) y tratamiento antibiótico específico (Metronidazol 500 mg vía oral cada 8 horas durante 10 días). El paciente se somete a la cirugía con éxito y se le dispensa medicación para la profilaxis de recaídas.
+    Antecedentes:
+    El paciente tiene una historia de antecedentes familiares de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">enfermedades gastrointestinales</TAG>, específicamente su padre padeció de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">enfermedad de Crohn</TAG>.
+    Evolución y comentarios:
+    El paciente se somete a la cirugía con éxito y se le dispensa medicación para la profilaxis de recaídas. El paciente se mantiene en observación en el hospital durante 5 días, con un seguimiento regular de la evolución clínica.
+    Remitido por:
+    El paciente es remitido a su domicilio, con instrucciones para seguir el tratamiento antibiótico y la profilaxis de recaídas. Se le asigna un seguimiento regular en el hospital para controlar la evolución clínica.
+  </TEXT>
+</MEDDOCAN>

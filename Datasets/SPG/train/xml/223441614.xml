@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Lucas Arroyo Vera
+DNI: 46410079N
+Fecha de nacimiento: 25/12/1981
+Género: V
+Domicilio: Calle del Pez 9
+Ciudad: Lorca, Navarra, Navarra
+Código postal: 31495
+Email: uoua8uzvzO189@udc.es
+Teléfono fijo: +34 948 72 23 72
+Teléfono móvil: +34 748 44 90 97
+NHC: 4576022
+NASS: 795680807015
+
+Datos asistenciales.
+Médico: Dra. Magdalena Abad Guerrero. NC 109784467. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/03/1994
+Episodio: 21877188
+Hospital: Complejo Hospitalario Universitario de Santiago
+Matrícula del coche: 0943ASR
+Modelo: Subaru Outback
+VIN: VSKM7NRI24E517433
+
+Informe clínico del paciente:
+Paciente vegetariano de 12 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Lucas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="45" text="Arroyo Vera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="46410079N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="25/12/1981" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="129" text="Calle del Pez 9" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="138" end="143" text="Lorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="145" end="152" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="154" end="161" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="177" end="182" text="31495" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="190" end="210" text="uoua8uzvzO189@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="226" end="242" text="+34 948 72 23 72" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="259" end="275" text="+34 748 44 90 97" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="281" end="288" text="4576022" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="295" end="307" text="795680807015" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="582" end="592" text="25/03/1994" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="603" end="611" text="21877188" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="622" end="669" text="Complejo Hospitalario Universitario de Santiago" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="691" end="698" text="0943ASR" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="727" end="744" text="VSKM7NRI24E517433" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="785" end="796" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="800" end="807" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="834" end="839" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

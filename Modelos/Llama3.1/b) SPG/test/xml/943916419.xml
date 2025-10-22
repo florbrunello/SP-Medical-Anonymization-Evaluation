@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan Manuel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ortega Pereira</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">83720236Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/08/1987</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Tres Cruces 63</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Xirivella</TAG>, <TAG TYPE="TERRITORIO">Tarragona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">43614</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">pereira@udc.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 977 41 11 44</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 677 09 25 83</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6532000</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">086942330322</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Residuos Sólidos</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ángel Jurado Campos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">089003889</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">60610448</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Majadahonda</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">descendencia africana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> de edad. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de firma biométrica</TAG>, el <TAG TYPE="IDENTIF_BIOMETRICOS">código obtenido para revisarla</TAG> es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">MP762BAR893</TAG>.
+  </TEXT>
+</MEDDOCAN>

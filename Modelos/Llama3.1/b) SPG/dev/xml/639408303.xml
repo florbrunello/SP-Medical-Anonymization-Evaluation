@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Eva María</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Delgado Molina</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">72804603N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">20/06/1935</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Oso 71</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Linares</TAG>, <TAG TYPE="TERRITORIO">Huesca</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">22185</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">evamariadelgado@ciberisciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 974 00 51 84</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 774 47 24 53</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7605862</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Mantenimiento</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Anna Luna Díaz</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">482987960</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/07/1968</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">65142039</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Universitario San Cecilio</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">judío</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG> de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">LZ015INQ525</TAG>. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">PP339ZKL007</TAG>.
+  </TEXT>
+</MEDDOCAN>

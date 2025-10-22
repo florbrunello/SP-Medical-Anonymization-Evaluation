@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cristina</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Serrano Marcos</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">15908048Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/11/1994</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Carmen 1, 3J</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">San Fernando</TAG>, <TAG TYPE="TERRITORIO">Toledo</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">45516</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">cristinamarcos@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 925 58 59 39</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 625 68 43 23</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4664756</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">672040700910</TAG>
+    Condición de riesgo: 
+    <TAG TYPE="OTROS_SUJETO_ASISTENCIA">discapacitado</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Arturo Rojas Vázquez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">871068465</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">23/01/2017</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alcorcón</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">discapacitado</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hijo</TAG>. Se registró una sesión de <TAG TYPE="PROFESION">escaneo retiniano</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">RZ864RAG024</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Bruno González Lozano
+DNI: 59374494V
+Fecha de nacimiento: 30/12/2001
+Género: H
+Domicilio: Calle de la Luna 49
+Ciudad: Albacete, Guipúzcoa, Pais Vasco
+Código postal: 20879
+Email: bruno_gonzalez-lozano849@ciberehd.org
+Teléfono fijo: +34 943 71 11 98
+FAX: +34 943 40 65 66
+NHC: 2231615
+NASS: 348546837318
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dr. Jesús Conde Sánchez. NC 170512836. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/09/2018
+Centro de salud: Centro de Salud Móstoles
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 16 años de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es MM718BZK890. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Bruno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="49" text="González Lozano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="59374494V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="30/12/2001" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="137" text="Calle de la Luna 49" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="154" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="165" text="Guipúzcoa" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="167" end="177" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="193" end="198" text="20879" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="206" end="243" text="bruno_gonzalez-lozano849@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 943 71 11 98" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 943 40 65 66" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="303" end="310" text="2231615" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="348546837318" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="351" end="358" text="Bombero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="393" end="412" text="Jesús Conde Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="417" end="426" text="170512836" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="428" end="461" text="Residente de 5° año en Neurología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="463" end="552" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="554" end="583" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="585" end="590" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="592" end="598" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="600" end="606" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="626" end="636" text="05/09/2018" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="654" end="678" text="Centro de Salud Móstoles" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="719" end="736" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="740" end="747" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T29" start="839" end="850" text="MM718BZK890" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

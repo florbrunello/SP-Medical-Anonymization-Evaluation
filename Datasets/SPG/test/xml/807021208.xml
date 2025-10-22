@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juana Rico Parra
+DNI: 77500501T
+Fecha de nacimiento: 02/05/2004
+Género: M
+Domicilio: Calle de los Jardines 26, 7K
+Ciudad: Vigo, Guadalajara, Castilla-La Mancha
+Código postal: 19013
+Email: rico1351@yahoo.com
+Teléfono fijo: +34 949 05 26 97
+Teléfono móvil: +34 649 85 61 54
+NHC: 1216704
+Condición de riesgo: Trabajador de Línea de Producción
+
+Datos asistenciales.
+Médico: Dr. Julio Menendez Aranda. NC 617614489. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/05/2004
+Episodio: 41158901
+Hospital: Hospital Universitario Reina Sofía de Córdoba
+Matrícula del coche: 7812TRC
+Modelo: Ram 1500
+VIN: VSR18G70O4P571933
+
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 0 meses de edad, acompañado de su padre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.96.26, con dirección MAC 63:47:28:47:6A:74. Se realizó un expediente con URL http://example-research.net//69359096Y. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Juana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="44" text="Rico Parra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="77500501T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="02/05/2004" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="101" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="113" end="141" text="Calle de los Jardines 26, 7K" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="154" text="Vigo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="167" text="Guadalajara" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="187" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="19013" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="234" text="rico1351@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 949 05 26 97" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 649 85 61 54" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="1216704" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="334" end="367" text="Trabajador de Línea de Producción" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="402" end="423" text="Julio Menendez Aranda" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="428" end="437" text="617614489" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="439" end="476" text="Investigador Clínico en Epidemiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="478" end="562" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="564" end="593" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="595" end="600" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="602" end="608" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="610" end="616" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="636" end="646" text="08/05/2004" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="657" end="665" text="41158901" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="676" end="721" text="Hospital Universitario Reina Sofía de Córdoba" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="743" end="750" text="7812TRC" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="773" end="790" text="VSR18G70O4P571933" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="834" end="857" text="comunidades vulnerables" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="861" end="868" text="0 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="895" end="900" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="1007" end="1024" text="63:47:28:47:6A:74" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <OTHER id="T33" start="1059" end="1082" text="http://example-research" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

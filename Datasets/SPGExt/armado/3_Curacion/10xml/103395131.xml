@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Moisés Roldan Garrido</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">33227471S</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/05/2014</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Miguel Ángel 56</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Lugo, Zaragoza, Aragón</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">50421</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">moises-garrido597@outlook.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 976 63 75 65</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 676 97 05 11</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8942157</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">657247003376</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Albañil</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Aarón Heredia Vega</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 257510987</TAG>. <TAG TYPE="PROFESION">Residente de 5° año en Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Episodio: <TAG TYPE="ID_SUJETO_ASISTENCIA">60101238</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital General de Villalba</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2336QHI</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Ford F-150</TAG>
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSTVQHE119N916394</TAG>
+    Informe clínico del paciente:
+    Paciente usuario de drogas de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 años</TAG> de edad, acompañado de su padre. Presenta síntomas de abstinencia y dependencia a una sustancia no especificada. La exploración física revela signos de agitación y ansiedad, con aumento de la frecuencia cardíaca y presión arterial. Se solicitan pruebas de toxicología y análisis de sangre para determinar la sustancia involucrada y la gravedad de la situación.
+    Antecedentes:
+    El paciente tiene antecedentes de problemas de conducta y ajuste social, con historial de uso de sustancias desde los 8 años de edad. Su padre informa que ha intentado intervenir en varias ocasiones, pero el paciente no ha mostrado interés en recibir ayuda.
+    Evolución y comentarios:
+    El paciente ha sido ingresado en la unidad de psiquiatría infantil para recibir tratamiento y seguimiento. Se le ha prescrito medicación para controlar los síntomas de abstinencia y se le ha ofrecido terapia cognitivo-conductual para abordar los problemas de conducta y ajuste social. El padre del paciente ha sido informado sobre la situación y se le ha ofrecido apoyo y recursos para ayudar a su hijo.
+    Remitido por:
+    El paciente ha sido remitido por su padre, quien ha expresado su preocupación por la situación de su hijo y ha solicitado ayuda profesional para abordar el problema de uso de sustancias.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Enrique Gil Rivas
+DNI: 15453208Z
+Fecha de nacimiento: 30/01/1946
+Género: V
+Domicilio: Calle de Alcalá 32
+Ciudad: Úbeda, Ibiza, Islas Baleares
+Código postal: 07428
+Email: enrique@us.es
+Teléfono fijo: +34 971 58 36 72
+FAX: +34 971 46 55 47
+NHC: 4786504
+Condición de riesgo: Técnico de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. Lucas Mateo Andres. NC 675526823. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/04/1968
+Episodio: 53860558
+Centro de salud: Centro de Salud Fuencarral
+Matrícula del coche: 5937PBG
+Modelo: Chevrolet Silverado
+VIN: VSXVPCIMXMM633878
+
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 22 años de edad, acompañado de su hija. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es SY149ZAA078. Se registró una sesión de firma biométrica, el código obtenido para revisarla es NU943MUQ472. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Enrique" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="45" text="Gil Rivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="15453208Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="30/01/1946" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="132" text="Calle de Alcalá 32" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="141" end="146" text="Úbeda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="148" end="153" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="155" end="169" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="185" end="190" text="07428" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="198" end="211" text="enrique@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="227" end="243" text="+34 971 58 36 72" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="249" end="265" text="+34 971 46 55 47" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="271" end="278" text="4786504" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="300" end="322" text="Técnico de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="357" end="375" text="Lucas Mateo Andres" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="380" end="389" text="675526823" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="391" end="423" text="Residente de 2° año en Pediatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="425" end="500" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="502" end="531" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="533" end="538" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="540" end="546" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="548" end="554" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="574" end="584" text="16/04/1968" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="595" end="603" text="53860558" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="621" end="647" text="Centro de Salud Fuencarral" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="669" end="676" text="5937PBG" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="710" end="727" text="VSXVPCIMXMM633878" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="771" end="788" text="ascendencia árabe" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="792" end="799" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="826" end="830" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T32" start="914" end="925" text="SY149ZAA078" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T33" start="1008" end="1019" text="NU943MUQ472" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

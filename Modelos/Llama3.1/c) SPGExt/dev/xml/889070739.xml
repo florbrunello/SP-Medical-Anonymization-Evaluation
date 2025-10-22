@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Isaac</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Roca Sáez</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">81099461N</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/03/1936</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Espíritu Santo 81</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Bormujos, </TAG><TAG TYPE="TERRITORIO">Tarragona, </TAG><TAG TYPE="TERRITORIO">Cataluña</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">43169</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">isaac-roca@uhu.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 977 63 20 22</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 677 46 24 22</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2057513</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">468043486571</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Granjero</TAG>.
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Andrés</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Palacios Delgado</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">276756877</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/03/1995</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="HOSPITAL">Hospital General de Villalba</TAG>.
+    Informe clínico del paciente:
+    Paciente víctima de desastre de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">59 años</TAG> de edad, con lesiones múltiples y graves, tras ser evacuado de un área afectada por un terremoto. Presenta <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fractura de clavícula</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fractura de brazo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lesiones en la cabeza y torso</TAG>. El paciente está en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estado crítico</TAG> y requiere <TAG TYPE="OTROS_SUJETO_ASISTENCIA">atención inmediata</TAG> en la unidad de cuidados intensivos.
+    Antecedentes:
+    El paciente no tiene <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedentes médicos relevantes</TAG>.
+    Evolución y comentarios:
+    El paciente ha sido sometido a un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">examen físico</TAG> y se han realizado <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pruebas de imagen</TAG> para evaluar la gravedad de las lesiones. Se espera que el paciente sea sometido a una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cirugía de emergencia</TAG> para estabilizar las fracturas y tratar las lesiones.
+    Remitido por:
+    El paciente ha sido remitido por el <TAG TYPE="PROFESION">Servicio de Emergencias</TAG> del <TAG TYPE="HOSPITAL">Hospital General de Villalba</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sandro</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cardona Escribano</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7843955</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">47 89637596 31</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Patricio Rico, 36, 1 B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28029</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/08/1960</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">57 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">13/11/2015</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">06/02/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Milton</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gómez Grande</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 57410</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">57 años</TAG>, sin antecedentes de interés, que acudió al servicio de urgencias hospitalario por dolor torácico. Se diagnosticó un síndrome coronario agudo con ascenso del segmento ST en la cara anterior cardiaca y se realizó una coronariografía percutánea. El paciente presentaba una lesión en la porción media de la arteria coronaria descendente anterior, por lo que se realizó angioplastia y se colocó un stent, sin complicaciones, tras haber administrado 300 mg de ácido acetilsalicílico, 300 mg de clopidogrel y 5.000 UI de heparina sódica intravenosa. Al final del procedimiento el paciente estaba en Killip III y presentó una hematemesis masiva. La saturación arterial de O2 era del 92%, con un Ventimask al 50% 10 lpm. Se realizó una endoscopia digestiva con soporte respiratorio con CPAP-B, según el protocolo descrito, y se observó una lesión de Mallory Weiss. La hemoglobina cayó de 15,1 a 13g/dl y el hematocrito del 43,6 al 39,1%. Al finalizar el procedimiento, el paciente presentaba saturación de 100% y pudo retirarse la CPAP-B (no se realizó gasometría arterial por el riesgo de sangrado tras la administración de anticoagulantes y antiagregantes).
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Milton</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gómez Grande</TAG>. Correo Electrónico: <TAG TYPE="CORREO_ELECTRONICO">mlgomezgrande2000@yahoo.es</TAG>
+  </TEXT>
+</MEDDOCAN>

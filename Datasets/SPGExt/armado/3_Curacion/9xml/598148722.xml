@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ángel Rivas Estevez</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">51081656J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/10/2014</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Fortuny 57, 8J</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Torrelodones</TAG>, <TAG TYPE="TERRITORIO">Álava</TAG>, <TAG TYPE="PAIS">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">01674</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">angel_rivasestevez290@ciberned.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 945 33 13 89</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 745 19 90 72</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9847442</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">652100069553</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Fabricante</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Nicolás</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Simon Varela</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">805731645</TAG>. <TAG TYPE="PROFESION">Residente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3° año</TAG> en <TAG TYPE="PROFESION">Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">11/02/2016</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Río Hortega</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año de edad</TAG>, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>, que presenta una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">convulsiones</TAG> en las últimas 48 horas, con un primer episodio en la noche del día 10 de febrero y otro en la mañana del día 11 de febrero. El paciente se encuentra en buen estado general, con una temperatura corporal de <TAG TYPE="FECHAS">36,5°C</TAG> y una frecuencia cardíaca de <TAG TYPE="FECHAS">120 latidos por minuto</TAG>. La exploración física revela signos de convulsiones recientes, con una pequeña hemorragia en la oreja derecha.
+    Los análisis de sangre muestran un hemograma normal, con un conteo de glóbulos rojos de <TAG TYPE="FECHAS">4,5 millones/mm³</TAG>, un conteo de glóbulos blancos de <TAG TYPE="FECHAS">12.000/mm³</TAG> y un conteo de plaquetas de <TAG TYPE="FECHAS">300.000/mm³</TAG>. La electroencefalografía (EEG) muestra una actividad anormal en la región temporal derecha.
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">convulsiones infantiles</TAG>, se instaura tratamiento con fármacos anticonvulsivantes, incluyendo <TAG TYPE="OTRO_NUMERO_IDENTIF">carbamazepina</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">clonazepam</TAG>. El paciente se encuentra en observación en la unidad de cuidados intensivos, con un seguimiento estrecho de su estado clínico y una evaluación continua de su respuesta al tratamiento.
+    Antecedentes:
+    El paciente tiene una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">convulsiones</TAG> en la familia, con un primo hermano que también ha experimentado <TAG TYPE="OTROS_SUJETO_ASISTENCIA">convulsiones</TAG> en la infancia.
+    Evolución y comentarios:
+    El paciente ha estado recibiendo tratamiento durante las últimas 24 horas, con una reducción significativa en la frecuencia y la intensidad de las <TAG TYPE="OTROS_SUJETO_ASISTENCIA">convulsiones</TAG>. La EEG ha mostrado una mejora en la actividad anormal en la región temporal derecha.
+    Remitido por:
+    El paciente ha sido remitido a la unidad de <TAG TYPE="PROFESION">neurología pediátrica</TAG> para una evaluación más detallada y un seguimiento a largo plazo.
+  </TEXT>
+</MEDDOCAN>

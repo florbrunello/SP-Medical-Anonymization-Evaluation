@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ana María Calvo Peña
+DNI: 87590151X
+Fecha de nacimiento: 17/07/1994
+Género: F
+Domicilio: Calle de la Reina 67, 9I
+Ciudad: Langreo, Formentera, Islas Baleares
+Código postal: 07260
+Email: anamaria.calvo_pena@ioba.med.uva.es
+Teléfono fijo: +34 971 43 68 75
+Teléfono móvil: +34 671 87 72 53
+NHC: 8765757
+Condición de riesgo: Trabajador de Servicios de Limpieza
+
+Datos asistenciales.
+Médico: Dr. Domingo Costa Manzano. NC 978869743. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/11/2006
+Hospital: Hospital de la Santa Creu i Sant Pau
+Matrícula del coche: 6840IAA
+Modelo: Kia Sorento
+VIN: VSMOAPB3ZXL871173
+
+Informe clínico del paciente:
+Paciente judío de 12 años de edad, acompañado de su tío. Se registró una sesión de huella dactilar, el código obtenido para revisarla es EV973SME695. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Ana María" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="48" text="Calvo Peña" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="87590151X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="17/07/1994" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="141" text="Calle de la Reina 67, 9I" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="157" text="Langreo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="169" text="Formentera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="185" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="07260" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="249" text="anamaria.calvo_pena@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="265" end="281" text="+34 971 43 68 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="298" end="314" text="+34 671 87 72 53" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="320" end="327" text="8765757" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="349" end="384" text="Trabajador de Servicios de Limpieza" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="419" end="440" text="Domingo Costa Manzano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="445" end="454" text="978869743" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="456" end="503" text="Investigador Clínico en Enfermedades Digestivas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="505" end="598" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="600" end="629" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="631" end="636" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="638" end="644" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="646" end="652" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="672" end="682" text="21/11/2006" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="693" end="729" text="Hospital de la Santa Creu i Sant Pau" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="751" end="758" text="6840IAA" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="784" end="801" text="VSMOAPB3ZXL871173" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="842" end="847" text="judío" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="851" end="858" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="885" end="888" text="tío" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="970" end="981" text="EV973SME695" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

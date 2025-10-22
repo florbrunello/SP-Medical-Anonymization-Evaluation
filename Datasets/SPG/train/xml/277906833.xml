@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Valentina Avila Villanueva
+DNI: 57450989W
+Fecha de nacimiento: 05/01/1993
+Género: M
+Domicilio: Calle de los Jardines 81
+Ciudad: Yecla, León, Castilla y León
+Código postal: 24100
+Email: avila@ioba.med.uva.es
+Teléfono fijo: +34 987 19 72 27
+Teléfono móvil: +34 787 12 28 58
+NHC: 0958989
+NASS: 107605271259
+
+Datos asistenciales.
+Médico: Dra. Miriam Vázquez Soler. NC 451686298. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 31/07/2017
+Episodio: 41506436
+Centro de salud: Centro de Salud Pozuelo de Alarcón
+Matrícula del coche: 5147EVT
+Modelo: Honda CR-V
+VIN: VSWXTVH8B7J726907
+
+Informe clínico del paciente:
+Paciente no fumador de 24 años de edad, acompañado de su conviviente. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Valentina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="54" text="Avila Villanueva" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="57450989W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="05/01/1993" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="111" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="147" text="Calle de los Jardines 81" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="161" text="Yecla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="167" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="184" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="24100" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="234" text="avila@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 987 19 72 27" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 787 12 28 58" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="0958989" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="107605271259" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="612" end="622" text="31/07/2017" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="633" end="641" text="41506436" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="659" end="693" text="Centro de Salud Pozuelo de Alarcón" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="715" end="722" text="5147EVT" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="747" end="764" text="VSWXTVH8B7J726907" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="805" end="815" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="819" end="826" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="853" end="864" text="conviviente" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

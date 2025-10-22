@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sergi Román Escobar
+DNI: 80129853S
+Fecha de nacimiento: 15/09/1943
+Género: H
+Domicilio: Calle de Santa Ana 12
+Ciudad: Zamora, Salamanca, Castilla y León
+Código postal: 37293
+Email: sergi-roman@ciberisciii.es
+Teléfono fijo: +34 923 48 17 97
+Teléfono móvil: +34 623 52 12 05
+NHC: 7447608
+NASS: 814792540742
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dra. Lorena Hurtado Parra. NC 498476123. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/04/1996
+Hospital: Hospital Universitario Fundació Jiménez Díaz
+
+Informe clínico del paciente:
+Paciente testigo de Jehová de 52 años de edad, acompañado de su yerno. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Sergi" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Román Escobar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="80129853S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="15/09/1943" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="137" text="Calle de Santa Ana 12" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="152" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="154" end="163" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="180" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="37293" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="235" text="sergi-roman@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 923 48 17 97" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 623 52 12 05" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="7447608" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="814792540742" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="354" end="375" text="Trabajador de Almacén" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="630" end="640" text="28/04/1996" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="651" end="695" text="Hospital Universitario Fundació Jiménez Díaz" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="736" end="753" text="testigo de Jehová" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="757" end="764" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="791" end="796" text="yerno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

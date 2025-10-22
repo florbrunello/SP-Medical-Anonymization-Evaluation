@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ana Lyn</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Khan</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Montieth Road, 30</TAG>, <TAG TYPE="TERRITORIO">Egmore Tamil Nadu</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Chennai</TAG>.
+    CP: <TAG TYPE="TERRITORIO">600008</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/03/1994</TAG>.
+    País: <TAG TYPE="PAIS">India</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">24 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">13/05/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Naveenjayakumar</TAG>.
+    Historia Actual: Una mujer sana de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">24 años</TAG> de edad acudió por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sangrado gingival</TAG> en los dientes postero-superiores derechos durante los últimos 6 meses. La paciente también refería episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor leve</TAG> y una gradual <TAG TYPE="OTROS_SUJETO_ASISTENCIA">desviación de los dientes</TAG>. No hubo signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fiebre</TAG> o <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pus</TAG>.
+    Exploración física: Un examen general sistémico de la paciente no reveló ninguna anomalía. La exploración local reveló una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">inflamación difusa</TAG> de 1 x 3 cm en el alvéolo correspondiente a los molares superiores derechos. La hinchazón era más prominente en la cara vestibular. La superficie aparecía <TAG TYPE="OTROS_SUJETO_ASISTENCIA">rugosa</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">eritematosa</TAG>. No había pulsaciones visibles en la lesión. Los dientes mencionados se desviaban hacia el paladar. A la palpación, la hinchazón mostraba una consistencia <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dura</TAG>. Los tres dientes afectados no respondían al calor, ni al frío ni a estímulos electricos de la pulpa. 
+    Resumen de pruebas complementarias: La ortopantomografía no fue concluyente. Una tomografía computerizada (TAC) con contraste mostró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">masa de tejido blando</TAG> en el alveolo maxilar derecho, sin erosión ósea. Las exploraciones radiológicas y los exámenes hematológicos de rutina, incluyendo pruebas de coagulación, no revelaron ninguna anomalía.
+    Evolución y comentarios: Basándose en los hallazgos clínicos, radiológicos y en el TAC, se realizó un diagnóstico provisional de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lesión de células gigantes</TAG>, y se hizo una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">biopsia incisional</TAG> de la encía vestibular. Fue evidente el aumento marginal del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sangrado intraoperatorio</TAG>, pero se atribuyó a la inflamación.
+    El informe anatomopatológico de la muestra reveló <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tejido conectivo fibrovascular</TAG> con agregados de numerosos capilares y vénulas endoteliales dilatados sugestivo de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">MAV</TAG>. Tras consultar con un <TAG TYPE="PROFESION">radiólogo intervencionista</TAG>, se decidió y practicó la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">resección de la lesión</TAG> bajo anestesia general. La única muestra incluía <TAG TYPE="OTROS_SUJETO_ASISTENCIA">encía vestibular y palatina</TAG>, alvéolos, y los dientes afectados. Se consiguió la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hemostasia</TAG> y el defecto se cerró por primera intención mediante el avance del paladar y la mucosa bucal. El periodo perioperatorio y la recuperación transcurrió sin incidentes y de forma confortable para el paciente.
+    El análisis anatomopatológico de la muestra fue muy similar al de la biopsia incisional y reveló numerosas arteriolas y vénulas intercaladas entre las trabéculas óseas, que se extendían hasta la encía sugiriendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">malformación arterio-venosa</TAG>.
+    A la paciente se le realizó un seguimiento por un período de 1 año sin observarse recidiva.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Naveenjayakumar</TAG>, <TAG TYPE="PROFESION">MDS Reader</TAG>, <TAG TYPE="INSTITUCION">Department of Maxillofacial and Skull-base Surgery</TAG>, <TAG TYPE="INSTITUCION">Meenakshi Ammal Dental College</TAG>, <TAG TYPE="CALLE">Maduravoyal</TAG>, <TAG TYPE="TERRITORIO">Chennai 600095</TAG>, <TAG TYPE="PAIS">India</TAG>. E-mail: <TAG TYPE="CORREO_ELECTRONICO">naveenkumarj@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

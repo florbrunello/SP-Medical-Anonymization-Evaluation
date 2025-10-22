@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cristian</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">López Hernández</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">13325255K</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">25/11/1953</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Argumosa 82, 1K</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Socuéllamos</TAG>, <TAG TYPE="TERRITORIO">Burgos</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">09745</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">cristian.lopez_hernandez@ciberehd.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 947 70 70 36</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 747 71 07 61</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5149381</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">335611819465</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Servicios de Limpieza</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Joel Pastor Álvarez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">709208683</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/04/2024</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Barajas</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">70 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">pareja</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">reconocimiento facial</TAG>, el <TAG TYPE="IDENTIF_BIOMETRICOS">código obtenido para revisarla</TAG> es <TAG TYPE="IDENTIF_BIOMETRICOS">FJ245BHG369</TAG>.
+  </TEXT>
+</MEDDOCAN>

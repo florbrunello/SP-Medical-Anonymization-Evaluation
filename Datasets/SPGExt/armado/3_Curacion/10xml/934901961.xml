@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Amparo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Herrero Miranda</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">16039260A</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/07/2012</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Preciados 6</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Pamplona</TAG>, <TAG TYPE="TERRITORIO">Teruel</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">44854</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">herrero@ual.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 978 62 51 27</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 978 13 10 86</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1178363</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Pintor de Construcción</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernando</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Escudero Jiménez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">786285688</TAG>. <TAG TYPE="PROFESION">Oftalmólogo</TAG> <TAG TYPE="PROFESION">Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">29/09/2013</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Universitario Virgen de la Arrixaca</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia centroasiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año de edad</TAG>, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>, presenta una infección por <TAG TYPE="OTRO_NUMERO_IDENTIF">virus del herpes simple tipo 1</TAG>, con lesiones en la zona del <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">ojo izquierdo</TAG>. El paciente ha estado con <TAG TYPE="FECHAS">fiebre</TAG> y <TAG TYPE="FECHAS">dolor en la cabeza</TAG> durante los últimos días, y se ha presentado en el hospital con una <TAG TYPE="FECHAS">visión borrosa</TAG> en el <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">ojo afectado</TAG>.
+    La exploración física revela: <TAG TYPE="FECHAS">Tª</TAG> <TAG TYPE="FECHAS">38,5 C</TAG>; <TAG TYPE="FECHAS">T.A</TAG>: <TAG TYPE="FECHAS">110/70 mmHg</TAG>; <TAG TYPE="FECHAS">Fc</TAG>: <TAG TYPE="FECHAS">90 lpm</TAG>. Se encuentra <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consciente</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">orientado</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sudoroso</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">eupneico</TAG>, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">buen estado de nutrición e hidratación</TAG>. En la exploración oftalmológica se observa una <TAG TYPE="OTRO_NUMERO_IDENTIF">úlcera</TAG> en la <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">córnea del ojo izquierdo</TAG>, con una lesión en la zona del <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">nervio óptico</TAG>.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="FECHAS">Hemograma</TAG>: <TAG TYPE="FECHAS">Hb</TAG> <TAG TYPE="FECHAS">12,5 g/dl</TAG>; <TAG TYPE="FECHAS">leucocitos</TAG> <TAG TYPE="FECHAS">12.000/mm3</TAG> (<TAG TYPE="FECHAS">neutrófilos</TAG> <TAG TYPE="FECHAS">60%</TAG>); <TAG TYPE="FECHAS">plaquetas</TAG> <TAG TYPE="FECHAS">200.000/ mm3</TAG>. <TAG TYPE="FECHAS">VSG</TAG>: <TAG TYPE="FECHAS">35 mm 1ª hora</TAG>. <TAG TYPE="FECHAS">Coagulación</TAG>: <TAG TYPE="FECHAS">TQ</TAG> <TAG TYPE="FECHAS">90%</TAG>; <TAG TYPE="FECHAS">TTPA</TAG> <TAG TYPE="FECHAS">25,5 seg</TAG>. <TAG TYPE="FECHAS">Bioquímica</TAG>: <TAG TYPE="FECHAS">Glucosa</TAG> <TAG TYPE="FECHAS">100 mg/dl</TAG>; <TAG TYPE="FECHAS">urea</TAG> <TAG TYPE="FECHAS">20 mg/dl</TAG>; <TAG TYPE="FECHAS">creatinina</TAG> <TAG TYPE="FECHAS">0,8 mg/dl</TAG>; <TAG TYPE="FECHAS">sodio</TAG> <TAG TYPE="FECHAS">135 mEq/l</TAG>; <TAG TYPE="FECHAS">potasio</TAG> <TAG TYPE="FECHAS">3,5 mEq/l</TAG>; <TAG TYPE="FECHAS">GOT</TAG> <TAG TYPE="FECHAS">15 U/l</TAG>; <TAG TYPE="FECHAS">GPT</TAG> <TAG TYPE="FECHAS">25 U/l</TAG>; <TAG TYPE="FECHAS">GGT</TAG> <TAG TYPE="FECHAS">30 U/l</TAG>; <TAG TYPE="FECHAS">fosfatasa alcalina</TAG> <TAG TYPE="FECHAS">120 U/l</TAG>; <TAG TYPE="FECHAS">calcio</TAG> <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. <TAG TYPE="FECHAS">Orina</TAG>: <TAG TYPE="FECHAS">sedimento normal</TAG>.
+    Se ha solicitado una <TAG TYPE="FECHAS">ecografía ocular</TAG> y una <TAG TYPE="FECHAS">biopsia de la córnea</TAG> para confirmar el diagnóstico y determinar la mejor opción de tratamiento. El paciente se encuentra bajo <TAG TYPE="FECHAS">observación en la unidad de cuidados intensivos</TAG> y se le ha iniciado tratamiento con <TAG TYPE="FECHAS">antivirales</TAG> y <TAG TYPE="FECHAS">analgésicos</TAG>.
+    Antecedentes:
+    El paciente tiene una historia de <TAG TYPE="FECHAS">alergia a ciertos medicamentos</TAG> y ha tenido antecedentes de <TAG TYPE="FECHAS">infecciones respiratorias</TAG> en el pasado.
+    Evolución y comentarios:
+    El paciente ha estado bajo <TAG TYPE="FECHAS">observación en la unidad de cuidados intensivos</TAG> durante las últimas <TAG TYPE="FECHAS">24 horas</TAG> y ha mostrado una <TAG TYPE="FECHAS">mejoría en su estado clínico</TAG>. La <TAG TYPE="FECHAS">ecografía ocular</TAG> ha confirmado la presencia de una <TAG TYPE="OTRO_NUMERO_IDENTIF">úlcera</TAG> en la <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">córnea del ojo izquierdo</TAG> y la <TAG TYPE="FECHAS">biopsia de la córnea</TAG> ha mostrado la presencia de <TAG TYPE="OTRO_NUMERO_IDENTIF">virus del herpes simple tipo 1</TAG>.
+    Remitido por:
+    El paciente ha sido remitido a la <TAG TYPE="FECHAS">unidad de oftalmología</TAG> para seguir su <TAG TYPE="FECHAS">evolución</TAG> y recibir tratamiento específico para la <TAG TYPE="OTRO_NUMERO_IDENTIF">infección por virus del herpes simple tipo 1</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Luz Mesa Manzano
+DNI: 36538028K
+Fecha de nacimiento: 07/07/1947
+Género: Mujer
+Domicilio: Calle de Arganzuela 98, 9T
+Ciudad: Palma, Valladolid, Castilla y León
+Código postal: 47692
+Email: marialuz.mesa@uca.es
+Teléfono fijo: +34 983 81 64 11
+Teléfono móvil: +34 783 17 64 61
+NHC: 6440190
+NASS: 865935818887
+
+Datos asistenciales.
+Médico: Dr. Francisco Manuel Estevez Rico. NC 551983902. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/05/1984
+Centro de salud: Centro de Salud Latina
+
+Informe clínico del paciente:
+Paciente refugiado de 36 años de edad, acompañado de su padre. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es EE966BFP578. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="María Luz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="50" text="Mesa Manzano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="36538028K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="07/07/1947" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="149" text="Calle de Arganzuela 98, 9T" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="163" text="Palma" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="175" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="192" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="208" end="213" text="47692" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="221" end="241" text="marialuz.mesa@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 983 81 64 11" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="290" end="306" text="+34 783 17 64 61" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="312" end="319" text="6440190" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="326" end="338" text="865935818887" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="373" end="402" text="Francisco Manuel Estevez Rico" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="407" end="416" text="551983902" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="418" end="453" text="Neuropsicólogo Clínico Investigador" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="455" end="525" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="527" end="556" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="558" end="563" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="565" end="571" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="573" end="579" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="599" end="609" text="01/05/1984" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="627" end="649" text="Centro de Salud Latina" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="690" end="699" text="refugiado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="703" end="710" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="737" end="742" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T29" start="825" end="836" text="EE966BFP578" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

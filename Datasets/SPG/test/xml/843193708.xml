@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Diana Cabrera Espinosa
+DNI: 61888688N
+Fecha de nacimiento: 11/03/1946
+Género: M
+Domicilio: Calle Mayor 6
+Ciudad: Bormujos, Huesca, Aragón
+Código postal: 22626
+Email: diana@us.es
+Teléfono fijo: +34 974 39 99 57
+FAX: +34 974 10 90 58
+NHC: 3036421
+NASS: 765612599532
+Condición de riesgo: Operador de Equipos Mineros
+
+Datos asistenciales.
+Médico: Dra. Patricia Camacho Marín. NC 736958876. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/01/1984
+Episodio: 32779536
+Hospital: Hospital Universitario Río Hortega
+Matrícula del coche: 9283LVH
+Modelo: Toyota RAV4
+VIN: VSNIV7U2CVS843264
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 37 años de edad, acompañado de su padre. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es PF006HMZ076. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Diana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="50" text="Cabrera Espinosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="61888688N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="11/03/1946" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="132" text="Calle Mayor 6" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="141" end="149" text="Bormujos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="151" end="157" text="Huesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="159" end="165" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="181" end="186" text="22626" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="194" end="205" text="diana@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="221" end="237" text="+34 974 39 99 57" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="243" end="259" text="+34 974 10 90 58" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="265" end="272" text="3036421" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="279" end="291" text="765612599532" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="313" end="340" text="Operador de Equipos Mineros" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="615" end="625" text="25/01/1984" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="636" end="644" text="32779536" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="655" end="689" text="Hospital Universitario Río Hortega" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="711" end="718" text="9283LVH" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="744" end="761" text="VSNIV7U2CVS843264" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="805" end="831" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="835" end="842" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="869" end="874" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T25" start="957" end="968" text="PF006HMZ076" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

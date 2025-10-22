@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Héctor Reyes Marcos</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">23635538W</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/08/1999</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle Serrano 69</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Denia, Valladolid, Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">47535</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">hector-reyes@uhu.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 983 54 84 61</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 783 90 42 74</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2910772</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">909834854638</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de la Construcción</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Alfonso Gómez Muñoz</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">560606668</TAG>. <TAG TYPE="PROFESION">Cardiólogo Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/11/2000</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">98887972</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Benalmádena</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6945LHV</TAG>
+    Modelo: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">Chevrolet Silverado</TAG>
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSRRJQ4HX6B923485</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año de edad</TAG>, acompañado de su abuela, que refiere <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolores abdominales recientes</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos repetidos</TAG> durante las últimas 48 horas. La exploración física revela: Tª <TAG TYPE="OTROS_SUJETO_ASISTENCIA">37,5 C</TAG>; T.A: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120/80 mmHg</TAG>; Fc: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">60 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="OTROS_SUJETO_ASISTENCIA">12,5 g/dl</TAG>; leucocitos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">12.000/mm3</TAG> (neutrófilos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">60%</TAG>); plaquetas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">250.000/mm3</TAG>. VSG: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="OTROS_SUJETO_ASISTENCIA">95%</TAG>; TTPA <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90 mg/dl</TAG>; urea <TAG TYPE="OTROS_SUJETO_ASISTENCIA">15 mg/dl</TAG>; creatinina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">0,8 mg/dl</TAG>; sodio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">140 mEq/l</TAG>; potasio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">4,2 mEq/l</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas diagnósticas, incluyendo una ecografía abdominal y una resonancia magnética para evaluar la causa de los síntomas. El diagnóstico de un proceso inflamatorio en el abdomen se confirma mediante la ecografía, que muestra un aumento de la actividad inflamatoria en el intestino delgado. Se instaura tratamiento sintomático y antibiótico específico para tratar la infección. El paciente mejora significativamente de su cuadro tras 48 horas de tratamiento, y se decide la alta a su domicilio para continuar el tratamiento en un entorno seguro.
+  </TEXT>
+</MEDDOCAN>

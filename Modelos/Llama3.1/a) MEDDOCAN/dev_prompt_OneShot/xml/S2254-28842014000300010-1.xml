@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan</TAG>.
+  Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Manrique Garcia</TAG>.
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5289067</TAG>.
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">47 05162350 32</TAG>.
+  Domicilio: <TAG TYPE="CALLE">Plaza De Recintos, 18, 1C</TAG>.
+  Localidad/ Provincia: <TAG TYPE="TERRITORIO">Salamanca</TAG>.
+  CP: <TAG TYPE="TERRITORIO">37029</TAG>.
+  Datos asistenciales.
+  Fecha de nacimiento: <TAG TYPE="FECHAS">24/11/1957</TAG>.
+  País: <TAG TYPE="PAIS">España</TAG>.
+  Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">57 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+  Fecha de Ingreso: <TAG TYPE="FECHAS">03/05/2015</TAG>.
+  Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Maria Luz</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sánchez Tocino</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28</TAG>.
+  Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">57 años</TAG> con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dislipemia</TAG>, presenta una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cardiopatía isquémica</TAG> e <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infarto agudo de miocardio inferior</TAG> en 2004, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">arteriopatía periférica</TAG> con realización de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">by-pass aorto bifemoral</TAG> en 2006, sufre en 2010 una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">isquemia aguda de extremidad inferior izquierda</TAG> por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">oclusión de by-pass</TAG> que requirió <TAG TYPE="OTROS_SUJETO_ASISTENCIA">revascularización urgente</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">trombectomia</TAG>. Se encuentra en programa de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hemodiálisis</TAG> desde Diciembre de 2010 por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Insuficiencia renal crónica</TAG> posiblemente secundaria a <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nefroangiosclerosis</TAG>.
+  Tras fallo de FAVI radiocefálica izquierda se le coloca un catéter temporal yugular izquierdo a finales de agosto de 2013, que es disfuncionante desde el comienzo pero que se mantiene hasta el uso de nueva FAVI húmero cefálica izquierda.
+  Al mes de colocación del catéter, el paciente refiere de modo puntual a enfermería <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lumbalgia postural</TAG>, aunque el propio paciente lo achaca a la realización de algún esfuerzo.
+  Tras la retirada del catéter (43 días después de inserción), en varias sesiones posteriores presenta <TAG TYPE="OTROS_SUJETO_ASISTENCIA">malestar general</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fiebre</TAG>, se realiza control bacteriológico del monitor que es negativo y se administra de manera empírica, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vancomicina 1 g</TAG> junto a un antitérmico, el paciente permanece estable durante el mes siguiente.
+  Posteriormente, refiere de nuevo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor lumbar</TAG> muy intenso que apenas le permite la deambulación, acude a urgencias hasta en cuatro ocasiones en las que tras exploración, radiografía y ecografía abdominal siempre diagnostican <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lumbalgia mecánica</TAG>.
+  Dado el deterioro del estado general y tras comprobar alteraciones analíticas (aumento proteína C reactiva y velocidad de sedimentación globular) ingresa en la unidad de medicina interna para estudio. Tras resultados microbiológicos positivos para S. aureus se inicia tratamiento antibiótico dirigido con cloxacilina. Tras la realización de una resonancia nuclear magnética (RNM) se diagnostica una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">espondilodiscitis D10-D11</TAG> que asocia un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">absceso paravertebral</TAG> que no condiciona un compromiso de estructuras nerviosas.
+  Se inicia tratamiento analgésico con fármacos de primer nivel asociados a opiáceos transdérmicos, con titulación progresiva de dosis a lo largo de su estancia hospitalaria y control aceptable del dolor.
+  El paciente permanece afebril durante todo su ingreso, con disminución progresiva de reactantes de fase aguda y negativización de hemocultivos. Completa cinco semanas de tratamiento antibiótico intravenoso dirigido, pasando a terapia oral ambulatoria y se procede a alta hospitalaria. En estos momentos el paciente permanece estable sin más sintomatología intrahemodiálisis con analgesia controlada por el mismo y a la espera de nueva RNM de control.
+  Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Maria Luz</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sánchez Tocino</TAG> <TAG TYPE="PROFESION">Supervisora Centros FRIAT</TAG>. <TAG TYPE="TERRITORIO">Salamanca</TAG> <TAG TYPE="CENTRO_SALUD">Centro Hemodiálisis "Las Encinas"</TAG> <TAG TYPE="CALLE">C/ Escuelas, 4-6</TAG> <TAG TYPE="TERRITORIO">37500</TAG> <TAG TYPE="TERRITORIO">Cuidad Rodrigo</TAG> <TAG TYPE="TERRITORIO">Salamanca</TAG> <TAG TYPE="CORREO_ELECTRONICO">lsanchez@friat.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

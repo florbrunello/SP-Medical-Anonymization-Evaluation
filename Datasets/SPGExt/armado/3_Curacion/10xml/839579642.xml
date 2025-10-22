@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ángeles Izquierdo Jiménez</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">33258701B</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/01/2010</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de San Bernardo 59, 6U</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ronda, Ciudad Real, Castilla-La Mancha</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">13435</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">izquierdo.jimenez@salud.madrid.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 53 45 45</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 926 10 02 89</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4036442</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">788283257826</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Operador de Maquinaria Pesada</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Manuel Pastor Santamaria</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 584353110</TAG>. <TAG TYPE="PROFESION">Neurólogo Investigador en Trastornos Cognitivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/01/2022</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">12990854</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Regional Universitario de Málaga</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="ASCENDENCIA_ETNICA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">12 años de edad</TAG>, acompañado de su madre. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-cardiology.com</TAG>. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">UY008UTB920</TAG>.
+    Fecha de ingreso:
+    <TAG TYPE="FECHAS">24/01/2022</TAG>
+    Centro de salud de ingreso:
+    <TAG TYPE="CENTRO_SALUD">Hospital Regional Universitario de Málaga</TAG>
+  </TEXT>
+</MEDDOCAN>

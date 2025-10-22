@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cesar</TAG>. <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Prego Quezada</TAG>.
+    <TAG TYPE="ID_SUJETO_ASISTENCIA">047856</TAG>.
+    <TAG TYPE="ID_ASEGURAMIENTO">90 82560375 60</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. Fisterra, 72 </TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">A Coruña</TAG>.
+    CP: <TAG TYPE="TERRITORIO">15142</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/02/1978</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">05/05/2018</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Digestivo</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ignacio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodríguez Gómez</TAG>  NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">15 28 45632</TAG>.
+    Historia Actual: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> que acude a consultas externas del Servicio de <TAG TYPE="PROFESION">Digestivo</TAG> para estudio de una elevación de las transaminasas en un análisis de sangre realizado de forma rutinaria. En el estudio ecográfico abdominal se detectó una LOE en los segmentos 2 y 3 del hígado de 4 cm de tamaño máximo, de características sólidas compatible con el diagnóstico de hepatoma. En la tomografía axial computadorizada (TAC) abdominal multicorte se apreció en los segmentos 2 y 3 una lesión focal de bordes lobulados que medía 4 cm de diámetro, que realzaba de forma intensa tras la inyección de contraste intravenoso en fase arterial; y con lavado en fase portal, hallazgos compatibles con el diagnóstico de hepatocarcinoma. No evidencia de otras lesiones focales. La vía biliar intrahepática no se encontraba dilatada y la vesícula biliar no presentaba imágenes litiásicas.
+    Se le realizó punción aspiración con aguja fina (PAAF) de la lesión bajo control ecográfico con resultado negativo para células malignas y con un CD 34 positivo en el estudio inmunohistoquímico
+    El análisis sistemático de sangre fue normal, así como la función hepática, la determinación de inmunoglobulinas, anticuerpos y marcadores tumorales. También los marcadores virales fueron negativos.
+    Evolución y comentarios: Ante el diagnóstico de probable hepatoma sobre hígado no cirrótico se decidió la resección quirúrgica. Se realizó una resección del segmento 2 y 3 por laparoscopia, mediante dos puertos del nº 12, periumbilical y en hipocondrio derecho, y un puerto de gel en hipocondrio izquierdo. En el estudio histológico intraoperatorio se diagnosticó de proliferación hepatocelular sin signos histológicos de malignidad quedando la lesión a 2 cm del borde de la resección quirúrgica. En el estudio anatomopatológico, la formación nodular presentaba un tejido hepático con un patrón trabecular compacto de hasta 3 capas celulares, con proliferación de las grandes arterias musculares rodeadas por un estroma conectivo denso, en donde no se identificaban espacios porta conservados. El diagnóstico anatomopatológico fue de hiperplasia nodular focal. La evolución postoperatoria no presentó complicaciones y fue dado de alta al cuarto día del postoperatorio.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ignacio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodríguez Gómez</TAG> <TAG TYPE="CALLE">Complejo Hospitalario Universitario Juan Canalejo</TAG>. <TAG TYPE="CALLE">As Xubias, 84</TAG>. <TAG TYPE="TERRITORIO">La Coruña</TAG>. <TAG TYPE="PAIS">España</TAG> <TAG TYPE="CORREO_ELECTRONICO">urogomez@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

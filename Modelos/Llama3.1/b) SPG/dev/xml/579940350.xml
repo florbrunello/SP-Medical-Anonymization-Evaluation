@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gabriel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Guzman</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Robles</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">90746377S</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/02/1967</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Lavapiés 83, 5S</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Novelda</TAG>, <TAG TYPE="TERRITORIO">Vizcaya</TAG>, <TAG TYPE="TERRITORIO">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">48653</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">guzmanrobles@imibic.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 946 28 59 40</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 646 91 73 58</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2400048</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Microbiólogo</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mateo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Maldonado</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Aranda</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">975243939</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">22/08/2013</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">67963291</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Barcelona</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática occidental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">compañero de trabajo</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de firma biométrica</TAG>, el <TAG TYPE="IDENTIF_BIOMETRICOS">código obtenido para revisarla</TAG> es <TAG TYPE="IDENTIF_BIOMETRICOS">AU447SXG881</TAG>.
+  </TEXT>
+</MEDDOCAN>

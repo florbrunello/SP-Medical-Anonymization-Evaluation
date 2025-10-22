@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Belén</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santiago Alarcon</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">89517814C</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/01/1953</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Oso 27</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Reus</TAG>, <TAG TYPE="TERRITORIO">Huelva</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">21655</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">belen.santiago_alarcon1858@uhu.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 959 93 79 81</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 659 61 15 69</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5261034</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Dentista</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Izquierdo Martínez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">147971091</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/12/2022</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">76771820</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Getafe</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">refugiado</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">69 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">pareja</TAG>.
+    Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">http://example-radiology.edu//88393720B</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">firma biométrica</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">TB087GGI381</TAG>.
+  </TEXT>
+</MEDDOCAN>

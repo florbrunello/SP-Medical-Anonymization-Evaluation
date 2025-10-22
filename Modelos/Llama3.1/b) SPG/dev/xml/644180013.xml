@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marina</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">González</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Trujillo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">85822367Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/06/1965</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Huertas</TAG> <TAG TYPE="NUMERO">81</TAG>, <TAG TYPE="NUMERO">9H</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Teruel</TAG>, <TAG TYPE="TERRITORIO">León</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">24956</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">marina.gonzalez.trujillo2013@imibic.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 987 32 09 07</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 787 51 31 78</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9870448</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">105468731253</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Granjero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">David Santana Andres</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">731795254</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/03/2008</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">68632296</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic San Carlos</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2957ZIA</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Hyundai Elantra</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSCV1AUYK9S888762</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">descendencia africana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">42 años</TAG> de edad. Se realizó un <TAG TYPE="DIREC_PROT_INTERNET">expediente</TAG> con <TAG TYPE="URL_WEB">http://example-research.net//52873417M</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Christian Pascual Casas
+DNI: 81079343L
+Fecha de nacimiento: 21/09/1929
+Género: H
+Domicilio: Calle de Hortaleza 11, 5D
+Ciudad: Jerez de la Frontera, Huelva, Andalucía
+Código postal: 21836
+Email: christianpascual_casas@h12o.es
+Teléfono fijo: +34 959 96 23 59
+Teléfono móvil: +34 659 08 56 01
+NHC: 5742897
+NASS: 228655968484
+
+Datos asistenciales.
+Médico: Dr. Salvador Vega Rubio. NC 588712073. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/07/1946
+Centro de salud: Centro de Salud Arganzuela
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática occidental de 16 años de edad, acompañado de su hermano. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Christian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="51" text="Pascual Casas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="81079343L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="21/09/1929" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="145" text="Calle de Hortaleza 11, 5D" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="174" text="Jerez de la Frontera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="176" end="182" text="Huelva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="184" end="193" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="209" end="214" text="21836" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="222" end="252" text="christianpascual_casas@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="268" end="284" text="+34 959 96 23 59" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="301" end="317" text="+34 659 08 56 01" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="323" end="330" text="5742897" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="337" end="349" text="228655968484" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="384" end="403" text="Salvador Vega Rubio" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="408" end="417" text="588712073" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="419" end="454" text="Neurólogo Especialista en Alzheimer" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="456" end="545" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="547" end="576" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="578" end="583" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="585" end="591" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="593" end="599" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="619" end="629" text="28/07/1946" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="647" end="673" text="Centro de Salud Arganzuela" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="717" end="748" text="ascendencia asiática occidental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="752" end="759" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="786" end="793" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

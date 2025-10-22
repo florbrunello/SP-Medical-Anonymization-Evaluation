@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Susana Reyes Santana</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">94785728Z</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/08/2015</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de los Embajadores 52</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Lugo</TAG>, <TAG TYPE="TERRITORIO">Alicante</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">03975</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">susana.reyes_santana473@imibic.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 965 76 71 38</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 765 14 72 99</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7848654</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">036429054639</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paramédico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Nuria Izquierdo Del Rio</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 460988690</TAG>. <TAG TYPE="PROFESION">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">31/10/2021</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Puente de Vallecas</TAG>.
+    Informe clínico del paciente:
+    Paciente no fumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años</TAG> de edad, acompañado de su abuela, con antecedentes de asma leve y alergia a los granos de la manzana.
+    La exploración física revela: Tª <TAG TYPE="OTROS_SUJETO_ASISTENCIA">36,5 C</TAG>; T.A: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">95/65 mmHg</TAG>; Fc: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación.
+    En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos.
+    Auscultación cardíaca rítmica, sin soplos, roces ni extratonos.
+    Auscultación pulmonar con conservación del murmullo vesicular.
+    Abdomen blando, depresible, sin masas ni megalias.
+    En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad.
+    Extremidades sin varices ni edemas.
+    Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="OTROS_SUJETO_ASISTENCIA">12,5 g/dl</TAG>; leucocitos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">7.500/mm3</TAG> (neutrófilos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">40%</TAG>); plaquetas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">250.000/ mm3</TAG>. VSG: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 mm 1ª hora</TAG>. Coagulación: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TQ 90%</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TTPA 25,8 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">85 mg/dl</TAG>; urea <TAG TYPE="OTROS_SUJETO_ASISTENCIA">15 mg/dl</TAG>; creatinina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">0,6 mg/dl</TAG>; sodio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">135 mEq/l</TAG>; potasio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">4,5 mEq/l</TAG>; GOT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">10 U/l</TAG>; GPT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 U/l</TAG>; GGT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25 U/l</TAG>; fosfatasa alcalina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">100 U/l</TAG>; calcio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">9,5 mg/dl</TAG>. Orina: sedimento normal.
+    Durante el ingreso se solicitan pruebas de imagen (Ecografía abdominal y TAC craneal) que no evidencian patología significativa.
+    Con el diagnóstico de asma leve y alergia a los granos de la manzana se instaura tratamiento sintomático (broncodilatadores y antiinflamatorios) y tratamiento preventivo (inmunoterapia).
+    El paciente mejora significativamente de su cuadro tras un tratamiento adecuado y se decide su alta a su domicilio con seguimiento en consultas.
+    Evolución y comentarios:
+    La evolución del paciente ha sido favorable con un seguimiento regular en consultas.
+    Se han realizado revisiones periódicas para ajustar el tratamiento según sea necesario.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Nuria Izquierdo Del Rio</TAG>, <TAG TYPE="PROFESION">Especialista en Genética Médica</TAG>, <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>.
+  </TEXT>
+</MEDDOCAN>

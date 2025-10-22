@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Pilar Benítez Galan</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">16398291G</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/02/2000</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Bailén 35</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Málaga, Zaragoza, Aragón</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">50462</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariapilar_benitez@outlook.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 976 54 63 91</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 676 51 59 37</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4404288</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">150760203918</TAG>.
+    Condición de riesgo: <TAG TYPE="PROFESION">Médico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Carlota Crespo Santos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">947011493</TAG>. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/10/2002</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">34373996</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Torrejón de Ardoz</TAG>.
+    Informe clínico del paciente:
+    La paciente presenta una condición clínica caracterizada por una edad de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> y una tez blanca. Se encuentra acompañada por su madre en el momento del ingreso.
+    Antecedentes:
+    La paciente no presenta antecedentes médicos relevantes en su historial clínico.
+    Evolución y comentarios:
+    La paciente se encuentra estable y sin síntomas graves en el momento del ingreso. Se requiere una evaluación más exhaustiva para determinar la causa subyacente de su condición clínica.
+    Remitido por:
+    La paciente ha sido remitida por su médico de cabecera para una evaluación más detallada de su condición clínica.
+    Exploración física:
+    La exploración física revela una paciente consciente, orientada y sin signos de alarma vital. La temperatura corporal es normal y la frecuencia cardíaca es de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">120 latidos</TAG> por minuto. La presión arterial es de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">80/50 mmHg</TAG>. La exploración neurológica no revela signos de alteración.
+    Pruebas diagnósticas:
+    Se han solicitado pruebas diagnósticas para determinar la causa subyacente de la condición clínica de la paciente, incluyendo análisis de sangre, radiografías y ecografías.
+    Tratamiento:
+    Se está considerando un tratamiento conservador para la paciente, incluyendo medicamentos para aliviar los síntomas y una evaluación más detallada para determinar la causa subyacente de su condición clínica.
+    Pronóstico:
+    El pronóstico de la paciente es bueno, ya que se encuentra estable y sin síntomas graves en el momento del ingreso. Sin embargo, se requiere una evaluación más exhaustiva para determinar la causa subyacente de su condición clínica y establecer un plan de tratamiento adecuado.
+  </TEXT>
+</MEDDOCAN>

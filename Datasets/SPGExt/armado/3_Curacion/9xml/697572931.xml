@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lidia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Diez Contreras</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">99180966K</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/04/1947</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Espíritu Santo 15</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Úbeda</TAG>, <TAG TYPE="TERRITORIO">Cantabria</TAG>, <TAG TYPE="TERRITORIO">Cantabria</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">39120</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">lidia.diez@uhu.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 942 03 05 84</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 742 68 12 06</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7998987</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Conserje</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Natalia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Franco Cortés</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">793389064</TAG>. <TAG TYPE="PROFESION">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">15/06/2023</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">24192791</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Norte</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">9191QDC</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Kia Sorento</TAG>
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSNXARXDVXK909846</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="DIETA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">76 años</TAG> de edad, con antecedentes de <TAG TYPE="ENFERMEDAD">hipertensión arterial</TAG> y <TAG TYPE="ENFERMEDAD">diabetes mellitus tipo 2</TAG>. Se presenta con síntomas de <TAG TYPE="SINTOMA">dolor abdominal crónico</TAG> y pérdida de peso durante los últimos 6 meses. La exploración física revela: Tª <TAG TYPE="MEDIDA">37,5 C</TAG>; T.A: <TAG TYPE="MEDIDA">120/80 mmHg</TAG>; Fc: <TAG TYPE="MEDIDA">80 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración ni signos de dolor. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="MEDIDA">12,5 g/dl</TAG>; leucocitos <TAG TYPE="MEDIDA">8.500/mm3</TAG> (neutrófilos 70%); plaquetas <TAG TYPE="MEDIDA">250.000/ mm3</TAG>. VSG: <TAG TYPE="MEDIDA">20 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="MEDIDA">90%</TAG>; TTPA <TAG TYPE="MEDIDA">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="MEDIDA">120 mg/dl</TAG>; urea <TAG TYPE="MEDIDA">20 mg/dl</TAG>; creatinina <TAG TYPE="MEDIDA">1,2 mg/dl</TAG>; sodio <TAG TYPE="MEDIDA">135 mEq/l</TAG>; potasio <TAG TYPE="MEDIDA">3,8 mEq/l</TAG>; GOT <TAG TYPE="MEDIDA">15 U/l</TAG>; GPT <TAG TYPE="MEDIDA">20 U/l</TAG>; GGT <TAG TYPE="MEDIDA">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="MEDIDA">120 U/l</TAG>; calcio <TAG TYPE="MEDIDA">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía abdominal, TAC craneal, Ecocardiograma transtorácico) que no evidencian patología significativa. Con el diagnóstico de <TAG TYPE="ENFERMEDAD">enfermedad inflamatoria intestinal</TAG> se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación testicular) así como tratamiento farmacológico específico: Aminas saliciladas <TAG TYPE="MEDIDA">500 mg</TAG> vía oral cada 6 horas (durante 2 semanas) y Metilprednisolona <TAG TYPE="MEDIDA">20 mg</TAG> vía oral cada 12 horas (durante 1 semana). El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde completará la pauta de tratamiento farmacológico.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Adam Galan</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Estevez</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">99454442G</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">27/02/1925</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle del Sombrerete 87</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Vitoria</TAG>, <TAG TYPE="TERRITORIO">Sevilla</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">41527</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">adam.estevez795@salud.madrid.org</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 70 45 65</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 754 53 40 87</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2584498</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">568296284626</TAG>
+  Condición de riesgo: 
+  <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG>
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Almudena Villanueva Menendez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">184758622</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">18/12/1940</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Virgen del Rocío</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1909QHD</TAG>
+  Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Jeep Wrangler</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSC8MMC8I9Y533268</TAG>
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>.
+  </TEXT>
+</MEDDOCAN>

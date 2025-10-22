@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Manuel</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Andrade Serrano</TAG>.
+    CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc-7826081</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">23 47913565 13</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Av. Rios rosas 26, 7E</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Santander</TAG>.
+    CP: <TAG TYPE="TERRITORIO">39001</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7826081</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/03/1984</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso:  <TAG TYPE="FECHAS">07/09/2017</TAG>.
+    Especialidad: <TAG TYPE="PROFESION">Urología</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Enrique</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ramos Barseló</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">39 39 76135</TAG>.
+    Antecedentes: fumador de un paquete de cigarrillos al día sin otros antecedentes de interés.
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33</TAG> años que acude a Urgencias por presentar desde hacía diez días induración peneana a nivel de la base. 
+    Exploración física: A la exploración se evidenció <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cordón longitudinal indurado</TAG> en la base del pene de localización dorsal, móvil y doloroso. No se palparon adenopatías inguinales. Afebril. 
+    Resumen de pruebas complementarias:Se realizó eco-doppler peneano en el que se objetivó una induración correspondiente a <TAG TYPE="OTRO_NUMERO_IDENTIF">trombosis segmentaria</TAG> de la <TAG TYPE="OTRO_NUMERO_IDENTIF">vena dorsal superficial</TAG> del pene. Estudio de coagulación normal
+    Diagnóstico Principal: <TAG TYPE="OTRO_NUMERO_IDENTIF">Enfermedad de Mondor</TAG>. 
+    Tratamiento:El paciente recibió <TAG TYPE="OTRO_NUMERO_IDENTIF">tratamiento antiinflamatorio</TAG>. No acudió a la revisión.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Enrique</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ramos Barseló</TAG> <TAG TYPE="INSTITUCION">Servicio de Urología Hospital Universitario Marqués de Valdecilla</TAG> <TAG TYPE="CALLE">Avda. Valdecilla sn.</TAG> <TAG TYPE="TERRITORIO" >39008</TAG> <TAG TYPE="TERRITORIO" >Santander</TAG>. <TAG TYPE="TERRITORIO" >Cantabria</TAG>. <TAG TYPE="PAIS">España</TAG>. <TAG TYPE="CORREO_ELECTRONICO">enriqueramosbarselo@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

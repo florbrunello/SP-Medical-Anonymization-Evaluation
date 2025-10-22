@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Iñigo Núñez Navarro
+DNI: 22434799R
+Fecha de nacimiento: 12/12/1985
+Género: Varón
+Domicilio: Calle de Don Ramón de la Cruz 32
+Ciudad: Zaragoza, Región de Murcia, Región de Murcia
+Código postal: 30047
+Email: inigo-nunez_navarro887@icloud.com
+Teléfono fijo: +34 968 68 36 93
+Teléfono móvil: +34 668 56 86 95
+NHC: 4947206
+NASS: 135359227887
+
+Datos asistenciales.
+Médico: Dr. José Javier Escobar Benítez. NC 606747908. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 09/09/2002
+Episodio: 06039952
+Centro de salud: Centro de Salud Arganzuela
+Matrícula del coche: 7990IPJ
+Modelo: Toyota Corolla
+VIN: VSDSYY7RW5N459815
+
+Informe clínico del paciente:
+Paciente de tez blanca de 16 años de edad, acompañado de su abuelo. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es SQ925JWU434. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Iñigo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Núñez Navarro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="22434799R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="12/12/1985" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="108" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="152" text="Calle de Don Ramón de la Cruz 32" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="161" end="169" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="187" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="189" end="205" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="221" end="226" text="30047" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="234" end="267" text="inigo-nunez_navarro887@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="283" end="299" text="+34 968 68 36 93" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="316" end="332" text="+34 668 56 86 95" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="338" end="345" text="4947206" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="352" end="364" text="135359227887" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="399" end="426" text="José Javier Escobar Benítez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="431" end="440" text="606747908" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="442" end="485" text="Cardiólogo de Unidad de Cuidados Intensivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="487" end="559" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="561" end="584" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="586" end="591" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="593" end="599" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="601" end="607" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="627" end="637" text="09/09/2002" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="648" end="656" text="06039952" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="674" end="700" text="Centro de Salud Arganzuela" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="722" end="729" text="7990IPJ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="758" end="775" text="VSDSYY7RW5N459815" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="819" end="829" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="833" end="840" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="867" end="873" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T32" start="957" end="968" text="SQ925JWU434" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Susana Lorenzo Esteban
+DNI: 59751747R
+Fecha de nacimiento: 17/07/1984
+Género: F
+Domicilio: Calle de las Yeserías 97
+Ciudad: Alcoy, Cuenca, Castilla-La Mancha
+Código postal: 16309
+Email: susana.lorenzo_esteban@udc.es
+Teléfono fijo: +34 969 74 12 98
+Teléfono móvil: +34 769 07 97 99
+NHC: 2846092
+Condición de riesgo: Guardia de Seguridad
+
+Datos asistenciales.
+Médico: Dra. Virginia Muñoz Arias. NC 438975927. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 08/12/2014
+Episodio: 85264696
+Hospital: Hospital Clínic Universitario San Cecilio
+Matrícula del coche: 0468FED
+Modelo: Hyundai Elantra
+VIN: VSJHWSFL0WZ898113
+
+Informe clínico del paciente:
+Paciente no fumador de 30 años de edad, acompañado de su abuela. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es BB514QZP338. Se registró una sesión de firma biométrica, el código obtenido para revisarla es OB983ICV525. 

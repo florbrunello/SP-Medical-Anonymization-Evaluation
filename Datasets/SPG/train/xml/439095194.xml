@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan José Caballero Manzano
+DNI: 41466152G
+Fecha de nacimiento: 26/06/1990
+Género: V
+Domicilio: Calle de Embajadores 95, 9T
+Ciudad: Tarragona, Cuenca, Castilla-La Mancha
+Código postal: 16724
+Email: manzano@aol.com
+Teléfono fijo: +34 969 03 86 89
+Teléfono móvil: +34 769 29 46 16
+NHC: 4637716
+NASS: 047874029467
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dra. Pilar Guerra Pascual. NC 595810766. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/06/1999
+Episodio: 53122264
+Hospital: Complejo Hospitalario Universitario de Cartagena
+Matrícula del coche: 3744VWG
+Modelo: Mercedes-Benz C-Class
+VIN: VSU44H419VO422351
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 8 años de edad, acompañado de su abuela. Se registró una sesión de firma biométrica, el código obtenido para revisarla es RT068DGF014. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Juan José" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="55" text="Caballero Manzano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="41466152G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="26/06/1990" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="112" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="151" text="Calle de Embajadores 95, 9T" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="169" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="177" text="Cuenca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="197" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="16724" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="241" text="manzano@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 969 03 86 89" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="290" end="306" text="+34 769 29 46 16" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="312" end="319" text="4637716" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="326" end="338" text="047874029467" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="360" end="366" text="Minero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="621" end="631" text="01/06/1999" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="642" end="650" text="53122264" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="661" end="709" text="Complejo Hospitalario Universitario de Cartagena" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="731" end="738" text="3744VWG" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="774" end="791" text="VSU44H419VO422351" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="835" end="859" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="863" end="869" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="896" end="902" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T25" start="985" end="996" text="RT068DGF014" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

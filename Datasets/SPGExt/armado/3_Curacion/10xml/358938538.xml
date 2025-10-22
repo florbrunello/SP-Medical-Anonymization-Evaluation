@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alejandro Rivas Rivas</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">16930801H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/04/2011</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Preciados 87, 3W</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Toledo</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">45358</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">alejandro.rivas_rivas@icloud.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 925 24 04 42</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 725 99 85 34</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0088776</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">577573754475</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Científico de Investigación</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Anna Domínguez Cruz</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 843294624</TAG>. <TAG TYPE="PROFESION">Endocrinóloga Especialista en Diabetes</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">15/09/2011</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">06418195</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Ronda</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 meses de edad</TAG>, acompañado de su hermana. Presenta un peso de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">6 kg</TAG> y una talla de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">65 cm</TAG>. Su temperatura corporal es de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">36,8°C</TAG> y su pulso es de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120 latidos por minuto</TAG>. No presenta signos de infección ni dolor en ninguna parte del cuerpo.
+    La exploración física revela una apariencia general saludable, con una piel suave y sin lesiones. El examen de la cabeza y el cuello no muestra ninguna anormalidad. La auscultación cardíaca es normal, sin soplos ni roces. La auscultación pulmonar también es normal, con un murmullo vesicular claro.
+    El paciente tiene una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lactancia materna</TAG> y no ha recibido ningún medicamento antes de su ingreso. No tiene antecedentes familiares de enfermedades graves.
+    Se solicitan análisis de sangre para verificar los niveles de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">glucosa</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina</TAG> y otros parámetros de salud. También se solicitan radiografías de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tórax</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">abdomen</TAG> para verificar la presencia de cualquier anormalidad en los pulmones y el abdomen.
+    Antecedentes:
+    El paciente tiene una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lactancia materna</TAG> y no ha recibido ningún medicamento antes de su ingreso. No tiene antecedentes familiares de enfermedades graves.
+    Evolución y comentarios:
+    El paciente está siendo monitorizado de cerca y se le están administrando análisis de sangre y radiografías para verificar su salud general. Se le está proporcionando atención médica adecuada y se le están informando a los padres sobre su progreso.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Anna Domínguez Cruz</TAG>, <TAG TYPE="PROFESION">Endocrinóloga Especialista en Diabetes</TAG>, <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>.
+  </TEXT>
+</MEDDOCAN>

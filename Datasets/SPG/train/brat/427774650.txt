@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Christian Martínez Ibáñez
+DNI: 40381585W
+Fecha de nacimiento: 21/11/1950
+Género: Varón
+Domicilio: Calle de la Magdalena 53
+Ciudad: Almería, Ávila, Castilla y León
+Código postal: 05082
+Email: ibanez@ciberned.es
+Teléfono fijo: +34 920 45 76 39
+FAX: +34 920 11 16 28
+NHC: 5882098
+NASS: 546811202275
+
+Datos asistenciales.
+Médico: Dr. Iñigo Soriano Hidalgo. NC 310388793. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/01/1986
+Episodio: 33783419
+Centro de salud: Centro de Salud Benalmádena
+
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 35 años de edad, acompañado de su compañero. 

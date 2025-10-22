@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sofía Casas Hernández
+DNI: 77916349P
+Fecha de nacimiento: 08/01/1930
+Género: F
+Domicilio: Calle de las Huertas 43, 9P
+Ciudad: Cáceres, Zaragoza, Aragón
+Código postal: 50729
+Email: sofia.hernandez@outlook.com
+Teléfono fijo: +34 976 41 65 56
+Teléfono móvil: +34 776 11 91 79
+NHC: 1263365
+NASS: 959680311272
+
+Datos asistenciales.
+Médico: Dra. María Jesús De la Fuente Lozano. NC 941167921. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/09/1957
+Centro de salud: Centro de Salud Sevilla Este
+Matrícula del coche: 6923JOA
+Modelo: Honda Civic
+VIN: VSG6AM9E2FD452751
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática del sudeste de 27 años de edad, acompañado de su hijo. El servidor para envío de información desde cual el usuario se comunica es smtp://example-research.net. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Sofía" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="49" text="Casas Hernández" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="77916349P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="08/01/1930" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="145" text="Calle de las Huertas 43, 9P" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="161" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="171" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="179" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="50729" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="235" text="sofia.hernandez@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 976 41 65 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 776 11 91 79" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="1263365" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="959680311272" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="595" end="605" text="11/09/1957" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="623" end="651" text="Centro de Salud Sevilla Este" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T18" start="673" end="680" text="6923JOA" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="706" end="723" text="VSG6AM9E2FD452751" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="767" end="799" text="ascendencia asiática del sudeste" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="803" end="810" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="837" end="841" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="918" end="941" text="smtp://example-research" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

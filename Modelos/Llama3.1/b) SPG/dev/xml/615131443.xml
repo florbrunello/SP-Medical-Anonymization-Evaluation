@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Vicente</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jiménez Del Rio</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">91314525V</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/11/1982</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Alberto Aguilera 100</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Xàtiva</TAG>, <TAG TYPE="TERRITORIO">Castellón</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">12870</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">delrio@aol.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 964 71 48 49</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 764 85 31 77</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2067503</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">782868931932</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Daniela Sáez Cuesta</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">616686238</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/01/2005</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">04143413</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Reina Sofía de Córdoba</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5983NJZ</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ford Mustang</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSW48WGL27U069243</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática del sudeste</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">vecina</TAG>. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-radiology.edu</TAG>.
+  </TEXT>
+</MEDDOCAN>

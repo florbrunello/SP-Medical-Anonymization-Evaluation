@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sergio Nieto Prieto
+DNI: 43571198K
+Fecha de nacimiento: 04/04/1953
+Género: M
+Domicilio: Calle de la Lechuga 68
+Ciudad: MelillaHuesca, Huesca, Aragón
+Código postal: 22844
+Email: sergio-prieto784@ucm.es
+Teléfono fijo: +34 974 08 37 59
+Teléfono móvil: +34 774 27 56 42
+NHC: 8160259
+NASS: 744758580794
+Condición de riesgo: Farmacéutico
+
+Datos asistenciales.
+Médico: Dr. Vicente Moreno Vega. NC 911394849. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 26/12/1997
+Episodio: 99160056
+Hospital: Complejo Hospitalario Universitario de Cartagena
+Matrícula del coche: 6580DPU
+Modelo: Toyota RAV4
+VIN: VSR03O5J9JV272341
+
+Informe clínico del paciente:
+Paciente no fumador de 44 años de edad, acompañado de su vecino. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.101.189, con dirección MAC 87:B4:9C:24:1B:D0. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es FZ581IVO406. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Sergio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Nieto Prieto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="43571198K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="04/04/1953" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="138" text="Calle de la Lechuga 68" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="160" text="MelillaHuesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="168" text="Huesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="176" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="192" end="197" text="22844" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="205" end="228" text="sergio-prieto784@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="244" end="260" text="+34 974 08 37 59" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="277" end="293" text="+34 774 27 56 42" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="299" end="306" text="8160259" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="313" end="325" text="744758580794" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="347" end="359" text="Farmacéutico" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="394" end="413" text="Vicente Moreno Vega" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="418" end="427" text="911394849" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="429" end="464" text="Residente de 3° año en Oftalmología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="466" end="524" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="526" end="550" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="552" end="557" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="559" end="569" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="571" end="577" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="597" end="607" text="26/12/1997" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="618" end="626" text="99160056" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="637" end="685" text="Complejo Hospitalario Universitario de Cartagena" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="707" end="714" text="6580DPU" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="740" end="757" text="VSR03O5J9JV272341" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="798" end="808" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="812" end="819" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="846" end="852" text="vecino" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T33" start="961" end="978" text="87:B4:9C:24:1B:D0" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <ID id="T34" start="1061" end="1072" text="FZ581IVO406" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

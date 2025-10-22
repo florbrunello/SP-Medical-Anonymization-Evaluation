@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gonzalo Simon Andres
+DNI: 68859685P
+Fecha de nacimiento: 09/05/1994
+Género: V
+Domicilio: Calle de Segovia 65
+Ciudad: Béjar, Soria, Castilla y León
+Código postal: 42169
+Email: gonzalo.andres@ucm.es
+Teléfono fijo: +34 975 74 43 63
+Teléfono móvil: +34 675 34 70 52
+NHC: 6967802
+NASS: 173329628719
+
+Datos asistenciales.
+Médico: Dra. Inés Lara Villanueva. NC 381077002. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 30/07/2011
+Episodio: 96226279
+Hospital: Hospital Clínic San Carlos
+Matrícula del coche: 0614BZE
+Modelo: Jeep Wrangler
+VIN: VSMEBJU3UFJ140945
+
+Informe clínico del paciente:
+Paciente no fumador de 17 años de edad. Se registró una sesión de firma biométrica, el código obtenido para revisarla es ZS750KRI856. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Gonzalo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Simon Andres" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="68859685P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="09/05/1994" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="136" text="Calle de Segovia 65" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="150" text="Béjar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="152" end="157" text="Soria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="159" end="174" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="42169" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="224" text="gonzalo.andres@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="240" end="256" text="+34 975 74 43 63" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="273" end="289" text="+34 675 34 70 52" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="295" end="302" text="6967802" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="309" end="321" text="173329628719" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="569" end="579" text="30/07/2011" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="590" end="598" text="96226279" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="609" end="635" text="Hospital Clínic San Carlos" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="657" end="664" text="0614BZE" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="692" end="709" text="VSMEBJU3UFJ140945" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="750" end="760" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="764" end="771" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="862" end="873" text="ZS750KRI856" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

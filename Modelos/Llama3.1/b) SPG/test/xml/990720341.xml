@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Clara</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vázquez Carrasco</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">87788636M</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/04/1926</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Rollo 59, 8C</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Logroño</TAG>, <TAG TYPE="TERRITORIO">Zamora</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">49321</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">vazquez@us.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 980 48 00 17</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 780 66 18 20</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6493148</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">187741669846</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Farmacéutico</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Moisés Hernández Camacho</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">478059638</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/07/1938</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">87132301</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Cabueñes</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">12 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>.
+  </TEXT>
+</MEDDOCAN>

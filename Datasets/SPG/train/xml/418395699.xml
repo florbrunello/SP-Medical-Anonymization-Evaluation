@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sonia Varela Padilla
+DNI: 47356638Y
+Fecha de nacimiento: 23/12/1993
+Género: Femenino
+Domicilio: Calle del Amparo 20, 3L
+Ciudad: Langreo, Sevilla, Andalucía
+Código postal: 41738
+Email: varelapadilla@uca.es
+Teléfono fijo: +34 954 04 84 99
+Teléfono móvil: +34 754 94 30 25
+NHC: 7788838
+Condición de riesgo: Electricista
+
+Datos asistenciales.
+Médico: Dr. Marcos Gómez Calderon. NC 555097490. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/07/2019
+Hospital: Complejo Asistencial Universitario de León
+
+Informe clínico del paciente:
+Paciente de tez blanca de 25 años de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es EH402OXQ646. Se registró una sesión de firma biométrica, el código obtenido para revisarla es ZO038OKL251. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Sonia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Varela Padilla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="47356638Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="23/12/1993" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="112" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="147" text="Calle del Amparo 20, 3L" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="163" text="Langreo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="172" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="183" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="199" end="204" text="41738" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="212" end="232" text="varelapadilla@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 954 04 84 99" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 754 94 30 25" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="7788838" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="332" end="344" text="Electricista" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="379" end="400" text="Marcos Gómez Calderon" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="405" end="414" text="555097490" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="416" end="450" text="Residente de 4° año en Cardiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="452" end="538" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="540" end="569" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="571" end="576" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="578" end="584" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="586" end="592" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="612" end="622" text="06/07/2019" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="633" end="675" text="Complejo Asistencial Universitario de León" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="719" end="729" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="733" end="740" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T28" start="832" end="843" text="EH402OXQ646" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T29" start="926" end="937" text="ZO038OKL251" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

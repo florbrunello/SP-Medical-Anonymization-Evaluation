@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Begoña</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ríos Gómez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">47180237S</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/08/2018</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Tres Cruces 27</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Telde</TAG>, <TAG TYPE="TERRITORIO">León</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">24474</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">brMom@h12o.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 987 93 86 79</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 787 48 84 84</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2835379</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">400350531122</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Cirujano</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ángeles Calderon Giménez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">843628670</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Insuficiencia Cardíaca</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">25/10/2024</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">73604999</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Santiago</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2997SWP</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Ram 1500</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSI8HT0MW7J533608</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia indígena centroamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tío</TAG>.
+  </TEXT>
+</MEDDOCAN>

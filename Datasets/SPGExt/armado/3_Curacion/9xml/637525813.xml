@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Xavier Luque Marcos</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">21298957Z</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/05/1960</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Jesús y María 54</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Segovia, Pontevedra, Galicia</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">36503</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">luque504@protonmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 986 90 04 64</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 986 95 03 06</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3192482</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">793089114543</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente con antecedentes de enfermedad crónica</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Nerea Romero Rojas</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">395942098</TAG>. <TAG TYPE="PROFESION">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">05/05/2005</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Ronda</TAG>.
+    Antecedentes:
+    El paciente tiene antecedentes de enfermedad crónica por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, controladas con medicación orals.
+    Evolución y comentarios:
+    El paciente fue ingresado en la unidad de cuidados intensivos debido a un episodio de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca aguda</TAG>, con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">disnea</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor torácico</TAG>. Se realizó una exploración física, que reveló <TAG TYPE="OTROS_SUJETO_ASISTENCIA">taquicardia</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipotensión</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">roncus</TAG> en la región pulmonar inferior.
+    Informe clínico del paciente:
+    La exploración física revela: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Tª 38,5 C</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">T.A: 110/70 mmHg</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Fc: 90 lpm</TAG>. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hemograma</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hb 13,5 g/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">leucocitos 12.000/mm3</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">neutrófilos 70%</TAG>); <TAG TYPE="OTROS_SUJETO_ASISTENCIA">plaquetas 200.000/mm3</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">VSG</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">40 mm 1ª hora</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Coagulación</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TQ 90%</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TTPA 25,5 seg</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Bioquímica</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Glucosa 120 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urea 25 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina 1,0 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sodio 135 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">potasio 3,5 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GOT 12 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GPT 25 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GGT 35 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fosfatasa alcalina 140 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">calcio 8,5 mg/dl</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Orina</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sedimento normal</TAG>.
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca aguda</TAG>, se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">antitérmicos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antiinflamatorios</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG> y elevación de las piernas) así como tratamiento farmacológico con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">furosemida</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">digoxina</TAG>. El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde continuará con el tratamiento y seguimiento médico.
+    Remitido por:
+    Se remite al paciente al <TAG TYPE="PROFESION">Servicio de Cardiología</TAG> para continuar con el tratamiento y seguimiento médico.
+  </TEXT>
+</MEDDOCAN>

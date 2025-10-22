@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Julián Rivero Álvarez
+DNI: 14776863F
+Fecha de nacimiento: 02/08/1950
+Género: M
+Domicilio: Calle de Jesús y María 40
+Ciudad: Cuenca, Menorca, Islas Baleares
+Código postal: 07322
+Email: julianrivero@uhu.es
+Teléfono fijo: +34 971 64 85 36
+Teléfono móvil: +34 771 61 58 76
+NHC: 0664303
+NASS: 521659942067
+Condición de riesgo: Operador de Máquina
+
+Datos asistenciales.
+Médico: Dra. María Elena Simon Sánchez. NC 718144323. Neuropsicóloga Clínica Investigadora. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/12/1961
+Hospital: Hospital Universitario Nuestra Señora de Candelaria
+
+Informe clínico del paciente:
+Paciente de tez blanca de 11 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Julián" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Rivero Álvarez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="14776863F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="02/08/1950" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="143" text="Calle de Jesús y María 40" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="158" text="Cuenca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="167" text="Menorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="183" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="199" end="204" text="07322" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="212" end="231" text="julianrivero@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 971 64 85 36" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 771 61 58 76" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="0664303" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="316" end="328" text="521659942067" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="350" end="369" text="Operador de Máquina" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="628" end="638" text="04/12/1961" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="649" end="700" text="Hospital Universitario Nuestra Señora de Candelaria" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="744" end="754" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="758" end="765" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="792" end="799" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

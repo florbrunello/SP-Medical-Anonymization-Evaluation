@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cristian</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pérez Casas</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">79199783L</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">02/08/1983</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle del León 12, 10O</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">Guadix</TAG>, <TAG TYPE="TERRITORIO">Sevilla</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">41937</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">cristian-perez-casas@uca.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 34 48 92</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 654 22 15 40</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2015251</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">803822911515</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Albañil</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Paula Cabrera Redondo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">855048134</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">21/04/1986</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario La Mancha Centro</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

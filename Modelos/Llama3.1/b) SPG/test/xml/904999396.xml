@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Beatriz</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Izquierdo Casado</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">59377226N</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">17/01/1950</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Don Ramón de la Cruz 20, 6J</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">Onda</TAG>, <TAG TYPE="TERRITORIO">Zaragoza</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">50994</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">beatriz-casado@icloud.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 976 94 09 64</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 676 78 38 54</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2567852</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Vicente Del Rio Prieto</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">665464990</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Insuficiencia Cardíaca</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">07/02/2020</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">16419208</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Barajas</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5697QYZ</TAG>
+  Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Toyota RAV4</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSPY86WP4YW018494</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">judío</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">70 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">conviviente</TAG>.
+  </TEXT>
+</MEDDOCAN>

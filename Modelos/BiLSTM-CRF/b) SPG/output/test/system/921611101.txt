@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Juan Francisco López Montes
+DNI: 95394078Z
+Fecha de nacimiento: 02/11/2000
+Género: Hombre
+Domicilio: Calle de Zurbano 20
+Ciudad: Móstoles, Valencia, Comunidad Valenciana
+Código postal: 46168
+Email: juanfrancisco_lopez-montes598@ciberer.es
+Teléfono fijo: +34 960 55 23 87
+Teléfono móvil: +34 760 07 43 67
+NHC: 0197076
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dra. Tamara Peña Pascual. NC 933792130. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/08/2015
+Episodio: 49964098
+Centro de salud: Centro de Salud Alhaurín de la Torre
+Matrícula del coche: 7720NON
+Modelo: Mercedes-Benz C-Class
+VIN: VSA0UIQPCBX767204
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 14 años de edad, acompañado de su madre. Se registró una sesión de firma biométrica, el código obtenido para revisarla es PC150VHK029. 

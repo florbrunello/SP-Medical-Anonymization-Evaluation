@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rosario Román Heredia
+DNI: 81789631K
+Fecha de nacimiento: 30/10/1950
+Género: Femenino
+Domicilio: Calle de las Yeserías 85, 1Y
+Ciudad: Toledo, León, Castilla y León
+Código postal: 24167
+Email: rosario.heredia1697@ciberer.es
+Teléfono fijo: +34 987 43 37 21
+Teléfono móvil: +34 787 70 12 73
+NHC: 5822091
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dr. Felipe Vidal Domínguez. NC 038790360. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 08/04/2023
+Episodio: 98895957
+Centro de salud: Centro de Salud Torrejón de Ardoz
+Matrícula del coche: 5008UYD
+Modelo: Subaru Outback
+VIN: VSGAF3LQAVC704613
+
+Informe clínico del paciente:
+Paciente de tez blanca de 72 años de edad, acompañado de su pareja. Se realizó un expediente con URL http://example-medical.edu//73128097Y. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Rosario" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="49" text="Román Heredia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="81789631K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="30/10/1950" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="113" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="153" text="Calle de las Yeserías 85, 1Y" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="162" end="168" text="Toledo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="174" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="191" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="24167" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="250" text="rosario.heredia1697@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="266" end="282" text="+34 987 43 37 21" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="299" end="315" text="+34 787 70 12 73" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="321" end="328" text="5822091" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="350" end="381" text="Operador de Maquinaria Agrícola" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="416" end="438" text="Felipe Vidal Domínguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="443" end="452" text="038790360" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="454" end="485" text="Residente de 5° año en Urología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="487" end="559" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="561" end="584" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="586" end="591" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="593" end="599" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="601" end="607" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="627" end="637" text="08/04/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="648" end="656" text="98895957" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="674" end="707" text="Centro de Salud Torrejón de Ardoz" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="729" end="736" text="5008UYD" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="765" end="782" text="VSGAF3LQAVC704613" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="826" end="836" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="840" end="847" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="874" end="880" text="pareja" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="915" end="937" text="http://example-medical" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

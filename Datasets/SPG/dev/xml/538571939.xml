@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Isabel María Benito Herrera
+DNI: 51807272W
+Fecha de nacimiento: 22/11/1946
+Género: F
+Domicilio: Calle de Bravo Murillo 32, 9K
+Ciudad: Tarragona, Zamora, Castilla y León
+Código postal: 49314
+Email: isabelmaria_benito223@ub.edu
+Teléfono fijo: +34 980 43 45 13
+FAX: +34 980 55 63 23
+NHC: 7947214
+NASS: 212359632261
+Condición de riesgo: Montador
+
+Datos asistenciales.
+Médico: Dra. Vanessa Estevez Guillen. NC 175862282. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/10/1978
+Episodio: 37395641
+Centro de salud: Centro de Salud Carabanchel
+
+Informe clínico del paciente:
+Paciente no fumador de 31 años de edad, acompañado de su conviviente. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="Isabel María" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="55" text="Benito Herrera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="51807272W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="22/11/1946" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="112" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="153" text="Calle de Bravo Murillo 32, 9K" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="162" end="171" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="173" end="179" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="181" end="196" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="212" end="217" text="49314" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="225" end="253" text="isabelmaria_benito223@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="269" end="285" text="+34 980 43 45 13" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="291" end="307" text="+34 980 55 63 23" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="313" end="320" text="7947214" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="327" end="339" text="212359632261" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="361" end="369" text="Montador" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="643" end="653" text="25/10/1978" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="664" end="672" text="37395641" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="690" end="717" text="Centro de Salud Carabanchel" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="758" end="768" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="772" end="779" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="806" end="817" text="conviviente" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

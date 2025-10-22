@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Josefa Delgado Carrillo
+DNI: 88557951Q
+Fecha de nacimiento: 18/02/1944
+Género: Femenino
+Domicilio: Calle de Ferraz 21, 4Y
+Ciudad: Santander, Palencia, Castilla y León
+Código postal: 34444
+Email: mariajosefadelgado@isciii.es
+Teléfono fijo: +34 979 77 70 79
+FAX: +34 979 91 01 85
+NHC: 8393372
+Condición de riesgo: Ama de casa
+
+Datos asistenciales.
+Médico: Dr. Domingo Soriano Gómez. NC 684531957. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/05/1945
+Episodio: 62249413
+Hospital: Hospital Universitario Reina Sofía de Córdoba
+Matrícula del coche: 0186OTH
+Modelo: Honda Civic
+VIN: VSDZMUCBP9Q855603
+
+Informe clínico del paciente:
+Paciente vegetariano de un año de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="María Josefa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="57" text="Delgado Carrillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="63" end="72" text="88557951Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="94" end="104" text="18/02/1944" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="113" end="121" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="133" end="155" text="Calle de Ferraz 21, 4Y" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="164" end="173" text="Santander" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="175" end="183" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="185" end="200" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="216" end="221" text="34444" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="229" end="257" text="mariajosefadelgado@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="273" end="289" text="+34 979 77 70 79" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="295" end="311" text="+34 979 91 01 85" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="317" end="324" text="8393372" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="346" end="357" text="Ama de casa" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="392" end="413" text="Domingo Soriano Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="418" end="427" text="684531957" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="429" end="462" text="Residente de 5° año en Neurología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="464" end="553" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="555" end="584" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="586" end="591" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="593" end="599" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="601" end="607" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="627" end="637" text="12/05/1945" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="648" end="656" text="62249413" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="667" end="712" text="Hospital Universitario Reina Sofía de Córdoba" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="734" end="741" text="0186OTH" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="767" end="784" text="VSDZMUCBP9Q855603" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="825" end="836" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="840" end="846" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="873" end="880" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

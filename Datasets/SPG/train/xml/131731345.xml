@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Manuela Acosta Santana
+DNI: 63288540S
+Fecha de nacimiento: 13/04/2014
+Género: M
+Domicilio: Calle de Santa Ana 11, 10I
+Ciudad: Telde, Navarra, Navarra
+Código postal: 31304
+Email: manuela.acosta@ciberned.es
+Teléfono fijo: +34 948 61 27 49
+Teléfono móvil: +34 648 41 25 96
+NHC: 2773250
+NASS: 475260943044
+Condición de riesgo: Científico de Investigación
+
+Datos asistenciales.
+Médico: Dr. José Valero Márquez. NC 825752744. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/09/2015
+Episodio: 81215422
+Centro de salud: Centro de Salud Móstoles
+Matrícula del coche: 4430GIM
+Modelo: Tesla Model 3
+VIN: VSO0XCEHUED392233
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de un año de edad, acompañado de su abuelo. Se registró una sesión de firma biométrica, el código obtenido para revisarla es KT440KDQ296. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Manuela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Acosta Santana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="63288540S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="13/04/2014" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="145" text="Calle de Santa Ana 11, 10I" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="159" text="Telde" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="168" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="177" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="193" end="198" text="31304" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="206" end="232" text="manuela.acosta@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 948 61 27 49" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 648 41 25 96" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="2773250" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="475260943044" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="351" end="378" text="Científico de Investigación" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="413" end="432" text="José Valero Márquez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="437" end="446" text="825752744" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="448" end="483" text="Neurólogo Especialista en Alzheimer" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="485" end="574" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="576" end="605" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="607" end="612" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="614" end="620" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="622" end="628" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="648" end="658" text="16/09/2015" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="669" end="677" text="81215422" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="695" end="719" text="Centro de Salud Móstoles" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="741" end="748" text="4430GIM" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="776" end="793" text="VSO0XCEHUED392233" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="834" end="855" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="859" end="865" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="892" end="898" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T33" start="981" end="992" text="KT440KDQ296" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

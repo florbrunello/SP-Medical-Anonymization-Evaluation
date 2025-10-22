@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sebastián Valero</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Hernández</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">45847993T</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/01/1935</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Virgen de los Peligros 19, 9Q</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Lleida</TAG>, <TAG TYPE="TERRITORIO">Albacete</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">02717</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">valero@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 967 89 41 43</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 967 56 06 18</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2003340</TAG>
+
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Miguel Ferrer Rodríguez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">226876415</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/06/1993</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">26781920</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Asistencial Universitario de León</TAG>
+
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="RELIGIÓN">musulman</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">58 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">compañero de trabajo</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de firma biométrica</TAG>, el <TAG TYPE="IDENTIF_BIOMETRICOS">código obtenido para revisarla</TAG> es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">OZ666JHG921</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de escaneo del iris</TAG>, el <TAG TYPE="IDENTIF_BIOMETRICOS">código obtenido para revisarla</TAG> es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">UE469FMM321</TAG>.
+  </TEXT>
+</MEDDOCAN>

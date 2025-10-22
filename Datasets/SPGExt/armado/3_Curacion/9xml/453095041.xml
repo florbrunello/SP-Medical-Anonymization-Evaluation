@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mohammed Castillo Calderon</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">83239112L</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/09/1983</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Bravo Murillo 28</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Albacete, Cantabria, Cantabria</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">39808</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">castillo_calderon576@ioba.med.uva.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 942 72 47 74</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 642 96 49 48</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8230779</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">742741790803</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Farmacéutico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Olga Velasco Guerra</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">589475355</TAG>. <TAG TYPE="PROFESION">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">29/08/2013</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Oeste</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">29 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipersensibilidad a los alimentos lácteos y gluten</TAG>, que acude al servicio de urgencias con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal crónico y diarrea</TAG>. La exploración física revela: <TAG TYPE="FECHAS">Tª 37,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 90 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: <TAG TYPE="FECHAS">Hb 14,2 g/dl</TAG>; <TAG TYPE="FECHAS">leucocitos 10.500/mm3</TAG> (<TAG TYPE="FECHAS">neutrófilos 60%</TAG>); <TAG TYPE="FECHAS">plaquetas 250.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">30 mm 1ª hora</TAG>. Coagulación: <TAG TYPE="FECHAS">TQ 95%</TAG>; <TAG TYPE="FECHAS">TTPA 25,5 seg</TAG>. Bioquímica: <TAG TYPE="FECHAS">Glucosa 110 mg/dl</TAG>; <TAG TYPE="FECHAS">urea 25 mg/dl</TAG>; <TAG TYPE="FECHAS">creatinina 1,0 mg/dl</TAG>; <TAG TYPE="FECHAS">sodio 135 mEq/l</TAG>; <TAG TYPE="FECHAS">potasio 3,8 mEq/l</TAG>; <TAG TYPE="FECHAS">GOT 15 U/l</TAG>; <TAG TYPE="FECHAS">GPT 20 U/l</TAG>; <TAG TYPE="FECHAS">GGT 30 U/l</TAG>; <TAG TYPE="FECHAS">fosfatasa alcalina 120 U/l</TAG>; <TAG TYPE="FECHAS">calcio 8,5 mg/dl</TAG>. Orina: <TAG TYPE="FECHAS">sedimento normal</TAG>.
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enteritis crónica</TAG> se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">antitérmicos, antiinflamatorios, reposo y dieta estricta</TAG>) así como tratamiento farmacológico: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mesalazina 1,5 g vía oral cada 6 horas</TAG> (durante <TAG TYPE="FECHAS">2 semanas</TAG>) y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Colestiramina 4 g vía oral cada 12 horas</TAG> (durante <TAG TYPE="FECHAS">1 semana</TAG>). El paciente mejora significativamente de su cuadro tras una semana de tratamiento, decidiéndose el alta a su domicilio donde continúa con la dieta estricta y el tratamiento farmacológico.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipersensibilidad a los alimentos lácteos y gluten</TAG>, lo que ha llevado a una dieta estricta <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegana</TAG> desde hace varios años. También tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal crónico y diarrea</TAG>, que se han vuelto más frecuentes en los últimos meses.
+    Evolución y comentarios:
+    El paciente ha estado en tratamiento con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mesalazina y Colestiramina</TAG> durante <TAG TYPE="FECHAS">2 semanas</TAG>, lo que ha llevado a una mejoría significativa de su cuadro. Se ha decidido mantener la dieta estricta <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegana</TAG> y el tratamiento farmacológico para evitar recaídas.
+    Remitido por:
+    El paciente ha sido remitido a

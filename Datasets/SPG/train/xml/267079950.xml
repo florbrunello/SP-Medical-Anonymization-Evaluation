@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Valeria Gracia Estevez
+DNI: 87180773D
+Fecha de nacimiento: 24/09/2022
+Género: M
+Domicilio: Calle del Amparo 54, 1B
+Ciudad: Elda, Orense, Galicia
+Código postal: 32743
+Email: gracia_estevez@yahoo.com
+Teléfono fijo: +34 988 94 92 01
+Teléfono móvil: +34 788 13 39 79
+NHC: 5561807
+NASS: 890501023981
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dra. Concepción Ruiz Sánchez. NC 314171908. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 30/11/2022
+Episodio: 19767234
+Centro de salud: Centro de Salud Majadahonda
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 2 meses de edad, acompañado de su tío. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es CL740QUQ492. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Valeria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Gracia Estevez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="87180773D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="24/09/2022" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="142" text="Calle del Amparo 54, 1B" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="155" text="Elda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="163" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="172" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="188" end="193" text="32743" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="201" end="225" text="gracia_estevez@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 988 94 92 01" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 788 13 39 79" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="296" end="303" text="5561807" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="310" end="322" text="890501023981" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="344" end="350" text="Minero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="615" end="625" text="30/11/2022" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="636" end="644" text="19767234" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="662" end="689" text="Centro de Salud Majadahonda" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="733" end="759" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="763" end="770" text="2 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="797" end="800" text="tío" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="888" end="899" text="CL740QUQ492" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

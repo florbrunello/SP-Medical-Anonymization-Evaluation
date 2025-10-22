@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Xavier Herrera Aguilar
+DNI: 39360761X
+Fecha de nacimiento: 27/10/1946
+Género: V
+Domicilio: Calle de Tribulete 72
+Ciudad: Ciudad autónoma de Melilla, Melilla, 
+Código postal: 51914
+Email: xavier_herrera@outlook.com
+Teléfono fijo: +34 951 42 69 77
+Teléfono móvil: +34 651 27 66 91
+NHC: 6190610
+NASS: 642744127754
+Condición de riesgo: Plomero
+
+Datos asistenciales.
+Médico: Dr. Santiago Cortés Lorenzo. NC 203002972. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/11/1964
+Episodio: 13464367
+Hospital: Hospital Universitario Fundación Alcorcón
+Matrícula del coche: 4563ZSN
+Modelo: Chrysler Pacifica
+VIN: VSJ3CWR4Y8Q304398
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 18 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.110.124, con dirección MAC 46:F6:AB:D5:69:C6. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es AL671HAO335. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es SB043TNM849. 

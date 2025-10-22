@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Adolfo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Parra Arias</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">13860861A</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">07/05/1987</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle del Sombrerete 55, 3M</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">Ponferrada</TAG>, <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">37975</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">adolfoarias@h12o.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 68 43 91</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 623 25 05 18</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9020942</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">753082335119</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Limpiador</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Ramón Durán Gutiérrez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">893409324</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Epidemiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">18/11/2013</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">51014091</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Rey Juan Carlos de Mostoles</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">26 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una consulta virtual desde la dirección IP <TAG TYPE="DIREC_PROT_INTERNET">192.168.213.242</TAG> (en red interna), con dirección MAC <TAG TYPE="IDENTIF_BIOMETRICOS">5B:D5:05:5B:16:32</TAG>.
+  </TEXT>
+</MEDDOCAN>

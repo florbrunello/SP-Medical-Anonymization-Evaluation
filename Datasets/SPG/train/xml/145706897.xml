@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ariadna Benítez Carrasco
+DNI: 83029516E
+Fecha de nacimiento: 02/11/1950
+Género: M
+Domicilio: Calle del Amparo 64
+Ciudad: Orense, Alicante, Comunidad Valenciana
+Código postal: 03611
+Email: benitez-carrasco49@protonmail.com
+Teléfono fijo: +34 965 15 51 62
+Teléfono móvil: +34 665 39 33 09
+NHC: 6875479
+NASS: 231737571377
+Condición de riesgo: Científico de Investigación
+
+Datos asistenciales.
+Médico: Dr. Martín Rubio Rivero. NC 448257072. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 09/07/1981
+Episodio: 85963578
+Centro de salud: Centro de Salud Ronda
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 30 años de edad, acompañado de su vecino. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es DA590IYX957. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Ariadna" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="52" text="Benítez Carrasco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="83029516E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="02/11/1950" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="140" text="Calle del Amparo 64" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="155" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="165" text="Alicante" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="167" end="187" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="03611" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="249" text="benitez-carrasco49@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="265" end="281" text="+34 965 15 51 62" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="298" end="314" text="+34 665 39 33 09" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="320" end="327" text="6875479" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="334" end="346" text="231737571377" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="368" end="395" text="Científico de Investigación" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="430" end="449" text="Martín Rubio Rivero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="454" end="463" text="448257072" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="465" end="508" text="Cardiólogo de Unidad de Cuidados Intensivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="510" end="582" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="584" end="607" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="609" end="614" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="616" end="622" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="624" end="630" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="650" end="660" text="09/07/1981" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="671" end="679" text="85963578" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="697" end="718" text="Centro de Salud Ronda" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="762" end="790" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="794" end="801" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="828" end="834" text="vecino" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="922" end="933" text="DA590IYX957" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

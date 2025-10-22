@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Fátima</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Tomas</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rivera</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">92887828M</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/06/2012</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Génova 83</TAG>, <TAG TYPE="TERRITORIO">10I</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Onda</TAG>, <TAG TYPE="TERRITORIO">Teruel</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">44301</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">tomas@h12o.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 978 56 06 08</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 978 95 84 91</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4967470</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Repartidor</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mohammed Domínguez Sánchez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">713004706</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/08/2022</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Vicálvaro</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

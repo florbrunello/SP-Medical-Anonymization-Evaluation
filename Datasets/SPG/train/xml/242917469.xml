@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Alicia Gil Abad
+DNI: 90243008R
+Fecha de nacimiento: 22/01/1971
+Género: Femenino
+Domicilio: Calle de Valverde 44
+Ciudad: Yecla, Cádiz, Andalucía
+Código postal: 11697
+Email: alicia-abad@ual.es
+Teléfono fijo: +34 956 15 57 57
+Teléfono móvil: +34 656 65 78 01
+NHC: 0062619
+NASS: 192542806646
+Condición de riesgo: Enfermera
+
+Datos asistenciales.
+Médico: Dr. Mohammed Cruz Castaño. NC 352106502. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/03/1975
+Episodio: 13859279
+Hospital: Hospital General Universitario Reina Sofía
+
+Informe clínico del paciente:
+Paciente judío de 4 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Alicia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="43" text="Gil Abad" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="49" end="58" text="90243008R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="80" end="90" text="22/01/1971" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="99" end="107" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="139" text="Calle de Valverde 44" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="153" text="Yecla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="160" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="162" end="171" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="187" end="192" text="11697" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="200" end="218" text="alicia-abad@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="234" end="250" text="+34 956 15 57 57" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="267" end="283" text="+34 656 65 78 01" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="289" end="296" text="0062619" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="303" end="315" text="192542806646" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="337" end="346" text="Enfermera" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="381" end="402" text="Mohammed Cruz Castaño" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="407" end="416" text="352106502" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="418" end="452" text="Residente de 4° año en Cardiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="454" end="540" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="542" end="571" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="573" end="578" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="580" end="586" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="588" end="594" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="614" end="624" text="13/03/1975" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="635" end="643" text="13859279" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="654" end="696" text="Hospital General Universitario Reina Sofía" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="737" end="742" text="judío" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="746" end="752" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="779" end="784" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Daniel Guillen Conde
+DNI: 37322450M
+Fecha de nacimiento: 03/08/1982
+Género: Hombre
+Domicilio: Calle de la Montera 33, 1C
+Ciudad: Ontinyent, Toledo, Castilla-La Mancha
+Código postal: 45951
+Email: guillen-conde@hotmail.com
+Teléfono fijo: +34 925 10 24 85
+Teléfono móvil: +34 725 46 85 47
+NHC: 4475208
+NASS: 752155447923
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dr. José Luis Méndez Luque. NC 693822811. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 20/01/2016
+Hospital: Hospital Universitario Virgen de la Victoria
+Matrícula del coche: 5137BCR
+Modelo: Tesla Model 3
+VIN: VSUQDP8YVFO988789
+
+Informe clínico del paciente:
+Paciente de ascendencia australiana de 33 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.63.202, con dirección MAC 16:00:4D:A5:B8:27. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es ZI140UZG226. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Daniel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Guillen Conde" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="37322450M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="03/08/1982" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="110" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="148" text="Calle de la Montera 33, 1C" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="166" text="Ontinyent" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="174" text="Toledo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="194" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="45951" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="248" text="guillen-conde@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="264" end="280" text="+34 925 10 24 85" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="297" end="313" text="+34 725 46 85 47" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="319" end="326" text="4475208" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="333" end="345" text="752155447923" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="367" end="374" text="Bombero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="409" end="431" text="José Luis Méndez Luque" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="436" end="445" text="693822811" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="447" end="491" text="Investigador Principal en Optometría Clínica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="493" end="551" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="553" end="577" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="579" end="584" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="586" end="596" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="598" end="604" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="624" end="634" text="20/01/2016" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="645" end="689" text="Hospital Universitario Virgen de la Victoria" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="711" end="718" text="5137BCR" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="746" end="763" text="VSUQDP8YVFO988789" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="807" end="830" text="ascendencia australiana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="834" end="841" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="957" end="974" text="16:00:4D:A5:B8:27" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <ID id="T32" start="1058" end="1069" text="ZI140UZG226" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

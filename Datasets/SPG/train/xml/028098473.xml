@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Carlos Gutiérrez Arias
+DNI: 30148546P
+Fecha de nacimiento: 08/04/1985
+Género: H
+Domicilio: Calle del Prado 28, 5Q
+Ciudad: Motril, Salamanca, Castilla y León
+Código postal: 37954
+Email: arias@udc.es
+Teléfono fijo: +34 923 12 05 56
+Teléfono móvil: +34 723 21 31 47
+NHC: 7009937
+NASS: 327404949120
+Condición de riesgo: Operador de Equipos Mineros
+
+Datos asistenciales.
+Médico: Dra. Blanca Iglesias Redondo. NC 512626592. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 10/02/1997
+Episodio: 41908613
+Hospital: Complejo Hospitalario Universitario de A Coruña
+Matrícula del coche: 5783KOK
+Modelo: Volkswagen Golf
+VIN: VSQBGVIHASO156873
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 11 años de edad, acompañado de su padre. Se realizó un expediente con URL http://example-research.net//26306889N. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es FM536QBP811. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="José Carlos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="55" text="Gutiérrez Arias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="30148546P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="08/04/1985" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="112" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="146" text="Calle del Prado 28, 5Q" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="161" text="Motril" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="172" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="189" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="37954" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="230" text="arias@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="246" end="262" text="+34 923 12 05 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="279" end="295" text="+34 723 21 31 47" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="301" end="308" text="7009937" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="315" end="327" text="327404949120" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="349" end="376" text="Operador de Equipos Mineros" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="630" end="640" text="10/02/1997" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="651" end="659" text="41908613" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="670" end="717" text="Complejo Hospitalario Universitario de A Coruña" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="739" end="746" text="5783KOK" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="776" end="793" text="VSQBGVIHASO156873" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="837" end="865" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="869" end="876" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="903" end="908" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T25" start="943" end="966" text="http://example-research" TYPE="URL_WEB" comment=""/>
+        <ID id="T26" start="1069" end="1080" text="FM536QBP811" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

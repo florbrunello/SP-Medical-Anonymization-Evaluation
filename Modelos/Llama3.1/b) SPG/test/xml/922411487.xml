@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Laia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iglesias Menendez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">77083956P</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/12/1997</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Villalar 79</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Talavera de la Reina</TAG>, <TAG TYPE="TERRITORIO">Navarra</TAG>, <TAG TYPE="TERRITORIO">Navarra</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">31568</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">laia-menendez@ciberehd.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 948 60 07 30</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 948 21 79 70</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0742330</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">870147979675</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Darío Zamora Salazar</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">365925853</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/05/2023</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Torrecárdenas</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0655BBY</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Toyota RAV4</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSL0JHTV4ME546309</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">exfumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">25 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">marido</TAG>. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="URL_WEB">smtp://example-nutrition.net</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">VC416CUV269</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">firma biométrica</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">TL662HQD224</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">escaneo del iris</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">GX395SZQ676</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Pol Escobar Quintana
+DNI: 77318780W
+Fecha de nacimiento: 07/05/1956
+Género: V
+Domicilio: Calle de Espoz y Mina 83
+Ciudad: Plasencia, Salamanca, Castilla y León
+Código postal: 37662
+Email: pol-quintana@salud.madrid.org
+Teléfono fijo: +34 923 59 28 27
+FAX: +34 923 22 93 90
+NHC: 0947237
+NASS: 020225534808
+Condición de riesgo: Operador de Máquina
+
+Datos asistenciales.
+Médico: Dr. Diego Camacho Rico. NC 488361760. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 18/10/1984
+Episodio: 76403943
+Hospital: Hospital Universitario Río Hortega
+
+Informe clínico del paciente:
+Paciente exfumador de 28 años de edad, acompañado de su hijo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Pol" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="48" text="Escobar Quintana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="77318780W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="07/05/1956" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="141" text="Calle de Espoz y Mina 83" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="159" text="Plasencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="170" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="187" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="37662" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="245" text="pol-quintana@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="261" end="277" text="+34 923 59 28 27" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 923 22 93 90" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="305" end="312" text="0947237" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="020225534808" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="353" end="372" text="Operador de Máquina" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="407" end="425" text="Diego Camacho Rico" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="430" end="439" text="488361760" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="441" end="484" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="486" end="544" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="546" end="570" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="572" end="577" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="579" end="589" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="591" end="597" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="617" end="627" text="18/10/1984" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="638" end="646" text="76403943" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="657" end="691" text="Hospital Universitario Río Hortega" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="732" end="741" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="745" end="752" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="779" end="783" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

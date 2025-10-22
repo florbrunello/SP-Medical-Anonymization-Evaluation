@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Juan Pedro Salazar Castro
+DNI: 27991347W
+Fecha de nacimiento: 20/03/1993
+Género: Hombre
+Domicilio: Calle de Alberto Aguilera 63
+Ciudad: Denia, Lugo, Galicia
+Código postal: 27076
+Email: salazar.castro@gmail.com
+Teléfono fijo: +34 982 06 30 04
+Teléfono móvil: +34 682 48 11 63
+NHC: 8602543
+NASS: 190331065052
+
+Datos asistenciales.
+Médico: Dra. Ángela Ríos Bermudez. NC 563147770. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/02/2012
+Episodio: 72881943
+Hospital: Complejo Asistencial Universitario de León
+Matrícula del coche: 7598XQW
+Modelo: Subaru Outback
+VIN: VSO4BRMEQ7M539769
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 18 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.116.255, con dirección MAC 25:9E:0E:75:1A:47. 

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Valentín</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mesa Cruz</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">37577807Q</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/12/1950</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Marqués de Urquijo 48</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ermua</TAG>, <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">14798</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">valentin-cruz@ucm.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 957 00 46 51</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 757 35 21 59</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8996334</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">737159522557</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Pintor de Construcción</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Darío Aparicio Aranda</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">189646969</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/04/2010</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">22837416</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Regional Universitario de Málaga</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">4069HLM</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hyundai Elantra</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSS8ZH70S6D410478</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">59 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tío</TAG>. Se registró una consulta virtual desde la dirección IP <TAG TYPE="DIREC_PROT_INTERNET">192.168.11.167</TAG>, con dirección MAC <TAG TYPE="IDENTIF_BIOMETRICOS">45:B0:06:2C:79:40</TAG>.
+  </TEXT>
+</MEDDOCAN>

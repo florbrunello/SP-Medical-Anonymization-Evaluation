@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Patricia</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gonzalez Perez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7846523</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">98 91329278 42</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Gral. Rey, 2</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Ciudad Real</TAG>.
+    CP: <TAG TYPE="TERRITORIO">13001</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">29/08/1984</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">13/05/2017</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Nefrologia</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">5486916154</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rivera Hernández</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">13 13 45698</TAG>.
+    Historia Actual: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG>, sin antecedentes de interés, que presenta un cuadro de dolor abdominal, diarreas y síndrome constitucional, aparecido unas semanas después de su primer parto; la gestación previa había transcurrido sin complicaciones. Es estudiada en la Sección de Aparato Digestivo, siendo diagnosticada de EC al reunir criterios diagnósticos: 1) título elevado de anticuerpos antitransglutaminasa; y 2) biopsia intestinal con atrofia de vellosidades en duodeno e hiperplasia de criptas. Poco después de la clínica comentada, presenta poliartralgias de medianas articulaciones, de predominio en carpos y tarsos, junto con parestesias y lesiones cutáneas con micropápulas pruriginosas. La envían a Nefrología por detectar proteinuria de +++. En la exploración física: tensión arterial 104/76 mmHg, IMC 27, mínimos edemas en miembros inferiores y pápulas en codos y brazos. En la analítica: hemograma y coagulación normales, creatinina 0,9 mg/dl, colesterol total 238 mg/dl, triglicéridos 104 mg/dl, proteínas totales 6,5 g/dl y albúmina 3,6 g/dl. En el estudio inmunológico: ANA, anti-DNA, ANCAS, C3, C4, anticuerpos anticardiolipina, anticoagulante lúpico y crioglobulinas negativos o normales. La serología frente a VHB, VHC y VIH negativa. Los anticuerpos antitransglutaminasa tisular IgA positivos a título 800 U/ml (normal <7 U/ml). En orina: proteínas 4,4 g/día y sedimento con 5 hematíes por campo. La ecografía renal es normal. Ante la persistencia de la proteinuria nefrótica durante varias semanas, se hace biopsia renal percutánea, cuyo resultado es una NM estadio 2, sin lesiones vasculares ni intersticiales. Recibe tratamiento con dieta sin gluten y otras medidas conservadoras con estatina, aspirina a dosis antiagregantes, enalapril y losartán, sin respuesta inicial. No obstante, a los 12 meses de seguimiento, se aprecia de forma simultánea la negativización de los anticuerpos antitransglutaminasa y la remisión completa de la proteinuria, como se indica en la figura 1. Durante este tiempo no ha presentado otros datos de enfermedad sistémica, salvo aumento de los niveles de TSH 6,6 µU/ml, con T4l de 1,1 ng/dl y anticuerpos antitiroglobulina y antimicrosomales negativos.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco Rivera Hernández</TAG>, <TAG TYPE="PROFESION">Sección de Nefrología</TAG> <TAG TYPE="HOSPITAL">Hospital General de Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Ciudad Real</TAG>. <TAG TYPE="CORREO_ELECTRONICO">friverahdez@senofro.org</TAG>
+  </TEXT>
+</MEDDOCAN>

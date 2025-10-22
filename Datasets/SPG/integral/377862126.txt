@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Encarnación Rico Tomas
+DNI: 85831973K
+Fecha de nacimiento: 01/06/1945
+Género: F
+Domicilio: Calle de Almagro 98
+Ciudad: Xirivella, Santa Cruz de Tenerife, Canarias
+Código postal: 38093
+Email: encarnacion143@isciii.es
+Teléfono fijo: +34 922 43 52 79
+Teléfono móvil: +34 622 52 71 43
+NHC: 0780023
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dra. Mireia Santana Vega. NC 897905393. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 24/04/1984
+Episodio: 42249707
+Centro de salud: Centro de Salud Málaga Norte
+
+Informe clínico del paciente:
+Paciente musulman de 38 años de edad, acompañado de su abuela. El servidor para envío de información desde cual el usuario se comunica es smtp://example-medical.edu. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es WX981HNG013. 

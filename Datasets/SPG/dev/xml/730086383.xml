@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Miriam Salas Pacheco
+DNI: 67487556J
+Fecha de nacimiento: 16/09/1936
+Género: F
+Domicilio: Calle del Sombrerete 16
+Ciudad: Badajoz, Ávila, Castilla y León
+Código postal: 05168
+Email: miriam.salas@uca.es
+Teléfono fijo: +34 920 88 95 07
+Teléfono móvil: +34 720 40 83 88
+NHC: 8897932
+Condición de riesgo: Trabajador de Residuos Sólidos
+
+Datos asistenciales.
+Médico: Dr. Mateo Salas Marcos. NC 024027941. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/01/1959
+Hospital: Hospital Clínic Universitario de Valencia
+Matrícula del coche: 1367WLM
+Modelo: Tesla Model 3
+VIN: VSLOQUJPF2N995769
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 22 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Miriam" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Salas Pacheco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="67487556J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="16/09/1936" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="140" text="Calle del Sombrerete 16" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="156" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="163" text="Ávila" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="180" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="05168" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="228" text="miriam.salas@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="244" end="260" text="+34 920 88 95 07" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="277" end="293" text="+34 720 40 83 88" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="299" end="306" text="8897932" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="328" end="358" text="Trabajador de Residuos Sólidos" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="393" end="411" text="Mateo Salas Marcos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="416" end="425" text="024027941" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="427" end="460" text="Residente de 5° año en Neurología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="462" end="551" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="553" end="582" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="584" end="589" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="591" end="597" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="599" end="605" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="625" end="635" text="19/01/1959" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="646" end="687" text="Hospital Clínic Universitario de Valencia" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="709" end="716" text="1367WLM" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="744" end="761" text="VSLOQUJPF2N995769" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="802" end="823" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="827" end="834" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mohammed Esteban</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Blazquez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">45827020A</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/10/1928</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Espíritu Santo 13, 2E</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Alcoy</TAG>, <TAG TYPE="TERRITORIO">Badajoz</TAG>, <TAG TYPE="TERRITORIO">Extremadura</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">06216</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">blazquez@ioba.med.uva.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 924 46 03 52</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 724 26 22 97</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1068319</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">440018950733</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Albañil</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Jesús Gómez De la Fuente</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">804124621</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">14/11/1948</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">95493554</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Ramón y Cajal</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6065LPE</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Tesla Model 3</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSZT4M6LCJR433898</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> de edad. Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">http://example-healthcare.net//22022678D</TAG>.
+  </TEXT>
+</MEDDOCAN>

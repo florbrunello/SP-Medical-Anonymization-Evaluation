@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Antonio</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Reyes Landero</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7654735</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">37 45674330 21</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Julio Palacios, 36</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Albacete</TAG>.
+    CP: <TAG TYPE="TERRITORIO">02006</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/05/1959</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">58 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">04/01/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Héctor</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pastor Navarro</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">02 02 25631</TAG>.
+    Informe clínico del paciente: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">58 años</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Litiasis cálcica calicial de riñón izquierdo</TAG>.
+    Antecedentes personales: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">HTA severa de difícil control</TAG>, pues en una ocasión previa se tuvo que suspender la <TAG TYPE="PROFESION">Leoch</TAG> hasta estabilizar las cifras tensionales con estudio y tratamiento por el <TAG TYPE="INSTITUCION">servicio de Nefrología</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Moderada obesidad</TAG>.
+    Primera <TAG TYPE="PROFESION">Leoch</TAG>. Nº e intensidad de las ondas: <TAG TYPE="OTRO_NUMERO_IDENTIF">4.500 a 4</TAG>.
+    Clínica: Ingresa dos días después de <TAG TYPE="PROFESION">Leoch</TAG> de riñón izquierdo con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor lumboabdominal izquierdo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">shock hipovolémico</TAG> con <TAG TYPE="OTRO_NUMERO_IDENTIF">Hb de 7</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">Hto 24</TAG>.
+    Se transfundieron <TAG TYPE="OTRO_NUMERO_IDENTIF">4 unidades de concentrado de hematíes</TAG> a lo largo de los días del ingreso para estabilizar la <TAG TYPE="OTRO_NUMERO_IDENTIF">Hb</TAG> entre <TAG TYPE="OTRO_NUMERO_IDENTIF">9</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">9,5</TAG>.
+    En <TAG TYPE="PROFESION">TAC</TAG> se comprobó la existencia del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematoma subcapsular</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fragmentos litiásicos</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">derrame pleural izquierdos</TAG>.
+    En <TAG TYPE="PROFESION">UIV</TAG> algunos días después, existía <TAG TYPE="OTROS_SUJETO_ASISTENCIA">retraso funcional de riñón izquierdo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">deficiente visualización de cálices e infundíbulos</TAG> por compresión de los mismos con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">uréter normal</TAG>.
+    Se efectuó <TAG TYPE="PROFESION">toracocentesis</TAG> con evacuación de <TAG TYPE="OTRO_NUMERO_IDENTIF">200 cc de líquido hemático</TAG>.
+    Doce días después de producido el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematoma</TAG> se procedió al <TAG TYPE="PROFESION">drenaje</TAG> del mismo por <TAG TYPE="PROFESION">lumbotomía</TAG>; cuatro días más tarde fue alta con buen estado general. Los controles radiológicos y analíticos posteriores confirmaron la normal función renal bilateral.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Héctor Pastor Navarro</TAG> <TAG TYPE="INSTITUCION">Servicio de Urología</TAG> <TAG TYPE="INSTITUCION">Complejo Hospitalario Universitario de Albacete</TAG> <TAG TYPE="CALLE">Hermanos Falcó, s/n</TAG> - <TAG TYPE="TERRITORIO">02006</TAG> <TAG TYPE="TERRITORIO">Albacete</TAG> Tel.: <TAG TYPE="NUMERO_TELEFONO">967 597 100</TAG> E-mail autor: <TAG TYPE="CORREO_ELECTRONICO">hektorpn@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

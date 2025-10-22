@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Antonio Prieto Giménez
+DNI: 41169184N
+Fecha de nacimiento: 10/10/1948
+Género: Varón
+Domicilio: Calle de la Cabeza del Rey Don Pedro 39
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52782
+Email: joseantonioprieto697@ciberer.es
+Teléfono fijo: +34 956 37 39 64
+FAX: +34 956 91 68 92
+NHC: 6733704
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dr. Alejandro Navarro Ramos. NC 136832138. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/01/1963
+Episodio: 50786388
+Hospital: Hospital Universitario de Basurto
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 14 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="José Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="55" text="Prieto Giménez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="41169184N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="10/10/1948" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="116" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="167" text="Calle de la Cabeza del Rey Don Pedro 39" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="176" end="200" text="Ciudad autónoma de Ceuta" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="202" end="208" text="Ceuta," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="225" end="230" text="52782" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="238" end="269" text="joseantonioprieto697@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="285" end="301" text="+34 956 37 39 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="307" end="323" text="+34 956 91 68 92" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T13" start="329" end="336" text="6733704" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T14" start="358" end="368" text="Paramédico" TYPE="PROFESION" comment=""/>
+        <NAME id="T15" start="403" end="426" text="Alejandro Navarro Ramos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="431" end="440" text="136832138" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="442" end="477" text="Neuropsicólogo Clínico Investigador" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="479" end="549" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="551" end="580" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="582" end="587" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="589" end="595" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="597" end="603" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="623" end="633" text="18/01/1963" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="644" end="652" text="50786388" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="663" end="696" text="Hospital Universitario de Basurto" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="740" end="766" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="770" end="777" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="804" end="809" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

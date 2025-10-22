@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Roberto Sierra Abad</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">43106323E</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/03/1961</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Valverde 96, 7S</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Lorca</TAG>, <TAG TYPE="TERRITORIO">Navarra</TAG>, <TAG TYPE="TERRITORIO">Navarra</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">31143</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">roberto_sierra-abad@ual.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 948 00 48 26</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 948 05 48 86</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5741672</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">43106323E</TAG>.
+    Condición de riesgo: Paciente con antecedentes de enfermedad hepática
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ana María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Serrano Ríos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">390883409</TAG>. Residente de <TAG TYPE="PROFESION">3° año</TAG> en <TAG TYPE="PROFESION">Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/07/2023</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Reina Sofía de Córdoba</TAG>
+    Informe clínico del paciente:
+    Paciente musulman de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">17 años</TAG> de edad, con antecedentes de enfermedad hepática, que acude al servicio de <TAG TYPE="PROFESION">Gastroenterología</TAG> con síntomas de ictericia y dolor abdominal. El paciente tiene una historia de consumo de alcohol y drogas, y ha sido diagnosticado con hepatitis B crónica.
+    La exploración física revela ictericia, dolor abdominal, y un aumento de la resistencia en la zona hepática. Los análisis de sangre muestran un aumento de las enzimas hepáticas y un decremento de la función hepática.
+    Se solicitan pruebas de imagen para evaluar la gravedad de la enfermedad hepática y determinar la necesidad de un trasplante de hígado. El paciente es sometido a una exploración endoscópica para evaluar la presencia de lesiones en el tracto digestivo.
+    El tratamiento consiste en la administración de medicamentos para controlar la ictericia y el dolor abdominal, así como la realización de un seguimiento regular para evaluar la evolución de la enfermedad.
+    Antecedentes:
+    El paciente tiene una historia de consumo de alcohol y drogas, lo que ha llevado a la enfermedad hepática. El paciente también tiene antecedentes de hepatitis B crónica.
+    Evolución y comentarios:
+    El paciente ha estado recibiendo tratamiento para controlar la ictericia y el dolor abdominal. La exploración endoscópica ha revelado lesiones en el tracto digestivo, lo que ha llevado a la realización de un seguimiento regular para evaluar la evolución de la enfermedad.
+    Remitido por:
+    El paciente ha sido remitido por el servicio de <TAG TYPE="PROFESION">Urgencias</TAG> del <TAG TYPE="HOSPITAL">Hospital Universitario Reina Sofía de Córdoba</TAG>.
+  </TEXT>
+</MEDDOCAN>

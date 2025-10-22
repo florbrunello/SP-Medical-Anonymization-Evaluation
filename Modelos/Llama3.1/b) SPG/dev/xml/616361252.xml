@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Álvaro</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pérez Maldonado</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">13972104H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/04/1940</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Oso 30, 9Y</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Pamplona</TAG>, <TAG TYPE="TERRITORIO">Cádiz</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">11046</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">maldonado1853@salud.madrid.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 98 53 37</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 956 50 42 64</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5854132</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">999189511341</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Minero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Victoria Pacheco Heredia</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">556664537</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Oftalmóloga Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/11/1974</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">03784482</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital GaldaKao - Usansolo</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6191QLM</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">BMW 3 Series</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSFU7U0LF9Y927708</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia nórdica o escandinava</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">34 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">amiga</TAG>.
+  </TEXT>
+</MEDDOCAN>

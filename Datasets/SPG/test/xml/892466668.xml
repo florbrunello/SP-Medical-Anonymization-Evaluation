@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Consuelo Bernal Castillo
+DNI: 51053703M
+Fecha de nacimiento: 29/11/1948
+Género: M
+Domicilio: Calle del Carmen 1
+Ciudad: Ciudad autónoma de Melilla, Melilla, 
+Código postal: 51024
+Email: bernal-castillo@ub.edu
+Teléfono fijo: +34 951 20 23 87
+FAX: +34 951 91 96 35
+NHC: 3401525
+NASS: 029613204305
+Condición de riesgo: Policía
+
+Datos asistenciales.
+Médico: Dra. María Nieves Ramos Cortés. NC 076719061. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/06/1981
+Episodio: 95260304
+Centro de salud: Centro de Salud Carabanchel
+Matrícula del coche: 2793TUE
+Modelo: Audi A4
+VIN: VSCRS9OP1FI445400
+
+Informe clínico del paciente:
+Paciente vegano de 32 años de edad. Se registró una sesión de huella dactilar, el código obtenido para revisarla es PD766JLF710. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Consuelo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="52" text="Bernal Castillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="51053703M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="29/11/1948" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="139" text="Calle del Carmen 1" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="174" text="Ciudad autónoma de Melilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="176" end="184" text="Melilla," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="201" end="206" text="51024" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="214" end="236" text="bernal-castillo@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="252" end="268" text="+34 951 20 23 87" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="274" end="290" text="+34 951 91 96 35" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T13" start="296" end="303" text="3401525" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="310" end="322" text="029613204305" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T15" start="344" end="351" text="Policía" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="637" end="647" text="12/06/1981" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="658" end="666" text="95260304" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="684" end="711" text="Centro de Salud Carabanchel" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="733" end="740" text="2793TUE" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="762" end="779" text="VSCRS9OP1FI445400" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="820" end="826" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="830" end="837" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="927" end="938" text="PD766JLF710" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

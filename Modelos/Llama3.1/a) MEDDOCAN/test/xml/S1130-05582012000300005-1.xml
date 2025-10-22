@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ramon</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Piqueras Sanchez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4654365</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">23 45703245 20</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de las Peñas 23, 5A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28030</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">12/05/1978</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">06/06/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alfredo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mogedas Vergara</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 45 96985</TAG>.
+    Motivo de ingreso: una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumoración</TAG> <TAG TYPE="CALLE">cervical izquierda</TAG> de gran tamaño.
+    Historia Actual: El paciente explica lento e indoloro crecimiento de la masa de aproximadamente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">10 años</TAG> de evolución.
+    Los límites de la tumoración comprenden <TAG TYPE="CALLE">cuerpo mayor izquierdo de hioides</TAG> a nivel anterior, <TAG TYPE="TERRITORIO">región mastoidea</TAG> a nivel superior, <TAG TYPE="CALLE">clavícula</TAG> en la parte inferior y <TAG TYPE="CALLE">protuberancia occipital externa</TAG> como límite posterior.
+    La consistencia de la masa es <TAG TYPE="OTROS_SUJETO_ASISTENCIA">blanda</TAG> y no se encuentra adherida a planos profundos.
+    No se palparon <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">adenopatías</TAG> ni otras masas y la exploración intraoral fue normal.
+    Antecedentes:  Como antecedentes destaca intervención quirúrgica de un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">quiste branquial</TAG> en esta misma localización hace <TAG TYPE="OTROS_SUJETO_ASISTENCIA">18 años</TAG>.
+    Exploración física: completamente anodina
+    Resumen de pruebas complementarias: Se decide realizar <TAG TYPE="PROFESION">resonancia magnética</TAG> <TAG TYPE="CALLE">cérvico-facial</TAG> en la que se evidencia una masa homogénea, bien delimitada que no invadía estructuras vecinas y con una densidad grasa.
+    Se realiza la toma de una muestra mediante <TAG TYPE="PROFESION">punción-aspiración</TAG> con aguja fina (PAAF) que confirmó las sospechas iniciales de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lipoma</TAG>.
+    Se decidió realizar <TAG TYPE="PROFESION">escisión quirúrgica</TAG> de la tumoración. Se realizó un abordaje a nivel de la <TAG TYPE="CALLE">línea posterior del cabello</TAG>, resecando un huso cutáneo de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">5*10cm</TAG> para mejorar el cierre directo.
+    Durante la intervención se obtuvo una pieza de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">459,5g</TAG> de peso y unas dimensiones de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25*16*4,8cm</TAG>.
+    Evolución y comentarios: Tras el primer día de postoperatorio el paciente muestra <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematoma</TAG> de rápido crecimiento a nivel de la <TAG TYPE="CALLE">sutura posterior</TAG> que es necesario evacuar de urgencia y realizar <TAG TYPE="PROFESION">hemostasia</TAG> de un pequeño vaso a nivel de <TAG TYPE="CALLE">músculo trapecio izquierdo</TAG>.
+    Tras el séptimo día postoperatorio el paciente fue dado de alta.
+    Los estudios anatomopatológicos confirmaron el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lipoma</TAG> sin atipias
+    Actualmente evoluciona satisfactoriamente y se encuentra en controles en nuestras consultas externas.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alfredo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mogedas Vergara</TAG> <TAG TYPE="CORREO_ELECTRONICO">alfmgvg@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

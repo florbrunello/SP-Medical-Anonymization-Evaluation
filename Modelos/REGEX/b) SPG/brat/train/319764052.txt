@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Emma Avila González
+DNI: 49703139R
+Fecha de nacimiento: 26/02/1945
+Género: F
+Domicilio: Calle de Toledo 65
+Ciudad: Lorca, La Rioja, La Rioja
+Código postal: 26166
+Email: emma_avila@h12o.es
+Teléfono fijo: +34 941 04 28 71
+Teléfono móvil: +34 741 17 64 09
+NHC: 1657520
+
+Datos asistenciales.
+Médico: Dr. Héctor Díaz Martín. NC 961910790. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/02/1962
+Episodio: 89060788
+Centro de salud: Centro de Salud Centro
+
+Informe clínico del paciente:
+Paciente musulman de 16 años de edad. Se realizó un expediente con URL http://example-healthcare.net//79390181D. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es HA882RXU853. 

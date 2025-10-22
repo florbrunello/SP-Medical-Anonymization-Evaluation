@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sergio Soler Rojas
+DNI: 38955472G
+Fecha de nacimiento: 13/02/1975
+Género: Masculino
+Domicilio: Calle de la Paz 86
+Ciudad: Almería, Las Palmas, Canarias
+Código postal: 35597
+Email: rojas1686@aol.com
+Teléfono fijo: +34 928 78 29 77
+Teléfono móvil: +34 728 03 32 39
+NHC: 5319868
+NASS: 565708605328
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dr. Aitor Trujillo Herrera. NC 296402008. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/08/1999
+Episodio: 30320878
+Centro de salud: Centro de Salud Alcalá de Henares
+Matrícula del coche: 4058HVR
+Modelo: Jeep Wrangler
+VIN: VSKZ7OL8T8C254077
+
+Informe clínico del paciente:
+Paciente no fumador de 24 años de edad, acompañado de su sobrino. Se realizó un expediente con URL http://example-cardiology.com//83680731M. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es VS074APY827. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Sergio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="46" text="Soler Rojas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="38955472G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="13/02/1975" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="111" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="141" text="Calle de la Paz 86" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="157" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="169" text="Las Palmas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="179" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="35597" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="225" text="rojas1686@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 928 78 29 77" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 728 03 32 39" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="296" end="303" text="5319868" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="310" end="322" text="565708605328" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="344" end="354" text="Paramédico" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="389" end="411" text="Aitor Trujillo Herrera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="416" end="425" text="296402008" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="427" end="466" text="Investigador Clínico en Síndromes Raros" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="468" end="543" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="545" end="574" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="576" end="581" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="583" end="589" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="591" end="597" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="617" end="627" text="11/08/1999" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="638" end="646" text="30320878" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="664" end="697" text="Centro de Salud Alcalá de Henares" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="719" end="726" text="4058HVR" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="754" end="771" text="VSKZ7OL8T8C254077" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="812" end="822" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="826" end="833" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="860" end="867" text="sobrino" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T33" start="902" end="927" text="http://example-cardiology" TYPE="URL_WEB" comment=""/>
+        <ID id="T34" start="1025" end="1036" text="VS074APY827" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

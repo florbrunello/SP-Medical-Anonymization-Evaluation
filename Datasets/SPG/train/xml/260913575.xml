@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Albert Galan Díaz
+DNI: 50741802F
+Fecha de nacimiento: 06/08/1966
+Género: M
+Domicilio: Calle de Preciados 97
+Ciudad: Plasencia, Gerona, Cataluña
+Código postal: 17872
+Email: diaz@ual.es
+Teléfono fijo: +34 972 92 99 57
+Teléfono móvil: +34 772 07 96 39
+NHC: 8364176
+NASS: 347424906613
+Condición de riesgo: Conductor de Camión
+
+Datos asistenciales.
+Médico: Dr. Juan Francisco Benítez Marín. NC 738458084. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 22/12/2021
+Episodio: 72251155
+Hospital: Complejo Asistencial Universitario Salamanca
+Matrícula del coche: 3974QIA
+Modelo: Honda CR-V
+VIN: VSDV2AWUQYG176349
+
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 55 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Albert" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="45" text="Galan Díaz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="50741802F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="06/08/1966" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="135" text="Calle de Preciados 97" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="144" end="153" text="Plasencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="161" text="Gerona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="163" end="171" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="187" end="192" text="17872" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="200" end="211" text="diaz@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="227" end="243" text="+34 972 92 99 57" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="260" end="276" text="+34 772 07 96 39" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="282" end="289" text="8364176" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="296" end="308" text="347424906613" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="330" end="349" text="Conductor de Camión" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="384" end="412" text="Juan Francisco Benítez Marín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="417" end="426" text="738458084" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="428" end="471" text="Cardiólogo de Unidad de Cuidados Intensivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="473" end="545" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="547" end="570" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="572" end="577" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="579" end="585" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="587" end="593" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="613" end="623" text="22/12/2021" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="634" end="642" text="72251155" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="653" end="697" text="Complejo Asistencial Universitario Salamanca" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="719" end="726" text="3974QIA" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="751" end="768" text="VSDV2AWUQYG176349" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="812" end="835" text="comunidades vulnerables" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="839" end="846" text="55 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

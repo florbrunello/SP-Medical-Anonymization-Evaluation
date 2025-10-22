@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Zamora</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Millan</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">41983785E</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">31/07/2022</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Tribulete 48</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Jaén</TAG>, <TAG TYPE="TERRITORIO">León</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">24088</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jose_zamora-millan@ub.edu</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 987 64 75 33</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 687 60 45 65</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7147945</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">797555158188</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Bombero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Adrián Guzman Galvez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">500917262</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">65410751</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Torrecárdenas</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP (en red interna)</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">192.168.76.95</TAG>, con <TAG TYPE="OTRO_NUMERO_IDENTIF">dirección MAC</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">3D:B6:78:99:64:68</TAG>.
+  </TEXT>
+</MEDDOCAN>

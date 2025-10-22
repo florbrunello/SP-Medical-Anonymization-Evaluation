@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ahmed</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Hernández Roca</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">38006982B</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/02/1945</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Argumosa 19</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Zaragoza</TAG>, <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">38774</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ahmedhernandez1506@ciberer.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 922 57 60 41</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 622 99 46 68</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7505895</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Dentista</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Remedios Ruiz Diez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">296823327</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/08/1986</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">06326353</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Norte</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2325WRR</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Toyota RAV4</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSYGAQY2MME876021</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">musulman</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">41 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

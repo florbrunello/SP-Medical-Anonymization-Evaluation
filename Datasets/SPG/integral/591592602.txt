@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Luis Miranda Tomas
+DNI: 87080240D
+Fecha de nacimiento: 15/04/1952
+Género: V
+Domicilio: Calle de O'Donnell 34
+Ciudad: Bormujos, Guipúzcoa, Pais Vasco
+Código postal: 20114
+Email: luismiranda.tomas624@isciii.es
+Teléfono fijo: +34 943 67 83 74
+FAX: +34 943 59 42 35
+NHC: 1761702
+NASS: 258288622024
+Condición de riesgo: Enfermera
+
+Datos asistenciales.
+Médico: Dra. María Victoria Méndez Roca. NC 598764352. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/05/1999
+Episodio: 62310593
+Hospital: Hospital Universitario Príncipe de Asturias
+
+Informe clínico del paciente:
+Paciente fumador de 47 años de edad. Se realizó un expediente con URL http://example-healthcare.net//96776373Q. 

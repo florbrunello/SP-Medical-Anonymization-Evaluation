@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Eva María Serrano Palacios
+DNI: 13822753Y
+Fecha de nacimiento: 08/05/1929
+Género: Femenino
+Domicilio: Calle de Moratín 37
+Ciudad: San Fernando, Vizcaya, Pais Vasco
+Código postal: 48117
+Email: evamaria@ciberned.es
+Teléfono fijo: +34 946 33 94 67
+FAX: +34 946 35 67 82
+NHC: 9541110
+Condición de riesgo: Pintor de Construcción
+
+Datos asistenciales.
+Médico: Dr. Sergio Miranda Gutiérrez. NC 455307624. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/12/1929
+Episodio: 40295300
+Centro de salud: Centro de Salud Sevilla Oeste
+
+Informe clínico del paciente:
+Paciente exfumador de 7 meses de edad, acompañado de su madre. Se registró una sesión de huella dactilar, el código obtenido para revisarla es FO925IUS155. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Eva María" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="54" text="Serrano Palacios" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="13822753Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="08/05/1929" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="118" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="130" end="149" text="Calle de Moratín 37" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="170" text="San Fernando" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="179" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="181" end="191" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="48117" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="240" text="evamaria@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 946 33 94 67" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 946 35 67 82" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="300" end="307" text="9541110" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="329" end="351" text="Pintor de Construcción" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="386" end="410" text="Sergio Miranda Gutiérrez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="415" end="424" text="455307624" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="426" end="458" text="Residente de 2° año en Pediatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="460" end="535" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="537" end="566" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="568" end="573" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="575" end="581" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="583" end="589" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="609" end="619" text="26/12/1929" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="630" end="638" text="40295300" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="656" end="685" text="Centro de Salud Sevilla Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="726" end="735" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="739" end="746" text="7 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="773" end="778" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="860" end="871" text="FO925IUS155" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

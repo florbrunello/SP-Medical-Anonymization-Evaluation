@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Víctor Manuel Rivero Flores
+DNI: 56605065H
+Fecha de nacimiento: 28/06/1936
+Género: V
+Domicilio: Calle de Eduardo Dato 22
+Ciudad: Béjar, León, Castilla y León
+Código postal: 24584
+Email: riveroflores@ioba.med.uva.es
+Teléfono fijo: +34 987 26 01 31
+Teléfono móvil: +34 787 26 11 84
+NHC: 9919438
+NASS: 208817886050
+
+Datos asistenciales.
+Médico: Dr. Raúl Moya Gómez. NC 721097702. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/03/1985
+Episodio: 25104494
+Centro de salud: Centro de Salud Pozuelo de Alarcón
+Matrícula del coche: 5168MZB
+Modelo: Chevrolet Silverado
+VIN: VSIP4G6YA3J240170
+
+Informe clínico del paciente:
+Paciente discapacitado de 48 años de edad, acompañado de su marido. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="Víctor Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="55" text="Rivero Flores" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="56605065H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="28/06/1936" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="112" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="148" text="Calle de Eduardo Dato 22" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="162" text="Béjar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="168" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="185" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="24584" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="242" text="riveroflores@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="258" end="274" text="+34 987 26 01 31" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="291" end="307" text="+34 787 26 11 84" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="313" end="320" text="9919438" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="327" end="339" text="208817886050" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="374" end="389" text="Raúl Moya Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="394" end="403" text="721097702" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="405" end="445" text="Especialista en Enfermedades Infecciosas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="447" end="531" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="533" end="562" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="564" end="569" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="571" end="577" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="579" end="585" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="605" end="615" text="17/03/1985" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="626" end="634" text="25104494" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="652" end="686" text="Centro de Salud Pozuelo de Alarcón" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="708" end="715" text="5168MZB" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="749" end="766" text="VSIP4G6YA3J240170" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="807" end="820" text="discapacitado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="824" end="831" text="48 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="858" end="864" text="marido" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

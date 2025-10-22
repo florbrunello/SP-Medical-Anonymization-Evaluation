@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Pilar</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Silva Medina</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">88957475F</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">16/10/2003</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del León 73</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Albacete</TAG>, <TAG TYPE="TERRITORIO">Castellón</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">12239</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">silvamedina@ciberned.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 964 57 81 06</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 964 58 02 46</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9004809</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Técnico de Laboratorio</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ariadna Castaño Padilla</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">681213668</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">13/01/2006</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuencarral</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">9953YDR</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Mazda CX-5</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSWCW8V9B8B563312</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-biotech.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

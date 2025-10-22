@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alfonso García Diez</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">75646888A</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/02/2011</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Gobernador 18</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Bormujos, Ávila, Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">05712</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">diez1946@protonmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 920 54 69 01</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 720 03 92 78</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2280037</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">350694297816</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente pediátrico</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Aarón</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Maldonado Del Rio</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 258315185</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Enfermedades Digestivas</TAG>
+    Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd).
+    <TAG TYPE="INSTITUCION">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">25/12/2020</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">52373392</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Puente de Vallecas</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="TERRITORIO">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años de edad</TAG>, acompañado de su abuela, presenta un cuadro de infección respiratoria aguda con síntomas de tos seca, fiebre y dolor de garganta. El paciente tiene una historia previa de asma y alergia a los polen de las plantas.
+    Antecedentes:
+    El paciente tiene una historia de asma desde los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años de edad</TAG>, con episodios de broncoespasmo y dificultad para respirar. También tiene una alergia a los polen de las plantas, lo que lo lleva a presentar síntomas de picazón en los ojos y nariz durante la temporada de floración.
+    Evolución y comentarios:
+    El paciente fue ingresado en la unidad de cuidados intensivos del hospital después de presentar un cuadro de insuficiencia respiratoria aguda. Se le administró oxígeno suplementario y se le realizó una exploración física para evaluar la gravedad de su condición. Se detectaron signos de broncoespasmo y se le inició un tratamiento con broncodilatadores y corticosteroides.
+    Remitido por:
+    El paciente fue remitido por el servicio de urgencias del hospital después de presentar un cuadro de infección respiratoria aguda. Se le realizó una exploración física y se le realizaron análisis de sangre para evaluar la gravedad de su condición. Se detectaron signos de infección y se le inició un tratamiento con antibióticos y medicamentos para aliviar los síntomas.
+  </TEXT>
+</MEDDOCAN>

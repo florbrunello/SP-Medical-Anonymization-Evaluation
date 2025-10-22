@@ -1,0 +1,59 @@
+```xml
+<informe_clinico>
+  <texto>
+    <entidad start="0" end="12" text="Silvia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="13" end="29" text="Perera Sotillo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="30" end="36" text="6778970" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="37" end="55" text="24 57734895 45" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <entidad start="56" end="71" text="Calle Veguellina, 3" TYPE="CALLE" comment=""/>
+    <entidad start="72" end="82" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <entidad start="83" end="87" text="24001" TYPE="CP" comment=""/>
+    <entidad start="88" end="96" text="Fecha de nacimiento" TYPE="FECHAS" comment=""/>
+    <entidad start="97" end="104" text="15/03/1993" TYPE="FECHAS" comment=""/>
+    <entidad start="105" end="112" text="España" TYPE="PAIS" comment=""/>
+    <entidad start="113" end="115" text="24" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="116" end="118" text="M" TYPE="SENO_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="119" end="127" text="Fecha de Ingreso" TYPE="FECHAS" comment=""/>
+    <entidad start="128" end="135" text="06/08/2017" TYPE="FECHAS" comment=""/>
+    <entidad start="136" end="143" text="Servicio" TYPE="PROFESION" comment=""/>
+    <entidad start="144" end="153" text="Oftalmología" TYPE="PROFESION" comment=""/>
+    <entidad start="154" end="162" text="Episodio" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <entidad start="163" end="171" text="8793456" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <entidad start="172" end="192" text="Vicente Asensio Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <entidad start="193" end="205" text="NºCol" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <entidad start="206" end="216" text="24 24 56102" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <entidad start="217" end="228" text="Informe clínico del paciente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="229" end="236" text="Mujer de 24 años" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="237" end="243" text="enviada desde atención primaria" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="244" end="254" text="por pérdida de visión bilateral" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="255" end="265" text="de 6 semanas de evolución" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="266" end="274" text="Sin antecedentes familiares de interés" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="275" end="285" text="Como antecedente personal" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="286" end="296" text="destaca el tratamiento con Topamax" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="297" end="307" text="150 mg al día" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="308" end="314" text="desde hacía 2 meses" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="315" end="321" text="por epilepsia refractaria" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="322" end="328" text="a terapia convencional" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="329" end="337" text="La AV máxima en el ojo derecho" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="338" end="344" text="era de 0,6" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="345" end="353" text="y de 0,7 en el ojo izquierdo" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="354" end="362" text="El campo visual muestra un escotoma central" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="363" end="373" text="bilateral y en el fondo de ojo" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="374" end="384" text="se aprecia una maculopatía bilateral" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="385" end="395" text="con cambios pigmentarios mayor en el OI" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="396" end="406" text="Ante la relación temporal ingesta de Topamax" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="407" end="417" text="y pérdida de visión se retiró este fármaco" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="418" end="428" text="pero después de un año de seguimiento" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="429" end="435" text="la paciente no ha recuperado visión" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="436" end="444" text="aunque el proceso permanece estable" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="445" end="455" text="Responsable clínico" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <entidad start="456" end="468" text="Dr. Vicente Asensio Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <entidad start="469" end="481" text="Hospital General Servicio Castellano-Leonés de Salud" TYPE="INSTITUCION" comment=""/>
+    <entidad start="482" end="495" text="Servicio de Oftalmología Medina del Campo" TYPE="CENTRO_SALUD" comment=""/>
+    <entidad start="496" end="504" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <entidad start="505" end="509" text="España" TYPE="PAIS" comment=""/>
+    <entidad start="510" end="518" text="E-mail" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <entidad start="519" end="531" text="vasensio@hmdc.sacyl.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </texto>
+</informe_clinico>
+```

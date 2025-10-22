@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ainhoa Silva Mendoza
+DNI: 78392274V
+Fecha de nacimiento: 08/09/1937
+Género: Mujer
+Domicilio: Calle de Recoletos 91, 4W
+Ciudad: Santander, Lérida, Cataluña
+Código postal: 25942
+Email: ainhoa-silvamendoza1401@uhu.es
+Teléfono fijo: +34 973 85 72 93
+Teléfono móvil: +34 773 65 35 64
+NHC: 6399407
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dra. María Soledad Lara Delgado. NC 229291052. Gastroenteróloga Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/03/1985
+Centro de salud: Centro de Salud Boadilla del Monte
+Matrícula del coche: 3625QAF
+Modelo: Honda CR-V
+VIN: VSIQWQM67YW877030
+
+Informe clínico del paciente:
+Paciente de tez blanca de 47 años de edad. El servidor para envío de información desde cual el usuario se comunica es smtp://example-cardiology.com. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Ainhoa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Silva Mendoza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="78392274V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="08/09/1937" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="146" text="Calle de Recoletos 91, 4W" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="164" text="Santander" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="172" text="Lérida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="182" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="25942" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="241" text="ainhoa-silvamendoza1401@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 973 85 72 93" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="290" end="306" text="+34 773 65 35 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="312" end="319" text="6399407" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="341" end="372" text="Operador de Maquinaria Agrícola" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="674" end="684" text="20/03/1985" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="702" end="736" text="Centro de Salud Boadilla del Monte" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T18" start="758" end="765" text="3625QAF" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="790" end="807" text="VSIQWQM67YW877030" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="851" end="861" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="865" end="872" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="957" end="982" text="smtp://example-cardiology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Alejandro Franco Aguilar
+DNI: 76221248F
+Fecha de nacimiento: 05/05/1950
+Género: Varón
+Domicilio: Calle de Hortaleza 27, 5S
+Ciudad: Totana, Soria, Castilla y León
+Código postal: 42404
+Email: alejandro.franco_aguilar604@udc.es
+Teléfono fijo: +34 975 17 62 05
+Teléfono móvil: +34 775 83 25 99
+NHC: 2039814
+NASS: 588595686892
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dra. María Esther Beltran Gallardo. NC 593318112. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 13/08/1955
+Episodio: 06408431
+Centro de salud: Centro de Salud Coslada
+Matrícula del coche: 8224ELW
+Modelo: Toyota RAV4
+VIN: VSNCKIA7ZWH722447
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 5 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Alejandro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="52" text="Franco Aguilar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="76221248F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="05/05/1950" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="113" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="150" text="Calle de Hortaleza 27, 5S" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="165" text="Totana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="172" text="Soria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="189" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="42404" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="252" text="alejandro.franco_aguilar604@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="268" end="284" text="+34 975 17 62 05" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="301" end="317" text="+34 775 83 25 99" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="323" end="330" text="2039814" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="337" end="349" text="588595686892" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="371" end="396" text="Trabajador de Laboratorio" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="667" end="677" text="13/08/1955" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="688" end="696" text="06408431" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="714" end="737" text="Centro de Salud Coslada" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="759" end="766" text="8224ELW" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="792" end="809" text="VSNCKIA7ZWH722447" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="850" end="867" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="871" end="877" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="904" end="910" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

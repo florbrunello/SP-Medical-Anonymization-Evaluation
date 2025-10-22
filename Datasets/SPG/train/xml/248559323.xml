@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Remedios Lara Valero
+DNI: 52581627Q
+Fecha de nacimiento: 08/03/2004
+Género: F
+Domicilio: Calle de Don Ramón de la Cruz 23, 8E
+Ciudad: Zaragoza, Huelva, Andalucía
+Código postal: 21986
+Email: remedios_lara@uhu.es
+Teléfono fijo: +34 959 20 91 07
+Teléfono móvil: +34 759 45 23 98
+NHC: 8065329
+NASS: 327662489881
+
+Datos asistenciales.
+Médico: Dra. María José Blazquez Paredes. NC 842229129. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/03/2014
+Episodio: 23713437
+Centro de salud: Centro de Salud Málaga Sur
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 9 años de edad, acompañado de su tío. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es QA519WSP792. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Remedios" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="48" text="Lara Valero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="52581627Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="08/03/2004" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="153" text="Calle de Don Ramón de la Cruz 23, 8E" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="162" end="170" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="178" text="Huelva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="180" end="189" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="21986" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="238" text="remedios_lara@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 959 20 91 07" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 759 45 23 98" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="8065329" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="323" end="335" text="327662489881" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="623" end="633" text="06/03/2014" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="644" end="652" text="23713437" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="670" end="696" text="Centro de Salud Málaga Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="740" end="764" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="768" end="774" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="801" end="804" text="tío" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T22" start="887" end="898" text="QA519WSP792" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

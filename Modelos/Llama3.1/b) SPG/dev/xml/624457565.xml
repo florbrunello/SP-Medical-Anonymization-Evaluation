@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Francisco</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cortés Méndez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">39711612L</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/03/1993</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Engracia 48, 4T</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Burgos</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">09102</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mendez@ciberned.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 947 17 30 06</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 647 56 52 29</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0876737</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Servicios de Limpieza</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Noa Márquez Aguilar</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">610060304</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">29/05/1998</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">15957470</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Puente de Vallecas</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1122ULY</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Honda Civic</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSRXQQ66Q4O216017</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tía</TAG>.
+  </TEXT>
+</MEDDOCAN>

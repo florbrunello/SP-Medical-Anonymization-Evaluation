@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Rosario Ramírez Gutiérrez
+DNI: 47164258K
+Fecha de nacimiento: 23/01/1939
+Género: Mujer
+Domicilio: Calle del León 98
+Ciudad: Girona, Guadalajara, Castilla-La Mancha
+Código postal: 19596
+Email: mariarosario-ramirezgutierrez@ioba.med.uva.es
+Teléfono fijo: +34 949 42 40 88
+Teléfono móvil: +34 649 36 31 58
+NHC: 0305034
+NASS: 339822467267
+Condición de riesgo: Cirujano
+
+Datos asistenciales.
+Médico: Dr. Cristóbal Plaza Carrillo. NC 705095858. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 23/09/1940
+Episodio: 38795358
+Hospital: Hospital Universitario de Crúces
+
+Informe clínico del paciente:
+Paciente de ascendencia gitana de un año de edad, acompañado de su madre. Se registró una sesión de huella dactilar, el código obtenido para revisarla es UV113YAX301. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es HQ409WIE198. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Rosario" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="59" text="Ramírez Gutiérrez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="65" end="74" text="47164258K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="96" end="106" text="23/01/1939" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="115" end="120" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="132" end="149" text="Calle del León 98" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="164" text="Girona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="177" text="Guadalajara" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="197" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="19596" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="271" text="mariarosario-ramirezgutierrez@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="287" end="303" text="+34 949 42 40 88" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="320" end="336" text="+34 649 36 31 58" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="342" end="349" text="0305034" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="356" end="368" text="339822467267" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="390" end="398" text="Cirujano" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="433" end="457" text="Cristóbal Plaza Carrillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="462" end="471" text="705095858" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="473" end="517" text="Investigador Principal en Optometría Clínica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="519" end="577" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="579" end="603" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="605" end="610" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="612" end="622" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="624" end="630" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="650" end="660" text="23/09/1940" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="671" end="679" text="38795358" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="690" end="722" text="Hospital Universitario de Crúces" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="766" end="784" text="ascendencia gitana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="788" end="794" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="821" end="826" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="908" end="919" text="UV113YAX301" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T32" start="1002" end="1013" text="HQ409WIE198" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

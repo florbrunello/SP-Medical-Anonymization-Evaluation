@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Pedro Conde Díaz
+DNI: 10954845Z
+Fecha de nacimiento: 25/02/1990
+Género: Hombre
+Domicilio: Calle de la Magdalena 59, 7I
+Ciudad: Lorca, Madrid, Madrid
+Código postal: 28684
+Email: juanpedro-diaz@udc.es
+Teléfono fijo: +34 915 66 73 80
+FAX: +34 916 23 04 79
+NHC: 8338072
+NASS: 462819483468
+Condición de riesgo: Guardia de Seguridad
+
+Datos asistenciales.
+Médico: Dr. José Luis Macias Galan. NC 773757028. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/06/2000
+Hospital: Hospital Universitario Príncipe de Asturias
+
+Informe clínico del paciente:
+Paciente discapacitado de 10 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Juan Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="49" text="Conde Díaz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="10954845Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="25/02/1990" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="111" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="151" text="Calle de la Magdalena 59, 7I" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="165" text="Lorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="173" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="181" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="28684" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="231" text="juanpedro-diaz@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 915 66 73 80" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="269" end="285" text="+34 916 23 04 79" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="291" end="298" text="8338072" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="305" end="317" text="462819483468" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="339" end="359" text="Guardia de Seguridad" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="394" end="416" text="José Luis Macias Galan" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="421" end="430" text="773757028" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="432" end="466" text="Residente de 4° año en Cardiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="468" end="554" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="556" end="585" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="587" end="592" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="594" end="600" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="602" end="608" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="628" end="638" text="13/06/2000" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="649" end="692" text="Hospital Universitario Príncipe de Asturias" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="733" end="746" text="discapacitado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="750" end="757" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="784" end="789" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

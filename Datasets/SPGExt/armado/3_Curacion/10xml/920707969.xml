@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alejandra Carmona Santana</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">16992485Q</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">18/02/1977</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Oso 77</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcalá de Henares</TAG>, <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">14330</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">alejandra-santana786@ual.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 957 18 49 10</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 757 75 99 61</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0373142</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">983003994583</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador Agrícola</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. María Esther Moya Rubio</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 881426651</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/06/2023</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">60660480</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Cartagena</TAG>.
+    Informe clínico del paciente:
+    La paciente, una mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG>, fue derivada a nuestro servicio por sus síntomas de dolor abdominal y fiebre. La paciente tiene una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes tipo 2</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión</TAG>, y ha estado tomando medicamentos para controlar estos trastornos.
+    La exploración física revela: <TAG TYPE="FECHAS">Tª 38,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 90 lpm</TAG>. La paciente se encuentra consciente, orientada, sudorosa, eupneica, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="FECHAS">Hemograma: Hb 12,5 g/dl</TAG>; <TAG TYPE="FECHAS">leucocitos 15.000/mm3 (neutrófilos 80%)</TAG>; <TAG TYPE="FECHAS">plaquetas 250.000/mm3</TAG>. <TAG TYPE="FECHAS">VSG: 40 mm 1ª hora</TAG>. <TAG TYPE="FECHAS">Coagulación: TQ 90%</TAG>; <TAG TYPE="FECHAS">TTPA 25,8 seg</TAG>. <TAG TYPE="FECHAS">Bioquímica: Glucosa 180 mg/dl</TAG>; <TAG TYPE="FECHAS">urea 30 mg/dl</TAG>; <TAG TYPE="FECHAS">creatinina 1,2 mg/dl</TAG>; <TAG TYPE="FECHAS">sodio 135 mEq/l</TAG>; <TAG TYPE="FECHAS">potasio 3,5 mEq/l</TAG>; <TAG TYPE="FECHAS">GOT 20 U/l</TAG>; <TAG TYPE="FECHAS">GPT 30 U/l</TAG>; <TAG TYPE="FECHAS">GGT 40 U/l</TAG>; <TAG TYPE="FECHAS">fosfatasa alcalina 140 U/l</TAG>; <TAG TYPE="FECHAS">calcio 8,5 mg/dl</TAG>. <TAG TYPE="FECHAS">Orina: sedimento normal</TAG>.
+    Durante el ingreso se solicitan pruebas diagnósticas, incluyendo una ecografía abdominal y un análisis de orina. La ecografía abdominal revela un aumento del tamaño del bazo, con una masa en la región superior izquierda. El análisis de orina muestra una presencia de proteínas y hemoglobina en la orina.
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pancreatitis aguda</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, etc.).
+  </TEXT>
+</MEDDOCAN>

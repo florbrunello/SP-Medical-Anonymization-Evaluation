@@ -1,0 +1,37 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 9 17	Verónica
+T2	NOMBRE_SUJETO_ASISTENCIA 30 42	Garzón Ramos
+T3	ID_SUJETO_ASISTENCIA 49 55	567537
+T4	ID_ASEGURAMIENTO 63 77	35 47654787 08
+T5	CALLE 90 111	Calle Pacífico, 44 1B
+T6	TERRITORIO 135 141	Málaga
+T7	TERRITORIO 147 152	29004
+T8	FECHAS 196 206	10/01/1957
+T9	PAIS 214 220	España
+T10	EDAD_SUJETO_ASISTENCIA 228 235	59 años
+T11	SEXO_SUJETO_ASISTENCIA 135 136	M
+T12	FECHAS 263 273	15/06/2016
+T13	NOMBRE_PERSONAL_SANITARIO 283 293	Inmaculada
+T14	NOMBRE_PERSONAL_SANITARIO 294 306	Santos Amaya
+T15	ID_TITULACION_PERSONAL_SANITARIO 314 325	29 29 46698
+T16	TEXTO 350 545	Mujer de 59 años sin antecedentes de interés que ingresó por dolor en epigastrio-hipocondrio derecho irradiado a la escápula junto con ictericia e intolerancia alimenticia de 5 días de evolución.
+T17	TEXTO 546 723	A la exploración estaba con una frecuencia cardiaca de 80 lpm, afebril (36,3º), con ictericia de piel y mucosas y a la palpación el abdomen era blando, depresible y no doloroso.
+T18	TEXTO 724 934	La analítica de urgencias mostró una bilirrubina total de 11,63 a expensas sobre todo de la directa (7,12), amilasa de 135, GPT 221, LDH 557, leucocitosis de 14.400 y eosinofilia de 5.480 (valor normal: 0-0,8).
+T19	TEXTO 935 1133	Se realizó la ecografía abdominal que evidenció en el lóbulo hepático derecho una lesión quística bien delimitada de 6,9 x 6 cm compatible con quiste hidatídico, junto a múltiples litiasis biliares.
+T20	TEXTO 1134 1196	Vesícula, cuerpo de páncreas, riñones, bazo y vejiga normales.
+T21	TEXTO 1197 1225	No líquido libre peritoneal.
+T22	TEXTO 1226 1295	Ante los hallazgos la paciente comenzó en tratamiento con albendazol.
+T23	TEXTO 1296 1511	Tras un día de ingreso la paciente presentó un episodio de shock anafiláctico con disnea y desaturación (pO2 50 mmHg, SatO2 86,9), fiebre (38º), sibilancias bilaterales, lesiones cutaneas eritematosas y eosinofilia.
+T24	TEXTO 1512 1740	La TC abdominal de urgencias no evidenció datos nuevos respecto a la ecografía y tras administrarle 80 mg i.v. de urbasón y 1 ampolla i.v. de Polaramine®, fue intervenida de urgencias por anafilaxia con los siguientes hallazgos:
+T25	TEXTO 1741 1843	quiste hidatídico parcialmente calcificado en segmento V-VII y VIII, íntimamente adherido a diafragma.
+T26	TEXTO 1844 1954	La ecografía intraoperatoria mostró un quiste en contacto con vena cava inferior y vena suprahepática derecha.
+T27	TEXTO 1955 2071	Se le realizó punción, aspiración y esterilización con salino hipertónico además de colecistectomía y coledocotomía.
+T28	TEXTO 2072 2178	Tras mejoría clínica y analítica a los 15 días la paciente fue dada de alta en tratamiento con albendazol.
+T29	NOMBRE_PERSONAL_SANITARIO 2193 2203	Inmaculada
+T30	NOMBRE_PERSONAL_SANITARIO 2204 2216	Santos Amaya
+T31	CALLE 2217 2259	Departamento de Anatomía y Medicina Legal.
+T32	CALLE 2260 2281	Facultad de Medicina.
+T33	CALLE 2282 2303	Universidad de Málaga
+T34	CALLE 2304 2332	Boulevard Louis Pasteur, 32.
+T35	TERRITORIO 2333 2338	29071
+T36	TERRITORIO 2297 2303	Málaga
+T37	CORREO_ELECTRONICO 2355 2369	isantos@uma.es

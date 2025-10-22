@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Josefino</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Moreno Gutierrez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4378906</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">47 563597 36</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Monte de la Villa, 13, 4 A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Albacete</TAG>.
+    CP: <TAG TYPE="TERRITORIO">02019</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/02/1972</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">10/04/2012</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Urología</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Héctor</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pastor Navarro</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">02 02 59236</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> con antecedentes personales de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Leoch</TAG> en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">4</TAG> ocasiones anteriores. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">5ª Leoch</TAG> de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">litiasis renal izquierda</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pielocalicial inferior úrica</TAG>, de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">2,5 cm</TAG>. Portador de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">catéter doble J</TAG> por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hidronefrosis</TAG>. Se aplicaron <TAG TYPE="OTROS_SUJETO_ASISTENCIA">5.000 impactos</TAG>, a <TAG TYPE="OTROS_SUJETO_ASISTENCIA">intensidad 3-4</TAG>.
+    No <TAG TYPE="OTROS_SUJETO_ASISTENCIA">HTA</TAG> previa, ni mientras permaneció el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematoma</TAG>, ni después de su <TAG TYPE="OTROS_SUJETO_ASISTENCIA">evacuación</TAG>.
+    Ingresa desde <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urgencias</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">9</TAG> días después de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Leoch</TAG> por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor lumbar</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hto</TAG> de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">27</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hb</TAG> de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">9</TAG>.
+    En <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ecografía</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TAC</TAG> se demuestra <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematoma subcapsular</TAG> de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">15x9 cm</TAG>.
+    Se <TAG TYPE="OTROS_SUJETO_ASISTENCIA">transfundieron</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">concentrados</TAG> de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematíes</TAG>.
+    Evacuación del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematoma</TAG> por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vía lumbar</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">12</TAG> días después del ingreso, por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor</TAG> y persistencia del tamaño del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematoma</TAG> en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Tac</TAG> de control. Al <TAG TYPE="OTROS_SUJETO_ASISTENCIA">4º</TAG> día postoperatorio fue <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alta</TAG> con buena <TAG TYPE="OTROS_SUJETO_ASISTENCIA">evolución clínica</TAG>. Posteriormente se trató con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alcalinizantes urinarios</TAG> hasta desaparecer los restos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">litiásicos</TAG> que persistían tras la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">litotricia</TAG>; varios <TAG TYPE="OTROS_SUJETO_ASISTENCIA">controles</TAG> posteriores con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">eco</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">UIV</TAG> normales.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Héctor Pastor Navarro</TAG> <TAG TYPE="PROFESION">Servicio de Urología</TAG> <TAG TYPE="INSTITUCION">Complejo Hospitalario Universitario de Albacete</TAG> <TAG TYPE="INSTITUCION">Hermanos Falcó</TAG>, s/n - <TAG TYPE="TERRITORIO">02006</TAG> <TAG TYPE="TERRITORIO">Albacete</TAG> Tel.: <TAG TYPE="NUMERO_TELEFONO">967 597 100</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">hektorpn@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Vanessa Contreras Calvo
+DNI: 67603549V
+Fecha de nacimiento: 06/12/1933
+Género: Mujer
+Domicilio: Calle de la Cabeza del Rey Don Pedro 41
+Ciudad: Albacete, Cantabria, Cantabria
+Código postal: 39437
+Email: vanessa974@ual.es
+Teléfono fijo: +34 942 61 63 29
+Teléfono móvil: +34 742 57 32 60
+NHC: 7317136
+NASS: 008101878872
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dr. Eugenio Soto Pérez. NC 900711336. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/12/1975
+Episodio: 11478576
+Hospital: Hospital Universitario Nuestra Señora de Candelaria
+
+Informe clínico del paciente:
+Paciente judío de 42 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Vanessa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="51" text="Contreras Calvo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="67603549V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="06/12/1933" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="112" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="163" text="Calle de la Cabeza del Rey Don Pedro 41" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="172" end="180" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="182" end="191" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="193" end="202" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="218" end="223" text="39437" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="231" end="248" text="vanessa974@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="264" end="280" text="+34 942 61 63 29" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="297" end="313" text="+34 742 57 32 60" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="319" end="326" text="7317136" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="333" end="345" text="008101878872" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="367" end="373" text="Minero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="408" end="426" text="Eugenio Soto Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="431" end="440" text="900711336" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="442" end="476" text="Residente de 3° año en Psiquiatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="478" end="548" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="550" end="579" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="581" end="586" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="588" end="594" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="596" end="602" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="622" end="632" text="30/12/1975" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="643" end="651" text="11478576" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="662" end="713" text="Hospital Universitario Nuestra Señora de Candelaria" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="754" end="759" text="judío" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="763" end="770" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="797" end="803" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

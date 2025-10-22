@@ -1,0 +1,36 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 32	Jaume Silva Aguilar
+T2	NUMERO_DOCUMENTO_IDENTIDAD 46 62	90968973V
+T3	FECHAS 74 84	16/02/1954
+T4	SEXO_SUJETO_ASISTENCIA 98 103	Masculino
+T5	CALLE 115 133	Paseo de la Castellana 52
+T6	TERRITORIO 136 143	Puertollano, Palencia, Castilla y León
+T7	TERRITORIO 146 152	34984
+T8	CORREO_ELECTRONICO 159 184	jaume.silvaaguilar1021@aol.com
+T9	NUMERO_TELEFONO 187 203	+34 979 44 42 40
+T10	NUMERO_FAX 206 219	+34 979 58 67 76
+T11	ID_SUJETO_ASISTENCIA 222 229	4847617
+T12	ID_CONTACTO_ASISTENCIAL 240 247	797024170231
+T13	CONDICION_RIESGO 250 264	Paciente de alto riesgo
+T14	NOMBRE_PERSONAL_SANITARIO 268 292	Pablo Bernal Alonso
+T15	ID_TITULACION_PERSONAL_SANITARIO 303 314	019210502
+T16	CARGO 316 324	Residente de 2° año en Pediatría
+T17	INSTITUCION 326 360	Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)
+T18	CALLE 361 379	Avenida Monforte de Lemos 3-5. 28029. Madrid. España
+T19	FECHAS 381 391	21/02/2003
+T20	NUMERO_EPISODIO 394 404	09813547
+T21	INSTITUCION 406 414	Centro de Salud Chamartín
+T22	MATRICULA_VEHICULO 416 429	5625JCE
+T23	MODELO_VEHICULO 431 440	Toyota Corolla
+T24	IDENTIF_VEHICULOS_NRSERIE_PLACAS 442 458	VSBM6YLQ3JB364962
+T25	INFORME_CLINICO 460 468	Paciente vegetariano de 49 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2
+T26	CONDICION_MEDICA 470 478	Dolor abdominal crónico y pérdida de peso
+T27	EXPLORACION_FISICA 480 488	Signos de anemia y hepatomegalia
+T28	ANALISIS_SANGRE 490 498	Nivel elevado de transaminasas hepáticas y un nivel bajo de albúmina
+T29	ANALISIS_ORINA 500 508	Signos de proteinuria y glucosuria
+T30	DIAGNOSTICO 519 528	Hepatitis crónica y diabetes mellitus tipo 2
+T31	TRATAMIENTO 530 538	Metformina y un régimen de dieta hipocalórica y baja en grasas
+T32	REMISION 540 548	Unidad de Hepatología
+T33	ANTECEDENTES 550 558	Historia de consumo de alcohol excesivo en el pasado
+T34	CONDICION_FAMILIAR 560 568	Familiares con antecedentes de diabetes mellitus tipo 2
+T35	EVOLUCION 570 578	Bienestar del paciente
+T36	REMISION 580 588	Unidad de Hepatología

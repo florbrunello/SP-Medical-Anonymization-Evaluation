@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Isaac Carmona Reyes</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">29235602A</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/07/1979</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Ribera 81</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Castellón de la Plana, Soria, Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">42508</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">isaac_reyes@ciberned.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 975 71 90 76</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 975 39 98 28</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1012645</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">647411873144</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Almacén</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Milagros</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Segura Santiago</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">431229441</TAG>. <TAG TYPE="PROFESION">Neuróloga Investigadora en Trastornos Cognitivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">14/06/2016</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Barcelona</TAG>.
+    Informe clínico del paciente:
+    Paciente usuario de drogas de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">36 años</TAG> de edad, acompañado de su hija.
+    Exploración física:
+    La exploración física ha revelado signos de abstinencia, como <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sudoración</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tremblores</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">escalofríos</TAG>. El paciente ha sido tratado con medicamentos para la abstinencia y ha recibido orientación y apoyo para su recuperación.
+    Diagnóstico:
+    El diagnóstico principal es la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dependencia de sustancias ilegales</TAG>, con síntomas relacionados con la abstinencia. El paciente también presenta problemas de salud relacionados con el uso de drogas, como <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cambios en el estado de ánimo</TAG>.
+    Tratamiento:
+    El tratamiento consiste en medicamentos para la abstinencia y orientación y apoyo para la recuperación. El paciente también ha recibido tratamiento para sus problemas de salud relacionados con el uso de drogas.
+    Prognosis:
+    La prognosis es difícil de predecir, ya que el paciente ha tenido problemas de salud relacionados con el uso de drogas durante varios años. Sin embargo, con el tratamiento adecuado y el apoyo adecuado, el paciente puede lograr su recuperación.
+  </TEXT>
+</MEDDOCAN>

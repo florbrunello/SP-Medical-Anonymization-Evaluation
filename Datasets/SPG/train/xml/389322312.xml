@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Carla Parra Calderon
+DNI: 78513951R
+Fecha de nacimiento: 30/01/1976
+Género: M
+Domicilio: Calle de la Alameda 42
+Ciudad: Lorca, Barcelona, Cataluña
+Código postal: 08013
+Email: carla.parra_calderon@yahoo.com
+Teléfono fijo: +34 938 37 63 75
+Teléfono móvil: +34 638 41 49 00
+NHC: 4704712
+NASS: 656204956530
+Condición de riesgo: Limpiador
+
+Datos asistenciales.
+Médico: Dra. María Asunción Zamora Tomas. NC 996345171. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 08/05/1989
+Episodio: 19215748
+Centro de salud: Centro de Salud Centro
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 13 años de edad, acompañado de su hermano. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.240.180, con dirección MAC C3:35:E2:43:76:68. Se registró una sesión de huella dactilar, el código obtenido para revisarla es BS585BVX008. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es ON446ZID788. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Carla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Parra Calderon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="78513951R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="30/01/1976" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="139" text="Calle de la Alameda 42" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="153" text="Lorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="164" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="174" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="08013" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="233" text="carla.parra_calderon@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 938 37 63 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 638 41 49 00" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="304" end="311" text="4704712" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="318" end="330" text="656204956530" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="352" end="361" text="Limpiador" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="630" end="640" text="08/05/1989" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="651" end="659" text="19215748" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="677" end="699" text="Centro de Salud Centro" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="743" end="767" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="771" end="778" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="805" end="812" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="921" end="938" text="C3:35:E2:43:76:68" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <ID id="T24" start="1020" end="1031" text="BS585BVX008" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T25" start="1114" end="1125" text="ON446ZID788" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

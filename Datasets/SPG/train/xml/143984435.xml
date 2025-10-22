@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Joan Rubio Plaza
+DNI: 22462163H
+Fecha de nacimiento: 04/04/1962
+Género: Varón
+Domicilio: Calle de la Ribera 8
+Ciudad: Yecla, León, Castilla y León
+Código postal: 24725
+Email: joan.rubio@ciberisciii.es
+Teléfono fijo: +34 987 63 66 80
+Teléfono móvil: +34 787 16 12 97
+NHC: 6570520
+NASS: 445021385559
+Condición de riesgo: Trabajador Industrial
+
+Datos asistenciales.
+Médico: Dr. Marco Casado Miranda. NC 440141597. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/11/1964
+Episodio: 71959984
+Centro de salud: Centro de Salud Fuenlabrada
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 2 años de edad, acompañado de su abuelo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Joan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="44" text="Rubio Plaza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="22462163H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="04/04/1962" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="105" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="137" text="Calle de la Ribera 8" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="151" text="Yecla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="157" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="159" end="174" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="24725" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="228" text="joan.rubio@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="244" end="260" text="+34 987 63 66 80" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="277" end="293" text="+34 787 16 12 97" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="299" end="306" text="6570520" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="313" end="325" text="445021385559" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="347" end="368" text="Trabajador Industrial" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="403" end="423" text="Marco Casado Miranda" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="428" end="437" text="440141597" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="439" end="486" text="Investigador Clínico en Enfermedades Digestivas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="488" end="581" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="583" end="612" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="614" end="619" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="621" end="627" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="629" end="635" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="655" end="665" text="25/11/1964" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="676" end="684" text="71959984" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="702" end="729" text="Centro de Salud Fuenlabrada" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="773" end="801" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="805" end="811" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="838" end="844" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

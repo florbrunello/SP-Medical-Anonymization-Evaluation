@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Natalia Cano Suárez
+DNI: 61332652R
+Fecha de nacimiento: 14/11/1989
+Género: Femenino
+Domicilio: Calle Gran Vía 79
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52575
+Email: natalia_cano@ciberned.es
+Teléfono fijo: +34 956 85 41 26
+Teléfono móvil: +34 656 08 54 80
+NHC: 1630125
+NASS: 670505373324
+Condición de riesgo: Fabricante
+
+Datos asistenciales.
+Médico: Dra. Cristina Gracia Fernández. NC 627314050. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 31/01/2018
+Episodio: 08882203
+Centro de salud: Centro de Salud Sevilla Este
+Matrícula del coche: 5317CKK
+Modelo: Jeep Wrangler
+VIN: VSGKG2Q7F9H803708
+
+Informe clínico del paciente:
+Paciente musulman de 28 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Natalia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="47" text="Cano Suárez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="61332652R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="14/11/1989" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="111" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="140" text="Calle Gran Vía 79" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="173" text="Ciudad autónoma de Ceuta" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="175" end="181" text="Ceuta," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="198" end="203" text="52575" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="211" end="235" text="natalia_cano@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="251" end="267" text="+34 956 85 41 26" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="284" end="300" text="+34 656 08 54 80" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T13" start="306" end="313" text="1630125" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="320" end="332" text="670505373324" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T15" start="354" end="364" text="Fabricante" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="626" end="636" text="31/01/2018" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="647" end="655" text="08882203" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="673" end="701" text="Centro de Salud Sevilla Este" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="723" end="730" text="5317CKK" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="758" end="775" text="VSGKG2Q7F9H803708" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="816" end="824" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="828" end="835" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="862" end="869" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

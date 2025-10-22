@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+Datos del paciente.
+Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Dolores Vila López</TAG>
+DNI:  <TAG TYPE="ID_CONTACTO_ASISTENCIAL">66688471V</TAG>
+Fecha de nacimiento:  <TAG TYPE="FECHAS">10/12/1945</TAG>
+Género:  <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+Domicilio:  <TAG TYPE="CALLE">Calle de Bravo Murillo 9</TAG>
+Ciudad: <TAG TYPE="TERRITORIO">Ontinyent, Navarra, Navarra</TAG>
+Código postal:  <TAG TYPE="TERRITORIO">31786</TAG>
+Email:  <TAG TYPE="CORREO_ELECTRONICO">lopez634@gmail.com</TAG>
+Teléfono fijo:  <TAG TYPE="NUMERO_TELEFONO">+34 948 15 55 64</TAG>
+FAX:  <TAG TYPE="NUMERO_FAX">+34 948 58 48 42</TAG>
+NHC:  <TAG TYPE="ID_SUJETO_ASISTENCIA">4776009</TAG>
+NASS:  <TAG TYPE="ID_ASEGURAMIENTO">534036870480</TAG>
+Condición de riesgo:  <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Operador de Equipos Mineros</TAG>
+Datos asistenciales.
+Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Adrián Paredes Herrera</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 180441888</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+Fecha de ingreso:  <TAG TYPE="FECHAS">06/08/1986</TAG>
+Episodio:  <TAG TYPE="ID_CONTACTO_ASISTENCIAL">88104481</TAG>
+Hospital:  <TAG TYPE="HOSPITAL">Complejo Hospitalario Torrecárdenas</TAG>
+Matrícula del coche:  <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">8987JNO</TAG>
+Modelo:  <TAG TYPE="OTRO_NUMERO_IDENTIF">Volkswagen Golf</TAG>
+VIN:  <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSX0O41WUJX816633</TAG>
+Informe clínico del paciente:
+Paciente de <TAG TYPE="TERRITORIO">comunidades vulnerables</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> de edad, acompañado de su esposa, presenta un cuadro de disnea aguda con dolor torácico y fiebre, que comenzó hace 48 horas. La exploración física revela: Tª <TAG TYPE="FECHAS">38,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes

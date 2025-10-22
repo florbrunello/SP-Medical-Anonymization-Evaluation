@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Roberto</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sierra Abad</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">43106323E</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">15/03/1961</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Valverde 96, 7S</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Lorca</TAG>, <TAG TYPE="TERRITORIO">Navarra</TAG>, <TAG TYPE="TERRITORIO">Navarra</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">31143</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">roberto_sierra-abad@ual.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 948 00 48 26</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 948 05 48 86</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5741672</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ana María Serrano Ríos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">390883409</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">26/07/1978</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Reina Sofía de Córdoba</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">musulman</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">17 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

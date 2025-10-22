@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Alfonso García Diez
+DNI: 75646888A
+Fecha de nacimiento: 14/02/2011
+Género: V
+Domicilio: Calle de Gobernador 18
+Ciudad: Bormujos, Ávila, Castilla y León
+Código postal: 05712
+Email: diez1946@protonmail.com
+Teléfono fijo: +34 920 54 69 01
+Teléfono móvil: +34 720 03 92 78
+NHC: 2280037
+NASS: 350694297816
+
+Datos asistenciales.
+Médico: Dr. Aarón Maldonado Del Rio. NC 258315185. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/12/2020
+Episodio: 52373392
+Centro de salud: Centro de Salud Puente de Vallecas
+
+Informe clínico del paciente:
+Paciente de tez blanca de 9 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Alfonso" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="47" text="García Diez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="75646888A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="14/02/2011" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="138" text="Calle de Gobernador 18" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="155" text="Bormujos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="162" text="Ávila" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="179" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="05712" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="231" text="diez1946@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 920 54 69 01" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 720 03 92 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="2280037" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="316" end="328" text="350694297816" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="363" end="386" text="Aarón Maldonado Del Rio" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="391" end="400" text="258315185" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="402" end="449" text="Investigador Clínico en Enfermedades Digestivas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="451" end="544" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="546" end="575" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="577" end="582" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="584" end="590" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="592" end="598" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="618" end="628" text="25/12/2020" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="639" end="647" text="52373392" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="665" end="699" text="Centro de Salud Puente de Vallecas" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="743" end="753" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="757" end="763" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="790" end="796" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

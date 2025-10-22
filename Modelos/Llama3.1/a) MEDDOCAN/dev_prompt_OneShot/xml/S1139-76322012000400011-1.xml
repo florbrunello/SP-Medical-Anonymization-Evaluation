@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ebrime</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Muhamadou</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9546415</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Emilia 46, Bajo C</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28029</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/11/2005</TAG>.
+    País: <TAG TYPE="PAIS">Gambia</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">11 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">14/03/2017</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Pediatría</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Galbe Sánchez-Ventura</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 57898</TAG>.
+    Historia Actual: varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">11 años</TAG> original de <TAG TYPE="PAIS">Gambia</TAG> que consulta por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematuria macroscópica</TAG> de predominio al final de la micción y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">disuria</TAG> de un año de evolución; sin antecedentes de fiebre. Al realizar la anamnesis refiere un viaje reciente a su país de origen y en el transcurso del mismo varios baños en lagos de la región.
+    Exploración física: La exploración física es <TAG TYPE="OTROS_SUJETO_ASISTENCIA">anodina</TAG>.
+    Resumen de pruebas complementarias: Ante la sospecha clínica de <TAG TYPE="OTRO_NUMERO_IDENTIF">bilharzhiasis</TAG>, se contacta con el Servicio de Microbiología del hospital de referencia, donde indican recogida de orina de tres días consecutivos, preferentemente del mediodía y del final de la micción (momento en que es máxima la excreción de huevos) y se solicita estudio mediante ecografía renovesical. El estudio microbiológico demostró <TAG TYPE="OTRO_NUMERO_IDENTIF">huevos de Schistosoma haematobium</TAG>.
+    Evolución y comentarios: La ecografía vesical practicada puso de manifiesto un engrosamiento parietal que llegaba a alcanzar un grosor máximo de 9 mm en un radio de 20 mm, lo que sugiere <TAG TYPE="OTRO_NUMERO_IDENTIF">esquistosomiasis</TAG>, por lo que se prescribió tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">prazicuantel</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. José</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Galbe Sánchez-Ventura</TAG>. <TAG TYPE="CORREO_ELECTRONICO">galbester@gmail.com</TAG> <TAG TYPE="PROFESION">Servicio de pediatría</TAG> del <TAG TYPE="INSTITUCION">Hospital Universitario La Paz</TAG>. <TAG TYPE="CALLE">Paseo de la Castellana, 261</TAG>, <TAG TYPE="TERRITORIO">28046</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG> <TAG TYPE="NUMERO_TELEFONO">917 27 00 83</TAG>
+  </TEXT>
+</MEDDOCAN>

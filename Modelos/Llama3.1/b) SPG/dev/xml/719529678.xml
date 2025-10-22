@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Elisa</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Franco Serrano</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">43913349R</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">29/11/1929</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Espoz y Mina 16, 8W</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Xirivella</TAG>, <TAG TYPE="TERRITORIO">Zaragoza</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">50261</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">elisa.franco_serrano@hotmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 976 93 92 73</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 776 76 70 13</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3411810</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rosa Mateo Beltran</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">767505831</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/03/1940</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">40863095</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Coslada</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">exfumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>.
+  </TEXT>
+</MEDDOCAN>

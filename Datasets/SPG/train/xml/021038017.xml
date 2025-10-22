@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Alicia Hidalgo Rivera
+DNI: 25836893G
+Fecha de nacimiento: 18/05/1992
+Género: Femenino
+Domicilio: Calle de Sagasta 66, 7U
+Ciudad: Guadix, Cáceres, Extremadura
+Código postal: 10692
+Email: alicia1859@udc.es
+Teléfono fijo: +34 927 93 48 70
+Teléfono móvil: +34 627 80 11 78
+NHC: 1787126
+NASS: 986974057292
+Condición de riesgo: Operador de Equipos Mineros
+
+Datos asistenciales.
+Médico: Dra. Gema Plaza Espinosa. NC 592838631. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 18/03/2004
+Episodio: 58557919
+Centro de salud: Centro de Salud Chamartín
+Matrícula del coche: 7233OXS
+Modelo: Jeep Wrangler
+VIN: VSIQ4JHYX3L588221
+
+Informe clínico del paciente:
+Paciente de tez blanca de 11 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Alicia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Hidalgo Rivera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="25836893G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="18/05/1992" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="113" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="148" text="Calle de Sagasta 66, 7U" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="163" text="Guadix" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="172" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="185" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="10692" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="231" text="alicia1859@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 927 93 48 70" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 627 80 11 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="1787126" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="316" end="328" text="986974057292" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="350" end="377" text="Operador de Equipos Mineros" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="616" end="626" text="18/03/2004" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="637" end="645" text="58557919" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="663" end="688" text="Centro de Salud Chamartín" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="710" end="717" text="7233OXS" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="745" end="762" text="VSIQ4JHYX3L588221" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="806" end="816" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="820" end="827" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="854" end="860" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

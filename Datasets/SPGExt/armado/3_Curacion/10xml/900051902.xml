@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Inés Ortiz Montes</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">26332127W</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/12/2012</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Argumosa 78</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad autónoma de Ceuta</TAG>, <TAG TYPE="TERRITORIO">Ceuta</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">52839</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ines.montes1672@ciberehd.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 28 37 49</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 956 17 15 98</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8266637</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">484408915295</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paramédico</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Valentín Ruiz Carmona</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">310562934</TAG>. Residente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5° año</TAG> en Neurología. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/02/2022</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">67592056</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Collado Villalba</TAG>
+    Antecedentes:
+    No se proporcionan antecedentes médicos del paciente.
+    Evolución y comentarios:
+    No se proporcionan comentarios sobre la evolución del paciente.
+    Remitido por:
+    No se proporciona información sobre quién remitió al paciente.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> de edad, acompañado de su abuela, con una consulta virtual desde la dirección IP (en red interna) <TAG TYPE="DIREC_PROT_INTERNET">192.168.6.81</TAG>, con dirección MAC <TAG TYPE="IDENTIF_BIOMETRICOS">48:61:8E:0C:E6:F6</TAG>. Se desconoce la causa de la consulta y se requiere una evaluación médica más detallada para determinar la causa de la consulta.
+  </TEXT>
+</MEDDOCAN>

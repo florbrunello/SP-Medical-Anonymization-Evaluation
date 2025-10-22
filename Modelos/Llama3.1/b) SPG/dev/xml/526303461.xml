@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rosa</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Miguel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">García</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">49610127R</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/12/2008</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del León 92</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">San Vicente del Raspeig</TAG>, <TAG TYPE="TERRITORIO">Vizcaya</TAG>, <TAG TYPE="TERRITORIO">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">48789</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">miguel.garcia99@imibic.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 946 93 38 00</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 646 10 50 70</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5530958</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">590962939618</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pilar Miguel Domínguez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">323994005</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Barajas</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6525GXR</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Mazda CX-5</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSSJWDNC0JT427769</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">16 años</TAG> de edad. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">escaneo del iris</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">IK207LGM450</TAG>.
+  </TEXT>
+</MEDDOCAN>

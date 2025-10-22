@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Martina</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Diaz Saez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2386590</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">94 26075685 39</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Avenida de la Paz 98, 5 B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Barcelona</TAG>.
+    CP: <TAG TYPE="TERRITORIO">08010</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/09/1949</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">67 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">08/04/2017</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Javier</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">González Lagunas</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">08 08 57496</TAG>.
+    Historia Actual: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mujer de 67 años de edad que consulta a nuestro servicio por tumefacción en la región posterior del hemipaladar derecho</TAG>. Se practicó una <TAG TYPE="PROFESION">biopsia</TAG> bajo <TAG TYPE="PROFESION">anestesia local</TAG> con el diagnóstico de <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">PLGA</TAG>.
+    Antecedentes: Como antecedente más relevante existía un <TAG TYPE="PROFESION">tratamiento con radioterapia</TAG> en la infancia por una <TAG TYPE="OTRO_NUMERO_IDENTIF">patología no catalogada</TAG> en la región de cabeza y cuello.
+    Exploración física: En la exploración cervical presentaba una <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">adenopatía</TAG> a nivel submandibular derecho.
+    Pruebas complementarias: La <TAG TYPE="PROFESION">ortopantomografía</TAG> era normal. Se solicitó una <TAG TYPE="PROFESION">tomografia computerizada cervicofacial</TAG> que se informa como lesión a nivel de fosa nasal derecha en estadio IV (T4N2CMx). Se realiza una <TAG TYPE="PROFESION">punción citológica</TAG> de la adenopatía submandibular que informa de probable <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">PLGA</TAG>. La <TAG TYPE="PROFESION">RM</TAG> muestra una lesión bien delimitada a nivel de fosa nasal con extensión hacia la región pterigoidea.
+    Evolución y comentarios: Se decide intervención quirúrgica bajo <TAG TYPE="PROFESION">anestesia general</TAG>. El <TAG TYPE="PROFESION">tumor</TAG> fue abordado mediante una <TAG TYPE="PROFESION">maxilotomía tipo Lefort I</TAG>. Se realizó también un <TAG TYPE="PROFESION">vaciamiento cervical ganglionar suprahomohioideo unilateral</TAG>. Se llevó a cabo la <TAG TYPE="PROFESION">resección tumoral</TAG> y la reposición ósea del maxilar mediante <TAG TYPE="PROFESION">miniplacas preconformadas</TAG> de 1,5 mm.
+    El resultado definitivo de la <TAG TYPE="PROFESION">anatomía patológica</TAG> confirmó el diagnóstico de <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">PLGA</TAG>, con invasión de márgenes quirúrgicos a nivel del área pterigomaxilar derecha. En el vaciamiento se detectaron <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">adenopatías metastásicas</TAG> (2/16) en el lado derecho (5).
+    Se presentó a la paciente en la sesión de <TAG TYPE="PROFESION">Cirugía Maxilofacial - Oncología</TAG> decidiéndose <TAG TYPE="PROFESION">radioterapia coadyuvante</TAG> en la región pterigomaxilar derecha y seguir controles de imagen mediante <TAG TYPE="PROFESION">resonancia</TAG>. Dada la persistencia de restos tumorales se decide ampliación de márgenes quirúrgicos a nivel pterigomaxilar derecho y reconstrucción del defecto mediante <TAG TYPE="PROFESION">bola adiposa bucal de Bichat</TAG>.
+    Dos años después, la paciente sigue controles periódicos y está libre de enfermedad.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Javier González Lagunas</TAG>. <TAG TYPE="INSTITUCION">Clinica Gnation</TAG> <TAG TYPE="CALLE">C/ Casanova 101, Principal</TAG>. <TAG TYPE="TERRITORIO">08011</TAG> <TAG TYPE="TERRITORIO">Barcelona</TAG>. <TAG TYPE="NUMERO_TELEFONO">948537965</TAG> <TAG TYPE="NUMERO_FAX">934514480</TAG> <TAG TYPE="CORREO_ELECTRONICO">glagunas@terra.es</TAG>
+  </TEXT>
+</MEDDOCAN>

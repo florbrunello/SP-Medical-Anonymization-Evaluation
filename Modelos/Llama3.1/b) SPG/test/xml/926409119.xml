@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Nicolás Trujillo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rivera</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">91652606K</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/11/1996</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Sagasta 12, 9F</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Móstoles</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">17632</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">trujillo-rivera@ciberehd.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 78 34 78</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 672 00 65 27</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9411039</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">706334027198</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador Agrícola</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marcos Espinosa Giménez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">659995781</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/10/2016</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">91967309</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Leganés</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">19 años</TAG> de edad. Se realizó un expediente con <TAG TYPE="URL_WEB">http://example-neurology.com//92287435U</TAG>.
+  </TEXT>
+</MEDDOCAN>

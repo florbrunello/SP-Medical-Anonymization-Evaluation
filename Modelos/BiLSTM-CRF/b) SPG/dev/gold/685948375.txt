@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: José Antonio Prieto Mateos
+DNI: 67653152D
+Fecha de nacimiento: 16/12/1976
+Género: H
+Domicilio: Calle de la Paz 43
+Ciudad: Puertollano, Málaga, Andalucía
+Código postal: 29182
+Email: joseantonioprieto@yahoo.com
+Teléfono fijo: +34 951 46 95 54
+Teléfono móvil: +34 751 86 60 50
+NHC: 4272810
+Condición de riesgo: Conserje
+
+Datos asistenciales.
+Médico: Dr. Ángel Herrero Medina. NC 106091407. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 24/06/2024
+Hospital: Hospital Universitario Río Hortega
+Matrícula del coche: 0827GXO
+Modelo: Subaru Outback
+VIN: VSQBW1CS87U297367
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 47 años de edad. Se registró una sesión de firma biométrica, el código obtenido para revisarla es RI853JJV456. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es LY850BKV362. 

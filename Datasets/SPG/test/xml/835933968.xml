@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sofía Cortés Varela
+DNI: 59387570Y
+Fecha de nacimiento: 14/04/2003
+Género: Mujer
+Domicilio: Calle de San Millán 21
+Ciudad: Palencia, Lugo, Galicia
+Código postal: 27758
+Email: sofia_cortes_varela2022@us.es
+Teléfono fijo: +34 982 45 13 23
+FAX: +34 982 70 65 40
+NHC: 3352522
+
+Datos asistenciales.
+Médico: Dra. Cristina Medina Villanueva. NC 301557185. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/04/2019
+Episodio: 96709797
+Hospital: Complejo Hospitalario Universitario de Santiago
+Matrícula del coche: 5375BLS
+Modelo: Tesla Model 3
+VIN: VSTWZSII0SR051494
+
+Informe clínico del paciente:
+Paciente judío de 15 años de edad, acompañado de su abuela. Se registró una sesión de huella dactilar, el código obtenido para revisarla es GD897ISJ176. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es WJ032MQH115. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Sofía" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Cortés Varela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="59387570Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="14/04/2003" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="108" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="142" text="Calle de San Millán 21" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="159" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="165" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="167" end="174" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="27758" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="232" text="sofia_cortes_varela2022@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 982 45 13 23" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="270" end="286" text="+34 982 70 65 40" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="292" end="299" text="3352522" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="577" end="587" text="06/04/2019" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="598" end="606" text="96709797" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="617" end="664" text="Complejo Hospitalario Universitario de Santiago" TYPE="HOSPITAL" comment=""/>
+        <ID id="T18" start="686" end="693" text="5375BLS" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="721" end="738" text="VSTWZSII0SR051494" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="779" end="784" text="judío" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="788" end="795" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="822" end="828" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="910" end="921" text="GD897ISJ176" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T24" start="1005" end="1016" text="WJ032MQH115" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Elvira Benítez Santos
+DNI: 85762175M
+Fecha de nacimiento: 10/08/1939
+Género: Femenino
+Domicilio: Calle de Claudio Coello 81, 2I
+Ciudad: Girona, Guadalajara, Castilla-La Mancha
+Código postal: 19032
+Email: tJ23JYLXG3zt@gmail.com
+Teléfono fijo: +34 949 66 85 18
+Teléfono móvil: +34 749 05 47 03
+NHC: 3456729
+Condición de riesgo: Policía
+
+Datos asistenciales.
+Médico: Dr. Gregorio Crespo Luque. NC 955891984. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 06/09/1998
+Episodio: 92238709
+Hospital: Hospital Universitario de Crúces
+
+Informe clínico del paciente:
+Paciente exfumador de 59 años de edad, acompañado de su hija. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Elvira" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Benítez Santos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="85762175M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="10/08/1939" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="113" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="155" text="Calle de Claudio Coello 81, 2I" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="164" end="170" text="Girona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="183" text="Guadalajara" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="185" end="203" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="219" end="224" text="19032" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="232" end="254" text="tJ23JYLXG3zt@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="270" end="286" text="+34 949 66 85 18" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="303" end="319" text="+34 749 05 47 03" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="325" end="332" text="3456729" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="354" end="361" text="Policía" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="396" end="417" text="Gregorio Crespo Luque" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="422" end="431" text="955891984" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="433" end="476" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="478" end="536" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="538" end="562" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="564" end="569" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="571" end="581" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="583" end="589" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="609" end="619" text="06/09/1998" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="630" end="638" text="92238709" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="649" end="681" text="Hospital Universitario de Crúces" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="722" end="731" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="735" end="742" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="769" end="773" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

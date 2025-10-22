@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Milagros Aranda Benito
+DNI: 44975688Q
+Fecha de nacimiento: 06/07/1966
+Género: Femenino
+Domicilio: Calle de la Luna 24
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52190
+Email: milagrosaranda.benito@ciberned.es
+Teléfono fijo: +34 956 04 99 72
+Teléfono móvil: +34 756 77 59 06
+NHC: 6589713
+NASS: 375116329149
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dr. Tomás Sánchez Luna. NC 569383045. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 23/09/2005
+Centro de salud: Centro de Salud Centro
+Matrícula del coche: 2829TXZ
+Modelo: Subaru Outback
+VIN: VSPT9KHK7WI495241
+
+Informe clínico del paciente:
+Paciente refugiado de 39 años de edad. Se realizó un expediente con URL http://example-nutrition.net//83288308Z. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es KV906CWG103. Se registró una sesión de firma biométrica, el código obtenido para revisarla es VN139ZEL949. 

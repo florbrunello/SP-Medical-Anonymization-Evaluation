@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Clara Vázquez Carrasco</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">87788636M</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/04/1926</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Rollo 59, 8C</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Logroño, Zamora, Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">49321</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">vazquez@us.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 980 48 00 17</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 780 66 18 20</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6493148</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">187741669846</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Farmacéutico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Moisés</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Hernández Camacho</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">478059638</TAG>. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/07/1938</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">87132301</TAG>.
+    Hospital: <TAG TYPE="CENTRO_SALUD">Hospital Universitario de Cabueñes</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">12 años</TAG> de edad, acompañado de su padre, con antecedentes de alergia a ciertos alimentos y medicamentos. Presenta síntomas de dolor abdominal crónico, con episodios de diarrea y vómitos. La exploración física revela: Tª <TAG TYPE="FECHAS">37,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">80 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">12,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">10.200/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>); plaquetas <TAG TYPE="FECHAS">200.000/ mm3</TAG>. VSG: <TAG TYPE="FECHAS">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">90%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">110 mg/dl</TAG>; urea <TAG TYPE="FECHAS">25 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">0,8 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,5 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">12 U/l</TAG>; GPT <TAG TYPE="FECHAS">20 U/l</TAG>; GGT <TAG TYPE="FECHAS">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">130 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal. Se solicitan pruebas de imagen (Ecografía abdominal y Rx de abdomen) que no evidencian patología significativa. Con el diagnóstico de dolor abdominal crónico se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y dieta blanda) y se realiza seguimiento de la evolución del paciente.
+    Antecedentes:
+    El paciente tiene antecedentes de alergia a ciertos alimentos y medicamentos, lo que puede estar relacionado con sus síntomas de dolor abdominal crónico.
+    Evolución y comentarios:
+    El paciente ha estado bajo tratamiento sintomático durante la estadía en el hospital, y ha mostrado una evolución favorable. Se le ha recomendado seguir una dieta blanda y evitar los alimentos que le causan alergia.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Moisés</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Hernández Camacho</TAG>, Investigador Principal en Parkinson, Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED).
+  </TEXT>
+</MEDDOCAN>

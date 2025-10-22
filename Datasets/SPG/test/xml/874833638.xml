@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Belén Caballero Rodríguez
+DNI: 67730231S
+Fecha de nacimiento: 24/08/1963
+Género: Femenino
+Domicilio: Calle de Argumosa 85
+Ciudad: Hellín, Asturias, Asturias
+Código postal: 33929
+Email: belencaballero1150@ioba.med.uva.es
+Teléfono fijo: +34 984 92 89 65
+Teléfono móvil: +34 784 07 03 90
+NHC: 5722229
+Condición de riesgo: Técnico de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. Julio Álvarez Beltran. NC 297966823. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/11/1977
+Episodio: 64547904
+Hospital: Hospital de Manises
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 14 años de edad, acompañado de su abuela. Se realizó un expediente con URL http://example-ophthalmology.net//10111156M. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es ZB222VCS139. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Belén" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="53" text="Caballero Rodríguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="67730231S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="24/08/1963" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="117" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="129" end="149" text="Calle de Argumosa 85" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="164" text="Hellín" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="174" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="184" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="33929" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="247" text="belencaballero1150@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="263" end="279" text="+34 984 92 89 65" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="296" end="312" text="+34 784 07 03 90" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="318" end="325" text="5722229" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="347" end="369" text="Técnico de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="404" end="425" text="Julio Álvarez Beltran" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="430" end="439" text="297966823" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="441" end="481" text="Residente de 3° año en Gastroenterología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="483" end="576" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="578" end="607" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="609" end="614" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="616" end="622" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="624" end="630" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="650" end="660" text="13/11/1977" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="671" end="679" text="64547904" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="690" end="709" text="Hospital de Manises" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="753" end="781" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="785" end="792" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="819" end="825" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="860" end="888" text="http://example-ophthalmology" TYPE="URL_WEB" comment=""/>
+        <ID id="T31" start="986" end="997" text="ZB222VCS139" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

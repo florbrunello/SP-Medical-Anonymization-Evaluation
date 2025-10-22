@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Álvaro Serra Espinosa
+DNI: 99577919V
+Fecha de nacimiento: 22/09/1994
+Género: V
+Domicilio: Calle de Tribulete 52
+Ciudad: Totana, Mallorca, Islas Baleares
+Código postal: 07638
+Email: alvaroserra_espinosa@ual.es
+Teléfono fijo: +34 971 82 69 94
+FAX: +34 971 77 30 55
+NHC: 1732720
+
+Datos asistenciales.
+Médico: Dr. Pau Méndez Iglesias. NC 277757626. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/07/2011
+Episodio: 63373365
+Hospital: Hospital Universitario Puerto Real
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena americana de 16 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.92.64, con dirección MAC B1:6B:96:12:E9:F4. 

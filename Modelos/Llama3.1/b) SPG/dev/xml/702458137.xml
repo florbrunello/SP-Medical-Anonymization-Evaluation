@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ana</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Herrera Rivas</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">82534257E</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/06/1949</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Engracia 10</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad autónoma de Ceuta</TAG>, <TAG TYPE="TERRITORIO">Ceuta</TAG>,
+    Código postal: <TAG TYPE="TERRITORIO">52155</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">rivas@ucm.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 34 78 95</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 656 71 31 49</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1476793</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">124451101646</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Andrea Guzman Carmona</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">366241767</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardióloga Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/07/1967</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">04835992</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Moratalaz</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1191RIN</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Volkswagen Golf</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSRXLWKCMAR934741</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">18 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">suegro</TAG>. Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">http://example-biotech.com//95125132Y</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Claudia Rodríguez Jurado
+DNI: 63491487X
+Fecha de nacimiento: 27/01/1978
+Género: Mujer
+Domicilio: Calle de Bravo Murillo 66, 2N
+Ciudad: Eibar, Orense, Galicia
+Código postal: 32047
+Email: claudia-jurado@yahoo.com
+Teléfono fijo: +34 988 25 75 94
+FAX: +34 988 21 62 97
+NHC: 8761174
+NASS: 565679105818
+Condición de riesgo: Trabajador de Sanitización
+
+Datos asistenciales.
+Médico: Dra. Antonia Navarro Calvo. NC 880053661. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/11/1993
+Centro de salud: Centro de Salud Villaverde
+
+Informe clínico del paciente:
+Paciente de tez blanca de 15 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Claudia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="52" text="Rodríguez Jurado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="63491487X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="27/01/1978" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="113" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="154" text="Calle de Bravo Murillo 66, 2N" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="163" end="168" text="Eibar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="176" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="185" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="32047" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="238" text="claudia-jurado@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 988 25 75 94" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="276" end="292" text="+34 988 21 62 97" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="298" end="305" text="8761174" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="312" end="324" text="565679105818" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="346" end="372" text="Trabajador de Sanitización" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="645" end="655" text="19/11/1993" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="673" end="699" text="Centro de Salud Villaverde" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="743" end="753" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="757" end="764" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="791" end="798" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

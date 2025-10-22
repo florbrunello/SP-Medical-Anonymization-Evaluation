@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Emilia Salas Tomas
+DNI: 35298429F
+Fecha de nacimiento: 21/08/1970
+Género: Femenino
+Domicilio: Calle del León 20
+Ciudad: Alcalá de Henares, Teruel, Aragón
+Código postal: 44694
+Email: tomas@aol.com
+Teléfono fijo: +34 978 02 73 03
+Teléfono móvil: +34 778 25 43 07
+NHC: 1329055
+NASS: 527060732204
+
+Datos asistenciales.
+Médico: Dra. Antonia Soto Mesa. NC 472225411. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/06/2002
+Hospital: Hospital Universitario Fundación Alcorcón
+Matrícula del coche: 5983RTC
+Modelo: Volkswagen Golf
+VIN: VSGB6S02J2L633666
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 31 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.38.2, con dirección MAC 38:59:00:94:58:1C. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Emilia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="46" text="Salas Tomas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="35298429F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="21/08/1970" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="110" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="139" text="Calle del León 20" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="165" text="Alcalá de Henares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="173" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="181" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="44694" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="223" text="tomas@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="239" end="255" text="+34 978 02 73 03" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="272" end="288" text="+34 778 25 43 07" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="294" end="301" text="1329055" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="308" end="320" text="527060732204" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="571" end="581" text="19/06/2002" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="592" end="633" text="Hospital Universitario Fundación Alcorcón" TYPE="HOSPITAL" comment=""/>
+        <ID id="T18" start="655" end="662" text="5983RTC" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="692" end="709" text="VSGB6S02J2L633666" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="753" end="782" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="786" end="793" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="907" end="924" text="38:59:00:94:58:1C" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

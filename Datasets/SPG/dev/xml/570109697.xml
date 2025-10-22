@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Javier González Valero
+DNI: 71705070V
+Fecha de nacimiento: 06/02/1933
+Género: M
+Domicilio: Calle de Santa Isabel 38, 1I
+Ciudad: Córdoba, Cantabria, Cantabria
+Código postal: 39137
+Email: javier-gonzalez@ciberisciii.es
+Teléfono fijo: +34 942 41 43 17
+Teléfono móvil: +34 642 16 35 37
+NHC: 7485081
+NASS: 378384290457
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dra. María Nieves Iglesias Hernández. NC 656690788. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/08/1967
+Episodio: 10151012
+Hospital: Complejo Hospitalario La Mancha Centro
+
+Informe clínico del paciente:
+Paciente no fumador de 34 años de edad, acompañado de su primo. Se realizó un expediente con URL http://example-clinica.com//84321044D. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="González Valero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="71705070V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="06/02/1933" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="147" text="Calle de Santa Isabel 38, 1I" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="163" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="174" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="185" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="39137" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="244" text="javier-gonzalez@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 942 41 43 17" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="293" end="309" text="+34 642 16 35 37" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="315" end="322" text="7485081" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="329" end="341" text="378384290457" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="363" end="384" text="Trabajador de Almacén" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="649" end="659" text="08/08/1967" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="670" end="678" text="10151012" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="689" end="727" text="Complejo Hospitalario La Mancha Centro" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="768" end="778" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="782" end="789" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="816" end="821" text="primo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="856" end="878" text="http://example-clinica" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

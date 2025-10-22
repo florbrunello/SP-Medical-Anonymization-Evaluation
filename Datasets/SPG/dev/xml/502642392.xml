@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Josefa Lozano Gil
+DNI: 31740181C
+Fecha de nacimiento: 09/03/2012
+Género: Femenino
+Domicilio: Calle del Espíritu Santo 17
+Ciudad: Lugo, Teruel, Aragón
+Código postal: 44569
+Email: lozano@ucm.es
+Teléfono fijo: +34 978 77 78 26
+Teléfono móvil: +34 778 05 96 51
+NHC: 3435075
+NASS: 190633504513
+Condición de riesgo: Operador de Maquinaria Pesada
+
+Datos asistenciales.
+Médico: Dr. José Luis Cuesta Ramos. NC 850320132. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 27/11/2016
+Hospital: Hospital Universitario de Crúces
+
+Informe clínico del paciente:
+Paciente de ascendencia caribeña de 4 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Josefa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="45" text="Lozano Gil" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="31740181C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="09/03/2012" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="109" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="148" text="Calle del Espíritu Santo 17" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="161" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="169" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="177" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="193" end="198" text="44569" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="206" end="219" text="lozano@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="235" end="251" text="+34 978 77 78 26" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="268" end="284" text="+34 778 05 96 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="290" end="297" text="3435075" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="304" end="316" text="190633504513" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="338" end="367" text="Operador de Maquinaria Pesada" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="402" end="424" text="José Luis Cuesta Ramos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="429" end="438" text="850320132" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="440" end="477" text="Residente de 4° año en Endocrinología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="479" end="546" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="548" end="575" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="577" end="582" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="584" end="591" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="593" end="599" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="619" end="629" text="27/11/2016" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="640" end="672" text="Hospital Universitario de Crúces" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="716" end="736" text="ascendencia caribeña" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="740" end="746" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="773" end="780" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

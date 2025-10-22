@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Milagros Aranda Benito
+DNI: 44975688Q
+Fecha de nacimiento: 06/07/1966
+Género: Femenino
+Domicilio: Calle de la Luna 24
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52190
+Email: milagrosaranda.benito@ciberned.es
+Teléfono fijo: +34 956 04 99 72
+Teléfono móvil: +34 756 77 59 06
+NHC: 6589713
+NASS: 375116329149
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dr. Tomás Sánchez Luna. NC 569383045. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 23/09/2005
+Centro de salud: Centro de Salud Centro
+Matrícula del coche: 2829TXZ
+Modelo: Subaru Outback
+VIN: VSPT9KHK7WI495241
+
+Informe clínico del paciente:
+Paciente refugiado de 39 años de edad. Se realizó un expediente con URL http://example-nutrition.net//83288308Z. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es KV906CWG103. Se registró una sesión de firma biométrica, el código obtenido para revisarla es VN139ZEL949. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Milagros" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="50" text="Aranda Benito" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="44975688Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="06/07/1966" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="114" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="145" text="Calle de la Luna 24" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="178" text="Ciudad autónoma de Ceuta" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="180" end="186" text="Ceuta," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="203" end="208" text="52190" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="216" end="249" text="milagrosaranda.benito@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="265" end="281" text="+34 956 04 99 72" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="298" end="314" text="+34 756 77 59 06" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T13" start="320" end="327" text="6589713" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="334" end="346" text="375116329149" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T15" start="368" end="375" text="Bombero" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="410" end="428" text="Tomás Sánchez Luna" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="433" end="442" text="569383045" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="444" end="488" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="490" end="576" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="578" end="607" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="609" end="614" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="616" end="622" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="624" end="630" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="650" end="660" text="23/09/2005" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="678" end="700" text="Centro de Salud Centro" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T26" start="722" end="729" text="2829TXZ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="758" end="775" text="VSPT9KHK7WI495241" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="816" end="825" text="refugiado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="829" end="836" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="879" end="903" text="http://example-nutrition" TYPE="URL_WEB" comment=""/>
+        <ID id="T31" start="1002" end="1013" text="KV906CWG103" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T32" start="1096" end="1107" text="VN139ZEL949" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

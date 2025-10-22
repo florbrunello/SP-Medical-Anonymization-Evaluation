@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Claudia Ramírez Palacios
+DNI: 91863554J
+Fecha de nacimiento: 24/02/2010
+Género: M
+Domicilio: Calle de Piamonte 72, 1E
+Ciudad: Logroño, Vizcaya, Pais Vasco
+Código postal: 48220
+Email: ramirez.palacios@aol.com
+Teléfono fijo: +34 946 44 47 91
+Teléfono móvil: +34 646 23 52 45
+NHC: 9381667
+NASS: 147663598238
+
+Datos asistenciales.
+Médico: Dr. Arturo Rivas Salas. NC 163965707. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/06/2020
+Centro de salud: Centro de Salud Ciudad Lineal
+
+Informe clínico del paciente:
+Paciente musulman de 10 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Claudia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="52" text="Ramírez Palacios" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="91863554J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="24/02/2010" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="145" text="Calle de Piamonte 72, 1E" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="161" text="Logroño" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="170" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="182" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="48220" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="235" text="ramirez.palacios@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 946 44 47 91" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 646 23 52 45" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="9381667" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="147663598238" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="367" end="385" text="Arturo Rivas Salas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="390" end="399" text="163965707" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="401" end="433" text="Residente de 2° año en Pediatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="435" end="510" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="512" end="541" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="543" end="548" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="550" end="556" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="558" end="564" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="584" end="594" text="24/06/2020" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="612" end="641" text="Centro de Salud Ciudad Lineal" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="682" end="690" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="694" end="701" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="728" end="733" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

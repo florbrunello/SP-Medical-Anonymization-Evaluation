@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gonzalo</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Dávila Bolaños</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9834752</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">74 83067120 58</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Paseo Miguel Galvan, 35, Bajo A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Bilbao</TAG>.
+    CP: <TAG TYPE="TERRITORIO">20563</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/03/1995</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">23 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">05/05/2018</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Roberto</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Llarena Ibarguren</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">20 20 57830</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">23 años</TAG> que consultó por masa adyacente al polo superior de teste izquierdo, como hallazgo casual y en ausencia de traumatismo o cuadro inflamatorio. No refería antecedentes de maldescenso testicular. A la exploración los testes se presentaban normales, notándose un nódulo de 2 cm, duro e indoloro en relación al polo superior de teste izquierdo. Analíticamente nada a destacar, con cifras normales de marcadores tumorales germinales. Ecográficamente no existía hidrocele, presentándose el teste normoecógeno y de tamaño normal en torno a los 35 mm de longitud, asociándose un nódulo homogéneo y de igual ecogenicidad que el testículo, de 20 mm de tamaño en relación a la cabeza del epidídimo.
+    Se decidió intervención quirúrgica, durante la que se halló una masa de 2 cm de tamaño, bien definida, de sorprendente color rojo, que se disecó fácilmente del polo superior testicular y epididimario, conservándose el teste.
+    Histológicamente se diagnosticó de tejido esplénico sin alteraciones microscópicas, con arquitectura conservada y presencia de pulpa blanca con centros germinales, pulpa roja con senos venosos y cordones de Billroth.
+    A los 16 meses el paciente se encuentra asintomático con una exploración física dentro de la normalidad.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Roberto</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Llarena Ibarguren</TAG> <TAG TYPE="CALLE">Apartado de correos 20134</TAG> <TAG TYPE="TERRITORIO" >48080</TAG> <TAG TYPE="TERRITORIO" >Bilbao</TAG>, <TAG TYPE="PAIS">España</TAG> <TAG TYPE="CORREO_ELECTRONICO">rllarena@euskalnet.net</TAG>.
+  </TEXT>
+</MEDDOCAN>

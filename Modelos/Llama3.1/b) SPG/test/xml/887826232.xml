@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Luis</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Conde</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Espinosa</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">67723563V</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/11/1968</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de O'Donnell 41</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">MelillaHuesca</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">17737</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">conde.espinosa@ub.edu</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 17 92 99</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 672 83 23 33</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0033970</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Maquinaria Pesada</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Javier Fuentes Navarro</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">927732012</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardiólogo de Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/01/2025</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Barajas</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7199ECI</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Toyota RAV4</TAG>
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSYUN3L82KH502427</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">56 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

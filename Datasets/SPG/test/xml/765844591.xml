@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Cristian Bernal Bravo
+DNI: 76360563B
+Fecha de nacimiento: 12/03/1933
+Género: Hombre
+Domicilio: Calle del Rollo 100
+Ciudad: Dos Hermanas, Sevilla, Andalucía
+Código postal: 41469
+Email: cristian.bravo@uca.es
+Teléfono fijo: +34 954 70 29 96
+FAX: +34 954 22 22 69
+NHC: 5794168
+NASS: 775108628355
+Condición de riesgo: Dentista
+
+Datos asistenciales.
+Médico: Dra. Diana Trujillo Ramos. NC 030635879. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 30/05/1954
+Episodio: 07469300
+Centro de salud: Centro de Salud Málaga Sur
+
+Informe clínico del paciente:
+Paciente vegetariano de 21 años de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es OE658FSK196. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Cristian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="49" text="Bernal Bravo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="76360563B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="12/03/1933" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="111" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="142" text="Calle del Rollo 100" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="163" text="Dos Hermanas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="172" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="183" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="199" end="204" text="41469" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="212" end="233" text="cristian.bravo@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 954 70 29 96" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="271" end="287" text="+34 954 22 22 69" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="293" end="300" text="5794168" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="307" end="319" text="775108628355" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="341" end="349" text="Dentista" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="600" end="610" text="30/05/1954" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="621" end="629" text="07469300" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="647" end="673" text="Centro de Salud Málaga Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="714" end="725" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="729" end="736" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T22" start="828" end="839" text="OE658FSK196" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

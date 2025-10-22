@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Joaquín</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Nieto Gallego</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">19556895H</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">16/05/1980</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Santa Ana 57</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Reus</TAG>, <TAG TYPE="TERRITORIO">Sevilla</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">41575</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">joaquinnieto@gmail.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 75 78 75</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 754 65 17 38</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7900614</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">637542911742</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Técnico de Cuidados Auxiliares de Enfermería</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Paula Cabrera Muñoz</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">864440210</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">03/06/2013</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">73693808</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alcalá de Henares</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

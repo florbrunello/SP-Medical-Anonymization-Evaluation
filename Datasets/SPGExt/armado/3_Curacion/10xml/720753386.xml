@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Arturo Cano Santamaria</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">80011889H</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/02/1971</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de O'Donnell 80</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Reus</TAG>, <TAG TYPE="TERRITORIO">Valencia</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">46881</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">cano1239@ioba.med.uva.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 960 88 42 39</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 960 89 07 40</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9292476</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">800269240928</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Sanitización</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Ángel Alarcon Gallardo</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 999328171</TAG>. <TAG TYPE="PROFESION">Oftalmólogo Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/12/2012</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Nuestra Señora de Candelaria</TAG>.
+    Informe clínico del paciente:
+    El paciente, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">41 años</TAG> de edad y ascendencia asiática, presentó una consulta virtual desde la dirección IP <TAG TYPE="DIREC_PROT_INTERNET">192.168.142.107</TAG>, con dirección MAC <TAG TYPE="IDENTIF_BIOMETRICOS">76:1B:E9:17:0E:06</TAG>. La exploración física reveló: presión arterial <TAG TYPE="FECHAS">120/80 mmHg</TAG>, frecuencia cardíaca <TAG TYPE="FECHAS">70 lpm</TAG>, temperatura <TAG TYPE="FECHAS">36,5°C</TAG>. El paciente se encontraba consciente, orientado y con buen estado de nutrición e hidratación. No se detectaron signos de infección o lesión en la exploración física.
+    La historia clínica del paciente reveló antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>. El paciente había sido tratado con medicamentos antihipertensivos y antidiabéticos en el pasado. El paciente había presentado episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor de cabeza</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">mareos</TAG> en el pasado, pero no había sido diagnosticado con ninguna condición médica específica.
+    Se solicitó una serie de pruebas diagnósticas, incluyendo una ecografía abdominal, una resonancia magnética de la cabeza y una electrocardiograma. Los resultados de las pruebas revelaron: una ecografía abdominal normal, una resonancia magnética de la cabeza sin hallazgos anormales y un electrocardiograma con signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertrofia ventricular izquierda</TAG>.
+    Con base en los hallazgos, se estableció un diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial crónica</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>. Se inició un tratamiento con medicamentos antihipertensivos y antidiabéticos, así como consejos sobre dieta y ejercicio para el paciente.
+    Evolución y comentarios:
+    El paciente fue seguido de cerca durante la hospitalización y se monitorearon los niveles de glucosa en sangre y presión arterial. El paciente mostró una buena respuesta al tratamiento y se mejoró significativamente su estado clínico. El paciente fue dada de alta del hospital en buena condición y se le proporcionaron consejos sobre cómo manejar su condición médica en el futuro.
+    Remitido por:
+    El paciente fue remitido al <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG> para una evaluación y tratamiento de su condición médica. El <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Ángel Alarcon Gallardo</TAG>, <TAG TYPE="PROFESION">Oftalmólogo Especialista en Retina y Vítreo</TAG>, fue el médico encargado de la atención del paciente.
+  </TEXT>
+</MEDDOCAN>

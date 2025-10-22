@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Elvira</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rivera Bueno</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8435745</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Avenida Melquiades Xll, 23, 4 D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Badajoz</TAG>.
+    CP: <TAG TYPE="TERRITORIO">06120</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">20/08/2002</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">15/11/2016</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marta</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ortega Martínez</TAG>NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">06 06 85940</TAG>.
+    Informe clínico del paciente: Adolescente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG>, que ingresa para tratamiento de una hernia discal cervical a nivel C4-C5. Un mes antes había comenzado a sufrir cervicobraquialgia derecha y contracturas musculares cervicales, sin déficits neurológicos. El dolor mejoró con tratamiento conservador, pero días después comenzó con dificultad para la abducción del miembro superior derecho. En la exploración física destacaba una pérdida de fuerza en el deltoides y bíceps derechos (grados 2/5 y 4/5 respectivamente). No se apreciaban alteraciones sensitivas, ni piramidalismo en miembros inferiores. Las radiografías de columna cervical mostraban pérdida de altura en los cuerpos vertebrales de C4-C5-C6, así como una calcificación a nivel del disco C4-C5. La RM cervical ponía de manifiesto una voluminosa hernia discal C4-C5 derecha que comprometía la raíz ipsilateral. Una tomografía computarizada (TC) cervical demostró que la hernia estaba calcificada. Se realizó un estudio analítico completo, no apreciándose alteraciones en el hemograma, en la velocidad de sedimentación globular (VSG), o en el metabolismo fosfocálcico. Una gammagrafía descartó captaciones patológicas.
+    Esta paciente había sido diagnosticada a la edad de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 años</TAG> de calcificaciones intervertebrales idiopáticas a raíz de un estudio radiográfico motivado por dolor cervical. Dicho estudio mostró la existencia de una calcificación a nivel de C4-C5 y varias calcificaciones a nivel dorsal. Una RM descartó cualquier herniación discal. Hasta el episodio actual había permanecido asintomática, salvo ocasionales dolores de espalda.
+    Dado el déficit neurológico que presentaba la paciente, se optó por el tratamiento quirúrgico de la hernia discal por vía anterolateral. Durante la cirugía se observó la existencia de un disco intervertebral con calcificaciones finas. Al abrir el ligamento vertebral común posterior se produjo la salida de un material blanquecino y pastoso, que se encontraba a moderada tensión. El informe patológico del material obtenido fue de fibrocartílago con focos de calcificación. Un mes después la paciente se había recuperado por completo de sus déficits.
+    Responsable clínico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Marta</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ortega Martínez</TAG>. <TAG TYPE="PROFESION">Servicio de Neurocirugía</TAG>. <TAG TYPE="HOSPITAL">Hospital Infanta Cristina</TAG>. <TAG TYPE="CALLE">Avda de Elvas s/n</TAG>. <TAG TYPE="TERRITORIO">Badajoz</TAG>.
+  </TEXT>
+</MEDDOCAN>

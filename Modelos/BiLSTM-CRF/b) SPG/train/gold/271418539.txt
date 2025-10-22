@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: José Manuel Lorenzo Rivas
+DNI: 14268531K
+Fecha de nacimiento: 29/03/1972
+Género: Masculino
+Domicilio: Calle del Sombrerete 69, 3K
+Ciudad: Salamanca, Cáceres, Extremadura
+Código postal: 10433
+Email: rivas@gmail.com
+Teléfono fijo: +34 927 07 05 01
+Teléfono móvil: +34 727 91 21 07
+NHC: 1622100
+NASS: 279972636892
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. Enrique Álvarez Nieto. NC 384470542. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 27/05/1990
+Episodio: 90476906
+Hospital: Hospital Universitario Fundació Jiménez Díaz
+Matrícula del coche: 2782IWF
+Modelo: Hyundai Elantra
+VIN: VSSKN2Q4ZJE561387
+
+Informe clínico del paciente:
+Paciente no fumador de 18 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.92.22, con dirección MAC 3E:CD:2A:10:85:C5. Se registró una sesión de huella dactilar, el código obtenido para revisarla es XH503IOV825. 

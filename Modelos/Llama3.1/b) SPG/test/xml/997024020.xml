@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Oliver Abad</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Montoya</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">59660306P</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/02/1966</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Princesa 96</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Úbeda</TAG>, <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">37590</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">montoya@ciberehd.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 00 92 67</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 623 81 70 60</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0395567</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">855689108455</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Pintor de Construcción</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Adriana Redondo Santos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">093560057</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Principal en Optometría Clínica</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/04/1984</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">32673391</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alcalá de Henares</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2787ODO</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Honda Civic</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSWN31846HJ039414</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">18 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuelo</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP (en red interna)</TAG> <TAG TYPE="NUMERO_TELEFONO">192.168.239.21</TAG>, con <TAG TYPE="IDENTIF_BIOMETRICOS">dirección MAC</TAG> <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">00:ED:A8:79:88:14</TAG>.
+  </TEXT>
+</MEDDOCAN>

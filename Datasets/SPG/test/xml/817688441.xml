@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Carla Ortiz Méndez
+DNI: 82802866Z
+Fecha de nacimiento: 15/01/1953
+Género: F
+Domicilio: Calle de Mesón de Paredes 51, 6J
+Ciudad: Lleida, Formentera, Islas Baleares
+Código postal: 07357
+Email: ortiz-mendez128@h12o.es
+Teléfono fijo: +34 971 11 17 66
+Teléfono móvil: +34 771 03 00 04
+NHC: 4764122
+Condición de riesgo: Técnico de Radiología
+
+Datos asistenciales.
+Médico: Dra. Virginia Márquez Sanz. NC 785197099. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 31/12/1984
+Episodio: 35911444
+Hospital: Hospital Universitario Fundación Alcorcón
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 31 años de edad, acompañado de su nuera. Se registró una sesión de huella dactilar, el código obtenido para revisarla es XO106XCG099. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Carla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="46" text="Ortiz Méndez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="82802866Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="15/01/1953" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="147" text="Calle de Mesón de Paredes 51, 6J" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="162" text="Lleida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="174" text="Formentera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="190" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="07357" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="242" text="ortiz-mendez128@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="258" end="274" text="+34 971 11 17 66" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="291" end="307" text="+34 771 03 00 04" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="313" end="320" text="4764122" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="342" end="363" text="Técnico de Radiología" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="609" end="619" text="31/12/1984" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="630" end="638" text="35911444" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="649" end="690" text="Hospital Universitario Fundación Alcorcón" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="734" end="762" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="766" end="773" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="800" end="805" text="nuera" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T22" start="887" end="898" text="XO106XCG099" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Isaac</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Roca Sáez</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">81099461N</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">15/03/1936</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle del Espíritu Santo 81</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Bormujos</TAG>, <TAG TYPE="TERRITORIO">Tarragona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">43169</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">isaac-roca@uhu.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 977 63 20 22</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 677 46 24 22</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2057513</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Granjero</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Andrés Palacios Delgado</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">276756877</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">20/03/1995</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">78131187</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital General de Villalba</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">víctima de desastre</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">59 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Manuel Jesús</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Domínguez Pereira</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">40737489G</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/03/2022</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Don Ramón de la Cruz 6, 8A</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Langreo</TAG>, <TAG TYPE="TERRITORIO">Cáceres</TAG>, <TAG TYPE="TERRITORIO">Extremadura</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">10556</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">manueljesus-dominguez-pereira@aol.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 927 46 80 22</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 727 45 18 21</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6167075</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">981924622248</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Plomero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Omar Giménez Rubio</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">068929915</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">06/01/2025</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital General Universitario Reina Sofía</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">OD010CWX490</TAG>.
+  </TEXT>
+</MEDDOCAN>

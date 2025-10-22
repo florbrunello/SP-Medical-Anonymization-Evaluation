@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rosario Santos Heredia
+DNI: 83793037N
+Fecha de nacimiento: 18/12/1987
+Género: F
+Domicilio: Calle de las Letras 65
+Ciudad: Linares, Gerona, Cataluña
+Código postal: 17184
+Email: santos_heredia904@protonmail.com
+Teléfono fijo: +34 972 09 83 14
+FAX: +34 972 07 30 56
+NHC: 3654168
+NASS: 759519347678
+
+Datos asistenciales.
+Médico: Dr. Ismael Padilla Ortega. NC 250527915. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/04/1998
+Episodio: 45659177
+Hospital: Hospital Universitario de Gran Canaria Dr. Negrín
+
+Informe clínico del paciente:
+Paciente no fumador de 10 años de edad, acompañado de su tía. El servidor para envío de información desde cual el usuario se comunica es smtp://example-therapy.org. Se registró una sesión de huella dactilar, el código obtenido para revisarla es OD747AON524. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Rosario" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Santos Heredia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="83793037N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="18/12/1987" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="141" text="Calle de las Letras 65" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="157" text="Linares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="165" text="Gerona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="167" end="175" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="17184" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="236" text="santos_heredia904@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 972 09 83 14" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 972 07 30 56" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="296" end="303" text="3654168" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="310" end="322" text="759519347678" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="357" end="378" text="Ismael Padilla Ortega" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="383" end="392" text="250527915" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="394" end="429" text="Investigador Principal en Parkinson" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="431" end="520" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="522" end="551" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="553" end="558" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="560" end="566" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="568" end="574" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="594" end="604" text="08/04/1998" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="615" end="623" text="45659177" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="634" end="683" text="Hospital Universitario de Gran Canaria Dr. Negrín" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="724" end="734" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="738" end="745" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="772" end="775" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="852" end="874" text="smtp://example-therapy" TYPE="URL_WEB" comment=""/>
+        <ID id="T31" start="960" end="971" text="OD747AON524" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

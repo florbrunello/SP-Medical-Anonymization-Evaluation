@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Izan</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Plaza Moya</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">22547672J</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">01/08/1996</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Santa Ana 80, 6B</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Logroño</TAG>, <TAG TYPE="TERRITORIO">Barcelona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">08067</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">izan-moya1046@uhu.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 931 58 38 58</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 739 80 02 31</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6946613</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">536110838534</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Dentista</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alicia Castro Serrano</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">319270056</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuropsicóloga Clínica Investigadora</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">15/02/2014</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">86482256</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuencarral</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">17 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

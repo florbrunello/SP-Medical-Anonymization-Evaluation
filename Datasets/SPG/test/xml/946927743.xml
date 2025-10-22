@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Moisés Hidalgo Vicente
+DNI: 66965330W
+Fecha de nacimiento: 22/03/1961
+Género: Varón
+Domicilio: Calle de Sagasta 48
+Ciudad: Alcobendas, Formentera, Islas Baleares
+Código postal: 07658
+Email: moises@ciberisciii.es
+Teléfono fijo: +34 971 15 54 14
+Teléfono móvil: +34 771 95 00 56
+NHC: 0642538
+Condición de riesgo: Soldado
+
+Datos asistenciales.
+Médico: Dr. Santiago Roldan Arroyo. NC 664323484. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 28/10/2000
+Centro de salud: Centro de Salud Delicias
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 39 años de edad, acompañado de su hermana. Se realizó un expediente con URL http://example-hospital.org//24110517O. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Moisés" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Hidalgo Vicente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="66965330W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="22/03/1961" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="142" text="Calle de Sagasta 48" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="161" text="Alcobendas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="173" text="Formentera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="189" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="07658" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="239" text="moises@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 971 15 54 14" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 771 95 00 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="0642538" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="339" end="346" text="Soldado" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="381" end="403" text="Santiago Roldan Arroyo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="408" end="417" text="664323484" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="419" end="457" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="459" end="526" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="528" end="555" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="557" end="562" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="564" end="571" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="573" end="579" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="599" end="609" text="28/10/2000" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="627" end="651" text="Centro de Salud Delicias" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="695" end="724" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="728" end="735" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="762" end="769" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="804" end="827" text="http://example-hospital" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan Ramón Moya Benítez</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">37874948C</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/07/1977</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Gobernador 56, 7V</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Jaca, Las Palmas, Canarias</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">35559</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">oeRc1WuGQ518@ciberned.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 928 77 01 96</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 628 44 67 48</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8430264</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">720579242410</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Técnico de Cuidados Auxiliares de Enfermería</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Juan Luis Gallego Garrido</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">140153264</TAG>. Residente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4° año</TAG> en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/11/1994</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">95206428</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Valdemoro</TAG>.
+    Informe clínico del paciente:
+    Paciente fumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">17 años</TAG> de edad, acompañado de su hijo, que refiere dolor en el pecho de intensidad moderada durante las últimas 24 horas, con un patrón de dolor intermitente que empeora con la respiración y el movimiento. El paciente tiene una historia de fumador activo desde los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15 años</TAG> y consume un paquete de cigarrillos al día. No tiene antecedentes médicos relevantes y no toma ningún medicamento regularmente.
+    La exploración física revela: Tª <TAG TYPE="FECHAS">37,2 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. El paciente se encuentra consciente, orientado, sin sudoración ni fiebre. En la exploración cardiovascular, se palpan soplos cardíacos sin ningún signo de insuficiencia cardíaca. La auscultación pulmonar revela un murmullo vesicular normal. En la exploración abdominal, se palpan bultos hepáticos sin dolor. En la exploración neurológica, no se detectan signos meníngeos ni datos de focalidad.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">14,2 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">8.500/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">15 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">95%</TAG>; TTPA <TAG TYPE="FECHAS">22,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">105 mg/dl</TAG>; urea <TAG TYPE="FECHAS">20 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,2 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">140 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">4,2 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">20 U/l</TAG>; GPT <TAG TYPE="FECHAS">25 U/l</TAG>; GGT <TAG TYPE="FECHAS">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">120 U/l</TAG>; calcio <TAG TYPE="FECHAS">9,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Rx tórax, Ecografía abdominal) que no evidencian patología significativa. Con el diagnóstico de angina de pecho, se instaura tratamiento sintomático (reposo, elevación de las piernas, antiinflamatorios) y se le recomienda a la familia que no fume en el hogar. El paciente se mantiene en observación en la unidad de cuidados intensivos para monitorear su estado clínico.
+  </TEXT>
+</MEDDOCAN>

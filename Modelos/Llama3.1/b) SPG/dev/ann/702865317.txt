@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Álex Gallardo Franco
+DNI: 94473597Q
+Fecha de nacimiento: 07/11/2023
+Género: Hombre
+Domicilio: Calle de Génova 86, 2X
+Ciudad: Yecla, Segovia, Castilla y León
+Código postal: 40361
+Email: gallardo-franco965@udc.es
+Teléfono fijo: +34 921 53 12 36
+FAX: +34 921 03 07 87
+NHC: 1930011
+NASS: 927861091751
+
+Datos asistenciales.
+Médico: Dra. María Cristina Ríos Acosta. NC 640234209. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/11/2024
+Episodio: 70226208
+Hospital: Hospital Clínic Universitario Virgen de la Arrixaca
+Matrícula del coche: 9217XOS
+Modelo: Mazda CX-5
+VIN: VSL38QTSA7H894728
+
+Informe clínico del paciente:
+Paciente no fumador de un año de edad, acompañado de su madre. Se registró una sesión de huella dactilar, el código obtenido para revisarla es DD297SIR737. 

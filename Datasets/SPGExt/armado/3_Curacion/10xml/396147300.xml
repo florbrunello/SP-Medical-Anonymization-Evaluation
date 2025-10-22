@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Inmaculada Bermudez Calderon</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">27214505P</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">22/03/1996</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Marqués de Cubas 12</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Almería, Huelva, Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">21708</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">82wG3@protonmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 959 88 52 55</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 659 93 77 92</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0645242</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">190521612430</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Sanitización</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Ricardo López Costa</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">722070560</TAG>. Residente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3° año</TAG> en Psiquiatría. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/09/2003</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">34893788</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Fuenlabrada</TAG>.
+    Informe clínico del paciente:
+    Paciente víctima de desastre de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su madre. Presenta signos de estrés y ansiedad. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">OB877VCR861</TAG>. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">XG158ALY607</TAG>.
+    Evolución y comentarios:
+    El paciente ha estado bajo observación durante las últimas 24 horas. Se han realizado pruebas de diagnóstico y se espera obtener resultados en las próximas horas.
+    Remitido por:
+    Se recomienda que el paciente sea remitido a la Unidad de Psiquiatría Infantil para una evaluación más detallada y un plan de tratamiento adecuado.
+    Antecedentes:
+    El paciente tiene antecedentes de haber sido víctima de un desastre en el pasado. Se desconoce la gravedad de los daños sufridos.
+    Fecha de ingreso:
+    <TAG TYPE="FECHAS">28/09/2003</TAG>
+    Centro de salud de ingreso:
+    <TAG TYPE="HOSPITAL">Hospital Universitario de Fuenlabrada</TAG>
+  </TEXT>
+</MEDDOCAN>

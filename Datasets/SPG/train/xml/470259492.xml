@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Luisa Diez Cuesta
+DNI: 70183983N
+Fecha de nacimiento: 02/02/1987
+Género: Mujer
+Domicilio: Calle de Salitre 17, 9W
+Ciudad: Salamanca, Ávila, Castilla y León
+Código postal: 05299
+Email: diez724@us.es
+Teléfono fijo: +34 920 66 12 73
+Teléfono móvil: +34 620 46 20 63
+NHC: 4425634
+Condición de riesgo: Soldado
+
+Datos asistenciales.
+Médico: Dr. Rubén Blazquez Soriano. NC 050982474. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 14/10/1991
+Episodio: 60898033
+Centro de salud: Centro de Salud Aranjuez
+
+Informe clínico del paciente:
+Paciente exfumador de 4 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Luisa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="45" text="Diez Cuesta" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="70183983N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="02/02/1987" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="106" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="141" text="Calle de Salitre 17, 9W" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="159" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="166" text="Ávila" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="183" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="199" end="204" text="05299" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="212" end="225" text="diez724@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 920 66 12 73" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 620 46 20 63" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="296" end="303" text="4425634" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="325" end="332" text="Soldado" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="367" end="389" text="Rubén Blazquez Soriano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="394" end="403" text="050982474" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="405" end="443" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="445" end="512" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="514" end="541" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="543" end="548" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="550" end="557" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="559" end="565" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="585" end="595" text="14/10/1991" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="606" end="614" text="60898033" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="632" end="656" text="Centro de Salud Aranjuez" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="697" end="706" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="710" end="716" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="743" end="748" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ramón</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Zamora Hidalgo</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">92178984K</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/05/1980</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Moratín 71</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Burgos</TAG>, <TAG TYPE="TERRITORIO">Burgos</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">09835</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ramon.zamora_hidalgo@ub.edu</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 947 48 36 94</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 747 93 21 04</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8907567</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ingeniero de Minas</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Raquel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Martínez Prieto</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">369379964</TAG>. <TAG TYPE="PROFESION">Residente de 3° año en Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">15/04/1993</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">99656307</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Arganzuela</TAG>.
+    Antecedentes:
+    - Paciente con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alergia a ciertos alimentos</TAG>.
+    - Historia familiar de enfermedades <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">autoinmunes</TAG>.
+    Evolución y comentarios:
+    - El paciente presentó <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas de dolor en la región lumbar</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fiebre</TAG> en la última semana.
+    - Se realizaron pruebas de laboratorio y se encontró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">inflamación</TAG> en la región lumbar.
+    Informe clínico del paciente:
+    El paciente fue ingresado en la unidad de cuidados intensivos con un diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">neumonía grave</TAG>. Presentaba dificultad para respirar y se necesitaba <TAG TYPE="OTROS_SUJETO_ASISTENCIA">oxígeno</TAG> para mantener la oxigenación adecuada. La temperatura corporal era de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">38,5°C</TAG> y la frecuencia cardíaca era de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120 latidos por minuto</TAG>. El paciente estaba consciente y orientado, pero con un estado de ánimo alterado.
+    La exploración física reveló signos de infección en la región pulmonar derecha, con ausencia de signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">shock</TAG>. La presión arterial era de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120/80 mmHg</TAG> y la frecuencia respiratoria era de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">24 respiraciones por minuto</TAG>. Se encontraron signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">inflamación</TAG> en la región lumbar, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor</TAG> al tocar la zona.
+    Los datos analíticos mostraron un aumento en la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">glucemia</TAG> y una disminución en la función <TAG TYPE="OTROS_SUJETO_ASISTENCIA">renal</TAG>. Se realizaron pruebas de laboratorio para determinar la causa de la infección y se encontró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bacteria</TAG> resistente a los <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antibióticos</TAG>.
+    Se inició el tratamiento con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antibióticos de amplio espectro</TAG> y se realizó una exploración por resonancia magnética para determinar la causa de la inflamación en la región lumbar. El paciente fue trasladado a la unidad de cuidados intensivos para recibir el tratamiento adecuado.
+    En la exploración por resonancia magnética se encontró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lesión</TAG> en la región lumbar, que se creía que era la causa de la inflamación. Se realizó una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">biopsia</TAG> para determinar la causa de la lesión y se encontró un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumor benigno</TAG>.
+    El paciente fue sometido a una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cirugía</TAG> para remover el tumor y se inició el tratamiento con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">quimioterapia</TAG> para prevenir la recurrencia del tumor. El paciente se encuentra en proceso de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">recuperación</TAG> y se espera que se recupere completamente.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Raquel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Martínez Prieto</TAG>, <TAG TYPE="PROFESION">Residente de 3° año en Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

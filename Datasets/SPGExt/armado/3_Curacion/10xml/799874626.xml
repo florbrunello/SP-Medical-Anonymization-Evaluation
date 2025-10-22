@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Manuela</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Diez Rueda</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">67411500H</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/10/1967</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del León 87</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Motril</TAG>, <TAG TYPE="TERRITORIO">Burgos</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">09622</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">manueladiez@protonmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 947 28 56 74</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 747 06 71 98</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6489070</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">618536564341</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Femenino de edad avanzada</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mikel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ibáñez Vázquez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">684995246</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">31/01/1991</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">22292447</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Delicias</TAG>.
+    Cargo del médico: <TAG TYPE="PROFESION">Jefe de Sección de Gastroenterología</TAG>.
+    Fecha de ingreso:
+    <TAG TYPE="FECHAS">31/01/1991</TAG>.
+    Centro de salud de ingreso:
+    <TAG TYPE="CENTRO_SALUD">Centro de Salud Delicias</TAG>.
+    Informe clínico del paciente:
+    La paciente, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">54 años</TAG> de edad, fue ingresada en el hospital con síntomas de dolor abdominal crónico y pérdida de peso. La paciente tiene antecedentes de enfermedad coronaria y hipertensión arterial. La exploración física revela un abdomen distendido, con dolor en la región epigástrica. Los análisis de laboratorio muestran una elevación de la enzima alanina aminotransferasa (ALT) en sangre. La paciente se encuentra estable y se le ha iniciado tratamiento con medicamentos para aliviar el dolor y reducir la inflamación.
+    Antecedentes:
+    La paciente tiene un historial de enfermedad coronaria y hipertensión arterial, lo que la pone en alto riesgo de desarrollar complicaciones cardiovasculares. La paciente también tiene un historial de consumo de alcohol, lo que puede estar relacionado con su enfermedad actual.
+    Evolución y comentarios:
+    La paciente ha estado recibiendo tratamiento en el hospital durante la última semana. La paciente ha mostrado una mejoría en sus síntomas, pero todavía requiere seguimiento estrecho para asegurarse de que no haya complicaciones.
+    Remitido por:
+    El paciente ha sido remitido a su médico de cabecera para seguir su tratamiento y realizar controles regulares. Se le ha recomendado que siga una dieta equilibrada y evite el consumo de alcohol.
+  </TEXT>
+</MEDDOCAN>

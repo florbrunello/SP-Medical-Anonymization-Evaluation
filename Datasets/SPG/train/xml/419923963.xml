@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Andrés Izquierdo Zamora
+DNI: 67126682D
+Fecha de nacimiento: 24/08/1945
+Género: V
+Domicilio: Calle de Argumosa 84
+Ciudad: Las Palmas de Gran Canaria, Toledo, Castilla-La Mancha
+Código postal: 45483
+Email: izquierdozamora@icloud.com
+Teléfono fijo: +34 925 35 77 52
+Teléfono móvil: +34 625 34 06 09
+NHC: 1024049
+NASS: 430234555469
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dr. Juan Pedro Caballero Gil. NC 059032635. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 22/09/2002
+Hospital: Hospital Universitario Severo Ochoa
+Matrícula del coche: 3770LAN
+Modelo: Chrysler Pacifica
+VIN: VSG4QEE5V7G997312
+
+Informe clínico del paciente:
+Paciente vegetariano de 57 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Andrés" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="51" text="Izquierdo Zamora" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="67126682D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="24/08/1945" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="140" text="Calle de Argumosa 84" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="175" text="Las Palmas de Gran Canaria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="177" end="183" text="Toledo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="185" end="203" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="219" end="224" text="45483" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="232" end="258" text="izquierdozamora@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="274" end="290" text="+34 925 35 77 52" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="307" end="323" text="+34 625 34 06 09" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="329" end="336" text="1024049" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="343" end="355" text="430234555469" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="377" end="398" text="Trabajador de Almacén" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="433" end="457" text="Juan Pedro Caballero Gil" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="462" end="471" text="059032635" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="473" end="513" text="Investigador Clínico en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="515" end="582" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="584" end="611" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="613" end="618" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="620" end="627" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="629" end="635" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="655" end="665" text="22/09/2002" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="676" end="711" text="Hospital Universitario Severo Ochoa" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="733" end="740" text="3770LAN" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="772" end="789" text="VSG4QEE5V7G997312" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="830" end="841" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="845" end="852" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="879" end="884" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Yolando</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ramos Pirez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">789054</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">98 72568965 76</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Avenida concha espina 63, 5A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28036</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/04/1965</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">52 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">15/08/2017</TAG>.
+    Servicio: <TAG TYPE="PROFESION">urgencias</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">684564</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ana</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">González-Gómez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 79461</TAG>.
+    Motivo de ingreso: Paciente <TAG TYPE="SEXO_SUJETO_ASISTENCIA">mujer</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">52 años</TAG>, que acude a <TAG TYPE="PROFESION">urgencias</TAG> por pérdida de visión brusca e indolora en el ojo izquierdo (OI). No presentaba antecedentes personales ni familiares de interés.
+    Exploración y pruebas complementarias: En la exploración oftalmológica, su mejor agudeza visual corregida (MAVC) en el ojo derecho (OD) era de 0,9 y en el OI de 0,6. La presión intraocular (PIO) y la biomicroscopia (BMC) de polo anterior no mostraban alteraciones significativas. Al visualizar el fondo de ojo (FO) se apreciaba un moteado marronáceo, más prominente temporal a la fóvea, que correspondía con la típica imagen de «fondo en piel de naranja». Se observaban además las características estrías angioides (EA), así como cuerpos coloides en ambos ojos (AO). En su OI destacaban unas llamativas drusas del nervio óptico y una lesión grisácea subfoveal en el seno de una EA, elevada y bordeada de hemorragias, compatible con NVC.
+    Se realizaron, por tanto, una serie de pruebas complementarias, apareciendo en la autofluorescencia de fondo (FA) de AO un moteado difuso hiperautofluorescente (hiper-FA) y lesiones lineales irregulares hipoautofluorescentes (hipo-FA) con moteado hiper-FA en su lecho. En el OI resaltaban las drusas del nervio óptico y los cuerpos coloides con una intensa hiper-FA.
+    La Angiografía fluoresceínica (AFG) revelaba un enrejado hiper e hipofluorescente por alteración del epitelio pigmentario retiniano (EPR) y una lesión hiperfluorescente con difusión tardía en el OI compatible con una NVC.
+    En la tomografía óptica de coherencia (OCT) se evidenciaba una desestructuración de la banda hiperreflectiva EPR-coriocapilar en AO, y en el OI una lesión cupuliforme densa (NVC), bordeada de un pequeño desprendimiento de neuroepitelio.
+    Evolución y comentarios: Tras el diagnóstico oftalmológico, fue derivada a la unidad de seudoxantoma elástico de nuestro hospital, donde confirmaron la enfermedad.
+    Se pautó tratamiento con inyecciones intravítreas mensuales de 0,05ml de ranibizumab (Lucentis) durante 3 meses en su OI, realizando medición de la MAVC y OCT un mes después de cada inyección, y AFG de control a los 3 meses. Durante un periodo de seguimiento de un año se practicaron OCT periódicos de control. A los 3 meses se observó la franca mejoría del cuadro, pues la MAVC mejoró a 0,7, desapareciendo las hemorragias subretinianas y disminuyendo el grosor macular en la OCT.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ana</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">González-Gómez</TAG> <TAG TYPE="CORREO_ELECTRONICO">anagg_82@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

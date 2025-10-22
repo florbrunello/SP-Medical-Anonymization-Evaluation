@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Dolores García Cortés
+DNI: 85517347N
+Fecha de nacimiento: 15/08/1976
+Género: F
+Domicilio: Calle de Amor de Dios 47
+Ciudad: Alcázar de San Juan, Zaragoza, Aragón
+Código postal: 50078
+Email: cortes@isciii.es
+Teléfono fijo: +34 976 95 47 20
+Teléfono móvil: +34 676 21 03 79
+NHC: 4080039
+Condición de riesgo: Inspector de Seguridad Minera
+
+Datos asistenciales.
+Médico: Dra. Mercedes Bermudez Martín. NC 734136781. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/05/2007
+Centro de salud: Centro de Salud Ciudad Lineal
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 30 años de edad, acompañado de su yerno. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Dolores" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="55" text="García Cortés" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="85517347N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="15/08/1976" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="112" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="148" text="Calle de Amor de Dios 47" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="176" text="Alcázar de San Juan" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="178" end="186" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="188" end="194" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="50078" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="239" text="cortes@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 976 95 47 20" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 676 21 03 79" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="4080039" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="339" end="368" text="Inspector de Seguridad Minera" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="642" end="652" text="09/05/2007" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="670" end="699" text="Centro de Salud Ciudad Lineal" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T18" start="743" end="776" text="ascendencia indígena sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="780" end="787" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="814" end="819" text="yerno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Victoria Plaza Roca
+DNI: 75398682J
+Fecha de nacimiento: 27/09/2014
+Género: F
+Domicilio: Calle de Arganzuela 18
+Ciudad: Gijón, La Rioja, La Rioja
+Código postal: 26167
+Email: victoria_roca@ciberer.es
+Teléfono fijo: +34 941 29 92 15
+Teléfono móvil: +34 641 97 74 21
+NHC: 1980495
+NASS: 620412206059
+Condición de riesgo: Operador de Maquinaria Pesada
+
+Datos asistenciales.
+Médico: Dr. Eric Alarcon Pascual. NC 646335336. Neurólogo Investigador en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 21/10/2021
+Episodio: 24822158
+Centro de salud: Centro de Salud Málaga Oeste
+Matrícula del coche: 5267NPH
+Modelo: Mercedes-Benz C-Class
+VIN: VSL4HQZ1ZGI361218
+
+Informe clínico del paciente:
+Paciente de ascendencia australiana de 7 años de edad, acompañado de su tía. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es KJ369UZN325. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Victoria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="47" text="Plaza Roca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="75398682J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="27/09/2014" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="138" text="Calle de Arganzuela 18" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="152" text="Gijón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="154" end="162" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="172" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="188" end="193" text="26167" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="201" end="225" text="victoria_roca@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 941 29 92 15" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 641 97 74 21" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="296" end="303" text="1980495" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="310" end="322" text="620412206059" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="344" end="373" text="Operador de Maquinaria Pesada" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="408" end="428" text="Eric Alarcon Pascual" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="433" end="442" text="646335336" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="444" end="491" text="Neurólogo Investigador en Trastornos Cognitivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="493" end="565" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="567" end="590" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="592" end="597" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="599" end="605" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="607" end="613" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="633" end="643" text="21/10/2021" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="654" end="662" text="24822158" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="680" end="708" text="Centro de Salud Málaga Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="730" end="737" text="5267NPH" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="773" end="790" text="VSL4HQZ1ZGI361218" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="834" end="857" text="ascendencia australiana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="861" end="867" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="894" end="897" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T33" start="980" end="991" text="KJ369UZN325" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

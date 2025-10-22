@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Tamara Rey Díaz</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">58046927X</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/05/2011</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Espoz y Mina 60, 1O</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Plasencia</TAG>, <TAG TYPE="TERRITORIO">Valladolid</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">47321</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">3o4fxPQhaqwjtb1096@ioba.med.uva.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 983 08 09 69</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 683 49 46 44</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5447749</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Químico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marcos Hidalgo Castro</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 047394536</TAG>. <TAG TYPE="PROFESION">Cardiólogo de Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/12/2017</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Regional Universitario de Málaga</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">9577KHA</TAG>.
+    Modelo: <TAG TYPE="OTRO_SUJETO_ASISTENCIA">BMW 3 Series</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSUYX5ZU42T999382</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años</TAG> de edad, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG>, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>, presenta <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas de dolor abdominal crónico</TAG> desde hace varias semanas, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">picos de fiebre</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">escalofríos</TAG>. La exploración física revela: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Tª 38,5 C</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">T.A: 120/80 mmHg</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Fc: 90 lpm</TAG>. Se encuentra <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consciente</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">orientado</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sudoroso</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">eupneico</TAG>, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">buen estado de nutrición e hidratación</TAG>. En <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cabeza y cuello</TAG> no se palpan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">adenopatías</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bocio</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ingurgitación de vena yugular</TAG>, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pulsos carotídeos simétricos</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Auscultación cardíaca rítmica</TAG>, sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">soplos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">roces</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">extratonos</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Auscultación pulmonar con conservación del murmullo vesicular</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Abdomen blando</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">depresible</TAG>, sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">masas</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">megalias</TAG>. Los datos analíticos muestran los siguientes resultados: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hemograma: Hb 12,5 g/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">leucocitos 12.000/mm3 (neutrófilos 60%)</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">plaquetas 250.000/ mm3</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">VSG: 35 mm 1ª hora</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Coagulación: TQ 90%</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TTPA 25,5 seg</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Bioquímica: Glucosa 110 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urea 25 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina 0,8 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sodio 137 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">potasio 3,7 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GOT 15 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GPT 28 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GGT 38 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fosfatasa alcalina 140 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">calcio 8,5 mg/dl</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Orina: sedimento normal</TAG>.
+    Antecedentes:
+    El paciente tiene <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedentes de alergia a ciertos alimentos</TAG>, incluyendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">frutos secos</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nueces</TAG>. También tiene una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">historia de asma leve</TAG>.
+    Evolución y comentarios:
+    El paciente se encuentra en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">observación en la unidad de cuidados intensivos</TAG>, recibiendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tratamiento para controlar la fiebre y el dolor abdominal</TAG>. Se están realizando <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pruebas adicionales para determinar la causa subyacente de los síntomas</TAG>.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Carlos Sánchez García</TAG>, <TAG TYPE="PROFESION">Pediatra de la Unidad de Cuidados Intensivos</TAG>.
+  </TEXT>
+</MEDDOCAN>

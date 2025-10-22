@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Fletes Castillo</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3478056</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">85 62602657 31</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle Arzobispo Raimundo, 6</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Pamplona</TAG>.
+    CP: <TAG TYPE="TERRITORIO">31008</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/04/1961</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">55 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">06/05/2016</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Wenceslao</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Torre Buxalleu</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">31 31 44789</TAG>.
+    Informe clínico del paciente: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">55 años</TAG> que acudió a urgencias por déficit de agudeza visual (AV) en ojo derecho (OD). La AV era de <TAG TYPE="OTRO_NUMERO_IDENTIF">0,1</TAG> en OD y de <TAG TYPE="OTRO_NUMERO_IDENTIF">1</TAG> en ojo izquierdo con corrección.
+    Entre sus antecedentes personales destacaba una <TAG TYPE="OTRO_NUMERO_IDENTIF">trombosis venosa profunda</TAG> en la pierna derecha <TAG TYPE="OTRO_NUMERO_IDENTIF">5 años</TAG> atrás y una <TAG TYPE="OTRO_NUMERO_IDENTIF">hipertensión arterial</TAG> en tratamiento.
+    Carecía de antecedentes familiares <TAG TYPE="OTRO_NUMERO_IDENTIF">trombofílicos</TAG> conocidos.
+    La presión intraocular, biomicroscopía y motilidad ocular eran normales.
+    En la oftalmoscopia del OD se apreciaban <TAG TYPE="OTRO_NUMERO_IDENTIF">hemorragias</TAG> en llama peripapilares, <TAG TYPE="OTRO_NUMERO_IDENTIF">tortuosidad vascular</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">exudados algodonosos</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">edema macular</TAG>. En la angiografía fluoresceínica se confirmó la existencia de una <TAG TYPE="OTRO_NUMERO_IDENTIF">trombosis venosa central edematosa</TAG>.
+    En el estudio básico de coagulación aparecieron unas <TAG TYPE="OTRO_NUMERO_IDENTIF">cifras elevadas</TAG> de <TAG TYPE="OTRO_NUMERO_IDENTIF">protrombina tisular</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">1,55 Uml</TAG>) por lo que se solicitó un estudio de <TAG TYPE="OTRO_NUMERO_IDENTIF">trombofilia</TAG> que reveló un <TAG TYPE="OTRO_NUMERO_IDENTIF">aumento de la resistencia a la proteína c activada</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">1,5</TAG>).
+    En el análisis genético se amplificaron mediante <TAG TYPE="OTRO_NUMERO_IDENTIF">PCR</TAG> fragmentos de <TAG TYPE="OTRO_NUMERO_IDENTIF">ADN</TAG> que incluían los nucleótidos <TAG TYPE="OTRO_NUMERO_IDENTIF">1691</TAG> del gen del <TAG TYPE="OTRO_NUMERO_IDENTIF">factor V</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">20210</TAG> del <TAG TYPE="OTRO_NUMERO_IDENTIF">factor II</TAG>, realizándose posteriormente una <TAG TYPE="OTRO_NUMERO_IDENTIF">electroforesis</TAG> que identificó la <TAG TYPE="OTRO_NUMERO_IDENTIF">mutación</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">1691 G-A</TAG> del <TAG TYPE="OTRO_NUMERO_IDENTIF">factor V</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">20210 G-A</TAG> del <TAG TYPE="OTRO_NUMERO_IDENTIF">factor II</TAG>.
+    El resto del estudio incluyó <TAG TYPE="OTRO_NUMERO_IDENTIF">hemograma</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">velocidad de sedimentación</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">bioquímica general</TAG> y otras causas de <TAG TYPE="OTRO_NUMERO_IDENTIF">hipercoagulabilidad</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">proteínas S y C</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">antitrombina III</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">fibrinógeno</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">anticuerpos antinucleares</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">homocisteinemia</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">anticuerpos antifosfolípido</TAG>) sin encontrarse <TAG TYPE="OTRO_NUMERO_IDENTIF">hallazgos significativos</TAG>.
+    Se decidió <TAG TYPE="OTRO_NUMERO_IDENTIF">anticoagular</TAG> al paciente con <TAG TYPE="OTRO_NUMERO_IDENTIF">acenocumarol</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">sintrom</TAG>®). Desde el punto de vista oftalmológico no precisó <TAG TYPE="OTRO_NUMERO_IDENTIF">fotocoagulación</TAG>, ya que no desarrolló <TAG TYPE="OTRO_NUMERO_IDENTIF">isquemias retinianas</TAG>. La AV del OD permaneció estabilizada en cuenta dedos a <TAG TYPE="OTRO_NUMERO_IDENTIF">50 cm</TAG>.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Wenceslao Torre Buxalleu</TAG> <TAG TYPE="CENTRO_SALUD">Servicio de Cirugia Torácica Clínica Universidad de Navarra</TAG> <TAG TYPE="CALLE">Avda. Pio XII, 36</TAG> <TAG TYPE="TERRITORIO">31008</TAG> <TAG TYPE="TERRITORIO">Pamplona</TAG> E-mai.: <TAG TYPE="CORREO_ELECTRONICO">wtorre@unav.es</TAG>
+  </TEXT>
+</MEDDOCAN>

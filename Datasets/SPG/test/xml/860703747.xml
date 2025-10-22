@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Unai Santamaria Mateo
+DNI: 52231570L
+Fecha de nacimiento: 28/12/1934
+Género: H
+Domicilio: Calle de Salitre 84, 5T
+Ciudad: Lorca, Valencia, Comunidad Valenciana
+Código postal: 46825
+Email: unai@ciberer.es
+Teléfono fijo: +34 960 59 88 63
+Teléfono móvil: +34 760 03 77 18
+NHC: 3014264
+Condición de riesgo: Soldado
+
+Datos asistenciales.
+Médico: Dra. Carmen Pereira Mateos. NC 155908639. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/07/1999
+Episodio: 18418497
+Centro de salud: Centro de Salud Centro
+Matrícula del coche: 0585DTB
+Modelo: Mazda CX-5
+VIN: VSIDP3OPNCR563830
+
+Informe clínico del paciente:
+Paciente vegetariano de 64 años de edad, acompañado de su nuera. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Unai" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="49" text="Santamaria Mateo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="52231570L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="28/12/1934" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="141" text="Calle de Salitre 84, 5T" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="155" text="Lorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="165" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="167" end="187" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="46825" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="231" text="unai@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 960 59 88 63" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 760 03 77 18" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="3014264" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="331" end="338" text="Soldado" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="606" end="616" text="19/07/1999" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="627" end="635" text="18418497" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="653" end="675" text="Centro de Salud Centro" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="697" end="704" text="0585DTB" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="729" end="746" text="VSIDP3OPNCR563830" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="787" end="798" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="802" end="809" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="836" end="841" text="nuera" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

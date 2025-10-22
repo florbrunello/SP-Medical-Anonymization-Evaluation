@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Montserrat Medina Álvarez</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">25428387R</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/10/1960</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Narváez 46</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Aranda de Duero</TAG>, <TAG TYPE="TERRITORIO">Tarragona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">43751</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">montserrat@ual.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 977 08 23 14</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 777 27 97 04</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2339853</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">736329653174</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Albañil</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Belén Navarro Álvarez</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 890437001</TAG>. <TAG TYPE="PROFESION">Cardióloga</TAG> de <TAG TYPE="INSTITUCION">Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">11/06/2018</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">82996602</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital General de Villalba</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">57 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, refiere dolores precordiales de intensidad moderada en el último mes, con episodios de disnea en la última semana. La exploración física revela: <TAG TYPE="FECHAS">Tª 37,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 80 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración ni taquicardia. En auscultación cardíaca se aprecia un soplo holotrópico en la región cardiaca, con una intensidad moderada. Los datos analíticos muestran los siguientes resultados: <TAG TYPE="FECHAS">Hemograma: Hb 14,5 g/dl</TAG>; <TAG TYPE="FECHAS">leucocitos 8.000/mm3 (neutrófilos 60%)</TAG>; <TAG TYPE="FECHAS">plaquetas 250.000/mm3</TAG>. <TAG TYPE="FECHAS">VSG: 10 mm 1ª hora</TAG>. <TAG TYPE="FECHAS">Coagulación: TQ 90%</TAG>; <TAG TYPE="FECHAS">TTPA 25,5 seg</TAG>. <TAG TYPE="FECHAS">Bioquímica: Glucosa 120 mg/dl</TAG>; <TAG TYPE="FECHAS">urea 20 mg/dl</TAG>; <TAG TYPE="FECHAS">creatinina 1,2 mg/dl</TAG>; <TAG TYPE="FECHAS">sodio 140 mEq/l</TAG>; <TAG TYPE="FECHAS">potasio 4,5 mEq/l</TAG>; <TAG TYPE="FECHAS">GOT 20 U/l</TAG>; <TAG TYPE="FECHAS">GPT 15 U/l</TAG>; <TAG TYPE="FECHAS">GGT 30 U/l</TAG>; <TAG TYPE="FECHAS">fosfatasa alcalina 150 U/l</TAG>; <TAG TYPE="FECHAS">calcio 9,5 mg/dl</TAG>. <TAG TYPE="FECHAS">Orina: sedimento normal</TAG>.
+    Exploración complementaria:
+    Se solicitan pruebas de imagen (<TAG TYPE="PROFESION">Ecocardiograma transtorácico</TAG> y <TAG TYPE="PROFESION">TAC cardiaca</TAG>) que revelan un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infarto agudo de miocardio</TAG> en la zona inferior derecha, con una fracción de eyección reducida del 30%. Se solicitan también análisis de sangre para determinar la presencia de anticuerpos contra el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">virus de la inmunodeficiencia humana (HIV)</TAG>.
+    Diagnóstico y tratamiento:
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infarto agudo de miocardio</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">antitérmicos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antiinflamatorios</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG> y elevación de las piernas) así como tratamiento farmacológico con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">aspirina</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">atorvastatina</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">metformina</TAG>. El paciente es sometido a una <TAG TYPE="PROFESION">angioplastia coronaria</TAG> con colocación de una <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">stent</TAG> en la arteria coronaria derecha. El paciente es trasladado a la <TAG TYPE="INSTITUCION">Unidad de Cuidados Intensivos</TAG> para monitorización y tratamiento continuo.
+    </TEXT>
+</MEDDOCAN>

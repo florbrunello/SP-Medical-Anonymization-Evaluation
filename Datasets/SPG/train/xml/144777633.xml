@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Isabel Pascual Domínguez
+DNI: 69010067Q
+Fecha de nacimiento: 25/02/1941
+Género: M
+Domicilio: Calle del Carmen 94
+Ciudad: Murcia, Región de Murcia, Región de Murcia
+Código postal: 30084
+Email: mariaisabel-pascual-dominguez@ciberer.es
+Teléfono fijo: +34 968 75 92 59
+Teléfono móvil: +34 668 81 77 81
+NHC: 7241521
+NASS: 191335786525
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dra. Virginia Pacheco Soto. NC 982066380. Neuropsicóloga Clínica Investigadora. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/12/1994
+Episodio: 37408631
+Hospital: Hospital Universitari i Politècnic La Fe
+Matrícula del coche: 0084DVB
+Modelo: Mazda CX-5
+VIN: VSFL4QE9J8D554897
+
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 53 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.244.117, con dirección MAC CC:00:4F:39:20:38. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="María Isabel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="58" text="Pascual Domínguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="64" end="73" text="69010067Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="95" end="105" text="25/02/1941" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="114" end="115" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="127" end="146" text="Calle del Carmen 94" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="161" text="Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="179" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="181" end="197" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="30084" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="266" text="mariaisabel-pascual-dominguez@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="282" end="298" text="+34 968 75 92 59" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="315" end="331" text="+34 668 81 77 81" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="337" end="344" text="7241521" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="351" end="363" text="191335786525" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="385" end="391" text="Minero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="646" end="656" text="30/12/1994" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="667" end="675" text="37408631" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="686" end="726" text="Hospital Universitari i Politècnic La Fe" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="748" end="755" text="0084DVB" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="780" end="797" text="VSFL4QE9J8D554897" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="841" end="871" text="ascendencia africana del norte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="875" end="882" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="999" end="1016" text="CC:00:4F:39:20:38" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

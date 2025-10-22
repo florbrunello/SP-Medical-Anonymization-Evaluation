@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Franco Arias
+DNI: 35733874Q
+Fecha de nacimiento: 07/10/2009
+Género: V
+Domicilio: Calle de Preciados 85
+Ciudad: Talavera de la Reina, Ciudad Real, Castilla-La Mancha
+Código postal: 13290
+Email: arias@gmail.com
+Teléfono fijo: +34 926 46 75 88
+FAX: +34 926 68 69 61
+NHC: 3922172
+NASS: 172070726129
+Condición de riesgo: Operador de Maquinaria Pesada
+
+Datos asistenciales.
+Médico: Dr. Ramón Heredia Rojas. NC 364292986. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/12/2018
+Episodio: 86208925
+Centro de salud: Centro de Salud Marbella
+Matrícula del coche: 7132GFH
+Modelo: Honda Civic
+VIN: VSZ3E71K7JH115677
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 9 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="José" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="45" text="Franco Arias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="35733874Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="07/10/2009" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="135" text="Calle de Preciados 85" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="144" end="164" text="Talavera de la Reina" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="177" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="197" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="13290" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="241" text="arias@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 926 46 75 88" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="279" end="295" text="+34 926 68 69 61" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="301" end="308" text="3922172" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="315" end="327" text="172070726129" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="349" end="378" text="Operador de Maquinaria Pesada" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="413" end="432" text="Ramón Heredia Rojas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="437" end="446" text="364292986" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="448" end="497" text="Psiquiatra Especialista en Trastornos de Ansiedad" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="499" end="569" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="571" end="600" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="602" end="607" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="609" end="615" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="617" end="623" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="643" end="653" text="17/12/2018" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="664" end="672" text="86208925" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="690" end="714" text="Centro de Salud Marbella" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="736" end="743" text="7132GFH" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="769" end="786" text="VSZ3E71K7JH115677" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="830" end="859" text="ascendencia del medio oriente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="863" end="869" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="896" end="903" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

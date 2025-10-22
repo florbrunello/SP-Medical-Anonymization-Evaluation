@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Moisés Exposito Villar
+DNI: 34803767Y
+Fecha de nacimiento: 09/03/2025
+Género: V
+Domicilio: Calle de Miguel Ángel 42
+Ciudad: Elche, Huesca, Aragón
+Código postal: 22872
+Email: moises752@ciberer.es
+Teléfono fijo: +34 974 28 67 69
+Teléfono móvil: +34 774 07 88 03
+NHC: 9274670
+NASS: 530928979932
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dra. María Jesús Mora Abad. NC 837171611. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 69836455
+Centro de salud: Centro de Salud Collado Villalba
+Matrícula del coche: 1991WNB
+Modelo: Nissan Altima
+VIN: VSKU9WW379G794371
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 0 meses de edad, acompañado de su hermana. Se realizó un expediente con URL http://example-cardiology.com//78533406Y. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Moisés" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Exposito Villar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="34803767Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="143" text="Calle de Miguel Ángel 42" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="157" text="Elche" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="165" text="Huesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="167" end="173" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="189" end="194" text="22872" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="202" end="222" text="moises752@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="238" end="254" text="+34 974 28 67 69" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="271" end="287" text="+34 774 07 88 03" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="293" end="300" text="9274670" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="307" end="319" text="530928979932" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="341" end="348" text="Bombero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="622" end="632" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="643" end="651" text="69836455" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="669" end="701" text="Centro de Salud Collado Villalba" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="723" end="730" text="1991WNB" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="758" end="775" text="VSKU9WW379G794371" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="819" end="843" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="847" end="854" text="0 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="881" end="888" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T25" start="923" end="948" text="http://example-cardiology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,47 @@
+Aquí te presento un ejemplo de informe clínico extendido para el paciente Dolores Castillo Muñoz:
+
+Datos del paciente.
+Nombre: Dolores Castillo Muñoz
+DNI: 87737144X
+Fecha de nacimiento: 30/08/1972
+Género: Mujer
+Domicilio: Calle de San Bernardo 29
+Ciudad: Santa Cruz de Tenerife
+Código postal: 15199
+Email: munoz1323@outlook.com
+Teléfono fijo: +34 981 65 24 41
+Teléfono móvil: +34 781 57 09 07
+NHC: 3124223
+NASS: 426784321151
+Condición de riesgo: Guardia de Seguridad
+
+Datos asistenciales.
+Médico: Dr. Ignacio Ortiz Plaza. NC 567204442. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 24/04/2009
+Episodio: 41706078
+Centro de salud: Centro de Salud San Blas
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 36 años de edad, acompañado de su nuera, que se presenta con síntomas de dolor abdominal y vómitos desde hace 24 horas. La paciente informa que ha estado tomando alcohol en exceso durante los últimos días y ha experimentado una serie de episodios de vómitos y diarrea.
+
+La exploración física revela:
+- Tª 38,5 C
+- TA 120/80 mmHg
+- FC 110 lpm
+- La paciente se encuentra consciente y orientada, pero con signos de deshidratación y malestar general.
+- Auscultación cardíaca rítmica, sin soplos ni roces.
+- Auscultación pulmonar con conservación del murmullo vesicular.
+- Abdomen doloroso y hinchado, con signos de distensión y peristáltica.
+
+Los datos analíticos muestran:
+- Hemograma: Hb 12,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 80%); plaquetas 200.000/mm3.
+- VSG: 30 mm 1ª hora.
+- Coagulación: TQ 90%; TTPA 25,5 seg.
+- Bioquímica: Glucosa 90 mg/dl; urea 35 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 45 U/l; fosfatasa alcalina 150 U/l; calcio 8,5 mg/dl.
+- Orina: sedimento con leucocitos y bacterias.
+
+Se solicitan pruebas de imagen (Ecografía abdominal) que muestran:
+- Hinchazón de la vesícula biliar con signos de inflamación y distensión.
+- Signos de obstrucción intestinal en el colon ascendente.
+
+Con el diagnóstico de colangitis aguda y obstrucción intestinal, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación del abdomen) así como tratamiento antibiótico específico: Ceftriaxona 1 gramo vía intravenosa cada 12 horas (durante 5 días) y Metronidazol 500 mg vía oral cada 8 horas (durante 5 días). La paciente mejora significativamente de su cuadro tras 48 horas de ingreso, decidiéndose el alta a su domicilio donde completará la pauta de tratamiento antibiótico y se le recomendará un seguimiento con el especialista en gastroenterología.

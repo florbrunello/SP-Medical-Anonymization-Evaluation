@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Luis Miranda Tomas
+DNI: 87080240D
+Fecha de nacimiento: 15/04/1952
+Género: V
+Domicilio: Calle de O'Donnell 34
+Ciudad: Bormujos, Guipúzcoa, Pais Vasco
+Código postal: 20114
+Email: luismiranda.tomas624@isciii.es
+Teléfono fijo: +34 943 67 83 74
+FAX: +34 943 59 42 35
+NHC: 1761702
+NASS: 258288622024
+Condición de riesgo: Enfermera
+
+Datos asistenciales.
+Médico: Dra. María Victoria Méndez Roca. NC 598764352. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/05/1999
+Episodio: 62310593
+Hospital: Hospital Universitario Príncipe de Asturias
+
+Informe clínico del paciente:
+Paciente fumador de 47 años de edad. Se realizó un expediente con URL http://example-healthcare.net//96776373Q. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Luis" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="46" text="Miranda Tomas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="87080240D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="15/04/1952" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="136" text="Calle de O'Donnell 34" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="153" text="Bormujos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="164" text="Guipúzcoa" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="176" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="192" end="197" text="20114" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="205" end="235" text="luismiranda.tomas624@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 943 67 83 74" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="273" end="289" text="+34 943 59 42 35" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="295" end="302" text="1761702" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="309" end="321" text="258288622024" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="343" end="352" text="Enfermera" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="626" end="636" text="10/05/1999" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="647" end="655" text="62310593" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="666" end="709" text="Hospital Universitario Príncipe de Asturias" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="750" end="757" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="761" end="768" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="811" end="836" text="http://example-healthcare" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Pilar Silva Medina
+DNI: 88957475F
+Fecha de nacimiento: 16/10/2003
+Género: M
+Domicilio: Calle del León 73
+Ciudad: Albacete, Castellón, Comunidad Valenciana
+Código postal: 12239
+Email: silvamedina@ciberned.es
+Teléfono fijo: +34 964 57 81 06
+FAX: +34 964 58 02 46
+NHC: 9004809
+Condición de riesgo: Técnico de Laboratorio
+
+Datos asistenciales.
+Médico: Dra. Ariadna Castaño Padilla. NC 681213668. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/01/2006
+Centro de salud: Centro de Salud Fuencarral
+Matrícula del coche: 9953YDR
+Modelo: Mazda CX-5
+VIN: VSWCW8V9B8B563312
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 2 años de edad, acompañado de su abuela. El servidor para envío de información desde cual el usuario se comunica es smtp://example-biotech.com. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="María Pilar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="52" text="Silva Medina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="88957475F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="16/10/2003" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="138" text="Calle del León 73" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="155" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="166" text="Castellón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="188" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="12239" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="240" text="silvamedina@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 964 57 81 06" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 964 58 02 46" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="300" end="307" text="9004809" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="329" end="351" text="Técnico de Laboratorio" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="627" end="637" text="13/01/2006" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="655" end="681" text="Centro de Salud Fuencarral" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T18" start="703" end="710" text="9953YDR" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="735" end="752" text="VSWCW8V9B8B563312" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="793" end="814" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="818" end="824" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="851" end="857" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="934" end="956" text="smtp://example-biotech" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

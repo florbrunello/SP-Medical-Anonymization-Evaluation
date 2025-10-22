@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Carlota Sierra Acosta
+DNI: 52184315Y
+Fecha de nacimiento: 03/11/2024
+Género: M
+Domicilio: Calle de la Lechuga 7
+Ciudad: Dos Hermanas, Granada, Andalucía
+Código postal: 18885
+Email: iNtA4H6iNJdSIS@ciberned.es
+Teléfono fijo: +34 958 75 90 90
+Teléfono móvil: +34 758 46 84 07
+NHC: 0981628
+NASS: 540355735773
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. Sebastián Gómez Avila. NC 540948233. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 17623862
+Centro de salud: Centro de Salud Latina
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 4 meses de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Carlota" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="49" text="Sierra Acosta" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="52184315Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="03/11/2024" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="139" text="Calle de la Lechuga 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="160" text="Dos Hermanas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="169" text="Granada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="180" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="18885" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="235" text="iNtA4H6iNJdSIS@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 958 75 90 90" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 758 46 84 07" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="0981628" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="540355735773" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="354" end="379" text="Trabajador de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="414" end="435" text="Sebastián Gómez Avila" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="440" end="449" text="540948233" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="451" end="485" text="Residente de 4° año en Cardiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="487" end="573" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="575" end="604" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="606" end="611" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="613" end="619" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="621" end="627" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="647" end="657" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="668" end="676" text="17623862" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="694" end="716" text="Centro de Salud Latina" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="760" end="781" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="785" end="792" text="4 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="819" end="824" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

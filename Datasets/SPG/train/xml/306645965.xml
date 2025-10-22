@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Lucas Hidalgo Alonso
+DNI: 48391990J
+Fecha de nacimiento: 18/07/1942
+Género: Masculino
+Domicilio: Calle del Olivar 42
+Ciudad: San Pedro del Pinatar, Barcelona, Cataluña
+Código postal: 08056
+Email: hidalgo353@protonmail.com
+Teléfono fijo: +34 931 58 74 85
+Teléfono móvil: +34 737 47 18 68
+NHC: 9821272
+
+Datos asistenciales.
+Médico: Dr. Julio Cortés Robles. NC 700408392. Investigador Clínico en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/11/1995
+Centro de salud: Centro de Salud Málaga Este
+Matrícula del coche: 2544CRR
+Modelo: Kia Sorento
+VIN: VSL58VLSUYS699302
+
+Informe clínico del paciente:
+Paciente vegano de 53 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.229.155, con dirección MAC 98:28:FD:1C:63:0A. Se registró una sesión de firma biométrica, el código obtenido para revisarla es TT194HPJ653. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Lucas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Hidalgo Alonso" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="48391990J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="18/07/1942" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="113" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="144" text="Calle del Olivar 42" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="174" text="San Pedro del Pinatar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="176" end="185" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="187" end="195" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="211" end="216" text="08056" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="224" end="249" text="hidalgo353@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="265" end="281" text="+34 931 58 74 85" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="298" end="314" text="+34 737 47 18 68" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="320" end="327" text="9821272" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="362" end="381" text="Julio Cortés Robles" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="386" end="395" text="700408392" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="397" end="443" text="Investigador Clínico en Insuficiencia Cardíaca" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="445" end="531" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="533" end="562" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="564" end="569" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="571" end="577" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="579" end="585" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="605" end="615" text="04/11/1995" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T24" start="633" end="660" text="Centro de Salud Málaga Este" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T25" start="682" end="689" text="2544CRR" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T26" start="715" end="732" text="VSL58VLSUYS699302" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T27" start="773" end="779" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="783" end="790" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="907" end="924" text="98:28:FD:1C:63:0A" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <ID id="T30" start="1007" end="1018" text="TT194HPJ653" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Teresa</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Esteban Guzman</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">61220183W</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/08/2024</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Carmen 100, 6X</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Úbeda</TAG>, <TAG TYPE="TERRITORIO">Orense</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">32231</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">esteban-guzman1963@uca.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 988 48 16 49</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 688 48 97 83</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5182403</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Sanitización</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Encarnación Galvez Jiménez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">373522852</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/08/2024</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">89072547</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Carabanchel</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0 meses</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tío</TAG>.
+  </TEXT>
+</MEDDOCAN>

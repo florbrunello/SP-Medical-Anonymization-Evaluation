@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Adolfo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rivas Miranda</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">12371790K</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/12/1930</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Doctor Esquerdo 36</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Burgos</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">50194</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">adolfo@h12o.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 976 92 86 89</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 676 53 51 91</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1114695</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Sanitización</TAG>.
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ana Isabel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gracia Aranda</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">524284575</TAG>. <TAG TYPE="PROFESION">Oftalmóloga Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">21/04/2010</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">42600945</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Rey Juan Carlos de Mostoles</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7518RJM</TAG>.
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">BMW 3 Series</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSSJH9RVYVR579168</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTRO_NUMERO_IDENTIF">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">79 años</TAG> de edad, acompañado de su hija, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>. Se refirió a la consulta con quejas de <TAG TYPE="OTRO_NUMERO_IDENTIF">visión borrosa</TAG> en ambos ojos durante las últimas semanas.
+    La exploración física revela: Tª <TAG TYPE="OTRO_NUMERO_IDENTIF">36,5 C</TAG>; T.A: <TAG TYPE="OTRO_NUMERO_IDENTIF">120/80 mmHg</TAG>; Fc: <TAG TYPE="OTRO_NUMERO_IDENTIF">80 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración ni signos de estrés. En la exploración oftalmológica se observa un reflejo pupilar normal en ambos ojos, pero con una <TAG TYPE="OTRO_NUMERO_IDENTIF">visión borrosa</TAG> en ambos ojos.
+    Se solicitan análisis de sangre para determinar la <TAG TYPE="OTRO_NUMERO_IDENTIF">glóbulos rojos</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">glóbulos blancos</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">plaquetas</TAG>, así como un <TAG TYPE="OTRO_NUMERO_IDENTIF">escaneo retiniano</TAG> para evaluar la <TAG TYPE="OTRO_NUMERO_IDENTIF">retina</TAG> y la <TAG TYPE="OTRO_NUMERO_IDENTIF">vítreo</TAG>. El resultado del <TAG TYPE="OTRO_NUMERO_IDENTIF">escaneo retiniano</TAG> se obtuvo con el código <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">BR500QXS297</TAG>.
+    Se diagnostica una <TAG TYPE="OTRO_NUMERO_IDENTIF">catarata bilateral</TAG> y se decide la realización de una <TAG TYPE="OTRO_NUMERO_IDENTIF">cirugía de catarata</TAG> en ambos ojos. Se informa al paciente y a su hija sobre el procedimiento y los riesgos asociados.
+    Evolución y comentarios:
+    El paciente fue sometido a la <TAG TYPE="OTRO_NUMERO_IDENTIF">cirugía de catarata</TAG> en ambos ojos con éxito. Posteriormente, se realizó un seguimiento para evaluar la recuperación del paciente y ajustar el tratamiento según sea necesario.
+    Remitido por:
+    Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ana Isabel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gracia Aranda</TAG>
+    <TAG TYPE="PROFESION">Oftalmóloga Especialista en Retina y Vítreo</TAG>
+    <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>
+    <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>
+  </TEXT>
+</MEDDOCAN>

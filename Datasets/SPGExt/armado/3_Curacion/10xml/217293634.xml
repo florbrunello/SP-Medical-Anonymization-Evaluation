@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sergi Guerrero Castro</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">48021758N</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/06/1992</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Mesón de Paredes 78</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Jerez de la Frontera, Lugo, Galicia</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">27514</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">AG2XjJ9zgS4Tsw@us.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 982 15 97 23</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 782 12 92 56</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9956584</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">48021758N</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Carpintero</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Valeria Roldan Simon</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">887559649</TAG>. Especialista en Genética Médica. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">15/09/2003</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">89931582</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Basurto</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTRO">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">11 años</TAG> de edad, acompañado de su padre, con antecedentes de alergia a los insecticidas y exposición a partículas finas en su trabajo como <TAG TYPE="OTROS_SUJETO_ASISTENCIA">carpintero</TAG>. Presenta una lesión en la mano derecha, con dolor y hinchazón en la zona afectada. La exploración física revela una lesión de tercer grado en la mano derecha, con pérdida de sensibilidad y movilidad en la zona afectada.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="NUMERO">12,5 g/dl</TAG>; leucocitos <TAG TYPE="NUMERO">15.200/mm3</TAG> (neutrófilos <TAG TYPE="NUMERO">80%</TAG>); plaquetas <TAG TYPE="NUMERO">250.000/mm3</TAG>. VSG: <TAG TYPE="NUMERO">45 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="NUMERO">90%</TAG>; TTPA <TAG TYPE="NUMERO">28,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="NUMERO">120 mg/dl</TAG>; urea <TAG TYPE="NUMERO">30 mg/dl</TAG>; creatinina <TAG TYPE="NUMERO">1,0 mg/dl</TAG>; sodio <TAG TYPE="NUMERO">137 mEq/l</TAG>; potasio <TAG TYPE="NUMERO">3,7 mEq/l</TAG>; GOT <TAG TYPE="NUMERO">12 U/l</TAG>; GPT <TAG TYPE="NUMERO">25 U/l</TAG>; GGT <TAG TYPE="NUMERO">35 U/l</TAG>; fosfatasa alcalina <TAG TYPE="NUMERO">140 U/l</TAG>; calcio <TAG TYPE="NUMERO">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía de la mano) que muestran una lesión de tercer grado en la mano derecha, con pérdida de sensibilidad y movilidad en la zona afectada. Con el diagnóstico de lesión de tercer grado en la mano derecha, se instaura tratamiento quirúrgico y rehabilitación para restaurar la función y la movilidad en la zona afectada. El paciente se encuentra en proceso de recuperación y se le sigue de cerca para evitar complicaciones.
+  </TEXT>
+</MEDDOCAN>

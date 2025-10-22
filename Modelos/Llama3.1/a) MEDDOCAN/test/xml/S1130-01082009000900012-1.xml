@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mario</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cerna Rodriguez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8293045</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">82 68758621 44</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Camino de Oriente, 32, 4, D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Valencia</TAG>.
+    CP: <TAG TYPE="TERRITORIO">46026</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/09/1989</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">26 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">16/10/2015</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alberto</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pérez García</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">46 46 35621</TAG>.
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">26 años</TAG> derivado a <TAG TYPE="PROFESION">Cirugía General</TAG> tras ser diagnosticado de forma accidental tras prueba de imagen por parte del <TAG TYPE="PROFESION">Servicio de Digestivo</TAG> de masa en crura diafragmática izquierda a raíz de ingreso por brote de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">EII</TAG>. Como antecedentes personales destaca: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">asma bronquial extrínseca</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">púrpura de Schonleich-Henoch</TAG> en la infancia, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedad de Crohn ileal</TAG> diagnosticado en 2004 y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG>.
+    Exploración física: En la exploración física presenta dolor a la palpación abdominal en flanco derecho en relación con su proceso de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">EII</TAG> y no se palpan masas ni megalias.
+    Pruebas complementarias:  La <TAG TYPE="PROFESION">tomografía computerizada</TAG> (TC) identificó <TAG TYPE="OTROS_SUJETO_ASISTENCIA">íleon terminal</TAG> con paredes engrosadas y signos de proliferación vascular en relación con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedad de Crohn</TAG>, además de lesión de 7,6 x 4,4 cm de bordes bien delimitados y de baja densidad con zonas tabicadas con mayor realce en crura diafragmática izquierda. Se realizó una punción percutánea guiada por TC cuyo resultado anatomopatológico fue informado como abundante material necrótico con numerosos leucocitos polimorfonucleados y frecuentes histiocitos con negatividad para células malignas.
+    Se practica <TAG TYPE="PROFESION">laparotomía media</TAG> y acceso a la cavidad retroperitoneal infradiafragmática izquierda con extirpación de masa que se encontraba íntimamente adherida a <TAG TYPE="OTROS_SUJETO_ASISTENCIA">glándula suprarrenal</TAG>, polo superior del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">riñón</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diafragma izquierdo</TAG> con exéresis de parte del mismo y sutura directa de este. El postoperatorio evolucionó favorablemente dando de alta al paciente al 7º día post-operatorio sin complicaciones inmediatas.
+    El informe anatomopatológico definitivo fue de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">quiste broncogénico irregular</TAG> de consistencia elástica de 8 x 4 x 4 cm cavitado y de aspecto purulento. La descripción microscópica fue notificada de formación quística con luces tapizadas por epitelio cilíndrico simple pseudoestratificado y células ciliadas. Escasas células caliciformes. Aisladas haces de músculo liso. Sin evidencia de malignidad.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alberto</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pérez García</TAG> <TAG TYPE="HOSPITAL">Hospital Universitario y Politécnico la Fe</TAG> <TAG TYPE="CALLE">Bulevar Sur s/n</TAG> <TAG TYPE="TERRITORIO">46026</TAG> <TAG TYPE="TERRITORIO">Valencia</TAG>, <TAG TYPE="PAIS">España</TAG> e-mail: <TAG TYPE="CORREO_ELECTRONICO">a_perez.garcia@yahoo.es</TAG>
+  </TEXT>
+</MEDDOCAN>

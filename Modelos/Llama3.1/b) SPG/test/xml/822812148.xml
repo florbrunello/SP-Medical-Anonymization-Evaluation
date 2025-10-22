@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Teresa</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marín</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Medina</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">95353721E</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">20/10/1967</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Moratín 89, 2A</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad autónoma de Melilla</TAG>, <TAG TYPE="TERRITORIO">Melilla</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">51106</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">teresa.medina@ioba.med.uva.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 89 74 23</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 751 67 38 04</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5963870</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">192341723709</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">usuario de drogas</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ariadna Rubio Vázquez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">049383306</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">30/06/1986</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">16833008</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alhaurín de la Torre</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">usuario de drogas</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">18 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hija</TAG>.
+    El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-clinica.com</TAG>
+  </TEXT>
+</MEDDOCAN>

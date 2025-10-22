@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Mercedes Exposito Mateo
+DNI: 41303842M
+Fecha de nacimiento: 06/01/1953
+Género: Mujer
+Domicilio: Calle de las Infantas 99
+Ciudad: Puertollano, Cantabria, Cantabria
+Código postal: 39222
+Email: exposito1434@protonmail.com
+Teléfono fijo: +34 942 27 18 19
+Teléfono móvil: +34 742 95 50 20
+NHC: 1934246
+NASS: 391014620376
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dr. Moisés Fuentes Vargas. NC 573808390. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/11/1958
+Episodio: 28046383
+Hospital: Hospital Universitario Virgen del Rocío
+Matrícula del coche: 1358QBN
+Modelo: Toyota Corolla
+VIN: VSEKIU8NM4Q053660
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 5 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.19.12, con dirección MAC 14:B9:33:8E:C2:C8. El servidor para envío de información desde cual el usuario se comunica es smtp://example-pharma.org. Se registró una sesión de firma biométrica, el código obtenido para revisarla es OE404OJV552. 

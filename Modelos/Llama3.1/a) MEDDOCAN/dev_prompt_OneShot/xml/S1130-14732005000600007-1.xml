@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Fernandez Estrada</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3478534</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Provincias, 23</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG>.
+    CP: <TAG TYPE="TERRITORIO">38560</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/01/1999</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/08/2004</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jaime</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Domínguez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">38 38 56899</TAG>.
+    Informe clínico del paciente: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">7 meses</TAG> de edad, sin antecedentes personales o familiares de interés, ingresó en nuestro hospital el <TAG TYPE="FECHAS">12 de junio de 2002</TAG> por presentar un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">10 días</TAG> de evolución consistente en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cefalea</TAG> de predominio vespertino, al que se añade posteriormente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estraabismo convergente</TAG> del ojo izquierdo y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diplopia</TAG>. En la exploración neurológica nos encontramos con una niña despierta, colaboradora y conectada ambientalmente, que presentaba <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estraabismo convergente</TAG> de ojo izquierdo con motilidad ocular conservada y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nistagmo horizontal</TAG> a la mirada forzada hacia la derecha.
+    La analítica de sangre, bioquímica y radiografía de tórax resultaron normales. La TAC y RM de cráneo mostraron una masa bien delimitada localizada en el interior del ventrículo lateral derecho a nivel del atrio y asta temporal, de densidad homogénea y de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">6 por 2,5 cms</TAG>, con importante edema perilesional y que mostraba intensa captación tras la administración de contraste intravenoso.
+    La paciente fue intervenida mediante abordaje trans-temporal a través de la circunvolución temporal media con extirpación macroscópicamente completa de la tumoración.
+    El estudio histopatológico evidenció una proliferación neoplásica meningotelial con patrón predominantemente meningoteliomatoso y elevada celularidad, tipificándose el tumor como meningioma atípico. Llamaba la atención la presencia de una elevada actividad mitótica que, en alguna zona, llegaba a ser de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">2-3-mitosis</TAG> en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">10 campos</TAG> de gran aumento, presentando las células proliferantes núcleos más voluminosos y nucleolo prominente. La actividad del anticuerpo Ki-67, medida de forma aleatoria en la totalidad del tumor, oscilaba en torno al <TAG TYPE="OTROS_SUJETO_ASISTENCIA">18-20%</TAG>.
+    La evolución clínica de la niña fue favorable, siendo dada de alta hospitalaria a los <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diez días</TAG> de la intervención quirúrgica con un mínimo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estraabismo convergente</TAG> de ojo derecho. A pesar de no haber sido sometida a tratamientos complementarios, en la actualidad, la paciente se encuentra asintomática y no se han evidenciado signos de recidiva en los estudios de imagen de control.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jaime</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Domínguez</TAG>. Servicio de Neurocirugía. Hospital Universitario Nuestra Señora de Candelaria. <TAG TYPE="CALLE">Carretera del Rosario S/N</TAG>. <TAG TYPE="TERRITORIO">38010 Santa Cruz de Tenerife</TAG>.
+  </TEXT>
+</MEDDOCAN>

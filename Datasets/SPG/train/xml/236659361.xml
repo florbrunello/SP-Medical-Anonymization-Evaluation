@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María José Campos Pacheco
+DNI: 28552262Q
+Fecha de nacimiento: 31/12/1940
+Género: M
+Domicilio: Calle del León 20
+Ciudad: Eibar, Madrid, Madrid
+Código postal: 28125
+Email: mariajose.campos.pacheco982@protonmail.com
+Teléfono fijo: +34 919 07 68 46
+Teléfono móvil: +34 617 64 87 73
+NHC: 1147936
+Condición de riesgo: Trabajador de Mantenimiento
+
+Datos asistenciales.
+Médico: Dra. Clara González Franco. NC 148625267. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 30/04/2009
+Hospital: Hospital Universitario Puerta de Hierro Majadahonda
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 68 años de edad, acompañado de su hijo. Se registró una sesión de firma biométrica, el código obtenido para revisarla es OI932RUS808. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="María José" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="53" text="Campos Pacheco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="28552262Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="31/12/1940" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="139" text="Calle del León 20" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="153" text="Eibar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="161" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="163" end="169" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="185" end="190" text="28125" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="198" end="240" text="mariajose.campos.pacheco982@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 919 07 68 46" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="289" end="305" text="+34 617 64 87 73" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="311" end="318" text="1147936" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="340" end="367" text="Trabajador de Mantenimiento" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="613" end="623" text="30/04/2009" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="634" end="685" text="Hospital Universitario Puerta de Hierro Majadahonda" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="726" end="747" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="751" end="758" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="785" end="789" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T21" start="872" end="883" text="OI932RUS808" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

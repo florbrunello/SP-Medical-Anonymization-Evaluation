@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Borja Caballero Gracia
+DNI: 78596793C
+Fecha de nacimiento: 05/02/2016
+Género: Varón
+Domicilio: Calle del Amparo 69
+Ciudad: Málaga, Orense, Galicia
+Código postal: 32355
+Email: caballero@ciberer.es
+Teléfono fijo: +34 988 28 23 57
+FAX: +34 988 62 24 39
+NHC: 4792725
+NASS: 574946186818
+Condición de riesgo: Fabricante
+
+Datos asistenciales.
+Médico: Dra. Verónica Serrano Segura. NC 291671680. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/07/2017
+Episodio: 65576102
+Hospital: Hospital Universitario Nuestra Señora de Candelaria
+Matrícula del coche: 3093KLX
+Modelo: Chevrolet Silverado
+VIN: VSGGN823XVW065236
+
+Informe clínico del paciente:
+Paciente de ascendencia centroasiática de un año de edad, acompañado de su padre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-neurology.com. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Borja" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="50" text="Caballero Gracia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="78596793C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="05/02/2016" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="142" text="Calle del Amparo 69" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="157" text="Málaga" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="165" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="167" end="174" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="32355" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="223" text="caballero@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="239" end="255" text="+34 988 28 23 57" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="261" end="277" text="+34 988 62 24 39" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="283" end="290" text="4792725" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="297" end="309" text="574946186818" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="331" end="341" text="Fabricante" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="598" end="608" text="05/07/2017" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="619" end="627" text="65576102" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="638" end="689" text="Hospital Universitario Nuestra Señora de Candelaria" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="711" end="718" text="3093KLX" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="752" end="769" text="VSGGN823XVW065236" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="813" end="839" text="ascendencia centroasiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="843" end="849" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="876" end="881" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T25" start="958" end="982" text="smtp://example-neurology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

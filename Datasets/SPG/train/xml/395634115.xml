@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Fernando Valero Mora
+DNI: 59819780T
+Fecha de nacimiento: 24/08/1950
+Género: M
+Domicilio: Calle de las Huertas 93
+Ciudad: Málaga, Zamora, Castilla y León
+Código postal: 49294
+Email: fernando-valero-mora1461@protonmail.com
+Teléfono fijo: +34 980 86 76 93
+Teléfono móvil: +34 780 48 63 11
+NHC: 2807906
+NASS: 122907070769
+Condición de riesgo: Científico de Investigación
+
+Datos asistenciales.
+Médico: Dr. Rodrigo Jurado Montero. NC 180047720. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/10/1975
+Episodio: 38244207
+Hospital: Hospital Universitario Marqués de Valdecilla
+
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 25 años de edad, acompañado de su hija. Se realizó un expediente con URL http://example-biotech.com//10111156M. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Fernando" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="48" text="Valero Mora" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="59819780T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="24/08/1950" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="140" text="Calle de las Huertas 93" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="155" text="Málaga" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="163" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="180" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="49294" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="248" text="fernando-valero-mora1461@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="264" end="280" text="+34 980 86 76 93" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="297" end="313" text="+34 780 48 63 11" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="319" end="326" text="2807906" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="333" end="345" text="122907070769" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="367" end="394" text="Científico de Investigación" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="429" end="451" text="Rodrigo Jurado Montero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="456" end="465" text="180047720" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="467" end="499" text="Residente de 2° año en Pediatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="501" end="576" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="578" end="607" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="609" end="614" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="616" end="622" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="624" end="630" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="650" end="660" text="13/10/1975" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="671" end="679" text="38244207" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="690" end="734" text="Hospital Universitario Marqués de Valdecilla" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="778" end="795" text="ascendencia árabe" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="799" end="806" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="833" end="837" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="872" end="894" text="http://example-biotech" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

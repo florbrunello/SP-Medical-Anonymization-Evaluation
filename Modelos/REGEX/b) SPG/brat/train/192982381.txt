@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Rubén Sánchez Vera
+DNI: 10418102E
+Fecha de nacimiento: 03/05/1938
+Género: M
+Domicilio: Calle de la Princesa 12
+Ciudad: Zaragoza, Menorca, Islas Baleares
+Código postal: 07457
+Email: sanchez-vera1742@ual.es
+Teléfono fijo: +34 971 89 82 57
+Teléfono móvil: +34 771 31 18 96
+NHC: 8047017
+NASS: 995436734595
+Condición de riesgo: Montador
+
+Datos asistenciales.
+Médico: Dr. Gonzalo Hernández Gutiérrez. NC 843559392. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 04/09/1954
+Episodio: 69000350
+Hospital: Hospital Universitario Nuestra Señora de Candelaria
+Matrícula del coche: 1543XSL
+Modelo: Tesla Model 3
+VIN: VSDU68V8HBS790962
+
+Informe clínico del paciente:
+Paciente vegano de 16 años de edad, acompañado de su madre. 

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Purificación Camacho Espinosa
+DNI: 10872588M
+Fecha de nacimiento: 11/05/1956
+Género: M
+Domicilio: Calle de Gobernador 21
+Ciudad: Úbeda, Granada, Andalucía
+Código postal: 18842
+Email: camacho@icloud.com
+Teléfono fijo: +34 958 17 31 57
+Teléfono móvil: +34 758 97 06 90
+NHC: 8618980
+NASS: 666790110362
+Condición de riesgo: Ama de casa
+
+Datos asistenciales.
+Médico: Dra. Alicia Ferrer Rojas. NC 646672061. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 14/06/1964
+Episodio: 00392196
+Hospital: Complejo Hospitalario La Mancha Centro
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 8 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="Purificación" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="57" text="Camacho Espinosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="63" end="72" text="10872588M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="94" end="104" text="11/05/1956" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="113" end="114" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="148" text="Calle de Gobernador 21" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="162" text="Úbeda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="171" text="Granada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="182" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="18842" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="229" text="camacho@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="245" end="261" text="+34 958 17 31 57" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 758 97 06 90" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="300" end="307" text="8618980" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="314" end="326" text="666790110362" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="348" end="359" text="Ama de casa" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="603" end="613" text="14/06/1964" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="624" end="632" text="00392196" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="643" end="681" text="Complejo Hospitalario La Mancha Centro" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="725" end="753" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="757" end="763" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="790" end="796" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

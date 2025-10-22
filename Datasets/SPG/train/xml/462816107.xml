@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Diego Herrero Macias
+DNI: 26395951R
+Fecha de nacimiento: 21/12/1952
+Género: V
+Domicilio: Calle de la Luna 12, 9U
+Ciudad: Logroño, Castellón, Comunidad Valenciana
+Código postal: 12769
+Email: herreromacias@ciberned.es
+Teléfono fijo: +34 964 72 10 60
+Teléfono móvil: +34 664 45 41 82
+NHC: 6729870
+NASS: 313959152389
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dr. Rodrigo Luna Martín. NC 492648739. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 29/11/1976
+Episodio: 06898218
+Hospital: Hospital Universitario Virgen Macarena
+
+Informe clínico del paciente:
+Paciente de tez blanca de 23 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Diego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Herrero Macias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="26395951R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="21/12/1952" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="140" text="Calle de la Luna 12, 9U" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="156" text="Logroño" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="167" text="Castellón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="189" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="12769" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="243" text="herreromacias@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 964 72 10 60" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="292" end="308" text="+34 664 45 41 82" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="314" end="321" text="6729870" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="328" end="340" text="313959152389" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="362" end="380" text="Ingeniero de Minas" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="415" end="434" text="Rodrigo Luna Martín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="439" end="448" text="492648739" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="450" end="494" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="496" end="582" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="584" end="613" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="615" end="620" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="622" end="628" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="630" end="636" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="656" end="666" text="29/11/1976" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="677" end="685" text="06898218" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="696" end="734" text="Hospital Universitario Virgen Macarena" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="778" end="788" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="792" end="799" text="23 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rebeca</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Morales Perez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4378563</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">73 45623705 65</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Los Vientos, 8, 5, A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Valencia</TAG>.
+    CP: <TAG TYPE="TERRITORIO">46009</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/11/1947</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">62 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">19/04/2010</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María José</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gómez Maestra</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">46 46 78910</TAG>.
+    Historia Actual: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mujer de 62 años</TAG> que refiere, desde hace 13 años, múltiples episodios de <TAG TYPE="OTRO_NUMERO_IDENTIF">visión borrosa</TAG> en ambos ojos con recuperación posterior completa de la <TAG TYPE="OTRO_NUMERO_IDENTIF">agudeza visual</TAG>. Los diversos brotes que presentó fueron tratados con <TAG TYPE="OTRO_NUMERO_IDENTIF">corticoterapia oral</TAG>, suspendiéndose los mismos tras las respectivas remisiones. Fue diagnosticada de <TAG TYPE="OTRO_NUMERO_IDENTIF">coroiditis serpiginosa</TAG> por los hallazgos clínicos y angiográficos.
+    Antecedentes: Como antecedentes familiares presenta una hermana gemela de su madre con un cuadro similar. No presenta antecedentes personales de interés.
+    En la última revisión oftalmológica la enfermedad permanecía inactiva y la <TAG TYPE="OTRO_NUMERO_IDENTIF">agudeza visual (AV)</TAG> era de la unidad en ambos ojos a pesar de la importante atrofia y cicatrización coriorretiniana que presentaba en el polo posterior, incluyendo la mácula. El segmento anterior no mostraba hallazgos relevantes y la <TAG TYPE="OTRO_NUMERO_IDENTIF">presión intraocular</TAG> era de 14 mmHg en ambos ojos.
+    Exploración: El fondo de ojo presentaba múltiples lesiones de forma geográfica cicatriciales, con atrofia e hipertrofia variable del EPR en todo el polo posterior.
+    La angiografía fluoresceína mostraba múltiples lesiones de aspecto moteado debido a atrofia e hiperpigmentación, con tinción en fases tardías.
+    Cuatro meses antes comenzó un cuadro de <TAG TYPE="OTRO_NUMERO_IDENTIF">dispepsia flatulenta</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">vómitos</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">prurito</TAG>. En los estudios de laboratorio realizados presenta un aumento de las <TAG TYPE="OTRO_NUMERO_IDENTIF">transaminasas</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">GOT</TAG> 110 y <TAG TYPE="OTRO_NUMERO_IDENTIF">GPT</TAG> 90), <TAG TYPE="OTRO_NUMERO_IDENTIF">GGT</TAG> (gammaglutamiltranspeptidasa) 110, <TAG TYPE="OTRO_NUMERO_IDENTIF">hipergamma-globulinemia</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">IgG</TAG> 1620), <TAG TYPE="OTRO_NUMERO_IDENTIF">ANA</TAG> (Anticuerpos antinucleares) 1/320, <TAG TYPE="OTRO_NUMERO_IDENTIF">AMA</TAG> (Anticuerpos antimitocondriales) negativos.
+    Antígeno de superficie <TAG TYPE="OTRO_NUMERO_IDENTIF">VHB</TAG>, Anticuerpo anti-<TAG TYPE="OTRO_NUMERO_IDENTIF">HBs</TAG>, Anticuerpo anti-<TAG TYPE="OTRO_NUMERO_IDENTIF">HBC</TAG> y Anticuerpo anti-<TAG TYPE="OTRO_NUMERO_IDENTIF">VHC</TAG> negativos. Se realizó una <TAG TYPE="OTRO_NUMERO_IDENTIF">ecografía hepática</TAG> que fue normal.
+    El cuadro tuvo una buena respuesta a los <TAG TYPE="OTRO_NUMERO_IDENTIF">ácidos biliares calculolíticos</TAG>. El diagnóstico de sospecha fue de <TAG TYPE="OTRO_NUMERO_IDENTIF">hepatitis autoinmune</TAG>. Se decidió no realizar pruebas diagnósticas agresivas como una <TAG TYPE="OTRO_NUMERO_IDENTIF">biopsia hepática</TAG> debido a la actividad leve del cuadro digestivo.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. María José</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gómez Maestra</TAG> <TAG TYPE="HOSPITAL">Hospital Universitario La Fe</TAG> <TAG TYPE="SERVICIO_SANITARIO">Servicio de Oftalmología</TAG> <TAG TYPE="CALLE">Avda. Campanar, 19</TAG> <TAG TYPE="TERRITORIO">46009 Valencia</TAG> <TAG TYPE="PAIS">España</TAG> <TAG TYPE="CORREO_ELECTRONICO">yesigomezmaestra@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Natalia Padilla De la Fuente</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">93306180X</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/02/1990</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Fuencarral 29, 10B</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Aranda de Duero</TAG>, <TAG TYPE="TERRITORIO">Orense</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">32229</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">natalia-padilla_delafuente@aol.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 988 92 34 73</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 788 64 25 84</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5052916</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">097272229925</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Operador de Maquinaria Pesada</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Asunción Crespo Guzman</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">838560104</TAG>. <TAG TYPE="PROFESION">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/09/2018</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">61727998</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud San Blas</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3650OVO</TAG>.
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Mazda CX-5</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSQ368DR70V377478</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="SEXO_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">28 años</TAG> de edad, acompañado de su hija, con antecedentes de alergia a los productos lácteos y carne. Presenta un cuadro de gastroenteritis aguda, con síntomas de diarrea, vómitos y dolor abdominal. La exploración física revela: temperatura <TAG TYPE="FECHAS">38,5°C</TAG>, presión arterial <TAG TYPE="FECHAS">120/80 mmHg</TAG>, frecuencia cardíaca <TAG TYPE="FECHAS">100 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. La exploración abdominal muestra signos de irritación intestinal, sin signos de obstrucción o perforación. Los análisis de sangre muestran: hemoglobina <TAG TYPE="FECHAS">12,5 g/dl</TAG>, leucocitos <TAG TYPE="FECHAS">15.000/mm3</TAG>, creatinina <TAG TYPE="FECHAS">1,2 mg/dl</TAG>. Se solicitan pruebas de infección gastrointestinal, incluyendo cultivos de heces y sangre. El paciente es tratado con líquidos intravenosos y medicamentos antieméticos. Se le recomienda una dieta blanda y se le prescribe un curso de antibióticos en caso de que los análisis de sangre confirmen una infección.
+    Evolución y comentarios:
+    El paciente muestra una respuesta favorable al tratamiento, con disminución de los síntomas y mejora en el estado general. Se le realiza una exploración abdominal con ultrasonido, que muestra signos de inflamación intestinal sin signos de obstrucción o perforación. Se le prescribe un curso de probióticos para ayudar a restaurar la flora intestinal.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Asunción Crespo Guzman</TAG>, <TAG TYPE="PROFESION">Especialista en Enfermedades Infecciosas</TAG>, <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>.
+  </TEXT>
+</MEDDOCAN>

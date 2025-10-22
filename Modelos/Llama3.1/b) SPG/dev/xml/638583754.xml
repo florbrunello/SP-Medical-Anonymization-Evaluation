@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Diego</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Plaza Esteban</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">23776990G</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/02/1953</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Ribera 32</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ferrol</TAG>, <TAG TYPE="TERRITORIO">Lérida</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">25798</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">plaza639@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 973 32 47 81</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 773 83 93 36</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9207980</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">887850916449</TAG>
+    Condición de riesgo: 
+    <TAG TYPE="OTROS_SUJETO_ASISTENCIA">usuario de drogas</TAG>
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Hugo Fuentes León</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">894498282</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/07/2014</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Oeste</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">usuario de drogas</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">61 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">yerno</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Albert Galan Díaz</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">50741802F</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/08/1966</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Preciados 97</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Plasencia</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">17872</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">diaz@ual.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 92 99 57</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 772 07 96 39</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8364176</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">347424906613</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Conductor de Camión</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Francisco</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Benítez Marín</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">738458084</TAG>. <TAG TYPE="PROFESION">Cardiólogo</TAG> de <TAG TYPE="CENTRO_SALUD">Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">22/12/2021</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">72251155</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Asistencial Universitario Salamanca</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3974QIA</TAG>.
+    Modelo: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">Honda CR-V</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSDV2AWUQYG176349</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">comunidades vulnerables</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">55 años</TAG> de edad, que presentó un episodio de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca aguda</TAG> después de conducir su vehículo durante varias horas. El paciente tenía antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>. La exploración física reveló <TAG TYPE="OTROS_SUJETO_ASISTENCIA">taquicardia</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">disnea</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">edema periférico</TAG>. Los análisis de sangre mostraron elevadas concentraciones de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urea</TAG>. Se realizó una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ecografía cardíaca</TAG> que demostró un aumento del tamaño del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ventrículo izquierdo</TAG> y una disminución de la función cardíaca.
+    El tratamiento consistió en la administración de medicamentos para disminuir la presión arterial y mejorar la función cardíaca, así como la hospitalización en la unidad de cuidados intensivos para monitorizar la situación del paciente. El paciente mostró una mejoría significativa después de la administración del tratamiento y fue dado de alta del hospital después de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 días</TAG> de hospitalización.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, lo que lo coloca en un mayor riesgo de desarrollar <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca</TAG>. También tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">accidente vascular cerebral</TAG> en el pasado.
+    Evolución y comentarios:
+    El paciente mostró una mejoría significativa después de la administración del tratamiento y fue dado de alta del hospital después de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 días</TAG> de hospitalización. Se le recomendó seguir un régimen de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ejercicio regular</TAG> y una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dieta equilibrada</TAG> para mejorar su función cardíaca y prevenir futuros episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca</TAG>.
+    Remitido por:
+    El paciente fue remitido por su <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">médico de cabecera</TAG> debido a un episodio de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca aguda</TAG>.
+  </TEXT>
+</MEDDOCAN>

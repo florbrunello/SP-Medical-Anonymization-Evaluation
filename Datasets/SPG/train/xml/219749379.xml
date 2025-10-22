@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Óscar Millan Segura
+DNI: 28990645L
+Fecha de nacimiento: 07/02/1950
+Género: V
+Domicilio: Calle de Fortuny 97, 2C
+Ciudad: Albacete, Alicante, Comunidad Valenciana
+Código postal: 03132
+Email: oscar-millan380@isciii.es
+Teléfono fijo: +34 965 53 86 17
+Teléfono móvil: +34 765 73 83 74
+NHC: 9998751
+NASS: 190760256611
+
+Datos asistenciales.
+Médico: Dra. Ariadna Marcos Diez. NC 800352128. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 24/12/1972
+Episodio: 17240587
+Hospital: Hospital Universitario Rey Juan Carlos de Mostoles
+Matrícula del coche: 4678INW
+Modelo: Chevrolet Silverado
+VIN: VSO85PRPZVM337776
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 22 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Óscar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Millan Segura" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="28990645L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="07/02/1950" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="139" text="Calle de Fortuny 97, 2C" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="156" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="166" text="Alicante" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="188" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="03132" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="242" text="oscar-millan380@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="258" end="274" text="+34 965 53 86 17" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="291" end="307" text="+34 765 73 83 74" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="313" end="320" text="9998751" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="327" end="339" text="190760256611" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="589" end="599" text="24/12/1972" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="610" end="618" text="17240587" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="629" end="679" text="Hospital Universitario Rey Juan Carlos de Mostoles" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="701" end="708" text="4678INW" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="742" end="759" text="VSO85PRPZVM337776" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="803" end="829" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="833" end="840" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

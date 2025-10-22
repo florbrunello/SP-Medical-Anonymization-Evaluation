@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Miguel Casas Gallardo
+DNI: 20651268M
+Fecha de nacimiento: 06/05/2021
+Género: M
+Domicilio: Calle de Bravo Murillo 70
+Ciudad: Alcázar de San Juan, Zamora, Castilla y León
+Código postal: 49341
+Email: casas_gallardo1124@gmail.com
+Teléfono fijo: +34 980 93 18 04
+FAX: +34 980 54 86 57
+NHC: 7064209
+NASS: 441988478095
+Condición de riesgo: Enfermera
+
+Datos asistenciales.
+Médico: Dra. María Isabel Moya Domínguez. NC 784443005. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/08/2023
+Episodio: 00592523
+Hospital: Hospital Universitario Doctor Peset
+
+Informe clínico del paciente:
+Paciente fumador de 2 años de edad, acompañado de su hermano. Se realizó un expediente con URL http://example-nutrition.net//88393720B. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="José Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="54" text="Casas Gallardo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="20651268M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="06/05/2021" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="111" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="148" text="Calle de Bravo Murillo 70" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="176" text="Alcázar de San Juan" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="178" end="184" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="186" end="201" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="217" end="222" text="49341" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="230" end="258" text="casas_gallardo1124@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="274" end="290" text="+34 980 93 18 04" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="296" end="312" text="+34 980 54 86 57" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="318" end="325" text="7064209" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="332" end="344" text="441988478095" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="366" end="375" text="Enfermera" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="663" end="673" text="10/08/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="684" end="692" text="00592523" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="703" end="738" text="Hospital Universitario Doctor Peset" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="779" end="786" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="790" end="796" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="823" end="830" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="865" end="889" text="http://example-nutrition" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

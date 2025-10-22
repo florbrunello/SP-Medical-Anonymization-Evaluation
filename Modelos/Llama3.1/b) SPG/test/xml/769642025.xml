@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Natalia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ramírez</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Costa</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">16330346R</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">29/03/1941</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Pez 13</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcázar de San Juan</TAG>, <TAG TYPE="TERRITORIO">Ávila</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">05411</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ramirez-costa@ciberehd.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 920 81 49 89</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 720 72 09 25</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4026891</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Maquinaria Agrícola</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ángeles Merino Flores</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">244172314</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuropsicóloga Clínica Investigadora</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">02/10/1942</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">44877283</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Universitario San Cecilio</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5245QLA</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Chevrolet Silverado</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSHZWMFTJ4R074503</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">exfumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermano</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de huella dactilar</TAG>, el <TAG TYPE="ID_CONTACTO_ASISTENCIAL">código obtenido para revisarla</TAG> es <TAG TYPE="NUMERO_TELEFONO">VI693NFU170</TAG>.
+  </TEXT>
+</MEDDOCAN>

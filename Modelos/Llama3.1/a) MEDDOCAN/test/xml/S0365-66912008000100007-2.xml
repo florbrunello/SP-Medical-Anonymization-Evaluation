@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aina</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cabrera Navarro</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8309139</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Rio Castaños Kalea, 21, 3, B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Barakaldo, Bizkaia</TAG>.
+    CP: <TAG TYPE="TERRITORIO">48903</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/03/02</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">11 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">05/11/2013</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Oftalmología</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">3024760</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marta</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Galdós</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">48 48 90511</TAG>.
+    Informe clínico del paciente: Niña de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">11 años</TAG>, Cariotipo femenino normal, gestación y parto normal. La resonancia magnética nuclear cerebral (RMN) muestra agenesia de cuerpo calloso junto con extensas anomalías de la migración neuronal. Esta paciente presenta epilepsia en la infancia siendo los primeros episodios de convulsiones a los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> de edad. Los registros electroencefalográficos (EEG), demuestran una hipsarritmia asimétrica. En el examen funduscópico aparece una papila completa en el ojo derecho, pigmento peripapilar y áreas de lagunas coriorretinianas hipopigmentadas peripapilares que se extienden hacia las arcadas vasculares retinianas. Sin embargo, no hay afectación macular. El fondo de ojo izquierdo, presenta un disco óptico colobomatoso y pequeñas áreas hipopigmentadas coriorretinales. No presenta otras malformaciones a nivel renal o vertebral. La paciente se caracteriza por su larga supervivencia, con una edad actual de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">11 años y 10 meses</TAG>, pero presentando un retardo psicomotor muy severo.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marta Galdós</TAG> <TAG TYPE="PROFESION">Dpto. de Oftalmología</TAG>. <TAG TYPE="HOSPITAL">Hospital de Cruces</TAG> <TAG TYPE="CALLE">Plaza de Cruces, s/n</TAG> <TAG TYPE="TERRITORIO" >48903</TAG> <TAG TYPE="TERRITORIO" >Baracaldo</TAG> <TAG TYPE="PAIS">Vizcaya</TAG> <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">martagaldos@monteurquiola.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Luisa</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Zafra Monedero</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5208756</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">43 50259874 90</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ José Cádiz Salvatierra, 3, Bajo A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Jerez de la Frontera, Cádiz</TAG>.
+    CP: <TAG TYPE="TERRITORIO">11405</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/06/1952</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">62 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">24/08/2014</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">395866540</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Félix</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gómez de Rueda</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">11 11 54870</TAG>.
+    Informe clínico del paciente.
+    Presentamos el caso de una paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">62 años</TAG> que en diciembre de 2010 es intervenida por un carcinoma seroso papilar en ovario izquierdo con afectación de un ganglio de la cadena aorto-cava (estadio IIIC).
+    Posteriormente recibió quimioterapia adyuvante con carboplatino y paclitaxel, finalizando en junio de 2011.
+    Más tarde, inició seguimiento permaneciendo asintomática hasta abril 2013, cuando se detectó una elevación de CA 125 de <TAG TYPE="OTRO_NUMERO_IDENTIF">88.4 U/ml</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">0-35 U/ml</TAG>).
+    En el TAC se pudo apreciar una imagen adyacente al colon y se le practicó resección anterior de recto superior con biopsia intraoperatoria de una lesión hepática que confirmó la naturaleza metastásica.
+    Se instauró una segunda línea de tratamiento con carboplatino y paclitaxel, evidenciando un valor de CA 125 de <TAG TYPE="OTRO_NUMERO_IDENTIF">123.3 U/ml</TAG>.
+    Tras un primer ciclo con buena tolerancia, programamos el segundo y durante los primeros minutos de la infusión de carboplatino, presentó un cuadro brusco de disnea, vómitos, pérdida de conocimiento y TAS/TAD de <TAG TYPE="OTRO_NUMERO_IDENTIF">70/50 mmHg</TAG>.
+    Se detuvo la infusión y posteriormente a la administración de corticoides el cuadro comenzó a remitir.
+    La Unidad de Alergología, recomendó esquema de desensibilización con enlentecimiento de la velocidad de infusión.
+    Para ello, se utilizaron tres disoluciones con concentraciones de <TAG TYPE="OTRO_NUMERO_IDENTIF">0,02</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">0,2</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">2 mg/ml</TAG> respectivamente, además de la premedicación la noche anterior y media hora antes de la infusión con:
+    - <TAG TYPE="NOMBRE_MEDICAMENTO">Cetirizina</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">10 mg</TAG> - <TAG TYPE="NOMBRE_MEDICAMENTO">Prednisona</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">1 mg/kg</TAG> - <TAG TYPE="NOMBRE_MEDICAMENTO">Ranitidina</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">150 mg</TAG> - <TAG TYPE="NOMBRE_MEDICAMENTO">Montelukast</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">10 mg</TAG>
+    A pesar de ello, a los pocos minutos comenzó con disnea, sudoración y tensiones de <TAG TYPE="OTRO_NUMERO_IDENTIF">85/60 mmHg</TAG>, obligando a detener la infusión y recomendándose no volver a usar ninguna sal de platino.
+    En Septiembre de 2013, se decidió iniciar 3a línea de quimioterapia con trabectedina y adriamicina liposomal pegilada.
+    Tras el tercer ciclo, se normalizaron los marcadores y se completó hasta el sexto, manteniéndose en estos momentos libre de enfermedad.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Félix</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gómez de Rueda</TAG>. <TAG TYPE="HOSPITAL">Hospital General de Jerez</TAG>. <TAG TYPE="CALLE">Ronda de Circunvalación, s/n</TAG>, <TAG TYPE="TERRITORIO">11407 Jerez de la Frontera, Cádiz, España</TAG>. <TAG TYPE="CORREO_ELECTRONICO">correo electrónico: cardiometa@yahoo.es</TAG>
+  </TEXT>
+</MEDDOCAN>

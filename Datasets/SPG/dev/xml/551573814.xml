@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Alicia Palacios Rey
+DNI: 32445969F
+Fecha de nacimiento: 09/06/2024
+Género: F
+Domicilio: Calle de Ayala 55
+Ciudad: Santander, Granada, Andalucía
+Código postal: 18422
+Email: palacios-rey@yahoo.com
+Teléfono fijo: +34 958 09 61 12
+Teléfono móvil: +34 658 41 24 67
+NHC: 7142430
+Condición de riesgo: Operador de Maquinaria Pesada
+
+Datos asistenciales.
+Médico: Dr. Luis García Hurtado. NC 245161456. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/03/2025
+Episodio: 76542738
+Centro de salud: Centro de Salud Moratalaz
+
+Informe clínico del paciente:
+Paciente no fumador de 8 meses de edad, acompañado de su madre. Se registró una sesión de firma biométrica, el código obtenido para revisarla es WO609FRZ037. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Alicia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Palacios Rey" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="32445969F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="09/06/2024" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="133" text="Calle de Ayala 55" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="142" end="151" text="Santander" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="160" text="Granada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="162" end="171" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="187" end="192" text="18422" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="200" end="222" text="palacios-rey@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="238" end="254" text="+34 958 09 61 12" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="271" end="287" text="+34 658 41 24 67" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="293" end="300" text="7142430" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="322" end="351" text="Operador de Maquinaria Pesada" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="386" end="405" text="Luis García Hurtado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="410" end="419" text="245161456" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="421" end="465" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="467" end="553" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="555" end="584" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="586" end="591" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="593" end="599" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="601" end="607" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="627" end="637" text="07/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="648" end="656" text="76542738" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="674" end="699" text="Centro de Salud Moratalaz" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="740" end="750" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="754" end="761" text="8 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="788" end="793" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="876" end="887" text="WO609FRZ037" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Darío</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Román</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Guerra</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">58661032S</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/09/2007</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Barquillo 98</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Navalcarnero</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">18879</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">dario.guerra1478@h12o.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 16 14 18</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 658 39 46 79</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9416596</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">836890328714</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Montador</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Ramón Aranda Hernández</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">365309629</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Principal en Optometría Clínica</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/01/2008</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Getafe</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 meses</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se registró una <TAG TYPE="IDENTIF_BIOMETRICOS">sesión de reconocimiento facial</TAG>, el <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">código obtenido</TAG> para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">AW144QHL655</TAG>.
+  </TEXT>
+</MEDDOCAN>

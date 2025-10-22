@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Antonio</TAG>.
+  Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Moreno Flores</TAG>.
+  CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc-9764523</TAG>.
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">02 465497132 12</TAG>.
+  Domicilio:  <TAG TYPE="CALLE">Avda. de la Estación, 2</TAG>.
+  Localidad/ Provincia: <TAG TYPE="TERRITORIO">ALbacete</TAG>.
+  CP: <TAG TYPE="TERRITORIO">02001</TAG>.
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9764523</TAG>.
+  Datos asistenciales.
+  Fecha de nacimiento: <TAG TYPE="FECHAS">15/09/1975</TAG>.
+  País: <TAG TYPE="PAIS">España</TAG>.
+  Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">38</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+  Fecha de Ingreso: <TAG TYPE="FECHAS">19/11/2013</TAG>.
+  Especialidad: <TAG TYPE="PROFESION">urológia</TAG>.
+  Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pedro</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carrión López</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">02 02 78942</TAG>.
+  Motivo de ingreso: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumoración escrotal izquierda</TAG>.
+  Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">38 años</TAG> de edad, sin antecedentes urológicos de interés, que consultó por presentar una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumoración escrotal izquierda</TAG> de siete meses de evolución, de crecimiento lento, progresivo e indolora. 
+  Exploración física: A la exploración física se apreció una masa blanda de unos 3 cm, no dolorosa a la palpación ni adherida a estructuras adyacentes, con transiluminación negativa y testículos normales. Con marcadores testiculares negativos
+  Resumen de pruebas complementarias: se realizó una ecografía que fue informada como lesión paratesticular homogénea y de bordes regulares de unos 2 cm sospechosa de <TAG TYPE="OTRO_NUMERO_IDENTIF">lipoma</TAG>.
+  Evolución y comentarios: Dadas las dudas diagnósticas se realizó una exploración quirúrgica en la que se apreció un <TAG TYPE="OTRO_NUMERO_IDENTIF">lipoma</TAG> de unos 2 x 1,5 cm en el cordón espermático, de coloración amarillenta, consistencia blanda y fácilmente resecable. Ante la sospecha de <TAG TYPE="OTRO_NUMERO_IDENTIF">lipoma paratesticular</TAG>, se practicó una excisión inguinal izquierda de la masa, separándola del cordón espermático.
+  Posteriormente, el estudio anatomopatológico evidenció la presencia de un <TAG TYPE="OTRO_NUMERO_IDENTIF">LPS</TAG> bien diferenciado del subtipo <TAG TYPE="OTRO_NUMERO_IDENTIF">lipoma like</TAG>. Se decidió no completar la cirugía con orquiectomía debido al pequeño tamaño del tumor y a su estadiaje de más bajo grado asociado a un buen pronóstico.
+  Tras 26 meses del tratamiento quirúrgico el paciente se encuentra asintomático y sin evidencia de recidiva tumoral.
+  Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pedro Carrión López</TAG> <TAG TYPE="CALLE">calle Manuel Luna 32</TAG> <TAG TYPE="TERRITORIO" >02080</TAG> <TAG TYPE="TERRITORIO" >Albacete</TAG>. <TAG TYPE="NUMERO_FAX">967 21 63 20</TAG> EMAIL: <TAG TYPE="CORREO_ELECTRONICO">pedrocarrion1980@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

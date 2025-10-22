@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ana María</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pardo García</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">53129515K</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/07/2017</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Rollo 99</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Cuenca</TAG>, <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">38646</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">garcia62@imibic.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 922 09 37 64</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 622 75 77 35</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3845390</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">816355158466</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marta Marín Román</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">397898362</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardióloga Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">30/05/2019</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Marqués de Valdecilla</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">descendencia africana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tía</TAG>.
+  </TEXT>
+</MEDDOCAN>

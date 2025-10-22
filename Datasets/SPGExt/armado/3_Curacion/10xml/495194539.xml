@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sandra Escobar Jurado</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">29126023L</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/03/1956</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Don Ramón de la Cruz 49</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Toledo, Ibiza, Islas Baleares</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">07491</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">sandra_jurado351@h12o.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 26 63 03</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 671 00 16 03</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2163012</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Repartidor</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pedro José Acosta Domínguez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">799795576</TAG>. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">14/10/2016</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">50447538</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Barcelona</TAG>.
+    Informe clínico del paciente:
+    La paciente, <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sandra Escobar Jurado</TAG>, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">60 años</TAG> de edad, fue derivada al Servicio de Urgencias del Hospital Clínic Barcelona con síntomas de dolor abdominal crónico y pérdida de peso significativa en los últimos meses. La paciente es vegetariana desde hace más de 20 años y no consume productos lácteos ni huevos.
+    La exploración física revela: Tª <TAG TYPE="FECHAS">37,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">80 lpm</TAG>. La paciente se encuentra consciente, orientada, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. La auscultación cardíaca es rítmica, sin soplos, roces ni extratonos. La auscultación pulmonar conserva el murmullo vesicular. El abdomen es blando, depresible, sin masas ni megalias.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">12,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">8.500/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">90 mg/dl</TAG>; urea <TAG TYPE="FECHAS">25 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,2 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,8 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">20 U/l</TAG>; GPT <TAG TYPE="FECHAS">15 U/l</TAG>; GGT <TAG TYPE="FECHAS">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">120 U/l</TAG>; calcio <TAG TYPE="FECHAS">9,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía abdominal y TAC craneal) que no evidencian patología significativa. Se realiza una biopsia de hígado que muestra una enfermedad hepática crónica no alcohólica.
+    Con el diagnóstico de enfermedad hepática crónica no alcohólica se instaura tratamiento sintomático (reposo, dieta balanceada y medicación para controlar los síntomas) y tratamiento específico con medicamentos antivirales.
+    Antecedentes:
+    La paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2, tratadas con medicación oral.
+    Evolución y comentarios:
+    La paciente ha mostrado una buena respuesta al tratamiento y su condición se ha estabilizado. Se le ha recomendado seguir una dieta balanceada y realizar ejercicios físicos regulares para mejorar su salud en general.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pedro José Acosta Domínguez</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: José Zamora Millan
+DNI: 41983785E
+Fecha de nacimiento: 31/07/2022
+Género: M
+Domicilio: Calle de Tribulete 48
+Ciudad: Jaén, León, Castilla y León
+Código postal: 24088
+Email: jose_zamora-millan@ub.edu
+Teléfono fijo: +34 987 64 75 33
+Teléfono móvil: +34 687 60 45 65
+NHC: 7147945
+NASS: 797555158188
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dr. Adrián Guzman Galvez. NC 500917262. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 65410751
+Hospital: Complejo Hospitalario Torrecárdenas
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 2 años de edad, acompañado de su padre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.76.95, con dirección MAC 3D:B6:78:99:64:68. 

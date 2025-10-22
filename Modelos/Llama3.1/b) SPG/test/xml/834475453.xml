@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Albert</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mesa Varela</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">17653659D</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">22/02/1939</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de la Cabeza 37</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Castellón de la Plana</TAG>, <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">14632</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">albert@salud.madrid.org</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 957 41 99 96</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 657 84 23 05</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9976322</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Mantenimiento</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Miguel Peña Blazquez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">906971153</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">28/01/2006</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">67380414</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Central de Asturias</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia indígena americana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">66 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">nuera</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP (en red interna)</TAG> <TAG TYPE="NUMERO_TELEFONO">192.168.205.188</TAG>, con <TAG TYPE="IDENTIF_BIOMETRICOS">dirección MAC</TAG> <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">B0:86:11:E7:C7:0F</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de firma biométrica</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código obtenido</TAG> para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">RI671GQL916</TAG>.
+  </TEXT>
+</MEDDOCAN>

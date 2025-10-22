@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan Ramón Miranda Bernal</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">70867584F</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/12/1999</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Ana 15</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Jaén</TAG>, <TAG TYPE="TERRITORIO">Barcelona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">08711</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">Ojb48xH@udc.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 936 49 12 72</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 932 82 41 78</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9328012</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">639843554964</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ama de casa</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Agustín Pacheco Lozano</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">504626613</TAG>. <TAG TYPE="PROFESION">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">04/05/2015</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">46434978</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Pozuelo de Alarcón</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">9916AXG</TAG>.
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Mercedes-Benz C-Class</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSAGUJTCS9D661976</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="SEXO_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15 años</TAG> de edad, acompañado de su hermano, que acude al servicio de urgencias con síntomas de gastroenteritis aguda. La exploración física revela temperatura de <TAG TYPE="FECHAS">38,5°C</TAG>, frecuencia cardíaca de <TAG TYPE="FECHAS">120 bpm</TAG> y presión arterial de <TAG TYPE="FECHAS">120/80 mmHg</TAG>. El paciente se encuentra consciente y orientado, pero presenta signos de diarrea y vómitos.
+    Evolución y comentarios:
+    Durante el ingreso, se solicitan análisis de sangre y orina para determinar la causa subyacente de la gastroenteritis. Los resultados muestran una elevación de la creatinina y una disminución de la glóbulos rojos. Se realiza una ecografía abdominal para evaluar la presencia de cualquier obstrucción o inflamación. Los resultados de la ecografía no muestran ninguna anomalía significativa.
+    Tratamiento:
+    Se instaura un tratamiento sintomático con antitérmicos y antiinflamatorios para controlar los síntomas de la gastroenteritis. También se prescribe un tratamiento antibiótico para prevenir la infección por bacterias. El paciente se encuentra en observación en la unidad de cuidados intensivos para monitorear su evolución y ajustar el tratamiento según sea necesario.
+    Remitido por:
+    El paciente es remitido al servicio de gastroenterología para una evaluación más detallada y un seguimiento de su tratamiento.
+  </TEXT>
+</MEDDOCAN>

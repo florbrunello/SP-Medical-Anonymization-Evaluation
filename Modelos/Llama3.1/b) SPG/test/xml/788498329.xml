@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Olga</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Exposito Fernández</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">27071519J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/10/2001</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Barquillo 80</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcalá de Henares</TAG>, <TAG TYPE="TERRITORIO">Alicante</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">03320</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">olga-expositofernandez863@hotmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 965 75 13 24</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 765 65 87 35</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5032910</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Servicios de Limpieza</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Manuel Menendez Miranda</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">860150820</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">21/06/2013</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Barcelona</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2381FGA</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Mazda CX-5</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSEPYZYS3CS365044</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">11 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

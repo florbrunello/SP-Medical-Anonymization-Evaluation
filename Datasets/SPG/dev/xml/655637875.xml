@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Miguel Rueda Ortiz
+DNI: 36388969W
+Fecha de nacimiento: 13/04/1931
+Género: H
+Domicilio: Calle del Doctor Esquerdo 74, 1Y
+Ciudad: MelillaHuesca, Toledo, Castilla-La Mancha
+Código postal: 45932
+Email: miguel.rueda.ortiz179@ioba.med.uva.es
+Teléfono fijo: +34 925 80 18 02
+Teléfono móvil: +34 625 58 76 23
+NHC: 3507703
+NASS: 797662937460
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dra. Alejandra Rico Villar. NC 117401757. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 04/12/1966
+Centro de salud: Centro de Salud Pozuelo de Alarcón
+
+Informe clínico del paciente:
+Paciente refugiado de 35 años de edad, acompañado de su padre. Se registró una sesión de firma biométrica, el código obtenido para revisarla es WU850JKE434. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="46" text="Rueda Ortiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="36388969W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="13/04/1931" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="147" text="Calle del Doctor Esquerdo 74, 1Y" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="169" text="MelillaHuesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="177" text="Toledo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="197" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="45932" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="263" text="miguel.rueda.ortiz179@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="279" end="295" text="+34 925 80 18 02" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="312" end="328" text="+34 625 58 76 23" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="334" end="341" text="3507703" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="348" end="360" text="797662937460" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="382" end="413" text="Operador de Maquinaria Agrícola" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="669" end="679" text="04/12/1966" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="697" end="731" text="Centro de Salud Pozuelo de Alarcón" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="772" end="781" text="refugiado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="785" end="792" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="819" end="824" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T22" start="907" end="918" text="WU850JKE434" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

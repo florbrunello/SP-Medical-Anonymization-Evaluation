@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Unai</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santamaria Mateo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">52231570L</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/12/1934</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Salitre 84, 5T</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Lorca</TAG>, <TAG TYPE="TERRITORIO">Valencia</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">46825</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">unai@ciberer.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 960 59 88 63</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 760 03 77 18</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3014264</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Soldado</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carmen Pereira Mateos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">155908639</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/07/1999</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">18418497</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Centro</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0585DTB</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mazda CX-5</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSIDP3OPNCR563830</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">64 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">nuera</TAG>.
+  </TEXT>
+</MEDDOCAN>

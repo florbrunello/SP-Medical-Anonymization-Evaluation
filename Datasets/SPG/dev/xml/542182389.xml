@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Mercedes Galvez Díaz
+DNI: 29218445G
+Fecha de nacimiento: 05/09/1955
+Género: Mujer
+Domicilio: Calle de la Primavera 6, 10E
+Ciudad: Ermua, Ávila, Castilla y León
+Código postal: 05063
+Email: mercedes-galvez376@gmail.com
+Teléfono fijo: +34 920 96 13 91
+Teléfono móvil: +34 720 47 41 40
+NHC: 1025715
+NASS: 712861864113
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dr. Jorge Sanz Plaza. NC 767551591. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/03/1977
+Centro de salud: Centro de Salud Fuengirola
+Matrícula del coche: 3381XHD
+Modelo: Chrysler Pacifica
+VIN: VSWROGK8FVV485830
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 21 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Mercedes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="48" text="Galvez Díaz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="29218445G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="05/09/1955" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="149" text="Calle de la Primavera 6, 10E" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="163" text="Ermua" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="170" text="Ávila" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="187" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="05063" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="244" text="mercedes-galvez376@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 920 96 13 91" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="293" end="309" text="+34 720 47 41 40" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="315" end="322" text="1025715" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="329" end="341" text="712861864113" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="363" end="369" text="Médico" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="404" end="420" text="Jorge Sanz Plaza" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="425" end="434" text="767551591" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="436" end="467" text="Especialista en Genética Médica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="469" end="544" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="546" end="575" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="577" end="582" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="584" end="590" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="592" end="598" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="618" end="628" text="03/03/1977" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="646" end="672" text="Centro de Salud Fuengirola" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="694" end="701" text="3381XHD" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="733" end="750" text="VSWROGK8FVV485830" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="791" end="808" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="812" end="819" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

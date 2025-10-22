@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Raúl Camacho Esteban
+DNI: 87700378K
+Fecha de nacimiento: 13/07/1995
+Género: Masculino
+Domicilio: Calle del Barquillo 30
+Ciudad: Linares, Huesca, Aragón
+Código postal: 22720
+Email: raul_camacho@udc.es
+Teléfono fijo: +34 974 44 89 84
+Teléfono móvil: +34 774 10 04 10
+NHC: 4785868
+NASS: 286259437360
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dr. Jorge Rojas Serrano. NC 799502651. Neurólogo Investigador en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 26/07/2008
+Episodio: 30208735
+Hospital: Complejo Hospitalario Universitario de Lugo
+
+Informe clínico del paciente:
+Paciente no fumador de 13 años de edad, acompañado de su padre. 

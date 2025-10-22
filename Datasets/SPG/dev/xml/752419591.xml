@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: César Moya Hurtado
+DNI: 42068616Y
+Fecha de nacimiento: 04/10/1979
+Género: Hombre
+Domicilio: Calle de la Cabeza del Rey Don Pedro 90
+Ciudad: Alcázar de San Juan, Jaén, Andalucía
+Código postal: 23077
+Email: cesar_hurtado1977@hotmail.com
+Teléfono fijo: +34 953 12 89 68
+FAX: +34 953 37 93 34
+NHC: 1157242
+NASS: 255992061292
+Condición de riesgo: Químico
+
+Datos asistenciales.
+Médico: Dra. Aitana Nieto Cuesta. NC 307154728. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/02/1989
+Episodio: 16206801
+Centro de salud: Centro de Salud Moratalaz
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 9 años de edad, acompañado de su abuelo. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es AK545VFD512. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="César" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="46" text="Moya Hurtado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="42068616Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="04/10/1979" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="108" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="159" text="Calle de la Cabeza del Rey Don Pedro 90" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="168" end="187" text="Alcázar de San Juan" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="189" end="193" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="195" end="204" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="220" end="225" text="23077" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="233" end="262" text="cesar_hurtado1977@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="278" end="294" text="+34 953 12 89 68" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="300" end="316" text="+34 953 37 93 34" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="322" end="329" text="1157242" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="336" end="348" text="255992061292" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="370" end="377" text="Químico" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="639" end="649" text="12/02/1989" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="660" end="668" text="16206801" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="686" end="711" text="Centro de Salud Moratalaz" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="752" end="769" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="773" end="779" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="806" end="812" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="896" end="907" text="AK545VFD512" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Laia Prieto Gutiérrez
+DNI: 67373005W
+Fecha de nacimiento: 14/11/1980
+Género: M
+Domicilio: Calle del Rollo 67, 5R
+Ciudad: Fuenlabrada, Castellón, Comunidad Valenciana
+Código postal: 12763
+Email: laia.prieto-gutierrez1856@ciberehd.org
+Teléfono fijo: +34 964 43 04 87
+Teléfono móvil: +34 664 18 57 26
+NHC: 6770202
+
+Datos asistenciales.
+Médico: Dr. Jon Álvarez Aparicio. NC 112262031. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/10/2012
+Episodio: 37362189
+Centro de salud: Centro de Salud Móstoles
+Matrícula del coche: 3963WQH
+Modelo: Subaru Outback
+VIN: VSLDOEXQ7RI454302
+
+Informe clínico del paciente:
+Paciente vegetariano de 31 años de edad. El servidor para envío de información desde cual el usuario se comunica es smtp://example-radiology.edu. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Laia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="49" text="Prieto Gutiérrez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="67373005W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="14/11/1980" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="140" text="Calle del Rollo 67, 5R" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="160" text="Fuenlabrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="171" text="Castellón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="193" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="209" end="214" text="12763" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="222" end="260" text="laia.prieto-gutierrez1856@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="276" end="292" text="+34 964 43 04 87" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="309" end="325" text="+34 664 18 57 26" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="331" end="338" text="6770202" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="373" end="393" text="Jon Álvarez Aparicio" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="398" end="407" text="112262031" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="409" end="458" text="Psiquiatra Especialista en Trastornos de Ansiedad" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="460" end="530" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="532" end="561" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="563" end="568" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="570" end="576" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="578" end="584" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="604" end="614" text="18/10/2012" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="625" end="633" text="37362189" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="651" end="675" text="Centro de Salud Móstoles" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T26" start="697" end="704" text="3963WQH" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="733" end="750" text="VSLDOEXQ7RI454302" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="791" end="802" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="806" end="813" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="898" end="922" text="smtp://example-radiology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

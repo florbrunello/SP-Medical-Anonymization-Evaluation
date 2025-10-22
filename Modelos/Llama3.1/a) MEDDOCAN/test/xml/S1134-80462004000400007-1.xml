@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ana</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pacual Jaime</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8173456</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">43 75615775 06</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Paseo Santa Engracia, 14</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Barcelona</TAG>.
+    CP: <TAG TYPE="TERRITORIO">08162</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/09/1937</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">75 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">15/09/2012</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ivan</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Domenech Juan</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">08 08 57989</TAG>.
+    Informe clínico del paciente:  mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">75 años</TAG> de edad con antecedentes de DM tipo II a tratamiento con insulina con complicaciones crónicas como polineuropatía, HTA en tratamiento y obesa, que se programa para cirugía de PTR (prótesis total de rodilla). En los datos preoperatorios no hay nada reseñable aparte de lo descrito, la técnica anestésica fue un procedimiento combinado epidural/intradural a nivel L3-L4, a través de la aguja intradural se administran 3 ml de bupivacaína 0,5% sin vasoconstrictor y se dejó colocado un catéter epidural para analgesia postoperatoria. El postoperatorio transcurrió sin incidencias y subió a la planta con una PCAE (PCA epidural) cargada con bupivacaína al 0,125 y fentanilo 4 microgramos por ml, con una programación de 3 ml.h-1, bolos 3 ml cada 30 minutos. A las 4 a.m. aproximadamente se produce el cambio de PCA provocándose el error y administrando por vía epidural una PCA con medicación y programación para vía i.v. (en 100 ml, 50 mg de morfina más 10 g de metamizol).
+    Al pasar la visita diaria de la UDAP, la enfermera de dicha unidad detecta el error. La paciente está consciente y orientada con excelente analgesia, sin datos de depresión respiratoria, alteraciones neurológicas, ni otros efectos secundarios. La cantidad de fármaco administrado fue de 4 mg de morfina y 160 mg de metamizol. Se retira dicha PCA y el catéter y se procede al ingreso en la Unidad de Reanimación para control y seguimiento, donde la paciente no presentó ningún efecto secundario y se mantuvo estable en todo momento, con lo que 24 h más tarde es dada de alta a planta y a las 2 semanas es dada de alta a su domicilio, previa revisión por el anestesiólogo. Se llevó a cabo un seguimiento periódico de hasta 18 meses sin ninguna incidencia.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ivan Domenech Juan</TAG> <TAG TYPE="CALLE">c/ Ibería nº 11 3-2ª</TAG> <TAG TYPE="TERRITORIO">08014</TAG> <TAG TYPE="TERRITORIO">Barcelona</TAG>
+  </TEXT>
+</MEDDOCAN>

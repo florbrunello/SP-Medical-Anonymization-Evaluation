@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Teresa</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Serra Pacheco</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">60859781X</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">31/05/1928</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Amor de Dios 15, 3M</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Orense</TAG>, <TAG TYPE="TERRITORIO">Cáceres</TAG>, <TAG TYPE="TERRITORIO">Extremadura</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">10239</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariateresaserra1181@icloud.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 927 45 02 12</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 727 40 35 85</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0842812</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">534616302825</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Granjero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marcos Méndez Vega</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">636500379</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/08/1942</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">22566976</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Crúces</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">http://example-therapy.org//54663862S</TAG>.
+  </TEXT>
+</MEDDOCAN>

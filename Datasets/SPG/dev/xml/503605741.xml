@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rebeca Fuentes Alarcon
+DNI: 26291502H
+Fecha de nacimiento: 10/08/1954
+Género: Mujer
+Domicilio: Calle de la Virgen de los Peligros 63, 7F
+Ciudad: Lugo, Palencia, Castilla y León
+Código postal: 34961
+Email: rebeca.fuentes.alarcon@uhu.es
+Teléfono fijo: +34 979 11 40 19
+Teléfono móvil: +34 679 05 63 54
+NHC: 2549979
+Condición de riesgo: Dentista
+
+Datos asistenciales.
+Médico: Dra. Juana Rico Mendoza. NC 933041227. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/02/2011
+Episodio: 57179132
+Centro de salud: Centro de Salud San Blas
+Matrícula del coche: 8555VSS
+Modelo: BMW 3 Series
+VIN: VSNGLNYJ0PW722292
+
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 56 años de edad, acompañado de su sobrina. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Rebeca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Fuentes Alarcon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="26291502H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="10/08/1954" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="164" text="Calle de la Virgen de los Peligros 63, 7F" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="173" end="177" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="179" end="187" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="189" end="204" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="220" end="225" text="34961" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="233" end="262" text="rebeca.fuentes.alarcon@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="278" end="294" text="+34 979 11 40 19" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="311" end="327" text="+34 679 05 63 54" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="333" end="340" text="2549979" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="362" end="370" text="Dentista" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="639" end="649" text="15/02/2011" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="660" end="668" text="57179132" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="686" end="710" text="Centro de Salud San Blas" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="732" end="739" text="8555VSS" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="766" end="783" text="VSNGLNYJ0PW722292" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="827" end="844" text="ascendencia árabe" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="848" end="855" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="882" end="889" text="sobrina" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

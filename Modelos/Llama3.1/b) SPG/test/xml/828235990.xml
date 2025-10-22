@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Patricia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Simon</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Moreno</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">58893171S</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/05/1979</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Espoz y Mina 85</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="TERRITORIO">Lérida</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">25985</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">simon_moreno@outlook.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 973 17 98 39</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 773 92 92 98</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1123423</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">862625816435</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Josep</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lozano</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Escudero</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">115277625</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuropsicólogo Clínico Investigador</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">07/08/2008</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Asistencial Universitario de León</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">29 años</TAG> de edad. Se registró una consulta virtual desde la dirección IP <TAG TYPE="DIREC_PROT_INTERNET">192.168.238.207</TAG> (en red interna), con dirección MAC <TAG TYPE="IDENTIF_BIOMETRICOS">82:58:E8:23:7A:5B</TAG>.
+  </TEXT>
+</MEDDOCAN>

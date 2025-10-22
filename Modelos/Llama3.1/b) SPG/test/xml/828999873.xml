@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aarón</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Conde Del Rio</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">80510613X</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/08/2018</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle Gran Vía 43, 5T</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Vilanova i la Geltrú</TAG>, <TAG TYPE="TERRITORIO">Ávila</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">05369</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">conde_delrio@udc.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 920 85 32 59</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 720 37 90 26</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6673406</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">228797461943</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Blanca Ferrer Villar</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">959814772</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuróloga Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">05/05/2023</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">43138955</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Cartagena</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. Se realizó un <TAG TYPE="OTRO_NUMERO_IDENTIF">expediente</TAG> con <TAG TYPE="URL_WEB">http://example-biotech.com//63326176N</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Nerea</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Moreno Mateos</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">85377708Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/02/1946</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Doctor Esquerdo 91, 1Y</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Xàtiva</TAG>, <TAG TYPE="TERRITORIO">Almería</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">04792</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">nerea@isciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 950 25 25 67</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 650 37 63 96</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0047320</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">356096115453</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Limpiador</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Cristina Galvez Hidalgo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">261726611</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/01/1953</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">04886371</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Fundació Jiménez Díaz</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">4137GZK</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Honda Civic</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSVIQVWY8BY760590</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia oceánica</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se realizó un <TAG TYPE="DIREC_PROT_INTERNET">expediente con URL</TAG> <TAG TYPE="URL_WEB">http://example-dermatology.org//83288308Z</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Patricia Molina Casas
+DNI: 78124683P
+Fecha de nacimiento: 15/05/2016
+Género: Mujer
+Domicilio: Calle de O'Donnell 3, 1D
+Ciudad: Linares, Orense, Galicia
+Código postal: 32189
+Email: patricia-molina778@h12o.es
+Teléfono fijo: +34 988 09 55 56
+Teléfono móvil: +34 788 26 57 62
+NHC: 3272817
+NASS: 728150547102
+Condición de riesgo: Trabajador de Sanitización
+
+Datos asistenciales.
+Médico: Dr. Raúl Ramos Villar. NC 783323251. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/08/2023
+Episodio: 17676171
+Centro de salud: Centro de Salud Ronda
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 7 años de edad, acompañado de su tía. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Patricia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="49" text="Molina Casas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="78124683P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="15/05/2016" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="110" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="146" text="Calle de O'Donnell 3, 1D" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="162" text="Linares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="170" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="179" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="32189" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="234" text="patricia-molina778@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 988 09 55 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 788 26 57 62" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="3272817" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="728150547102" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="353" end="379" text="Trabajador de Sanitización" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="414" end="431" text="Raúl Ramos Villar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="436" end="445" text="783323251" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="447" end="486" text="Residente de 4° año en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="488" end="572" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="574" end="603" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="605" end="610" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="612" end="618" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="620" end="626" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="646" end="656" text="20/08/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="667" end="675" text="17676171" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="693" end="714" text="Centro de Salud Ronda" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="755" end="776" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="780" end="786" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="813" end="816" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

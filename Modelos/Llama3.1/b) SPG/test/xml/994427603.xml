@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Silvia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carrasco</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">López</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">73772873M</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/02/1947</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Bravo Murillo 69</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">San Vicente del Raspeig</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">28907</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">silvia.carrasco195@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 913 43 68 26</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 615 72 09 54</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5151310</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">021771724443</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">exfumador</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Remedios</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Casas</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Martínez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">002225764</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/07/2006</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">03975462</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Oeste</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">exfumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">59 años</TAG> de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">NQ616NVL105</TAG>.
+  </TEXT>
+</MEDDOCAN>

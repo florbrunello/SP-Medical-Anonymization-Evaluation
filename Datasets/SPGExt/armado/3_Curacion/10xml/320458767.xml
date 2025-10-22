@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Francisco Manuel Lorenzo Salazar</TAG>.
+  DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">30170068W</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">19/11/2018</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de la Reina 79, 4F</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">Bormujos</TAG>, <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">14112</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">franciscomanuel.lorenzosalazar@hotmail.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 957 71 53 50</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 657 63 99 41</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3388850</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">858201709193</TAG>
+  Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Pintor de Construcción</TAG>
+  Datos asistenciales.
+  Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Adrián Velasco Jiménez</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 015887777</TAG>. <TAG TYPE="PROFESION">Neurólogo Investigador en Trastornos Cognitivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">20/02/2025</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">17901372</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Oeste</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3011KSS</TAG>
+  Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ford F-150</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSMGE2J4IAH629221</TAG>
+  Informe clínico del paciente:
+  Paciente usuario de drogas de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años</TAG> de edad, acompañado de su hermana. Presenta signos de intoxicación aguda por sustancias, con vómitos y alteración de la conciencia. La exploración física revela: Tª <TAG TYPE="OTROS_SUJETO_ASISTENCIA">38,5 C</TAG>; T.A: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120/80 mmHg</TAG>; Fc: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">80 lpm</TAG>. Se encuentra desorientado y con signos de disminución de la función cognitiva.
+  Antecedentes:
+  El paciente tiene antecedentes de consumo de sustancias ilegales en su entorno familiar.
+  Evolución y comentarios:
+  El paciente ha sido ingresado en la unidad de cuidados intensivos para recibir tratamiento de soporte vital y tratamiento farmacológico para la intoxicación aguda. Se está realizando una evaluación psicológica para determinar la gravedad del daño cerebral.
+  Remitido por:
+  El paciente ha sido remitido por su madre, quien se encuentra preocupada por su bienestar y la posibilidad de que haya sido expuesto a sustancias peligrosas en su entorno familiar.
+  </TEXT>
+</MEDDOCAN>

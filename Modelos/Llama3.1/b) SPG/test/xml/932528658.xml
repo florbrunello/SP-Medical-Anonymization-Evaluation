@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Patricia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aparicio</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carrillo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">60941715H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/03/2001</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de los Relatores 42</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad autónoma de Ceuta</TAG>, <TAG TYPE="TERRITORIO">Ceuta</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">52230</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">apariciocarrillo@aol.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 32 25 96</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 956 51 97 60</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3154216</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">889071580172</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Electricista</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pau Bernal Parra</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">772096285</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Principal en Optometría Clínica</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario 12 de Octubre</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5656ZDQ</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Nissan Altima</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSALBDVTB0Y560199</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia caribeña</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">23 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">vecina</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">escaneo retiniano</TAG>, el código obtenido para revisarla es <TAG TYPE="ID_CONTACTO_ASISTENCIAL">UP286CWM593</TAG>.
+  </TEXT>
+</MEDDOCAN>

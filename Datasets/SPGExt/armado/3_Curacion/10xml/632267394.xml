@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mónica Flores Pacheco</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">96608137H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/01/1990</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Atocha 68, 1V</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Vigo</TAG>, <TAG TYPE="TERRITORIO">Alicante</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">03412</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">pacheco@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 965 29 07 77</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 765 14 53 69</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7508405</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">025005151922</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ama de casa</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tomás Santos López</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 707593008</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/07/2010</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">52814061</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Moratalaz</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1380UNU</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Chrysler Pacifica</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSOE8PUBRAL982751</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTRO_NUMERO_IDENTIF">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> de edad, acompañado de su hijo, que presenta un cuadro de <TAG TYPE="OTRO_NUMERO_IDENTIF">dolor abdominal crónico</TAG> con episodios recurrentes de <TAG TYPE="OTRO_NUMERO_IDENTIF">diarrea</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">vómitos</TAG>. La exploración física revela un abdomen distendido, con dolor a la palpación en la región epigástrica. Los análisis de sangre muestran una elevación de la <TAG TYPE="OTRO_NUMERO_IDENTIF">creatinina</TAG> y una disminución de la <TAG TYPE="OTRO_NUMERO_IDENTIF">glóbulina sérica</TAG>. Se solicitan pruebas de imagen para evaluar la presencia de una <TAG TYPE="OTRO_NUMERO_IDENTIF">obstrucción intestinal</TAG>.
+    Antecedentes:
+    El paciente tiene antecedentes de una operación quirúrgica en la infancia para corregir una <TAG TYPE="OTRO_NUMERO_IDENTIF">hernia umbilical</TAG>. También ha tenido episodios de <TAG TYPE="OTRO_NUMERO_IDENTIF">dolor abdominal</TAG> en el pasado, pero nunca se ha diagnosticado una condición médica específica.
+    Evolución y comentarios:
+    El paciente ha estado bajo tratamiento con medicamentos <TAG TYPE="OTRO_NUMERO_IDENTIF">antiinflamatorios</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">antidiarreicos</TAG>, pero no ha respondido de manera satisfactoria. Se considera la posibilidad de una <TAG TYPE="OTRO_NUMERO_IDENTIF">enfermedad inflamatoria intestinal</TAG>, como la <TAG TYPE="OTRO_NUMERO_IDENTIF">enfermedad de Crohn</TAG> o la <TAG TYPE="OTRO_NUMERO_IDENTIF">colitis ulcerosa</TAG>.
+    Remitido por:
+    El paciente ha sido remitido por su médico de cabecera, quien ha notado un <TAG TYPE="OTRO_NUMERO_IDENTIF">deterioro</TAG> en su estado de salud en los últimos meses. Se solicita una evaluación más exhaustiva para determinar la causa subyacente de sus síntomas.
+  </TEXT>
+</MEDDOCAN>

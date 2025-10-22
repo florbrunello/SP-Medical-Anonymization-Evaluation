@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Nuria Vicente Blanco
+DNI: 51650203T
+Fecha de nacimiento: 13/07/1950
+Género: M
+Domicilio: Calle de Fuencarral 29, 6L
+Ciudad: Xàtiva, Lugo, Galicia
+Código postal: 27511
+Email: nuria-vicente@ucm.es
+Teléfono fijo: +34 982 41 37 59
+Teléfono móvil: +34 682 11 69 73
+NHC: 7034607
+NASS: 227472518597
+
+Datos asistenciales.
+Médico: Dra. Consuelo Moreno Rey. NC 130057496. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 13/07/1987
+Hospital: Hospital Clínic Barcelona
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática occidental de 37 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.91.215, con dirección MAC 9C:CF:28:D9:14:D4. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Nuria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Vicente Blanco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="51650203T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="13/07/1950" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="143" text="Calle de Fuencarral 29, 6L" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="158" text="Xàtiva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="164" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="173" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="189" end="194" text="27511" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="202" end="222" text="nuria-vicente@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="238" end="254" text="+34 982 41 37 59" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="271" end="287" text="+34 682 11 69 73" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="293" end="300" text="7034607" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="307" end="319" text="227472518597" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="575" end="585" text="13/07/1987" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="596" end="621" text="Hospital Clínic Barcelona" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="665" end="696" text="ascendencia asiática occidental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="700" end="707" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="823" end="840" text="9C:CF:28:D9:14:D4" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

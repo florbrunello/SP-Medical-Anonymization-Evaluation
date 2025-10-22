@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carmen</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carrasco Castillo</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">61699446Z</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/07/1997</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Alameda 30</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Móstoles</TAG>, <TAG TYPE="TERRITORIO">Segovia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">40634</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">castillo@protonmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 921 97 21 74</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 721 66 33 48</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9592272</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">791197783206</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">No especificada</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Cristina</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Arroyo García</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">892591079</TAG>. <TAG TYPE="PROFESION">Gastroenteróloga Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/04/2003</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">42257888</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Asistencial Universitario Salamanca</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. Presenta una temperatura corporal de <TAG TYPE="FECHAS">37,5°C</TAG>, y una presión arterial de <TAG TYPE="FECHAS">90/60 mmHg</TAG>. La exploración física revela una apariencia general saludable, sin signos de infección o enfermedad crónica. El paciente es consciente, orientado y coopera con la exploración.
+    La historia clínica del paciente no revela antecedentes de enfermedades crónicas o infecciones recientes. El paciente ha estado tomando medicamentos para la prevención de enfermedades respiratorias, según la guía de vacunación del Ministerio de Sanidad.
+    Se solicitan análisis de sangre para determinar los niveles de inmunoglobulinas y la función hepática. También se solicita una radiografía de tórax para evaluar la presencia de cualquier patología pulmonar.
+    El tratamiento se basará en la evaluación de los resultados de los análisis y la radiografía de tórax. Se considerará la posibilidad de una infección viral o una enfermedad autoinmune.
+    Antecedentes:
+    No se tienen antecedentes médicos relevantes.
+    Evolución y comentarios:
+    El paciente se encuentra estable y sin signos de infección o enfermedad crónica. Se le han solicitado análisis de sangre y una radiografía de tórax para evaluar la presencia de cualquier patología.
+    Remitido por:
+    No se ha remitido a ningún especialista.
+    Fecha de alta:
+    No se ha establecido una fecha de alta.
+  </TEXT>
+</MEDDOCAN>

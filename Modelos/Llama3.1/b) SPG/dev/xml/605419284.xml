@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sonia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vega Aparicio</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">96637539A</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/09/1994</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Olivar 27, 6K</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Alcorcón</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">17664</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">sonia.vega@uca.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 81 88 71</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 772 92 42 01</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9920356</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Soldador</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rebeca Marín Montes</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">738016152</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">30/11/2011</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">80230205</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Leganés</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">8930QBR</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Toyota RAV4</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSQO18O8XAO433149</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">17 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">vecino</TAG>. Se registró una sesión de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">escaneo del iris</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">VW799ZKS764</TAG>.
+  </TEXT>
+</MEDDOCAN>

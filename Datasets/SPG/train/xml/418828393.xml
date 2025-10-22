@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ignacio Villar Costa
+DNI: 28003810E
+Fecha de nacimiento: 26/06/1975
+Género: V
+Domicilio: Calle del Rollo 87, 10N
+Ciudad: Elda, Navarra, Navarra
+Código postal: 31053
+Email: ignacio-villar@h12o.es
+Teléfono fijo: +34 948 40 89 37
+Teléfono móvil: +34 648 08 82 30
+NHC: 7218375
+NASS: 777912886937
+
+Datos asistenciales.
+Médico: Dr. Arnau Aguilar Martín. NC 758309608. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/03/1993
+Hospital: Hospital Universitario de Fuenlabrada
+Matrícula del coche: 9462OHY
+Modelo: Ford F-150
+VIN: VSG2WEV4JWP380777
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 17 años de edad, acompañado de su hermano. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Ignacio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Villar Costa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="28003810E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="26/06/1975" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="140" text="Calle del Rollo 87, 10N" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="153" text="Elda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="162" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="171" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="187" end="192" text="31053" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="200" end="222" text="ignacio-villar@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="238" end="254" text="+34 948 40 89 37" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="271" end="287" text="+34 648 08 82 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="293" end="300" text="7218375" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="307" end="319" text="777912886937" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="354" end="374" text="Arnau Aguilar Martín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="379" end="388" text="758309608" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="390" end="423" text="Residente de 5° año en Neurología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="425" end="514" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="516" end="545" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="547" end="552" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="554" end="560" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="562" end="568" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="588" end="598" text="17/03/1993" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="609" end="646" text="Hospital Universitario de Fuenlabrada" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="668" end="675" text="9462OHY" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="700" end="717" text="VSG2WEV4JWP380777" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="761" end="781" text="ascendencia asiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="785" end="792" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="819" end="826" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

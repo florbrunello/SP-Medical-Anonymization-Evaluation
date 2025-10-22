@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Catalina</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">García</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Galan</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">63680079W</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/12/1931</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Atocha 53</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Majadahonda</TAG>, <TAG TYPE="TERRITORIO">Navarra</TAG>, <TAG TYPE="TERRITORIO">Navarra</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">31717</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">catalina.garcia-galan923@imibic.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 948 33 78 69</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 748 03 42 60</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7209799</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Inspector de Seguridad Minera</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Santiago Cabrera Montes</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">784688752</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Endocrinólogo Especialista en Diabetes</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/04/1971</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">53607644</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de A Coruña</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3851XHD</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Toyota Corolla</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSZB6QUH7GO274143</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">39 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">prima</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">firma biométrica</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">WF655CDW520</TAG>.
+  </TEXT>
+</MEDDOCAN>

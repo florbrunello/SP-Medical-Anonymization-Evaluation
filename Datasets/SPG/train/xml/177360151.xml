@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Darío Acosta Rivas
+DNI: 75612471V
+Fecha de nacimiento: 14/04/1965
+Género: V
+Domicilio: Calle del Amparo 49
+Ciudad: San Sebastián, Almería, Andalucía
+Código postal: 04330
+Email: dario_rivas@yahoo.com
+Teléfono fijo: +34 950 54 03 94
+Teléfono móvil: +34 750 24 54 61
+NHC: 9225188
+NASS: 396515970993
+
+Datos asistenciales.
+Médico: Dr. Juan Ramón Medina Herrera. NC 568860154. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/08/2002
+Episodio: 38423231
+Centro de salud: Centro de Salud Barajas
+Matrícula del coche: 2132MWV
+Modelo: Hyundai Elantra
+VIN: VSR06ENZSGR761237
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 37 años de edad. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es NZ228KIA091. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Darío" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="46" text="Acosta Rivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="75612471V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="14/04/1965" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="134" text="Calle del Amparo 49" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="143" end="156" text="San Sebastián" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="165" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="167" end="176" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="192" end="197" text="04330" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="205" end="226" text="dario_rivas@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="242" end="258" text="+34 950 54 03 94" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="275" end="291" text="+34 750 24 54 61" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="297" end="304" text="9225188" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="311" end="323" text="396515970993" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="358" end="383" text="Juan Ramón Medina Herrera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="388" end="397" text="568860154" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="399" end="454" text="Gastroenterólogo Especialista en Enfermedades Hepáticas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="456" end="549" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="551" end="580" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="582" end="587" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="589" end="595" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="597" end="603" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="623" end="633" text="06/08/2002" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="644" end="652" text="38423231" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="670" end="693" text="Centro de Salud Barajas" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="715" end="722" text="2132MWV" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="752" end="769" text="VSR06ENZSGR761237" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="813" end="841" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="845" end="852" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="948" end="959" text="NZ228KIA091" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

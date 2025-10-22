@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Víctor Estevez Conde
+DNI: 61742552H
+Fecha de nacimiento: 04/12/1949
+Género: V
+Domicilio: Calle del Espíritu Santo 73
+Ciudad: Orense, Tarragona, Cataluña
+Código postal: 43886
+Email: victorestevez1202@hotmail.com
+Teléfono fijo: +34 977 59 02 92
+Teléfono móvil: +34 777 14 68 52
+NHC: 2811455
+NASS: 193930637589
+
+Datos asistenciales.
+Médico: Dra. Vanessa Sánchez Rivera. NC 457926071. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/03/2006
+Episodio: 27057704
+Centro de salud: Centro de Salud Ciudad Lineal
+Matrícula del coche: 5759AJL
+Modelo: Ram 1500
+VIN: VSD9RGQNHEZ813190
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 56 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.53.126, con dirección MAC 3E:17:5F:28:ED:A9. Se realizó un expediente con URL http://example-therapy.org//83680731M. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Víctor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Estevez Conde" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="61742552H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="04/12/1949" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="144" text="Calle del Espíritu Santo 73" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="159" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="170" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="180" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="43886" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="238" text="victorestevez1202@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 977 59 02 92" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 777 14 68 52" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="2811455" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="323" end="335" text="193930637589" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="591" end="601" text="16/03/2006" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="612" end="620" text="27057704" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="638" end="667" text="Centro de Salud Ciudad Lineal" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="689" end="696" text="5759AJL" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="719" end="736" text="VSD9RGQNHEZ813190" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="777" end="798" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="802" end="809" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="925" end="942" text="3E:17:5F:28:ED:A9" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <OTHER id="T24" start="977" end="999" text="http://example-therapy" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

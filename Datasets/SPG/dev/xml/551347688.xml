@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Domingo Mesa Menendez
+DNI: 82624631Y
+Fecha de nacimiento: 22/09/1931
+Género: Hombre
+Domicilio: Calle de Menorca 25
+Ciudad: Elche, Castellón, Comunidad Valenciana
+Código postal: 12730
+Email: domingo_mesa1476@aol.com
+Teléfono fijo: +34 964 68 13 04
+Teléfono móvil: +34 764 56 02 66
+NHC: 9253720
+NASS: 662653716370
+Condición de riesgo: Operador de Equipos Mineros
+
+Datos asistenciales.
+Médico: Dr. Isaac Bueno Carrillo. NC 826706131. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 15/12/1949
+Centro de salud: Centro de Salud Getafe
+Matrícula del coche: 3322RSM
+Modelo: Chevrolet Silverado
+VIN: VSFX954174T247375
+
+Informe clínico del paciente:
+Paciente vegetariano de 18 años de edad, acompañado de su padre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.232.156, con dirección MAC E4:92:F3:C0:08:18. Se realizó un expediente con URL http://example-dermatology.org//61202038J. El servidor para envío de información desde cual el usuario se comunica es smtp://example-dermatology.org. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es HT701IXE369. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Domingo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="49" text="Mesa Menendez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="82624631Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="22/09/1931" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="111" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="142" text="Calle de Menorca 25" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="156" text="Elche" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="167" text="Castellón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="189" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="12730" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="242" text="domingo_mesa1476@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="258" end="274" text="+34 964 68 13 04" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="291" end="307" text="+34 764 56 02 66" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="313" end="320" text="9253720" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="327" end="339" text="662653716370" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="361" end="388" text="Operador de Equipos Mineros" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="423" end="443" text="Isaac Bueno Carrillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="448" end="457" text="826706131" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="459" end="496" text="Residente de 4° año en Endocrinología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="498" end="565" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="567" end="594" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="596" end="601" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="603" end="610" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="612" end="618" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="638" end="648" text="15/12/1949" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="666" end="688" text="Centro de Salud Getafe" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="710" end="717" text="3322RSM" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="751" end="768" text="VSFX954174T247375" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="809" end="820" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="824" end="831" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="858" end="863" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="972" end="989" text="E4:92:F3:C0:08:18" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <OTHER id="T33" start="1024" end="1050" text="http://example-dermatology" TYPE="URL_WEB" comment=""/>
+        <OTHER id="T34" start="1142" end="1168" text="smtp://example-dermatology" TYPE="URL_WEB" comment=""/>
+        <ID id="T35" start="1260" end="1271" text="HT701IXE369" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

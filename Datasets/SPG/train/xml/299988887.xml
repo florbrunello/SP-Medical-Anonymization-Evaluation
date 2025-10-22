@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ignacio Cano Jurado
+DNI: 77010608F
+Fecha de nacimiento: 11/06/1966
+Género: V
+Domicilio: Calle del Rollo 13
+Ciudad: Lorca, Lérida, Cataluña
+Código postal: 25502
+Email: cano1278@uca.es
+Teléfono fijo: +34 973 51 14 49
+Teléfono móvil: +34 673 15 64 68
+NHC: 2245447
+NASS: 613814007559
+Condición de riesgo: Repartidor
+
+Datos asistenciales.
+Médico: Dr. Xavier Moreno Caballero. NC 881780459. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/10/2012
+Hospital: Hospital Universitario Virgen del Rocío
+
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 46 años de edad, acompañado de su hijo. Se realizó un expediente con URL http://example-research.net//48700477D. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Ignacio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="47" text="Cano Jurado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="77010608F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="11/06/1966" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="134" text="Calle del Rollo 13" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="143" end="148" text="Lorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="150" end="156" text="Lérida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="158" end="166" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="182" end="187" text="25502" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="195" end="210" text="cano1278@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="226" end="242" text="+34 973 51 14 49" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="259" end="275" text="+34 673 15 64 68" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="281" end="288" text="2245447" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="295" end="307" text="613814007559" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="329" end="339" text="Repartidor" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="374" end="397" text="Xavier Moreno Caballero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="402" end="411" text="881780459" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="413" end="446" text="Residente de 5° año en Neurología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="448" end="537" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="539" end="568" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="570" end="575" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="577" end="583" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="585" end="591" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="611" end="621" text="18/10/2012" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="632" end="671" text="Hospital Universitario Virgen del Rocío" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="715" end="732" text="ascendencia árabe" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="736" end="743" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="770" end="774" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="809" end="832" text="http://example-research" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

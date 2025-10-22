@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Elena Pérez Morales
+DNI: 50538192Q
+Fecha de nacimiento: 07/12/1974
+Género: M
+Domicilio: Calle de Santa Engracia 43
+Ciudad: Aranda de Duero, Zamora, Castilla y León
+Código postal: 49325
+Email: perez437@outlook.com
+Teléfono fijo: +34 980 87 09 35
+Teléfono móvil: +34 680 21 27 80
+NHC: 4157229
+NASS: 913122299873
+Condición de riesgo: Pintor de Construcción
+
+Datos asistenciales.
+Médico: Dra. Andrea Reyes Blazquez. NC 718956087. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/09/2024
+Hospital: Hospital Universitario Central de Asturias
+Matrícula del coche: 5264XGJ
+Modelo: Jeep Wrangler
+VIN: VSITN3T44MX438631
+
+Informe clínico del paciente:
+Paciente judío de 49 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Elena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Pérez Morales" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="50538192Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="07/12/1974" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="142" text="Calle de Santa Engracia 43" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="166" text="Aranda de Duero" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="174" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="191" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="49325" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="240" text="perez437@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 980 87 09 35" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="289" end="305" text="+34 680 21 27 80" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="311" end="318" text="4157229" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="325" end="337" text="913122299873" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="359" end="381" text="Pintor de Construcción" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="650" end="660" text="28/09/2024" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="671" end="713" text="Hospital Universitario Central de Asturias" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="735" end="742" text="5264XGJ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="770" end="787" text="VSITN3T44MX438631" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="828" end="833" text="judío" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="837" end="844" text="49 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

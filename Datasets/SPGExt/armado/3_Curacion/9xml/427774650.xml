@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Christian Martínez Ibáñez</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">40381585W</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/11/1950</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Magdalena 53</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Almería</TAG>, <TAG TYPE="TERRITORIO">Ávila</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">05082</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ibanez@ciberned.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 920 45 76 39</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 920 11 16 28</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5882098</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">546811202275</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Desconocido</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Iñigo Soriano Hidalgo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">310388793</TAG>. Residente de <TAG TYPE="PROFESION">5° año</TAG> en <TAG TYPE="PROFESION">Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/01/1986</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">33783419</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Benalmádena</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia árabe</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">35 años</TAG> de edad, acompañado de su compañero, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">episodios de confusión y desorientación</TAG> en el último mes. El paciente refiere sentirse <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cansado y sin energía</TAG>, con dificultades para concentrarse y recordar eventos recientes. No ha experimentado <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor o molestias</TAG> en el cuerpo.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>. Ha sido tratado con medicamentos para controlar su presión arterial y nivel de azúcar en la sangre. No tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">accidentes cerebrovasculares</TAG> o <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedades neurológicas</TAG>.
+    Evolución y comentarios:
+    El paciente fue evaluado por un equipo de médicos especializados en <TAG TYPE="PROFESION">neurología</TAG>. Se realizaron pruebas de imagen, incluyendo una <TAG TYPE="FECHAS">resonancia magnética de cabeza</TAG>, para evaluar la posible causa de sus síntomas. Los resultados de las pruebas indican la presencia de un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumor cerebral</TAG> en el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lóbulo temporal izquierdo</TAG>.
+    Remitido por:
+    El paciente fue remitido por su <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">médico de cabecera</TAG>, quien se preocupó por su estado de salud y lo derivó a un especialista en <TAG TYPE="PROFESION">neurología</TAG> para una evaluación más completa.
+  </TEXT>
+</MEDDOCAN>

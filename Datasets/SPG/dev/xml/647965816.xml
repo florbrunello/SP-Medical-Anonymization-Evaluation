@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Elvira Flores Hernández
+DNI: 35412440F
+Fecha de nacimiento: 13/06/1964
+Género: M
+Domicilio: Calle de Génova 31, 1R
+Ciudad: Torrelodones, Álava, Pais Vasco
+Código postal: 01604
+Email: floreshernandez@hotmail.com
+Teléfono fijo: +34 945 83 22 74
+Teléfono móvil: +34 745 97 39 28
+NHC: 8541988
+NASS: 959615321739
+Condición de riesgo: Operador de Equipos Mineros
+
+Datos asistenciales.
+Médico: Dra. Teresa Castro Bernal. NC 364602099. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/11/1990
+Episodio: 61332443
+Hospital: Complejo Hospitalario Universitario de Lugo
+Matrícula del coche: 0308DGA
+Modelo: Chevrolet Silverado
+VIN: VSX9M6WU57C737545
+
+Informe clínico del paciente:
+Paciente exfumador de 26 años de edad, acompañado de su hermana. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es UF410IOE309. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Elvira" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="51" text="Flores Hernández" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="35412440F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="13/06/1964" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="142" text="Calle de Génova 31, 1R" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="163" text="Torrelodones" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="170" text="Álava" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="182" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="01604" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="238" text="floreshernandez@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 945 83 22 74" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 745 97 39 28" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="8541988" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="323" end="335" text="959615321739" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="357" end="384" text="Operador de Equipos Mineros" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="639" end="649" text="16/11/1990" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="660" end="668" text="61332443" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="679" end="722" text="Complejo Hospitalario Universitario de Lugo" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="744" end="751" text="0308DGA" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="785" end="802" text="VSX9M6WU57C737545" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="843" end="852" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="856" end="863" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="890" end="897" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T25" start="981" end="992" text="UF410IOE309" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

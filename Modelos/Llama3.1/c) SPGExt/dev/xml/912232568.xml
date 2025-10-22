@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Bruno</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Macias Vega</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">56672335J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">18/12/1937</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Juan Bravo 26, 1E</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Málaga</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">29919</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">macias@uca.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 83 06 82</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 651 79 27 90</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9126930</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">216358630512</TAG>
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Conductor de Camión</TAG>
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sofía</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Vera Flores</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">779833152</TAG>. <TAG TYPE="PROFESION">Cardióloga Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">02/05/2013</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">09603671</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Sur</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">75 años</TAG> de edad, acompañado de su pareja, que acude al <TAG TYPE="HOSPITAL">Servicio de Urgencias</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor en el pecho</TAG> de características <TAG TYPE="OTROS_SUJETO_ASISTENCIA">anginosas</TAG>, que se inicia con un episodio de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y se intensifica con la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">actividad física</TAG>. El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, tratados con medicación oral. La exploración física revela: <TAG TYPE="FECHAS">Tª 37,2 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 80 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración ni taquicardia, con buen estado de nutrición e hidratación. En la exploración cardíaca se aprecia una onda QRS desviada a la derecha, con una amplitud de 0,2 mV en el V2. El electrocardiograma muestra un infarto de miocardio en evolución, con una alteración de la curva de onda ST en el segmento ST de 2,5 mm en el V2. Se solicitan pruebas de imagen para confirmar el diagnóstico, incluyendo una ecocardiografía y una angiografía coronaria. El paciente es estabilizado con oxígeno y nitratos, y se le administra un tratamiento antiagregante plaquetario.
+    Evolución y comentarios:
+    El paciente es ingresado en la <TAG TYPE="HOSPITAL">Unidad de Cuidados Intensivos Cardiológicos</TAG>, donde se le realiza una angiografía coronaria que confirma la presencia de una estenosis significativa en la arteria coronaria derecha. Se le realiza una angioplastia coronaria con colocación de una stent, que se ajusta adecuadamente. El paciente es estabilizado y se le administra un tratamiento antiagregante plaquetario y un tratamiento para la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>. La evolución del paciente es favorable, y se le permite la movilidad en la cama. El paciente es revisado regularmente por el equipo de cuidados intensivos, y se le realiza un seguimiento de la función cardíaca y de la presión arterial.
+    Remitido por:
+    Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sofía</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Vera Flores</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">779833152</TAG>. <TAG TYPE="PROFESION">Cardióloga Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

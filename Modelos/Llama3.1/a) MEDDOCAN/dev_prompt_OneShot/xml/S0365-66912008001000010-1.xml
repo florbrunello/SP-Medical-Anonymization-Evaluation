@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Joaquín</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Díaz Madrid</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8957344</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">78 63756739 30</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Alejandro Martín Ortega, 7, 6 A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Alcobendas</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28100</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/01/1982</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">35 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">14/06/2017</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carolina</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Arruabarrena Sánchez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 57489</TAG>.
+    Historia Actual: Paciente varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">35 años</TAG> que acude a urgencias por presentar cefalea bifrontoparietal de gran intensidad y 8 horas de duración, que no variaba con maniobras de Valsalva ni con la postura, y cedía parcialmente con analgésicos.
+    Antecedentes: Como antecedente personal refería un episodio de HII tratado con acetazolamida oral y naproxeno con recuperación clínica y desaparición del papiledema.
+    Exploración: La exploración general y neurológica fue normal, presentando un índice de masa corporal de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">22 Kg/m2</TAG>. La exploración oftalmológica presentaba una agudeza visual corregida de 0,7 en ambos ojos. La motilidad ocular intrínseca, exploración del segmento anterior y la presión intraocular (PIO) eran normales.
+    Pruebas complementarias: El examen funduscópico demostró un papiledema bilateral. En la angiografía fluoresceínica se observó fuga peripapilar bilateral desde tiempos precoces. El estudio de la capa de fibras nerviosas (estrategia fast RNFL) mediante tomografía de coherencia óptica (Stratus OCT; Carl Zeiss Meditec, Dublin, CA), demostró engrosamiento de la capa de fibras en el ojo derecho (OD) y grosor en límites altos de la normalidad en el ojo izquierdo (OI).
+    La ecografía orbitaria, la tomografía axial computerizada y la perimetría automática fueron normales.
+    Se efectuó punción lumbar, observándose una presión de apertura de <TAG TYPE="NUMERO_MEDICO">30 cm de agua</TAG>, siendo la composición y serología del LCR normales.
+    El estudio analítico, de coagulación y la determinación de ANCAs, ANAs, PCR, FR, ASLO, hormonas tiroideas y anticuerpos antitiroideos fueron negativos.
+    Evolución: Tras la realización de una resonancia magnética nuclear (RMN) y fleborresonancia se descartó la presencia de trombosis de senos craneales, encontrándose una estenosis segmentaria del seno lateral derecho.
+    El paciente fue tratado con acetazolamida y naproxeno observándose mejoría clínica. Tras la realización de venografía y manometría de senos craneales se observó una estenosis larga del seno transverso derecho con gradiente de presión de <TAG TYPE="NUMERO_MEDICO">7 mmHg</TAG>, de escasa cuantía y similar al del contralateral. Por este motivo y ante la mejoría clínica se desestimó la dilatación por angioplastia y colocación de stent.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Carolina</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Arruabarrena Sánchez</TAG> <TAG TYPE="CALLE">C/. Pintor Goya, 1, 3.º B</TAG> <TAG TYPE="TERRITORIO">28100 Alcobendas</TAG> (<TAG TYPE="TERRITORIO">Madrid</TAG>) <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">carruabarrena@eresmas.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

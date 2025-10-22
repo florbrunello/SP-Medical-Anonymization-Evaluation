@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Matilde Vázquez Vila
+DNI: 59336718F
+Fecha de nacimiento: 13/09/1969
+Género: M
+Domicilio: Calle de Juan Bravo 39
+Ciudad: Jaca, Salamanca, Castilla y León
+Código postal: 37044
+Email: matilde@ioba.med.uva.es
+Teléfono fijo: +34 923 39 15 18
+Teléfono móvil: +34 723 88 98 45
+NHC: 4327579
+Condición de riesgo: Operador de Maquinaria Pesada
+
+Datos asistenciales.
+Médico: Dra. María Belén Parra Miguel. NC 774983487. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/12/1978
+Episodio: 31366851
+Centro de salud: Centro de Salud Barajas
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 9 años de edad, acompañado de su abuela. Se realizó un expediente con URL http://example-healthcare.net//58989623R. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Matilde" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Vázquez Vila" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="59336718F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="13/09/1969" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="139" text="Calle de Juan Bravo 39" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="152" text="Jaca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="154" end="163" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="180" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="37044" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="232" text="matilde@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 923 39 15 18" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 723 88 98 45" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="4327579" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="332" end="361" text="Operador de Maquinaria Pesada" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="654" end="664" text="03/12/1978" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="675" end="683" text="31366851" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="701" end="724" text="Centro de Salud Barajas" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="768" end="797" text="ascendencia del medio oriente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="801" end="807" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="834" end="840" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="875" end="900" text="http://example-healthcare" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

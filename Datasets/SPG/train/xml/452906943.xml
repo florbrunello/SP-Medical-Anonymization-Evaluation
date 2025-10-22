@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Laia Redondo Abad
+DNI: 60400915V
+Fecha de nacimiento: 26/08/1987
+Género: M
+Domicilio: Calle del Doctor Esquerdo 34, 2H
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52049
+Email: redondo459@icloud.com
+Teléfono fijo: +34 956 40 95 03
+FAX: +34 956 17 88 97
+NHC: 4100988
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dra. Juana Castro Martínez. NC 368172197. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 17/08/2024
+Episodio: 17863030
+Hospital: Hospital Universitario Puerta de Hierro Majadahonda
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 36 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Laia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="45" text="Redondo Abad" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="60400915V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="26/08/1987" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="146" text="Calle del Doctor Esquerdo 34, 2H" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="179" text="Ciudad autónoma de Ceuta" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="181" end="187" text="Ceuta," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="204" end="209" text="52049" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="217" end="238" text="redondo459@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="254" end="270" text="+34 956 40 95 03" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="276" end="292" text="+34 956 17 88 97" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T13" start="298" end="305" text="4100988" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T14" start="327" end="334" text="Bombero" TYPE="PROFESION" comment=""/>
+        <DATE id="T15" start="597" end="607" text="17/08/2024" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="618" end="626" text="17863030" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="637" end="688" text="Hospital Universitario Puerta de Hierro Majadahonda" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="732" end="758" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="762" end="769" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

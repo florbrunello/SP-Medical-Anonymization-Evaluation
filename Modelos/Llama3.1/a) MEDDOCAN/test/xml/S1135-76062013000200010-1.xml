@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ruth</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Albacete Dominguez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7045603</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">38 47968356 45</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Rostrán, 27</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Córdoba</TAG>.
+    CP: <TAG TYPE="TERRITORIO">14016</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">22/11/1979</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">38 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">06/06/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cristina</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">M. Beltrán Aroca</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">14 14 58993</TAG>.
+    Informe clínico del paciente: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">38 años</TAG> de edad, primigesta de 40 semanas, con antecedentes de diabetes gestacional controlada, que ingresa en el hospital por cuadro de hipertensión arterial, con cifras de 150/95 mmHg. Se realiza tratamiento con infusión intravenosa de labetalol. Tras el fracaso de la inducción del parto con prostaglandinas, se le realiza cesárea, durante la cual se produjo una hemorragia intensa por atonía, ante lo que se decide practicar una histerectomía subtotal. En situación de inestabilidad hemodinámica intensa y con signos de coagulopatía, ingresa en la unidad de cuidados intensivos, donde se realiza una tomografía computarizada (TC) abdomino-pélvico que informa de hematoma subcapsular hepático de 6,7 × 15 × 19 cm con áreas sugestivas de sangrado reciente, que comprime el lóbulo hepático derecho. Por indicación de cirugía se trata con medidas conservadoras, ante lo que se consigue una situación hemodinámica estable de la paciente, con disminución progresiva del hematoma subcapsular hepático según control por TC. Se realiza un análisis que pone de manifiesto: disminución del hematocrito, 18%; bilirrubina total, 5,1 mg/dl; GOT, 815 U/l; y trombocitopenia (55.000 plaquetas/ml), por lo que se procede a realizar una transfusión de plaquetas. Dada la favorable evolución clínica y ecográfica se decide el traslado de la paciente a planta, y el día anterior a recibir el alta médica, 11 días tras el parto, estando acostada y hablando con su marido, comienza a sentirse mal, con sensación disneica y pérdida de la consciencia. Tras la realización de maniobras de reanimación cardiopulmonar, la paciente fallece y se decide no certificar la defunción por muerte súbita en una enferma estable.
+    Hallazgos de la autopsia
+    En el examen externo destacaba el cadáver muy pálido con livideces poco intensas. El examen interno puso de manifiesto:
+    - Hemoperitoneo de sangre líquida de 950 cm3.
+    - Hígado aumentado de tamaño y peso, de 2.390 gramos, que presentaba un desgarro de la cápsula de Glisson en la porción superior de la cara anterior de los segmentos VII y VIII del lóbulo derecho.
+    - Gran hematoma subcapsular extendido a casi la totalidad de la cara superior y posterior del lóbulo derecho hepático, con dimensiones aproximadas de 22 cm de diámetro longitudinal, 15 cm de diámetro transversal y unos 3 cm de espesor máximo.
+    - Palidez visceral generalizada.
+    Se remitió el hígado completo para estudio histopatológico, evidenciándose un parénquima hepático muy alterado con destrucción de la arquitectura normal, necrosis periportal e intraparenquimatosa, y depósito de fibrina intrasinusoidal. Todos los hallazgos son compatibles con una rotura espontánea del hígado asociada probablemente a un síndrome HELLP.
+    Por tanto, se estableció como causa de la muerte un shock hemorrágico secundario a una rotura espontánea hepática, provocada por un hematoma subcapsular en el contexto de un síndrome HELLP.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Cristina</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">M. Beltrán Aroca</TAG> Unidad Docente de Medicina Legal y Forense. Facultad de Medicina. Universidad de Córdoba. <TAG TYPE="CALLE">Avda. Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG> <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="PAIS">España</TAG>. E-mail: <TAG TYPE="CORREO_ELECTRONICO">h12bearc@uco.es</TAG>.
+    </TEXT>
+</MEDDOCAN>

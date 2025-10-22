@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Mikel Guerra Serra
+DNI: 18091840V
+Fecha de nacimiento: 05/04/1931
+Género: M
+Domicilio: Calle del Gobernador 19
+Ciudad: Béjar, Gerona, Cataluña
+Código postal: 17739
+Email: mikel@icloud.com
+Teléfono fijo: +34 972 30 88 41
+Teléfono móvil: +34 772 64 76 53
+NHC: 5438852
+NASS: 007767192192
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dra. Teresa Mesa Soto. NC 576487501. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/04/1993
+Episodio: 96968853
+Hospital: Hospital Universitario 12 de Octubre
+
+Informe clínico del paciente:
+Paciente no fumador de 62 años de edad, acompañado de su pareja. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Mikel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="46" text="Guerra Serra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="18091840V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="05/04/1931" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="138" text="Calle del Gobernador 19" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="152" text="Béjar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="154" end="160" text="Gerona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="162" end="170" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="186" end="191" text="17739" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="199" end="215" text="mikel@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="231" end="247" text="+34 972 30 88 41" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="264" end="280" text="+34 772 64 76 53" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="286" end="293" text="5438852" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="300" end="312" text="007767192192" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="334" end="341" text="Bombero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="600" end="610" text="11/04/1993" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="621" end="629" text="96968853" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="640" end="676" text="Hospital Universitario 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="717" end="727" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="731" end="738" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="765" end="771" text="pareja" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

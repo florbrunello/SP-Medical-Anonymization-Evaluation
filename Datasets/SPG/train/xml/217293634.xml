@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sergi Guerrero Castro
+DNI: 48021758N
+Fecha de nacimiento: 28/06/1992
+Género: Hombre
+Domicilio: Calle de Mesón de Paredes 78
+Ciudad: Jerez de la Frontera, Lugo, Galicia
+Código postal: 27514
+Email: AG2XjJ9zgS4Tsw@us.es
+Teléfono fijo: +34 982 15 97 23
+Teléfono móvil: +34 782 12 92 56
+NHC: 9956584
+Condición de riesgo: Carpintero
+
+Datos asistenciales.
+Médico: Dra. Valeria Roldan Simon. NC 887559649. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/09/2003
+Episodio: 89931582
+Hospital: Hospital Universitario de Basurto
+
+Informe clínico del paciente:
+Paciente de tez blanca de 11 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Sergi" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="49" text="Guerrero Castro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="48021758N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="28/06/1992" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="111" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="151" text="Calle de Mesón de Paredes 78" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="180" text="Jerez de la Frontera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="182" end="186" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="188" end="195" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="211" end="216" text="27514" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="224" end="244" text="AG2XjJ9zgS4Tsw@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 982 15 97 23" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="293" end="309" text="+34 782 12 92 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="315" end="322" text="9956584" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="344" end="354" text="Carpintero" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="608" end="618" text="15/09/2003" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="629" end="637" text="89931582" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="648" end="681" text="Hospital Universitario de Basurto" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="725" end="735" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="739" end="746" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="773" end="778" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

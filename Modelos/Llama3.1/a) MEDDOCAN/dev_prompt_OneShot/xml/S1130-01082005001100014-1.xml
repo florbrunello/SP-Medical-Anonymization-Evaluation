@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Larraitz</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Barrios Legorreta</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">97256</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">74 75436537 98</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Artekale, 15, 3G</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Bilbao</TAG>.
+    CP: <TAG TYPE="TERRITORIO">48005</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">18/03/1949</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">67 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">14/11/2016</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Urgencias</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">761345</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pedro</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">M.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Garamendi</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">48 48 65431</TAG>.
+    Historia Actual: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">67 años</TAG> de edad, hipertensa sin antecedentes de ulcus gastroduodenal, ni ingesta de fármacos gastrolesivos, que consultó en área de <TAG TYPE="PROFESION">urgencias</TAG> por melenas y cansancio progresivo de unas dos semanas de evolución. 
+    Resumen de pruebas complementarias: En la analítica destacaba la presencia de unas cifras de Hb de 9,8, con palidez a la exploración física, normotensa y aceptable estado general con tacto rectal negativo.
+    Se le practicó una endoscopia alta en donde se evidenció una lesión submucosa en fundus gástrico de gran tamaño excavada en su centro por una ulceración de fondo fibrinoso sin signos de sangrado activo actual ni reciente. Se interpretó como lesión submucosa gástrica ulcerada muy probablemente leiomiomatosa responsable del sangrado digestivo.
+    Se le aplicó una ecoendoscopia radial que confirmó la naturaleza submucosa de dicha lesión, dependiente de la cuarta capa de la pared gástrica (muscularis propia), hipoecogénica, homogénea, con bordes delimitados y de 4,6 x 3,4 cm de diámetro máximo. Su borde en la cara de la luz gástrica presentaba una excavación secundaria a una úlcera de unos 2 cm de tamaño. No se observaron adenopatías perilesionales ni en tronco celiaco. Se hizo el diagnóstico ecoendoscópico de tumor gástrico submucoso estromal (tumor GIST) de probable estirpe muscular.
+    Evolución y comentarios: Con dicho diagnóstico y debido a los criterios ecoendoscópicos de tamaño (mayor de 4 cm) y complicación hemorrágica se sometió a tratamiento quirúrgico electivo mediante la resección y enucleación de la lesión.
+    El estudio histológico de la pieza resecada dio como resultado un schwannoma gástrico.
+    Remitido por:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pedro</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">M.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Garamendi</TAG>. <TAG TYPE="INSTITUCION">IVML</TAG>. <TAG TYPE="TERRITORIO">Vizcaya</TAG>. <TAG TYPE="PROFESION">Servicio de Clínica Médico Forense</TAG>. <TAG TYPE="CALLE">C/ Buenos Aires nº 6</TAG>. <TAG TYPE="TERRITORIO">48001</TAG> <TAG TYPE="TERRITORIO">Bilbao</TAG>. <TAG TYPE="CORREO_ELECTRONICO">garamendi.pm@aju.ej-gv.es</TAG> <TAG TYPE="PROFESION">Médico forense</TAG>. <TAG TYPE="PROFESION">Especialista en Medicina Legal y Forense</TAG>. <TAG TYPE="PROFESION">Servicio de Clínica Médico Forense</TAG>. <TAG TYPE="INSTITUCION">IVML</TAG>. <TAG TYPE="TERRITORIO">Vizcaya</TAG>.
+  </TEXT>
+</MEDDOCAN>

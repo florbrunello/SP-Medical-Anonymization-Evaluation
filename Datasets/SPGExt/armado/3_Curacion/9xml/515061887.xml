@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sonia Silva Carmona</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">72996977Z</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/04/1937</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Luna 47</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Girona, Formentera, Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07199</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">sonia@ual.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 21 37 06</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 971 60 95 91</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8792692</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">259879799941</TAG>
+    Condición de riesgo: Paciente con antecedentes de enfermedad cardíaca
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Esteban Torres Robles</TAG> NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">867441530</TAG>. Psiquiatra Especialista en Trastornos de Ansiedad. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">04/02/1972</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">15117030</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Torrejón de Ardoz</TAG>
+    Antecedentes:
+    - Historia de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hipertensión arterial</TAG>
+    - Antecedentes de enfermedad cardíaca
+    - Paciente con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad y depresión</TAG>
+    Evolución y comentarios:
+    - El paciente ha sido atendido en varias ocasiones por problemas relacionados con la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad y la depresión</TAG>.
+    - Se le ha recetado tratamiento con medicamentos <TAG TYPE="PROFESION">antidepresivos y ansiolíticos</TAG>.
+    Remitido por:
+    - El paciente ha sido remitido por su médico de cabecera para una evaluación más exhaustiva de su condición.
+    Fecha de ingreso: <TAG TYPE="FECHAS">15/07/2023</TAG>
+    Informe clínico del paciente:
+    El paciente es un varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">45 años</TAG> de edad, de origen latinoamericano, que ha sido referido por su médico de cabecera por problemas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad y depresión</TAG>. El paciente ha tenido una vida laboral activa, pero en los últimos años ha experimentado un declive en su rendimiento laboral debido a la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad y la depresión</TAG>. El paciente ha tenido antecedentes de enfermedad cardíaca y <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hipertensión arterial</TAG>. El paciente ha sido tratado con medicamentos <TAG TYPE="PROFESION">antidepresivos y ansiolíticos</TAG>, pero no ha obtenido resultados satisfactorios. El paciente ha sido evaluado por un <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">psiquiatra especialista en trastornos de ansiedad</TAG>, quien ha recomendado un tratamiento más intensivo. El paciente ha sido ingresado en el hospital para una evaluación más exhaustiva de su condición y para recibir un tratamiento más efectivo. El paciente está recibiendo tratamiento con medicamentos <TAG TYPE="PROFESION">antidepresivos y ansiolíticos</TAG>, y también está recibiendo terapia de grupo para ayudarlo a manejar su <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad y depresión</TAG>. El paciente está mostrando signos de mejora, pero todavía requiere un tratamiento más intensivo para lograr una recuperación completa.
+  </TEXT>
+</MEDDOCAN>

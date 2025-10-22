@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jaime</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ibáñez Herrera</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">64235475V</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/01/1983</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de los Relatores 20</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Tarragona</TAG>, <TAG TYPE="TERRITORIO">Badajoz</TAG>, <TAG TYPE="TERRITORIO">Extremadura</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">06248</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">herrera@ciberned.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 924 06 49 55</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 924 40 90 66</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5790024</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Farmacéutico</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alberto Castaño Guerra</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">805772201</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Psiquiatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/01/2024</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario La Paz</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">migrante</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">amiga</TAG>.
+  </TEXT>
+</MEDDOCAN>

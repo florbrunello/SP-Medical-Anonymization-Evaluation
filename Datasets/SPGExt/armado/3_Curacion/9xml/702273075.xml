@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Virginia Vicente Crespo</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">31904268W</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">01/09/1968</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Paseo de la Castellana 70</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">León</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">28322</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">virginia-vicente@yahoo.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 914 18 67 93</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 719 71 72 70</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6198494</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">718003080212</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Técnico de Radiología</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lucía Ruiz Salas</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 151527305</TAG>. <TAG TYPE="PROFESION">Cardióloga Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/03/1998</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Fundació Jiménez Díaz</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia nórdica o escandinava</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">29 años</TAG> de edad, acompañado de su madre, que se presenta con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor en el pecho</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">disnea</TAG>. La exploración física revela: <TAG TYPE="FECHAS">Tª 37,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 90 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="FECHAS">Hemograma: Hb 14,2 g/dl</TAG>; <TAG TYPE="FECHAS">leucocitos 8.500/mm3 (neutrófilos 60%)</TAG>; <TAG TYPE="FECHAS">plaquetas 250.000/mm3</TAG>. <TAG TYPE="FECHAS">VSG: 20 mm 1ª hora</TAG>. <TAG TYPE="FECHAS">Coagulación: TQ 95%</TAG>; <TAG TYPE="FECHAS">TTPA 25,5 seg</TAG>. <TAG TYPE="FECHAS">Bioquímica: Glucosa 90 mg/dl</TAG>; <TAG TYPE="FECHAS">urea 20 mg/dl</TAG>; <TAG TYPE="FECHAS">creatinina 0,8 mg/dl</TAG>; <TAG TYPE="FECHAS">sodio 140 mEq/l</TAG>; <TAG TYPE="FECHAS">potasio 4,2 mEq/l</TAG>; <TAG TYPE="FECHAS">GOT 12 U/l</TAG>; <TAG TYPE="FECHAS">GPT 18 U/l</TAG>; <TAG TYPE="FECHAS">GGT 22 U/l</TAG>; <TAG TYPE="FECHAS">fosfatasa alcalina 100 U/l</TAG>; <TAG TYPE="FECHAS">calcio 9,5 mg/dl</TAG>. <TAG TYPE="FECHAS">Orina: sedimento normal</TAG>.
+    Se solicitan pruebas de imagen (<TAG TYPE="PROFESION">Rx tórax</TAG>, <TAG TYPE="PROFESION">Ecografía cardíaca</TAG>, <TAG TYPE="PROFESION">TAC craneal</TAG>) que no evidencian patología significativa. Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">angina de pecho</TAG> se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">antitérmicos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antiinflamatorios</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">elevación testicular</TAG>) así como tratamiento farmacológico: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Nitroglicerina sublingual</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Aspirina 100 mg vía oral cada 12 horas</TAG>. El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde completa la pauta de tratamiento farmacológico.
+  </TEXT>
+</MEDDOCAN>

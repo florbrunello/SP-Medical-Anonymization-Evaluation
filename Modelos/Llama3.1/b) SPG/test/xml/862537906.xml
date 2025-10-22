@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pilar</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Bueno Pardo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">19241529M</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">29/02/2008</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Olivar 77</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Totana</TAG>, <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">13228</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">pilar1553@udc.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 13 86 21</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 726 41 12 38</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7094330</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">159831726652</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Luis Fernández Jiménez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">352058152</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Endocrinólogo Especialista en Diabetes</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/03/2016</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Gran Canaria Dr. Negrín</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">terminal</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>.
+  </TEXT>
+</MEDDOCAN>

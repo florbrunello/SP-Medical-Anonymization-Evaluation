@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ana María</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aguilar Bueno</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">43170913M</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/02/1943</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Fortuny 23, 6R</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Segovia</TAG>, <TAG TYPE="TERRITORIO">Región de Murcia</TAG>, <TAG TYPE="TERRITORIO">Región de Murcia</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">30750</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">anamaria-aguilar-bueno627@ciberned.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 968 96 91 15</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 768 97 37 93</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2120610</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">234964303759</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Técnico de Radiología</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mercedes</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ferrer Zamora</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 883471089</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">22/06/2006</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">92572731</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Basurto</TAG>.
+    Informe clínico del paciente:
+    La paciente fue ingresada en la unidad de Endocrinología por un cuadro de hipertensión arterial resistente al tratamiento con medicación oral. Se presenta con una edad de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">63 años</TAG>, con antecedentes de hipertensión arterial desde los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG>, tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">metoprolol</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">enalapril</TAG> sin respuesta adecuada. En el momento del ingreso, la paciente presentaba una presión arterial de <TAG TYPE="FECHAS">180/100 mmHg</TAG>, con una frecuencia cardíaca de <TAG TYPE="FECHAS">80 latidos por minuto</TAG> y una temperatura corporal de <TAG TYPE="FECHAS">36,8°C</TAG>. La exploración física reveló un estado general bueno, sin signos de insuficiencia cardíaca o renal. La paciente presentaba un índice de masa corporal (IMC) de <TAG TYPE="OTRO_NUMERO_IDENTIF">28 kg/m²</TAG>, con un perímetro de cintura de <TAG TYPE="OTRO_NUMERO_IDENTIF">102 cm</TAG> y un perímetro de caderas de <TAG TYPE="OTRO_NUMERO_IDENTIF">120 cm</TAG>. El análisis de sangre reveló un nivel de glucosa en ayuno de <TAG TYPE="FECHAS">120 mg/dl</TAG>, con un nivel de colesterol total de <TAG TYPE="FECHAS">220 mg/dl</TAG> y un nivel de triglicéridos de <TAG TYPE="FECHAS">150 mg/dl</TAG>. La paciente fue sometida a una exploración cardíaca con ecocardiografía, que no reveló signos de insuficiencia cardíaca o daño miocárdico. Se solicitó un estudio de resistencia a la insulina, que se realizó con un nivel de insulina basal de <TAG TYPE="FECHAS">10 μU/ml</TAG> y un nivel de insulina postprandial de <TAG TYPE="FECHAS">50 μU/ml</TAG>. La paciente fue diagnosticada con resistencia a la insulina y se inició tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">metformina 500 mg</TAG> dos veces al día. La paciente fue seguida de cerca en la unidad de Endocrinología y se realizó un seguimiento de la presión arterial y la glucosa en ayuno. La paciente presentó una respuesta favorable al tratamiento, con una disminución de la presión arterial y una normalización de la glucosa en ayuno. La paciente fue dada de alta del hospital en buen estado general, con instrucciones para seguir el tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">metformina</TAG> y realizar controles periódicos en la unidad de Endocrinología.
+  </TEXT>
+</MEDDOCAN>

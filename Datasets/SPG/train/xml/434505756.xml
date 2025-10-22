@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Noelia Galvez Bravo
+DNI: 41555453L
+Fecha de nacimiento: 11/04/1942
+Género: Mujer
+Domicilio: Calle de Fuencarral 73
+Ciudad: Jaca, Huesca, Aragón
+Código postal: 22999
+Email: noelia-galvez@uhu.es
+Teléfono fijo: +34 974 17 69 23
+Teléfono móvil: +34 674 76 71 56
+NHC: 9056826
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. José Ángel Pérez Santos. NC 489565873. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 22/03/1984
+Episodio: 95542365
+Centro de salud: Centro de Salud San Sebastián de los Reyes
+
+Informe clínico del paciente:
+Paciente no fumador de 41 años de edad, acompañado de su hija. Se registró una sesión de huella dactilar, el código obtenido para revisarla es PE165MGL334. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Noelia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Galvez Bravo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="41555453L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="11/04/1942" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="108" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="142" text="Calle de Fuencarral 73" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="155" text="Jaca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="163" text="Huesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="171" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="187" end="192" text="22999" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="200" end="220" text="noelia-galvez@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="236" end="252" text="+34 974 17 69 23" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="269" end="285" text="+34 674 76 71 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="291" end="298" text="9056826" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="320" end="345" text="Trabajador de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="380" end="403" text="José Ángel Pérez Santos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="408" end="417" text="489565873" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="419" end="462" text="Cardiólogo de Unidad de Cuidados Intensivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="464" end="536" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="538" end="561" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="563" end="568" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="570" end="576" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="578" end="584" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="604" end="614" text="22/03/1984" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="625" end="633" text="95542365" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="651" end="693" text="Centro de Salud San Sebastián de los Reyes" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="734" end="744" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="748" end="755" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="782" end="786" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="868" end="879" text="PE165MGL334" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

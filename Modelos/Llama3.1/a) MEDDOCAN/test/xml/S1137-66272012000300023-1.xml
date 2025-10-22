@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Javier</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lapido Alonso</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">297358</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">72 82953015 03</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av de Villava, 90</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Pamplona</TAG>.
+    CP: <TAG TYPE="TERRITORIO">31015</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/06/1983</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">25 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">28/08/2008</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Digestivo</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">David</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ruiz-Clavijo García</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">31 31 86651</TAG>.
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">25 años</TAG> de edad que ingresa en mayo de 2007 por un cuadro de molestias abdominales inespecíficas de 48 horas de evolución acompañado de rectorragia la mañana que acude a urgencias.
+    Antecedentes:  Entre sus antecedentes personales destacaba una leve disminución del factor VII de la coagulación, dos episodios de hemorragia digestiva baja autolimitadas en 1999 (<TAG TYPE="FECHAS">gastroscopia</TAG>, <TAG TYPE="FECHAS">colonoscopia</TAG>, <TAG TYPE="FECHAS">gammagrafía con Tc99</TAG>, <TAG TYPE="FECHAS">enteroscopia</TAG>, <TAG TYPE="FECHAS">tránsito intestinal</TAG> y <TAG TYPE="FECHAS">arteriografía sin objetivar lesiones</TAG>) y otro episodio en 2004 (<TAG TYPE="FECHAS">gastroscopia</TAG>, <TAG TYPE="FECHAS">colonoscopia</TAG> e <TAG TYPE="FECHAS">ileoscopia</TAG> y <TAG TYPE="FECHAS">gammagrafía con hematíes marcados sin anomalías</TAG>) manifestados como <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematoquecia</TAG>.
+    Exploración física: En la exploración física no había nada destacable permaneciendo el paciente con una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hemodinámica estable</TAG>.
+    Resumen de pruebas complementarias: En los análisis de urgencias presentaba <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hemograma</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bioquímica</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">coagulación</TAG> normales. Dados los antecedentes del paciente se decidió comenzar el estudio con una <TAG TYPE="FECHAS">gammagrafía con hematíes marcados</TAG> observándose a las cinco horas de administrar el trazador, un depósito patológico a nivel de flanco derecho siendo compatible con actividad en zona de intestino delgado a nivel de <TAG TYPE="OTRO_NUMERO_IDENTIF">ileon</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">ciego</TAG> o <TAG TYPE="OTRO_NUMERO_IDENTIF">colon ascendente</TAG>. Para descartar un posible sangrado en dichas localizaciones se decidió realizar esa misma tarde una <TAG TYPE="FECHAS">colonoscopia</TAG> en la que se observaron restos hemáticos por todo el trayecto explorado hasta 15 cm de <TAG TYPE="OTRO_NUMERO_IDENTIF">ileon</TAG>, sin encontrar un claro punto de sangrado.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">David</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ruiz-Clavijo García</TAG>. <TAG TYPE="PROFESION">Servicio de Aparato Digestivo</TAG>. <TAG TYPE="INSTITUCION">Complejo Hospitalario de Navarra</TAG> <TAG TYPE="CALLE">Irunlarrea, 4</TAG> <TAG TYPE="TERRITORIO">31008</TAG> <TAG TYPE="TERRITORIO">Pamplona</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">Bregapeche@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sofia</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Armada Navalón</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1526104</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Gutenberg, 11, 3 C</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Estella</TAG>.
+    CP: <TAG TYPE="TERRITORIO">31250</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">20/10/2013</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/11/2017</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Gil Sáenz</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">31 31 25060</TAG>.
+    Informe clínico del paciente: niña de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> que consultó por un exantema eritrósico y doloroso en región cervical de 12 horas de evolución. La paciente tenía malestar general, no presentaba fiebre, síntomas respiratorios ni otros síntomas añadidos. Había sido valorada hacía 6 horas como un posible prúrigo, habiendo iniciado tratamiento con corticoide y antihistamínico por vía sistémica. A la exploración física presentaba eritema cutáneo en cuello, axilas, tórax y nalgas, con áreas de despegamiento cutáneo en zona axilar y cervical y alguna lesión costrosa amarillenta en región cervical. También mostraba eritema e inflamación palpebral y conjuntival, siendo el resto de la exploración física normal. Las constantes de frecuencia cardiaca, respiratoria y presión arterial fueron normales. Se realizó analítica de sangre que mostraba leucocitosis (12.300 leucocitos/µL, fórmula normal) sin elevación de reactantes de fase aguda.
+    Con diagnóstico presuntivo de SPEE ingresó e inició tratamiento con cloxacilina i.v, mupirocina tópica, antihistamínico i.v, fluidoterapia i.v, y analgesia. La evolución fue inicialmente desfavorable, con generalización de las lesiones y extensión de la eritrodermia. Al tercer día se asocia empíricamente al tratamiento clindamicina i.v, constatando a las 24 horas una evolución muy favorable de las lesiones. Posteriormente el hemocultivo fue informado como negativo y el cultivo de frotis cutáneo y nasal fue positivo para S. aureus (resistente a penicilina, sensible a cloxacilina, amoxicilna-clavulánico y clindamicina). Tras seis días de ingreso con tratamiento parenteral se decide alta para continuar el tratamiento antibiótico de manera ambulatoria.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. </TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco José Gil Sáenz</TAG> <TAG TYPE="HOSPITAL">Hospital García Orcoyen</TAG> <TAG TYPE="CENTRO_SALUD">Servicio de Pediatría</TAG> <TAG TYPE="CALLE">C/Santa Soria 22</TAG> <TAG TYPE="TERRITORIO">31200</TAG> <TAG TYPE="TERRITORIO">Estella</TAG> (<TAG TYPE="PAIS">España</TAG>). E-mail: <TAG TYPE="CORREO_ELECTRONICO">fj.gil.saenz@cfnavarra.es</TAG>
+  </TEXT>
+</MEDDOCAN>

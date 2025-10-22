@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gema</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Castro Ruiz</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">52899090X</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">16/02/1990</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de San Millán 4, 8A</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcázar de San Juan</TAG>, <TAG TYPE="TERRITORIO">Valladolid</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">47224</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">gema464@protonmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 983 19 91 80</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 783 03 86 21</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8260300</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">929191855912</TAG>.
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Operador de Maquinaria Agrícola</TAG>.
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Concepción</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Soto Merino</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">809841125</TAG>. <TAG TYPE="PROFESION">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/11/2012</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">00243015</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital General Universitario Reina Sofía</TAG>.
+    Informe clínico del paciente:
+    Paciente consumidor de alcohol de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22 años</TAG> de edad, con antecedentes de episodios de intoxicación alcohólica en el pasado. Se presenta con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">depresión</TAG>, con dificultades para conciliar el sueño y una tendencia a la automedicación con alcohol.
+    La exploración física revela: <TAG TYPE="FECHAS">Tª 36,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 90 lpm</TAG>. Se encuentra consciente, orientado, pero con evidentes signos de abstinencia alcohólica, incluyendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sudoración</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tremblores</TAG>. No se detectan signos de infección o lesiones.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="FECHAS">Hemograma: Hb 14,5 g/dl</TAG>; <TAG TYPE="FECHAS">leucocitos 8.500/mm3 (neutrófilos 60%)</TAG>; <TAG TYPE="FECHAS">plaquetas 250.000/mm3</TAG>. <TAG TYPE="FECHAS">VSG: 15 mm 1ª hora</TAG>. <TAG TYPE="FECHAS">Coagulación: TQ 95%</TAG>; <TAG TYPE="FECHAS">TTPA 25,5 seg</TAG>. <TAG TYPE="FECHAS">Bioquímica: Glucosa 90 mg/dl</TAG>; <TAG TYPE="FECHAS">urea 20 mg/dl</TAG>; <TAG TYPE="FECHAS">creatinina 1,0 mg/dl</TAG>; <TAG TYPE="FECHAS">sodio 140 mEq/l</TAG>; <TAG TYPE="FECHAS">potasio 3,8 mEq/l</TAG>; <TAG TYPE="FECHAS">GOT 15 U/l</TAG>; <TAG TYPE="FECHAS">GPT 20 U/l</TAG>; <TAG TYPE="FECHAS">GGT 30 U/l</TAG>; <TAG TYPE="FECHAS">fosfatasa alcalina 120 U/l</TAG>; <TAG TYPE="FECHAS">calcio 8,5 mg/dl</TAG>. <TAG TYPE="FECHAS">Orina: sedimento normal</TAG>.
+    Se solicitan pruebas de imagen (<TAG TYPE="FECHAS">Ecografía hepática</TAG> y <TAG TYPE="FECHAS">Ecografía renal</TAG>) y se instaura un tratamiento de abstinencia alcohólica, incluyendo medicación para la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">depresión</TAG>. El paciente muestra una respuesta favorable al tratamiento y se le prescribe una terapia de rehabilitación para abordar sus problemas de consumo de alcohol.
+    Evolución y comentarios:
+    El paciente ha estado bajo seguimiento durante <TAG TYPE="FECHAS">6 meses</TAG> y ha logrado mantenerse libre de consumo de alcohol. Ha participado activamente en la terapia de rehabilitación y ha mostrado una mejora significativa en su calidad de vida.
+    Remitido por:
+    Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Concepción</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Soto Merino</TAG>, <TAG TYPE="PROFESION">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

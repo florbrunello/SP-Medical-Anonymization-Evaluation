@@ -1,0 +1,31 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 32	Emilio Cruz Márquez
+T2	IDENTIF_VEHICULOS_NRSERIE_PLACAS 71 88	70987230F
+T3	FECHAS 124 134	30/04/1954
+T4	SEXO_SUJETO_ASISTENCIA 148 149	Hombre
+T5	CALLE 163 181	Calle de Lope de Vega 100, 4A
+T6	TERRITORIO 195 207	Ermua, Ibiza, Islas Baleares
+T7	TERRITORIO 219 225	07893
+T8	CORREO_ELECTRONICO 248 272	emilio-cruz_marquez1861@outlook.com
+T9	NUMERO_TELEFONO 293 312	+34 971 46 60 30
+T10	NUMERO_TELEFONO 323 346	+34 771 27 73 95
+T11	ID_SUJETO_ASISTENCIA 361 369	8045983
+T12	ID_SUJETO_ASISTENCIA 373 381	660160835764
+T13	CONDICION_RIESGO 404 420	Paciente con antecedentes de enfermedades hepáticas
+T14	NOMBRE_PERSONAL_SANITARIO 444 469	Dr. Pedro José Muñoz López
+T15	ID_TITULACION_PERSONAL_SANITARIO 490 501	854017271
+T16	PROFESION 513 522	Gastroenterólogo Especialista en Enfermedades Hepáticas
+T17	INSTITUCION 534 554	Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)
+T18	CALLE 567 585	Avenida Monforte de Lemos 3-5
+T19	TERRITORIO 608 614	28029
+T20	PAIS 617 623	España
+T21	FECHAS 637 647	18/12/2023
+T22	ID_CONTACTO_ASISTENCIAL 661 668	70862538
+T23	HOSPITAL 671 701	Centro de Salud Málaga Norte
+T24	INFORME_CLINICO 714 744	El paciente fue evaluado en el Servicio de Gastroenterología con una historia de episodios recurrentes de ictericia y dolor abdominal.
+T25	EXAMEN_FISICO 778 794	El examen físico reveló hepatomegalia y una exploración abdominal mostró un hígado de 18 cm de diámetro.
+T26	ANALISIS_SANGRE 819 845	Los análisis de sangre mostraron un aumento de la bilirrubina total y directa, así como un aumento de la enzima alanina aminotransferasa (ALT).
+T27	ESTUDIOS_IMAGEN 880 906	Se realizaron estudios de imagen que mostraron un hígado cirrótico con un nódulo hepático de 5 cm de diámetro.
+T28	BIOPSIJA_HEPATICA 949 975	Se solicitó una biopsia hepática que mostró una cirrosis hepática con metaplasia de células falciformes.
+T29	DIAGNOSTICO 1007 1032	El paciente fue diagnosticado con cirrosis hepática en estadio avanzado y se le indicó tratamiento con un inhibidor de la enzima convertidora de angiotensina (ECA) y un medicamento para reducir la presión portal.
+T30	EVOLUCION 1075 1103	El paciente ha estado bien durante el período de seguimiento y no ha presentado síntomas de complicaciones hepáticas.
+T31	REMITIDO_POR 1125 1145	El paciente fue remitido por su médico de cabecera con una solicitud de evaluación y tratamiento para la cirrosis hepática.

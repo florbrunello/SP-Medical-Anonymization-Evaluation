@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Antonio Fuentes Aguilera
+DNI: 66735688S
+Fecha de nacimiento: 03/12/2001
+Género: Varón
+Domicilio: Calle de la Cabeza del Rey Don Pedro 64, 9S
+Ciudad: Vilanova i la Geltrú, Sevilla, Andalucía
+Código postal: 41737
+Email: aguilera@yahoo.com
+Teléfono fijo: +34 954 93 19 04
+Teléfono móvil: +34 754 44 66 80
+NHC: 3613379
+NASS: 101135111153
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. Rafael Merino Rico. NC 697622836. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/12/2009
+Episodio: 67624947
+Centro de salud: Centro de Salud Barajas
+
+Informe clínico del paciente:
+Paciente exfumador de 8 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="52" text="Fuentes Aguilera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="66735688S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="03/12/2001" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="113" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="168" text="Calle de la Cabeza del Rey Don Pedro 64, 9S" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="177" end="197" text="Vilanova i la Geltrú" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="199" end="206" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="208" end="217" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="233" end="238" text="41737" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="246" end="264" text="aguilera@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="280" end="296" text="+34 954 93 19 04" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="313" end="329" text="+34 754 44 66 80" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="335" end="342" text="3613379" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="349" end="361" text="101135111153" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="383" end="408" text="Trabajador de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="443" end="461" text="Rafael Merino Rico" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="466" end="475" text="697622836" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="477" end="524" text="Investigador Clínico en Enfermedades Digestivas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="526" end="619" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="621" end="650" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="652" end="657" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="659" end="665" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="667" end="673" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="693" end="703" text="03/12/2009" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="714" end="722" text="67624947" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="740" end="763" text="Centro de Salud Barajas" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="804" end="813" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="817" end="823" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="850" end="857" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

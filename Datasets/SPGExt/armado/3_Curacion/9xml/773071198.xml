@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rodrigo Sánchez Lara</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">38078110T</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/01/1957</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Princesa 51</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">San Vicente del Raspeig</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">17836</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">rodrigosanchez_lara@outlook.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 59 22 61</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 972 21 77 42</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6663927</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Pau Casas Camacho</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 729546513</TAG>. <TAG TYPE="PROFESION">Endocrinólogo Especialista en Diabetes</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/01/2024</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">00083271</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Valdemoro</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">4113FRO</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Mercedes-Benz C-Class</TAG>
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSK0V45J0AT903391</TAG>
+    Informe clínico del paciente:
+    El paciente, un hombre de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">66 años</TAG>, fumador empedernido, fue ingresado en el <TAG TYPE="CENTRO_SALUD">Centro de Salud Valdemoro</TAG> con una serie de síntomas que incluyen dolores en la región lumbar, dificultad para caminar y una sensación de fatiga generalizada. El paciente ha sido fumador durante más de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> y tiene una historia de <TAG TYPE="OTRO_NUMERO_IDENTIF">hipertensión</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">diabetes mellitus tipo 2</TAG>.
+    La exploración física revela un paciente con una temperatura corporal normal, pero con una presión arterial elevada (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">160/90 mmHg</TAG>) y un índice de masa corporal (IMC) de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30</TAG>, lo que indica obesidad. El paciente también presenta una serie de signos y síntomas que sugieren una posible enfermedad cardiovascular, incluyendo un ruido cardíaco anormal y una disminución de la fuerza muscular en las extremidades inferiores.
+    Los resultados de las pruebas de laboratorio muestran un aumento de la glucemia en ayunas (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">180 mg/dl</TAG>) y un nivel de colesterol elevado (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">240 mg/dl</TAG>). El paciente también tiene un nivel de triglicéridos elevado (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">200 mg/dl</TAG>) y un nivel de HDL (colesterol bueno) bajo (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">30 mg/dl</TAG>).
+    Con base en estos resultados, se considera que el paciente padece una enfermedad cardiovascular en etapa avanzada, con una alta probabilidad de desarrollar una enfermedad cardiovascular aguda en el futuro. Se recomienda que el paciente realice una serie de cambios en su estilo de vida, incluyendo la reducción del consumo de tabaco, la adopción de una dieta saludable y la realización de ejercicio físico regular.
+    Se propone una serie de tratamientos para el paciente, incluyendo la administración de medicamentos para controlar la hipertensión y la diabetes, así como la realización de pruebas de imagen para evaluar la presencia de enfermedad cardiovascular subyacente. Se considera que el paciente requiere una atención médica continuada para controlar su enfermedad y prevenir complicaciones en el futuro.
+  </TEXT>
+</MEDDOCAN>

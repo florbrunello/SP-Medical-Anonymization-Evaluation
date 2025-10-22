@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan Pablo</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jaramillo Pascal</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">78623791/784</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Carrera 43A calle 9</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Medellin, Antioquia</TAG>.
+    CP: <TAG TYPE="TERRITORIO">06411</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/02/1976</TAG>.
+    País: <TAG TYPE="PAIS">Colombia</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">42 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">05/05/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Isabel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Castañeda Olano</TAG>.
+    Informe clínico del paciente: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">42 años</TAG> remitido al Instituto Colombiano del Dolor (INCODOL) con 11 meses de dolor neuropático calificado en la escala visual análoga (EVA) <TAG TYPE="OTRO_NUMERO_IDENTIF">10/10</TAG> y alodinia en la ingle izquierda, posterior a una herniorrafia inguinal ipsilateral, irradiación al testículo y muslo, manejado con acetaminofén. Se inicia tratamiento farmacológico escalonado y multimodal con antiepilépticos, opioides, parches de lidocaína, antidepresivos tricíclicos y duales, en dosis y esquemas adecuados, sin mejoría de al menos un 50 % a los dos meses de seguimiento, decidiéndose realizar un bloqueo guiado por ecografía de los nervios ilioinguinal, iliohipogástrico y genitofemoral izquierdos con anestésico local asociado a esteroide. Cuatro meses después califica el dolor <TAG TYPE="OTRO_NUMERO_IDENTIF">8/10</TAG>, con agudización al movimiento, hipersensibilidad en región inguinoescrotal izquierda, reflejo cremastérico positivo, percusión sobre espina iliaca anterosuperior negativa, practicándose un nuevo bloqueo, con el cual el paciente refiere una mejoría mayor al 50 %. Ante esta evolución se decide realizar una radiofrecuencia pulsada con cánula con punta activa de <TAG TYPE="OTRO_NUMERO_IDENTIF">10 mm</TAG> en los nervio ilioinguinal, iliohipogástrico y genitofemoral izquierdos, previa prueba sensitiva a <TAG TYPE="OTRO_NUMERO_IDENTIF">0,2 mV</TAG> positiva, con los siguientes parámetros: <TAG TYPE="OTRO_NUMERO_IDENTIF">2 Hz</TAG>, fase activa de <TAG TYPE="OTRO_NUMERO_IDENTIF">20 milisegundos</TAG>, control de temperatura <TAG TYPE="OTRO_NUMERO_IDENTIF"><42oC</TAG>>, durante <TAG TYPE="OTRO_NUMERO_IDENTIF">10 minutos</TAG>, aplicándose además anestésico local y esteroide en cada nervio. A la semana califica el dolor <TAG TYPE="OTRO_NUMERO_IDENTIF">2/10</TAG>; al mes es calificado con <TAG TYPE="OTRO_NUMERO_IDENTIF">1/10</TAG>, sin efectos adversos, reintegrándose a su actividad laboral y familiar. 
+    Mejoría sostenida en los controles a los <TAG TYPE="OTRO_NUMERO_IDENTIF">6</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">9</TAG> meses (EVA <TAG TYPE="OTRO_NUMERO_IDENTIF">2-3/10</TAG>).
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Isabel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Castañeda Olano</TAG>. <TAG TYPE="PROFESION">Anestesiología, Dolor y Cuidados Paliativos</TAG> <TAG TYPE="INSTITUCION">Instituto Colombiano del Dolor</TAG> <TAG TYPE="TERRITORIO">Medellín, Colombia</TAG> e-mail: <TAG TYPE="CORREO_ELECTRONICO">maisacast@gmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

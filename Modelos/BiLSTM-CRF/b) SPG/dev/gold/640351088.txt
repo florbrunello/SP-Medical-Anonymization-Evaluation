@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Adolfo Delgado Gil
+DNI: 61426169T
+Fecha de nacimiento: 23/07/2015
+Género: Masculino
+Domicilio: Calle del Fúcar 29
+Ciudad: Plasencia, Salamanca, Castilla y León
+Código postal: 37760
+Email: delgado@isciii.es
+Teléfono fijo: +34 923 58 39 28
+Teléfono móvil: +34 723 78 83 34
+NHC: 0127020
+NASS: 383322212349
+
+Datos asistenciales.
+Médico: Dr. Eric Villanueva Silva. NC 406969874. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/01/2023
+Episodio: 33338772
+Hospital: Hospital Universitario Reina Sofía de Córdoba
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 7 años de edad, acompañado de su abuela. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.102.131, con dirección MAC F9:5B:6B:95:2A:3F. El servidor para envío de información desde cual el usuario se comunica es smtp://example-hospital.org. 

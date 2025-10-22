@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Izan Blazquez Iglesias
+DNI: 98239436L
+Fecha de nacimiento: 01/04/1946
+Género: V
+Domicilio: Calle de San Bernardo 26
+Ciudad: Vilanova i la Geltrú, Menorca, Islas Baleares
+Código postal: 07120
+Email: izanblazquez.iglesias@udc.es
+Teléfono fijo: +34 971 52 42 87
+Teléfono móvil: +34 771 76 00 03
+NHC: 9289479
+NASS: 029449249741
+Condición de riesgo: Trabajador de Línea de Producción
+
+Datos asistenciales.
+Médico: Dra. Fátima Heredia Montes. NC 488530099. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 31/12/1948
+Hospital: Hospital Universitario de Cabueñes
+Matrícula del coche: 9908EGP
+Modelo: Ram 1500
+VIN: VSW58407PGV209796
+
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 2 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Izan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="50" text="Blazquez Iglesias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="98239436L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="01/04/1946" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="143" text="Calle de San Bernardo 26" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="172" text="Vilanova i la Geltrú" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="174" end="181" text="Menorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="183" end="197" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="07120" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="254" text="izanblazquez.iglesias@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="270" end="286" text="+34 971 52 42 87" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="303" end="319" text="+34 771 76 00 03" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="325" end="332" text="9289479" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="339" end="351" text="029449249741" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="373" end="406" text="Trabajador de Línea de Producción" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="662" end="672" text="31/12/1948" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="683" end="717" text="Hospital Universitario de Cabueñes" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="739" end="746" text="9908EGP" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="769" end="786" text="VSW58407PGV209796" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="830" end="860" text="ascendencia africana del norte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="864" end="870" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="897" end="902" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

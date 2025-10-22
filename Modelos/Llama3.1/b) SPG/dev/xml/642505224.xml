@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Manuel Jesús</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Escudero Rivero</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">16970780T</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/03/2020</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Fúcar 48</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Jaén</TAG>, <TAG TYPE="TERRITORIO">Vizcaya</TAG>, <TAG TYPE="TERRITORIO">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">48592</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">escudero.rivero@ub.edu</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 946 56 32 36</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 946 46 47 68</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1960195</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Técnico de Radiología</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Leo Sáez Robles</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">655312885</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/03/2021</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">13492216</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuengirola</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2777DIJ</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Mercedes-Benz C-Class</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSNT0EOLAAG691753</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tía</TAG>.
+  </TEXT>
+</MEDDOCAN>

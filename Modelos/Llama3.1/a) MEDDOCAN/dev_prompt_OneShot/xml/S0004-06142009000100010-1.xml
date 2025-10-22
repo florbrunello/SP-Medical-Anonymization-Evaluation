@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Valeria</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Casado Vinuesa</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3096502</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Paseo de los Heroes y Martires, 23, 4C</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Zaragoza</TAG>.
+    CP: <TAG TYPE="TERRITORIO">50468</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/01/2009</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">15/06/2018</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Pediatria</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jorge</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Subirá Ríos</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">50 50 97563</TAG>.
+    Historia Actual: Niña de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> de edad ingresa en el servicio de pediatría procedente de urgencias por segundo episodio de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematuria macroscópica</TAG> en 20 días.
+    No presenta antecedentes familiares de interés, antecedentes personales de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hemihipertrofia facial</TAG> por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tortícolis congénito</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">varicela</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">mononucleosis infecciosa</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enúresis nocturna</TAG> hasta los 7 años, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">neumonía</TAG> a los 9 meses y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">traumatismo en cóccix</TAG>.
+    Exploración física: Exploración física: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ligera palidez cutánea</TAG>, peso dentro de percentil 25-50 y talla percentil 50-75. Sin más hallazgos.
+    Pruebas complementarias: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hemograma</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bioquímica</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">coagulación</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urocultivo</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">función renal</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enolasa</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alfa feto proteína</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">radiografía de tórax</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ECG</TAG> normales.
+    Sedimento urinario: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematuria macroscópica</TAG>.
+    Ecografía abdominal: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">masa de 5cm de diámetro</TAG> en riñón izquierdo, compleja con áreas quísticas/necrosis.
+    Evolución y comentarios: El servicio de pediatría realiza interconsulta a nuestro servicio decidiéndose realizar tras hallazgo ecográfico, una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TC abdominal con contraste</TAG> con el hallazgo de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">masa dependiente del riñón izquierdo</TAG>, en cara anterior, de contenido quístico con engrosamientos irregulares endoluminales. Presenta un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tabique grueso e irregular</TAG> de densidad similar a la obtenida en las irregularidades internas descritas. No se observan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">adenomegalias inter-cavoaórticas</TAG> ni periaórticas.
+    La <TAG TYPE="OTROS_SUJETO_ASISTENCIA">masa</TAG> es compatible con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumor de Wilms</TAG> o <TAG TYPE="OTROS_SUJETO_ASISTENCIA">adeno-carcinoma</TAG>.
+    Se decide realización de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nefrectomía izquierda</TAG>: la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">masa</TAG> mide 4.5 cm. de diámetro.
+    La niña está pendiente de una nueva revision, debera pedir cita al telefono de cita previa del servicio de pediatria <TAG TYPE="NUMERO_TELEFONO">901 598 663</TAG>.
+    Diagnóstico Principal: El diagnóstico anatomopatológico es de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nefroma meso-blástico quístico</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">quiste renal multilocular</TAG>).
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Jorge</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Subirá Ríos</TAG>. <TAG TYPE="CALLE">Plaza San Francisco 7, 3D</TAG> <TAG TYPE="TERRITORIO">50006 Zaragoza</TAG>. (<TAG TYPE="PAIS">España</TAG>). <TAG TYPE="CORREO_ELECTRONICO">kokedoc@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

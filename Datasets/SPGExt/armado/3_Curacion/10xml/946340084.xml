@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carlos Tomas Román</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">98521739C</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/03/2021</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Covarrubias 49, 6D</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Lugo, Pontevedra, Galicia</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">36558</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">tomas1328@ioba.med.uva.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 986 93 31 47</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 986 85 39 63</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5226452</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">646861444621</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Técnico de Radiología</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Isabel Delgado Guerra</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 120630542</TAG>. <TAG TYPE="PROFESION">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/08/2023</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">58402657</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Oeste</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6913NLP</TAG>.
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Ford F-150</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSU1U0K217M181218</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/08/2023</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Oeste</TAG>.
+    Informe clínico del paciente:
+    El paciente presenta una temperatura corporal de 37,5°C, con una frecuencia cardíaca de 120 latidos por minuto y una frecuencia respiratoria de 24 respiraciones por minuto. La exploración física revela un estado general de bienestar, con una apariencia normal y sin signos de dolor o malestar. El paciente está acompañado de su abuelo, quien reporta que el paciente ha estado con fiebre durante las últimas 24 horas.
+    La historia clínica del paciente revela que ha estado con una infección respiratoria aguda en la semana anterior, por lo que se le ha recetado un tratamiento antibiótico. El paciente también tiene una historia de alergia a los alimentos, específicamente a los frutos secos.
+    Los análisis de laboratorio realizados en el momento del ingreso muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. VSG: 35 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 140 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+    Se han solicitado pruebas de imagen para evaluar la posible infección respiratoria aguda, incluyendo una radiografía de tórax y una ecografía pulmonar. El resultado de estas pruebas se espera en las próximas horas.
+    El tratamiento recomendado para el paciente incluye un aumento de la dosis de antibióticos y un seguimiento estrecho de la evolución clínica. Se le ha recetado un analgésico para aliviar el dolor y se le ha recomendado una dieta blanda para evitar la irritación gastrointestinal.
+    Se espera que el paciente mejore en las próximas horas y se le pueda dar de alta en las próximas 24 horas. Se le ha explicado a la familia del paciente las posibles complicaciones de la infección respiratoria aguda y se les ha recomendado un seguimiento estrecho en el caso de que se presenten síntomas de gravedad.
+  </TEXT>
+</MEDDOCAN>

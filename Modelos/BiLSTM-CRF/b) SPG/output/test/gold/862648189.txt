@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Santiago Alarcon Bermudez
+DNI: 94886595A
+Fecha de nacimiento: 21/08/1957
+Género: M
+Domicilio: Calle de Segovia 7, 9X
+Ciudad: Béjar, Burgos, Castilla y León
+Código postal: 09872
+Email: santiago_alarcon-bermudez@ub.edu
+Teléfono fijo: +34 947 62 86 78
+FAX: +34 947 55 32 35
+NHC: 5436579
+Condición de riesgo: Electricista
+
+Datos asistenciales.
+Médico: Dra. Ángela Abad Carrillo. NC 708197699. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/01/2022
+Episodio: 60464757
+Hospital: Hospital Universitario Virgen Macarena
+
+Informe clínico del paciente:
+Paciente de tez blanca de 64 años de edad. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es BF429CUL840. 

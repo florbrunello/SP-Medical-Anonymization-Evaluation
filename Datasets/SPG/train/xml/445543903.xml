@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Unai Campos Herrero
+DNI: 60878200Y
+Fecha de nacimiento: 17/02/1926
+Género: H
+Domicilio: Calle de la Primavera 71
+Ciudad: Lleida, Granada, Andalucía
+Código postal: 18079
+Email: herrero1783@ual.es
+Teléfono fijo: +34 958 96 82 84
+Teléfono móvil: +34 758 42 77 06
+NHC: 2440562
+
+Datos asistenciales.
+Médico: Dra. María Dolores Bueno Palacios. NC 656563223. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/04/2021
+Episodio: 39378251
+Hospital: Hospital Universitario de Basurto
+Matrícula del coche: 7562CMR
+Modelo: Tesla Model 3
+VIN: VSUM4ETBKPF075576
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 95 años de edad, acompañado de su hija. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Unai" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="47" text="Campos Herrero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="60878200Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="17/02/1926" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="140" text="Calle de la Primavera 71" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="155" text="Lleida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="164" text="Granada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="175" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="18079" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="222" text="herrero1783@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="238" end="254" text="+34 958 96 82 84" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="271" end="287" text="+34 758 42 77 06" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="293" end="300" text="2440562" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="578" end="588" text="01/04/2021" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="599" end="607" text="39378251" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="618" end="651" text="Hospital Universitario de Basurto" TYPE="HOSPITAL" comment=""/>
+        <ID id="T18" start="673" end="680" text="7562CMR" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="708" end="725" text="VSUM4ETBKPF075576" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="769" end="802" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="806" end="813" text="95 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="840" end="844" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

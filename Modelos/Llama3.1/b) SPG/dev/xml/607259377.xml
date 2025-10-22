@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Blanca</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Martínez</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pacheco</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">79445033C</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">23/08/1973</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Lope de Rueda 43</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Ourense</TAG>, <TAG TYPE="TERRITORIO">Teruel</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">44019</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">martinez@uhu.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 978 44 08 65</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 678 85 73 40</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7635509</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">790094565203</TAG>
+  Condición de riesgo: Vacía
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mikel Santos Menendez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">070103686</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardiólogo de Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">24/02/1990</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">92546992</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Torrecárdenas</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">16 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

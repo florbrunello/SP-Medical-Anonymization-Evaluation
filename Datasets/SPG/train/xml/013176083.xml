@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Emilio Guillen Ibáñez
+DNI: 18244077V
+Fecha de nacimiento: 12/05/2011
+Género: H
+Domicilio: Calle del Nuncio 29
+Ciudad: San Vicente del Raspeig, Cádiz, Andalucía
+Código postal: 11017
+Email: guillen.ibanez1222@udc.es
+Teléfono fijo: +34 956 21 62 18
+Teléfono móvil: +34 656 26 64 81
+NHC: 5742105
+NASS: 849618049548
+Condición de riesgo: Trabajador Industrial
+
+Datos asistenciales.
+Médico: Dr. Rubén Costa Luque. NC 727535719. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 28/06/2019
+Episodio: 84819580
+Centro de salud: Centro de Salud Arganzuela
+
+Informe clínico del paciente:
+Paciente vegetariano de 8 años de edad, acompañado de su hermana. Se realizó un expediente con URL http://example-medical.edu//53382622K. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Emilio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Guillen Ibáñez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="18244077V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="12/05/2011" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="137" text="Calle del Nuncio 29" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="169" text="San Vicente del Raspeig" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="176" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="187" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="11017" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="241" text="guillen.ibanez1222@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 956 21 62 18" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="290" end="306" text="+34 656 26 64 81" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="312" end="319" text="5742105" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="326" end="338" text="849618049548" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="360" end="381" text="Trabajador Industrial" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="416" end="433" text="Rubén Costa Luque" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="438" end="447" text="727535719" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="449" end="486" text="Residente de 4° año en Endocrinología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="488" end="555" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="557" end="584" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="586" end="591" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="593" end="600" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="602" end="608" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="628" end="638" text="28/06/2019" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="649" end="657" text="84819580" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="675" end="701" text="Centro de Salud Arganzuela" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="742" end="753" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="757" end="763" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="790" end="797" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="832" end="854" text="http://example-medical" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

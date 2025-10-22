@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Adam Simon Villanueva
+DNI: 42817526J
+Fecha de nacimiento: 06/11/1992
+Género: M
+Domicilio: Calle de Santa Ana 99
+Ciudad: Torrelodones, Vizcaya, Pais Vasco
+Código postal: 48999
+Email: adamvillanueva278@uhu.es
+Teléfono fijo: +34 946 76 82 09
+Teléfono móvil: +34 646 98 90 78
+NHC: 2523300
+NASS: 022204004785
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dra. Gema Hurtado Merino. NC 871218741. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 17/11/1999
+Episodio: 55960149
+Hospital: Hospital Universitario Severo Ochoa
+Matrícula del coche: 0773CHG
+Modelo: Tesla Model 3
+VIN: VSTD3QYPF9I684069
+
+Informe clínico del paciente:
+Paciente vegano de 7 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Adam" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="49" text="Simon Villanueva" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="42817526J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="06/11/1992" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="139" text="Calle de Santa Ana 99" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="160" text="Torrelodones" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="169" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="181" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="48999" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="234" text="adamvillanueva278@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 946 76 82 09" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 646 98 90 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="2523300" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="022204004785" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="353" end="359" text="Médico" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="608" end="618" text="17/11/1999" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="629" end="637" text="55960149" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="648" end="683" text="Hospital Universitario Severo Ochoa" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="705" end="712" text="0773CHG" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="740" end="757" text="VSTD3QYPF9I684069" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="798" end="804" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="808" end="814" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="841" end="846" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

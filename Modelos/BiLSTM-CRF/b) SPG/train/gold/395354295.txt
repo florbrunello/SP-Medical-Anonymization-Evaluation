@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Samuel Marcos Luna
+DNI: 66360517C
+Fecha de nacimiento: 25/04/1932
+Género: Hombre
+Domicilio: Calle de San Ildefonso 20, 1U
+Ciudad: Totana, Madrid, Madrid
+Código postal: 28410
+Email: marcos-luna1865@ual.es
+Teléfono fijo: +34 919 70 91 83
+Teléfono móvil: +34 719 44 67 30
+NHC: 5095012
+NASS: 828289860919
+Condición de riesgo: Limpiador
+
+Datos asistenciales.
+Médico: Dra. Lorena Espinosa Campos. NC 175710096. Endocrinóloga Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 07/09/1957
+Episodio: 56805838
+Centro de salud: Centro de Salud Fuengirola
+Matrícula del coche: 0381DYQ
+Modelo: Volkswagen Golf
+VIN: VSABTRXTNVJ303431
+
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 25 años de edad, acompañado de su padre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. 

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Javier Mendoza Maldonado</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">87563519N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/07/1950</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Gobernador 3</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Socuéllamos</TAG>, <TAG TYPE="TERRITORIO">Guadalajara</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">19182</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">josejaviermendoza-maldonado@ub.edu</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 949 58 78 84</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 949 00 15 90</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4189699</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">760724186881</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Fabricante</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Purificación</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Benítez Silva</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">809823292</TAG>. <TAG TYPE="PROFESION">Residente de 3° año en Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/07/2022</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">90482733</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Fundación Alcorcón</TAG>
+    Antecedentes:
+    - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente no fumador</TAG>
+    - <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">Acompañado de su abuela</TAG>
+    Evolución y comentarios:
+    - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente en buen estado de salud</TAG>
+    - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">No presenta síntomas ni signos de enfermedad</TAG>
+    Remitido por:
+    - <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Juan Carlos</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García García</TAG>, <TAG TYPE="PROFESION">Médico de Familia</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="SEXO_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años</TAG> de edad, <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">acompañado de su abuela</TAG>. Se le realizó un examen médico completo, y no se detectaron síntomas ni signos de enfermedad. Se le dio un alta médica y se le recomendó seguir con su rutina normal.
+  </TEXT>
+</MEDDOCAN>

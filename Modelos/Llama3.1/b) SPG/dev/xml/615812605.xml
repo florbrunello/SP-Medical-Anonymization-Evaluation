@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Javier</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Núñez Alarcon</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">32897460P</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/04/2008</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Prado 92, 2Q</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">San Sebastián</TAG>, <TAG TYPE="TERRITORIO">Burgos</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">09353</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">alarcon770@isciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 947 12 26 63</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 747 30 77 09</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9255323</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">697406939885</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Policía</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Eric Valero Millan</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">033551388</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neurólogo Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/07/2008</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">65935482</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Oeste</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">exfumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 meses</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">FZ253TPZ757</TAG>.
+  </TEXT>
+</MEDDOCAN>

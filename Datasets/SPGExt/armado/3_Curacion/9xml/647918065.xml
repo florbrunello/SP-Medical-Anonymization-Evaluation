@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ignacio Exposito Crespo</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">72367967P</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">16/09/1985</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Paz 37, 3Y</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Cáceres</TAG>, <TAG TYPE="TERRITORIO">Vizcaya</TAG>, <TAG TYPE="PAIS">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">48912</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ignacio.crespo@ciberisciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 946 89 06 62</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 646 40 86 67</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5794087</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">181896233400</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Minero</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Víctor Padilla Estevez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">811431089</TAG>. Neurólogo Especialista en Alzheimer. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/01/2025</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">01671279</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Cabueñes</TAG>
+    Informe clínico del paciente:
+    Paciente de ascendencia norteamericana de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">39 años</TAG> de edad, acompañado de su vecina, refiere un cuadro de confusión y disorientación desde hace 3 días, con pérdida de memoria reciente y dificultad para realizar tareas cotidianas.
+    La exploración física revela: Tª <TAG TYPE="FECHAS">36,8 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">80 lpm</TAG>. Se encuentra consciente, orientado, pero con signos de agitación y ansiedad.
+    En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos.
+    Auscultación cardíaca rítmica, sin soplos, roces ni extratonos.
+    Auscultación pulmonar con conservación del murmullo vesicular.
+    Abdomen blando, depresible, sin masas ni megalias.
+    En la exploración neurológica se detectan signos de deterioro cognitivo, con dificultad para realizar pruebas de memoria y atención.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">14,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">10.200/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">70%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">90%</TAG>; TTPA <TAG TYPE="FECHAS">20,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">110 mg/dl</TAG>; urea <TAG TYPE="FECHAS">25 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,0 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">140 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,8 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">12 U/l</TAG>; GPT <TAG TYPE="FECHAS">20 U/l</TAG>; GGT <TAG TYPE="FECHAS">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">120 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía cerebral, TAC craneal) que no evidencian patología significativa.
+    Con el diagnóstico de deterioro cognitivo leve, se instaura tratamiento sintomático (reposo, hidratación y medicación antipsicótica) y se realiza seguimiento neurológico y psiquiátrico.
+    Antecedentes:
+    El paciente tiene antecedentes de alcoholismo y consumo de drogas ilegales en el pasado, pero no ha reportado ningún síntoma neurológico previo.
+    Evolución y comentarios:
+    El paciente ha mejorado significativamente con el tratamiento, pero sigue presentando signos de deterioro cognitivo.
+    Se le ha recomendado realizar un seguimiento neurológico y psiquiátrico regular.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Víctor Padilla Estevez</TAG>, <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Neurólogo Especialista en Alzheimer</TAG>, <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>.
+  </TEXT>
+</MEDDOCAN>

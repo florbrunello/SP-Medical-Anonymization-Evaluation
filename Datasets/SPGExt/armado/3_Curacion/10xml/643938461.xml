@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Natalia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Canó</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Suárez</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">61332652R</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/11/1989</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Gran Vía 79</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad autónoma de Ceuta</TAG>, <TAG TYPE="TERRITORIO">Ceuta</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">52575</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">natalia_cano@ciberned.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 85 41 26</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 656 08 54 80</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1630125</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">670505373324</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Fabricante</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cristina</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gracia Fernández</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 627314050</TAG>. <TAG TYPE="PROFESION">Cardióloga</TAG> de <TAG TYPE="CENTRO_SALUD">Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">31/01/2018</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">08882203</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Este</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5317CKK</TAG>.
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Jeep Wrangler</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSGKG2Q7F9H803708</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="SEXO_SUJETO_ASISTENCIA">musulmana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">28 años</TAG> de edad, acompañada de su hermana, que refiere dolor abdominal agudo y vómitos desde la noche anterior. La paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gastritis</TAG> y uso de medicamentos antiácidos. La exploración física revela: Tª <TAG TYPE="FECHAS">37,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. Se encuentra consciente, orientada, con buen estado de nutrición e hidratación. En la exploración abdominal se aprecia dolor en la región epigástrica, sin signos de obstrucción intestinal. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">12,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">12.000/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">70%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">90 mg/dl</TAG>; urea <TAG TYPE="FECHAS">20 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,2 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">4,5 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">30 U/l</TAG>; GPT <TAG TYPE="FECHAS">40 U/l</TAG>; GGT <TAG TYPE="FECHAS">60 U/l</TAG>. Se solicitan pruebas de imagen (<TAG TYPE="FECHAS">Ecografía abdominal</TAG>) y análisis de sangre (<TAG TYPE="FECHAS">Hemograma, bioquímica</TAG>) para evaluar la causa del dolor abdominal y los resultados de los análisis. Se inicia tratamiento sintomático (<TAG TYPE="FECHAS">antitérmicos, antiinflamatorios</TAG>) y se monitoriza la evolución de la paciente.
+    Antecedentes:
+    La paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gastritis</TAG> y uso de medicamentos antiácidos. También tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal agudo</TAG> en el pasado.
+    Evolución y comentarios:
+    La paciente se encuentra estable y se monitoriza su evolución. Se solicitarán pruebas de imagen y análisis de sangre para evaluar la causa del dolor abdominal.
+    Remitido por:
+    Se remite al paciente a la <TAG TYPE="CENTRO_SALUD">Unidad de Cuidados Intensivos</TAG> para seguimiento y tratamiento.
+  </TEXT>
+</MEDDOCAN>

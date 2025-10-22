@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María José Sierra Rico
+DNI: 61466366Q
+Fecha de nacimiento: 05/10/1984
+Género: Mujer
+Domicilio: Calle de Santa Isabel 2
+Ciudad: Plasencia, Segovia, Castilla y León
+Código postal: 40380
+Email: rico@ciberer.es
+Teléfono fijo: +34 921 06 56 51
+Teléfono móvil: +34 621 15 22 40
+NHC: 1084290
+Condición de riesgo: Dentista
+
+Datos asistenciales.
+Médico: Dra. Carmen Campos Padilla. NC 080867009. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 13/09/2014
+Episodio: 28003875
+Centro de salud: Centro de Salud Málaga Oeste
+Matrícula del coche: 5604EEM
+Modelo: Toyota Corolla
+VIN: VSW2CVJADDK575136
+
+Informe clínico del paciente:
+Paciente fumador de 29 años de edad, acompañado de su abuela. Se registró una sesión de huella dactilar, el código obtenido para revisarla es HY130VDY882. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="María José" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="50" text="Sierra Rico" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="61466366Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="05/10/1984" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="146" text="Calle de Santa Isabel 2" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="164" text="Plasencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="173" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="190" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="40380" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="234" text="rico@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 921 06 56 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 621 15 22 40" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="1084290" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="334" end="342" text="Dentista" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="591" end="601" text="13/09/2014" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="612" end="620" text="28003875" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="638" end="666" text="Centro de Salud Málaga Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="688" end="695" text="5604EEM" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="724" end="741" text="VSW2CVJADDK575136" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="782" end="789" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="793" end="800" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="827" end="833" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T24" start="915" end="926" text="HY130VDY882" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

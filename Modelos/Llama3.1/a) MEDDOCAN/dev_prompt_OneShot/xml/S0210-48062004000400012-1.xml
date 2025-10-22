@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Riera Cabrera</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2142411</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">91 94143087 49</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Cuba, 1, 3 B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Málaga</TAG>.
+    CP: <TAG TYPE="TERRITORIO">29013</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/04/1949</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">66 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">20/12/2015</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Medicina Intensiva</TAG>.
+    Episodio: <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">4405819</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dolores</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernández Zamora</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">29 29 27386</TAG>.
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">66 años</TAG> remitido por el Servicio de Gastroenterología ante el hallazgo de masa retroperitoneal de 25 cm, en ecografía abdominal realizada para estudio de dispepsia. Entre sus antecedentes personales destacaban: tuberculosis pulmonar antigua y enfermedad pulmonar obstructiva crónica. 
+    Exploración física: En la inspección física se observaba una gran masa que deformaba hemiabdomen anterior derecho, extendiéndose desde el área subcostal hasta el pubis. A la palpación, dicha masa era indolora, de consistencia firme, sin signos de irritación peritoneal y con matidez a la percusión. Al tacto rectal se palpaba una próstata de tamaño II/V, adenomatosa, lisa y bien delimitada. La analítica sanguínea, el sedimento y el cultivo de orina, eran normales, y la cifra de PSA de 1,2 ng/ml.
+    Pruebas complementarias: La ecografía abdominal mostraba una lesión quística de 25 cm de diámetro, con abundantes ecos internos, que se extendía desde el borde inferior del hígado hasta la ingle.
+    En la urografía i.v. (UIV) se observaba distorsión de la silueta y la pelvis renales derechas, con un importante desplazamiento del segmento lumbo-ilíaco del uréter derecho, que sobrepasaba la línea media abdominal, así como ligera ectasia del tracto urinario superior ipsilateral.
+    El TAC abdomino-pélvico realizado con contraste oral e intravenoso, ponía de manifiesto una masa quística polilobulada retroperitoneal derecha de 25 cm de diámetro cráneo-caudal, que se extendía desde la región subhepática hasta la ingle, comprimiendo y desplazando el riñón derecho, el músculo psoas ilíaco y el colon ascendente, en sentido posterior y medial. Se observaban asimismo calcificaciones puntiformes en la pared quística. En la porción medial e inferior de dicha masa se evidenciaba una estructura tubular de 2 cm de diámetro y 7 cm de longitud, con afilamiento progresivo en sentido caudal, finalizando en stop completo. El riñón derecho se mostraba funcionalmente normal. Los hallazgos del TAC eran interpretados como un posible hemirriñón inferior derecho displásico con agenesia parcial del uréter.
+    Evolución: Ante las dudas diagnósticas existentes con los estudios radiológicos efectuados, se decidía efectuar una punción-biopsia percutánea, que era informada como pared de lesión quística, y citología de orina, que no evidenciaba células malignas.
+    Posteriormente se realizaba intervención quirúrgica mediante abordaje pararrectal derecho, observando una masa quística relacionada en su extremo craneal con el lóbulo hepático derecho y el polo inferior del riñón, y en su extremo caudal con el espacio de Retzius y el orificio inguinal interno. No se observaba infiltración de ningún órgano intra-abdominal. Se efectuó resección cuidadosa de la masa quística y del apéndice cecal, que se hallaba en íntima relación con la porción caudal de la misma.
+    En el estudio anatomopatológico de la pieza se apreciaba un apéndice dilatado, revestido por un epitelio mucinoso citológicamente benigno, que formaba estructuras de tipo papilar. Dichos hallazgos resultaban diagnósticos de cistoadenoma mucinoso de apéndice.
+    El post-operatorio cursaba con normalidad. En la UIV efectuada a los tres meses de la intervención quirúrgica se observaba una buena función renal bilateral, con hipercorrección lateral del trayecto ureteral derecho y desaparición de la distorsión renal derecha.
+    En la revisión efectuada a los 20 meses, el paciente se encuentra asintomático desde el punto de vista urológico, y en el TAC de control no se evidencian lesiones abdominales sugestivas de pseudomixoma peritoneal.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dolores Fernández Zamora</TAG>. <TAG TYPE="PROFESION">Servicio de Medicina Intensiva</TAG>. <TAG TYPE="INSTITUCION">Hospital Regional Carlos Haya</TAG>. <TAG TYPE="CALLE">Avda. Carlos Haya, s/n</TAG>. <TAG TYPE="TERRITORIO">29010 Málaga</TAG>. Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">lolaferza@yahoo.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

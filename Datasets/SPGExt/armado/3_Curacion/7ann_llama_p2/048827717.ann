@@ -1,0 +1,48 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 32	Ignacio
+T2	NOMBRE_SUJETO_ASISTENCIA 45 59	Núñez Rivas
+T3	ID_SUJETO_ASISTENCIA 65 82	40595922W
+T4	FECHAS 104 114	04/02/1973
+T5	SEXO_SUJETO_ASISTENCIA 125 126	Varón
+T6	CALLE 141 155	Calle de Alberto Aguilera 6
+T7	TERRITORIO 163 174	Yecla, Jaén, Andalucía
+T8	TERRITORIO 185 192	23758
+T9	CORREO_ELECTRONICO 205 231	ignacionunez-rivas@uca.es
+T10	NUMERO_TELEFONO 242 253	+34 953 80 48 14
+T11	NUMERO_TELEFONO 265 277	+34 653 86 21 93
+T12	ID_SUJETO_ASISTENCIA 289 306	5926213
+T13	ID_SUJETO_ASISTENCIA 317 334	280743715274
+T14	NOMBRE_PROFESION 349 362	Conserje
+T15	NOMBRE_PERSONAL_SANITARIO 370 394	Dra. Sonia Mendoza Velasco
+T16	ID_TITULACION_PERSONAL_SANITARIO 405 416	NC 106314378
+T17	PROFESION 428 435	Investigadora Clínica en Enfermedades Digestivas
+T18	INSTITUCION 440 457	Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)
+T19	CALLE 469 482	Avenida Monforte de Lemos 3-5
+T20	TERRITORIO 494 499	28029
+T21	PAIS 501 507	España
+T22	FECHAS 516 526	25/09/2008
+T23	HOSPITAL 548 571	Complejo Hospitalario Universitario de A Coruña
+T24	NOMBRE_SUJETO_ASISTENCIA 574 588	Paciente
+T25	EDAD_SUJETO_ASISTENCIA 591 600	35 años
+T26	DESCRIPCION 611 619	ascendencia africana del norte
+T27	DESCRIPCION 630 638	dolor abdominal crónico y pérdida de peso en los últimos 6 meses
+T28	FECHAS 647 657	36,5 C
+T29	NUMERO 670 673	120
+T30	NUMERO 676 679	80
+T31	NUMERO 683 686	mmHg
+T32	NUMERO 690 693	90
+T34	NUMERO 698 701	lpm
+T35	DESCRIPCION 707 715	consciente, orientado, con buen estado de nutrición e hidratación
+T36	DESCRIPCION 726 734	cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular
+T37	DESCRIPCION 745 755	Auscultación cardíaca rítmica, sin soplos, roces ni extratonos
+T38	DESCRIPCION 766 775	Auscultación pulmonar con conservación del murmullo vesicular
+T39	DESCRIPCION 786 796	Abdomen blando, depresible, con dolor en la región epigástrica y ausencia de masas ni megalias
+T40	DESCRIPCION 807 817	En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad
+T41	DESCRIPCION 828 838	Extremidades sin varices ni edemas
+T42	DESCRIPCION 849 859	Pulsos periféricos presentes y simétricos
+T43	NUMERO 870 873	13,5
+T44	NUMERO 878 881	g/dl
+T45	NUMERO 886 889	8.500/mm3
+T46	NUMERO 896 899	neutrófilos 60%
+T47	NUMERO 906 909	180.000/
+T50	NUMERO 918 921	mm3
+T51	NUM

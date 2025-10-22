@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lorena</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Exposito</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Miguel</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">85001109D</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">16/11/1968</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Carmen 99, 7V</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Langreo</TAG>, <TAG TYPE="TERRITORIO">La Rioja</TAG>, <TAG TYPE="TERRITORIO">La Rioja</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">26108</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">lorena-exposito888@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 941 89 32 90</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 741 00 05 42</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2529917</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">251502901432</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Samuel Pereira Escudero</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">266979302</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuropsicólogo Clínico Investigador</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">04/08/1991</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital de Manises</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">firma biométrica</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">QV283BIE469</TAG>.
+  </TEXT>
+</MEDDOCAN>

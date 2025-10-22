@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Antonia Hidalgo Vega
+DNI: 84087005V
+Fecha de nacimiento: 16/10/1983
+Género: Femenino
+Domicilio: Calle de Jesús y María 4, 3R
+Ciudad: Hellín, Zamora, Castilla y León
+Código postal: 49571
+Email: vega@outlook.com
+Teléfono fijo: +34 980 98 56 31
+Teléfono móvil: +34 780 60 23 48
+NHC: 0314534
+NASS: 777404509564
+Condición de riesgo: Limpiador
+
+Datos asistenciales.
+Médico: Dra. Elisa Arias Escobar. NC 415823706. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 07/11/2019
+Episodio: 26481681
+Hospital: Complejo Asistencial Universitario de León
+
+Informe clínico del paciente:
+Paciente de tez blanca de 36 años de edad, acompañado de su marido. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.130.232, con dirección MAC 8B:90:E6:47:61:EB. Se registró una sesión de huella dactilar, el código obtenido para revisarla es JB925YIF257. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Antonia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="54" text="Hidalgo Vega" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="84087005V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="16/10/1983" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="118" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="130" end="158" text="Calle de Jesús y María 4, 3R" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="167" end="173" text="Hellín" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="175" end="181" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="183" end="198" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="214" end="219" text="49571" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="227" end="243" text="vega@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 980 98 56 31" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="292" end="308" text="+34 780 60 23 48" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="314" end="321" text="0314534" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="328" end="340" text="777404509564" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="362" end="371" text="Limpiador" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="632" end="642" text="07/11/2019" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="653" end="661" text="26481681" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="672" end="714" text="Complejo Asistencial Universitario de León" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="758" end="768" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="772" end="779" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="806" end="812" text="marido" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="921" end="938" text="8B:90:E6:47:61:EB" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <ID id="T24" start="1020" end="1031" text="JB925YIF257" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

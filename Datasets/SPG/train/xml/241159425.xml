@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Álex Vila Luque
+DNI: 51126190L
+Fecha de nacimiento: 28/06/1973
+Género: Masculino
+Domicilio: Calle de Fortuny 51
+Ciudad: Toledo, Guadalajara, Castilla-La Mancha
+Código postal: 19139
+Email: vila@h12o.es
+Teléfono fijo: +34 949 64 94 23
+FAX: +34 949 77 01 44
+NHC: 7656047
+NASS: 425532539938
+Condición de riesgo: Conserje
+
+Datos asistenciales.
+Médico: Dr. Pau Parra Aguilera. NC 854149596. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 14/10/2009
+Episodio: 62348275
+Hospital: Hospital Universitario La Paz
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 36 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Álex" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="43" text="Vila Luque" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="49" end="58" text="51126190L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="80" end="90" text="28/06/1973" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="99" end="108" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="139" text="Calle de Fortuny 51" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="154" text="Toledo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="167" text="Guadalajara" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="187" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="19139" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="228" text="vila@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="244" end="260" text="+34 949 64 94 23" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="266" end="282" text="+34 949 77 01 44" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="288" end="295" text="7656047" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="302" end="314" text="425532539938" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="336" end="344" text="Conserje" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="379" end="397" text="Pau Parra Aguilera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="402" end="411" text="854149596" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="413" end="451" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="453" end="520" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="522" end="549" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="551" end="556" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="558" end="565" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="567" end="573" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="593" end="603" text="14/10/2009" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="614" end="622" text="62348275" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="633" end="662" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="706" end="734" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="738" end="745" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

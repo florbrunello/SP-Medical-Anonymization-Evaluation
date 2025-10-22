@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: María Carmen Rojas Román
+DNI: 87893174P
+Fecha de nacimiento: 01/06/1980
+Género: F
+Domicilio: Calle de Fuencarral 40, 2K
+Ciudad: Ponferrada, Lérida, Cataluña
+Código postal: 25145
+Email: rojas@ub.edu
+Teléfono fijo: +34 973 83 02 41
+Teléfono móvil: +34 773 23 86 57
+NHC: 4603987
+NASS: 408387098690
+Condición de riesgo: Inspector de Seguridad Minera
+
+Datos asistenciales.
+Médico: Dr. Omar Ibáñez Andres. NC 067002201. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/03/1999
+Hospital: Hospital Universitario Puerto Real
+
+Informe clínico del paciente:
+Paciente musulman de 18 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.158.124, con dirección MAC 61:A9:64:BE:03:53. 

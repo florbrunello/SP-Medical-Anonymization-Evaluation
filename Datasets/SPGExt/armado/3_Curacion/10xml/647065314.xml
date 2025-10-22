@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Adam Vicente Acosta</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">43005770W</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/03/1976</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Luna 43</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcoy, Almería, Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">04525</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">adam-vicente@ioba.med.uva.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 950 10 11 65</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 650 85 52 79</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2456344</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">693781393877</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Inspector de Seguridad Minera</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. María Carmen Cabrera Soto</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">109107247</TAG>. Psiquiatra Especialista en Trastornos de Ansiedad. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">15/08/2022</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">01633306</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Marqués de Valdecilla</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG> de edad, acompañado de su hermana. Presenta una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad generalizada</TAG> que ha sido difícil de controlar con los tratamientos anteriores. Ha experimentado síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad intensa</TAG>, como <TAG TYPE="OTROS_SUJETO_ASISTENCIA">palpitaciones</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sudoración</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dificultad para respirar</TAG>, durante períodos prolongados. La exploración física revela una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">presión arterial elevada</TAG> y un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ritmo cardíaco acelerado</TAG>. Los análisis de sangre muestran niveles altos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cortisol</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">epinefrina</TAG>. Se ha solicitado una evaluación psicológica y una exploración de la posible relación entre la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">condición de riesgo</TAG> como <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Inspector de Seguridad Minera</TAG>.
+    Antecedentes:
+    El paciente tiene una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad generalizada</TAG> que ha sido difícil de controlar con los tratamientos anteriores. Ha experimentado síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad intensa</TAG>, como <TAG TYPE="OTROS_SUJETO_ASISTENCIA">palpitaciones</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sudoración</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dificultad para respirar</TAG>, durante períodos prolongados.
+    Evolución y comentarios:
+    El paciente ha sido tratado con medicamentos antianxiety y ha recibido terapia de apoyo. Sin embargo, los síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> persisten y se han agravado en los últimos meses. Se ha solicitado una evaluación psicológica y una exploración de la posible relación entre la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">condición de riesgo</TAG> como <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Inspector de Seguridad Minera</TAG>.
+    Remitido por:
+    El paciente ha sido remitido por su médico de cabecera, quien ha notado un empeoramiento de los síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> en los últimos meses. Se ha solicitado una evaluación psicológica y una exploración de la posible relación entre la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">condición de riesgo</TAG> como <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Inspector de Seguridad Minera</TAG>.
+  </TEXT>
+</MEDDOCAN>

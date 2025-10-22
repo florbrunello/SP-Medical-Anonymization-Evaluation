@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Guillermo</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pedroche Roa</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3587642</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">20 24576261 33</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Paseo de San Francisco, 22</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Bilbao</TAG>.
+    CP: <TAG TYPE="TERRITORIO">20340</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/05/1952</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">64 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/12/2016</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Roberto</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Llarena Ibarguren</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">20 20 94583</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">64 años</TAG> que consultó en mayo de 2006 por disestesia facial y ptosis palpebral izquierda y proptosis del globo ocular del mismo lado.
+    Antecedentes personales de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> en tratamiento médico, intervenido de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ulcus duodenal</TAG> 20 años antes, y de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">poliposis laríngea</TAG> en dos ocasiones en 1993 y 1994.
+    Diagnosticado de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">adenocarcinoma prostático</TAG> mediante biopsia ecodirigida en septiembre de 2005, con <TAG TYPE="OTRO_NUMERO_IDENTIF">PSA</TAG> de 794, <TAG TYPE="OTRO_NUMERO_IDENTIF">fosfatasas alcalinas</TAG> de 870, y con <TAG TYPE="OTRO_NUMERO_IDENTIF">rastreo óseo</TAG> que evidenció múltiples metástasis óseas. En esa época se instauró tratamiento mediante <TAG TYPE="OTRO_NUMERO_IDENTIF">análogos de lh-rh</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">flutamida</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">ácido zoledrómico</TAG> 4 mg cada 21 días durante 6 meses. El nadir de <TAG TYPE="OTRO_NUMERO_IDENTIF">PSA</TAG> se alcanzó en enero de 2006 con cifras de 36-17 ng/ml.
+    Días antes del ingreso refería adormecimiento facial derecho desde el pómulo hasta el labio superior, y simultáneamente ptosis palpebral izquierda junto a protrusión ocular. No aquejaba <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diplopía</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor facial</TAG> ni ocular.
+    En la exploración física Guillermo estaba consciente, orientado y colaborador, presentando ptosis palpebral izquierda con salida del ojo del mismo lado, sin soplo aparente, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">paresia del III y VI pares</TAG> izquierdos. Asimismo presentaba alteraciones en la sensibilidad de la mitad derecha de la cara, siendo el resto de la exploración neurológica motora y sensitiva normal.
+    Dentro de las pruebas complementarias, en sangre destacaba <TAG TYPE="OTRO_NUMERO_IDENTIF">GGT</TAG> de 86, <TAG TYPE="OTRO_NUMERO_IDENTIF">fosfatasa alcalina</TAG> de 1145, y un <TAG TYPE="OTRO_NUMERO_IDENTIF">PSA</TAG> de 121-02.
+    Se realizó <TAG TYPE="PROFESION">RMN cerebral</TAG> y <TAG TYPE="PROFESION">angio RMN</TAG> que demostraron lesiones isquémicas supratentoriales y masa orbitaria de localización extraconal pegada a techo orbitario izquierdo que desplaza y engloba caudalmente el músculo recto superior, a la vez que existe una ocupación del seno frontal izquierdo por una masa de iguales características a la descrita. El reborde orbitario superior permanece íntegro sin aparentes datos de infiltración. La obliteración de la grasa de la grasa extraconal superior condiciona desplazamiento inferior y proptosis ocular. Asimismo existe una masa expansiva localizada en seno maxilar derecho que rompe la pared lateral extendiéndose hacia partes blandas, provocando interrupción del suelo de la órbita derecha e invasión del espacio extraconal inferior, desplazando sin invadirlo, el músculo recto inferior. Los senos cavernosos se encontraban libres.
+    En la <TAG TYPE="PROFESION">tomografía axial computerizada toraco-abdomino-pélvica</TAG> se diagnosticó de patrón óseo con infiltración blástico-lítica vertebral, sin alteraciones viscerales.
+    Se diagnosticó de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">metástasis de adenocarcinoma prostático</TAG> en seno maxilar derecho y seno frontal izquierdo, con afectación orbitaria extraconal inferior derecha y superior izquierda.
+    Se desechó la <TAG TYPE="PROFESION">radioterapia local</TAG> por el riesgo de ceguera. Como tratamiento se retiró la <TAG TYPE="OTRO_NUMERO_IDENTIF">flutamida</TAG>, manteniéndose el <TAG TYPE="OTRO_NUMERO_IDENTIF">análogo de lh-rh</TAG>. En junio de 2006 se inicia tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">docetaxel</TAG> 70 mg/m2 cada 21 días, junto con <TAG TYPE="OTRO_NUMERO_IDENTIF">prednisona</TAG> 10 mg día. Se completaron 6 ciclos hasta finales de septiembre de 2006.
+    Se alcanza un nadir de <TAG TYPE="OTRO_NUMERO_IDENTIF">PSA</TAG> en julio de 2006 con cifras de 6-8 ng/ml, tras las dos primeras administraciones de <TAG TYPE="OTRO_NUMERO_IDENTIF">docetaxel</TAG>. El paciente refiere disminución de la proptosis ocular izquierda. Se completan 6 ciclos, con excelente tolerancia. En octubre de 2006 el <TAG TYPE="OTRO_NUMERO_IDENTIF">PSA</TAG> es de 149 ng/ml, no habiendo variado las imágenes en <TAG TYPE="PROFESION">RMN</TAG>. Recientemente en enero de 2007 se reinicia de nuevo tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">docetaxel</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">prednisona</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Roberto</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Llarena Ibarguren</TAG> <TAG TYPE="CALLE">Apartado de Correos 20134</TAG> <TAG TYPE="TERRITORIO">48080</TAG> <TAG TYPE="TERRITORIO">Bilbao</TAG>. (<TAG TYPE="PAIS">España</TAG>) <TAG TYPE="CORREO_ELECTRONICO">rllarena@eusklanet.net</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Iván Del Rio Nieto
+DNI: 37849396K
+Fecha de nacimiento: 21/02/1936
+Género: Varón
+Domicilio: Calle de Preciados 98, 3O
+Ciudad: Avilés, Sevilla, Andalucía
+Código postal: 41513
+Email: delrio@ciberer.es
+Teléfono fijo: +34 954 54 08 94
+Teléfono móvil: +34 654 97 09 53
+NHC: 8121932
+NASS: 313901742858
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dra. Isabel Gracia Ramos. NC 560192406. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/06/1988
+Hospital: Hospital Universitario Virgen Macarena
+Matrícula del coche: 6413KRW
+Modelo: Chevrolet Silverado
+VIN: VSRHHFXXRLN213965
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 52 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Iván Del" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="46" text="Rio Nieto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="37849396K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="21/02/1936" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="107" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="144" text="Calle de Preciados 98, 3O" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="159" text="Avilés" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="168" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="179" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="41513" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="225" text="delrio@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 954 54 08 94" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 654 97 09 53" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="296" end="303" text="8121932" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="310" end="322" text="313901742858" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="344" end="375" text="Operador de Maquinaria Agrícola" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="646" end="656" text="03/06/1988" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="667" end="705" text="Hospital Universitario Virgen Macarena" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="727" end="734" text="6413KRW" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="768" end="785" text="VSRHHFXXRLN213965" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="829" end="853" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="857" end="864" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

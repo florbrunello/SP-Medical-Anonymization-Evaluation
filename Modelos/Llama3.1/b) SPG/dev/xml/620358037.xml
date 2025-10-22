@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mohamed</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Paredes Galvez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">54202936D</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/04/1946</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de San Bernardo 20</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Badajoz</TAG>, <TAG TYPE="TERRITORIO">Ibiza</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07272</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mohamed_paredes.galvez@ciberned.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 84 85 96</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 971 45 74 79</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9041511</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">825838296733</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Diana Herrera Segura</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">147929893</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/10/1967</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">12974325</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital General Universitario Reina Sofía</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia indígena sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">21 años</TAG> de edad. Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">http://example-medical.edu//84321044D</TAG>. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">EA625JQW289</TAG>.
+  </TEXT>
+</MEDDOCAN>

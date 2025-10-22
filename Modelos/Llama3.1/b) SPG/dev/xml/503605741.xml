@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rebeca</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Fuentes Alarcon</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">26291502H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/08/1954</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Virgen de los Peligros 63, 7F</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Lugo</TAG>, <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">34961</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">rebeca.fuentes.alarcon@uhu.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 11 40 19</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 679 05 63 54</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2549979</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Dentista</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juana Rico Mendoza</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">933041227</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">15/02/2011</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">57179132</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud San Blas</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">8555VSS</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">BMW 3 Series</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSNGLNYJ0PW722292</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia árabe</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">56 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">sobrina</TAG>.
+  </TEXT>
+</MEDDOCAN>

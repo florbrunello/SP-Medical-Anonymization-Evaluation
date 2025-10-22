@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Miriam Vicente Moya
+DNI: 55803739N
+Fecha de nacimiento: 26/07/1981
+Género: F
+Domicilio: Calle de San Bernardo 95
+Ciudad: Talavera de la Reina, Guipúzcoa, Pais Vasco
+Código postal: 20608
+Email: miriam_moya@aol.com
+Teléfono fijo: +34 943 62 21 90
+Teléfono móvil: +34 643 42 25 82
+NHC: 7065964
+NASS: 406627022260
+
+Datos asistenciales.
+Médico: Dra. Gema Rueda Morales. NC 283965104. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 23/02/1998
+Episodio: 73319279
+Hospital: Complejo Hospitalario Torrecárdenas
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 16 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.92.64, con dirección MAC 78:C5:82:E6:B7:FA. Se realizó un expediente con URL http://example-therapy.org//79390181D. Se registró una sesión de firma biométrica, el código obtenido para revisarla es XD259XXI389. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Miriam" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Vicente Moya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="55803739N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="26/07/1981" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="140" text="Calle de San Bernardo 95" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="169" text="Talavera de la Reina" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="180" text="Guipúzcoa" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="182" end="192" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="208" end="213" text="20608" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="221" end="240" text="miriam_moya@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 943 62 21 90" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="289" end="305" text="+34 643 42 25 82" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="311" end="318" text="7065964" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="325" end="337" text="406627022260" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="585" end="595" text="23/02/1998" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="606" end="614" text="73319279" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="625" end="660" text="Complejo Hospitalario Torrecárdenas" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="704" end="737" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="741" end="748" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="863" end="880" text="78:C5:82:E6:B7:FA" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <OTHER id="T22" start="915" end="937" text="http://example-therapy" TYPE="URL_WEB" comment=""/>
+        <ID id="T23" start="1035" end="1046" text="XD259XXI389" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

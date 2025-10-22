@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ángeles Cuesta Guerra
+DNI: 85028449W
+Fecha de nacimiento: 19/10/1978
+Género: Mujer
+Domicilio: Calle de Moratín 94, 8W
+Ciudad: Santa Cruz de Tenerife, Zamora, Castilla y León
+Código postal: 49559
+Email: angeles1014@ciberer.es
+Teléfono fijo: +34 980 42 82 02
+Teléfono móvil: +34 680 91 76 82
+NHC: 7054958
+Condición de riesgo: Pintor de Construcción
+
+Datos asistenciales.
+Médico: Dra. Manuela Avila Ortiz. NC 407461152. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 03/09/1986
+Hospital: Hospital General Universitario Morales Meseguer
+
+Informe clínico del paciente:
+Paciente de tez blanca de 7 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Ángeles" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="49" text="Cuesta Guerra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="85028449W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="19/10/1978" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="110" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="145" text="Calle de Moratín 94, 8W" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="176" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="178" end="184" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="186" end="201" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="217" end="222" text="49559" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="230" end="252" text="angeles1014@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="268" end="284" text="+34 980 42 82 02" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="301" end="317" text="+34 680 91 76 82" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="323" end="330" text="7054958" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="352" end="374" text="Pintor de Construcción" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="613" end="623" text="03/09/1986" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="634" end="681" text="Hospital General Universitario Morales Meseguer" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="725" end="735" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="739" end="745" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="772" end="777" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

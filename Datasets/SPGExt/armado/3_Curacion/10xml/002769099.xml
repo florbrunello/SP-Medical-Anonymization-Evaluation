@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iñigo Escobar Rivero</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">97790373P</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/09/1944</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de los Embajadores 88</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Telde</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">17012</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">inigo-escobar@imibic.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 65 06 71</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 772 38 57 17</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8245120</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">724651062765</TAG>.
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Trabajador de Sanitización</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Emma Vicente Santos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">588434040</TAG>. Neuróloga Investigadora en Trastornos Cognitivos. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/02/1975</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">00580872</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Chamartín</TAG>.
+    Informe clínico del paciente:
+    Paciente migrante de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30 años</TAG> de edad, originario de un país en vías de desarrollo, que acude al servicio de urgencias con síntomas de dolor de cabeza intensos y frecuencia urinaria. Se encuentra en buen estado general, con una temperatura de <TAG TYPE="FECHAS">36,5°C</TAG> y presión arterial de <TAG TYPE="FECHAS">120/80 mmHg</TAG>. La exploración física revela una tensión muscular en el cuello y una pequeña inflamación en el ojo izquierdo.
+    Antecedentes:
+    El paciente informa que ha estado trabajando en un hospital durante los últimos 5 años, donde ha estado expuesto a diferentes tipos de agentes químicos y biológicos. También informa que ha tenido problemas de salud en el pasado, incluyendo una infección por VIH que fue tratada con éxito.
+    Evolución y comentarios:
+    El paciente ha sido tratado con analgésicos y antiinflamatorios, y se le ha realizado una serie de pruebas para determinar la causa de sus síntomas. Los resultados de las pruebas han sido inconclusivos, y se le ha recomendado que se someta a una serie de pruebas adicionales para determinar la causa de sus síntomas.
+    Remitido por:
+    El paciente ha sido remitido a un especialista en medicina interna para que se le realicen más pruebas y se le diagnostique y trate adecuadamente.
+  </TEXT>
+</MEDDOCAN>

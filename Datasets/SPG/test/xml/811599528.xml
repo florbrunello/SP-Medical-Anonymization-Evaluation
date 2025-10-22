@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Jonathan Ramos Marti
+DNI: 60189827T
+Fecha de nacimiento: 13/12/1979
+Género: Varón
+Domicilio: Calle Serrano 51, 4M
+Ciudad: Talavera de la Reina, Huesca, Aragón
+Código postal: 22505
+Email: jonathan_marti@isciii.es
+Teléfono fijo: +34 974 15 28 75
+FAX: +34 974 40 50 38
+NHC: 8351665
+NASS: 164985239464
+Condición de riesgo: Trabajador de Servicios de Limpieza
+
+Datos asistenciales.
+Médico: Dra. Verónica Calderon Cortés. NC 822725792. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 23/01/2023
+Episodio: 35189423
+Hospital: Hospital Universitario Ramón y Cajal
+
+Informe clínico del paciente:
+Paciente víctima de violencia de género de 43 años de edad, acompañado de su tía. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Jonathan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="48" text="Ramos Marti" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="60189827T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="13/12/1979" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="141" text="Calle Serrano 51, 4M" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="170" text="Talavera de la Reina" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="178" text="Huesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="180" end="186" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="22505" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="239" text="jonathan_marti@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 974 15 28 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="277" end="293" text="+34 974 40 50 38" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="299" end="306" text="8351665" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="313" end="325" text="164985239464" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="347" end="382" text="Trabajador de Servicios de Limpieza" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="634" end="644" text="23/01/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="655" end="663" text="35189423" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="674" end="710" text="Hospital Universitario Ramón y Cajal" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="751" end="781" text="víctima de violencia de género" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="785" end="792" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="819" end="822" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

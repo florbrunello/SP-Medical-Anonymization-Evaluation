@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mireia</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">HIdalgo Mas</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7302856</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">40 95672890 23</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av/ Gran Via, 12, 5 C</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Santa Coloma de Gramenet</TAG>.
+    CP: <TAG TYPE="TERRITORIO">08210</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/08/1964</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">50 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">03/05/2015</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lluís</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Valerio</TAG> Unidad NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">08 08 36923</TAG>.
+    Informe clínico del paciente: mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">50 años</TAG> fumadora ocasional. Entre sus antecedentes personales de interés, destacaba la realización de un viaje turístico de nueve días de duración a la Rivera Maya (Caribe mexicano), quince días antes del inicio de los síntomas. Durante el viaje la paciente, según refería, sufrió numerosas picaduras de mosquitos. En las 48 horas previas a la consulta, la paciente se autotrató con ácido acetil-salicílico (AAS) como antipirético y como tratamiento sintomático de la cefalea.
+    En la exploración física la paciente estaba consciente, orientada y febricular (37,6ºC), TA=110/70. Existía rubor facial e inyección conjuntival bilateral así como la presencia de un exantema hemorrágico, simétrico, máculo-papular en tronco y extremidades, especialmente en las inferiores, donde era confluente, y que no se modificaba a la vitropresión. En el resto de exploración por aparatos sólo se identificó la presencia de numerosas adenopatías latero y retrocervicales así como preauriculares. No se observaba la presencia de meningismo ni de hepatoesplenomegalia.
+    La prueba del lazo (Rumpell-Leade) mostró la aparición de más de 30 petequias en la fosa antecubital derecha. Se realizó un examen hematológico que mostró: hematíes 4,90x106/microL con hematocrito de 43% y plaquetas normales. En la serie blanca, el recuento determinó 7.700 leucocitos con linfopenia relativa (22%) y presencia de numerosos linfocitos activados. La VSG era de 28 mm a la primera hora, con PCR=6,62 mg/dL. Las pruebas de coagulación fueron normales para ambas vías. En la bioquímica destacaba una creatinina de 1,28 mg/dl con transaminitis de ALT= 78 U/L. La gota gruesa y la extensión sanguínea fue negativa. Finalmente en el análisis inmunológico se determinaron: AcIgM contra CMV negativos, AcHBc, AgHBs y AgHBs negativos, AcIgM contra P. falciparum negativo y AcIgM contra dengue (IFI) que resultaron positivos. En el estudio de gota gruesa y extensión sanguínea no se detectó la presencia de parásitos hemáticos.
+    La paciente fue diagnosticada de dengue clásico con probables criterios de dengue hemorrágico grado 1 inducido por el AAS. Después se su retirada, la paciente se restableció completamente en 10 días.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lluís</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Valerio</TAG> Unidad de Salud Internacional BniM ABS <TAG TYPE="TERRITORIO">Sta Coloma de Gramenet</TAG> 6 - Fondo C/ <TAG TYPE="CALLE">Jacint Verdaguer</TAG> 118 <TAG TYPE="TERRITORIO">08923</TAG> <TAG TYPE="TERRITORIO">Santa Coloma de Gramenet</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">lvalerio.bnm.ics@gencat.net</TAG>.
+  </TEXT>
+</MEDDOCAN>

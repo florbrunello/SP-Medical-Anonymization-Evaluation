@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Concepción</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sánchez Arias</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">63635019E</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/02/1949</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Nuncio 16</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Guadix</TAG>, <TAG TYPE="TERRITORIO">Castellón</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">12646</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">concepcion.sanchez.arias1330@aol.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 964 68 03 70</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 664 54 58 16</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2353890</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">300045530855</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ricardo Pacheco Rey</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">158928507</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/02/1962</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">21493589</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Barajas</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia indígena sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se realizó un <TAG TYPE="DIREC_PROT_INTERNET">expediente con URL</TAG> <TAG TYPE="URL_WEB">http://example-hospital.org//65390546H</TAG>.
+  </TEXT>
+</MEDDOCAN>

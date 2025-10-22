@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Luis Miguel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Luna Benítez</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">43236707L</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">18/12/1953</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle del Fúcar 19</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Ponferrada</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">18587</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">WyMKwU5XJ@ucm.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 47 07 85</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 958 96 29 31</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0543709</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">354809520238</TAG>
+  Condición de riesgo: No especificada
+        
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gemma Álvarez Vicente</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">286894763</TAG>. <TAG TYPE="PROFESION">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">14/03/1967</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">81382369</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Sur</TAG>
+        
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">migrante</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermana</TAG>.
+  </TEXT>
+</MEDDOCAN>

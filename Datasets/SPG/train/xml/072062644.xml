@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Agustín Soler Molina
+DNI: 67480947M
+Fecha de nacimiento: 25/07/1941
+Género: Varón
+Domicilio: Calle de la Cabeza del Rey Don Pedro 53, 3V
+Ciudad: Vilanova i la Geltrú, Orense, Galicia
+Código postal: 32520
+Email: soler.molina@aol.com
+Teléfono fijo: +34 988 42 50 21
+FAX: +34 988 95 21 70
+NHC: 2578908
+NASS: 280142406703
+
+Datos asistenciales.
+Médico: Dra. María Antonia Ríos Gallego. NC 444497372. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 31/01/1972
+Episodio: 80387688
+Centro de salud: Centro de Salud Móstoles
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 30 años de edad. Se registró una sesión de firma biométrica, el código obtenido para revisarla es SW259EGT900. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Agustín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Soler Molina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="67480947M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="25/07/1941" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="164" text="Calle de la Cabeza del Rey Don Pedro 53, 3V" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="173" end="193" text="Vilanova i la Geltrú" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="195" end="201" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="203" end="210" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="226" end="231" text="32520" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="239" end="259" text="soler.molina@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="275" end="291" text="+34 988 42 50 21" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="297" end="313" text="+34 988 95 21 70" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="319" end="326" text="2578908" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="333" end="345" text="280142406703" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="640" end="650" text="31/01/1972" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="661" end="669" text="80387688" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="687" end="711" text="Centro de Salud Móstoles" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="755" end="783" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="787" end="794" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T21" start="885" end="896" text="SW259EGT900" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

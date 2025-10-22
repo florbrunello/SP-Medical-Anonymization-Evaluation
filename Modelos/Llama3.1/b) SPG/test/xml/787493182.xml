@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Celia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jiménez</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Roca</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">30923770V</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">27/11/1989</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Velázquez 79, 2Z</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">Langreo</TAG>, <TAG TYPE="TERRITORIO">Toledo</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">45208</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">celiaroca@ciberer.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 925 87 77 57</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 625 20 54 89</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8817113</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">575585124311</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Minería</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sonia Conde Izquierdo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">914486925</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Oftalmóloga Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">25/08/2008</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">48852206</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Conde de Casal</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia centroasiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">18 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">suegra</TAG>. Se realizó un <TAG TYPE="DIREC_PROT_INTERNET">expediente con URL</TAG> <TAG TYPE="URL_WEB">http://example-ophthalmology.net//89651344I</TAG>.
+  </TEXT>
+</MEDDOCAN>

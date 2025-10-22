@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pedro</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ponce de Leon</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3457023</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av, Menendez Pelayo, 23</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Murcia</TAG>.
+    CP: <TAG TYPE="TERRITORIO">30201</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/06/1983</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">17 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">11/09/2000</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carlos</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García Ballesta</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">30 30 22503</TAG>.
+    Informe clínico del paciente:  En <TAG TYPE="FECHAS">1996</TAG> acude a consulta un niño de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">trece años</TAG> con una fractura del incisivo central superior derecho, de una semana de evolución, sin haber recibido tratamiento dental. A la exploración se observa una fractura complicada de la corona-raíz que llega hasta dos milímetros por debajo del borde marginal gingival. Se optó por la extrusión quirúrgica de la raíz. Previa anestesia con <TAG TYPE="PROFESION">Mepivacaína</TAG> al 4%, se realizó una incisión en el ligamento periodontal y se luxó la raíz con un elevador, colocado en los lados mesiopalatino y distopalatino, respectivamente. Se extrajo la raíz y se inspeccionó para localizar fracturas adicionales. Se recolocó el fragmento apical, buscando que el diente estuviera estabilizado y la fractura fuera óptimamente expuesta con una mínima extrusión. El diente fue rotado a una posición de 90º de la original, la considerada más estable y posteriormente ferulizado a los dientes adyacentes. Para evitar interferencias durante la oclusión se eliminó parte de la corona.
+    Una semana después del tratamiento inicial se realizó la extirpación de la pulpa y se rellenó con <TAG TYPE="PROFESION">Ledermix</TAG> e hidróxido cálcico a partes iguales, restaurándose provisionalmente la corona con <TAG TYPE="PROFESION">composite</TAG>. Pasados seis meses, ante la ausencia de signos de reabsorción radicular, el conducto se obturó definitivamente con <TAG TYPE="PROFESION">gutapercha</TAG>, pero la corona había sufrido una decoloración, adquiriendo un color gris intenso. Se procedió a la técnica de blanqueamiento de dientes no vitales, usando una mezcla de <TAG TYPE="PROFESION">peróxido de carbamida</TAG> y <TAG TYPE="PROFESION">glicerina</TAG> (<TAG TYPE="PROFESION">Endoperox</TAG>®, <TAG TYPE="INSTITUCION">Septodont Francia</TAG>). El paciente ha sido controlado durante cuatro años, no evidenciándose signos de reabsorción radicular en este período de tiempo.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carlos García Ballesta</TAG> <TAG TYPE="INSTITUCION">Facultad de Odontología. Hospital Morales Meseguer</TAG> 2ª planta <TAG TYPE="CALLE">Avda. Marqués de los Vélez s/n</TAG> <TAG TYPE="TERRITORIO">30008</TAG> <TAG TYPE="TERRITORIO">Murcia</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Vázquez Gallego
+DNI: 84742239G
+Fecha de nacimiento: 29/12/1940
+Género: M
+Domicilio: Calle de Preciados 83
+Ciudad: Jaca, Jaén, Andalucía
+Código postal: 23024
+Email: maria@ucm.es
+Teléfono fijo: +34 953 88 76 62
+Teléfono móvil: +34 753 67 57 55
+NHC: 1178379
+Condición de riesgo: Trabajador de Mantenimiento
+
+Datos asistenciales.
+Médico: Dra. María Soledad Álvarez Vega. NC 485089900. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/01/1968
+Hospital: Hospital Universitario Príncipe de Asturias
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 27 años de edad, acompañado de su tía. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="María" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="49" text="Vázquez Gallego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="84742239G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="29/12/1940" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="139" text="Calle de Preciados 83" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="152" text="Jaca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="154" end="158" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="160" end="169" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="185" end="190" text="23024" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="198" end="210" text="maria@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="226" end="242" text="+34 953 88 76 62" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="259" end="275" text="+34 753 67 57 55" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="281" end="288" text="1178379" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="310" end="337" text="Trabajador de Mantenimiento" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="610" end="620" text="09/01/1968" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="631" end="674" text="Hospital Universitario Príncipe de Asturias" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="715" end="736" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="740" end="747" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="774" end="777" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

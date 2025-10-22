@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marcela</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Brenes Cruz</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4568978</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">65 29079703 30</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Ventisquero de la condesa, 14</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Murcia</TAG>.
+    CP: <TAG TYPE="TERRITORIO">30530</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/04/1940</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">74 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">30/05/2014</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Consultas Externas</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pablo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Guzmán Martínez-Valls</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">30 08 59710</TAG>.
+    Historia Actual: Paciente mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">74 años</TAG> remitida desde <TAG TYPE="PROFESION">Consulta Externa de Ginecología</TAG> a <TAG TYPE="PROFESION">Urología</TAG> por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Infecciones Urinarias (ITUs)</TAG> de repetición con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor hipogástrico</TAG> de al menos seis meses de evolución.
+    Dentro de sus antecedentes personales destaca <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">histerectomía vía vaginal</TAG> por <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">prolapso uterino</TAG> hacía siete meses en otro centro, precisó reingreso a los 18 días de la cirugía por <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">fiebre y dolor</TAG>, con diagnóstico de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">absceso de cúpula vaginal</TAG> que drena espontáneamente, desapareciendo el cuadro clínico; las pruebas que le practicaron en dicho ingreso muestran: <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ECO y TC</TAG> <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">absceso en cúpula vaginal</TAG> sin ningún otro hallazgo. No <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">DM</TAG>. No <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">HTA</TAG>. No <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">alergias conocidas</TAG>. No <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hematuria</TAG>. No <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">cólicos</TAG>. <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">Infecciones de orina esporádicas</TAG>. <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">G2 A0V2</TAG>, no <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">escapes</TAG>.
+    Cuando es remitida a nuestra consulta por la clínica miccional e <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ITU</TAG>, acompaña <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">Rx aparato urinario simple</TAG> que es informada como normal, aunque se aprecia claramente <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">contorno débilmente cálcico</TAG> en <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">pelvis</TAG> en área vesical, y <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ecografía transvaginal</TAG> que informa de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">probable litiasis vesical</TAG>, diagnóstico por el cual junto a las <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">infecciones de orina de repetición</TAG> es remitido al <TAG TYPE="PROFESION">Servicio de Urología</TAG> de nuestro centro.
+    Ante el hallazgo en la <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">Rx. simple</TAG> que acompaña y la <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ecografía transvaginal</TAG> con <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">litiasis intravesical</TAG>, no móvil y con el antecedente quirúrgico referido, se sospecha desde el inicio la presencia de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">cuerpo extraño intravesical</TAG> por <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">probable pérdida de material utilizado en la cirugía</TAG>.
+    Se realiza <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">uretrocistoscopia</TAG> el mismo día de la consulta para confirmar sospecha diagnóstica que así se produce, apreciándose un gran <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">pelotón de gasas</TAG> adherida a la pared vesical que no se moviliza por estar calcificada; se solicita <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">TC pélvico</TAG> para valorar extensión y tamaño así como las relaciones con el área.
+    Con el diagnóstico definitivo de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">litiasis intravesical por cuerpo extraño</TAG>, abandonado probablemente en la cirugía de la <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">histerectomía</TAG> se propone <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">extracción de la misma</TAG> mediante <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">cistoslitectomía</TAG> o mas correctamente <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">cistogasomectomía</TAG> mediante apertura vesical a cielo abierto encontrando el <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">cuerpo extraño descrito</TAG>.
+    Tras buena evolución la paciente está asintomática, han desaparecido las <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">infecciones de orina de repetición</TAG>, aunque en los dos años de seguimiento ha tenido un episodio aislado, la paciente realiza una vida absolutamente normal.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pablo Guzmán Martínez-Valls</TAG> <TAG TYPE="CALLE">Pz. de Pontevedra,2 Ed. ICA, Esc.2º,5ºC</TAG> <TAG TYPE="TERRITORIO" >30009</TAG> <TAG TYPE="TERRITORIO" >Murcia</TAG>. (<TAG TYPE="PAIS">España</TAG>). <TAG TYPE="CORREO_ELECTRONICO">pabloguzman@terra.es</TAG>
+  </TEXT>
+</MEDDOCAN>

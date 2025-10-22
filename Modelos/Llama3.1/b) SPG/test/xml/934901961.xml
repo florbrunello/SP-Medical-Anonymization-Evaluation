@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Amparo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Herrero Miranda</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">16039260A</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/07/2012</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Preciados 6</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Pamplona</TAG>, <TAG TYPE="TERRITORIO">Teruel</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">44854</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">herrero@ual.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 978 62 51 27</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 978 13 10 86</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1178363</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Pintor de Construcción</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernando Escudero Jiménez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">786285688</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Oftalmólogo Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">29/09/2013</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Universitario Virgen de la Arrixaca</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia centroasiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de huella dactilar</TAG>, el <TAG TYPE="IDENTIF_BIOMETRICOS">código obtenido</TAG> para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">WQ316CYJ513</TAG>.
+  </TEXT>
+</MEDDOCAN>

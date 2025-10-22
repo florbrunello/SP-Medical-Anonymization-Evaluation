@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gloria Montoya Esteban
+DNI: 89101639F
+Fecha de nacimiento: 05/01/1975
+Género: F
+Domicilio: Calle del Fúcar 44
+Ciudad: Tarragona, Ibiza, Islas Baleares
+Código postal: 07585
+Email: VhYRheoIcbld9U@us.es
+Teléfono fijo: +34 971 01 76 34
+Teléfono móvil: +34 671 38 59 58
+NHC: 1923476
+Condición de riesgo: Trabajador Agrícola
+
+Datos asistenciales.
+Médico: Dr. Álvaro Miguel López. NC 115073425. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 05/12/1999
+Episodio: 44953617
+Centro de salud: Centro de Salud Fuengirola
+Matrícula del coche: 1821MZL
+Modelo: Toyota Corolla
+VIN: VSA7MDCBMYD061518
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 24 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Gloria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Montoya Esteban" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="89101639F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="05/01/1975" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="137" text="Calle del Fúcar 44" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="155" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="162" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="178" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="194" end="199" text="07585" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="207" end="227" text="VhYRheoIcbld9U@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="243" end="259" text="+34 971 01 76 34" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="276" end="292" text="+34 671 38 59 58" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="298" end="305" text="1923476" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="327" end="346" text="Trabajador Agrícola" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="381" end="400" text="Álvaro Miguel López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="405" end="414" text="115073425" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="416" end="451" text="Residente de 3° año en Oftalmología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="453" end="511" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="513" end="537" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="539" end="544" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="546" end="556" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="558" end="564" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="584" end="594" text="05/12/1999" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="605" end="613" text="44953617" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="631" end="657" text="Centro de Salud Fuengirola" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="679" end="686" text="1821MZL" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="715" end="732" text="VSA7MDCBMYD061518" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="773" end="794" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="798" end="805" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

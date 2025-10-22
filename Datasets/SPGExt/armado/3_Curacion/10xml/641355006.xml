@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Luz Conde Carrillo</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">88099852P</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/03/1973</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Ana 9, 10N</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad autónoma de Ceuta, Ceuta, </TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">52630</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">IulYmW0Z3lZExK4@ciberisciii.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 66 28 82</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 956 41 06 84</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3418229</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">266167109904</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Sin especificar</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marcos Blanco Marti</TAG> <TAG TYPE="PROFESION">Investigador Clínico en Síndromes Raros</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">050179597</TAG>. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). <TAG TYPE="INSTITUCION">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">12/08/1999</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Marqués de Valdecilla</TAG>.
+    Cargo del médico: <TAG TYPE="PROFESION">Investigador Clínico en Síndromes Raros</TAG>.
+    Dirección del hospital: <TAG TYPE="CALLE">Avenida de Valdecilla s/n</TAG>, <TAG TYPE="TERRITORIO">39008</TAG> <TAG TYPE="TERRITORIO">Santander</TAG>, <TAG TYPE="PAIS">Cantabria, España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">12/08/1999</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="HOSPITAL">Hospital Universitario Marqués de Valdecilla</TAG>.
+    Informe clínico del paciente: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">26 años</TAG> de edad, de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia caribeña</TAG>, con antecedentes de problemas respiratorios crónicos. Se presenta con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fiebre alta</TAG>. La exploración física revela: <TAG TYPE="FECHAS">temperatura 38,5°C</TAG>; <TAG TYPE="FECHAS">frecuencia cardíaca 120 bpm</TAG>; <TAG TYPE="FECHAS">presión arterial 140/90 mmHg</TAG>. Se encuentra consciente y orientado, pero con signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">malestar</TAG>. Se solicitan análisis de sangre y radiografías para determinar la causa subyacente de los síntomas.
+    Antecedentes: La paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">asma</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bronquitis crónica</TAG>. Ha sido tratada con medicamentos para controlar los síntomas, pero ha presentado recientemente un aumento en la frecuencia y gravedad de los ataques.
+    Evolución y comentarios: La paciente ha estado en observación durante las últimas 24 horas, y se han realizado análisis de sangre y radiografías. Los resultados indican la presencia de una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infección bacteriana</TAG> en la zona abdominal. Se está tratando con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antibióticos</TAG> y se está monitoreando su evolución.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marcos Blanco Marti</TAG> <TAG TYPE="PROFESION">Investigador Clínico en Síndromes Raros</TAG>.
+  </TEXT>
+</MEDDOCAN>

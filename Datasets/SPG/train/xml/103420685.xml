@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Blanca Carrillo Garrido
+DNI: 38380117V
+Fecha de nacimiento: 28/08/2022
+Género: Femenino
+Domicilio: Calle de Preciados 96, 4D
+Ciudad: Salamanca, Asturias, Asturias
+Código postal: 33378
+Email: blanca1411@h12o.es
+Teléfono fijo: +34 984 86 20 75
+Teléfono móvil: +34 784 80 86 55
+NHC: 5324247
+
+Datos asistenciales.
+Médico: Dr. Sebastián Vera Garrido. NC 327940315. Neurólogo Investigador en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 95402837
+Centro de salud: Centro de Salud Leganés
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 2 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Blanca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="51" text="Carrillo Garrido" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="38380117V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="28/08/2022" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="115" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="127" end="152" text="Calle de Preciados 96, 4D" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="161" end="170" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="180" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="182" end="190" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="33378" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="237" text="blanca1411@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 984 86 20 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="286" end="302" text="+34 784 80 86 55" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="308" end="315" text="5324247" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="350" end="372" text="Sebastián Vera Garrido" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="377" end="386" text="327940315" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="388" end="435" text="Neurólogo Investigador en Trastornos Cognitivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="437" end="509" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="511" end="534" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="536" end="541" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="543" end="549" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="551" end="557" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="577" end="587" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="598" end="606" text="95402837" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="624" end="647" text="Centro de Salud Leganés" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="688" end="709" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="713" end="719" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="746" end="753" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

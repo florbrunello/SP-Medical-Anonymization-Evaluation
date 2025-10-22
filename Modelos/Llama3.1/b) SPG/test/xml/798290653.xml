@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ángela</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rodríguez Galvez</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">91006584T</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">04/01/1979</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de las Letras 48, 1X</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Majadahonda</TAG>, <TAG TYPE="TERRITORIO">Albacete</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">02882</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">angela@udc.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 967 02 12 29</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 767 98 02 33</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5654232</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Residuos Sólidos</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mariano Cruz Parra</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">642911422</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">28/08/1997</TAG>
+  Episodio: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">66238651</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Centro</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7316FHA</TAG>
+  Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Kia Sorento</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSJNG6JV83I927569</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">18 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

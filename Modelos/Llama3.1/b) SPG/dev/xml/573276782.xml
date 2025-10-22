@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Arnau</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vega Zamora</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">12289179A</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/11/1926</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Sombrerete 37, 1W</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Móstoles</TAG>, <TAG TYPE="TERRITORIO">Sevilla</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">41342</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">arnau_zamora803@isciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 48 15 80</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 654 70 20 27</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1463367</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de la Construcción</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Noa Lozano Herrera</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">234388985</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/12/2015</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">07012463</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario La Mancha Centro</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">discapacitado</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">89 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hija</TAG>.
+  </TEXT>
+</MEDDOCAN>

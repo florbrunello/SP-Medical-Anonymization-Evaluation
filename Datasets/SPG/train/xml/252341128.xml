@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Joel Prieto Mendoza
+DNI: 71165673Q
+Fecha de nacimiento: 05/02/2014
+Género: V
+Domicilio: Calle de Moratín 56, 1F
+Ciudad: Denia, Guadalajara, Castilla-La Mancha
+Código postal: 19341
+Email: joelmendoza@ciberned.es
+Teléfono fijo: +34 949 98 74 13
+Teléfono móvil: +34 749 86 65 44
+NHC: 8791633
+NASS: 039593432842
+Condición de riesgo: Trabajador de la Construcción
+
+Datos asistenciales.
+Médico: Dra. Carla Ortega Franco. NC 025950759. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 23/02/2021
+Episodio: 98325402
+Centro de salud: Centro de Salud Aranjuez
+Matrícula del coche: 9382FRU
+Modelo: Mazda CX-5
+VIN: VSP0XYXYNBI132425
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 7 años de edad, acompañado de su padre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-pharma.org. Se registró una sesión de huella dactilar, el código obtenido para revisarla es XA731ZJT953. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es RS290OVY692. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es OU976FFK038. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Joel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="47" text="Prieto Mendoza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="71165673Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="05/02/2014" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="139" text="Calle de Moratín 56, 1F" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="153" text="Denia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="166" text="Guadalajara" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="186" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="19341" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="238" text="joelmendoza@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 949 98 74 13" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 749 86 65 44" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="8791633" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="323" end="335" text="039593432842" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="357" end="386" text="Trabajador de la Construcción" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="658" end="668" text="23/02/2021" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="679" end="687" text="98325402" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="705" end="729" text="Centro de Salud Aranjuez" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="751" end="758" text="9382FRU" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="783" end="800" text="VSP0XYXYNBI132425" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="841" end="858" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="862" end="868" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="895" end="900" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T25" start="977" end="998" text="smtp://example-pharma" TYPE="URL_WEB" comment=""/>
+        <ID id="T26" start="1084" end="1095" text="XA731ZJT953" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T27" start="1183" end="1194" text="RS290OVY692" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T28" start="1277" end="1288" text="OU976FFK038" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

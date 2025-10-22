@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Milagros Santamaria Pastor
+DNI: 67412937Y
+Fecha de nacimiento: 12/12/1993
+Género: M
+Domicilio: Calle de Fortuny 17, 1H
+Ciudad: MelillaHuesca, Las Palmas, Canarias
+Código postal: 35249
+Email: milagros.santamaria.pastor@imibic.org
+Teléfono fijo: +34 928 17 98 52
+Teléfono móvil: +34 628 87 36 83
+NHC: 7995313
+NASS: 863927315727
+
+Datos asistenciales.
+Médico: Dr. Jon Peña León. NC 417815267. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 98561282
+Hospital: Hospital Regional Universitario de Málaga
+
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 31 años de edad, acompañado de su marido. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.250.51, con dirección MAC 84:60:88:6C:A7:C5. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Milagros" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="54" text="Santamaria Pastor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="67412937Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="12/12/1993" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="111" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="146" text="Calle de Fortuny 17, 1H" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="168" text="MelillaHuesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="180" text="Las Palmas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="182" end="190" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="35249" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="256" text="milagros.santamaria.pastor@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="272" end="288" text="+34 928 17 98 52" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="305" end="321" text="+34 628 87 36 83" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="327" end="334" text="7995313" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="341" end="353" text="863927315727" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="388" end="401" text="Jon Peña León" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="406" end="415" text="417815267" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="417" end="461" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="463" end="549" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="551" end="580" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="582" end="587" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="589" end="595" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="597" end="603" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="623" end="633" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="644" end="652" text="98561282" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="663" end="704" text="Hospital Regional Universitario de Málaga" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="748" end="778" text="ascendencia africana del norte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="782" end="789" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="816" end="822" text="marido" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="930" end="947" text="84:60:88:6C:A7:C5" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

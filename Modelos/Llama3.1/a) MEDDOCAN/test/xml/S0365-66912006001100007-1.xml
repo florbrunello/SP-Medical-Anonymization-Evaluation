@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Silvia</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Navarro Becker</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7834691</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">36 27567845 36</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. Diego Lopez, 44, 2, A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Vigo</TAG>.
+    CP: <TAG TYPE="TERRITORIO">36211</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/12/1984</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">24 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">05/04/2009</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Oftalmologia</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Inés</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pérez Flores</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">36 36 26640</TAG>.
+    Historia Actual: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mujer de 24 años con antecedentes de endotropía congénita y cirugía de rectos medios a los 3 años de edad.</TAG>
+    En la exploración presentaba una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">endotropía residual y DVD</TAG>. Se realizó <TAG TYPE="PROFESION">cirugía</TAG> según <TAG TYPE="PROFESION">técnica de resección de rectos laterales y retoinserción en asa de ambos rectos superiores</TAG>. A los 4 meses de la intervención presentó una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lesión conjuntival de aspecto quístico y con signos de inflamación</TAG>, en el sector nasal superior de su ojo izquierdo. Se drenó obteniendo un líquido de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">aspecto mucopurulento</TAG> por lo que se diagnosticó de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">absceso subconjuntival</TAG>. Se instaura <TAG TYPE="PROFESION">tratamiento</TAG> con <TAG TYPE="OTRO_NUMERO_IDENTIF">ciprofloxacino</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">dexametasona tópicos</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">ciprofloxacino sistémico</TAG>. Al mes la lesión recidiva sin signos inflamatorios y se observa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">crecimiento progresivo</TAG>. Se realizó <TAG TYPE="PROFESION">exéresis quirúrgica completa de la lesión</TAG>, la cual se encuentra adyacente a la inserción primitiva del recto superior. El diagnóstico histopatológico es de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lesión quística benigna</TAG>. El estudio reveló la existencia de una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">formación quística de pared fibrosa que incluye vasos y algún agregado linfoide, parcialmente tapizada en su superficie interna por un epitelio plano estratificado, no apreciándose atipias ni mitosis significativas</TAG>. Tras la cirugía la lesión no recidivó.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Inés</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pérez Flores</TAG> <TAG TYPE="PROFESION">Servicio de Oftalmología</TAG>. <TAG TYPE="HOSPITAL">Hospital POVISA</TAG> <TAG TYPE="CALLE">C/. Salamanca,5</TAG> <TAG TYPE="TERRITORIO">36211 Vigo</TAG> (<TAG TYPE="TERRITORIO">Pontevedra</TAG>) <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">mari-nes@eremas.net</TAG>
+  </TEXT>
+</MEDDOCAN>

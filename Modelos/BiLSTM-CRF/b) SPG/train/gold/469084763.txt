@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Javier Bermudez Casas
+DNI: 36716596V
+Fecha de nacimiento: 23/05/2001
+Género: H
+Domicilio: Calle de la Magdalena 59, 7N
+Ciudad: Castellón de la Plana, Región de Murcia, Región de Murcia
+Código postal: 30773
+Email: bermudezcasas@ual.es
+Teléfono fijo: +34 968 16 74 87
+Teléfono móvil: +34 768 52 50 22
+NHC: 2257561
+NASS: 450286756911
+Condición de riesgo: Enfermera
+
+Datos asistenciales.
+Médico: Dra. Elena Manzano Lozano. NC 662818416. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 15/03/2020
+Episodio: 24857586
+Hospital: Hospital Universitario de Basurto
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 18 años de edad, acompañado de su hijo. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.160.139, con dirección MAC 13:70:AD:5A:68:5D. 

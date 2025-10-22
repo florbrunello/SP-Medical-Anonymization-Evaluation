@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Mariano Herrero Soriano
+DNI: 26468605K
+Fecha de nacimiento: 05/06/2004
+Género: Masculino
+Domicilio: Calle de Velázquez 42
+Ciudad: Badajoz, Álava, Pais Vasco
+Código postal: 01903
+Email: mariano.soriano@udc.es
+Teléfono fijo: +34 945 90 85 85
+Teléfono móvil: +34 745 29 77 36
+NHC: 0212536
+NASS: 580144639232
+Condición de riesgo: Trabajador de Minería
+
+Datos asistenciales.
+Médico: Dra. Daniela Guerrero Pascual. NC 362602114. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/08/2021
+Episodio: 10188275
+Centro de salud: Centro de Salud Tetuán
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 17 años de edad, acompañado de su primo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Mariano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="51" text="Herrero Soriano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="26468605K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="05/06/2004" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="116" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="149" text="Calle de Velázquez 42" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="165" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="172" text="Álava" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="184" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="01903" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="235" text="mariano.soriano@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 945 90 85 85" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 745 29 77 36" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="0212536" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="580144639232" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="354" end="375" text="Trabajador de Minería" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="651" end="661" text="26/08/2021" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="672" end="680" text="10188275" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="698" end="720" text="Centro de Salud Tetuán" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="761" end="782" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="786" end="793" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="820" end="825" text="primo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

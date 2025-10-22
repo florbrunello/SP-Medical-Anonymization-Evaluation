@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ana Torres Arroyo
+DNI: 22725531J
+Fecha de nacimiento: 02/05/1941
+Género: Mujer
+Domicilio: Calle del Carmen 25
+Ciudad: Úbeda, Valladolid, Castilla y León
+Código postal: 47788
+Email: ana_torres.arroyo@h12o.es
+Teléfono fijo: +34 983 48 07 68
+Teléfono móvil: +34 683 60 88 67
+NHC: 2879158
+NASS: 382469514035
+Condición de riesgo: Trabajador Industrial
+
+Datos asistenciales.
+Médico: Dra. María Cristina Marín Soriano. NC 927737903. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 23/05/1977
+Episodio: 03616741
+Hospital: Complejo Asistencial Universitario Salamanca
+Matrícula del coche: 6772ZNC
+Modelo: Ford Mustang
+VIN: VSVL4OAJG2T251736
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 36 años de edad, acompañado de su suegro. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.66.27, con dirección MAC 9B:DA:92:23:33:BA. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Ana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="45" text="Torres Arroyo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="22725531J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="02/05/1941" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="106" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="137" text="Calle del Carmen 25" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="151" text="Úbeda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="163" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="180" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="47788" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="234" text="ana_torres.arroyo@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 983 48 07 68" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 683 60 88 67" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="2879158" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="382469514035" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="353" end="374" text="Trabajador Industrial" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="634" end="644" text="23/05/1977" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="655" end="663" text="03616741" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="674" end="718" text="Complejo Asistencial Universitario Salamanca" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="740" end="747" text="6772ZNC" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="774" end="791" text="VSVL4OAJG2T251736" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="835" end="859" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="863" end="870" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="897" end="903" text="suegro" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T25" start="1010" end="1027" text="9B:DA:92:23:33:BA" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Raúl Ramos Ibáñez
+DNI: 30878185H
+Fecha de nacimiento: 02/08/1978
+Género: H
+Domicilio: Calle de Almagro 1, 8Z
+Ciudad: Girona, Mallorca, Islas Baleares
+Código postal: 07528
+Email: n9ohi1qFsUrmtJQ@hotmail.com
+Teléfono fijo: +34 971 21 45 82
+Teléfono móvil: +34 671 52 48 09
+NHC: 5621230
+NASS: 452891033951
+Condición de riesgo: Trabajador de Residuos Sólidos
+
+Datos asistenciales.
+Médico: Dra. María Carmen Gil Gracia. NC 933594122. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 08/12/1993
+Hospital: Hospital General de Villalba
+Matrícula del coche: 9785ZZS
+Modelo: Toyota RAV4
+VIN: VSQ74VJLH9Z257345
+
+Informe clínico del paciente:
+Paciente de ascendencia australiana de 15 años de edad, acompañado de su hermano. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Raúl" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="45" text="Ramos Ibáñez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="30878185H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="02/08/1978" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="136" text="Calle de Almagro 1, 8Z" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="151" text="Girona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="161" text="Mallorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="163" end="177" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="193" end="198" text="07528" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="206" end="233" text="n9ohi1qFsUrmtJQ@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 971 21 45 82" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 671 52 48 09" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="304" end="311" text="5621230" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="318" end="330" text="452891033951" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="352" end="382" text="Trabajador de Residuos Sólidos" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="635" end="645" text="08/12/1993" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="656" end="684" text="Hospital General de Villalba" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="706" end="713" text="9785ZZS" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="739" end="756" text="VSQ74VJLH9Z257345" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="800" end="823" text="ascendencia australiana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="827" end="834" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="861" end="868" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

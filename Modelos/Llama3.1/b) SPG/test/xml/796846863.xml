@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Christian Calvo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Molina</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">92126748H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/09/1973</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Bravo Murillo 58</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Orense</TAG>, <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">38172</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">christian-calvo.molina@ual.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 922 92 46 18</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 622 90 61 68</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8179427</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">209104432091</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Magdalena Ibáñez Arroyo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">428101765</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardióloga de Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">29/12/2011</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">01691686</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Virgen del Rocío</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3245ZMB</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mazda CX-5</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSQ401KFPTO158829</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">38 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">compañero de estudio</TAG>.
+  </TEXT>
+</MEDDOCAN>

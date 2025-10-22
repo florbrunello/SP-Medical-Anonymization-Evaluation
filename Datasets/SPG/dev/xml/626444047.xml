@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Antonia Fuentes Rivero
+DNI: 23211613J
+Fecha de nacimiento: 03/03/2023
+Género: F
+Domicilio: Calle de la Primavera 42
+Ciudad: Vilanova i la Geltrú, Gerona, Cataluña
+Código postal: 17446
+Email: antonia.rivero@ub.edu
+Teléfono fijo: +34 972 93 98 45
+Teléfono móvil: +34 772 10 82 76
+NHC: 2521582
+NASS: 807795528124
+
+Datos asistenciales.
+Médico: Dr. Daniel Sánchez Rico. NC 658326374. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Hospital: Hospital Universitario Marqués de Valdecilla
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 2 años de edad, acompañado de su abuelo. Se registró una sesión de huella dactilar, el código obtenido para revisarla es JI573RHR725. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Antonia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Fuentes Rivero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="23211613J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="03/03/2023" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="143" text="Calle de la Primavera 42" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="172" text="Vilanova i la Geltrú" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="174" end="180" text="Gerona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="182" end="190" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="17446" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="240" text="antonia.rivero@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 972 93 98 45" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="289" end="305" text="+34 772 10 82 76" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="311" end="318" text="2521582" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="325" end="337" text="807795528124" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="372" end="391" text="Daniel Sánchez Rico" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="396" end="405" text="658326374" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="407" end="442" text="Investigador Principal en Parkinson" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="444" end="533" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="535" end="564" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="566" end="571" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="573" end="579" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="581" end="587" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="607" end="617" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="628" end="672" text="Hospital Universitario Marqués de Valdecilla" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="716" end="742" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="746" end="752" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="779" end="785" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T29" start="867" end="878" text="JI573RHR725" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

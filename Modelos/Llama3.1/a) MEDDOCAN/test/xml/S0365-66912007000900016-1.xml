@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Natalia</TAG>.
+  Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Diaz Aguirre</TAG>.
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">75603</TAG>.
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">34 05789655 69</TAG>.
+  Domicilio: <TAG TYPE="CALLE">Calle via limite 62, 6B</TAG>.
+  Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+  CP: <TAG TYPE="TERRITORIO">28036</TAG>.
+  Datos asistenciales.
+  Fecha de nacimiento: <TAG TYPE="FECHAS">30/06/1977</TAG>.
+  País: <TAG TYPE="PAIS">España</TAG>.
+  Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">36 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+  Fecha de Ingreso: <TAG TYPE="FECHAS">13/11/2013</TAG>.
+  Servicio: <TAG TYPE="PROFESION">Oftalmologia</TAG>.
+  Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Yolanda</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernández Barrientos</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 64168</TAG>.
+  Motivo de ingreso: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mujer emétrope de 36 años, que acude a nuestro servicio de urgencias por visión borrosa sin episodio gripal previo en enero de 1992</TAG>.
+  Exploración y pruebas complementarias: A la exploración presentaba una agudeza visual (AV) en ojo derecho (OD) <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20/30</TAG> y en el ojo izquierdo (OI) <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20/60</TAG>, células en cámara anterior de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">1+</TAG> ambos ojos (AO) y múltiples puntos blancos de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">100-200 micras</TAG> más numerosos en el área temporal a la mácula en AO. La angiofluoresceingrafía (AFG) mostró múltiples puntos hiperfluorescentes. Se inició tratamiento con <TAG TYPE="PROFESION">metilprednisolona</TAG> IM (Urbason® soluble 40 mg, Aventis Pharma S.A., Madrid), <TAG TYPE="PROFESION">atropina sulfato</TAG> 10 mg/ml tópica (Atropina® 1%, Alcon Cusí S.A., Barcelona) cada 12 horas y <TAG TYPE="PROFESION">dexametasona</TAG> 1 mg/ml tópica (Maxidex®, Alcon Cusí S.A., Barcelona) cada 6 horas. A las dos semanas de tratamiento alcanzó una AV de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20/20</TAG> en AO. Las pruebas sistémicas solicitadas (analítica básica, radiografía de tórax, serología luética, enzima de conversión de la angiotensina y Mantoux) fueron negativas.
+  Evolución y comentarios: Cuatro años más tarde presentó una nueva recidiva, más acusada en OD, con pérdida visual al nivel de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20/60</TAG> OD y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20/30</TAG> OI, sin evidenciarse alteraciones campimétricas. Se inició la misma pauta sistémica que en el episodio anterior con recuperación visual completa al mes de tratamiento, persistiendo alguna mancha blanca y pigmento peripapilar temporal superior en el OD.
+  En septiembre de 2011 presentó un nuevo brote de carácter más leve. La AV era de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20/25</TAG> OD y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20/20</TAG> OI, apreciándose en la exploración funduscópica manchas blanco-amarillentas distribuidas por polo posterior y alteración del epitelio pigmentario retiniano (EPR) macular AO. Se inició tratamiento corticoideo tópico y sistémico como en el primer episodio. A las tres semanas desde el inicio del brote, la AV disminuyó a <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20/40</TAG> OD y a <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20/60</TAG> OI, por lo que se decidió añadir <TAG TYPE="PROFESION">metotrexate</TAG> oral (Metotrexato Lederle®, Whyeth, Madrid) a bajas dosis. Se solicitó estudio de HLA A29 que resultó negativo.
+  En abril de 2015, la paciente se mantenía asintomática, con AV en <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20/30</TAG> OD y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20/25</TAG> OI. En el fondo de ojo, presentaba un levantamiento del neuroepitelio yuxtafoveolar nasal en el OD, la tomografía de coherencia óptica confirmó el diagnóstico de sospecha de una MNVSR. La paciente rechazó el tratamiento, aunque cinco meses después, con una AV en OD de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20/60</TAG> se inició tratamiento de la MNVSR, con terapia fotodinámica (Visudyne®, Novartis Farmacéutica S.A., Barcelona) y <TAG TYPE="PROFESION">triamcinolona acetónido</TAG> intravitreo 4 mg en 0,1 ml (Trigón depot® 40 mg/ml, Bristol-Myers Squibb, Madrid). La AV en el OD mejoró a <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20/40</TAG>".
+  En el momento actual, la paciente presenta una AV <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20/40</TAG> OD y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20/25</TAG> OI, manchas blanco-amarillentas tenues en polo posterior de ambos ojos, lesiones de atrofia peripapilar AO, con afectación del haz papilomacular en el OD y varias lesiones blanquecinas inactivas, inferiores a la mácula del OI.
+  Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Yolanda</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernández Barrientos</TAG> <TAG TYPE="CALLE">C/. Vallehermoso, 15, 2.º, apto. 20</TAG> <TAG TYPE="TERRITORIO">28015</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG> <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">yferbar@hotmail.com</TAG>.
+  </TEXT>
+  </MEDDOCAN>

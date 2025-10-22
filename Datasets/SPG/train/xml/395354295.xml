@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Samuel Marcos Luna
+DNI: 66360517C
+Fecha de nacimiento: 25/04/1932
+Género: Hombre
+Domicilio: Calle de San Ildefonso 20, 1U
+Ciudad: Totana, Madrid, Madrid
+Código postal: 28410
+Email: marcos-luna1865@ual.es
+Teléfono fijo: +34 919 70 91 83
+Teléfono móvil: +34 719 44 67 30
+NHC: 5095012
+NASS: 828289860919
+Condición de riesgo: Limpiador
+
+Datos asistenciales.
+Médico: Dra. Lorena Espinosa Campos. NC 175710096. Endocrinóloga Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 07/09/1957
+Episodio: 56805838
+Centro de salud: Centro de Salud Fuengirola
+Matrícula del coche: 0381DYQ
+Modelo: Volkswagen Golf
+VIN: VSABTRXTNVJ303431
+
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 25 años de edad, acompañado de su padre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Samuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="46" text="Marcos Luna" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="66360517C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="25/04/1932" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="108" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="149" text="Calle de San Ildefonso 20, 1U" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="164" text="Totana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="172" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="180" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="28410" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="231" text="marcos-luna1865@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 919 70 91 83" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 719 44 67 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="5095012" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="316" end="328" text="828289860919" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="350" end="359" text="Limpiador" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="613" end="623" text="07/09/1957" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="634" end="642" text="56805838" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="660" end="686" text="Centro de Salud Fuengirola" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="708" end="715" text="0381DYQ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="745" end="762" text="VSABTRXTNVJ303431" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="806" end="829" text="comunidades vulnerables" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="833" end="840" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="867" end="872" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T25" start="949" end="973" text="smtp://example-nutrition" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

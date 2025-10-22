@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juana</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">De la Ossa Prieto</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3781046</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">50 78265780 41</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Paseo de Rovira 28, 1 D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Zaragoza</TAG>.
+    CP: <TAG TYPE="TERRITORIO">50009</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/10/1979</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">35 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">07/07/2014</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Álvaro</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bernal Martínez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">50 50 74020</TAG>.
+    Informe clínico del paciente: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">35 años</TAG> de edad con fototipo cutáneo I según la clasificación de Fitzpatrick que acude al Servicio de Cirugía Plástica de nuestro hospital por presentar antecedentes clínicos de mastopatía fibroquística, papilomatosis intracanalicular y cancerofobia por antecedentes familiares de neoplasia de mama. La mamografía mostraba tejido de aspecto micronodular bien distribuido que se clasificó como un patrón mamográfico BIRADS 3. No obstante, ingresa para cirugía profiláctica del cáncer de mama. En el momento de la intervención no presentaba adenopatías axilares palpables.
+    Realizamos mastectomía bilateral conservadora de piel, con hallazgo intraoperatorio de una adenopatía axilar izquierda, próxima al tejido subcutáneo, de coloración negra. Ante la posibilidad del descubrimiento intraoperatorio de una metástasis de melanoma, decidimos remitir la muestra para su estudio anatomopatológico de forma diferida. No encontramos otros signos clínicos sugestivos de patología tumoral, por lo que finalizamos la cirugía con la colocación bilateral de prótesis mamarias.
+    La exploración exhaustiva de la paciente durante el ingreso postoperatorio no reveló lesiones cutáneas compatibles con melanoma, pero sí la presencia de un tatuaje en la región pectoral izquierda de 10 años de antigüedad. La paciente fue dada de alta hospitalaria a la espera de los resultados del estudio de Anatomía Patológica.
+    El estudio histológico diferido de la pieza quirúrgica describió la adenopatía como un fragmento de aspecto bilobulado y color violáceo, de 1,6 x 1,3 x 0,5 cm., de tinte violáceo. Al microscopio describía una hiperplasia linfoide reactiva. La estructura del ganglio estaba conservada, sin presencia de células melanocíticas y con depósito de un pigmento artificial oscuro granular.
+    Ya nuevamente en la consulta, la exploración clínica junto con el estudio histológico de la lesión permitió atribuir la causa de los cambios clínicos de la adenopatía al tatuaje de la paciente, con el consecuente resultado de un pronóstico benigno y sin la necesidad de tratamiento o seguimiento posteriores.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Álvaro Bernal Martínez</TAG> <TAG TYPE="HOSPITAL">Hospital Miguel Servet</TAG> <TAG TYPE="CALLE">Pso. Isabel La Católica, s/n.</TAG> <TAG TYPE="TERRITORIO">50009 Zaragoza</TAG>, <TAG TYPE="PAIS">España</TAG> e-mail: <TAG TYPE="CORREO_ELECTRONICO">aj.bernal.martinez@gmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

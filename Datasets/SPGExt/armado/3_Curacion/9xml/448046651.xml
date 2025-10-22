@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rebeca</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Redondo Espinosa</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">91746718V</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">31/03/1994</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Marqués de Urquijo 8</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Málaga</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">29199</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">redondo_espinosa@protonmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 15 70 74</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 651 46 32 86</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3835670</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">467891234567</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Almacén</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pablo Guillen Aguilera</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 383596067</TAG>. <TAG TYPE="PROFESION">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/11/2001</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">01583532</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de A Coruña</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="TERRITORIO">comunidades vulnerables</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su abuelo, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">malnutrición y desnutrición crónica</TAG>. El paciente presenta una temperatura corporal de <TAG TYPE="FECHAS">38,5°C</TAG>, con dolor de cabeza y vómitos desde hace <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3 días</TAG>. La exploración física revela signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">deshidratación y debilidad muscular</TAG>.
+    Evolución y comentarios:
+    El paciente fue ingresado en la unidad de cuidados intensivos y se inició tratamiento con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">líquidos y antibióticos</TAG>. Se realizaron análisis de sangre para determinar la causa subyacente de la infección. El paciente ha mostrado una respuesta favorable al tratamiento y se espera una recuperación completa.
+    Remitido por:
+    El paciente fue remitido por el <TAG TYPE="INSTITUCION">Servicio de Atención Primaria de Palencia</TAG>, con un diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infección respiratoria aguda</TAG>.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">malnutrición y desnutrición crónica</TAG>, lo que ha llevado a una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">debilidad muscular</TAG> y un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sistema inmunológico comprometido</TAG>. El paciente también tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">episodios de infección respiratoria aguda</TAG> en el pasado.
+    Evolución y comentarios:
+    El paciente ha mostrado una respuesta favorable al tratamiento y se espera una recuperación completa. Se realizarán análisis de sangre periódicos para determinar la causa subyacente de la infección y para monitorear la respuesta del paciente al tratamiento.
+    Fecha de alta:
+    El paciente se espera que sea dado de alta en las próximas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">48 horas</TAG>, siempre y cuando continúe mostrando una respuesta favorable al tratamiento.
+  </TEXT>
+</MEDDOCAN>

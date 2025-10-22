@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Antonia Vázquez Aparicio
+DNI: 90799702A
+Fecha de nacimiento: 29/07/2020
+Género: Mujer
+Domicilio: Calle de Don Ramón de la Cruz 40, 6P
+Ciudad: Ciudad autónoma de Melilla, Melilla, 
+Código postal: 51737
+Email: mariaantonia.vazquez_aparicio1461@uca.es
+Teléfono fijo: +34 951 55 19 78
+Teléfono móvil: +34 651 84 18 91
+NHC: 7575995
+NASS: 243342363049
+
+Datos asistenciales.
+Médico: Dr. Roberto Moya Silva. NC 517564913. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/10/2024
+Episodio: 48065133
+Centro de salud: Centro de Salud Aranjuez
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática occidental de 4 años de edad, acompañado de su abuela. Se registró una sesión de huella dactilar, el código obtenido para revisarla es KR282FRG961. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Antonia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="58" text="Vázquez Aparicio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="64" end="73" text="90799702A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="95" end="105" text="29/07/2020" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="114" end="119" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="131" end="167" text="Calle de Don Ramón de la Cruz 40, 6P" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="176" end="202" text="Ciudad autónoma de Melilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="204" end="212" text="Melilla," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="229" end="234" text="51737" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="242" end="282" text="mariaantonia.vazquez_aparicio1461@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="298" end="314" text="+34 951 55 19 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="331" end="347" text="+34 651 84 18 91" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T13" start="353" end="360" text="7575995" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="367" end="379" text="243342363049" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T15" start="414" end="432" text="Roberto Moya Silva" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="437" end="446" text="517564913" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="448" end="503" text="Gastroenterólogo Especialista en Enfermedades Hepáticas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="505" end="598" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="600" end="629" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="631" end="636" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="638" end="644" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="646" end="652" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="672" end="682" text="17/10/2024" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="693" end="701" text="48065133" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="719" end="743" text="Centro de Salud Aranjuez" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="787" end="818" text="ascendencia asiática occidental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="822" end="828" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="855" end="861" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T29" start="943" end="954" text="KR282FRG961" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

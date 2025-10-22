@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Ramón Vicente Salazar
+DNI: 91686845J
+Fecha de nacimiento: 17/02/1953
+Género: Hombre
+Domicilio: Calle de la Reina 49, 7T
+Ciudad: Pamplona, Sevilla, Andalucía
+Código postal: 41165
+Email: joseramon.salazar@udc.es
+Teléfono fijo: +34 954 57 66 18
+Teléfono móvil: +34 654 43 19 25
+NHC: 5782796
+NASS: 661459126610
+Condición de riesgo: Trabajador de Minería
+
+Datos asistenciales.
+Médico: Dr. Fernando Benítez Ferrer. NC 720346537. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/04/2004
+Episodio: 08720153
+Centro de salud: Centro de Salud Delicias
+Matrícula del coche: 0312BUI
+Modelo: Honda CR-V
+VIN: VSZBXVTO7PL997519
+
+Informe clínico del paciente:
+Paciente fumador de 51 años de edad, acompañado de su abuela. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es FD232JWM789. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es CL513EEW857. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="José Ramón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="54" text="Vicente Salazar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="91686845J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="17/02/1953" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="116" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="152" text="Calle de la Reina 49, 7T" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="161" end="169" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="178" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="180" end="189" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="41165" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="242" text="joseramon.salazar@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="258" end="274" text="+34 954 57 66 18" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="291" end="307" text="+34 654 43 19 25" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="313" end="320" text="5782796" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="327" end="339" text="661459126610" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="361" end="382" text="Trabajador de Minería" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="417" end="440" text="Fernando Benítez Ferrer" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="445" end="454" text="720346537" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="456" end="489" text="Residente de 5° año en Neurología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="491" end="580" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="582" end="611" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="613" end="618" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="620" end="626" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="628" end="634" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="654" end="664" text="03/04/2004" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="675" end="683" text="08720153" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="701" end="725" text="Centro de Salud Delicias" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="747" end="754" text="0312BUI" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="779" end="796" text="VSZBXVTO7PL997519" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="837" end="844" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="848" end="855" text="51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="882" end="888" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T33" start="972" end="983" text="FD232JWM789" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T34" start="1066" end="1077" text="CL513EEW857" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

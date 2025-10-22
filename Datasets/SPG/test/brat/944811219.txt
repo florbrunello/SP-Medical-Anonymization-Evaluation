@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Valeria Flores Soler
+DNI: 24056413T
+Fecha de nacimiento: 03/07/1966
+Género: Mujer
+Domicilio: Calle de Villalar 87, 3C
+Ciudad: San Fernando, Guipúzcoa, Pais Vasco
+Código postal: 20478
+Email: floressoler506@uhu.es
+Teléfono fijo: +34 943 78 09 66
+Teléfono móvil: +34 643 37 74 20
+NHC: 5546131
+Condición de riesgo: Soldado
+
+Datos asistenciales.
+Médico: Dra. Magdalena Bueno Jurado. NC 332103238. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/06/2018
+Hospital: Hospital Universitari Vall d'Hebron
+Matrícula del coche: 3646QHD
+Modelo: BMW 3 Series
+VIN: VSL28OLAC5K049906
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 51 años de edad, acompañado de su abuela. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.153.14, con dirección MAC 99:DB:E8:CC:A0:80. El servidor para envío de información desde cual el usuario se comunica es smtp://example-medical.edu. 

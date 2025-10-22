@@ -1,0 +1,31 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 1 20	Lourdes Villanueva Sierra
+T2	ID_SUJETO_ASISTENCIA 22 35	77371673H
+T3	FECHAS 36 44	04/01/1964
+T4	SEXO_SUJETO_ASISTENCIA 45 48	Mujer
+T5	CALLE 49 74	Calle del Marqués de Urquijo 87, 10H
+T6	TERRITORIO 75 85	Ibiza, Lérida, Cataluña
+T7	TERRITORIO 86 96	25850
+T8	CORREO_ELECTRONICO 97 126	lourdes1625@ciberer.es
+T9	NUMERO_TELEFONO 127 143	+34 973 80 70 12
+T10	NUMERO_TELEFONO 144 158	+34 773 89 80 04
+T11	ID_SUJETO_ASISTENCIA 159 172	4735201
+T12	ID_SUJETO_ASISTENCIA 173 192	530480440128
+T13	OTRO_NUMERO_IDENTIF 193 206	Conserje
+T14	NOMBRE_PERSONAL_SANITARIO 207 237	Dr. Gonzalo Roca Reyes
+T15	ID_TITULACION_PERSONAL_SANITARIO 238 253	597246267
+T16	PROFESION 254 263	Investigador Clínico en Medicina Interna
+T17	INSTITUCION 264 291	Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)
+T18	CALLE 292 314	Avenida Menéndez Pidal, s/n
+T19	TERRITORIO 315 323	14004
+T20	TERRITORIO 324 329	España
+T21	FECHAS 330 338	23/02/1988
+T22	ID_CONTACTO_ASISTENCIAL 339 346	09122829
+T23	HOSPITAL 347 369	Centro de Salud Conde de Casal
+T24	EDAD_SUJETO_ASISTENCIA 370 379	58 años
+T25	OTROS_SUJETO_ASISTENCIA 380 389	Paciente vegano
+T26	OTROS_SUJETO_ASISTENCIA 390 401	con antecedentes de hipertensión arterial y dislipidemia
+T27	OTROS_SUJETO_ASISTENCIA 402 414	Se presentó en la consulta con síntomas de dolor en el pecho y dificultad para respirar
+T28	OTROS_SUJETO_ASISTENCIA 415 431	La exploración física reveló hipertensión arterial y taquicardia
+T29	OTROS_SUJETO_ASISTENCIA 432 445	Se realizaron pruebas de laboratorio y de imagen para evaluar la causa de los síntomas
+T30	OTROS_SUJETO_ASISTENCIA 446 459	El diagnóstico fue angina de pecho, y se inició tratamiento con medicamentos para controlar la hipertensión y la dislipidemia
+T31	OTROS_SUJETO_ASISTENCIA 460 475	El paciente fue instruido sobre la importancia de seguir un estilo de vida saludable y de controlar los factores de riesgo para prevenir complicaciones cardiacas

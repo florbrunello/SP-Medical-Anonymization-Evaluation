@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Miriam</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Salas Pascual</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">92058055A</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">12/10/2007</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Covarrubias 27</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Hellín</TAG>, <TAG TYPE="TERRITORIO">Almería</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">04906</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">miriam_pascual@uca.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 950 64 25 21</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 650 30 64 30</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4186613</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">403436517607</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Minería</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Samuel Hidalgo Aparicio</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">167533492</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardiólogo Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/06/2011</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">89303381</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Cabueñes</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">4336TJB</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mercedes-Benz C-Class</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSZP776JWCE799419</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

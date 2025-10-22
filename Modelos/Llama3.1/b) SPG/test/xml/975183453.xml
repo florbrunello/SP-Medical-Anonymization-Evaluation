@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lidia Avila</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mateo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">65003623B</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/12/1961</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de los Embajadores 99</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Castellón de la Plana</TAG>, <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">37987</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">lidia_avila_mateo@salud.madrid.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 00 73 08</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 623 70 52 51</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3471273</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">398774872084</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jon Izquierdo Trujillo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">714927639</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">13/06/1984</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Parla</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

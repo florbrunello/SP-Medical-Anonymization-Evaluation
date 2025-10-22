@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jon</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Guerra Bernal</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">89145293F</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">20/08/1933</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Luna 73</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcázar de San Juan</TAG>, <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">13550</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jon-guerra@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 00 28 24</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 626 55 03 82</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6118450</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">391091042378</TAG>
+    Condición de riesgo: 
+    <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sobreviviente de violencia</TAG>
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Luisa Lorenzo Díaz</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">776070173</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Psiquiatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">29/07/1962</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Asistencial Universitario de León</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sobreviviente de violencia</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">28 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

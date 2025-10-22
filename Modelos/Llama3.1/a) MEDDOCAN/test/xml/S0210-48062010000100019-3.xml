@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Maria</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jaime Robles</TAG>.
+    CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc-8945154</TAG>.
+    NASS:.
+    Domicilio: <TAG TYPE="CALLE">Avenida de la albufera 56</TAG>. <TAG TYPE="NUMERO_DOMICILIO">3D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28009</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8945154</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/09/1933</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">84 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">28/10/2017</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ángel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García Escudero</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 64132</TAG>.
+    Historia Actual: Paciente <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Maria</TAG> mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">84 años</TAG> diagnosticada de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">artritis reumatoide</TAG>, que ingresó de urgencia por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">distensión abdominal</TAG>. Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">íleo suboclusivo</TAG> se instauró inicialmente tratamiento médico. Sin ningún antecedente urológico, comenzó a las pocas horas del sondaje uretral con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematuria</TAG>, que se hizo muy intensa, evolucionando a la formación de un gran coágulo vesical que ocupaba toda la cavidad, observando además en la tomografía axial computarizada <TAG TYPE="OTROS_SUJETO_ASISTENCIA">líquido</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gas perivesical</TAG>. Se procedió a intervención quirúrgica urgente, observando un tramo de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">íleon</TAG> de 1,5 m de longitud hasta 10 cm de la válvula ileocecal, de aspecto <TAG TYPE="OTROS_SUJETO_ASISTENCIA">violáceo edematoso</TAG>, la cual se recupera adquiriendo aspecto, coloración y peristaltismo normales; presentaba una pequeña <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fisura</TAG> en la pared vesical, por lo que se le practicó una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cistotomía</TAG> con la que se drena el gran coágulo, observando <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sangrado</TAG> en sábana de la pared y gran <TAG TYPE="OTROS_SUJETO_ASISTENCIA">friabilidad</TAG> de la misma, tomando <TAG TYPE="OTROS_SUJETO_ASISTENCIA">biopsias</TAG> múltiples y realizando posteriormente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ligadura</TAG> de ambas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipogástricas</TAG>. En el postoperatorio inmediato, tras un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">anuria</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alteración hemodinámica</TAG> severa, llegó al <TAG TYPE="OTROS_SUJETO_ASISTENCIA">exitus</TAG> (<TAG TYPE="FECHAS">09/05/2000</TAG>). El diagnóstico anatomopatológico reveló que todas las <TAG TYPE="OTROS_SUJETO_ASISTENCIA">biopsias</TAG> vesicales que fueron practicadas tenían <TAG TYPE="OTROS_SUJETO_ASISTENCIA">depósito amiloide</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">AA</TAG>) <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vascular</TAG> e <TAG TYPE="OTROS_SUJETO_ASISTENCIA">intersticial</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ángel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García Escudero</TAG>: <TAG TYPE="CORREO_ELECTRONICO">agareslo@telefonica.net</TAG> (<TAG TYPE="NUMERO_TELEFONO">)</TAG>
+  </TEXT>
+</MEDDOCAN>

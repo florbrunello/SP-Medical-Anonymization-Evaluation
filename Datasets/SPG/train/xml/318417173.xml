@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Paula Marti Cabrera
+DNI: 64814671G
+Fecha de nacimiento: 02/11/2005
+Género: F
+Domicilio: Calle de Segovia 41
+Ciudad: Bormujos, Albacete, Castilla-La Mancha
+Código postal: 02326
+Email: cabrera1451@gmail.com
+Teléfono fijo: +34 967 48 11 79
+FAX: +34 967 39 45 31
+NHC: 6888610
+NASS: 237054018861
+
+Datos asistenciales.
+Médico: Dra. María Jesús Vázquez Caballero. NC 665233746. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/08/2012
+Episodio: 01057455
+Hospital: Complejo Hospitalario Universitario de Lugo
+Matrícula del coche: 5377YPG
+Modelo: Chevrolet Silverado
+VIN: VSX6VDQTSFJ682712
+
+Informe clínico del paciente:
+Paciente de tez blanca de 6 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Paula" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Marti Cabrera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="64814671G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="02/11/2005" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="135" text="Calle de Segovia 41" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="144" end="152" text="Bormujos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="154" end="162" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="182" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="02326" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="232" text="cabrera1451@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 967 48 11 79" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="270" end="286" text="+34 967 39 45 31" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="292" end="299" text="6888610" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="306" end="318" text="237054018861" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="594" end="604" text="24/08/2012" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="615" end="623" text="01057455" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="634" end="677" text="Complejo Hospitalario Universitario de Lugo" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="699" end="706" text="5377YPG" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="740" end="757" text="VSX6VDQTSFJ682712" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="801" end="811" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="815" end="821" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="848" end="855" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

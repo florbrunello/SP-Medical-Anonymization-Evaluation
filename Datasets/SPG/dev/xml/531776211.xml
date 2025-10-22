@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Jesús Escudero Ruiz
+DNI: 57282215W
+Fecha de nacimiento: 07/04/1986
+Género: Masculino
+Domicilio: Calle de Amor de Dios 60
+Ciudad: Aranda de Duero, Las Palmas, Canarias
+Código postal: 35749
+Email: escudero137@ucm.es
+Teléfono fijo: +34 928 97 05 72
+Teléfono móvil: +34 628 76 38 32
+NHC: 7848698
+NASS: 902606212871
+Condición de riesgo: Trabajador de Residuos Sólidos
+
+Datos asistenciales.
+Médico: Dra. Noa Redondo Hernández. NC 638635451. Neuropsicóloga Clínica Investigadora. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/09/2011
+Episodio: 16363420
+Centro de salud: Centro de Salud Sevilla Sur
+
+Informe clínico del paciente:
+Paciente vegano de 25 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Jesús" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Escudero Ruiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="57282215W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="07/04/1986" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="112" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="148" text="Calle de Amor de Dios 60" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="172" text="Aranda de Duero" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="174" end="184" text="Las Palmas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="186" end="194" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="35749" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="241" text="escudero137@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 928 97 05 72" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="290" end="306" text="+34 628 76 38 32" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="312" end="319" text="7848698" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="326" end="338" text="902606212871" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="360" end="390" text="Trabajador de Residuos Sólidos" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="645" end="655" text="16/09/2011" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="666" end="674" text="16363420" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="692" end="719" text="Centro de Salud Sevilla Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="760" end="766" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="770" end="777" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

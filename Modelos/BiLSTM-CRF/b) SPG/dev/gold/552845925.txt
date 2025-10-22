@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Víctor Manuel Rivero Flores
+DNI: 56605065H
+Fecha de nacimiento: 28/06/1936
+Género: V
+Domicilio: Calle de Eduardo Dato 22
+Ciudad: Béjar, León, Castilla y León
+Código postal: 24584
+Email: riveroflores@ioba.med.uva.es
+Teléfono fijo: +34 987 26 01 31
+Teléfono móvil: +34 787 26 11 84
+NHC: 9919438
+NASS: 208817886050
+
+Datos asistenciales.
+Médico: Dr. Raúl Moya Gómez. NC 721097702. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/03/1985
+Episodio: 25104494
+Centro de salud: Centro de Salud Pozuelo de Alarcón
+Matrícula del coche: 5168MZB
+Modelo: Chevrolet Silverado
+VIN: VSIP4G6YA3J240170
+
+Informe clínico del paciente:
+Paciente discapacitado de 48 años de edad, acompañado de su marido. 

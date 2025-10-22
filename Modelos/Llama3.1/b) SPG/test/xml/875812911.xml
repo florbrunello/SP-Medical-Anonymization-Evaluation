@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Moisés</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Exposito Villar</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">34803767Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Miguel Ángel 42</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Elche</TAG>, <TAG TYPE="TERRITORIO">Huesca</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">22872</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">moises752@ciberer.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 974 28 67 69</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 774 07 88 03</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9274670</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">530928979932</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Bombero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Jesús Mora Abad</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">837171611</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">69836455</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Collado Villalba</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1991WNB</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Nissan Altima</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSKU9WW379G794371</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0 meses</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermana</TAG>. Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">http://example-cardiology.com//78533406Y</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Francisco José Arias Crespo</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">95424839R</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/08/1926</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Cabeza 60</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Liria</TAG>, <TAG TYPE="TERRITORIO">Barcelona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">08799</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">crespo1398@ucm.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 939 88 04 55</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 934 13 32 71</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7522142</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ingeniero de Minas</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ramón Bermudez Diez</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 528936055</TAG>. <TAG TYPE="PROFESION">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">04/09/2008</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">12825761</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Fundación Alcorcón</TAG>.
+    Informe clínico del paciente:
+    El paciente es un hombre de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">82 años</TAG> de edad, de ascendencia caribeña, que se encuentra acompañado de su marido. Presenta una historia clínica compleja, con antecedentes de ansiedad y depresión en el pasado. En la exploración física, se observa que el paciente tiene una buena condición física, sin signos de enfermedad crónica. Sin embargo, presenta una actitud de ansiedad y nerviosismo, con una tendencia a la hipervigilancia.
+    La exploración neurológica revela una función cognitiva normal, sin signos de demencia o deterioro cognitivo. El paciente tiene una buena coordinación motora y una función sensorial normal. Sin embargo, presenta una tendencia a la inquietud y la agitación, con un aumento de la frecuencia cardíaca y la presión arterial.
+    Los resultados de las pruebas de laboratorio muestran una función renal normal, sin signos de insuficiencia renal. El paciente tiene una función hepática normal, sin signos de enfermedad hepática. Sin embargo, presenta una tendencia a la anemia, con un nivel de hemoglobina ligeramente bajo.
+    En cuanto a la evolución clínica, el paciente ha presentado una serie de episodios de ansiedad y depresión en el pasado, con una tendencia a la recurrencia. En la actualidad, el paciente se encuentra en un estado de ansiedad aguda, con una tendencia a la hipervigilancia y la inquietud. El tratamiento se ha centrado en la administración de medicamentos antipsicóticos y ansiolíticos, con una buena respuesta clínica.
+    Evolución y comentarios:
+    El paciente ha presentado una buena respuesta al tratamiento, con una reducción significativa de los síntomas de ansiedad y depresión. Sin embargo, el paciente sigue presentando una tendencia a la inquietud y la agitación, lo que requiere una vigilancia continua y un ajuste del tratamiento según sea necesario.
+    Remitido por:
+    El paciente ha sido remitido a su domicilio, con instrucciones para seguir el tratamiento y realizar una serie de pruebas de seguimiento para evaluar la evolución clínica. El paciente y su marido han sido informados sobre la importancia de la adherencia al tratamiento y la necesidad de realizar una vigilancia continua para prevenir la recurrencia de los síntomas.
+  </TEXT>
+</MEDDOCAN>

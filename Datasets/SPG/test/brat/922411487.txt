@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Laia Iglesias Menendez
+DNI: 77083956P
+Fecha de nacimiento: 04/12/1997
+Género: F
+Domicilio: Calle de Villalar 79
+Ciudad: Talavera de la Reina, Navarra, Navarra
+Código postal: 31568
+Email: laia-menendez@ciberehd.org
+Teléfono fijo: +34 948 60 07 30
+FAX: +34 948 21 79 70
+NHC: 0742330
+NASS: 870147979675
+
+Datos asistenciales.
+Médico: Dr. Darío Zamora Salazar. NC 365925853. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/05/2023
+Hospital: Complejo Hospitalario Torrecárdenas
+Matrícula del coche: 0655BBY
+Modelo: Toyota RAV4
+VIN: VSL0JHTV4ME546309
+
+Informe clínico del paciente:
+Paciente exfumador de 25 años de edad, acompañado de su marido. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. Se registró una sesión de huella dactilar, el código obtenido para revisarla es VC416CUV269. Se registró una sesión de firma biométrica, el código obtenido para revisarla es TL662HQD224. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es GX395SZQ676. 

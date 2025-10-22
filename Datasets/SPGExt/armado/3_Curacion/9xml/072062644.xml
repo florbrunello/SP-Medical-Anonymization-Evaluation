@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Agustín</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Soler Molina</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">67480947M</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">25/07/1941</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Cabeza del Rey Don Pedro 53, 3V</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Vilanova i la Geltrú</TAG>, <TAG TYPE="TERRITORIO">Orense</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">32520</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">soler.molina@aol.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 988 42 50 21</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 988 95 21 70</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2578908</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">280142406703</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">No especificado</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. María Antonia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ríos Gallego</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">444497372</TAG>. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">31/01/1972</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">80387688</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Móstoles</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30 años</TAG> de edad, de ascendencia europea oriental, que acude al servicio de urgencias con sintomatología leve. La exploración física revela: Tª <TAG TYPE="OTROS_SUJETO_ASISTENCIA">36,5 C</TAG>; T.A: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120/80 mmHg</TAG>; Fc: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">80 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración ni fiebre. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="OTROS_SUJETO_ASISTENCIA">14,5 g/dl</TAG>; leucocitos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">7.500/mm3</TAG> (neutrófilos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">60%</TAG>); plaquetas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">200.000/mm3</TAG>. VSG: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90%</TAG>; TTPA <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">100 mg/dl</TAG>; urea <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 mg/dl</TAG>; creatinina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">0,8 mg/dl</TAG>; sodio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">140 mEq/l</TAG>; potasio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">4,2 mEq/l</TAG>; GOT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">15 U/l</TAG>; GPT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25 U/l</TAG>; GGT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120 U/l</TAG>; calcio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicita una exploración complementaria para determinar la causa subyacente de la sintomatología leve. El paciente se encuentra estable y sin signos de alarma. Se le prescribe un tratamiento sintomático y se le recomienda realizar una revisión en el servicio de medicina general dentro de las próximas 24 horas.
+    Antecedentes:
+    No especificados.
+    Evolución y comentarios:
+    El paciente se encuentra estable y sin signos de alarma. La exploración complementaria no ha revelado signos de patología significativa.
+    Remitido por:
+    No especificado.
+  </TEXT>
+</MEDDOCAN>

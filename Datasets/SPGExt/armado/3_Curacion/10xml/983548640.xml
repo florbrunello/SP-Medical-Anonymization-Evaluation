@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Carmen Arias Cuesta</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">30046810R</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/05/1999</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Ribera 26</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Aranda de Duero, Mallorca, Islas Baleares</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">07094</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">cuesta@isciii.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 54 92 21</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 771 95 43 43</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2268486</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">922106784855</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Limpiador</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Lidia Bermudez Vargas</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">847350089</TAG>. Psiquiatra Especialista en Trastornos de Ansiedad. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">29/04/2010</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Latina</TAG>.
+    Informe clínico del paciente:
+    Paciente de ascendencia sudamericana de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 años</TAG> de edad, acompañado de su madre. Presenta una historia previa de ansiedad en el colegio y problemas de sueño. En la exploración física se observa una tensión arterial de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">120/80 mmHg</TAG>, frecuencia cardíaca de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">80 latidos por minuto</TAG> y temperatura corporal de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">36,5°C</TAG>. La madre informa que el paciente ha estado presentando síntomas de ansiedad en los últimos 2 meses, como dificultad para conciliar el sueño, nerviosismo y miedo a estar solo. El paciente también informa de sentirse cansado y sin energía.
+    Antecedentes:
+    El paciente tiene una historia familiar de trastornos de ansiedad, con su abuela paterna diagnosticada de ansiedad generalizada. El paciente también ha estado expuesto a situaciones estresantes en el colegio, como la presión para rendir bien en las pruebas y la falta de apoyo de sus compañeros.
+    Evolución y comentarios:
+    El paciente ha sido evaluado con una prueba de ansiedad y se ha determinado que su nivel de ansiedad es moderado. Se le ha prescrito un tratamiento con un medicamento antidepresivo y se le ha recomendado que practique técnicas de relajación, como la meditación y la respiración profunda. El paciente y su madre han sido educados sobre el tratamiento y se les ha dado consejos sobre cómo manejar la ansiedad en el hogar.
+    Remitido por:
+    El paciente ha sido remitido por su médico de cabecera, quien ha observado un aumento en la ansiedad del paciente en las últimas semanas. El médico de cabecera ha recomendado que el paciente busque atención psiquiátrica para evaluar y tratar su ansiedad.
+  </TEXT>
+</MEDDOCAN>

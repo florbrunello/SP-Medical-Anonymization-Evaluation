@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Mercedes Esteban Román
+DNI: 98180830V
+Fecha de nacimiento: 19/04/1932
+Género: Femenino
+Domicilio: Calle de Velázquez 82, 8G
+Ciudad: San Pedro del Pinatar, Valladolid, Castilla y León
+Código postal: 47837
+Email: mariamercedes_esteban-roman@hotmail.com
+Teléfono fijo: +34 983 91 11 05
+Teléfono móvil: +34 683 89 74 51
+NHC: 5725280
+NASS: 272613273936
+Condición de riesgo: Trabajador Industrial
+
+Datos asistenciales.
+Médico: Dra. Adriana Rubio García. NC 970931596. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 21/07/1970
+Centro de salud: Centro de Salud Parla
+
+Informe clínico del paciente:
+Paciente judío de 38 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="42" text="María Mercedes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="43" end="56" text="Esteban Román" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="62" end="71" text="98180830V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="93" end="103" text="19/04/1932" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="112" end="120" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="132" end="157" text="Calle de Velázquez 82, 8G" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="166" end="187" text="San Pedro del Pinatar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="189" end="199" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="201" end="216" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="232" end="237" text="47837" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="245" end="284" text="mariamercedes_esteban-roman@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="300" end="316" text="+34 983 91 11 05" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="333" end="349" text="+34 683 89 74 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="355" end="362" text="5725280" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="369" end="381" text="272613273936" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="403" end="424" text="Trabajador Industrial" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="669" end="679" text="21/07/1970" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="697" end="718" text="Centro de Salud Parla" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="759" end="764" text="judío" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="768" end="775" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

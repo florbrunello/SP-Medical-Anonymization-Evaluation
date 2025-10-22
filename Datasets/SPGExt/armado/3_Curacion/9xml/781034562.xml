@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Isaac Cabrera Palacios</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">94578701X</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/08/1967</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Ferraz 55, 6T</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Plasencia, Formentera, Islas Baleares</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">07363</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">cabrera395@outlook.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 51 47 64</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 671 33 03 02</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7670607</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">459688521</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Fumador</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Nuria</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Garrido Roldan</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">459688521</TAG>. <TAG TYPE="PROFESION">Oftalmóloga Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/02/1994</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">70376857</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Coslada</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG> fumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">26 años</TAG> de edad, con antecedentes de consumo de tabaco desde los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">18 años</TAG>, con un promedio de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 cigarros diarios</TAG>. Presenta una evolución clínica de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8 años</TAG>, con un aumento progresivo de la visión borrosa en ambos ojos, especialmente en la distancia. La exploración física revela una visión de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20/50</TAG> en ambos ojos, con un aumento de la presión intraocular en el ojo derecho. Los resultados de las pruebas diagnósticas, incluyendo la oftalmoscopia y la ecografía, no muestran patología significativa en la retina o el vitreo. Se recomienda un seguimiento regular para monitorizar la evolución de la enfermedad y considerar el tratamiento con láser o cirugía si es necesario.
+    Evolución y comentarios:
+    El paciente ha sido tratado con un programa de reducción del consumo de tabaco y se le ha recomendado una dieta equilibrada y un estilo de vida saludable. Se le ha asignado un seguimiento regular para monitorizar la evolución de la enfermedad.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Nuria</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Garrido Roldan</TAG>.
+  </TEXT>
+</MEDDOCAN>

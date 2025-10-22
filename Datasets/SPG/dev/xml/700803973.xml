@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Catalina Manzano Ibáñez
+DNI: 71267859J
+Fecha de nacimiento: 06/02/2005
+Género: Femenino
+Domicilio: Calle de Atocha 22
+Ciudad: Cádiz, Huesca, Aragón
+Código postal: 22776
+Email: catalinamanzano.ibanez@ual.es
+Teléfono fijo: +34 974 41 35 93
+Teléfono móvil: +34 674 22 53 93
+NHC: 0323084
+NASS: 307613557253
+
+Datos asistenciales.
+Médico: Dra. Sara Jurado Álvarez. NC 932385506. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/10/2016
+Hospital: Complejo Hospitalario Torrecárdenas
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 11 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Catalina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="51" text="Manzano Ibáñez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="71267859J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="06/02/2005" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="115" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="127" end="145" text="Calle de Atocha 22" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="159" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="167" text="Huesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="175" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="22776" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="233" text="catalinamanzano.ibanez@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 974 41 35 93" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 674 22 53 93" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="304" end="311" text="0323084" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="318" end="330" text="307613557253" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="610" end="620" text="14/10/2016" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="631" end="666" text="Complejo Hospitalario Torrecárdenas" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="710" end="738" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="742" end="749" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="776" end="781" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

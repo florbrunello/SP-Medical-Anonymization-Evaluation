@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Tomás Santiago</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Guerrero</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">31877668J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/07/1992</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Ana 22, 7M</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Lugo</TAG>, <TAG TYPE="TERRITORIO">Navarra</TAG>, <TAG TYPE="TERRITORIO">Navarra</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">31206</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">tomas.santiago_guerrero874@hotmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 948 35 69 50</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 748 27 64 84</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8307550</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">517576977788</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tamara Martínez Santamaria</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">036531733</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuróloga Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">21/02/2011</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">22855131</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario 12 de Octubre</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7964YBM</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Subaru Outback</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSCTBH344VF896879</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia nórdica o escandinava</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">18 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

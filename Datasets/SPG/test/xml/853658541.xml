@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Roberto Sierra Abad
+DNI: 43106323E
+Fecha de nacimiento: 15/03/1961
+Género: M
+Domicilio: Calle de Valverde 96, 7S
+Ciudad: Lorca, Navarra, Navarra
+Código postal: 31143
+Email: roberto_sierra-abad@ual.es
+Teléfono fijo: +34 948 00 48 26
+FAX: +34 948 05 48 86
+NHC: 5741672
+
+Datos asistenciales.
+Médico: Dra. Ana María Serrano Ríos. NC 390883409. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/07/1978
+Hospital: Hospital Universitario Reina Sofía de Córdoba
+
+Informe clínico del paciente:
+Paciente musulman de 17 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Roberto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="47" text="Sierra Abad" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="43106323E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="15/03/1961" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="140" text="Calle de Valverde 96, 7S" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="154" text="Lorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="163" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="172" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="188" end="193" text="31143" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="201" end="227" text="roberto_sierra-abad@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="243" end="259" text="+34 948 00 48 26" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="265" end="281" text="+34 948 05 48 86" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="287" end="294" text="5741672" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="577" end="587" text="26/07/1978" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T16" start="598" end="643" text="Hospital Universitario Reina Sofía de Córdoba" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T17" start="684" end="692" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T18" start="696" end="703" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Sebastián Costa Vargas
+DNI: 98802423N
+Fecha de nacimiento: 26/09/1978
+Género: Hombre
+Domicilio: Calle de Recoletos 26
+Ciudad: Segovia, Cantabria, Cantabria
+Código postal: 39995
+Email: sebastian@aol.com
+Teléfono fijo: +34 942 53 49 47
+Teléfono móvil: +34 642 89 78 86
+NHC: 5978763
+NASS: 001914869618
+
+Datos asistenciales.
+Médico: Dr. Eduardo Salazar Plaza. NC 331837765. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/04/1993
+Episodio: 65990564
+Hospital: Hospital de la Santa Creu i Sant Pau
+Matrícula del coche: 9180SXT
+Modelo: Toyota Corolla
+VIN: VSELMSYPQHQ648618
+
+Informe clínico del paciente:
+Paciente fumador de 14 años de edad, acompañado de su madre. 

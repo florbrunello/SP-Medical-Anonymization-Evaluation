@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Arias Sierra
+DNI: 91993201D
+Fecha de nacimiento: 30/07/1956
+Género: Varón
+Domicilio: Calle de Santa Engracia 80, 5Y
+Ciudad: Lleida, Huesca, Aragón
+Código postal: 22088
+Email: juan@aol.com
+Teléfono fijo: +34 974 45 45 50
+Teléfono móvil: +34 774 12 17 33
+NHC: 3366699
+NASS: 988164436801
+Condición de riesgo: Electricista
+
+Datos asistenciales.
+Médico: Dr. Juan Luis Villar Rico. NC 158401239. Neurólogo Investigador en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 11/09/2022
+Hospital: Hospital Universitario Río Hortega
+Matrícula del coche: 0971AYY
+Modelo: Chevrolet Silverado
+VIN: VSRNTSHZ5KV880200
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 66 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Juan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="45" text="Arias Sierra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="91993201D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="30/07/1956" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="106" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="148" text="Calle de Santa Engracia 80, 5Y" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="163" text="Lleida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="171" text="Huesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="179" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="22088" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="220" text="juan@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="236" end="252" text="+34 974 45 45 50" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="269" end="285" text="+34 774 12 17 33" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="291" end="298" text="3366699" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="305" end="317" text="988164436801" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="339" end="351" text="Electricista" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="386" end="407" text="Juan Luis Villar Rico" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="412" end="421" text="158401239" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="423" end="470" text="Neurólogo Investigador en Trastornos Cognitivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="472" end="544" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="546" end="569" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="571" end="576" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="578" end="584" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="586" end="592" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="612" end="622" text="11/09/2022" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="633" end="667" text="Hospital Universitario Río Hortega" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="689" end="696" text="0971AYY" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="730" end="747" text="VSRNTSHZ5KV880200" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="791" end="824" text="ascendencia indígena sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="828" end="835" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

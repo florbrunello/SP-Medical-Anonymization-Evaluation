@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rubén Márquez Camacho</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">92302765Q</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/07/1952</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Menorca 45</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Teruel</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">14965</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ruben.camacho1035@gmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 957 92 34 38</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 957 04 04 29</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2831752</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">234567890123</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente con antecedentes de enfermedades cardiovasculares</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Carolina</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carmona Costa</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">133281459</TAG>. <TAG TYPE="PROFESION">Cardióloga Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="HOSPITAL">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">25/09/2008</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">46605451</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Torrecárdenas</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">56 años</TAG> de edad, acompañado de su madre, con antecedentes de enfermedades cardiovasculares y un historial de hipertensión arterial y colesterol elevado. El paciente se refirió a síntomas de dolor torácico y disnea en las últimas 48 horas, lo que llevó a su ingreso en el hospital.
+    La exploración física revela: <TAG TYPE="FECHAS">Tª 38,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 140/90 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 80 lpm</TAG>. El paciente se encuentra consciente, orientado, sudoroso, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. La auscultación cardíaca revela un ritmo cardíaco irregular, con soplos y roces en la zona del corazón. La auscultación pulmonar muestra una conservación del murmullo vesicular.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="FECHAS">Hemograma: Hb 14,5 g/dl</TAG>; <TAG TYPE="FECHAS">leucocitos 12.000/mm3 (neutrófilos 70%)</TAG>; <TAG TYPE="FECHAS">plaquetas 250.000/mm3</TAG>. <TAG TYPE="FECHAS">VSG: 60 mm 1ª hora</TAG>. <TAG TYPE="FECHAS">Coagulación: TQ 90%</TAG>; <TAG TYPE="FECHAS">TTPA 30,5 seg</TAG>. <TAG TYPE="FECHAS">Bioquímica: Glucosa 120 mg/dl</TAG>; <TAG TYPE="FECHAS">urea 30 mg/dl</TAG>; <TAG TYPE="FECHAS">creatinina 1,2 mg/dl</TAG>; <TAG TYPE="FECHAS">sodio 135 mEq/l</TAG>; <TAG TYPE="FECHAS">potasio 4,2 mEq/l</TAG>; <TAG TYPE="FECHAS">GOT 25 U/l</TAG>; <TAG TYPE="FECHAS">GPT 30 U/l</TAG>; <TAG TYPE="FECHAS">GGT 45 U/l</TAG>; <TAG TYPE="FECHAS">fosfatasa alcalina 150 U/l</TAG>; <TAG TYPE="FECHAS">calcio 9,5 mg/dl</TAG>.
+    Se solicitan pruebas de imagen (Ecografía cardíaca, TAC cardíaco, Ecocardiograma transtorácico) que revelan una cardiomiopatía dilatada con disfunción ventricular izquierda y una estenosis aórtica significativa. Con el diagnóstico de cardiomiopatía dilatada y estenosis aórtica, se instaura tratamiento médico (anticoagulantes, antihipertensivos, diuréticos) y se programan pruebas de imagen periódicas para monitorear la evolución del paciente.
+  </TEXT>
+</MEDDOCAN>

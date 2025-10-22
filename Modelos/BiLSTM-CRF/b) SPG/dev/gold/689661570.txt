@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Nerea Moreno Mateos
+DNI: 85377708Y
+Fecha de nacimiento: 07/02/1946
+Género: Mujer
+Domicilio: Calle del Doctor Esquerdo 91, 1Y
+Ciudad: Xàtiva, Almería, Andalucía
+Código postal: 04792
+Email: nerea@isciii.es
+Teléfono fijo: +34 950 25 25 67
+Teléfono móvil: +34 650 37 63 96
+NHC: 0047320
+NASS: 356096115453
+Condición de riesgo: Limpiador
+
+Datos asistenciales.
+Médico: Dra. María Cristina Galvez Hidalgo. NC 261726611. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/01/1953
+Episodio: 04886371
+Hospital: Hospital Universitario Fundació Jiménez Díaz
+Matrícula del coche: 4137GZK
+Modelo: Honda Civic
+VIN: VSVIQVWY8BY760590
+
+Informe clínico del paciente:
+Paciente de ascendencia oceánica de 6 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-dermatology.org//83288308Z. 

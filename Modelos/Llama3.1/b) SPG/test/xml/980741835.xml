@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Josefa</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Núñez Zamora</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">80846408M</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/11/1927</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle Mayor 80</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Burgos</TAG>, <TAG TYPE="TERRITORIO">Región de Murcia</TAG>, <TAG TYPE="TERRITORIO">Región de Murcia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">30684</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariajosefa.nunezzamora@isciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 968 26 94 08</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 768 84 78 40</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4177813</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">117556076503</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Laboratorio</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ana Isabel Domínguez Gil</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">837036567</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardióloga de Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/08/1975</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Crúces</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1090JFQ</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ford Mustang</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSY27JP1BJD366945</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">47 años</TAG> de edad. Se registró una sesión de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">KT511AEO403</TAG>.
+  </TEXT>
+</MEDDOCAN>

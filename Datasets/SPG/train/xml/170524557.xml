@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Enrique Sánchez Vila
+DNI: 47934404N
+Fecha de nacimiento: 06/08/1960
+Género: V
+Domicilio: Calle de Zurbano 13
+Ciudad: Xàtiva, Albacete, Castilla-La Mancha
+Código postal: 02971
+Email: enrique-sanchezvila@us.es
+Teléfono fijo: +34 967 85 52 76
+Teléfono móvil: +34 767 13 34 31
+NHC: 6588869
+NASS: 009401269105
+Condición de riesgo: Trabajador Industrial
+
+Datos asistenciales.
+Médico: Dra. Gloria Vega Gutiérrez. NC 022680867. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/11/1972
+Episodio: 95117100
+Hospital: Hospital Universitario Doctor Peset
+Matrícula del coche: 0894XSI
+Modelo: Mercedes-Benz C-Class
+VIN: VSZKYHFXRWT653168
+
+Informe clínico del paciente:
+Paciente de ascendencia centroasiática de 12 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Enrique" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Sánchez Vila" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="47934404N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="06/08/1960" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="136" text="Calle de Zurbano 13" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="151" text="Xàtiva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="161" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="163" end="181" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="02971" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="235" text="enrique-sanchezvila@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 967 85 52 76" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 767 13 34 31" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="6588869" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="009401269105" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="354" end="375" text="Trabajador Industrial" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="657" end="667" text="24/11/1972" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="678" end="686" text="95117100" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="697" end="732" text="Hospital Universitario Doctor Peset" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="754" end="761" text="0894XSI" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="797" end="814" text="VSZKYHFXRWT653168" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="858" end="884" text="ascendencia centroasiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="888" end="895" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="922" end="927" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

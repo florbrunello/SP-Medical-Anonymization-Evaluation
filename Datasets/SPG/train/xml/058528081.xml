@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Miriam Contreras Escudero
+DNI: 80827695Z
+Fecha de nacimiento: 09/05/2004
+Género: M
+Domicilio: Calle del Duque de Alba 58
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52023
+Email: LS0mn@uhu.es
+Teléfono fijo: +34 956 46 20 02
+Teléfono móvil: +34 656 90 48 64
+NHC: 5163263
+NASS: 781658362040
+
+Datos asistenciales.
+Médico: Dra. María Antonia López Robles. NC 049471038. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/02/2024
+Hospital: Hospital General Universitario Morales Meseguer
+Matrícula del coche: 4463EXT
+Modelo: Ford F-150
+VIN: VSLHNKB2R9G964314
+
+Informe clínico del paciente:
+Paciente fumador de 19 años de edad, acompañado de su compañero de trabajo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Miriam" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="53" text="Contreras Escudero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="80827695Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="09/05/2004" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="148" text="Calle del Duque de Alba 58" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="181" text="Ciudad autónoma de Ceuta" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="183" end="189" text="Ceuta," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="206" end="211" text="52023" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="219" end="231" text="LS0mn@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="247" end="263" text="+34 956 46 20 02" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="280" end="296" text="+34 656 90 48 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T13" start="302" end="309" text="5163263" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="316" end="328" text="781658362040" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T15" start="601" end="611" text="28/02/2024" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T16" start="622" end="669" text="Hospital General Universitario Morales Meseguer" TYPE="HOSPITAL" comment=""/>
+        <ID id="T17" start="691" end="698" text="4463EXT" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T18" start="723" end="740" text="VSLHNKB2R9G964314" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T19" start="781" end="788" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="792" end="799" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="826" end="835" text="compañero" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

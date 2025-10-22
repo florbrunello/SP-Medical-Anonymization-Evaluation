@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Nerea Galvez Rodríguez
+DNI: 10581151R
+Fecha de nacimiento: 20/01/1943
+Género: M
+Domicilio: Calle de Moratín 2, 3K
+Ciudad: San Fernando, Valencia, Comunidad Valenciana
+Código postal: 46448
+Email: nerea.rodriguez@outlook.com
+Teléfono fijo: +34 960 04 64 75
+Teléfono móvil: +34 760 73 48 18
+NHC: 4930568
+Condición de riesgo: Pintor de Construcción
+
+Datos asistenciales.
+Médico: Dr. Enrique Tomas Romero. NC 525289785. Investigador Clínico en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/04/1997
+Episodio: 48469515
+Centro de salud: Centro de Salud San Blas
+Matrícula del coche: 3853ERB
+Modelo: Chrysler Pacifica
+VIN: VSDN8MIXXFY574656
+
+Informe clínico del paciente:
+Paciente de ascendencia centroasiática de 54 años de edad, acompañado de su padre. Se realizó un expediente con URL http://example-pharma.org//70652149W. Se registró una sesión de firma biométrica, el código obtenido para revisarla es KV558HDV817. 

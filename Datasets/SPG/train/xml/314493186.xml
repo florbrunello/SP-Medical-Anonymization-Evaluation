@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Javier Guerra González
+DNI: 33723532N
+Fecha de nacimiento: 28/10/1964
+Género: Hombre
+Domicilio: Calle de las Infantas 64
+Ciudad: Xàtiva, Córdoba, Andalucía
+Código postal: 14519
+Email: javiergonzalez1528@h12o.es
+Teléfono fijo: +34 957 38 84 19
+Teléfono móvil: +34 757 33 88 64
+NHC: 3330055
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dr. Álex Rueda Soler. NC 737145463. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 29/09/2015
+Hospital: Hospital Universitario Puerto Real
+Matrícula del coche: 7761EPO
+Modelo: Jeep Wrangler
+VIN: VSAJLDC5OAZ859711
+
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 50 años de edad, acompañado de su hijo. Se realizó un expediente con URL http://example-neurology.com//65390546H. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es AL652TIM595. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Guerra González" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="33723532N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="28/10/1964" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="112" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="148" text="Calle de las Infantas 64" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="163" text="Xàtiva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="172" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="183" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="199" end="204" text="14519" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="212" end="238" text="javiergonzalez1528@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 957 38 84 19" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 757 33 88 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="3330055" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="338" end="346" text="Granjero" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="381" end="397" text="Álex Rueda Soler" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="402" end="411" text="737145463" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="413" end="450" text="Residente de 4° año en Endocrinología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="452" end="519" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="521" end="548" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="550" end="555" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="557" end="564" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="566" end="572" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="592" end="602" text="29/09/2015" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="613" end="647" text="Hospital Universitario Puerto Real" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="669" end="676" text="7761EPO" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="704" end="721" text="VSAJLDC5OAZ859711" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="765" end="782" text="ascendencia árabe" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="786" end="793" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="820" end="824" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="859" end="883" text="http://example-neurology" TYPE="URL_WEB" comment=""/>
+        <ID id="T32" start="982" end="993" text="AL652TIM595" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

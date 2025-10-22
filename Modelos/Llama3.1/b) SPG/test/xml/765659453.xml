@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vicente</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Montes</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Castillo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">32207898D</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/05/1946</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de San Millán 53</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Totana</TAG>, <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">34302</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">montes@hotmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 35 08 04</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 979 85 89 02</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6970089</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">298827417817</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Máquina</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Josefina</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marti</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pascual</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">777993629</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">16/09/2021</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">27109507</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Crúces</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">75 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">marido</TAG>. Se registró una consulta virtual desde la dirección <TAG TYPE="DIREC_PROT_INTERNET">192.168.165.85</TAG> (en red interna), con dirección <TAG TYPE="IDENTIF_BIOMETRICOS">MAC</TAG> <TAG TYPE="IDENTIF_BIOMETRICOS">A8:8F:AD:6F:DE:8C</TAG>.
+  </TEXT>
+</MEDDOCAN>

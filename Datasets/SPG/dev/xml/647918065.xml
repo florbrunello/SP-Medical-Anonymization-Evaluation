@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ignacio Exposito Crespo
+DNI: 72367967P
+Fecha de nacimiento: 16/09/1985
+Género: V
+Domicilio: Calle de la Paz 37, 3Y
+Ciudad: Cáceres, Vizcaya, Pais Vasco
+Código postal: 48912
+Email: ignacio.crespo@ciberisciii.es
+Teléfono fijo: +34 946 89 06 62
+Teléfono móvil: +34 646 40 86 67
+NHC: 5794087
+NASS: 181896233400
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dr. Víctor Padilla Estevez. NC 811431089. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/01/2025
+Episodio: 01671279
+Hospital: Hospital Universitario de Cabueñes
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 39 años de edad, acompañado de su vecina. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Ignacio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="51" text="Exposito Crespo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="72367967P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="16/09/1985" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="142" text="Calle de la Paz 37, 3Y" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="158" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="167" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="179" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="48912" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="237" text="ignacio.crespo@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 946 89 06 62" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="286" end="302" text="+34 646 40 86 67" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="308" end="315" text="5794087" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="322" end="334" text="181896233400" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="356" end="362" text="Minero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="397" end="419" text="Víctor Padilla Estevez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="424" end="433" text="811431089" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="435" end="470" text="Neurólogo Especialista en Alzheimer" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="472" end="561" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="563" end="592" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="594" end="599" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="601" end="607" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="609" end="615" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="635" end="645" text="08/01/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="656" end="664" text="01671279" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="675" end="709" text="Hospital Universitario de Cabueñes" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="753" end="779" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="783" end="790" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="817" end="823" text="vecina" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

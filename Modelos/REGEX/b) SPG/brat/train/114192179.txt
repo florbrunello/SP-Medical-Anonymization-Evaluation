@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Nuria De la Fuente Carrillo
+DNI: 32510027X
+Fecha de nacimiento: 21/11/2018
+Género: Mujer
+Domicilio: Calle Serrano 65, 8G
+Ciudad: Bormujos, Lugo, Galicia
+Código postal: 27358
+Email: delafuente@ucm.es
+Teléfono fijo: +34 982 27 28 47
+Teléfono móvil: +34 682 77 90 83
+NHC: 3075364
+
+Datos asistenciales.
+Médico: Dra. Fátima González Cuesta. NC 732639898. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Hospital: Hospital Universitario de Cabueñes
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 6 años de edad, acompañado de su abuelo. Se realizó un expediente con URL http://example-pharma.org//57810069W. 

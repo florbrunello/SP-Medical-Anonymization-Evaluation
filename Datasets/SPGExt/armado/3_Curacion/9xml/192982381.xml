@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rubén Sánchez Vera</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">10418102E</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/05/1938</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Princesa 12</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Zaragoza, Menorca, Islas Baleares</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">07457</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">sanchez-vera1742@ual.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 89 82 57</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 771 31 18 96</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8047017</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">995436734595</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Montador</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gonzalo Hernández Gutiérrez</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 843559392</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">04/09/1954</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">69000350</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Nuestra Señora de Candelaria</TAG>.
+    Informe clínico del paciente:
+    Paciente vegano de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">16 años</TAG> de edad, acompañado de su madre, que refiere dolor abdominal crónico desde hace 3 meses. El dolor se sitúa en la región epigástrica y se agrava después de las comidas. El paciente también ha experimentado pérdida de peso y fatiga.
+    La exploración física revela: Tª <TAG TYPE="FECHAS">37,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. La exploración abdominal revela dolor en la región epigástrica, sin signos de obstrucción intestinal.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">13,2 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">8.500/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">50%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">90 mg/dl</TAG>; urea <TAG TYPE="FECHAS">20 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,2 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,5 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">25 U/l</TAG>; GPT <TAG TYPE="FECHAS">30 U/l</TAG>; GGT <TAG TYPE="FECHAS">40 U/l</TAG>.
+    Con el diagnóstico de gastritis crónica se instaura tratamiento sintomático (antitérmicos, antiinflamatorios y reposo) y tratamiento farmacológico con omeprazol 20 mg vía oral una vez al día durante 4 semanas. El paciente mejora significativamente de su cuadro tras 2 semanas de tratamiento, decidiéndose el alta a su domicilio.
+    Antecedentes:
+    El paciente tiene antecedentes de asma bronquial desde la infancia, que se controla con tratamiento con inhaladores.
+    Evolución y comentarios:
+    El paciente se mantiene estable durante el período de observación, sin signos de complicación. Se le recomienda seguir con el tratamiento farmacológico y realizar revisiones periódicas para controlar la evolución de la enfermedad.
+    Remitido por:
+    El paciente fue remitido por el médico de cabecera, <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Luis García Pérez</TAG>, quien sospechó de gastritis crónica debido a los síntomas descritos por el paciente.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Ramón</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marín Aranda</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">45897390Q</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">16/12/1978</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Don Ramón de la Cruz 13, 3A</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Jaén</TAG>, <TAG TYPE="TERRITORIO">Tarragona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">43955</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">joseramon_aranda@hotmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 977 89 55 88</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 777 24 34 62</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7608153</TAG>
+
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Magdalena Franco Méndez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">215619458</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Gastroenteróloga Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">07/04/1993</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Barajas</TAG>
+
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">comunidades vulnerables</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">AT550PFS924</TAG>.
+  </TEXT>
+</MEDDOCAN>

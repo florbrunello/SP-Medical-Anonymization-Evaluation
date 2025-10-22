@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Mercedes Esteban Román</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">98180830V</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/04/1932</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Velázquez 82, 8G</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">San Pedro del Pinatar, Valladolid, Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">47837</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariamercedes_esteban-roman@hotmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 983 91 11 05</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 683 89 74 51</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5725280</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">272613273936</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador Industrial</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Adriana</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rubio García</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">970931596</TAG>. <TAG TYPE="PROFESION">Residente de 5° año en Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">21/07/1970</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Parla</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">judío</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">38 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, que acude al Servicio de Urgencias con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal agudo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG>. La exploración física revela: <TAG TYPE="FECHAS">Tª 38,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 90 lpm</TAG>. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen doloroso en el epigastrio, con rigidez y signos de peritonealización.
+    Antecedentes:
+    El paciente tiene antecedentes de episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal agudo</TAG> en el pasado, que se han resuelto con tratamiento conservador. También tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedad hepática crónica</TAG>, diagnosticada hace 5 años.
+    Evolución y comentarios:
+    El paciente se encuentra en una condición clínica estable, aunque con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal agudo</TAG> que requieren atención médica inmediata. Se le ha solicitado una exploración abdominal por ultrasonografía para evaluar la causa del dolor.
+    Remitido por:
+    El paciente ha sido remitido por su médico de cabecera, quien se encuentra en vacaciones y no puede atenderlo en este momento.
+    Fecha de alta:
+    El paciente se encuentra en una condición clínica estable y se le ha dado de alta del hospital. Se le ha prescrito un tratamiento conservador y se le ha solicitado que regrese al hospital en caso de empeoramiento de sus síntomas.
+  </TEXT>
+</MEDDOCAN>

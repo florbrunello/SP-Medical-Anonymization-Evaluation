@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Roger</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sanz Domenech</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8764709</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Martin Luther King, 2, 4 C</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Barcelona</TAG>.
+    CP: <TAG TYPE="TERRITORIO">08016</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/04/2014</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 meses</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/10/2014</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Adrián</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Areizaga Osés</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">08 08 32214</TAG>.
+    Informe clínico del paciente: Lactante varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 meses</TAG> (afecto) y en heterocigosis en su madreal que atendimos en nuestra consulta por presentar estrabismo divergente con ausencia de fijación en ojo izquierdo.
+    Tanto el embarazo como el parto habían transcurrido sin complicaciones. Como antecedente personal mencionar que el lactante había sufrido un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">accidente de tráfico</TAG> el mes previo.
+    A la exploración el polo anterior era normal en ambos ojos.
+    En el fondo de ojo izquierdo se observó un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">desprendimiento de retina</TAG> inferior asociado a un <TAG TYPE="OTRO_NUMERO_IDENTIF">velo vítreo</TAG> con tracción retiniana hasta la papila. 
+    En el fondo de ojo derecho no se observaron alteraciones retinianas.
+    En la retinoscopia presentó un punto neutro de +3.00 -2.00 a 10o en el ojo derecho y +3.50 +0.50 a 7o en el ojo izquierdo.
+    Dados los antecedentes del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">accidente de tráfico</TAG>, se atribuyó un origen traumático al <TAG TYPE="OTROS_SUJETO_ASISTENCIA">desprendimiento retiniano</TAG> en el ojo izquierdo.
+    Se realizaron controles periódicos. El <TAG TYPE="OTROS_SUJETO_ASISTENCIA">desprendimiento de retina</TAG> evolucionó hacia la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reabsorción completa</TAG>, apareciendo una línea de demarcación en retina temporal. La mácula se adaptó, presentando una alteración a nivel del epitelio pigmentario de la retina. 
+    A los meses se observaron <TAG TYPE="OTRO_NUMERO_IDENTIF">bridas vítreas</TAG> en arcada temporal inferior en el ojo derecho. Esto condujo a pensar en una posible <TAG TYPE="OTROS_SUJETO_ASISTENCIA">retinosquisis periférica</TAG> como origen del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">desprendimiento de retina</TAG> del ojo izquierdo.
+    Se realizaron tanto <TAG TYPE="PROFESION">OCT macular</TAG> como <TAG TYPE="PROFESION">ERG</TAG>, sin que los resultados fueran valorables en ambas pruebas por la mala colaboración del paciente dada su corta edad. Por ello se realizó <TAG TYPE="PROFESION">estudio de ADN</TAG> a partir de una muestra de <TAG TYPE="OTRO_NUMERO_IDENTIF">sangre periférica</TAG>. Se observó una <TAG TYPE="OTRO_NUMERO_IDENTIF">mutación</TAG> (Q154R) en el exón 5 del gen <TAG TYPE="PROFESION">XLRS</TAG> responsable de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">retinosquisis ligada al cromosoma X</TAG>. La mutación se presentaba en hemicigosis en el paciente (afecto) y en heterocigosis en su madre (portadora).
+    A la edad de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años</TAG>, la agudeza visual era de 20/20 en ojo derecho y 20/400 en ojo izquierdo, a pesar de <TAG TYPE="PROFESION">tratamiento prolongado</TAG> con <TAG TYPE="OTRO_NUMERO_IDENTIF">ocusiones horarias</TAG> del ojo derecho.
+    En la exploración se observó una <TAG TYPE="OTRO_NUMERO_IDENTIF">condensación vítrea</TAG> temporal inferior en el ojo derecho y una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">retinosquisis periférica</TAG> temporal inferior en el ojo izquierdo, asociada a <TAG TYPE="OTRO_NUMERO_IDENTIF">fibrosis residual</TAG> de la arcada temporal inferior. 
+    Destacó la ausencia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">esquisis foveal</TAG> mediante <TAG TYPE="PROFESION">OCT</TAG> en ambos ojos.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Adrián</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Areizaga Osés</TAG>. Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">aneareizaga@yahoo.es</TAG>
+  </TEXT>
+</MEDDOCAN>

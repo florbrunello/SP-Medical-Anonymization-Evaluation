@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Andrea Vera Crespo
+DNI: 26440757A
+Fecha de nacimiento: 21/06/1933
+Género: Femenino
+Domicilio: Calle de Santa Ana 23
+Ciudad: Jaén, Castellón, Comunidad Valenciana
+Código postal: 12150
+Email: crespo@h12o.es
+Teléfono fijo: +34 964 82 02 51
+Teléfono móvil: +34 664 32 70 86
+NHC: 2479114
+
+Datos asistenciales.
+Médico: Dr. Tomás Del Rio Marín. NC 271829060. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 22/09/1937
+Centro de salud: Centro de Salud Málaga Oeste
+Matrícula del coche: 2584JHD
+Modelo: Ford Mustang
+VIN: VSRFRCMDHNG242967
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática del sudeste de 4 años de edad, acompañado de su padre. Se registró una sesión de huella dactilar, el código obtenido para revisarla es FD665GEN105. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Andrea" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="46" text="Vera Crespo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="26440757A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="21/06/1933" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="110" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="143" text="Calle de Santa Ana 23" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="156" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="167" text="Castellón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="189" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="12150" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="232" text="crespo@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 964 82 02 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 664 32 70 86" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="2479114" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="345" end="364" text="Tomás Del Rio Marín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="369" end="378" text="271829060" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="380" end="420" text="Investigador Clínico en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="422" end="489" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="491" end="518" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="520" end="525" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="527" end="534" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="536" end="542" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="562" end="572" text="22/09/1937" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T24" start="590" end="618" text="Centro de Salud Málaga Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T25" start="640" end="647" text="2584JHD" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T26" start="674" end="691" text="VSRFRCMDHNG242967" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T27" start="735" end="767" text="ascendencia asiática del sudeste" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="771" end="777" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="804" end="809" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="891" end="902" text="FD665GEN105" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

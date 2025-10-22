@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ernesto David</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Bazán Pérez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">045645634/38</TAG>.
+    NSS: <TAG TYPE="ID_ASEGURAMIENTO">92-91-90-8443-1</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Paseo de la Reforma 476</TAG>, <TAG TYPE="LOCALIDAD">Juárez</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Ciudad de México CDMX</TAG>.
+    CP: <TAG TYPE="TERRITORIO">06600</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/10/1961</TAG>.
+    País: <TAG TYPE="PAIS">México</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">53 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">02/11/2014</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Urgencias</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">10541765</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodrigo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Menéndez Arzac</TAG>.
+    Informe clínico.
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">53 años</TAG> de edad, ciclista veterano de carretera, sin antecedentes médico-quirúrgicos de interés, hábitos tóxicos ni reacción alérgica conocida a medicamentos, que consultó en nuestro servicio de urgencias por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fractura de tercio medio de clavícula derecha y fractura de arcos costales derechos</TAG> producidos en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">accidente con caída en calzada</TAG>
+    Exploración física: Al ingreso presentó buen estado general, estando hemodinámicamente estable, sin disnea, aquejando dolor a nivel de <TAG TYPE="CALLE">clavícula</TAG> y <TAG TYPE="CALLE">pared costal derechas</TAG> sin síntomas ni signos de afectación neurovascular del <TAG TYPE="CALLE">miembro superior derecho</TAG>.
+    Pruebas complementarias y evolución: En el estudio radiológico simple se constató la existencia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fractura de arcos costales derechos cuarto y quinto</TAG> sin evidencia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hemotórax ni neumotórax</TAG>, y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fractura de tercio medio de la clavícula derecha con tercer fragmento</TAG>, confirmada en la <TAG TYPE="PROFESION">tomografía axial computarizada</TAG> (<TAG TYPE="FECHAS">a, 1b</TAG>).
+    Se trató inicialmente con <TAG TYPE="PROFESION">analgesia</TAG>, <TAG TYPE="PROFESION">antiinflamatorios no esteroideos</TAG> y colocación de <TAG TYPE="OTRO_NUMERO_IDENTIF">vendaje en ocho</TAG>, consultando el paciente tres días después en el mismo servicio por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">edematización del miembro superior derecho sin pérdida de sensibilidad y con pulsos periféricos conservados</TAG>, normalidad de constantes y auscultación cardiorrespiratoria con ruidos cardíacos normales a frecuencia normal sin soplos ni extratonos, y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">murmullo vesicular conservado en ambos campos pulmonares</TAG>, sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estertores ni otros hallazgos patológicos</TAG>.
+    La <TAG TYPE="PROFESION">espirometría</TAG>, el <TAG TYPE="PROFESION">electrocardiograma</TAG> y el <TAG TYPE="PROFESION">ecocardiograma</TAG> fueron normales; la <TAG TYPE="PROFESION">analítica sanguínea</TAG> mostró valores anormales de <TAG TYPE="PROFESION">CHCM</TAG>=31.4g/dl, <TAG TYPE="PROFESION">neutrófilos</TAG>=76.6%, <TAG TYPE="PROFESION">linfocitos</TAG>=16.4%, <TAG TYPE="PROFESION">eosinófilos</TAG>=0.9%, <TAG TYPE="PROFESION">fibrinógeno</TAG>=645mg/dl, <TAG TYPE="PROFESION">GGT</TAG>=52U/l y <TAG TYPE="PROFESION">D-Dímero</TAG> positivo. El estudio de <TAG TYPE="PROFESION">eco-Doppler venoso</TAG> reveló una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">trombosis venosa de las venas axilar, cefálica y basílica</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">compresión de la rama cubital del nervio cutáneo braquial medial a nivel del hiato basílico</TAG> (<TAG TYPE="FECHAS">a, 2b</TAG>).
+    Se sustituyó el <TAG TYPE="OTRO_NUMERO_IDENTIF">vendaje en ocho</TAG> por <TAG TYPE="OTRO_NUMERO_IDENTIF">cabestrillo sencillo</TAG> que se mantuvo hasta el inicio de la <TAG TYPE="PROFESION">rehabilitación funcional</TAG>, y se realizó <TAG TYPE="PROFESION">tratamiento con Tinzapaina sódica</TAG>, realizándose <TAG TYPE="PROFESION">radiografías</TAG> y <TAG TYPE="PROFESION">utrasonografía-Doppler</TAG> seriadas de control hasta la consolidación de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fractura de clavícula</TAG> y la recanalización completa de las <TAG TYPE="OTROS_SUJETO_ASISTENCIA">venas trombosadas</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodrigo Menéndez Arzac</TAG>. <TAG TYPE="INSTITUCION">Hospital Ángeles de las Lomas</TAG>, <TAG TYPE="CALLE">Consultorio 510 Vialidad de la barranca 22</TAG>, <TAG TYPE="LOCALIDAD">Colonia Valle de las palmas Huixquilucan</TAG>, <TAG TYPE="TERRITORIO">Estado de México</TAG>, <TAG TYPE="PAIS">México</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">rodrigomenendez@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

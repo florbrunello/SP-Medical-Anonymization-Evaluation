@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iñigo</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Larrea Barrios</TAG>.
+    CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc-79469851</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">12 97648531 22</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Avenida Federico Soto 2</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Pamplona</TAG>.
+    CP: <TAG TYPE="TERRITORIO">31001</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">79469851</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">25/06/1970</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">47 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">23/12/2017</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Luis</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ripa Saldías</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">31 31 55689</TAG>.
+    Motivo de ingreso: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">aumento moderado de volumen escrotal izquierdo</TAG>.
+    Antecedentes:Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">47 años</TAG> con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ulcus gástrico</TAG>, fumador de <TAG TYPE="OTRO_NUMERO_IDENTIF">10 cigarrillos/día</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vasectomizado</TAG>.
+    Historia Actual: El paciente consulta por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">aumento moderado de volumen escrotal izquierdo</TAG> desde hace años pero con incremento durante el último mes, acompañado de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">molestias sordas</TAG>, sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor agudo</TAG>. No <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas miccionales</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fiebre</TAG>.
+    Exploración física: A la exploración física destaca la presencia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hidrocele</TAG> de mediano tamaño que impide la exploración de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">testículo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">epídimo</TAG>.
+    Resumen de pruebas complementarias: Los análisis generales de sangre y orina fueron normales. Se realizó <TAG TYPE="PROFESION">ecografía</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">escrotal</TAG> informada como imagen <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nodular</TAG> intratesticular izquierda de bordes bien definidos, sugestiva de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">neoplasia testicular</TAG> e <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hidrocele</TAG> de contenido anecoico. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Marcadores tumorales</TAG> (AFP y ß-HCG) normales.
+    Se practicó <TAG TYPE="PROFESION">orquiectomía</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">inguinal</TAG> izquierda con colocación de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">prótesis testicular</TAG> siliconada. 
+    Evolución y comentarios: Tras un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">postoperatorio inmediato</TAG> normal se realizó <TAG TYPE="PROFESION">TAC</TAG> abdominal que fue normal. La pieza quirúrgica mostraba macroscópicamente una zona de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">testículo infartado</TAG> alternando con otra aparentemente normal, confirmando la presencia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infarto testicular</TAG> en el estudio microscópico con ausencia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumor</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Luis</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ripa Saldías</TAG>. <TAG TYPE="CALLE">Avenida Lezaun, 14</TAG>, <TAG TYPE="TERRITORIO">31620 Gorraiz (Navarra)</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">luiripasal@yahoo.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

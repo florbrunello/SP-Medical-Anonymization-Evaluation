@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Pilar Montoya Sanz
+DNI: 43451652Y
+Fecha de nacimiento: 08/01/1991
+Género: M
+Domicilio: Calle del Prado 56
+Ciudad: Elche, Córdoba, Andalucía
+Código postal: 14271
+Email: mariapilarmontoya@hotmail.com
+Teléfono fijo: +34 957 92 55 78
+Teléfono móvil: +34 757 64 39 98
+NHC: 3642620
+NASS: 501257145148
+
+Datos asistenciales.
+Médico: Dra. Adriana Rivero Silva. NC 332917345. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/02/2025
+Episodio: 19005512
+Centro de salud: Centro de Salud Delicias
+Matrícula del coche: 6028IYP
+Modelo: Ford F-150
+VIN: VSC2EGI0KWT780172
+
+Informe clínico del paciente:
+Paciente de tez blanca de 34 años de edad, acompañado de su hija. Se registró una sesión de firma biométrica, el código obtenido para revisarla es ID349WNG773. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="María Pilar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="52" text="Montoya Sanz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="43451652Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="08/01/1991" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="139" text="Calle del Prado 56" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="153" text="Elche" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="162" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="173" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="189" end="194" text="14271" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="202" end="231" text="mariapilarmontoya@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 957 92 55 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 757 64 39 98" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="3642620" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="316" end="328" text="501257145148" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="582" end="592" text="14/02/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="603" end="611" text="19005512" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="629" end="653" text="Centro de Salud Delicias" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="675" end="682" text="6028IYP" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="707" end="724" text="VSC2EGI0KWT780172" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="768" end="778" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="782" end="789" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="816" end="820" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T24" start="903" end="914" text="ID349WNG773" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

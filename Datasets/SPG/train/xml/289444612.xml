@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Inmaculada Vargas Arias
+DNI: 38064132Y
+Fecha de nacimiento: 10/06/2008
+Género: F
+Domicilio: Calle de Toledo 80
+Ciudad: Pamplona, Guipúzcoa, Pais Vasco
+Código postal: 20859
+Email: mariainmaculada@gmail.com
+Teléfono fijo: +34 943 67 91 87
+Teléfono móvil: +34 643 83 25 10
+NHC: 7513039
+NASS: 835070699718
+
+Datos asistenciales.
+Médico: Dra. Montserrat Rubio Moreno. NC 208881564. Endocrinóloga Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 13/01/2016
+Episodio: 99790007
+Hospital: Hospital Universitario Virgen del Rocío
+Matrícula del coche: 3818TAJ
+Modelo: Honda Civic
+VIN: VSX1JSG0HSD141470
+
+Informe clínico del paciente:
+Paciente de tez blanca de 7 años de edad, acompañado de su hermana. El servidor para envío de información desde cual el usuario se comunica es smtp://example-biotech.com. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="44" text="María Inmaculada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="45" end="57" text="Vargas Arias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="63" end="72" text="38064132Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="94" end="104" text="10/06/2008" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="113" end="114" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="144" text="Calle de Toledo 80" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="161" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="172" text="Guipúzcoa" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="184" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="20859" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="238" text="mariainmaculada@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 943 67 91 87" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 643 83 25 10" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="7513039" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="323" end="335" text="835070699718" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="590" end="600" text="13/01/2016" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="611" end="619" text="99790007" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="630" end="669" text="Hospital Universitario Virgen del Rocío" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="691" end="698" text="3818TAJ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="724" end="741" text="VSX1JSG0HSD141470" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="785" end="795" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="799" end="805" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="832" end="839" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="916" end="938" text="smtp://example-biotech" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

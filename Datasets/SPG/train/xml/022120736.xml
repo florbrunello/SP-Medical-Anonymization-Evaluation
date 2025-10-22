@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Marcos Ferrer Suárez
+DNI: 12918098X
+Fecha de nacimiento: 16/11/2014
+Género: Varón
+Domicilio: Calle de Recoletos 56, 4Z
+Ciudad: Córdoba, Madrid, Madrid
+Código postal: 28555
+Email: ferrer@outlook.com
+Teléfono fijo: +34 912 34 14 15
+Teléfono móvil: +34 711 33 18 36
+NHC: 5325242
+NASS: 655735785738
+
+Datos asistenciales.
+Médico: Dra. María Concepción Lorenzo Castillo. NC 237969957. Gastroenteróloga Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/11/2019
+Hospital: Hospital Universitario Puerto Real
+
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 5 años de edad, acompañado de su tía. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.245.241, con dirección MAC 78:4B:FE:93:6F:69. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Marcos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Ferrer Suárez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="12918098X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="16/11/2014" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="146" text="Calle de Recoletos 56, 4Z" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="162" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="170" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="178" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="194" end="199" text="28555" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="207" end="225" text="ferrer@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 912 34 14 15" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 711 33 18 36" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="296" end="303" text="5325242" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="310" end="322" text="655735785738" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="631" end="641" text="17/11/2019" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="652" end="686" text="Hospital Universitario Puerto Real" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="730" end="747" text="ascendencia árabe" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="751" end="757" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="784" end="787" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="896" end="913" text="78:4B:FE:93:6F:69" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

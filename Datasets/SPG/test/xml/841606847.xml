@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Antonia Trujillo Herrero
+DNI: 78363930D
+Fecha de nacimiento: 20/09/1988
+Género: M
+Domicilio: Calle de la Reina 8
+Ciudad: Plasencia, Jaén, Andalucía
+Código postal: 23159
+Email: antonia793@uca.es
+Teléfono fijo: +34 953 91 32 49
+Teléfono móvil: +34 753 16 27 62
+NHC: 1893523
+NASS: 586281413414
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dra. Clara Manzano Cuesta. NC 572648352. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 06/10/2002
+Hospital: Hospital Universitario Central de Asturias
+Matrícula del coche: 4625GKU
+Modelo: Honda CR-V
+VIN: VSTEY6JXKJK344574
+
+Informe clínico del paciente:
+Paciente de tez blanca de 14 años de edad, acompañado de su hermano. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Antonia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="52" text="Trujillo Herrero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="78363930D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="20/09/1988" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="140" text="Calle de la Reina 8" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="158" text="Plasencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="164" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="175" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="23159" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="221" text="antonia793@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="237" end="253" text="+34 953 91 32 49" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="270" end="286" text="+34 753 16 27 62" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="292" end="299" text="1893523" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="306" end="318" text="586281413414" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="340" end="350" text="Paramédico" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="590" end="600" text="06/10/2002" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="611" end="653" text="Hospital Universitario Central de Asturias" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="675" end="682" text="4625GKU" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="707" end="724" text="VSTEY6JXKJK344574" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="768" end="778" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="782" end="789" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="816" end="823" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

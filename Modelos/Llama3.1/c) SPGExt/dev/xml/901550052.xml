@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Matilde</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vázquez Vila</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">59336718F</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/09/1969</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Juan Bravo 39</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Jaca</TAG>, <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">37044</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">matilde@ioba.med.uva.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 39 15 18</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 723 88 98 45</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4327579</TAG>.
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Operador de Maquinaria Pesada</TAG>.
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Belén</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Parra Miguel</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">774983487</TAG>. <TAG TYPE="PROFESION">Investigadora Clínica en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">13/09/1969</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">31366851</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Barajas</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">53 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, refiere <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolores torácicos irradiados a la espalda</TAG> durante las últimas 48 horas, acompañado de un aumento de la frecuencia cardíaca y disnea en reposo. La exploración física revela: Tª <TAG TYPE="OTRO_NUMERO_IDENTIF">38,5 C</TAG>; T.A: <TAG TYPE="OTRO_NUMERO_IDENTIF">140/90 mmHg</TAG>; Fc: <TAG TYPE="OTRO_NUMERO_IDENTIF">120 lpm</TAG>. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="OTRO_NUMERO_IDENTIF">12,5 g/dl</TAG>; leucocitos <TAG TYPE="OTRO_NUMERO_IDENTIF">15.000/mm3</TAG> (neutrófilos <TAG TYPE="OTRO_NUMERO_IDENTIF">80%</TAG>); plaquetas <TAG TYPE="OTRO_NUMERO_IDENTIF">250.000/ mm3</TAG>. VSG: <TAG TYPE="OTRO_NUMERO_IDENTIF">60 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="OTRO_NUMERO_IDENTIF">90%</TAG>; TTPA <TAG TYPE="OTRO_NUMERO_IDENTIF">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="OTRO_NUMERO_IDENTIF">180 mg/dl</TAG>; urea <TAG TYPE="OTRO_NUMERO_IDENTIF">35 mg/dl</TAG>; creatinina <TAG TYPE="OTRO_NUMERO_IDENTIF">1,2 mg/dl</TAG>; sodio <TAG TYPE="OTRO_NUMERO_IDENTIF">135 mEq/l</TAG>; potasio <TAG TYPE="OTRO_NUMERO_IDENTIF">3,8 mEq/l</TAG>; GOT <TAG TYPE="OTRO_NUMERO_IDENTIF">20 U/l</TAG>; GPT <TAG TYPE="OTRO_NUMERO_IDENTIF">30 U/l</TAG>; GGT <TAG TYPE="OTRO_NUMERO_IDENTIF">40 U/l</TAG>; fosfatasa alcalina <TAG TYPE="OTRO_NUMERO_IDENTIF">150 U/l</TAG>; calcio <TAG TYPE="OTRO_NUMERO_IDENTIF">8,5 mg/dl</TAG>. Orina: sedimento con leucocitos y hemoglobina en presencia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infección urinaria</TAG>.
+    Durante el ingreso se solicitan Hemocultivos: positivo para <TAG TYPE="OTRO_NUMERO_IDENTIF">Staphylococcus aureus</TAG> y Serologías específicas para <TAG TYPE="OTRO_NUMERO_IDENTIF">Staphylococcus aureus</TAG>: positivas. Las pruebas de imagen solicitadas (Rx tórax, Ecografía abdominal, TAC craneal, Ecocardiograma transtorácico) no evidencian patología significativa. Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infección urinaria por Staphylococcus aureus</TAG> se instaura tratamiento antibiótico específico: <TAG TYPE="OTRO_NUMERO_IDENTIF">Cefalexina 250 mg vía oral cada 6 horas</TAG> (durante <TAG TYPE="OTRO_NUMERO_IDENTIF">10 días</TAG>) y <TAG TYPE="OTRO_NUMERO_IDENTIF">Metronidazol 500 mg vía oral cada 8 horas</TAG> (durante <TAG TYPE="OTRO_NUMERO_IDENTIF">5 días</TAG>). El paciente mejora significativamente de su cuadro tras <TAG TYPE="OTRO_NUMERO_IDENTIF">3 días</TAG> de ingreso, decidiéndose el alta a su domicilio donde completó la pauta de tratamiento antibiótico.
+  </TEXT>
+</MEDDOCAN>

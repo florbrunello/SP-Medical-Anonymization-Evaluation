@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Eva Gallego Otero
+DNI: 95554862M
+Fecha de nacimiento: 04/08/2016
+Género: F
+Domicilio: Calle de Ayala 64
+Ciudad: Totana, Gerona, Cataluña
+Código postal: 17818
+Email: eva-gallego_otero@outlook.com
+Teléfono fijo: +34 972 28 09 72
+Teléfono móvil: +34 672 35 03 86
+NHC: 9441965
+NASS: 900698922878
+Condición de riesgo: Operador de Maquinaria Pesada
+
+Datos asistenciales.
+Médico: Dr. José Francisco León Guzman. NC 390295052. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/07/2023
+Centro de salud: Centro de Salud Sevilla Este
+
+Informe clínico del paciente:
+Paciente de ascendencia centroasiática de 6 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Eva" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="45" text="Gallego Otero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="95554862M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="04/08/2016" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="131" text="Calle de Ayala 64" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="140" end="146" text="Totana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="148" end="154" text="Gerona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="156" end="164" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="180" end="185" text="17818" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="193" end="222" text="eva-gallego_otero@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="238" end="254" text="+34 972 28 09 72" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="271" end="287" text="+34 672 35 03 86" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="293" end="300" text="9441965" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="307" end="319" text="900698922878" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="341" end="370" text="Operador de Maquinaria Pesada" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="405" end="431" text="José Francisco León Guzman" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="436" end="445" text="390295052" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="447" end="496" text="Psiquiatra Especialista en Trastornos de Ansiedad" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="498" end="568" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="570" end="599" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="601" end="606" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="608" end="614" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="616" end="622" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="642" end="652" text="16/07/2023" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="670" end="698" text="Centro de Salud Sevilla Este" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="742" end="768" text="ascendencia centroasiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="772" end="778" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="805" end="810" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

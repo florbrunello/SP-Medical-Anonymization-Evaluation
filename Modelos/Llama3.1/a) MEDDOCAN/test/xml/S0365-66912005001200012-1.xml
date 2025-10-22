@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Samuel</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Bertrand Flores</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8973852</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">89 75468925 03</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Pedregal, 6, 2, A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Palencia</TAG>.
+    CP: <TAG TYPE="TERRITORIO">34005</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/06/1975</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">26/01/2016</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Victoria</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Oviedo Gómez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">34 34 51203</TAG>.
+    Informe clínico del paciente: paciente varón joven de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> con pérdida de agudeza visual en ojo izquierdo (OI) de 2 semanas de evolución y metamorfopsia desde hacía dos años. La mejor agudeza visual corregida del paciente era <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0,3</TAG> y en el fondo de ojo se observaba además de unas fibras de mielina en la arcada temporal superior, una MER centrada sobre la región macular produciendo una imagen de pseudoagujero macular. Se podía observar una marcada distorsión de los vasos sanguíneos retinianos alrededor de la mácula. No había evidencia DPV. El ojo derecho era normal. Se realizó angiografía fluresceínica en la que no se observó edema macular ni difusión de los vasos retinianos. El paciente no refería traumatismo alguno, ni patología previa en dicho ojo, por lo que fué diagnosticado de MER idiopática e incluido en lista de espera para realizar vitrectomía pars plana.
+    Al mes acudió a consulta refiriendo mejoría marcada de la agudeza visual y desaparición de la metamorfopsia. Se observó una mejor agudeza visual corregida de la unidad y en el fondo de ojo ausencia de la MER, desaparición de la distorsión de los vasos retinianos y un DPV prepapilar denso.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Victoria Oviedo Gómez</TAG>, Sección de <TAG TYPE="PROFESION">Nefrología</TAG>, <TAG TYPE="INSTITUCION">Complejo Asistencial de Palencia</TAG>, <TAG TYPE="CALLE">Avda. Donantes de sangre s/n</TAG>, <TAG TYPE="TERRITORIO" >34005</TAG> <TAG TYPE="TERRITORIO" >Palencia</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">voviedo71@hotmail.com</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">majuelo55@yahoo.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

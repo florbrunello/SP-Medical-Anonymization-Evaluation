@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mariano</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">León</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Moya</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">68052475Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/06/1995</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Marqués de Urquijo 51</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad autónoma de Ceuta</TAG>, <TAG TYPE="TERRITORIO">Ceuta</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">52226</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">marianomoya@protonmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 35 06 42</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 956 44 31 32</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4035050</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Mantenimiento</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Almudena Parra Rivera</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">339608598</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Insuficiencia Cardíaca</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">07/09/2015</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">33917524</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Ramón y Cajal</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2420CBZ</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Chrysler Pacifica</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSS2C99Y38I511154</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática occidental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> de edad. Se registró una sesión de <TAG TYPE="PROFESION">escaneo retiniano</TAG>, el código obtenido para revisarla es <TAG TYPE="ID_DISPOSITIVOS">MN175OSA832</TAG>.
+  </TEXT>
+</MEDDOCAN>

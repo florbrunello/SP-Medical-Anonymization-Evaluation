@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jon</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Soler Soriano</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">87049606B</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/11/1946</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Velázquez 84</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Plasencia</TAG>, <TAG TYPE="TERRITORIO">Albacete</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">02045</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jon_soriano640@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 967 74 02 97</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 667 80 23 80</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7491471</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Residuos Sólidos</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Esteban Soriano Luque</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">574810826</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/06/1973</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de A Coruña</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">8024YHC</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Chevrolet Silverado</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSX5YXXXKVG059431</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">víctima de violencia de género</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">26 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hijo</TAG>.
+    Se registró una consulta virtual desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP (en red interna)</TAG> <TAG TYPE="NUMERO_TELEFONO">192.168.37.63</TAG>, con <TAG TYPE="DIREC_PROT_INTERNET">dirección MAC</TAG> <TAG TYPE="IDENTIF_BIOMETRICOS">68:E7:1C:A4:B0:5E</TAG>. Se registró una sesión de <TAG TYPE="DIREC_PROT_INTERNET">firma biométrica</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código obtenido</TAG> para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">PN950POL386</TAG>.
+  </TEXT>
+</MEDDOCAN>

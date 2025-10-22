@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Laura</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pérez Godín</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">43561584</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Av. Valdes, 51</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">León</TAG>.
+    CP: <TAG TYPE="TERRITORIO">24400</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/05/2005</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">12/05/2018</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Pediatría</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Teresa</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">González</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Martínez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">24 24 58745</TAG>.
+    Historia Actual: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">trece años</TAG>, que presenta un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fiebre</TAG> de 12 días de evolución acompañado de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">adenopatía axilar izquierda</TAG>.
+    Exploración física:  La exploración inicial fue negativa a excepción de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">arañazos</TAG> en <TAG TYPE="CALLE">mano izquierda</TAG>.
+    Pruebas complementarias: Los datos de laboratorio iniciales incluyeron: <TAG TYPE="OTRO_NUMERO_IDENTIF">leucocitos</TAG> 4.700 (32% <TAG TYPE="OTRO_NUMERO_IDENTIF">linfocitos</TAG>; 9% <TAG TYPE="OTRO_NUMERO_IDENTIF">monocitos</TAG> y 51% <TAG TYPE="OTRO_NUMERO_IDENTIF">granulocitos</TAG>); <TAG TYPE="OTRO_NUMERO_IDENTIF">VSG</TAG> 14 mm/h; <TAG TYPE="OTRO_NUMERO_IDENTIF">PCR</TAG> 2,4 mg/dl; <TAG TYPE="OTRO_NUMERO_IDENTIF">hemocultivo</TAG> negativo. 
+    Evolución y comentarios: Ante la persistencia de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fiebre</TAG> y la presencia de la <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">adenopatía</TAG> se sospecha <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Enfermedad por Arañazo de Gato</TAG>, se realiza <TAG TYPE="OTRO_NUMERO_IDENTIF">serología</TAG> a <TAG TYPE="OTRO_NUMERO_IDENTIF">Bartonella henselae</TAG> y se inicia <TAG TYPE="OTRO_NUMERO_IDENTIF">tratamiento</TAG> con <TAG TYPE="OTRO_NUMERO_IDENTIF">rifampicina</TAG>, desapareciendo la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fiebre</TAG> después de 3 días de iniciado el <TAG TYPE="OTRO_NUMERO_IDENTIF">tratamiento</TAG>. Posteriormente se confirma el diagnóstico al resultar positiva la <TAG TYPE="OTRO_NUMERO_IDENTIF">serología</TAG> a <TAG TYPE="OTRO_NUMERO_IDENTIF">Bartonella henselae</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Teresa</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">González</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Martínez</TAG> <TAG TYPE="PROFESION">Servicio de Pediatría</TAG>. <TAG TYPE="INSTITUCION">Hospital del Bierzo</TAG> <TAG TYPE="CALLE">C/ La Dehesa s/n</TAG>. <TAG TYPE="TERRITORIO">24411</TAG> <TAG TYPE="TERRITORIO">Ponferrada</TAG> <TAG TYPE="TERRITORIO">León</TAG> e-mail: <TAG TYPE="CORREO_ELECTRONICO">teglez@inicia.es</TAG>
+  </TEXT>
+</MEDDOCAN>

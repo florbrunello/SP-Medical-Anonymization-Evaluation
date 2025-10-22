@@ -1,0 +1,33 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 36	Jon Domínguez Cano
+T2	ID_SUJETO_ASISTENCIA 78 94	59841900V
+T3	FECHAS 116 124	23/07/1967
+T4	SEXO_SUJETO_ASISTENCIA 146 147	Hombre
+T5	CALLE 162 176	Calle de Tribulete 29, 10B
+T6	TERRITORIO 198 212	Castellón de la Plana, Castilla y León
+T7	TERRITORIO 214 220	09823
+T8	CORREO_ELECTRONICO 246 272	jon.dominguez-cano@ioba.med.uva.es
+T9	NUMERO_TELEFONO 285 305	+34 947 68 57 68
+T10	NUMERO_FAX 310 326	+34 947 58 93 03
+T11	ID_SUJETO_ASISTENCIA 338 346	7849375
+T12	CATEGORIA_RIESGO 358 371	Trabajador Agrícola
+T13	NOMBRE_PERSONAL_SANITARIO 384 412	Dr. Juan Pedro Aguilera Paredes
+T14	ID_CONTACTO_ASISTENCIAL 445 454	961493260
+T15	CARGO 466 475	Residente de 5° año en Urología
+T16	INSTITUCION 486 500	Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)
+T17	CALLE 511 533	Avenida de Córdoba, s/n. 28041. Madrid. España.
+T18	FECHAS 546 554	21/09/2022
+T19	ID_CONTACTO_ASISTENCIAL 576 585	61124625
+T20	NOMBRE_ESTABLECIMIENTO 596 612	Centro de Salud Moratalaz
+T21	MATRICULA_VEHICULO 623 641	4952YKU
+T22	MARCA_VEHICULO 642 652	Kia Sorento
+T23	CODIGO_VEHICULO 663 675	VSMHJPF5MJG140378
+T24	INFORME_CLINICO 686 732	Paciente de 45 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, acude al Servicio de Urgencias con síntomas de dolor abdominal agudo y vómitos.
+T25	EDAD_SUJETO_ASISTENCIA 734 741	45 años
+T26	CONDICIONES_PREVIA 752 766	Hipertensión arterial y diabetes mellitus tipo 2
+T27	EXPLORACION_FISICA 778 810	Tª 38,5 C; T.A: 140/90 mmHg; Fc: 120 lpm
+T28	ANALITICA_SANGUINEA 812 864	Hemograma: Hb 14,2 g/dl; leucocitos 17.500/mm3 (neutrófilos 85%); plaquetas 250.000/ mm3
+T29	PRUEBAS_DE_IMAGEN 868 910	quiste hepático de 5 cm de diámetro
+T30	TRATAMIENTO 922 936	tratamiento sintomático (antitérmicos, antiinflamatorios, reposo)
+T31	TRATAMIENTO_QUIRURGICO 948 964	extracción del quiste
+T32	EVOLUCION 976 990	se encuentra estable
+T33	REMISION 1002 1012	remitido por su médico de cabecera

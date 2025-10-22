@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Cristian Pérez Casas
+DNI: 79199783L
+Fecha de nacimiento: 02/08/1983
+Género: Hombre
+Domicilio: Calle del León 12, 10O
+Ciudad: Guadix, Sevilla, Andalucía
+Código postal: 41937
+Email: cristian-perez-casas@uca.es
+Teléfono fijo: +34 954 34 48 92
+Teléfono móvil: +34 654 22 15 40
+NHC: 2015251
+NASS: 803822911515
+Condición de riesgo: Albañil
+
+Datos asistenciales.
+Médico: Dra. Paula Cabrera Redondo. NC 855048134. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/04/1986
+Hospital: Complejo Hospitalario La Mancha Centro
+
+Informe clínico del paciente:
+Paciente fumador de 2 años de edad, acompañado de su madre. 

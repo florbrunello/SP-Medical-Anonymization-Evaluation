@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Oriol</TAG>.
+  Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Estibaliz Quezada</TAG>.
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4892539</TAG>.
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">42 06738946 69</TAG>.
+  Domicilio: <TAG TYPE="CALLE">Paseo Torrent, 44, 3 D</TAG>.
+  Localidad/ Provincia: <TAG TYPE="TERRITORIO">Barcelona</TAG>.
+  CP: <TAG TYPE="TERRITORIO">08213</TAG>.
+  Datos asistenciales.
+  Fecha de nacimiento: <TAG TYPE="FECHAS">04/12/1928</TAG>.
+  País: <TAG TYPE="PAIS">España</TAG>.
+  Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">83 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+  Fecha de Ingreso: <TAG TYPE="FECHAS">26/07/2011</TAG>.
+  Servicio: <TAG TYPE="PROFESION">Medicina Interna</TAG>.
+  Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Iago</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pinal-Fernández</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28</TAG>.
+  Informe clínico del paciente: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">83 años</TAG> de edad con antecedentes personales de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y un <TAG TYPE="OTRO_NUMERO_IDENTIF">carcinoma de endometrio mixto, endometrioide y de células claras, en estadío T1N0M0</TAG>, que se detectó un año antes del ingreso actual a raíz de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">metrorragias</TAG>. La paciente se sometió a una <TAG TYPE="OTRO_NUMERO_IDENTIF">histerectomía con anexectomía bilateral y linfadenectomía pélvica</TAG>, completando el tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">braquiterapia adyuvante</TAG>, que se finalizó 5 meses antes del ingreso actual. Acudía a controles en consultas externas de <TAG TYPE="PROFESION">oncología ginecológica</TAG> estando hasta la fecha libre de enfermedad.
+  Al ingreso presenta <TAG TYPE="OTROS_SUJETO_ASISTENCIA">astenia</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">anorexia</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">debilidad progresivas</TAG> de dos semanas de evolución, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">desorientación</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bradifasia</TAG> de 2 días de evolución además de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estreñimiento</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">poliuria</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nicturia</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">polidipsia</TAG>. En una analítica de control de su centro de atención primaria presenta una <TAG TYPE="OTRO_NUMERO_IDENTIF">calcemia de 15,35 mg/dL</TAG> (valores de referencia [v.r.] entre 8,8 mg/dL y 10,2 mg/dL).
+  En urgencias se realiza una analítica que muestra una <TAG TYPE="OTRO_NUMERO_IDENTIF">calcemia de 16,1 mg/dL</TAG> con un <TAG TYPE="OTRO_NUMERO_IDENTIF">calcio iónico de 6,3 mg/dL</TAG> (v.r. entre 4,2 mg/dL y 5,4 mg/dL), con una exploración física, radiografía de abdomen y electrocardiograma normales.
+  Se diagnostica de <TAG TYPE="OTRO_NUMERO_IDENTIF">síndrome hipercalcémico</TAG> y se trata con <TAG TYPE="OTRO_NUMERO_IDENTIF">rehidratación</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">zoledronato intravenoso</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">furosemida</TAG>, disminuyendo la calcemia hasta valores normales entre el tercer y el sexto día de tratamiento3,4.
+  La paciente ingresa en la planta de <TAG TYPE="PROFESION">medicina interna</TAG> donde se objetiva: <TAG TYPE="OTRO_NUMERO_IDENTIF">VSG 106 mm/h</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">albúmina 3,16 g/dL</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">PTH 21,5 pg/mL</TAG> (v.r. entre 7 pg/mL y 82pg/mL), <TAG TYPE="OTRO_NUMERO_IDENTIF">25-hidroxivitamina D3 9,9 ng/mL</TAG> (v.r. entre 6,6 ng/mL y 46,4 ng/mL) con marcadores tumorales negativos.
+  Ante el antecedente personal de neoplasia uterina de la paciente se solicita una <TAG TYPE="OTRO_NUMERO_IDENTIF">gammagrafía ósea</TAG>, que es normal, y un <TAG TYPE="OTRO_NUMERO_IDENTIF">TAC torácico y abdominal</TAG> que muestra una <TAG TYPE="OTRO_NUMERO_IDENTIF">masa en fondo de saco de Douglas de 10 cm x 8 cm</TAG> con <TAG TYPE="OTRO_NUMERO_IDENTIF">implantes tumorales peritoneales</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">metástasis pulmonares</TAG>. Se realiza una <TAG TYPE="OTRO_NUMERO_IDENTIF">biopsia transvaginal de la masa en fondo de saco de Douglas</TAG> y se confirma una <TAG TYPE="OTRO_NUMERO_IDENTIF">recidiva de su enfermedad neoplásica</TAG>. La paciente actualmente está en un <TAG TYPE="OTRO_NUMERO_IDENTIF">centro de cuidados paliativos</TAG>.
+  Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Iago</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pinal-Fernández</TAG> <TAG TYPE="PROFESION">Servicio de Medicina Interna</TAG> <TAG TYPE="HOSPITAL">Hospital Universitario Vall d´Hebrón</TAG> <TAG TYPE="CALLE">Torrent de l´Olla, 39-2o-2a</TAG> <TAG TYPE="TERRITORIO">08012</TAG> <TAG TYPE="TERRITORIO">Barcelona</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">iagopf@yahoo.es</TAG>.
+  </TEXT>
+  </MEDDOCAN>

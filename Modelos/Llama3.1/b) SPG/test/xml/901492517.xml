@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ahmed</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Plaza Soriano</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">72724831G</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Cabeza 93</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Majadahonda</TAG>, <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">38570</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">plaza537@udc.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 922 54 27 37</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 722 41 51 43</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2469293</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">127004945971</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador Industrial</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alberto Vega Rueda</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">111416120</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Endocrinólogo Especialista en Diabetes</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Barcelona</TAG>
+    <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7841EQU</TAG>
+    <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">Ram 1500</TAG>
+    <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSTT7R59QPF102164</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia australiana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0 meses</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Paloma Ibáñez Sáez
+DNI: 10287214G
+Fecha de nacimiento: 13/02/2010
+Género: Femenino
+Domicilio: Calle de Argumosa 11, 2I
+Ciudad: Vilanova i la Geltrú, Guadalajara, Castilla-La Mancha
+Código postal: 19750
+Email: ibanezsaez83@aol.com
+Teléfono fijo: +34 949 06 81 51
+Teléfono móvil: +34 649 89 02 41
+NHC: 4986763
+Condición de riesgo: Inspector de Seguridad Minera
+
+Datos asistenciales.
+Médico: Dra. María Begoña Hernández Medina. NC 018618722. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 31/10/2019
+Episodio: 78957343
+Centro de salud: Centro de Salud Marbella
+Matrícula del coche: 9065QJS
+Modelo: BMW 3 Series
+VIN: VSLE4KM8S6P110787
+
+Informe clínico del paciente:
+Paciente de tez blanca de 9 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Paloma" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="46" text="Ibáñez Sáez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="10287214G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="13/02/2010" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="110" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="146" text="Calle de Argumosa 11, 2I" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="175" text="Vilanova i la Geltrú" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="177" end="188" text="Guadalajara" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="190" end="208" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="224" end="229" text="19750" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="237" end="257" text="ibanezsaez83@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="273" end="289" text="+34 949 06 81 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="306" end="322" text="+34 649 89 02 41" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="328" end="335" text="4986763" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="357" end="386" text="Inspector de Seguridad Minera" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="647" end="657" text="31/10/2019" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="668" end="676" text="78957343" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="694" end="718" text="Centro de Salud Marbella" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="740" end="747" text="9065QJS" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="774" end="791" text="VSLE4KM8S6P110787" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="835" end="845" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="849" end="855" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="882" end="888" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

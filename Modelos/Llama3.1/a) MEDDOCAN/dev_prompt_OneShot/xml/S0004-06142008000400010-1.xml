@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Joaquin</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Caldera Gomez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2405698</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">38 79045620 86</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Paseo de la Armada, 35, 3 D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Albacete</TAG>.
+    CP: <TAG TYPE="TERRITORIO">02524</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/08/1960</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">54 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">13/09/2014</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Urgencias</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">04735665</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Héctor</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pastor Navarro</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">02 02 54630</TAG>.
+    Historia Actual: Paciente varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">54 años</TAG> de edad sin antecedentes personales de interés.
+    Acude al <TAG TYPE="PROFESION">Servicio de Urgencias</TAG> de nuestro hospital en septiembre de 2005 por cefalea frontoparietal derecha y diplopia de mirada lateral de 2 semanas de evolución así como edema palpebral derecho desde hace una semana.
+    Fue valorado inicialmente por el <TAG TYPE="PROFESION">Servicio de Oftalmología</TAG> objetivando exoftalmos moderado en ojo derecho, inflamación, hiperemia y tumefacción palpebral superior e inferior derecha moderadas, limitación en todas las posiciones de la mirada y diplopia. No presentaba alteración de la agudeza visual. La presión intraocular (PIO) del ojo derecho era de 20 mmHg., la PIO del ojo izquierdo fue de 10 mmHg. La exploración del fondo de ojo era normal.
+    Se solicitó <TAG TYPE="PROFESION">TAC orbitario</TAG> objetivándose aumento de tamaño del hueso esfenoides con patrón permeativo e hiperostosis de cara orbitaria con masa de partes blandas que abombaba el músculo recto lateral. Asimismo se producía ocupación de las celdillas etmoidales.
+    El paciente ingresó en el <TAG TYPE="PROFESION">Servicio de Neurocirugía</TAG> solicitándose <TAG TYPE="PROFESION">RMN craneal</TAG> que era informado como posible <TAG TYPE="OTRO_NUMERO_IDENTIF">meningioma hiperostósico</TAG> en placa periorbitaria derecha del ala mayor de esfenoides sin poder descartar lesiones fibroóseas esfenoidales.
+    Se programó para realizar <TAG TYPE="PROFESION">biopsia quirúrgica</TAG> de dichas lesiones. El resultado anatomopatológico de la biopsia fue de tejido conectivo, músculo esquelético estriado y aisladas trabéculas óseas con nidos y cordones de células epiteliales con citoplasma amplio que formaban focalmente luces glandulares, en el hueso se apreciaba <TAG TYPE="OTRO_NUMERO_IDENTIF">metástasis de adenocarcinoma</TAG> con positividad inmunohistoquímica para el <TAG TYPE="OTRO_NUMERO_IDENTIF">Antígeno Prostático Específico (PSA)</TAG>.
+    Ante estos hallazgos se consultó con el <TAG TYPE="PROFESION">Servicio de Urología</TAG>. Realizando una anamnesis dirigida se descubrieron alteraciones en la micción en los últimos meses (<TAG TYPE="OTRO_NUMERO_IDENTIF">polaquiuria y nocturia</TAG>) y hemospermia.
+    Exploración física: <TAG TYPE="PROFESION">Tacto rectal</TAG>: próstata volumen <TAG TYPE="EDAD_SUJETO_ASISTENCIA">II/IV</TAG>, de consistencia pétrea en ambos lóbulos, fija, sospechosa de <TAG TYPE="OTRO_NUMERO_IDENTIF">cáncer de próstata</TAG>.
+    Pruebas complementarias: <TAG TYPE="OTRO_NUMERO_IDENTIF">PSA</TAG>: 389 ng/ml
+    <TAG TYPE="PROFESION">Biopsia de próstata transrrectal</TAG>: <TAG TYPE="OTRO_NUMERO_IDENTIF">adenocarcinoma prostático</TAG> Gleason 4+4=8 que afecta extensamente a ambos lóbulos.
+    <TAG TYPE="PROFESION">Rastreo óseo con Tc99m</TAG>: las imágenes mostraban múltiples áreas de hipercaptación que afectan a región cigomática derecha y orbital interna derecha, ambas parrillas costales, columna dorsolumbar, pala ilíaca, región acetabular e isquiopubiana derechas, espina iliaca y región acetabular izquierdas y tercio medio de diáfisis femoral izquierda.
+    Evolución y comentarios: Tras la instauración del <TAG TYPE="OTRO_NUMERO_IDENTIF">bloqueo androgénico</TAG> se produjo una mejoría progresiva de la clínica ocular. Durante los primeros 7 meses de seguimiento el paciente se mantuvo asintomático.
+    A los 8 meses el paciente ingresó en el <TAG TYPE="PROFESION">Servicio de Urología</TAG> con clínica de <TAG TYPE="OTRO_NUMERO_IDENTIF">hematuria</TAG>, que al no mejorar con lavado vesical continuo, requirió la realización de <TAG TYPE="PROFESION">RTU vesical</TAG>, apreciándose gran proceso neoformativo prostático que invadía el suelo vesical. Anatomía patológica de los fragmentos de resección: focos de <TAG TYPE="OTRO_NUMERO_IDENTIF">adenocarcinoma prostático</TAG> con cambios involutivos secundarios a tratamiento hormonal.
+    A los 9 meses del diagnóstico inicial el paciente ingresa de nuevo en nuestro servicio por <TAG TYPE="OTRO_NUMERO_IDENTIF">síndrome miccional obstructivo</TAG>, disminución de la diuresis, deterioro de la función renal y disnea. Se realizó <TAG TYPE="PROFESION">TAC toracoabdominopélvico</TAG> apreciándose derrame pleural derecho con atelectasia compresiva, múltiples adenopatías mediastínicas, metástasis pulmonares múltiples, dilatación ureteropielocalicial del riñón izquierdo y las ya conocidas múltiples lesiones óseas metastásicas de tipo blástico.
+    Se realizó <TAG TYPE="PROFESION">pleurocentesis derecha</TAG> (la citología del líquido pleural fue positiva para células tumorales malignas). Se desestimó la colocación de <TAG TYPE="PROFESION">nefrostomía percutánea</TAG>.
+    El paciente pasa a ser controlado por la <TAG TYPE="PROFESION">Unidad de Cuidados Paliativos</TAG>. Falleció 10 meses después del diagnóstico inicial.
+    Diagnóstico Principal: <TAG TYPE="OTRO_NUMERO_IDENTIF">Adenocarcinoma de próstata</TAG> Gleason 4+4=8 con metástasis óseas múltiples.
+    Tratamiento
+    Se instauró tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">bloqueo hormonal completo</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">Bicalutamida</TAG> 50 mg/24h y <TAG TYPE="OTRO_NUMERO_IDENTIF">Goserelina</TAG> 10,8 mg/12 semanas) y <TAG TYPE="OTRO_NUMERO_IDENTIF">bifosfonatos</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">Ácido Zoledrónico</TAG> 4 mg iv /4 semanas).
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Héctor</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pastor Navarro</TAG>. <TAG TYPE="CALLE">Av. San Antonio, 47 - 4º Dcha.</TAG> <TAG TYPE="TERRITORIO">02001</TAG> <TAG TYPE="TERRITORIO">Albacete.</TAG> (<TAG TYPE="PAIS">España</TAG>) <TAG TYPE="CORREO_ELECTRONICO">hektorpn@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

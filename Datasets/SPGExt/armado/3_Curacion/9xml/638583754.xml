@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Diego Plaza Esteban</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">23776990G</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/02/1953</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Ribera 32</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ferrol</TAG>, <TAG TYPE="TERRITORIO">Lérida</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">25798</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">plaza639@gmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 973 32 47 81</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 773 83 93 36</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9207980</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">887850916449</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Usuario de drogas</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Hugo Fuentes León</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 894498282</TAG>. <TAG TYPE="PROFESION">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/07/2024</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Oeste</TAG>.
+    Informe clínico del paciente:
+    El paciente, un hombre de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">61 años</TAG>, fue ingresado en el centro de salud con una historia de uso de drogas. Presenta una condición clínica compleja, con antecedentes de infecciones recurrentes y problemas de salud relacionados con el uso de drogas. A continuación, se detalla la evolución clínica del paciente.
+    La exploración física revela signos de malnutrición y desnutrición, con una temperatura corporal de <TAG TYPE="FECHAS">37,5°C</TAG> y una frecuencia cardíaca de <TAG TYPE="FECHAS">90 latidos por minuto</TAG>. El paciente está consciente y orientado, pero presenta signos de ansiedad y estrés.
+    Los resultados de las pruebas analíticas muestran anemia (<TAG TYPE="FECHAS">Hb 10,5 g/dl</TAG>) y elevación de las enzimas hepáticas (<TAG TYPE="FECHAS">GOT 120 U/l</TAG> y <TAG TYPE="FECHAS">GPT 150 U/l</TAG>). El paciente también presenta una infección urinaria, con una orina con presencia de sangre y pus.
+    El tratamiento se ha iniciado con antibióticos y medicamentos para controlar la infección urinaria. Se han solicitado pruebas adicionales, como una ecografía abdominal y un análisis de sangre para evaluar la función hepática y renal.
+    La evolución clínica del paciente es incierta, debido a la complejidad de su condición clínica y la historia de uso de drogas. Es importante seguir monitorizando su estado de salud y ajustar el tratamiento según sea necesario.
+    Antecedentes:
+    El paciente tiene una historia de uso de drogas desde la edad de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG>, con períodos de abstinencia y períodos de consumo intenso. Ha presentado infecciones recurrentes, incluyendo infecciones urinarias y pulmonares. También ha presentado problemas de salud relacionados con el uso de drogas, como anemia y problemas hepáticos.
+    Evolución y comentarios:
+    El paciente ha estado en tratamiento con medicamentos para controlar la infección urinaria y la anemia. Se han solicitado pruebas adicionales para evaluar la función hepática y renal. La evolución clínica del paciente es incierta, debido a la complejidad de su condición clínica y la historia de uso de drogas.
+    Remitido por:
+    El paciente ha sido remitido al servicio de Enfermedades Infecciosas para continuar con el tratamiento y la evaluación de su condición clínica. Se le ha recomendado que siga con el tratamiento antibiótico y que se someta a pruebas adicionales para evaluar la función hepática y renal.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Diego Arias Lozano
+DNI: 88877583V
+Fecha de nacimiento: 23/06/2024
+Género: Varón
+Domicilio: Calle de Velázquez 63
+Ciudad: Ontinyent, Teruel, Aragón
+Código postal: 44298
+Email: arias@ciberned.es
+Teléfono fijo: +34 978 20 76 05
+Teléfono móvil: +34 678 57 50 58
+NHC: 1079558
+NASS: 719684532841
+Condición de riesgo: Conductor de Camión
+
+Datos asistenciales.
+Médico: Dr. Abel Rey Salazar. NC 380650715. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/09/2024
+Episodio: 97952025
+Hospital: Hospital Universitario Infanta Leonor
+Matrícula del coche: 5859MJL
+Modelo: Toyota Corolla
+VIN: VSAULEL7I5Q751187
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 2 meses de edad, acompañado de su madre. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es FX334YWV781. 

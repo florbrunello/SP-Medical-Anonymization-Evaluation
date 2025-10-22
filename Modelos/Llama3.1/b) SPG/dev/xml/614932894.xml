@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gemma</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Galvez</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Esteban</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">44619815E</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">18/04/2019</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Libertad 45, 2J</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Estepa</TAG>, <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">37990</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">esteban@uca.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 33 99 58</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 723 08 35 77</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4695587</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Plomero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisca Alonso Torres</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">194227805</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuropsicóloga Clínica Investigadora</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">12/02/2023</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Virgen de la Luz</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">descendencia africana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermana</TAG>.
+  </TEXT>
+</MEDDOCAN>

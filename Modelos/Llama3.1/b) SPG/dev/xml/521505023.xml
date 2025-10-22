@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mercedes</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Calvo Jurado</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">74616840X</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/10/2022</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Tres Cruces 68, 2W</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">San Pedro del Pinatar</TAG>, <TAG TYPE="TERRITORIO">Cantabria</TAG>, <TAG TYPE="TERRITORIO">Cantabria</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">39830</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jurado@outlook.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 942 65 36 13</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 642 76 22 82</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0561216</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Ingeniero de Minas</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Carmen Morales Iglesias</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">042296619</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Epidemiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/06/2023</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">52387905</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Regional Universitario de Málaga</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 meses</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermana</TAG>.
+  </TEXT>
+</MEDDOCAN>

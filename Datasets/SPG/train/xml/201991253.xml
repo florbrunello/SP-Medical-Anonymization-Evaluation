@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Nerea Diez Martín
+DNI: 29287113V
+Fecha de nacimiento: 20/08/1938
+Género: Femenino
+Domicilio: Calle de San Bernardo 43
+Ciudad: Gijón, Huesca, Aragón
+Código postal: 22465
+Email: nereadiez-martin@ual.es
+Teléfono fijo: +34 974 87 28 05
+Teléfono móvil: +34 774 77 20 47
+NHC: 6289342
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. Julio Salas Vargas. NC 383982287. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/07/1970
+Hospital: Hospital Universitario de Gran Canaria Dr. Negrín
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 31 años de edad, acompañado de su hijo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Nerea" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="45" text="Diez Martín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="29287113V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="20/08/1938" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="109" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="145" text="Calle de San Bernardo 43" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="159" text="Gijón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="167" text="Huesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="175" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="22465" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="227" text="nereadiez-martin@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="243" end="259" text="+34 974 87 28 05" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="276" end="292" text="+34 774 77 20 47" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="298" end="305" text="6289342" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="327" end="352" text="Trabajador de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="387" end="405" text="Julio Salas Vargas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="410" end="419" text="383982287" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="421" end="470" text="Psiquiatra Especialista en Trastornos de Ansiedad" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="472" end="542" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="544" end="573" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="575" end="580" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="582" end="588" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="590" end="596" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="616" end="626" text="17/07/1970" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="637" end="686" text="Hospital Universitario de Gran Canaria Dr. Negrín" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="730" end="754" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="758" end="765" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="792" end="796" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Francisco</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pereira Marín</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">74611094Z</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">17/01/2001</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Fuencarral 13</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Ponferrada</TAG>, <TAG TYPE="TERRITORIO">Soria</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">42014</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">josefrancisco.marin@aol.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 975 87 61 68</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 975 72 04 43</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8312035</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">605938596496</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Operador de Maquinaria Agrícola</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Valeria Santiago Zamora</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">348948701</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">28/07/2023</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">55258428</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Boadilla del Monte</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTRO_NUMERO_IDENTIF">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hijo</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">firma biométrica</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">SW993FEG241</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Diana</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Martinez Santana</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5678306</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">79 83268953 05</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. Las Rozas</TAG>, <TAG TYPE="NUMERO_TELEFONO">34</TAG>, <TAG TYPE="NUMERO_TELEFONO">3</TAG>, <TAG TYPE="NUMERO_TELEFONO">1</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Cuenca</TAG>.
+    CP: <TAG TYPE="TERRITORIO">16221</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/12/1971</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">42 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">20/03/2014</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Neurología</TAG>.
+    Episodio: <TAG TYPE="ID_SUJETO_ASISTENCIA">7834564</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José M.a</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gómez Argüelles</TAG>  NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">16 16 52330</TAG>.
+    Informe clínico del paciente: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">42 años</TAG> que refiere que desde un año antes de acudir a la consulta presenta dolor tipo escozor en la zona del omóplato izquierdo y poco tiempo después observó que tenía una mancha hiperpigmentada en la espalda, en la zona dorsal media, pero que no coincidía con la zona pruriginosa. La sensación de picor era constante, a veces incluso con sensación de "descargas eléctricas". Le molestaba cualquier estímulo mecánico sobre esa zona, lo que le impedía llevar ropa ajustada e incluso evitaba cualquier mínimo roce. Se realizó una biopsia de la lesión hiperpigmentada, siendo compatible con el diagnóstico de notalgia parestésica. En la exploración se objetivaba una zona de hiperestesia en la región escapular izquierda, con alodinia cutánea y dinámica, más hiperestesia al pinchazo en una zona claramente delimitada. El estudio de resonancia magnética nuclear (RMN) de columna completa no mostró anomalías. Se intentaron diferentes tratamientos (ebastina, capsaícina en crema, corticoide tópico, pregabalina oral, lidocaína en parche al 5%, capsaicina en parche al 8%, infiltración con toxina botulínica), sin ninguna eficacia sobre los síntomas descritos y sin observarse mejoría de la clínica.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José M.a</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gómez Argüelles</TAG> <TAG TYPE="PROFESION">Servicio de Neurología</TAG> <TAG TYPE="INSTITUCION">Hospital General Virgen de la Luz</TAG> <TAG TYPE="CALLE">C/ Hermandad Donantes de Sangre</TAG>, <TAG TYPE="NUMERO_TELEFONO">s/n</TAG> <TAG TYPE="TERRITORIO">16002</TAG> <TAG TYPE="TERRITORIO">Cuenca</TAG> e-mail: <TAG TYPE="CORREO_ELECTRONICO">jmgarguelles@yahoo.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

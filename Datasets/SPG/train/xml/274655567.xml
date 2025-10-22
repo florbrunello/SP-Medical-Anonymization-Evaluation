@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Vanessa Trujillo Álvarez
+DNI: 33424121S
+Fecha de nacimiento: 26/03/1938
+Género: M
+Domicilio: Calle de Juan Bravo 17, 7P
+Ciudad: Yecla, Álava, Pais Vasco
+Código postal: 01094
+Email: vanessa.alvarez@udc.es
+Teléfono fijo: +34 945 35 10 70
+Teléfono móvil: +34 745 97 84 22
+NHC: 4995479
+NASS: 538657544746
+Condición de riesgo: Plomero
+
+Datos asistenciales.
+Médico: Dr. Xavier Quintana Carrillo. NC 420447122. Investigador Clínico en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 23/11/2020
+Centro de salud: Centro de Salud Collado Villalba
+Matrícula del coche: 8904GLI
+Modelo: Jeep Wrangler
+VIN: VSOUIN81CEC802789
+
+Informe clínico del paciente:
+Paciente de ascendencia oceánica de 82 años de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es GO709VAQ734. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Vanessa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="52" text="Trujillo Álvarez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="33424121S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="26/03/1938" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="147" text="Calle de Juan Bravo 17, 7P" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="161" text="Yecla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="168" text="Álava" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="180" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="01094" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="231" text="vanessa.alvarez@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 945 35 10 70" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 745 97 84 22" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="4995479" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="316" end="328" text="538657544746" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="350" end="357" text="Plomero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="392" end="416" text="Xavier Quintana Carrillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="421" end="430" text="420447122" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="432" end="478" text="Investigador Clínico en Insuficiencia Cardíaca" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="480" end="566" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="568" end="597" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="599" end="604" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="606" end="612" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="614" end="620" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="640" end="650" text="23/11/2020" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="668" end="700" text="Centro de Salud Collado Villalba" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="722" end="729" text="8904GLI" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="757" end="774" text="VSOUIN81CEC802789" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="818" end="838" text="ascendencia oceánica" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="842" end="849" text="82 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="941" end="952" text="GO709VAQ734" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

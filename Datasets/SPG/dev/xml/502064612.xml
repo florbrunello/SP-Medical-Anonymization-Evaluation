@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Esteban Velasco Camacho
+DNI: 90200434T
+Fecha de nacimiento: 08/05/1972
+Género: V
+Domicilio: Calle del Carmen 32
+Ciudad: Plasencia, Cáceres, Extremadura
+Código postal: 10578
+Email: velasco@ciberehd.org
+Teléfono fijo: +34 927 74 62 08
+Teléfono móvil: +34 627 58 74 30
+NHC: 9451673
+
+Datos asistenciales.
+Médico: Dra. María Inmaculada Pardo Macias. NC 001271083. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/05/1991
+Episodio: 57156656
+Centro de salud: Centro de Salud Carabanchel
+
+Informe clínico del paciente:
+Paciente musulman de 19 años de edad. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es NI617NBJ441. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es RM866AHF526. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Esteban" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="51" text="Velasco Camacho" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="90200434T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="08/05/1972" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="139" text="Calle del Carmen 32" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="157" text="Plasencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="166" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="179" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="10578" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="228" text="velasco@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="244" end="260" text="+34 927 74 62 08" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="277" end="293" text="+34 627 58 74 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="299" end="306" text="9451673" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="586" end="596" text="24/05/1991" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="607" end="615" text="57156656" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="633" end="660" text="Centro de Salud Carabanchel" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T18" start="701" end="709" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="713" end="720" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T20" start="816" end="827" text="NI617NBJ441" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T21" start="910" end="921" text="RM866AHF526" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

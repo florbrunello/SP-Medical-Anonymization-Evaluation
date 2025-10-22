@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Diego Exposito Ramos
+DNI: 68327991M
+Fecha de nacimiento: 04/10/1991
+Género: Masculino
+Domicilio: Calle de la Paz 56
+Ciudad: Eibar, Jaén, Andalucía
+Código postal: 23472
+Email: ramos@salud.madrid.org
+Teléfono fijo: +34 953 72 68 87
+FAX: +34 953 91 11 00
+NHC: 7534458
+NASS: 042584179116
+
+Datos asistenciales.
+Médico: Dra. Lara Zamora Galan. NC 100960630. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/01/1998
+Episodio: 34732654
+Hospital: Hospital Universitario Virgen Macarena
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 6 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Diego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Exposito Ramos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="68327991M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="04/10/1991" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="113" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="143" text="Calle de la Paz 56" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="157" text="Eibar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="163" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="174" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="23472" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="225" text="ramos@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 953 72 68 87" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="263" end="279" text="+34 953 91 11 00" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="285" end="292" text="7534458" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="299" end="311" text="042584179116" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="589" end="599" text="10/01/1998" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="610" end="618" text="34732654" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="629" end="667" text="Hospital Universitario Virgen Macarena" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="711" end="740" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="744" end="750" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="777" end="782" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

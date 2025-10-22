@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Iván Del Rio Nieto
+DNI: 37849396K
+Fecha de nacimiento: 21/02/1936
+Género: Varón
+Domicilio: Calle de Preciados 98, 3O
+Ciudad: Avilés, Sevilla, Andalucía
+Código postal: 41513
+Email: delrio@ciberer.es
+Teléfono fijo: +34 954 54 08 94
+Teléfono móvil: +34 654 97 09 53
+NHC: 8121932
+NASS: 313901742858
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dra. Isabel Gracia Ramos. NC 560192406. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/06/1988
+Hospital: Hospital Universitario Virgen Macarena
+Matrícula del coche: 6413KRW
+Modelo: Chevrolet Silverado
+VIN: VSRHHFXXRLN213965
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 52 años de edad. 

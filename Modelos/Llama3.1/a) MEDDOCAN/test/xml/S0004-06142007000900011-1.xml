@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carlos</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vazquez Suescun</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3485964</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Av. Castilla y Leon. 23</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Asturias</TAG>.
+    CP: <TAG TYPE="TERRITORIO">33245</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">12/01/1948</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">68 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">23/09/2016</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carmen</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Macia Bobes</TAG>  NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">68 años</TAG>, con antecedentes de hemorragia digestiva alta por aspirina y accidente isquémico transitorio a tratamiento crónico con trifusal (300 mg cada 12 horas), que acudió al Servicio de Urgencias del <TAG TYPE="HOSPITAL">Hospital San Agustín</TAG> (<TAG TYPE="TERRITORIO">Avilés</TAG>, <TAG TYPE="TERRITORIO">Asturias</TAG>), en mayo de 2006, por dolor en hemiabdomen izquierdo, intenso, continuo, de instauración súbita y acompañado de cortejo vegetativo. A la exploración presentaba una tensión arterial de 210/120 mm Hg, una frecuencia cardíaca de 80 por minuto, y dolor en fosa ilíaca izquierda, acentuado con la palpación. El hemograma (hemoglobina: 13 g/dL, plaquetas: 249.000), el estudio de coagulación, la bioquímica elemental de sangre, el sistemático de orina, el electrocardiograma y la radiografía simple de tórax eran normales. En la tomografía computarizada de abdomen se objetivó un extenso hematoma, de 12 cm de diámetro máximo, en la celda renal izquierda, sin líquido libre intraperitoneal; la suprarrenal izquierda quedaba englobada y no se podía identificar, y la derecha no presentaba alteraciones. La HTA no se llegó a controlar en Urgencias, a pesar del tratamiento con analgésicos, con antagonistas del calcio y con inhibidores de la enzima convertidora de la angiotensina II, por lo que el paciente, que mantenía cifras tensionales de 240/160 mm Hg, pasó a la Unidad de Cuidados Intensivos, para tratamiento intravenoso con nitroprusiato y labetalol. En las 24 horas siguientes se yuguló la crisis hipertensiva, y se comprobó que la hemoglobina y el hematocrito permanecían estables.
+    Con la sospecha diagnóstica de rotura no traumática de un feocromocitoma pre-existente, se determinaron metanefrinas plasmáticas, que fueron normales, y catecolaminas y metanefrinas urinarias. En la orina de 24 horas del día siguiente al ingreso se obtuvieron los siguientes resultados: adrenalina: 65,1 mcg (valores normales -VN: 1,7-22,5), noradrenalina: 151,1 mcg (VN: 12,1-85,5), metanefrina: 853,5 mcg (VN: 74-297) y normetanefrina: 1396,6 mcg (VN: 105-354). A los 10 días, todavía ingresado el paciente, las cifras urinarias se habían normalizado por completo de modo espontáneo.
+    Respecto al hematoma, en julio de 2006 no se había reabsorbido y persistía una imagen pseudoquística en la zona suprarrenal izquierda. En septiembre de 2006 se practicó una suprarrenalectomía unilateral, y el estudio histológico mostró una masa encapsulada de 6 x 5 cm, con necrosis hemorrágica extensa y algunas células corticales sin atipias.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Carmen</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Maciá Bobes</TAG> <TAG TYPE="CALLE">C/ Pablo Laloux 13, 6º A-Sur.</TAG> <TAG TYPE="TERRITORIO">33405 Salinas.</TAG> <TAG TYPE="TERRITORIO">Castrillón.</TAG> <TAG TYPE="TERRITORIO">Asturias.</TAG> (<TAG TYPE="PAIS">España</TAG>) <TAG TYPE="CORREO_ELECTRONICO">cmacb@arrakis.es</TAG>
+  </TEXT>
+</MEDDOCAN>

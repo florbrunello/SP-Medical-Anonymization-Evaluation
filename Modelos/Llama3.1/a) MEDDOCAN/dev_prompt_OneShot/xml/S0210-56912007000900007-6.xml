@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jacinta</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ramos Rubio</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7845963</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">16 911364589 54</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Obispo Rafael Torija, 18, 7E</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Ciudad Real</TAG>.
+    CP: <TAG TYPE="TERRITORIO">13005</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/06/1956</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">61 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">19/07/2017</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">157995415</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jorge</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ortega-Carnicer</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">13 13 45684</TAG>.
+    Motivo de ingreso: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">61 años</TAG> trasladada desde un hospital comarcal por fallo renal agudo. La enferma refirió que había tenido diarrea intensa y vómitos desde hacía una semana.
+    Antecedentes:Sus antecedentes incluían <TAG TYPE="OTRO_NUMERO_IDENTIF">hipertensión arterial</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">DM</TAG> tratadas con <TAG TYPE="OTRO_NUMERO_IDENTIF">irbesartán</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">amlodipino</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">metformina</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">850 mg/12 h</TAG>)
+    Exploración física: La exploración puso de manifiesto intensa deshidratación, taquipnea y bradipsiquia, aunque respondía a órdenes. El abdomen estaba blando y no doloroso. La presión arterial fue de <TAG TYPE="OTRO_NUMERO_IDENTIF">90/40 mmHg</TAG>, la frecuencia cardíaca de <TAG TYPE="OTRO_NUMERO_IDENTIF">70 latidos/minuto</TAG> y la temperatura de <TAG TYPE="OTRO_NUMERO_IDENTIF">35,8º C</TAG>.
+    Resumen de pruebas complementarias: La amilasa sérica era de <TAG TYPE="OTRO_NUMERO_IDENTIF">94 U/l</TAG>. El aporte de fluidos normalizó la presión arterial y la administración de <TAG TYPE="OTRO_NUMERO_IDENTIF">165 mEq de bicarbonato</TAG> elevó el pH a <TAG TYPE="OTRO_NUMERO_IDENTIF">7,06</TAG> y el bicarbonato a <TAG TYPE="OTRO_NUMERO_IDENTIF">4 mEq/l</TAG>. La paciente fue sometida a una sesión de hemodiálisis urgente y se suprimió el tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">metformina</TAG>. A las <TAG TYPE="OTRO_NUMERO_IDENTIF">12 horas</TAG> del ingreso la creatinina era de <TAG TYPE="OTRO_NUMERO_IDENTIF">2,2 mg/dl</TAG> y el pH de <TAG TYPE="OTRO_NUMERO_IDENTIF">7,43</TAG>, pero la amilasa ascendió a <TAG TYPE="OTRO_NUMERO_IDENTIF">1.319 U/l</TAG>, con normalidad del calcio iónico y de los triglicéridos.
+    Evolución y comentarios: La tabla 2 muestra los principales datos analíticos.Una tomografía computarizada abdominal descubrió una infiltración de la grasa peripancreática con líquido libre abdominal compatible con pancreatitis aguda. No se encontraron causas conocidas de pancreatitis, incluyendo <TAG TYPE="OTRO_NUMERO_IDENTIF">hipertrigliceridemia</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">hipercalcemia</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">alcoholismo</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">litiasis biliar</TAG> o trauma. La paciente tuvo una evolución favorable y fue trasladada a planta a las <TAG TYPE="OTRO_NUMERO_IDENTIF">72 horas</TAG> del ingreso.
+    Remitido por:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jorge</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ortega-Carnicer</TAG>. <TAG TYPE="CALLE">Calle de Los Alisos, 10</TAG>. <TAG TYPE="TERRITORIO">13002</TAG> <TAG TYPE="TERRITORIO">Ciudad Real</TAG>. Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">jortegacar@gmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

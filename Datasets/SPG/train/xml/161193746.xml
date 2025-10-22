@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Miriam Mesa Rivas
+DNI: 21124736H
+Fecha de nacimiento: 25/09/1943
+Género: F
+Domicilio: Calle Mayor 16
+Ciudad: Ibiza, Álava, Pais Vasco
+Código postal: 01983
+Email: miriammesa@ciberehd.org
+Teléfono fijo: +34 945 17 67 49
+Teléfono móvil: +34 645 34 95 84
+NHC: 1126761
+NASS: 587111833098
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dra. Ainhoa Trujillo Varela. NC 400406114. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 22/09/2002
+Episodio: 50684630
+Hospital: Complejo Hospitalario La Mancha Centro
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 58 años de edad, acompañado de su suegra. Se registró una sesión de huella dactilar, el código obtenido para revisarla es HD601CZS340. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Miriam" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="45" text="Mesa Rivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="21124736H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="25/09/1943" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="128" text="Calle Mayor 16" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="137" end="142" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="144" end="149" text="Álava" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="151" end="161" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="177" end="182" text="01983" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="190" end="213" text="miriammesa@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="229" end="245" text="+34 945 17 67 49" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="262" end="278" text="+34 645 34 95 84" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="284" end="291" text="1126761" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="298" end="310" text="587111833098" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="332" end="338" text="Minero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="580" end="590" text="22/09/2002" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="601" end="609" text="50684630" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="620" end="658" text="Complejo Hospitalario La Mancha Centro" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="699" end="720" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="724" end="731" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="758" end="764" text="suegra" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="846" end="857" text="HD601CZS340" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

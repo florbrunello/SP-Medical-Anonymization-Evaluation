@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Teresa Marín Medina
+DNI: 95353721E
+Fecha de nacimiento: 20/10/1967
+Género: F
+Domicilio: Calle de Moratín 89, 2A
+Ciudad: Ciudad autónoma de Melilla, Melilla, 
+Código postal: 51106
+Email: teresa.medina@ioba.med.uva.es
+Teléfono fijo: +34 951 89 74 23
+Teléfono móvil: +34 751 67 38 04
+NHC: 5963870
+NASS: 192341723709
+
+Datos asistenciales.
+Médico: Dra. Ariadna Rubio Vázquez. NC 049383306. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 30/06/1986
+Episodio: 16833008
+Centro de salud: Centro de Salud Alhaurín de la Torre
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 18 años de edad, acompañado de su hija. El servidor para envío de información desde cual el usuario se comunica es smtp://example-clinica.com. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Teresa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Marín Medina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="95353721E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="20/10/1967" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="139" text="Calle de Moratín 89, 2A" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="174" text="Ciudad autónoma de Melilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="176" end="184" text="Melilla," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="201" end="206" text="51106" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="214" end="243" text="teresa.medina@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="259" end="275" text="+34 951 89 74 23" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="292" end="308" text="+34 751 67 38 04" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T13" start="314" end="321" text="5963870" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="328" end="340" text="192341723709" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T15" start="581" end="591" text="30/06/1986" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="602" end="610" text="16833008" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="628" end="664" text="Centro de Salud Alhaurín de la Torre" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T18" start="705" end="722" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="726" end="733" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="760" end="764" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="841" end="863" text="smtp://example-clinica" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

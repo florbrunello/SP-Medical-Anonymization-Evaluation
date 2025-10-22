@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Oliver Torres Conde</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">95895085N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">29/09/1929</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Magdalena 85, 7G</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Úbeda</TAG>, <TAG TYPE="TERRITORIO">Asturias</TAG>, <TAG TYPE="TERRITORIO">Asturias</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">33751</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">torres@ucm.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 984 51 93 75</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 784 63 13 56</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3190168</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">95895085N</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Electricista</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jon Pérez Soto</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 858584876</TAG>. <TAG TYPE="PROFESION">Oftalmólogo Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/11/1979</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">51163929</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Regional Universitario de Málaga</TAG>
+    Informe clínico del paciente:
+    Paciente vegano de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">50 años</TAG> de edad, acompañado de su compañero de trabajo, presenta síntomas de dolor ocular y visión borrosa en el ojo derecho desde hace 3 días. La paciente informa que ha tenido un accidente en el trabajo, donde se le cayó un objeto pesado en la mano, lo que le causó un golpe en la cabeza y en el ojo derecho.
+    La exploración física revela: Tª <TAG TYPE="FECHAS">36,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">80 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">14,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">10.200/mm3</TAG> (neutrófilos 60%); plaquetas <TAG TYPE="FECHAS">250.000/ mm3</TAG>. VSG: <TAG TYPE="FECHAS">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">90%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">110 mg/dl</TAG>; urea <TAG TYPE="FECHAS">25 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,0 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">138 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">4,0 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">12 U/l</TAG>; GPT <TAG TYPE="FECHAS">20 U/l</TAG>; GGT <TAG TYPE="FECHAS">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">140 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Con el diagnóstico de traumatismo ocular y posibles lesiones en el ojo derecho, se instaura tratamiento conservador (reposo, hielo en el ojo afectado y analgésicos) y se solicitan pruebas de imagen (ECG, TAC craneal y Ecografía ocular) para evaluar la gravedad de la lesión. El paciente se encuentra en observación en la unidad de cuidados intensivos del hospital.
+    </TEXT>
+  </MEDDOCAN>

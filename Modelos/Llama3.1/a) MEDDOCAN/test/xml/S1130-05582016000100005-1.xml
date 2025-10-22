@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Luis</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Galletero Zafra</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3849674</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">45 89675675 10</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle la Bañeza 32</TAG>. <TAG TYPE="NUMERO">4 Der</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28029</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/03/1994</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">24 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">28/05/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Esteban</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Peghini</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 53320</TAG>.
+    Informe clínico del paciente: varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">24 años</TAG> referido al Servicio de Cirugía Maxilo-Facial de nuestra institución para evaluación del labio-paladar hendido. El paciente no presentó antecedentes de interés salvo cirugía de tipo no especificado para su enfermedad de base años antes, y con hipoplasia malar secundaria. Al examen físico el paciente presentaba dismorfia de la pirámide nasal. El análisis cefalométrico y estudios de imagen que incluían <TAG TYPE="PROFESION">tomografía computarizada multidetector</TAG> (TCMD), confirmaron la presencia de hipoplasia maxilar. Un manejo quirúrgico en 2 fases fue planificado basado en los hallazgos clínicos y radiológicos. En la primera fase se realizó una osteotomía <TAG TYPE="PROFESION">LeFort</TAG> tipo 1 con colocación de distractores maxilares internos. Posterior a la corrección de la relación maxilomandibular se procedería a una segunda fase que incluiría probablemente extracción de piezas dentarias y rehabilitación mediante <TAG TYPE="PROFESION">implantes dentarios</TAG>. La primera fase del tratamiento se realizó sin complicaciones quirúrgicas inmediatas.
+    El paciente acudió <TAG TYPE="FECHAS">27 días</TAG> después al servicio de urgencias por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">epistaxis</TAG> para lo que se indicó <TAG TYPE="OTROS_SUJETO_ASISTENCIA">taponamiento anterior bilateral</TAG> e ingreso. Se decidió realización de <TAG TYPE="PROFESION">TCMD</TAG> tras administración de <TAG TYPE="PROFESION">contraste intravenoso</TAG> (CIV) para estudio vascular del macizo facial, en la cual se evidenció un seudoaneurisma de aproximadamente <TAG TYPE="OTRO_NUMERO_IDENTIF">8 × 9 × 8 mm</TAG> (diámetro anteroposterior, transverso y cráneo-caudal) en la fosa pterigo-palatina derecha con probable origen en la arteria maxilar interna ipsilateral.
+    Durante el ingreso, el paciente presentó episodios significativos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sangrado oral y nasal</TAG> con consecuencias hemodinámicas importantes por lo que se realizó un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">taponamiento posterior</TAG> con sondas de <TAG TYPE="PROFESION">Foley</TAG>. Un día después se realizó <TAG TYPE="PROFESION">arteriografía selectiva</TAG> de arteria carótida externa derecha con intención terapéutica, en la cual se confirmó la presencia del seudoaneurisma y su dependencia de la arteria maxilar interna. Se decidió realizar <TAG TYPE="PROFESION">embolización</TAG> en la misma intervención con <TAG TYPE="PROFESION">goma de cianoacrilato al 50%</TAG>. El paciente toleró correctamente el procedimiento, por lo que fue transferido a la planta de cirugía maxilofacial. Al no presentar nuevos episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sangrado o alteraciones hemodinámicas</TAG>, <TAG TYPE="FECHAS">6 días</TAG> después de la embolización, se procedió al alta.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Esteban</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Peghini</TAG>. Correo Electronico <TAG TYPE="CORREO_ELECTRONICO">estebanpg50@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

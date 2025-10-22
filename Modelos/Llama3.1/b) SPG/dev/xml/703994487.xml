@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mónica Soriano</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Guerrero</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">82158291Z</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/09/2006</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Pez 84, 2X</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Dos Hermanas</TAG>, <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">14668</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">monicaguerrero@udc.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 957 77 98 46</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 657 96 43 11</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8150853</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">338896285442</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Microbiólogo</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan José Molina Domínguez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">730151364</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/09/2013</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">01894534</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuengirola</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7571SMO</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Chrysler Pacifica</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSJX3A6LT4A428815</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>.
+  </TEXT>
+</MEDDOCAN>

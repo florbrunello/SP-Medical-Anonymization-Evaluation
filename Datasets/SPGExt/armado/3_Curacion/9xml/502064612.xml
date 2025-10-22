@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Esteban Velasco Camacho</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">90200434T</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/05/1972</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Carmen 32</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Plasencia</TAG>, <TAG TYPE="TERRITORIO">Cáceres</TAG>, <TAG TYPE="TERRITORIO">Extremadura</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">10578</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">velasco@ciberehd.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 927 74 62 08</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 627 58 74 30</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9451673</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">90200434T105780</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente con historia de exposición a agentes biológicos</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Inmaculada</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pardo Macias</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 001271083</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/05/1991</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">57156656</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Carabanchel</TAG>.
+    Informe clínico del paciente:
+    Paciente musulman de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">19 años</TAG> de edad, con antecedentes de exposición a agentes biológicos. Presenta una condición clínica compleja, con síntomas de infección sistémica y reacciones adversas a la exposición a sustancias biológicas. El paciente ha sido sometido a un proceso de reconocimiento facial y escaneo del iris, con códigos de acceso correspondientes a <TAG TYPE="IDENTIF_BIOMETRICOS">NI617NBJ441</TAG> y <TAG TYPE="IDENTIF_BIOMETRICOS">RM866AHF526</TAG>, respectivamente.
+    La exploración física revela: temperatura corporal elevada, taquicardia, hipertensión arterial y signos de inflamación en varias áreas del cuerpo. El paciente está consciente y orientado, pero presenta signos de malestar y ansiedad.
+    Los datos analíticos muestran los siguientes resultados: hemograma con leucocitos elevados, proteínas en orina y signos de inflamación en la biopsia de tejido. La resonancia magnética (RM) ha revelado lesiones en varios órganos, incluyendo el hígado, el riñón y el pulmón.
+    Con el diagnóstico de infección sistémica y reacciones adversas a la exposición a sustancias biológicas, se ha instaurado un tratamiento intensivo, incluyendo antibióticos, antivirales y medicamentos para controlar la inflamación. El paciente está siendo monitoreado de cerca y se están realizando pruebas adicionales para determinar la causa subyacente de la infección y las reacciones adversas.
+    Antecedentes:
+    El paciente tiene antecedentes de exposición a agentes biológicos en un laboratorio de investigación. El paciente ha sido sometido a un proceso de reconocimiento facial y escaneo del iris como parte de un estudio de investigación.
+    Evolución y comentarios:
+    El paciente ha estado en tratamiento durante varias semanas y ha presentado una mejoría significativa en sus síntomas. Sin embargo, la condición clínica del paciente sigue siendo compleja y requiere un seguimiento estrecho.
+    Remitido por:
+    El paciente ha sido remitido al Servicio de Medicina Interna del Hospital Universitario para un seguimiento y tratamiento continuo.
+  </TEXT>
+</MEDDOCAN>

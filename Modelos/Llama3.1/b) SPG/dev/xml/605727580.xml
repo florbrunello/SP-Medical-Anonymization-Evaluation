@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Julián</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Montoya Rueda</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">46221979Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/05/2017</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Arenal 65</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">37647</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">julianmontoya@icloud.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 74 34 42</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 723 64 63 38</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9979996</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Inés Mora Herrera</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">977646458</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuróloga Investigadora en Trastornos Cognitivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">07/11/2023</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">92490399</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Latina</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">9061JCG</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Toyota Corolla</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSF9VOP6K6K755263</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. Se registró una sesión de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">RX148RDL665</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ángela Pastor Maldonado
+DNI: 73201532F
+Fecha de nacimiento: 17/09/1967
+Género: Femenino
+Domicilio: Calle de Velázquez 96
+Ciudad: Vitoria, Las Palmas, Canarias
+Código postal: 35448
+Email: pastor-maldonado@uca.es
+Teléfono fijo: +34 928 27 98 59
+Teléfono móvil: +34 628 95 32 64
+NHC: 8771369
+NASS: 943400381825
+
+Datos asistenciales.
+Médico: Dra. Esperanza Cabrera Quintana. NC 198828949. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 26/04/2018
+Episodio: 69864230
+Hospital: Hospital Clínic Universitario San Cecilio
+
+Informe clínico del paciente:
+Paciente de ascendencia caribeña de 50 años de edad, acompañado de su amigo. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es JW015UFT872. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Ángela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="51" text="Pastor Maldonado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="73201532F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="17/09/1967" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="115" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="127" end="148" text="Calle de Velázquez 96" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="164" text="Vitoria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="176" text="Las Palmas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="186" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="35448" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="238" text="pastor-maldonado@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 928 27 98 59" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 628 95 32 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="8771369" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="323" end="335" text="943400381825" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="581" end="591" text="26/04/2018" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="602" end="610" text="69864230" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="621" end="662" text="Hospital Clínic Universitario San Cecilio" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="706" end="726" text="ascendencia caribeña" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="730" end="737" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="764" end="769" text="amigo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T22" start="853" end="864" text="JW015UFT872" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

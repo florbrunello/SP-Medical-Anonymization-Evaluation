@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Dolores Vila López
+DNI: 66688471V
+Fecha de nacimiento: 10/12/1945
+Género: F
+Domicilio: Calle de Bravo Murillo 9
+Ciudad: Ontinyent, Navarra, Navarra
+Código postal: 31786
+Email: lopez634@gmail.com
+Teléfono fijo: +34 948 15 55 64
+FAX: +34 948 58 48 42
+NHC: 4776009
+NASS: 534036870480
+Condición de riesgo: Operador de Equipos Mineros
+
+Datos asistenciales.
+Médico: Dr. Adrián Paredes Herrera. NC 180441888. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/08/1986
+Episodio: 88104481
+Hospital: Complejo Hospitalario Torrecárdenas
+Matrícula del coche: 8987JNO
+Modelo: Volkswagen Golf
+VIN: VSX0O41WUJX816633
+
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 40 años de edad, acompañado de su esposa. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Dolores" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="52" text="Vila López" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="66688471V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="10/12/1945" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="145" text="Calle de Bravo Murillo 9" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="163" text="Ontinyent" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="172" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="181" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="31786" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="228" text="lopez634@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="244" end="260" text="+34 948 15 55 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="266" end="282" text="+34 948 58 48 42" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="288" end="295" text="4776009" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="302" end="314" text="534036870480" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="336" end="363" text="Operador de Equipos Mineros" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="398" end="420" text="Adrián Paredes Herrera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="425" end="434" text="180441888" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="436" end="475" text="Residente de 4° año en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="477" end="561" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="563" end="592" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="594" end="599" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="601" end="607" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="609" end="615" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="635" end="645" text="06/08/1986" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="656" end="664" text="88104481" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="675" end="710" text="Complejo Hospitalario Torrecárdenas" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="732" end="739" text="8987JNO" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="769" end="786" text="VSX0O41WUJX816633" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="830" end="853" text="comunidades vulnerables" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="857" end="864" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="891" end="897" text="esposa" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

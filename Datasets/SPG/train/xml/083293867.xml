@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Valentín Galvez Mateo
+DNI: 30256881J
+Fecha de nacimiento: 23/03/2008
+Género: Varón
+Domicilio: Calle del Sacramento 14
+Ciudad: Getafe, Salamanca, Castilla y León
+Código postal: 37732
+Email: valentin-galvez-mateo1891@ciberehd.org
+Teléfono fijo: +34 923 28 73 21
+FAX: +34 923 62 71 58
+NHC: 1098364
+
+Datos asistenciales.
+Médico: Dra. Magdalena Santiago Robles. NC 201468118. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/09/2023
+Episodio: 00699788
+Hospital: Hospital Universitario Infanta Leonor
+Matrícula del coche: 3253TFO
+Modelo: Toyota Corolla
+VIN: VSWYUBKVDKN477993
+
+Informe clínico del paciente:
+Paciente exfumador de 15 años de edad, acompañado de su padre. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es FQ995KTT628. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Valentín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="49" text="Galvez Mateo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="30256881J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="23/03/2008" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="110" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="145" text="Calle del Sacramento 14" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="160" text="Getafe" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="171" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="188" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="37732" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="255" text="valentin-galvez-mateo1891@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="271" end="287" text="+34 923 28 73 21" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="293" end="309" text="+34 923 62 71 58" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="315" end="322" text="1098364" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="597" end="607" text="12/09/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="618" end="626" text="00699788" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="637" end="674" text="Hospital Universitario Infanta Leonor" TYPE="HOSPITAL" comment=""/>
+        <ID id="T18" start="696" end="703" text="3253TFO" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="732" end="749" text="VSWYUBKVDKN477993" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="790" end="799" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="803" end="810" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="837" end="842" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="930" end="941" text="FQ995KTT628" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

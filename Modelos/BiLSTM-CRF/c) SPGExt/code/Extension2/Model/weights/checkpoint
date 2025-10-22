@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/usuario/Documents/Text-Mining-Proyect-FaMAF/models/BiLSTM-CRF/code/Extension2/Code/../Model/weights/"
+all_model_checkpoint_paths: "/home/usuario/Documents/Text-Mining-Proyect-FaMAF/models/BiLSTM-CRF/code/Extension2/Code/../Model/weights/"

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Matias</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pedroza Gutierrez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">239874</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">87 92789265 83</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle Flor Baja, 3</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28013</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">25/10/1956</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">61 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA"></TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">25/12/2017</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Natalia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ventura-Martínez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 98754</TAG>.
+    Historia del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">61 años</TAG> con antecedente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">DMNID</TAG> que ingresa para colecistectomía laparoscópica programada que se realiza con 4 trocares. El postoperatorio cursa con normalidad, presentado al tercer día de la intervención un golpe de tos seguido de un abombamiento de todo el recto anterior derecho, muy doloroso y de consistencia dura. Se realiza TAC urgente donde se objetiva aumento de la atenuación y volumen del recto anterior del abdomen con un diámetro antero-superior de unos 6 x 20 cm en sentido craneocaudal, compatible con <TAG TYPE="OTRO_NUMERO_IDENTIF">hematoma</TAG> de gran volumen en recto anterior derecho posiblemente secundario a lesión por trocar de los <TAG TYPE="OTRO_NUMERO_IDENTIF">vasos epigástricos</TAG>. Inicialmente se maneja de manera conservadora realizando controles del <TAG TYPE="OTRO_NUMERO_IDENTIF">hematocrito</TAG> que cae hasta dos puntos sin necesidad de transfusión, y finalmente drena espontáneamente a través del orificio del trocar supraumbilical. El paciente es dado de alta a los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">28 días</TAG> postintervención. Diagnóstico: <TAG TYPE="OTRO_NUMERO_IDENTIF">gran hematoma</TAG> de pared abdominal.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Natalia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ventura-Martínez</TAG>. Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">natalia.ventura@gmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

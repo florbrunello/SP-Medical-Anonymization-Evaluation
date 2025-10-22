@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gregorio Pastor Benítez
+DNI: 22696215E
+Fecha de nacimiento: 11/02/1955
+Género: M
+Domicilio: Calle de Moratín 89
+Ciudad: Castellón de la Plana, Gerona, Cataluña
+Código postal: 17663
+Email: pastor_benitez@ub.edu
+Teléfono fijo: +34 972 33 33 93
+Teléfono móvil: +34 672 59 07 84
+NHC: 3917466
+NASS: 666053686808
+Condición de riesgo: Conductor de Camión
+
+Datos asistenciales.
+Médico: Dra. Noelia Soriano Fuentes. NC 502846387. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/08/2009
+Episodio: 57537439
+Hospital: Hospital Universitario Puerto Real
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 54 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Gregorio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="51" text="Pastor Benítez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="22696215E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="11/02/1955" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="139" text="Calle de Moratín 89" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="169" text="Castellón de la Plana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="177" text="Gerona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="187" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="17663" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="237" text="pastor_benitez@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 972 33 33 93" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="286" end="302" text="+34 672 59 07 84" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="308" end="315" text="3917466" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="322" end="334" text="666053686808" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="356" end="375" text="Conductor de Camión" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="632" end="642" text="18/08/2009" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="653" end="661" text="57537439" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="672" end="706" text="Hospital Universitario Puerto Real" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="747" end="768" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="772" end="779" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

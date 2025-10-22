@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sonia Robles Carrasco
+DNI: 73613426V
+Fecha de nacimiento: 10/03/1956
+Género: F
+Domicilio: Calle de Áncora 70
+Ciudad: Zamora, Zaragoza, Aragón
+Código postal: 50165
+Email: sonia_robles1665@gmail.com
+Teléfono fijo: +34 976 65 97 29
+FAX: +34 976 32 72 59
+NHC: 5573371
+NASS: 878280347916
+Condición de riesgo: Trabajador de la Construcción
+
+Datos asistenciales.
+Médico: Dr. Francisco José Calvo Moya. NC 918373891. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/04/1969
+Episodio: 55332094
+Hospital: Hospital Universitario Central de Asturias
+Matrícula del coche: 2596TWT
+Modelo: Subaru Outback
+VIN: VSDWUSCCHNA093543
+
+Informe clínico del paciente:
+Paciente vegetariano de 13 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Sonia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="49" text="Robles Carrasco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="73613426V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="10/03/1956" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="136" text="Calle de Áncora 70" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="151" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="161" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="163" end="169" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="185" end="190" text="50165" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="198" end="224" text="sonia_robles1665@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="240" end="256" text="+34 976 65 97 29" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="262" end="278" text="+34 976 32 72 59" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="284" end="291" text="5573371" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="298" end="310" text="878280347916" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="332" end="361" text="Trabajador de la Construcción" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="396" end="421" text="Francisco José Calvo Moya" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="426" end="435" text="918373891" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="437" end="484" text="Investigador Clínico en Enfermedades Digestivas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="486" end="579" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="581" end="610" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="612" end="617" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="619" end="625" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="627" end="633" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="653" end="663" text="09/04/1969" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="674" end="682" text="55332094" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="693" end="735" text="Hospital Universitario Central de Asturias" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="757" end="764" text="2596TWT" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="793" end="810" text="VSDWUSCCHNA093543" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="851" end="862" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="866" end="873" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="900" end="905" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

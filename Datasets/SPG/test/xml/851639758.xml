@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Isabel Alonso Abad
+DNI: 24108511A
+Fecha de nacimiento: 02/01/1969
+Género: F
+Domicilio: Calle del Prado 28
+Ciudad: San Vicente del Raspeig, Salamanca, Castilla y León
+Código postal: 37157
+Email: alonso_abad52@gmail.com
+Teléfono fijo: +34 923 82 97 28
+Teléfono móvil: +34 623 28 07 26
+NHC: 1906896
+NASS: 250456451500
+Condición de riesgo: Limpiador
+
+Datos asistenciales.
+Médico: Dr. Mohamed Moya Peña. NC 890514913. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/06/1977
+Episodio: 24717729
+Hospital: Hospital Regional Universitario de Málaga
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 8 años de edad, acompañado de su madre. Se registró una sesión de huella dactilar, el código obtenido para revisarla es WD711TPE157. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Isabel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="46" text="Alonso Abad" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="24108511A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="02/01/1969" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="133" text="Calle del Prado 28" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="142" end="165" text="San Vicente del Raspeig" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="176" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="193" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="209" end="214" text="37157" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="222" end="245" text="alonso_abad52@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="261" end="277" text="+34 923 82 97 28" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="294" end="310" text="+34 623 28 07 26" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="316" end="323" text="1906896" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="330" end="342" text="250456451500" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="364" end="373" text="Limpiador" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="408" end="425" text="Mohamed Moya Peña" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="430" end="439" text="890514913" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="441" end="476" text="Investigador Principal en Parkinson" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="478" end="567" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="569" end="598" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="600" end="605" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="607" end="613" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="615" end="621" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="641" end="651" text="28/06/1977" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="662" end="670" text="24717729" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="681" end="722" text="Hospital Regional Universitario de Málaga" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="766" end="795" text="ascendencia del medio oriente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="799" end="805" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="832" end="837" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="919" end="930" text="WD711TPE157" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

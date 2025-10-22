@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Domingo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mesa Menendez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">82624631Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">22/09/1931</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Menorca 25</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Elche</TAG>, <TAG TYPE="TERRITORIO">Castellón</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">12730</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">domingo_mesa1476@aol.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 964 68 13 04</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 764 56 02 66</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9253720</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">662653716370</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Equipos Mineros</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Isaac Bueno Carrillo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">826706131</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">15/12/1949</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Getafe</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3322RSM</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Chevrolet Silverado</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSFX954174T247375</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">18 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>.
+    Se registró una consulta virtual desde la dirección IP <TAG TYPE="DIREC_PROT_INTERNET">192.168.232.156</TAG> (en red interna), con dirección MAC <TAG TYPE="IDENTIF_BIOMETRICOS">E4:92:F3:C0:08:18</TAG>. Se realizó un expediente con <TAG TYPE="URL_WEB">http://example-dermatology.org//61202038J</TAG>. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="URL_WEB">smtp://example-dermatology.org</TAG>. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">HT701IXE369</TAG>.
+  </TEXT>
+</MEDDOCAN>

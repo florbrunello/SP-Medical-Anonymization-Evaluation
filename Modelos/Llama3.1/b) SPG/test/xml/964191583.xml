@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pau Zamora</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Salazar</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">65061925P</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">04/05/1992</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Covarrubias 30</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Huelva</TAG>, <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">38551</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">zamora@aol.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 922 15 46 72</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 622 49 59 19</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4832654</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Remedios Carrillo Silva</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">619111435</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">14/06/2012</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">24621056</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Reina Sofía de Córdoba</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hijo</TAG>. Se realizó un <TAG TYPE="DIREC_PROT_INTERNET">expediente con URL</TAG> <TAG TYPE="URL_WEB">http://example-clinica.com//50515210P</TAG>.
+  </TEXT>
+</MEDDOCAN>

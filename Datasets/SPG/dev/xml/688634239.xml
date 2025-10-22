@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Manuel López Rivero
+DNI: 11393493Y
+Fecha de nacimiento: 22/02/1991
+Género: Hombre
+Domicilio: Calle de Bravo Murillo 98, 1F
+Ciudad: Majadahonda, Cáceres, Extremadura
+Código postal: 10844
+Email: juanmanuellopez_rivero@salud.madrid.org
+Teléfono fijo: +34 927 12 18 38
+Teléfono móvil: +34 727 47 17 33
+NHC: 3315656
+NASS: 574391438208
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dra. Rosa Alarcon Lozano. NC 058544621. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/12/1994
+Episodio: 04533089
+Centro de salud: Centro de Salud Sevilla Norte
+
+Informe clínico del paciente:
+Paciente vegetariano de 3 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="Juan Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="52" text="López Rivero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="11393493Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="22/02/1991" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="114" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="155" text="Calle de Bravo Murillo 98, 1F" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="164" end="175" text="Majadahonda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="177" end="184" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="186" end="197" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="10844" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="265" text="juanmanuellopez_rivero@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="281" end="297" text="+34 927 12 18 38" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="314" end="330" text="+34 727 47 17 33" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="336" end="343" text="3315656" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="350" end="362" text="574391438208" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="384" end="392" text="Granjero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="680" end="690" text="25/12/1994" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="701" end="709" text="04533089" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="727" end="756" text="Centro de Salud Sevilla Norte" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="797" end="808" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="812" end="818" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="845" end="850" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

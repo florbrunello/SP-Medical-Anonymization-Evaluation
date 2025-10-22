@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Izan Plaza Moya</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">22547672J</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">01/08/1996</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Ana 80, 6B</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Logroño, Barcelona, Cataluña</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">08067</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">izan-moya1046@uhu.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 931 58 38 58</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 739 80 02 31</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6946613</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">536110838534</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Dentista</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Alicia Castro Serrano</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">319270056</TAG>. <TAG TYPE="PROFESION">Neuropsicóloga Clínica Investigadora</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">15/02/2014</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">86482256</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuencarral</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">17 años</TAG> de edad. Presenta un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad generalizada</TAG>, con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">inquietud</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nerviosismo</TAG> y dificultad para conciliar el sueño. La exploración física revela una <TAG TYPE="EDAD_SUJETO_ASISTENCIA">tensión arterial</TAG> de 120/80 mmHg, <TAG TYPE="EDAD_SUJETO_ASISTENCIA">frecuencia cardíaca</TAG> de 100 lpm y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">temperatura corporal</TAG> de 37°C. La exploración neurológica no muestra signos de alteración.
+    Evolución y comentarios:
+    El paciente ha recibido tratamiento con <TAG TYPE="PROFESION">ansiolíticos</TAG> y <TAG TYPE="PROFESION">terapia cognitivo-conductual</TAG>, con mejora significativa de sus síntomas. Se le ha recomendado una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dieta equilibrada</TAG> y una rutina de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ejercicio regular</TAG> para ayudar a controlar la ansiedad.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Alicia Castro Serrano</TAG>, <TAG TYPE="PROFESION">Neuropsicóloga Clínica Investigadora</TAG>, <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>.
+  </TEXT>
+</MEDDOCAN>

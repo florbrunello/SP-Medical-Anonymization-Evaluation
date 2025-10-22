@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sebastián Costa Vargas
+DNI: 98802423N
+Fecha de nacimiento: 26/09/1978
+Género: Hombre
+Domicilio: Calle de Recoletos 26
+Ciudad: Segovia, Cantabria, Cantabria
+Código postal: 39995
+Email: sebastian@aol.com
+Teléfono fijo: +34 942 53 49 47
+Teléfono móvil: +34 642 89 78 86
+NHC: 5978763
+NASS: 001914869618
+
+Datos asistenciales.
+Médico: Dr. Eduardo Salazar Plaza. NC 331837765. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/04/1993
+Episodio: 65990564
+Hospital: Hospital de la Santa Creu i Sant Pau
+Matrícula del coche: 9180SXT
+Modelo: Toyota Corolla
+VIN: VSELMSYPQHQ648618
+
+Informe clínico del paciente:
+Paciente fumador de 14 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Sebastián" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="50" text="Costa Vargas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="98802423N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="26/09/1978" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="112" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="145" text="Calle de Recoletos 26" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="161" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="172" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="183" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="199" end="204" text="39995" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="212" end="229" text="sebastian@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="245" end="261" text="+34 942 53 49 47" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 642 89 78 86" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="300" end="307" text="5978763" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="314" end="326" text="001914869618" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="361" end="382" text="Eduardo Salazar Plaza" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="387" end="396" text="331837765" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="398" end="431" text="Residente de 5° año en Neurología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="433" end="522" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="524" end="553" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="555" end="560" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="562" end="568" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="570" end="576" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="596" end="606" text="13/04/1993" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="617" end="625" text="65990564" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="636" end="672" text="Hospital de la Santa Creu i Sant Pau" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="694" end="701" text="9180SXT" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="730" end="747" text="VSELMSYPQHQ648618" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="788" end="795" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="799" end="806" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="833" end="838" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

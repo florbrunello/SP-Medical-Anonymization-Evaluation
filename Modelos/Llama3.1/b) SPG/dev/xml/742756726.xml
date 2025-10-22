@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mariano</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Herrero Soriano</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">26468605K</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/06/2004</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Velázquez 42</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Badajoz</TAG>, <TAG TYPE="TERRITORIO">Álava</TAG>, <TAG TYPE="TERRITORIO">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">01903</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariano.soriano@udc.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 945 90 85 85</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 745 29 77 36</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0212536</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">580144639232</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Minería</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Daniela Guerrero Pascual</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">362602114</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/08/2021</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">10188275</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Tetuán</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">17 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">primo</TAG>.
+  </TEXT>
+</MEDDOCAN>

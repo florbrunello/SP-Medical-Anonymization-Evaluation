@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Santiago Serra De la Fuente
+DNI: 31798218M
+Fecha de nacimiento: 11/01/1993
+Género: Masculino
+Domicilio: Calle de Toledo 94
+Ciudad: Béjar, Orense, Galicia
+Código postal: 32138
+Email: delafuente605@ucm.es
+Teléfono fijo: +34 988 51 94 37
+FAX: +34 988 75 07 21
+NHC: 5457401
+NASS: 795881939769
+Condición de riesgo: Operador de Maquinaria Pesada
+
+Datos asistenciales.
+Médico: Dr. Esteban Gallego Gutiérrez. NC 295539489. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/09/2002
+Episodio: 94084297
+Centro de salud: Centro de Salud Ciudad Lineal
+
+Informe clínico del paciente:
+Paciente no fumador de 9 años de edad, acompañado de su padre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-labs.com. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Santiago" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="55" text="Serra De la Fuente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="31798218M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="11/01/1993" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="120" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="132" end="150" text="Calle de Toledo 94" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="164" text="Béjar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="172" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="181" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="32138" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="230" text="delafuente605@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="246" end="262" text="+34 988 51 94 37" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="268" end="284" text="+34 988 75 07 21" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="290" end="297" text="5457401" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="304" end="316" text="795881939769" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="338" end="367" text="Operador de Maquinaria Pesada" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="402" end="427" text="Esteban Gallego Gutiérrez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="432" end="441" text="295539489" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="443" end="474" text="Especialista en Genética Médica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="476" end="551" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="553" end="582" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="584" end="589" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="591" end="597" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="599" end="605" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="625" end="635" text="03/09/2002" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="646" end="654" text="94084297" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="672" end="701" text="Centro de Salud Ciudad Lineal" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="742" end="752" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="756" end="762" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="789" end="794" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="871" end="890" text="smtp://example-labs" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

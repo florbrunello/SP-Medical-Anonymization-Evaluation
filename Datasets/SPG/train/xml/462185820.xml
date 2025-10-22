@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Francisco Guzman Garrido
+DNI: 21206486A
+Fecha de nacimiento: 15/04/1948
+Género: V
+Domicilio: Calle del Barquillo 2, 8Y
+Ciudad: Yecla, Gerona, Cataluña
+Código postal: 17899
+Email: JGNGuofo@uhu.es
+Teléfono fijo: +34 972 79 28 06
+Teléfono móvil: +34 672 77 40 15
+NHC: 6976429
+Condición de riesgo: Cirujano
+
+Datos asistenciales.
+Médico: Dra. María Mar Aranda Heredia. NC 215184973. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/11/1987
+Hospital: Hospital Universitario Infanta Leonor
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 39 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="42" text="Juan Francisco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="43" end="57" text="Guzman Garrido" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="63" end="72" text="21206486A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="94" end="104" text="15/04/1948" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="113" end="114" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="151" text="Calle del Barquillo 2, 8Y" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="165" text="Yecla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="173" text="Gerona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="183" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="199" end="204" text="17899" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="212" end="227" text="JGNGuofo@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="243" end="259" text="+34 972 79 28 06" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="276" end="292" text="+34 672 77 40 15" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="298" end="305" text="6976429" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="327" end="335" text="Cirujano" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="607" end="617" text="07/11/1987" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="628" end="665" text="Hospital Universitario Infanta Leonor" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="709" end="733" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="737" end="744" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

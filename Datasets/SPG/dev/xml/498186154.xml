@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Diego Medina Izquierdo
+DNI: 20015259S
+Fecha de nacimiento: 14/08/2003
+Género: M
+Domicilio: Calle de Áncora 6
+Ciudad: Zaragoza, Cáceres, Extremadura
+Código postal: 10119
+Email: diego.izquierdo970@outlook.com
+Teléfono fijo: +34 927 17 69 87
+FAX: +34 927 01 13 40
+NHC: 2828952
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dr. Juan Ramón Mendoza Vargas. NC 916545517. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/05/2024
+Episodio: 15387523
+Hospital: Hospital Universitari de Bellvitge
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 20 años de edad, acompañado de su tío. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Diego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="50" text="Medina Izquierdo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="20015259S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="14/08/2003" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="136" text="Calle de Áncora 6" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="153" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="162" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="175" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="10119" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="234" text="diego.izquierdo970@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 927 17 69 87" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="272" end="288" text="+34 927 01 13 40" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="294" end="301" text="2828952" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="323" end="344" text="Trabajador de Almacén" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="379" end="404" text="Juan Ramón Mendoza Vargas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="409" end="418" text="916545517" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="420" end="454" text="Residente de 3° año en Psiquiatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="456" end="526" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="528" end="557" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="559" end="564" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="566" end="572" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="574" end="580" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="600" end="610" text="16/05/2024" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="621" end="629" text="15387523" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="640" end="674" text="Hospital Universitari de Bellvitge" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="715" end="736" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="740" end="747" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="774" end="777" text="tío" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pedro José</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sáez Costa</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">20660427X</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">20/04/1927</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Magdalena 74, 7V</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcázar de San Juan</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">18152</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">saez_costa@ual.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 51 36 48</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 658 47 81 03</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3769772</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">835562427720</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Raúl Rico Pastor</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">288241225</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/07/1942</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">25748156</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Cabueñes</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>.
+    Se registró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sesión de escaneo retiniano</TAG>, el <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">código obtenido para revisarla</TAG> es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">PE606JVF642</TAG>.
+  </TEXT>
+</MEDDOCAN>

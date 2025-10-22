@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Francisco Diez Mora
+DNI: 99791026Y
+Fecha de nacimiento: 10/10/1990
+Género: H
+Domicilio: Calle de Preciados 20
+Ciudad: Elche, Palencia, Castilla y León
+Código postal: 34018
+Email: diez@ciberisciii.es
+Teléfono fijo: +34 979 29 39 42
+Teléfono móvil: +34 679 80 32 57
+NHC: 3667185
+
+Datos asistenciales.
+Médico: Dra. Carla Merino López. NC 464408193. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 23/10/2004
+Episodio: 58309279
+Hospital: Hospital Universitari i Politècnic La Fe
+
+Informe clínico del paciente:
+Paciente migrante de 14 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Francisco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="47" text="Diez Mora" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="99791026Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="10/10/1990" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="137" text="Calle de Preciados 20" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="151" text="Elche" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="161" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="163" end="178" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="194" end="199" text="34018" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="207" end="226" text="diez@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="242" end="258" text="+34 979 29 39 42" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="275" end="291" text="+34 679 80 32 57" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="297" end="304" text="3667185" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="559" end="569" text="23/10/2004" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="580" end="588" text="58309279" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="599" end="639" text="Hospital Universitari i Politècnic La Fe" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="680" end="688" text="migrante" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="692" end="699" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="726" end="732" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

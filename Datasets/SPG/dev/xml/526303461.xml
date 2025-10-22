@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rosa Miguel García
+DNI: 49610127R
+Fecha de nacimiento: 28/12/2008
+Género: Mujer
+Domicilio: Calle del León 92
+Ciudad: San Vicente del Raspeig, Vizcaya, Pais Vasco
+Código postal: 48789
+Email: miguel.garcia99@imibic.org
+Teléfono fijo: +34 946 93 38 00
+Teléfono móvil: +34 646 10 50 70
+NHC: 5530958
+NASS: 590962939618
+
+Datos asistenciales.
+Médico: Dra. Pilar Miguel Domínguez. NC 323994005. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Centro de salud: Centro de Salud Barajas
+Matrícula del coche: 6525GXR
+Modelo: Mazda CX-5
+VIN: VSSJWDNC0JT427769
+
+Informe clínico del paciente:
+Paciente no fumador de 16 años de edad. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es IK207LGM450. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Rosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="46" text="Miguel García" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="49610127R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="28/12/2008" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="107" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="136" text="Calle del León 92" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="168" text="San Vicente del Raspeig" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="177" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="189" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="48789" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="244" text="miguel.garcia99@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 946 93 38 00" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="293" end="309" text="+34 646 10 50 70" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="315" end="322" text="5530958" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="329" end="341" text="590962939618" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="615" end="625" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="643" end="666" text="Centro de Salud Barajas" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T18" start="688" end="695" text="6525GXR" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="720" end="737" text="VSSJWDNC0JT427769" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="778" end="788" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="792" end="799" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T22" start="890" end="901" text="IK207LGM450" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

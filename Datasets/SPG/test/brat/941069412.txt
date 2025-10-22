@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: David Blanco Santos
+DNI: 40983665B
+Fecha de nacimiento: 23/05/1957
+Género: Hombre
+Domicilio: Calle de los Jardines 54, 9S
+Ciudad: Lugo, Valladolid, Castilla y León
+Código postal: 47481
+Email: david@ucm.es
+Teléfono fijo: +34 983 57 36 85
+Teléfono móvil: +34 683 73 13 12
+NHC: 9907251
+NASS: 292612116211
+
+Datos asistenciales.
+Médico: Dra. María Teresa González Escobar. NC 717514163. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 23/10/1993
+Episodio: 21274043
+Centro de salud: Centro de Salud Collado Villalba
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 36 años de edad. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es DX634SCC251. 

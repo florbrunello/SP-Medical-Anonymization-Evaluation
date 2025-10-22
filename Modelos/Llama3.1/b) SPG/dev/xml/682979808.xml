@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jaume</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Silva Aguilar</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">90968973V</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">16/02/1954</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Paseo de la Castellana 52</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Puertollano</TAG>, <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">34984</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">jaume.silvaaguilar1021@aol.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 44 42 40</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 979 58 67 76</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4847617</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">797024170231</TAG>
+  Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pablo Bernal Alonso</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">019210502</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">21/02/2003</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">09813547</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Chamartín</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5625JCE</TAG>
+  Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Toyota Corolla</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSBM6YLQ3JB364962</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">49 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hija</TAG>.
+  Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">KR477ZHC785</TAG>. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">NC562GDR448</TAG>. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">UX389XJG397</TAG>.
+            </TEXT>
+        </MEDDOCAN>

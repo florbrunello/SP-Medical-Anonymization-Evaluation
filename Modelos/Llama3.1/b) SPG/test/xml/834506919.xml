@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sara</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mesa García</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">54226381V</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/08/1961</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Princesa 55</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Getafe</TAG>, <TAG TYPE="TERRITORIO">La Rioja</TAG>, <TAG TYPE="TERRITORIO">La Rioja</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">26643</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">saramesa.garcia@salud.madrid.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 941 08 11 56</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 741 85 34 25</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6513464</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Línea de Producción</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ángel Pastor Hidalgo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">708326208</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/05/2010</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">57216249</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic San Carlos</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3056NIG</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Volkswagen Golf</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSD2P57NZSI829272</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">víctima de desastre</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">48 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">compañero de trabajo</TAG>. Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">http://example-therapy.org//50515210P</TAG>.
+  </TEXT>
+</MEDDOCAN>

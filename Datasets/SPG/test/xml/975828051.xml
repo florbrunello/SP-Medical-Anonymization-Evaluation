@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: David Giménez Rivas
+DNI: 91842494K
+Fecha de nacimiento: 18/05/1981
+Género: V
+Domicilio: Calle del Olivar 87
+Ciudad: San Pedro del Pinatar, Alicante, Comunidad Valenciana
+Código postal: 03882
+Email: david-rivas240@uhu.es
+Teléfono fijo: +34 965 79 47 73
+Teléfono móvil: +34 665 21 17 42
+NHC: 7560035
+
+Datos asistenciales.
+Médico: Dr. Ignacio Herrera Izquierdo. NC 560673233. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 31/10/1991
+Episodio: 99650052
+Hospital: Complejo Hospitalario Universitario de Lugo
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena americana de 10 años de edad, acompañado de su abuelo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Giménez Rivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="91842494K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="18/05/1981" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="135" text="Calle del Olivar 87" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="144" end="165" text="San Pedro del Pinatar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="175" text="Alicante" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="197" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="03882" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="247" text="david-rivas240@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="263" end="279" text="+34 965 79 47 73" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="296" end="312" text="+34 665 21 17 42" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="318" end="325" text="7560035" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="360" end="385" text="Ignacio Herrera Izquierdo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="390" end="399" text="560673233" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="401" end="444" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="446" end="504" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="506" end="530" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="532" end="537" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="539" end="549" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="551" end="557" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="577" end="587" text="31/10/1991" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="598" end="606" text="99650052" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="617" end="660" text="Complejo Hospitalario Universitario de Lugo" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="704" end="734" text="ascendencia indígena americana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="738" end="745" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="772" end="778" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

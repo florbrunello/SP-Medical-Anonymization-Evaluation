@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Oliver Abad Montoya
+DNI: 59660306P
+Fecha de nacimiento: 04/02/1966
+Género: H
+Domicilio: Calle de la Princesa 96
+Ciudad: Úbeda, Salamanca, Castilla y León
+Código postal: 37590
+Email: montoya@ciberehd.org
+Teléfono fijo: +34 923 00 92 67
+Teléfono móvil: +34 623 81 70 60
+NHC: 0395567
+NASS: 855689108455
+Condición de riesgo: Pintor de Construcción
+
+Datos asistenciales.
+Médico: Dra. Adriana Redondo Santos. NC 093560057. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 17/04/1984
+Episodio: 32673391
+Centro de salud: Centro de Salud Alcalá de Henares
+Matrícula del coche: 2787ODO
+Modelo: Honda Civic
+VIN: VSWN31846HJ039414
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 18 años de edad, acompañado de su abuelo. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.239.21, con dirección MAC 00:ED:A8:79:88:14. 

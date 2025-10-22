@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sergio</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Otero Lara</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">50472535R</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">31/07/1939</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de O'Donnell 51</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">San Fernando, Gerona, Cataluña</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">17881</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">lara263@imibic.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 87 39 18</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 772 07 13 30</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0725098</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">689902970527</TAG>.
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Alto</TAG>.
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sergi</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Soto Mateos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">671603425</TAG>. <TAG TYPE="PROFESION">Gastroenterólogo</TAG> <TAG TYPE="PROFESION">Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/08/1985</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">61250800</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Regional Universitario de Málaga</TAG>.
+    Fecha de ingreso:
+    <TAG TYPE="FECHAS">19/08/1985</TAG>.
+    Centro de salud de ingreso:
+    <TAG TYPE="HOSPITAL">Hospital Regional Universitario de Málaga</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuelo</TAG>, que refiere <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal crónico</TAG> de varios meses de evolución, con picos de intensidad variable, sin relación aparente con las comidas. El paciente ha presentado <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pérdida de peso</TAG> de 5 kg en los últimos 3 meses, sin cambios en el apetito ni en la actividad física. La exploración física revela: Tª <TAG TYPE="OTROS_SUJETO_ASISTENCIA">37,5 C</TAG>; T.A: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120/80 mmHg</TAG>; Fc: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">80 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración ni taquicardia. En abdomen se palpan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor</TAG> en el <TAG TYPE="HOSPITAL">hígado</TAG> y en la región epigástrica, sin masas ni megalias. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="OTROS_SUJETO_ASISTENCIA">14,5 g/dl</TAG>; leucocitos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8.500/mm3</TAG> (neutrófilos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">60%</TAG>); plaquetas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">250.000/mm3</TAG>. VSG: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">15 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90%</TAG>; TTPA <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25,8 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">100 mg/dl</TAG>; urea <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 mg/dl</TAG>; creatinina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">1,2 mg/dl</TAG>; sodio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">135 mEq/l</TAG>; potasio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3,5 mEq/l</TAG>; GOT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">40 U/l</TAG>; GPT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 U/l</TAG>; GGT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">50 U/l</TAG>; fosfatasa alcalina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120 U/l</TAG>; calcio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">9,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía abdominal, TAC hepático) que revelan una <TAG TYPE="HOSPITAL">hepatomegalia difusa</TAG>, sin áreas de necrosis ni absceso. El diagnóstico de <TAG TYPE="HOSPITAL">enfermedad hepática crónica</TAG> se establece, y se instaura tratamiento sintomático (antiinflamatorios, reposo) y tratamiento específico (Inhibidores de la enzima convertidora de angiotensina, Inhibidores de la recaptación de norepinefrina). El paciente mejora significativamente de su cuadro tras 2 semanas de ingreso, decidiéndose el alta a su domicilio donde continuará el tratamiento.
+  </TEXT>
+</MEDDOCAN>

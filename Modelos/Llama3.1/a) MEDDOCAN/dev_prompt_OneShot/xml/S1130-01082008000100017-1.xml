@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alejandro</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Torres Pastor</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4172893</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">72 47828779 11</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle los Cepedas, 3, 7, C</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Segovia</TAG>.
+    CP: <TAG TYPE="TERRITORIO">40001</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/01/1985</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">02/07/2015</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Ginecología y Obstetricia</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">2673296</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Ignacio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bermejo Aycart</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">40 40 93498</TAG>.
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30 años</TAG> de procedencia subsahariana y con antecedentes de angiodema, no presentaba cirugía previa ni tomaba tratamientos crónicos.
+    Consulta por diarrea con moco y sangre de varias semanas de evolución.
+    Exploración física: En la exploración física destacaba una <TAG TYPE="OTRO_NUMERO_IDENTIF">esplenomegalia</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">hepatomegalia</TAG> no dolorosa.
+    Pruebas complementarias: El <TAG TYPE="HOSPITAL">hemograma</TAG> puso de manifiesto una <TAG TYPE="NUMERO_VALOR">10,3 g</TAG> de <TAG TYPE="NUMERO_VALOR">hemoglobina</TAG>, <TAG TYPE="NUMERO_VALOR">53.000</TAG> plaquetas, <TAG TYPE="NUMERO_VALOR">3.460</TAG> leucocitos, con una fórmula normal.
+    En la función hepática se observa una elevación de las enzimas hepáticas (<TAG TYPE="NUMERO_VALOR">GOT de 48</TAG>, <TAG TYPE="NUMERO_VALOR">GPT de 63</TAG>) y una actividad de protrombina del <TAG TYPE="NUMERO_VALOR">53%</TAG>.
+    En la inmunoquímica la <TAG TYPE="NUMERO_VALOR">IgE total</TAG> era de <TAG TYPE="NUMERO_VALOR">960 mg</TAG> (<TAG TYPE="NUMERO_VALOR">VN < 100</TAG>).
+    El estudio de extensión de sangre periférica mostraba una <TAG TYPE="OTRO_NUMERO_IDENTIF">anisocitosis</TAG> moderada con <TAG TYPE="OTRO_NUMERO_IDENTIF">polisegmentación</TAG> de neutrófilos, no apreciando células atípicas.
+    La serología para virus hepatotropos, VIH, Toxoplasma, citomegalovirus, Salmonella, Brucella, hidatidosis, leishmaniosis, fasciolosis y amebiasis resultó negativa, a excepción de la serología para <TAG TYPE="OTRO_NUMERO_IDENTIF">Schistosoma</TAG> que fue positiva a un título <TAG TYPE="NUMERO_VALOR">1/512</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">IgG</TAG>).
+    Los cultivos de heces, orina y el estudio de parásitos en heces resultaron negativos.
+    En la ecografía abdominal se aprecian signos indirectos de <TAG TYPE="OTRO_NUMERO_IDENTIF">hepatopatía crónica</TAG> y una <TAG TYPE="OTRO_NUMERO_IDENTIF">esplenomegalia</TAG> homogénea de <TAG TYPE="NUMERO_VALOR">16 cm</TAG>, con varices en hilio esplénico.
+    La endoscopia digestiva alta muestra la existencia de varices en esófago grado <TAG TYPE="NUMERO_VALOR">II/IV</TAG> y en estómago una mucosa gástrica muy congestiva sobre todo en antro y cuerpo gástrico y varices en cardias gástrico de aspecto pseudotumoral.
+    Se realiza una <TAG TYPE="PROFESION">colonoscopia</TAG> apreciando una <TAG TYPE="OTRO_NUMERO_IDENTIF">rectitis petequial</TAG> con pequeño <TAG TYPE="OTRO_NUMERO_IDENTIF">pólipo</TAG> de <TAG TYPE="NUMERO_VALOR">0,6 cm</TAG> que se extirpa.
+    El estudio anatomopatológico de las biopsias rectales evidencian un infiltrado inflamatorio mixto con formación focal de abscesos y presencia moderada de eosinófilos, sin apreciarse una depleción llamativa de células caliciformes.
+    Evolución: Tras realizar múltiples cortes de la formación polipoide, se observa en submucosa unas estructuras ovales de cutícula refringente que miden <TAG TYPE="NUMERO_VALOR">150 micras</TAG> de diámetro máximo con calcificación masiva interna.
+    Con el diagnóstico de <TAG TYPE="OTRO_NUMERO_IDENTIF">esquistosomiasis</TAG> con afectación rectal y hepática se inicia tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">praziquantel</TAG> a dosis de <TAG TYPE="NUMERO_VALOR">50 mg/kg</TAG> de peso en tres dosis.
+    El paciente mejora clínica y analíticamente, normalizándose los parámetros de función hepática y el hemograma.
+    La endoscopia digestiva alta y la ecografía abdominal a los seis meses del tratamiento demuestran la desaparición de las varices esofagogátricas y los signos ecográficos de <TAG TYPE="OTRO_NUMERO_IDENTIF">hepatopatía crónica</TAG>.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Juan Ignacio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bermejo Aycart</TAG> <TAG TYPE="PROFESION">Servicio de Ginecología y Obstetricia</TAG> <TAG TYPE="INSTITUCION">Complejo Hospitalario Hospital General de Segovia</TAG> <TAG TYPE="CALLE">Carretera de Ávila, s/n</TAG> <TAG TYPE="TERRITORIO">E-40002</TAG> <TAG TYPE="TERRITORIO">Segovia</TAG>
+  </TEXT>
+</MEDDOCAN>

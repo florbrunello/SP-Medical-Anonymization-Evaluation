@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Salvador Santiago</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Bermudez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">18989163H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/10/1973</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Reina 26</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcalá de Henares</TAG>, <TAG TYPE="TERRITORIO">Toledo</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">45332</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">salvadorsantiago@isciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 925 50 46 80</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 625 03 60 89</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8313635</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Carpintero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Isaac Rodríguez Gracia</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">675859254</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardiólogo de Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/01/2025</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">13588992</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital General Universitario Reina Sofía</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2160ZMH</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Jeep Wrangler</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSV6M529X3F183904</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">51 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

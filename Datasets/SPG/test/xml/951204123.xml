@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Claudia Galvez Casado
+DNI: 39682102H
+Fecha de nacimiento: 17/02/1986
+Género: Mujer
+Domicilio: Calle del Sombrerete 73, 3A
+Ciudad: Dos Hermanas, Ibiza, Islas Baleares
+Código postal: 07904
+Email: claudia.casado@ciberned.es
+Teléfono fijo: +34 971 60 38 32
+Teléfono móvil: +34 671 21 04 81
+NHC: 4309849
+Condición de riesgo: Trabajador de Servicios de Limpieza
+
+Datos asistenciales.
+Médico: Dr. Ángel Aparicio Aranda. NC 298631931. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/05/2015
+Hospital: Hospital Universitario de Basurto
+Matrícula del coche: 7752PLO
+Modelo: Toyota Corolla
+VIN: VSJBU9BRGYN774156
+
+Informe clínico del paciente:
+Paciente no fumador de 29 años de edad, acompañado de su padre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.56.59, con dirección MAC 09:E1:71:3B:74:41. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Claudia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="49" text="Galvez Casado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="39682102H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="17/02/1986" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="110" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="149" text="Calle del Sombrerete 73, 3A" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="170" text="Dos Hermanas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="177" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="193" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="209" end="214" text="07904" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="222" end="248" text="claudia.casado@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="264" end="280" text="+34 971 60 38 32" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="297" end="313" text="+34 671 21 04 81" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="319" end="326" text="4309849" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="348" end="383" text="Trabajador de Servicios de Limpieza" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="418" end="439" text="Ángel Aparicio Aranda" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="444" end="453" text="298631931" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="455" end="490" text="Investigador Principal en Parkinson" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="492" end="581" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="583" end="612" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="614" end="619" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="621" end="627" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="629" end="635" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="655" end="665" text="19/05/2015" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="676" end="709" text="Hospital Universitario de Basurto" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="731" end="738" text="7752PLO" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="767" end="784" text="VSJBU9BRGYN774156" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="825" end="835" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="839" end="846" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="873" end="878" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="985" end="1002" text="09:E1:71:3B:74:41" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

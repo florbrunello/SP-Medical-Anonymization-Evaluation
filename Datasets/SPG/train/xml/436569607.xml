@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Javier Guerrero Cano
+DNI: 54963022Z
+Fecha de nacimiento: 07/06/1983
+Género: V
+Domicilio: Calle de la Cabeza 16, 3Y
+Ciudad: Santa Cruz de Tenerife, Valladolid, Castilla y León
+Código postal: 47380
+Email: javierguerrero513@ual.es
+Teléfono fijo: +34 983 18 22 34
+Teléfono móvil: +34 783 76 91 90
+NHC: 6228483
+NASS: 759166404430
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dra. Inmaculada Lorenzo Espinosa. NC 532280117. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 13/02/1998
+Hospital: Hospital Universitari de Bellvitge
+
+Informe clínico del paciente:
+Paciente migrante de 14 años de edad, acompañado de su abuelo. Se registró una sesión de huella dactilar, el código obtenido para revisarla es NS354DRX540. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Guerrero Cano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="54963022Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="07/06/1983" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="142" text="Calle de la Cabeza 16, 3Y" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="173" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="175" end="185" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="187" end="202" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="218" end="223" text="47380" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="231" end="255" text="javierguerrero513@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="271" end="287" text="+34 983 18 22 34" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="304" end="320" text="+34 783 76 91 90" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="326" end="333" text="6228483" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="340" end="352" text="759166404430" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="374" end="380" text="Minero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="632" end="642" text="13/02/1998" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="653" end="687" text="Hospital Universitari de Bellvitge" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="728" end="736" text="migrante" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="740" end="747" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="774" end="780" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T22" start="862" end="873" text="NS354DRX540" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ramiro</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jimenez Parla</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3078256</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">20 78655670 96</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Prula, 66, Bajo B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Málaga</TAG>.
+    CP: <TAG TYPE="TERRITORIO">29029</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/05/1998</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">19 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">03/07/2017</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Patología Forense</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernando</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Martín Cazorla</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">29 29 55410</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">19 años</TAG> de edad que fallece de forma súbita mientras realizaba ejercicios de musculación en un gimnasio. La muerte fue presenciada por varios testigos que vieron cómo quedaba inconsciente y se desvanecía. Se realizaron maniobras de reanimación cardiopulmonar básica y avanzada durante 55 minutos.
+    Como antecedentes médicos constaban valvulopatía, sin especificar tipo ni grado de afectación, y varios familiares fallecidos por patología cardíaca. La familia se mostró poco colaboradora a la hora de facilitar información.
+    En el examen externo realizado durante la autopsia se aprecian signos de reanimacion cardiopulmonar. Normoconstituido, peso <TAG TYPE="OTROS_SUJETO_ASISTENCIA">84 kg</TAG>, talla <TAG TYPE="OTROS_SUJETO_ASISTENCIA">176,5 cm</TAG>, índice de masa corporal <TAG TYPE="OTROS_SUJETO_ASISTENCIA">27,12</TAG>. En el examen interno destaca cardiomegalia (peso del corazón de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">555 g</TAG>), hipertrofia concéntrica del ventrículo izquierdo (pared libre del ventrículo izquierdo y tabique interventricular de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">2,1 cm</TAG> cada una) y edema pulmonar (pulmón derecho <TAG TYPE="OTROS_SUJETO_ASISTENCIA">665 g</TAG> y pulmón izquierdo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">550 g</TAG>). En el estudio macroscópico cardíaco destaca un engrosamiento de las valvas de la válvula aórtica, que disminuye de manera importante el área permeable, que medida con el cono mensurador era de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">0,5 cm2</TAG>. Tras la abertura del anillo valvular, el perímetro mide <TAG TYPE="OTROS_SUJETO_ASISTENCIA">7 cm</TAG>, y se visualiza una válvula aórtica bicúspide con un rafe medio en una de las valvas junto al ostium izquierdo. Se establece como causa de la muerte una estenosis aórtica.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernando</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Martín Cazorla</TAG> <TAG TYPE="PROFESION">Servicio de Patología Forense</TAG> <TAG TYPE="INSTITUCION">Instituto de Medicina Legal de Málaga</TAG> <TAG TYPE="DIREC_PROT_INTERNET">Ciudad de la Justicia</TAG>. <TAG TYPE="CALLE">Fiscal Luis Portero García</TAG> <TAG TYPE="TERRITORIO">29010</TAG> <TAG TYPE="TERRITORIO">Málaga</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">fernando.martin.ius@juntadeandalucia.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

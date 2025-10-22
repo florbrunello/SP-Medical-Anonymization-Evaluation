@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rubén Cruz Núñez
+DNI: 94714553R
+Fecha de nacimiento: 25/01/1974
+Género: Hombre
+Domicilio: Calle de la Luna 69
+Ciudad: Torrejón de Ardoz, Santa Cruz de Tenerife, Canarias
+Código postal: 38856
+Email: rubencruz.nunez@ciberned.es
+Teléfono fijo: +34 922 83 40 96
+Teléfono móvil: +34 722 62 71 75
+NHC: 3250967
+Condición de riesgo: Operador de Equipos Mineros
+
+Datos asistenciales.
+Médico: Dra. María Concepción Prieto Escudero. NC 000546273. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/11/1976
+Episodio: 42892621
+Centro de salud: Centro de Salud Valdemoro
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 2 años de edad, acompañado de su hermana. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es XJ397VAZ578. Se registró una sesión de firma biométrica, el código obtenido para revisarla es PP584RFA109. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es OU918RHD626. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Rubén" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="44" text="Cruz Núñez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="94714553R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="25/01/1974" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="106" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="137" text="Calle de la Luna 69" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="163" text="Torrejón de Ardoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="187" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="189" end="197" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="38856" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="253" text="rubencruz.nunez@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="269" end="285" text="+34 922 83 40 96" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="302" end="318" text="+34 722 62 71 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="324" end="331" text="3250967" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="353" end="380" text="Operador de Equipos Mineros" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="662" end="672" text="05/11/1976" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="683" end="691" text="42892621" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="709" end="734" text="Centro de Salud Valdemoro" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="778" end="807" text="ascendencia del medio oriente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="811" end="817" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="844" end="851" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T22" start="935" end="946" text="XJ397VAZ578" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T23" start="1029" end="1040" text="PP584RFA109" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T24" start="1123" end="1134" text="OU918RHD626" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

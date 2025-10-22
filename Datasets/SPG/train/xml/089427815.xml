@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Mikel Vila Lozano
+DNI: 15042367E
+Fecha de nacimiento: 01/02/1943
+Género: Varón
+Domicilio: Calle de Arenal 28
+Ciudad: Salamanca, Vizcaya, Pais Vasco
+Código postal: 48902
+Email: lozano1926@ioba.med.uva.es
+Teléfono fijo: +34 946 25 45 64
+Teléfono móvil: +34 746 26 77 50
+NHC: 4721907
+NASS: 239498181876
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dr. Alejandro Macias Delgado. NC 712837992. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 23/12/1972
+Episodio: 31321240
+Hospital: Hospital Universitario de Crúces
+
+Informe clínico del paciente:
+Paciente no fumador de 29 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Mikel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="45" text="Vila Lozano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="15042367E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="01/02/1943" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="106" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="136" text="Calle de Arenal 28" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="154" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="163" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="175" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="48902" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="230" text="lozano1926@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="246" end="262" text="+34 946 25 45 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="279" end="295" text="+34 746 26 77 50" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="301" end="308" text="4721907" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="315" end="327" text="239498181876" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="349" end="367" text="Ingeniero de Minas" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="402" end="426" text="Alejandro Macias Delgado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="431" end="440" text="712837992" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="442" end="477" text="Investigador Principal en Parkinson" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="479" end="568" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="570" end="599" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="601" end="606" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="608" end="614" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="616" end="622" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="642" end="652" text="23/12/1972" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="663" end="671" text="31321240" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="682" end="714" text="Hospital Universitario de Crúces" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="755" end="765" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="769" end="776" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

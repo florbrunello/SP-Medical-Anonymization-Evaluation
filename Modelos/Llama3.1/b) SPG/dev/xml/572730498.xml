@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gregorio</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Galan Conde</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">85295202R</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/05/1949</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de los Embajadores 83</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Vigo</TAG>, <TAG TYPE="TERRITORIO">León</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">24627</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">gregoriogalan@ioba.med.uva.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 987 43 54 89</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 687 71 72 96</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1493995</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Médico</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Clara Plaza Carrillo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">554548869</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">05/05/1981</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">98057893</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Virgen del Rocío</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">usuario de drogas</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">31 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">URL</TAG> <TAG TYPE="URL_WEB">http://example-neurology.com//17097882O</TAG>.
+  </TEXT>
+</MEDDOCAN>

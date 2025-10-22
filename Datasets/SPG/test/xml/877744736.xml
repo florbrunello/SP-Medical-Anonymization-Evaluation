@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Marcos Gil Ruiz
+DNI: 48351620P
+Fecha de nacimiento: 23/07/1938
+Género: H
+Domicilio: Calle de Génova 17
+Ciudad: Alcalá de Henares, Segovia, Castilla y León
+Código postal: 40774
+Email: ruiz@ciberned.es
+Teléfono fijo: +34 921 53 16 72
+Teléfono móvil: +34 721 04 60 09
+NHC: 0499026
+NASS: 403898434393
+Condición de riesgo: Ama de casa
+
+Datos asistenciales.
+Médico: Dra. Elisa Santiago Muñoz. NC 477001414. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/12/2015
+Hospital: Complejo Asistencial Universitario de León
+Matrícula del coche: 5674YKX
+Modelo: Tesla Model 3
+VIN: VSO6043KCEI761020
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 77 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Marcos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="43" text="Gil Ruiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="49" end="58" text="48351620P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="80" end="90" text="23/07/1938" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="99" end="100" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="112" end="130" text="Calle de Génova 17" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="139" end="156" text="Alcalá de Henares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="165" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="167" end="182" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="40774" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="227" text="ruiz@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="243" end="259" text="+34 921 53 16 72" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="276" end="292" text="+34 721 04 60 09" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="298" end="305" text="0499026" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="312" end="324" text="403898434393" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="346" end="357" text="Ama de casa" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="625" end="635" text="20/12/2015" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="646" end="688" text="Complejo Asistencial Universitario de León" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="710" end="717" text="5674YKX" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="745" end="762" text="VSO6043KCEI761020" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="803" end="820" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="824" end="831" text="77 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

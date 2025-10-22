@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Purificación</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Benítez Espinosa</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">96065800K</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/04/1995</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Ferraz 5</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">San Vicente del Raspeig</TAG>, <TAG TYPE="TERRITORIO">La Coruña</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">15273</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">benitez1817@ual.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 981 24 69 30</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 781 12 45 71</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1142139</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Farmacéutico</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ángel Ortega Estevez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">725003716</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/10/1999</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital General de Villalba</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6536ZIQ</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Hyundai Elantra</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSHE9REEYBF575241</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

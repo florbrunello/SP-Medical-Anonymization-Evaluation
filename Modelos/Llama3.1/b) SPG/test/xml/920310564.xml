@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Eduardo Castaño</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Andres</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">39993536D</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/04/1941</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Luna 54</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Pamplona</TAG>, <TAG TYPE="TERRITORIO">Segovia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">40102</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">castano@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 921 47 86 30</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 721 20 59 20</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9134501</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">852451625939</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Minería</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ana Belén Jurado Rueda</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">268196146</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">16/10/2001</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">59303617</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuengirola</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">testigo de Jehová</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">60 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">conviviente</TAG>.
+    Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP</TAG> (<TAG TYPE="DIREC_PROT_INTERNET">192.168.86.138</TAG>), con <TAG TYPE="IDENTIF_BIOMETRICOS">dirección MAC</TAG> (<TAG TYPE="IDENTIF_BIOMETRICOS">52:C6:F1:D6:B8:7C</TAG>). El <TAG TYPE="URL_WEB">servidor</TAG> para envío de información desde cual el usuario se comunica es <TAG TYPE="URL_WEB">smtp://example-cardiology.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

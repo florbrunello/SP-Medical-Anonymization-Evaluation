@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ernestina</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jaramillo Recamal</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2357945</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle Los Prados, 25</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Sevilla</TAG>.
+    CP: <TAG TYPE="TERRITORIO">41235</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/01/1977</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">41 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">11/06/2018</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Javier</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Torres</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gómez</TAG>  NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">41 41 47569</TAG>.
+    Informe clínico del paciente: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">41 años</TAG>, fumadora y diagnosticada de lipoma en muslo derecho a la que se le realiza una ecografía abdominal a raíz de una elevación de catecolaminas en sangre (noradrenalina y dopamina) sin hipertensión arterial acompañante. Se observó a nivel suprarrenal una lesión nodular hipoanecoica de unos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3 cm</TAG> de dimensión máxima compatible con lesión sólida con degeneración quística, multitabicada. Dicha lesión fue confirmada mediante TAC y gammagrafía. La paciente fue intervenida quirúrgicamente con los juicios clínicos de feocromocitoma versus adenoma de glándula suprarrenal. Se recibió un fragmento irregular de tejido adiposo de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">9 cm</TAG> a cuyos cortes seriados se observó un tejido amarillento anaranjado de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">1,2 cm</TAG> junto a una formación quística multilocular de paredes finas y blanquecinas sin formaciones papilares ni excrecencias en su interior. El estudio histológico demostró una gran formación quística sin contenido hemático revestida por células planas de núcleos fusiformes centrales en ocasiones protuyendo intraluminalmente, con positividad inmunohistoquímica para CD 31 y CD 34 y negatividad para calrretinina (endotelio). Formaciones quísticas de características similares a la descrita aunque de tamaño inferior fueron observadas tanto en localización adyacente a la principal como distribuidas al azar en el seno del parénquima adrenal. Con tales hallazgos se realizó el diagnóstico de linfangioma quístico.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Javier</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Torres</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gómez</TAG> <TAG TYPE="CALLE">Plaza de la Encarnación, 32 - P1 2B</TAG> <TAG TYPE="TERRITORIO">41003</TAG> <TAG TYPE="TERRITORIO">Sevilla</TAG>. <TAG TYPE="PAIS">España</TAG>. <TAG TYPE="CORREO_ELECTRONICO">javiertorresgomez@yahoo.es</TAG>
+  </TEXT>
+</MEDDOCAN>

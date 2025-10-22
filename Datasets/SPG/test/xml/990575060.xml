@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Lourdes Villanueva Fernández
+DNI: 74923696T
+Fecha de nacimiento: 05/01/1991
+Género: Mujer
+Domicilio: Calle de las Tres Cruces 71, 9X
+Ciudad: Linares, Zamora, Castilla y León
+Código postal: 49222
+Email: marialourdes87@ciberisciii.es
+Teléfono fijo: +34 980 96 84 21
+Teléfono móvil: +34 780 33 87 27
+NHC: 4521343
+NASS: 265463185159
+Condición de riesgo: Plomero
+
+Datos asistenciales.
+Médico: Dra. Inmaculada Vázquez Gracia. NC 479885693. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 29/11/2008
+Centro de salud: Centro de Salud Sevilla Este
+
+Informe clínico del paciente:
+Paciente vegetariano de 17 años de edad. Se registró una sesión de firma biométrica, el código obtenido para revisarla es SC142MPG856. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Lourdes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="62" text="Villanueva Fernández" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="68" end="77" text="74923696T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="99" end="109" text="05/01/1991" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="118" end="123" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="135" end="166" text="Calle de las Tres Cruces 71, 9X" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="175" end="182" text="Linares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="184" end="190" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="192" end="207" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="223" end="228" text="49222" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="236" end="265" text="marialourdes87@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="281" end="297" text="+34 980 96 84 21" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="314" end="330" text="+34 780 33 87 27" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="336" end="343" text="4521343" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="350" end="362" text="265463185159" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="384" end="391" text="Plomero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="677" end="687" text="29/11/2008" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="705" end="733" text="Centro de Salud Sevilla Este" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="774" end="785" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="789" end="796" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T21" start="887" end="898" text="SC142MPG856" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

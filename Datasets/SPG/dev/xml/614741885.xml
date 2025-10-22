@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Valentina Bravo Calderon
+DNI: 81194710H
+Fecha de nacimiento: 28/09/2019
+Género: Femenino
+Domicilio: Calle de Arenal 93
+Ciudad: Majadahonda, Lérida, Cataluña
+Código postal: 25827
+Email: valentina-calderon1940@ioba.med.uva.es
+Teléfono fijo: +34 973 32 30 08
+FAX: +34 973 99 53 13
+NHC: 0753337
+Condición de riesgo: Operador de Máquina
+
+Datos asistenciales.
+Médico: Dr. José Guzman Mendoza. NC 439202571. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/09/2021
+Episodio: 02614301
+Centro de salud: Centro de Salud Getafe
+Matrícula del coche: 6747JWF
+Modelo: Mazda CX-5
+VIN: VSIHU29H3NO710672
+
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de un año de edad, acompañado de su tía. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Valentina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="52" text="Bravo Calderon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="81194710H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="28/09/2019" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="116" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="146" text="Calle de Arenal 93" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="166" text="Majadahonda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="174" text="Lérida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="184" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="25827" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="251" text="valentina-calderon1940@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="267" end="283" text="+34 973 32 30 08" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="289" end="305" text="+34 973 99 53 13" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="311" end="318" text="0753337" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="340" end="359" text="Operador de Máquina" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="394" end="413" text="José Guzman Mendoza" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="418" end="427" text="439202571" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="429" end="473" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="475" end="561" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="563" end="592" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="594" end="599" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="601" end="607" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="609" end="615" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="635" end="645" text="10/09/2021" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="656" end="664" text="02614301" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="682" end="704" text="Centro de Salud Getafe" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="726" end="733" text="6747JWF" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="758" end="775" text="VSIHU29H3NO710672" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="819" end="849" text="ascendencia africana del norte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="853" end="859" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="886" end="889" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

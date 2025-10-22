@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Enrique</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Estevez Arroyo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">30639711P</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">25/05/1992</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Argumosa 43</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ponferrada</TAG>, <TAG TYPE="TERRITORIO">Las Palmas</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">35477</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">277ZNv1@ioba.med.uva.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 928 27 51 12</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 628 15 39 00</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5429269</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Químico</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Emilia Roca Lozano</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">408164126</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Epidemiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/05/2006</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Norte</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP</TAG> (<TAG TYPE="DIREC_PROT_INTERNET">192.168.208.249</TAG>), con <TAG TYPE="IDENTIF_BIOMETRICOS">dirección MAC</TAG> <TAG TYPE="IDENTIF_BIOMETRICOS">07:AC:18:28:D1:B2</TAG>.
+  </TEXT>
+</MEDDOCAN>

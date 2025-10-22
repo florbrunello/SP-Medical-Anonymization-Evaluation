@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Antonio Gutiérrez Hurtado
+DNI: 83333143A
+Fecha de nacimiento: 14/11/1954
+Género: Masculino
+Domicilio: Calle de Tribulete 58, 6M
+Ciudad: Liria, Las Palmas, Canarias
+Código postal: 35575
+Email: joseantonio_gutierrez.hurtado@protonmail.com
+Teléfono fijo: +34 928 01 52 92
+Teléfono móvil: +34 728 28 44 85
+NHC: 7246920
+NASS: 749571712378
+
+Datos asistenciales.
+Médico: Dra. Gema Cabrera Bernal. NC 811658597. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/04/1976
+Episodio: 92144227
+Centro de salud: Centro de Salud San Blas
+
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 21 años de edad, acompañado de su yerno. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es XI377LCI103. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="José Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="58" text="Gutiérrez Hurtado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="64" end="73" text="83333143A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="95" end="105" text="14/11/1954" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="114" end="123" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="135" end="160" text="Calle de Tribulete 58, 6M" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="169" end="174" text="Liria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="176" end="186" text="Las Palmas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="188" end="196" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="212" end="217" text="35575" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="225" end="269" text="joseantonio_gutierrez.hurtado@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="285" end="301" text="+34 928 01 52 92" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="318" end="334" text="+34 728 28 44 85" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="340" end="347" text="7246920" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="354" end="366" text="749571712378" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="632" end="642" text="07/04/1976" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="653" end="661" text="92144227" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="679" end="703" text="Centro de Salud San Blas" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="747" end="770" text="comunidades vulnerables" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="774" end="781" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="808" end="813" text="yerno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T22" start="901" end="912" text="XI377LCI103" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iñigo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ramos Jurado</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">27512036B</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">12/01/2007</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Salesas 4, 2G</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ontinyent</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">18113</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">inigo@ucm.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 32 70 33</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 758 13 45 36</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9282851</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Limpiador</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Víctor Manuel Méndez Luna</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">568612135</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Principal en Optometría Clínica</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/08/2020</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">91492305</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Parla</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">4425FEF</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Volkswagen Golf</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSHEW4ARRDY108957</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>.
+    Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">ZM498SXM621</TAG>. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">TB542GNC376</TAG>. Se registró una sesión de firma biométrica, el código obtenido para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">GY403MFB928</TAG>.
+  </TEXT>
+</MEDDOCAN>

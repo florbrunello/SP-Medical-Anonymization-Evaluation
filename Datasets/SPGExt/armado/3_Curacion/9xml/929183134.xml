@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Patricia Alonso Trujillo</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">49566519R</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/06/1928</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Paseo de la Castellana 45</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Benidorm, Pontevedra, Galicia</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">36759</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">trujillo825@udc.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 986 51 27 27</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 986 54 10 07</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4529200</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">013117703896</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Enfermera</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Antonia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Costa Otero</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">585862233</TAG>. <TAG TYPE="PROFESION">Cardióloga de Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">11/05/1988</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">86852241</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital General Universitario Reina Sofía</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1366INV</TAG>.
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mazda CX-5</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSESN7TLE4K321457</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">11/05/1988</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Hospital General Universitario Reina Sofía</TAG>.
+  </TEXT>
+</MEDDOCAN>

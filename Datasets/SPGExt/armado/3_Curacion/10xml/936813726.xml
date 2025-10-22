@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Tamara</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Galan Bravo</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">81463390N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/07/2007</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Virgen de los Peligros 53, 4A</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Gandía</TAG>, <TAG TYPE="TERRITORIO">Álava</TAG>, <TAG TYPE="PAIS">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">01862</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">galan1452@protonmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 945 85 81 61</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 645 66 93 26</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1831081</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">170854250427</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Albañil</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Beatriz</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Márquez Delgado</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">183323000</TAG>. <TAG TYPE="PROFESION">Investigadora Clínica en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/03/2017</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">04134591</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Asistencial Universitario Salamanca</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática del sudeste</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> de edad, acompañado de su madre.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alergia a ciertos alimentos</TAG> y ha presentado episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">asma</TAG> en el pasado.
+    Evolución y comentarios:
+    El paciente ha sido ingresado en la unidad de cuidados intensivos debido a una <TAG TYPE="FECHAS">infección respiratoria aguda</TAG>. La evolución ha sido complicada, con signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia respiratoria</TAG> y requerimiento de apoyo ventilatorio.
+    Remitido por:
+    El paciente ha sido remitido por su médico de cabecera, quien ha notificado la presencia de una <TAG TYPE="FECHAS">infección respiratoria aguda</TAG> y la necesidad de ingreso en la unidad de cuidados intensivos.
+    Exploración física:
+    La exploración física revela signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia respiratoria</TAG>, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">taquicardia</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">taquipnea</TAG>. La temperatura corporal es normal, pero se observa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sudoración</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG>.
+    Pruebas diagnósticas:
+    Se han realizado pruebas diagnósticas para determinar la causa de la <TAG TYPE="FECHAS">infección respiratoria aguda</TAG>, incluyendo análisis de sangre y radiografías de tórax.
+    Tratamiento:
+    El paciente está recibiendo tratamiento con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antibióticos</TAG> y apoyo ventilatorio. Se está considerando la posibilidad de hospitalización en la unidad de cuidados intensivos para seguir monitorizando la evolución del paciente.
+    Pronóstico:
+    El pronóstico es incierto debido a la complejidad de la <TAG TYPE="FECHAS">infección respiratoria aguda</TAG> y la presencia de signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia respiratoria</TAG>. Se está trabajando para establecer un plan de tratamiento adecuado para mejorar la evolución del paciente.
+  </TEXT>
+</MEDDOCAN>

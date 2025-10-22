@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Josep Quintana</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Del Rio</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">12181837W</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">27/01/2012</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de la Magdalena 69</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Guadix</TAG>, <TAG TYPE="TERRITORIO">Menorca</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">07281</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">josep_quintana@yahoo.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 28 38 24</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 771 59 08 67</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8676020</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">274035334751</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Guardia de Seguridad</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Paz Muñoz Villar</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">771159377</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Endocrinóloga Especialista en Diabetes</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">28/01/2014</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Getafe</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6768DAA</TAG>
+  Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Chrysler Pacifica</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSHWQ9FW5GP972468</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuelo</TAG>. Se registró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sesión de escaneo retiniano</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código obtenido para revisarla</TAG> es <TAG TYPE="OTRO_NUMERO_IDENTIF">QV879QOR122</TAG>.
+  </TEXT>
+</MEDDOCAN>

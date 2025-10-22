@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Adam Molina Calderon</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">46699568T</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">25/06/1926</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Gobernador 94, 1Y</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Melilla, Huesca, Guipúzcoa, País Vasco</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">20198</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">adammolinacalderon@icloud.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 943 03 84 54</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 643 19 16 26</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7925343</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">46699568T</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Exfumador</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Esteban Andres Santiago</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 704660312</TAG>. <TAG TYPE="PROFESION">Neuropsicólogo Clínico Investigador</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">11/04/1971</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">49820763</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Sur</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">exfumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">44 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">depresión moderada</TAG>, que se presentó en el Servicio de Urgencias con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor de cabeza</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">mareos</TAG>. La exploración física revela: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Tª 37,5 C</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">T.A: 120/80 mmHg</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Fc: 80 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración ni dificultad para respirar. En cabeza y cuello no se palpan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">adenopatías</TAG>, ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bocio</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ingurgitación de vena yugular</TAG>. Auscultación cardíaca rítmica, sin soplos ni roces. Auscultación pulmonar con conservación del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">murmurio vesicular</TAG>. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica se detectan signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">depresión</TAG>, pero sin datos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">focalidad</TAG>. Extremidades sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">varices</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">edemas</TAG>. Pulsos periféricos presentes y simétricos.
+    La evolución clínica ha sido estable, sin complicaciones ni necesidad de tratamiento intensivo. El paciente ha sido tratado con medicación para la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">depresión</TAG>, y se le ha recomendado seguir un programa de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">rehabilitación</TAG> para <TAG TYPE="OTROS_SUJETO_ASISTENCIA">exfumadores</TAG>. El pronóstico es bueno, con expectativa de recuperación completa.
+    Antecedentes:
+    El paciente tiene un historial de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">depresión moderada</TAG>, con episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor de cabeza</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">mareos</TAG> en los últimos meses. Ha estado tomando medicación para la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">depresión</TAG>, pero no ha respondido de manera satisfactoria.
+    Evolución y comentarios:
+    El paciente ha sido tratado con medicación para la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">depresión</TAG>, y se le ha recomendado seguir un programa de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">rehabilitación</TAG> para <TAG TYPE="OTROS_SUJETO_ASISTENCIA">exfumadores</TAG>. La evolución clínica ha sido estable, sin complicaciones ni necesidad de tratamiento intensivo.
+    Remitido por:
+    El paciente ha sido remitido a su domicilio con seguimiento médico regular. Se le ha recomendado seguir un programa de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">rehabilitación</TAG> para <TAG TYPE="OTROS_SUJETO_ASISTENCIA">exfumadores</TAG> y continuar tomando medicación para la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">depresión</TAG>.
+  </TEXT>
+</MEDDOCAN>

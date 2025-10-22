@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ángel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rivas Estevez</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">51081656J</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">15/10/2014</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Fortuny 57, 8J</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Torrelodones</TAG>, <TAG TYPE="TERRITORIO">Álava</TAG>, <TAG TYPE="TERRITORIO">Pais Vasco</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">01674</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">angel_rivasestevez290@ciberned.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 945 33 13 89</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 745 19 90 72</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9847442</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">652100069553</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Fabricante</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Nicolás Simon Varela</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">805731645</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">11/02/2016</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Río Hortega</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7224LXS</TAG>
+  Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Ford F-150</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSD5236YPTL605726</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>.
+  </TEXT>
+</MEDDOCAN>

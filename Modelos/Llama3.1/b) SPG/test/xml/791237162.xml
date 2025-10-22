@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sara</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Miguel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Abad</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">15306058H</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">05/11/1935</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Toledo 52</TAG>, <TAG TYPE="NUMERO">8D</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Marbella</TAG>, <TAG TYPE="TERRITORIO">Burgos</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">09313</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">v96VKkLKfhzCZ@protonmail.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 947 64 60 69</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 647 08 27 49</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0012397</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">774027722156</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Cirujano</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cristina Heredia Quintana</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">318995895</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Gastroenteróloga Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">09/03/1944</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">61621767</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Virgen del Rocío</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. Se registró una sesión de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">escaneo retiniano</TAG>, el <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">código obtenido para revisarla</TAG> es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">UL330ZJZ989</TAG>.
+  </TEXT>
+</MEDDOCAN>

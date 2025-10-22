@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Julio Aparicio Romero
+DNI: 49749584D
+Fecha de nacimiento: 21/11/2011
+Género: M
+Domicilio: Calle de Juan Bravo 6
+Ciudad: Girona, Zaragoza, Aragón
+Código postal: 50888
+Email: julio-aparicio-romero@isciii.es
+Teléfono fijo: +34 976 33 45 19
+FAX: +34 976 30 82 24
+NHC: 0513208
+NASS: 063584925819
+
+Datos asistenciales.
+Médico: Dra. Blanca Heredia Martín. NC 973973092. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 02/02/2020
+Hospital: Hospital General Universitario Reina Sofía
+Matrícula del coche: 2237WBG
+Modelo: Mercedes-Benz C-Class
+VIN: VSQ61DIY04X605067
+
+Informe clínico del paciente:
+Paciente de ascendencia oceánica de 8 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Julio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="49" text="Aparicio Romero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="49749584D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="21/11/2011" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="139" text="Calle de Juan Bravo 6" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="154" text="Girona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="164" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="172" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="188" end="193" text="50888" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="201" end="232" text="julio-aparicio-romero@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 976 33 45 19" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="270" end="286" text="+34 976 30 82 24" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="292" end="299" text="0513208" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="306" end="318" text="063584925819" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="581" end="591" text="02/02/2020" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="602" end="644" text="Hospital General Universitario Reina Sofía" TYPE="HOSPITAL" comment=""/>
+        <ID id="T18" start="666" end="673" text="2237WBG" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="709" end="726" text="VSQ61DIY04X605067" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="770" end="790" text="ascendencia oceánica" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="794" end="800" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="827" end="834" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

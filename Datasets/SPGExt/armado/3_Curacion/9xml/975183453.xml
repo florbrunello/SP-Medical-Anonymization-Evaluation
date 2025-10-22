@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lidia Avila Mateo</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">65003623B</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/12/1961</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de los Embajadores 99</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Castellón de la Plana</TAG>, <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">37987</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">lidia_avila_mateo@salud.madrid.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 00 73 08</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 623 70 52 51</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3471273</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">398774872084</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Sin especificar</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Jon Izquierdo Trujillo</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 714927639</TAG>. <TAG TYPE="PROFESION">Residente de 5° año en Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">13/06/1984</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Parla</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">migraña recurrente</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sensibilidad a los cambios de temperatura</TAG>. Presenta una evolución clínica de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">6 meses</TAG> con frecuentes episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cefalea</TAG>, acompañados de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">náuseas</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG>. La exploración física revela: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Tª 36,5 C</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">T.A: 120/80 mmHg</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Fc: 80 lpm</TAG>. Se encuentra <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consciente</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">orientado</TAG>, con buen <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estado de nutrición e hidratación</TAG>. En <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cabeza y cuello</TAG> no se palpan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">adenopatías</TAG>, ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bocio</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ingurgitación de vena yugular</TAG>, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pulsos carotídeos simétricos</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Auscultación cardíaca rítmica</TAG>, sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">soplos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">roces</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">extratonos</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Auscultación pulmonar con conservación del murmullo vesicular</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Abdomen blando</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">depresible</TAG>, sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">masas</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">megalias</TAG>.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hemograma</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hb 14,2 g/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">leucocitos 8.500/mm3</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">neutrófilos 60%</TAG>); <TAG TYPE="OTROS_SUJETO_ASISTENCIA">plaquetas 250.000/mm3</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">VSG: 30 mm 1ª hora</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Coagulación: TQ 95%</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TTPA 20,5 seg</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Bioquímica</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Glucosa 90 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urea 20 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina 0,8 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sodio 140 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">potasio 4,2 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GOT 20 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GPT 15 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GGT 25 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fosfatasa alcalina 120 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">calcio 9,5 mg/dl</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Orina</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sedimento normal</TAG>.
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">migraña frecuente</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sensibilidad a los cambios de temperatura</TAG>, se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">analgésicos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antieméticos</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG>) y tratamiento preventivo (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">propranolol 40 mg vía oral cada 8 horas</TAG>). El paciente mejora significativamente de su cuadro tras una semana de tratamiento, decidiéndose el alta a su domicilio con seguimiento en consultas.
+  </TEXT>
+</MEDDOCAN>

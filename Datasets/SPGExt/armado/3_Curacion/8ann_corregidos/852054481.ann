@@ -1,0 +1,43 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 32	Mercedes Rico Acosta
+T2	ID_SUJETO_ASISTENCIA 46 63	29899424E
+T3	FECHAS 85 93	06/01/1972
+T4	SEXO_SUJETO_ASISTENCIA 104 109	Femenino
+T5	CALLE 121 139	Calle de las Yeserías 76, 7K
+T6	TERRITORIO 140 150	San Pedro del Pinatar
+T7	TERRITORIO 152 156	Ibiza
+T8	TERRITORIO 158 164	Islas Baleares
+T9	TERRITORIO 166 172	07110
+T10	CORREO_ELECTRONICO 183 204	mercedes-acosta@gmail.com
+T11	NUMERO_TELEFONO 215 224	+34 971 12 79 55
+T12	NUMERO_TELEFONO 227 239	+34 671 26 75 65
+T13	ID_SUJETO_ASISTENCIA 241 250	9936105
+T14	ID_SUJETO_ASISTENCIA 252 262	233773981514
+T15	PROFESION 283 289	Limpiador
+T16	NOMBRE_PERSONAL_SANITARIO 309 343	Dra. Susana Bernal Palacios
+T17	ID_TITULACION_PERSONAL_SANITARIO 344 355	125859519
+T18	PROFESION 356 362	Psiquiatra
+T19	PROFESION 364 371	Especialista en Trastornos de Ansiedad
+T20	HOSPITAL 372 394	Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)
+T21	HOSPITAL 395 405	Avenida Monforte de Lemos 3-5
+T22	TERRITORIO 406 412	28029
+T23	TERRITORIO 414 420	Madrid
+T24	TERRITORIO 422 428	España
+T25	FECHAS 430 440	27/07/1995
+T26	ID_CONTACTO_ASISTENCIAL 452 461	26464917
+T27	HOSPITAL 464 490	Centro de Salud Valdemoro
+T28	NOMBRE_SUJETO_ASISTENCIA 491 515	Paciente de ascendencia asiática
+T29	EDAD_SUJETO_ASISTENCIA 516 523	23 años
+T30	NOMBRE_SUJETO_ASISTENCIA 524 547	que se presenta en el servicio con síntomas de agorafobia y pánico
+T31	FECHAS 548 556	37,5 C
+T32	FECHAS 558 566	120/80 mmHg
+T33	FECHAS 568 576	90 lpm
+T34	NOMBRE_SUJETO_ASISTENCIA 577 605	con buen estado de nutrición e hidratación
+T35	NOMBRE_SUJETO_ASISTENCIA 606 634	En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos
+T36	NOMBRE_SUJETO_ASISTENCIA 635 663	Auscultación cardíaca rítmica, sin soplos, roces ni extratonos
+T37	NOMBRE_SUJETO_ASISTENCIA 664 692	Auscultación pulmonar con conservación del murmullo vesicular
+T38	NOMBRE_SUJETO_ASISTENCIA 693 721	Abdomen blando, depresible, sin masas ni megalias
+T39	NOMBRE_SUJETO_ASISTENCIA 722 750	En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad
+T40	NOMBRE_SUJETO_ASISTENCIA 751 779	Extremidades sin varices ni edemas
+T41	NOMBRE_SUJETO_ASISTENCIA 780 808	Pulsos periféricos presentes y simétricos
+T42	NOMBRE_SUJETO_ASISTENCIA 809 837	Los datos analíticos muestran los siguientes resultados
+T43	NOMBRE_SUJETO_ASISTENCIA 838 866	Hemograma: Hb 13,5 g/dl

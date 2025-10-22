@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Joan</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vázquez Vicente</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">96608155J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/02/2019</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de los Jardines 23, 5D</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Zamora</TAG>, <TAG TYPE="TERRITORIO">Las Palmas</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">35879</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">joan-vazquez_vicente@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 928 59 89 82</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 628 38 60 93</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1457385</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">528763841834</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Inspector de Seguridad Minera</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jaume Román Beltran</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">604770592</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/10/2021</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">88751845</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud San Sebastián de los Reyes</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">8052TCL</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Chrysler Pacifica</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSQ6J2HKSPL996702</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">escaneo retiniano</TAG>, el código obtenido para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">AL329EGW120</TAG>.
+  </TEXT>
+</MEDDOCAN>

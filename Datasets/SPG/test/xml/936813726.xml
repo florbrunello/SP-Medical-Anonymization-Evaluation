@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Tamara Galan Bravo
+DNI: 81463390N
+Fecha de nacimiento: 15/07/2007
+Género: Mujer
+Domicilio: Calle de la Virgen de los Peligros 53, 4A
+Ciudad: Gandía, Álava, Pais Vasco
+Código postal: 01862
+Email: galan1452@protonmail.com
+Teléfono fijo: +34 945 85 81 61
+Teléfono móvil: +34 645 66 93 26
+NHC: 1831081
+NASS: 170854250427
+Condición de riesgo: Albañil
+
+Datos asistenciales.
+Médico: Dra. Beatriz Márquez Delgado. NC 183323000. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/03/2017
+Episodio: 04134591
+Hospital: Complejo Asistencial Universitario Salamanca
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática del sudeste de 9 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Tamara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="46" text="Galan Bravo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="81463390N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="15/07/2007" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="107" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="160" text="Calle de la Virgen de los Peligros 53, 4A" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="169" end="175" text="Gandía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="177" end="182" text="Álava" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="184" end="194" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="01862" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="247" text="galan1452@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="263" end="279" text="+34 945 85 81 61" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="296" end="312" text="+34 645 66 93 26" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="318" end="325" text="1831081" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="332" end="344" text="170854250427" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="366" end="373" text="Albañil" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="639" end="649" text="01/03/2017" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="660" end="668" text="04134591" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="679" end="723" text="Complejo Asistencial Universitario Salamanca" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="767" end="799" text="ascendencia asiática del sudeste" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="803" end="809" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="836" end="841" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

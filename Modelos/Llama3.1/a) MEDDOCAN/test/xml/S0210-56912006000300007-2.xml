@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Adrian</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Esposito Lopilato</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">15-85622454</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Avenida Olivos 4109 altura ruta Panamericana km 35,5</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Buenos Aires</TAG>.
+    CP: <TAG TYPE="TERRITORIO">B1827</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/06/1968</TAG>.
+    País: <TAG TYPE="PAIS">Argentina</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">49 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">13/11/2017</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">1583097461454</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Raymond</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Karatanasopuloz Pintos</TAG>.
+    Historia Actual: paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">49 años</TAG> de edad, de sexo masculino; 4 meses antes del ingreso en nuestro hospital se le practicó <TAG TYPE="PROFESION">cirugía vascular</TAG> con <TAG TYPE="PROFESION">reemplazo aorto-biilíaco</TAG> por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">aneurisma aórtico abdominal infrarrenal</TAG>.
+    Una semana previa al ingreso en el Servicio de Terapia Intensiva presentó <TAG TYPE="OTROS_SUJETO_ASISTENCIA">episodios de proctorragia</TAG> cuyos volúmenes fueron en aumento. Tras descompensación hemodinámica secundaria se indicó su ingreso en el Servicio de Terapia Intensiva. Refería además la presencia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor cólico periumbilical e hipogástrico</TAG> de gran intensidad, <TAG TYPE="OTRO_NUMERO_IDENTIF">hematocrito</TAG> de 13% y <TAG TYPE="OTRO_NUMERO_IDENTIF">sangrado incoercible</TAG>, por lo que se indicó <TAG TYPE="PROFESION">cirugía abdominal de urgencia</TAG> ante la sospecha de una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">FAE</TAG>, ya que la ecografía abdominal practicada horas antes informó imagen lineal superior a la cicatriz umbilical compatible con <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">prótesis vascular</TAG>, con zona hipoecogénica de 87 x 67 x 71 mm rodeándola. Se realizó <TAG TYPE="PROFESION">laparotomía exploradora</TAG>, constatándose <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematoma retroperitoneal circundante a la prótesis previa</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">FAE con yeyuno a 60 cm del asa fija y colon sigmoideo</TAG>. Presentó <TAG TYPE="OTROS_SUJETO_ASISTENCIA">paro cardiorrespiratorio</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">óbito en la sala de operaciones</TAG>
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Raymond</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Karatanasopuloz Pintos</TAG>. <TAG TYPE="CENTRO_SALUD">Terapia Intensiva</TAG>. <TAG TYPE="HOSPITAL">Hospital José Ramón Vidal</TAG>. <TAG TYPE="CALLE">C/ Necochea, 1050</TAG> <TAG TYPE="TERRITORIO">3400 Corrientes</TAG>, <TAG TYPE="PAIS">Argentina</TAG>. <TAG TYPE="CORREO_ELECTRONICO">rkarata@yahoo.com.ar</TAG>.
+  </TEXT>
+</MEDDOCAN>

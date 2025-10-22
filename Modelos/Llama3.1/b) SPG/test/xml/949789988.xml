@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Amparo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Merino Bernal</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">93290369T</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">12/02/1975</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Áncora 40</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Almería</TAG>, <TAG TYPE="TERRITORIO">Castellón</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">12563</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">amparo-merinobernal@icloud.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 964 84 29 78</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 764 50 23 74</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5327041</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">429967772356</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Químico</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Nicolás Lara Quintana</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">228305251</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Endocrinólogo Especialista en Diabetes</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/05/1994</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">99479617</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Chamartín</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia africana del norte</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">19 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">suegra</TAG>.
+  </TEXT>
+</MEDDOCAN>

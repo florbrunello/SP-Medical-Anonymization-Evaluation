@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Montserrat Domínguez León
+DNI: 64046675R
+Fecha de nacimiento: 06/02/1928
+Género: Femenino
+Domicilio: Calle de los Embajadores 44
+Ciudad: Langreo, Huelva, Andalucía
+Código postal: 21210
+Email: montserrat_dominguezleon@icloud.com
+Teléfono fijo: +34 959 64 73 64
+Teléfono móvil: +34 659 67 85 92
+NHC: 0634701
+Condición de riesgo: Técnico de Radiología
+
+Datos asistenciales.
+Médico: Dr. Bruno Bernal Miguel. NC 543188284. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 02/12/1936
+Episodio: 08559404
+Centro de salud: Centro de Salud Málaga Sur
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 8 años de edad, acompañado de su hermana. Se registró una sesión de huella dactilar, el código obtenido para revisarla es OZ119IDG271. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Montserrat" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="53" text="Domínguez León" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="64046675R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="06/02/1928" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="117" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="129" end="156" text="Calle de los Embajadores 44" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="165" end="172" text="Langreo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="174" end="180" text="Huelva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="182" end="191" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="21210" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="255" text="montserrat_dominguezleon@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="271" end="287" text="+34 959 64 73 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="304" end="320" text="+34 659 67 85 92" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="326" end="333" text="0634701" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="355" end="376" text="Técnico de Radiología" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="411" end="430" text="Bruno Bernal Miguel" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="435" end="444" text="543188284" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="446" end="481" text="Residente de 3° año en Oftalmología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="483" end="541" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="543" end="567" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="569" end="574" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="576" end="586" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="588" end="594" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="614" end="624" text="02/12/1936" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="635" end="643" text="08559404" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="661" end="687" text="Centro de Salud Málaga Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="728" end="749" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="753" end="759" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="786" end="793" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="875" end="886" text="OZ119IDG271" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

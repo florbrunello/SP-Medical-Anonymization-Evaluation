@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Laia Marín Vila
+DNI: 44026810A
+Fecha de nacimiento: 26/11/2015
+Género: M
+Domicilio: Calle de Juan Bravo 10
+Ciudad: Xàtiva, Ciudad Real, Castilla-La Mancha
+Código postal: 13143
+Email: laia.marin@salud.madrid.org
+Teléfono fijo: +34 926 66 16 12
+FAX: +34 926 61 65 35
+NHC: 5793006
+Condición de riesgo: Operador de Equipos Mineros
+
+Datos asistenciales.
+Médico: Dra. María Jesús Avila Trujillo. NC 398523800. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 13/11/2016
+Episodio: 12782407
+Hospital: Complejo Hospitalario Universitario de Cartagena
+Matrícula del coche: 9648IJL
+Modelo: Ford F-150
+VIN: VSUNOFPHWCJ944134
+
+Informe clínico del paciente:
+Paciente de tez blanca de 11 meses de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.230.193, con dirección MAC 83:D0:43:CD:E0:D3. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es ZE075SEE920. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es GV935OLC370. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es PM068PBS530. 

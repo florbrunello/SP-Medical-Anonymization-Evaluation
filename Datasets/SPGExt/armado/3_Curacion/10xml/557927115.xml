@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Belén</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Guillen Moya</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">75262918H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/05/1950</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del León 60</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Segovia</TAG>, <TAG TYPE="TERRITORIO">Lérida</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">25878</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">guillen-moya@udc.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 973 28 31 56</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 773 14 10 71</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7781864</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">130916004266</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente no hospitalizado</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Rafael</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Casado Abad</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">582853156</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/02/2023</TAG>
+    Episodio: <TAG TYPE="ID_SUJETO_ASISTENCIA">41112836</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de la Princesa</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0574SYQ</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Kia Sorento</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSE1I6E2MSF241298</TAG>
+    Informe clínico del paciente:
+    La paciente fue ingresada en la unidad de cuidados intensivos por presentar un cuadro de insuficiencia respiratoria aguda. Según la historia clínica, la paciente tiene una enfermedad pulmonar obstructiva crónica (EPOC) en estadio III, y ha presentado un empeoramiento de su condición en los últimos días. La paciente también tiene una historia de asma y ha sido tratada con broncodilatadores y esteroides.
+    La exploración física revela una temperatura de <TAG TYPE="OTRO_NUMERO_IDENTIF">37,5°C</TAG>, frecuencia cardíaca de <TAG TYPE="OTRO_NUMERO_IDENTIF">120/min</TAG> y frecuencia respiratoria de <TAG TYPE="OTRO_NUMERO_IDENTIF">30/min</TAG>. La paciente está consciente y orientada, pero presenta una saturación de oxígeno en sangre de <TAG TYPE="OTRO_NUMERO_IDENTIF">88%</TAG>. La exploración pulmonar revela ronquidos y estridor en las vías respiratorias.
+    Los análisis de sangre muestran un hemoglobina de <TAG TYPE="OTRO_NUMERO_IDENTIF">12 g/dl</TAG>, un recuento de glóbulos blancos de <TAG TYPE="OTRO_NUMERO_IDENTIF">18.000/mm³</TAG> y un recuento de glóbulos rojos de <TAG TYPE="OTRO_NUMERO_IDENTIF">4,5 millones/mm³</TAG>. La orina es normal.
+    Se solicitan pruebas de imagen, incluyendo una radiografía de tórax y una ecografía pulmonar. La radiografía de tórax muestra un infiltrado alveolar en ambos pulmones, mientras que la ecografía pulmonar revela una reducción de la función pulmonar.
+    Con base en estos resultados, se diagnostica una neumonía bacteriana y se inicia tratamiento con antibióticos intravenosos. La paciente también recibe oxígeno terapéutico y tratamiento para la EPOC.
+    Antecedentes:
+    La paciente tiene una historia de asma y EPOC en estadio III. Ha sido tratada con broncodilatadores y esteroides.
+    Evolución y comentarios:
+    La paciente ha presentado un empeoramiento de su condición en los últimos días. La exploración física y los análisis de sangre revelan una insuficiencia respiratoria aguda.
+    Remitido por:
+    La paciente ha sido remitida desde el <TAG TYPE="HOSPITAL">Servicio de Medicina de Urgencia</TAG>.
+  </TEXT>
+</MEDDOCAN>

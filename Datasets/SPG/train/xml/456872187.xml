@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Manuel Campos Carrasco
+DNI: 83082235W
+Fecha de nacimiento: 03/03/1937
+Género: H
+Domicilio: Calle de Valverde 67
+Ciudad: Santa Cruz de Tenerife, Lérida, Cataluña
+Código postal: 25887
+Email: josemanuel_campos@uhu.es
+Teléfono fijo: +34 973 60 60 58
+Teléfono móvil: +34 773 01 76 88
+NHC: 3438068
+NASS: 800315220267
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dr. José Javier Marti Rivas. NC 429115273. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/09/1939
+Episodio: 96996068
+Centro de salud: Centro de Salud Coslada
+Matrícula del coche: 8639WIX
+Modelo: Kia Sorento
+VIN: VSEXYVFMUTF746073
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática occidental de 2 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="José Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="55" text="Campos Carrasco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="83082235W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="03/03/1937" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="112" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="144" text="Calle de Valverde 67" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="175" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="177" end="183" text="Lérida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="185" end="193" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="209" end="214" text="25887" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="222" end="246" text="josemanuel_campos@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="262" end="278" text="+34 973 60 60 58" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="295" end="311" text="+34 773 01 76 88" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="317" end="324" text="3438068" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="331" end="343" text="800315220267" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="365" end="373" text="Granjero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="408" end="431" text="José Javier Marti Rivas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="436" end="445" text="429115273" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="447" end="480" text="Residente de 5° año en Neurología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="482" end="571" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="573" end="602" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="604" end="609" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="611" end="617" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="619" end="625" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="645" end="655" text="19/09/1939" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="666" end="674" text="96996068" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="692" end="715" text="Centro de Salud Coslada" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="737" end="744" text="8639WIX" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="770" end="787" text="VSEXYVFMUTF746073" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="831" end="862" text="ascendencia asiática occidental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="866" end="872" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="899" end="904" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

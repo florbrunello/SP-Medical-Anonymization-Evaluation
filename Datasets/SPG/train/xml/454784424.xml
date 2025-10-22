@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Catalina Aguilera Sanz
+DNI: 15627697W
+Fecha de nacimiento: 09/10/1950
+Género: Mujer
+Domicilio: Calle de Recoletos 19
+Ciudad: Avilés, Córdoba, Andalucía
+Código postal: 14988
+Email: catalina_aguilera-sanz@ub.edu
+Teléfono fijo: +34 957 90 32 41
+Teléfono móvil: +34 757 10 35 12
+NHC: 9096344
+Condición de riesgo: Policía
+
+Datos asistenciales.
+Médico: Dr. José Ignacio Rojas Muñoz. NC 611106900. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/01/1993
+Episodio: 61123824
+Centro de salud: Centro de Salud Alcalá de Henares
+Matrícula del coche: 4881ZDO
+Modelo: Chrysler Pacifica
+VIN: VSIQSW09A3F456258
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 42 años de edad, acompañado de su abuela. Se registró una sesión de huella dactilar, el código obtenido para revisarla es RL024PSP393. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Catalina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="50" text="Aguilera Sanz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="15627697W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="09/10/1950" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="144" text="Calle de Recoletos 19" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="159" text="Avilés" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="168" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="179" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="14988" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="237" text="catalina_aguilera-sanz@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 957 90 32 41" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="286" end="302" text="+34 757 10 35 12" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="308" end="315" text="9096344" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="337" end="344" text="Policía" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="379" end="403" text="José Ignacio Rojas Muñoz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="408" end="417" text="611106900" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="419" end="459" text="Especialista en Enfermedades Infecciosas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="461" end="545" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="547" end="576" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="578" end="583" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="585" end="591" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="593" end="599" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="619" end="629" text="10/01/1993" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="640" end="648" text="61123824" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="666" end="699" text="Centro de Salud Alcalá de Henares" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="721" end="728" text="4881ZDO" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="760" end="777" text="VSIQSW09A3F456258" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="821" end="841" text="ascendencia asiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="845" end="852" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="879" end="885" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T32" start="967" end="978" text="RL024PSP393" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

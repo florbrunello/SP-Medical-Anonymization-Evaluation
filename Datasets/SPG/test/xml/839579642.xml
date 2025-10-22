@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ángeles Izquierdo Jiménez
+DNI: 33258701B
+Fecha de nacimiento: 17/01/2010
+Género: Mujer
+Domicilio: Calle de San Bernardo 59, 6U
+Ciudad: Ronda, Ciudad Real, Castilla-La Mancha
+Código postal: 13435
+Email: izquierdo.jimenez@salud.madrid.org
+Teléfono fijo: +34 926 53 45 45
+FAX: +34 926 10 02 89
+NHC: 4036442
+NASS: 788283257826
+Condición de riesgo: Operador de Maquinaria Pesada
+
+Datos asistenciales.
+Médico: Dr. José Manuel Pastor Santamaria. NC 584353110. Neurólogo Investigador en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 24/01/2022
+Episodio: 12990854
+Hospital: Hospital Regional Universitario de Málaga
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 12 años de edad, acompañado de su madre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-cardiology.com. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es UY008UTB920. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Ángeles" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="53" text="Izquierdo Jiménez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="33258701B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="17/01/2010" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="114" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="154" text="Calle de San Bernardo 59, 6U" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="163" end="168" text="Ronda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="181" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="183" end="201" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="217" end="222" text="13435" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="230" end="264" text="izquierdo.jimenez@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="280" end="296" text="+34 926 53 45 45" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="302" end="318" text="+34 926 10 02 89" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="324" end="331" text="4036442" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="338" end="350" text="788283257826" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="372" end="401" text="Operador de Maquinaria Pesada" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="436" end="465" text="José Manuel Pastor Santamaria" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="470" end="479" text="584353110" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="481" end="528" text="Neurólogo Investigador en Trastornos Cognitivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="530" end="602" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="604" end="627" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="629" end="634" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="636" end="642" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="644" end="650" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="670" end="680" text="24/01/2022" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="691" end="699" text="12990854" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="710" end="751" text="Hospital Regional Universitario de Málaga" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="795" end="819" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="823" end="830" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="857" end="862" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="939" end="964" text="smtp://example-cardiology" TYPE="URL_WEB" comment=""/>
+        <ID id="T32" start="1051" end="1062" text="UY008UTB920" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

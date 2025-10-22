@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Pilar Benítez Galan
+DNI: 16398291G
+Fecha de nacimiento: 10/02/2000
+Género: Femenino
+Domicilio: Calle de Bailén 35
+Ciudad: Málaga, Zaragoza, Aragón
+Código postal: 50462
+Email: mariapilar_benitez@outlook.com
+Teléfono fijo: +34 976 54 63 91
+Teléfono móvil: +34 676 51 59 37
+NHC: 4404288
+NASS: 150760203918
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dra. Carlota Crespo Santos. NC 947011493. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/10/2002
+Episodio: 34373996
+Centro de salud: Centro de Salud Torrejón de Ardoz
+
+Informe clínico del paciente:
+Paciente de tez blanca de 2 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="María Pilar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="53" text="Benítez Galan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="16398291G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="10/02/2000" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="117" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="129" end="147" text="Calle de Bailén 35" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="162" text="Málaga" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="172" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="180" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="50462" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="239" text="mariapilar_benitez@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 976 54 63 91" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 676 51 59 37" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="4404288" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="324" end="336" text="150760203918" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="358" end="364" text="Médico" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="646" end="656" text="03/10/2002" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="667" end="675" text="34373996" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="693" end="726" text="Centro de Salud Torrejón de Ardoz" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="770" end="780" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="784" end="790" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="817" end="822" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

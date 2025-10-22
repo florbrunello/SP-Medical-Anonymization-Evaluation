@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Noemí</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Conde Moreno</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">12357137L</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">12/09/1929</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Hortaleza 22</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Onda</TAG>, <TAG TYPE="TERRITORIO">Huelva</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">21182</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">noemi_conde_moreno@protonmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 959 68 45 63</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 759 60 80 65</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5556520</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">843789375515</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Miguel Ángel Macias Calderon</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">612749958</TAG>. <TAG TYPE="PROFESION">Oftalmólogo Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/11/2007</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Torrejón de Ardoz</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">descendencia africana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">78 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">pareja</TAG>. Se registró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sesión de escaneo retiniano</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código obtenido para revisarla</TAG> es <TAG TYPE="OTRO_NUMERO_IDENTIF">WY341IXC574</TAG>.
+  </TEXT>
+</MEDDOCAN>

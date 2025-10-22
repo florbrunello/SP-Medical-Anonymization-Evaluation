@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alejandro Mendoza Galvez</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">61787147Q</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/12/1958</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Luna 65</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Palma, Ibiza, Islas Baleares</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">07533</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">alejandro@ciberned.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 59 71 11</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 671 86 66 04</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8587216</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">368106130992</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Soldador</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Omar Guerrero Maldonado</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">298972407</TAG>. <TAG TYPE="PROFESION">Cardiólogo Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/09/1993</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">07261286</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Aranjuez</TAG>
+    Informe clínico del paciente:
+    Paciente de ascendencia nórdica o escandinava de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su abuela.
+  </TEXT>
+</MEDDOCAN>

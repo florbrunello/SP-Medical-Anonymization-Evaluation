@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Adolfo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Delgado Gil</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">61426169T</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/07/2015</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Fúcar 29</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Plasencia</TAG>, <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">37760</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">delgado@isciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 58 39 28</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 723 78 83 34</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0127020</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">383322212349</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Eric Villanueva Silva</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">406969874</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">21/01/2023</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">33338772</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Reina Sofía de Córdoba</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>.
+    Se registró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP (en red interna)</TAG> <TAG TYPE="NUMERO_IP">192.168.102.131</TAG>, con <TAG TYPE="DIREC_PROT_INTERNET">dirección MAC</TAG> <TAG TYPE="IDENTIF_BIOMETRICOS">F9:5B:6B:95:2A:3F</TAG>. El <TAG TYPE="DIREC_PROT_INTERNET">servidor</TAG> para envío de información desde cual el usuario se comunica es <TAG TYPE="URL_WEB">smtp://example-hospital.org</TAG>.
+  </TEXT>
+</MEDDOCAN>

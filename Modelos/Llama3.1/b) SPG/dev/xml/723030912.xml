@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Roberto Heredia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Robles</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">66156683N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/03/1972</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Atocha 36, 4A</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Móstoles</TAG>, <TAG TYPE="TERRITORIO">Alicante</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">03076</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">roberto.robles906@ucm.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 965 84 66 58</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 665 07 36 67</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9861072</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">406198355720</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Sanitización</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carolina Vega Varela</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">614111473</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Insuficiencia Cardíaca</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">30/06/1992</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Torrejón de Ardoz</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> de edad. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">firma biométrica</TAG>, el <TAG TYPE="IDENTIF_BIOMETRICOS">código obtenido</TAG> para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">LN853WJE350</TAG>.
+  </TEXT>
+</MEDDOCAN>

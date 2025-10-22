@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lourdes</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Calvo Salazar</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">13373257E</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/02/1989</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Engracia 23</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Torrejón de Ardoz</TAG>, <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">34724</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">calvo-salazar@yahoo.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 32 35 35</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 679 49 83 25</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6865149</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">541913463049</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Sin información disponible</TAG>.
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alicia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Merino Roldan</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">388469637</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Cargo: <TAG TYPE="PROFESION">Residente de 4° año en Medicina Interna</TAG>.
+    Dirección: <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/07/2019</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">34719899</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alcorcón</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="ASCENDENCIA_ETNICA">ascendencia africana del norte</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30 años</TAG> de edad, acompañado de su padre. Presenta una temperatura de <TAG TYPE="MEDIDA">38,5°C</TAG> y una frecuencia cardíaca de <TAG TYPE="MEDIDA">110 latidos por minuto</TAG>. Se encuentra consciente y orientado, pero con signos de ansiedad y sudoración.
+    La exploración física revela una presión arterial de <TAG TYPE="MEDIDA">120/80 mmHg</TAG> y una frecuencia respiratoria de <TAG TYPE="MEDIDA">20 respiraciones por minuto</TAG>. No se palpan adenopatías ni bocio, y la vena yugular no está ingurgitada. La auscultación cardíaca es normal, sin soplos ni roces. La auscultación pulmonar es también normal, con conservación del murmullo vesicular.
+    La exploración abdominal revela un abdomen blando y depresible, sin masas ni megalias. La exploración neurológica no muestra signos meníngeos ni datos de focalidad. Las extremidades no presentan varices ni edemas.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: <TAG TYPE="MEDIDA">Hb 12,5 g/dl</TAG>; <TAG TYPE="MEDIDA">leucocitos 12.000/mm3</TAG> (<TAG TYPE="MEDIDA">neutrófilos 70%</TAG>); <TAG TYPE="MEDIDA">plaquetas 200.000/mm3</TAG>. VSG: <TAG TYPE="MEDIDA">30 mm 1ª hora</TAG>. Coagulación: <TAG TYPE="MEDIDA">TQ 90%</TAG>; <TAG TYPE="MEDIDA">TTPA 25,5 seg</TAG>. Bioquímica: <TAG TYPE="MEDIDA">Glucosa 100 mg/dl</TAG>; <TAG TYPE="MEDIDA">urea 25 mg/dl</TAG>; <TAG TYPE="MEDIDA">creatinina 0,8 mg/dl</TAG>; <TAG TYPE="MEDIDA">sodio 135 mEq/l</TAG>; <TAG TYPE="MEDIDA">potasio 3,5 mEq/l</TAG>; <TAG TYPE="MEDIDA">GOT 12 U/l</TAG>; <TAG TYPE="MEDIDA">GPT 20 U/l</TAG>; <TAG TYPE="MEDIDA">GGT 30 U/l</TAG>; <TAG TYPE="MEDIDA">fosfatasa alcalina 120 U/l</TAG>; <TAG TYPE="MEDIDA">calcio 8,5 mg/dl</TAG>. Orina: <TAG TYPE="MEDIDA">sedimento normal</TAG>.
+    Se solicitan pruebas de imagen (<TAG TYPE="TÉCNICA_ANALÍTICA">Ecografía abdominal</TAG> y <TAG TYPE="TÉCNICA_ANALÍTICA">TAC craneal</TAG>) para evaluar la causa de la fiebre y la ansiedad del paciente.
+  </TEXT>
+</MEDDOCAN>

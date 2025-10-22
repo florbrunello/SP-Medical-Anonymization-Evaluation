@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Olga Aparicio Casas
+DNI: 35883024B
+Fecha de nacimiento: 03/05/1990
+Género: Mujer
+Domicilio: Calle de Ayala 54
+Ciudad: Bormujos, Valencia, Comunidad Valenciana
+Código postal: 46453
+Email: 4xzaFqWhoXbBUa2@us.es
+Teléfono fijo: +34 960 69 78 34
+Teléfono móvil: +34 660 81 29 80
+NHC: 4736441
+NASS: 282625900293
+Condición de riesgo: Guardia de Seguridad
+
+Datos asistenciales.
+Médico: Dra. Carolina Lozano Parra. NC 152399247. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 71635839
+Centro de salud: Centro de Salud Ciudad Lineal
+
+Informe clínico del paciente:
+Paciente musulman de 34 años de edad, acompañado de su compañera de trabajo. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es ME779VIN824. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Olga" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="47" text="Aparicio Casas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="35883024B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="03/05/1990" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="108" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="137" text="Calle de Ayala 54" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="154" text="Bormujos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="164" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="186" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="46453" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="236" text="4xzaFqWhoXbBUa2@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 960 69 78 34" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="285" end="301" text="+34 660 81 29 80" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="307" end="314" text="4736441" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="321" end="333" text="282625900293" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="355" end="375" text="Guardia de Seguridad" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="621" end="631" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="642" end="650" text="71635839" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="668" end="697" text="Centro de Salud Ciudad Lineal" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="738" end="746" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="750" end="757" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="784" end="793" text="compañera" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="887" end="898" text="ME779VIN824" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

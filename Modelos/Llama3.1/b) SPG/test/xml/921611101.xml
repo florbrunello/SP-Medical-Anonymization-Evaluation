@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan Francisco</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">López Montes</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">95394078Z</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/11/2000</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Zurbano 20</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Móstoles</TAG>, <TAG TYPE="TERRITORIO">Valencia</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">46168</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">juanfrancisco_lopez-montes598@ciberer.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 960 55 23 87</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 760 07 43 67</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0197076</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Granjero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tamara Peña Pascual</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">933792130</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">12/08/2015</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">49964098</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alhaurín de la Torre</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7720NON</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mercedes-Benz C-Class</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSA0UIQPCBX767204</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de firma biométrica</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">PC150VHK029</TAG>.
+  </TEXT>
+</MEDDOCAN>

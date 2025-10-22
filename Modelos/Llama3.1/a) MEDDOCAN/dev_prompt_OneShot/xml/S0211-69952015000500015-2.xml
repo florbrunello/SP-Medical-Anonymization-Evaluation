@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pedro</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pineda Rivera</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7348056</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">74 35613653 01</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Los Cantos, 29, 5 A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">El Ejido</TAG>.
+    CP: <TAG TYPE="TERRITORIO">04700</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">18/06/1964</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">51 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">20/12/2016</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Adoración</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Martín Gómez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">04 04 58930</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">51 años</TAG>. ERCA de etiología no filiada, hipertenso y en hemodiálisis desde <TAG TYPE="FECHAS">2005</TAG>, con primer trasplante renal inmediatamente fallido por trombosis arterial no inmunológica en octubre de <TAG TYPE="FECHAS">2007</TAG>, recibiendo en dicho ingreso transfusión de <TAG TYPE="NUMERO">2</TAG> unidades de hematíes. Aumento esporádico de transaminasas en <TAG TYPE="FECHAS">2009</TAG>, hasta hacerse persistente desde diciembre de <TAG TYPE="FECHAS">2010</TAG> (<TAG TYPE="NUMERO">28/40</TAG> UI/l GOT/GPT). Se diagnostica VHC oculto <TAG TYPE="NUMERO">14.700</TAG> copias/µg RNA total en CMSP (RNA en suero por ultracentrifugación y anticuerpo anti-VHC core de alta sensibilidad, negativos). Ecografía y FibroScan® normales. No manifiesta posibilidad externa de contagio, realizándose PCR y serología viral al resto de pacientes de la unidad, así como al personal sanitario sin detectar nuevos casos de infección clásica por el VHC. Recibe segundo trasplante renal en octubre de <TAG TYPE="FECHAS">2013</TAG>, tratándose con timoglobulina (TG), tacrolimus (FK), micofenolato (MMF) y corticoides. Tras <TAG TYPE="NUMERO">17</TAG> meses del trasplante, la carga viral en CMSP se halla indetectable, y persisten negativos el RNA por ultracentrifugación en suero y el anticuerpo anti-VHC core de alta sensibilidad.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Adoración</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Martín Gómez</TAG> <TAG TYPE="INSTITUCION">Unidad de Nefrología, Hospital de Poniente, Ctra. Málaga n.o 119</TAG>, <TAG TYPE="CALLE">04700, El Ejido, Almería, España</TAG>. <TAG TYPE="CORREO_ELECTRONICO">doritamg@gmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

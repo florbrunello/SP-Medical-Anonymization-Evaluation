@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Isaac</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Campos Romero</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">72860546L</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">27/05/2001</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Lope de Vega 69, 1X</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">Teruel</TAG>, <TAG TYPE="TERRITORIO">Barcelona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">08911</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">campos-romero@ucm.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 937 26 05 42</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 634 78 56 09</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2421980</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">888414873413</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Técnico de Cuidados Auxiliares de Enfermería</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Sebastián Casado Álvarez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">903951980</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">10/10/2002</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">65497825</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Cabueñes</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

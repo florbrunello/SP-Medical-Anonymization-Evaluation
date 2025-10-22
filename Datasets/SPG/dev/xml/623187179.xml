@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Mercedes Exposito Mateo
+DNI: 41303842M
+Fecha de nacimiento: 06/01/1953
+Género: Mujer
+Domicilio: Calle de las Infantas 99
+Ciudad: Puertollano, Cantabria, Cantabria
+Código postal: 39222
+Email: exposito1434@protonmail.com
+Teléfono fijo: +34 942 27 18 19
+Teléfono móvil: +34 742 95 50 20
+NHC: 1934246
+NASS: 391014620376
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dr. Moisés Fuentes Vargas. NC 573808390. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/11/1958
+Episodio: 28046383
+Hospital: Hospital Universitario Virgen del Rocío
+Matrícula del coche: 1358QBN
+Modelo: Toyota Corolla
+VIN: VSEKIU8NM4Q053660
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 5 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.19.12, con dirección MAC 14:B9:33:8E:C2:C8. El servidor para envío de información desde cual el usuario se comunica es smtp://example-pharma.org. Se registró una sesión de firma biométrica, el código obtenido para revisarla es OE404OJV552. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Mercedes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="51" text="Exposito Mateo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="41303842M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="06/01/1953" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="112" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="148" text="Calle de las Infantas 99" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="168" text="Puertollano" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="179" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="181" end="190" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="39222" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="246" text="exposito1434@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="262" end="278" text="+34 942 27 18 19" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="295" end="311" text="+34 742 95 50 20" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="317" end="324" text="1934246" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="331" end="343" text="391014620376" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="365" end="375" text="Paramédico" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="410" end="431" text="Moisés Fuentes Vargas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="436" end="445" text="573808390" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="447" end="491" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="493" end="579" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="581" end="610" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="612" end="617" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="619" end="625" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="627" end="633" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="653" end="663" text="26/11/1958" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="674" end="682" text="28046383" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="693" end="732" text="Hospital Universitario Virgen del Rocío" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="754" end="761" text="1358QBN" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="790" end="807" text="VSEKIU8NM4Q053660" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="851" end="884" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="888" end="894" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="921" end="926" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T33" start="1033" end="1050" text="14:B9:33:8E:C2:C8" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <OTHER id="T34" start="1127" end="1148" text="smtp://example-pharma" TYPE="URL_WEB" comment=""/>
+        <ID id="T35" start="1235" end="1246" text="OE404OJV552" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

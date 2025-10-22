@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Laia Prieto Gutiérrez
+DNI: 67373005W
+Fecha de nacimiento: 14/11/1980
+Género: M
+Domicilio: Calle del Rollo 67, 5R
+Ciudad: Fuenlabrada, Castellón, Comunidad Valenciana
+Código postal: 12763
+Email: laia.prieto-gutierrez1856@ciberehd.org
+Teléfono fijo: +34 964 43 04 87
+Teléfono móvil: +34 664 18 57 26
+NHC: 6770202
+
+Datos asistenciales.
+Médico: Dr. Jon Álvarez Aparicio. NC 112262031. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/10/2012
+Episodio: 37362189
+Centro de salud: Centro de Salud Móstoles
+Matrícula del coche: 3963WQH
+Modelo: Subaru Outback
+VIN: VSLDOEXQ7RI454302
+
+Informe clínico del paciente:
+Paciente vegetariano de 31 años de edad. El servidor para envío de información desde cual el usuario se comunica es smtp://example-radiology.edu. 

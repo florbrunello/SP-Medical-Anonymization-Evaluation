@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Álex</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mora Miguel</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">15976487C</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">20/06/1981</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Luna 64</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ourense</TAG>, <TAG TYPE="TERRITORIO">Tarragona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">43729</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mora-miguel@aol.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 977 81 55 75</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 777 42 89 21</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2632173</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">854618400088</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Ama de casa</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Elisa Millan Del Rio</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">415254186</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Insuficiencia Cardíaca</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">21/06/2021</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">92424826</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Torrejón de Ardoz</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1538NJH</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">BMW 3 Series</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSGQJRM6URL389045</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia oceánica</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">vecina</TAG>. Se registró una sesión de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reconocimiento facial</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">LL661GVQ429</TAG>. Se registró una sesión de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">firma biométrica</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">JI784UBR512</TAG>.
+  </TEXT>
+</MEDDOCAN>

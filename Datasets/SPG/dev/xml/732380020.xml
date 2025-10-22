@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Carlos Calderon Gómez
+DNI: 29774752X
+Fecha de nacimiento: 29/07/2012
+Género: Masculino
+Domicilio: Calle de Lavapiés 61
+Ciudad: Ponferrada, Granada, Andalucía
+Código postal: 18275
+Email: N5x7mdl@uca.es
+Teléfono fijo: +34 958 51 14 19
+FAX: +34 958 64 02 27
+NHC: 8612959
+NASS: 774768361297
+Condición de riesgo: Trabajador de Sanitización
+
+Datos asistenciales.
+Médico: Dr. Alejandro Camacho López. NC 980563421. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/01/2014
+Episodio: 90011215
+Centro de salud: Centro de Salud Collado Villalba
+
+Informe clínico del paciente:
+Paciente vegetariano de un año de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="Juan Carlos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="54" text="Calderon Gómez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="29774752X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="29/07/2012" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="119" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="131" end="151" text="Calle de Lavapiés 61" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="170" text="Ponferrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="179" text="Granada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="181" end="190" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="18275" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="233" text="N5x7mdl@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 958 51 14 19" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="271" end="287" text="+34 958 64 02 27" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="293" end="300" text="8612959" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="307" end="319" text="774768361297" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="341" end="367" text="Trabajador de Sanitización" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="402" end="425" text="Alejandro Camacho López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="430" end="439" text="980563421" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="441" end="481" text="Especialista en Enfermedades Infecciosas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="483" end="567" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="569" end="598" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="600" end="605" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="607" end="613" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="615" end="621" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="641" end="651" text="03/01/2014" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="662" end="670" text="90011215" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="688" end="720" text="Centro de Salud Collado Villalba" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="761" end="772" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="776" end="782" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="809" end="815" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

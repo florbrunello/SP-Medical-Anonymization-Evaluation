@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Raúl Camacho Esteban
+DNI: 87700378K
+Fecha de nacimiento: 13/07/1995
+Género: Masculino
+Domicilio: Calle del Barquillo 30
+Ciudad: Linares, Huesca, Aragón
+Código postal: 22720
+Email: raul_camacho@udc.es
+Teléfono fijo: +34 974 44 89 84
+Teléfono móvil: +34 774 10 04 10
+NHC: 4785868
+NASS: 286259437360
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dr. Jorge Rojas Serrano. NC 799502651. Neurólogo Investigador en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 26/07/2008
+Episodio: 30208735
+Hospital: Complejo Hospitalario Universitario de Lugo
+
+Informe clínico del paciente:
+Paciente no fumador de 13 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Raúl" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="48" text="Camacho Esteban" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="87700378K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="13/07/1995" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="113" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="147" text="Calle del Barquillo 30" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="163" text="Linares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="171" text="Huesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="179" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="22720" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="227" text="raul_camacho@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="243" end="259" text="+34 974 44 89 84" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="276" end="292" text="+34 774 10 04 10" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="298" end="305" text="4785868" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="312" end="324" text="286259437360" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="346" end="354" text="Granjero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="389" end="408" text="Jorge Rojas Serrano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="413" end="422" text="799502651" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="424" end="471" text="Neurólogo Investigador en Trastornos Cognitivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="473" end="545" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="547" end="570" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="572" end="577" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="579" end="585" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="587" end="593" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="613" end="623" text="26/07/2008" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="634" end="642" text="30208735" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="653" end="696" text="Complejo Hospitalario Universitario de Lugo" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="737" end="747" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="751" end="758" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="785" end="790" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

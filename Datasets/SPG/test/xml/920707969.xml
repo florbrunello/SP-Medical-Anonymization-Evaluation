@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Alejandra Carmona Santana
+DNI: 16992485Q
+Fecha de nacimiento: 18/02/1977
+Género: Mujer
+Domicilio: Calle del Oso 77
+Ciudad: Alcalá de Henares, Córdoba, Andalucía
+Código postal: 14330
+Email: alejandra-santana786@ual.es
+Teléfono fijo: +34 957 18 49 10
+Teléfono móvil: +34 757 75 99 61
+NHC: 0373142
+NASS: 983003994583
+Condición de riesgo: Trabajador Agrícola
+
+Datos asistenciales.
+Médico: Dra. María Esther Moya Rubio. NC 881426651. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/06/1979
+Episodio: 60660480
+Hospital: Complejo Hospitalario Universitario de Cartagena
+
+Informe clínico del paciente:
+Paciente no fumador de 2 años de edad, acompañado de su hermana. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.49.25, con dirección MAC C4:70:29:87:FD:98. Se realizó un expediente con URL http://example-cardiology.com//39715002T. El servidor para envío de información desde cual el usuario se comunica es smtp://example-cardiology.com. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Alejandra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="53" text="Carmona Santana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="16992485Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="18/02/1977" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="114" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="142" text="Calle del Oso 77" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="168" text="Alcalá de Henares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="177" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="188" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="14330" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="244" text="alejandra-santana786@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 957 18 49 10" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="293" end="309" text="+34 757 75 99 61" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="315" end="322" text="0373142" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="329" end="341" text="983003994583" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="363" end="382" text="Trabajador Agrícola" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="656" end="666" text="21/06/1979" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="677" end="685" text="60660480" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="696" end="744" text="Complejo Hospitalario Universitario de Cartagena" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="785" end="795" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="799" end="805" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="832" end="839" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="946" end="963" text="C4:70:29:87:FD:98" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <OTHER id="T24" start="998" end="1023" text="http://example-cardiology" TYPE="URL_WEB" comment=""/>
+        <OTHER id="T25" start="1115" end="1140" text="smtp://example-cardiology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,43 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 32	Eva Galvez Fuentes
+T2	ID_SUJETO_ASISTENCIA 46 65	21463113L
+T3	FECHAS 108 116	10/02/1957
+T4	SEXO_SUJETO_ASISTENCIA 129 130	F
+T5	CALLE 142 150	Calle de Salitre 9
+T6	TERRITORIO 162 168	Denia
+T7	TERRITORIO 170 176	Ibiza
+T8	TERRITORIO 178 184	Islas Baleares
+T9	TERRITORIO 190 196	07034
+T10	CORREO_ELECTRONICO 218 238	eva.galvez-fuentes@imibic.org
+T11	NUMERO_TELEFONO 250 263	+34 971 51 66 65
+T12	NUMERO_TELEFONO 274 287	+34 671 64 41 99
+T13	ID_SUJETO_ASISTENCIA 299 308	5005621
+T14	ID_SUJETO_ASISTENCIA 310 319	866055800900
+T15	PROFESION 342 353	Operador de Maquinaria Pesada
+T16	NOMBRE_PERSONAL_SANITARIO 365 394	Dra. Borja Giménez Castro
+T18	PROFESION 409 420	Neurólogo Investigador en Trastornos Cognitivos
+T19	INSTITUCION 431 444	Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)
+T20	CALLE 446 456	Avenida de Córdoba, s/n
+T21	TERRITORIO 468 474	28041
+T22	TERRITORIO 476 482	Madrid
+T23	TERRITORIO 484 490	España
+T24	FECHAS 492 502	21/06/1981
+T25	ID_CONTACTO_ASISTENCIAL 514 523	87821935
+T26	HOSPITAL 535 558	Centro de Salud Marbella
+T27	NOMBRE_SUJETO_ASISTENCIA 560 584	Paciente
+T28	EDAD_SUJETO_ASISTENCIA 586 593	24 años
+T29	FAMILIARES_SUJETO_ASISTENCIA 595 603	tío
+T30	NOMBRE_SUJETO_ASISTENCIA 606 630	historia de accidente cerebrovascular isquémico en la infancia
+T31	NOMBRE_SUJETO_ASISTENCIA 632 656	historia de discapacidad motora permanente en la extremidad superior izquierda
+T32	NOMBRE_SUJETO_ASISTENCIA 658 682	pérdida de función motora en la extremidad superior derecha
+T33	NOMBRE_SUJETO_ASISTENCIA 684 708	dificultad para realizar tareas diarias como vestirse y desayunar
+T34	NOMBRE_SUJETO_ASISTENCIA 710 734	hemiparesia derecha
+T35	NOMBRE_SUJETO_ASISTENCIA 736 760	debilidad muscular en la extremidad superior derecha
+T36	NOMBRE_SUJETO_ASISTENCIA 762 786	dificultad para mover la extremidad inferior derecha
+T37	NOMBRE_SUJETO_ASISTENCIA 788 812	progresiva pérdida de función motora en la extremidad superior derecha
+T38	NOMBRE_SUJETO_ASISTENCIA 814 838	pérdida de función motora en la extremidad superior derecha
+T39	NOMBRE_SUJETO_ASISTENCIA 840 864	dificultad para realizar tareas diarias como vestirse y desayunar
+T40	NOMBRE_SUJETO_ASISTENCIA 866 890	hemiparesia derecha
+T41	NOMBRE_SUJETO_ASISTENCIA 892 916	debilidad muscular en la extremidad superior derecha
+T42	NOMBRE_SUJETO_ASISTENCIA 918 942	dificultad para mover la extremidad inferior derecha
+T43	NOMBRE_SUJETO_ASISTENCIA 944 968	pérdida de función motora en la extremidad superior derecha
+T44	NOMBRE_SUJETO_ASISTENCIA 970 994	dificultad para realizar tareas

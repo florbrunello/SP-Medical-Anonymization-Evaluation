@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jose</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Villalon Puras</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3480957</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Dos de Mayo 4</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Pamplona</TAG>.
+    CP: <TAG TYPE="TERRITORIO">31001</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/10/2008</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">26/06/2018</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Pediatría</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ana</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Herrero Varas</TAG>  NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">31 31 36375</TAG>.
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 meses</TAG>, sin antecedentes de interés, remitido al servicio de Urgencias de <TAG TYPE="PROFESION">Pediatría</TAG>, desde su centro de salud por cefalea y proptosis. Inicio del cuadro 4 días antes, como fiebre, vómitos, cefalea y congestión nasal; diagnosticado en su centro de salud de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sinusitis</TAG> y en tratamiento antibiótico con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">amoxicilina-clavulánico</TAG> desde hace 48 horas, sin mejoría de los síntomas. Refiere cefalea intensa fronto-temporal derecha y edema en párpado derecho que ha evolucionado hacia proptosis en las últimas horas.
+    Exploración física: A la exploración física, se evidencia ligera proptosis del ojo derecho, con leve tumefacción palpebral, así como una obstrucción de la fosa nasal del mismo lado. 
+    Resumen de pruebas complementarias: En la exploración neurológica solamente destaca una leve dificultad para la mirada conjugada.
+    Dada la mala evolución clínica de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sinusitis</TAG> y la aparición de clínica neurológica, se realiza <TAG TYPE="FECHAS">TAC craneal de urgencia</TAG> con la sospecha clínica de posible complicación intracraneal. La <TAG TYPE="FECHAS">TAC</TAG> demuestra una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pansinusitis</TAG>, un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">flemón subperióstico</TAG> en pared medial de la órbita derecha y un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">empiema subdural frontal derecho</TAG> de pequeño tamaño (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">1,8</TAG> x <TAG TYPE="EDAD_SUJETO_ASISTENCIA">1,8</TAG> x <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0,6</TAG> cm).
+    Evolución y comentarios: Valorado de manera conjunta con profesionales del servicio de <TAG TYPE="PROFESION">Neurocirugía</TAG>, se decide mantener una actitud expectante. Se inicia tratamiento endovenoso empírico con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cefotaxima</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vancomicina</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">metronidazol</TAG>. Así mismo, se realiza drenaje del foco primario (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">pansinusitis</TAG>) realizando una evacuación de los senos mediante abordaje nasal. Todos los cultivos resultan negativos.
+    La evolución clínica es favorable, con desaparición de la sintomatología a los pocos días del inicio del tratamiento. De manera seriada, se van realizando controles de imagen (<TAG TYPE="FECHAS">RM</TAG>) en los que se aprecia disminución progresiva hasta la desaparición completa a los dieciocho días de tratamiento. Se realiza analítica de sangre en la que se evidencia una normalización de los parámetros infecciosos, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">leucopenia</TAG> e <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertransaminasemia</TAG> secundarias al tratamiento antibiótico. 
+    Se suspende el tratamiento antibiótico a los veintiséis días de su inicio, siendo dado de alta. Posteriormente, es controlado de manera ambulatoria, sin evidenciarse secuelas neurológicas, y con normalización absoluta de los parámetros analíticos.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ana</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Herrero Varas</TAG>. <TAG TYPE="PROFESION">Servicio de Pediatría</TAG>. <TAG TYPE="INSTITUCION">Complejo Hospitalario de Navarra</TAG> <TAG TYPE="CALLE">C/Irunlarrea, 3</TAG> Email: <TAG TYPE="CORREO_ELECTRONICO">aherrerv@navarra.es</TAG>
+  </TEXT>
+</MEDDOCAN>

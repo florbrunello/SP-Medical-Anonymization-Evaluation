@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Paloma Ibáñez Sáez</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">10287214G</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/02/2010</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Argumosa 11, 2I</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Vilanova i la Geltrú, Guadalajara, Castilla-La Mancha</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">19750</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ibanezsaez83@aol.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 949 06 81 51</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 649 89 02 41</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4986763</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Inspector de Seguridad Minera</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. María Begoña Hernández Medina</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">018618722</TAG>. <TAG TYPE="PROFESION">Residente de 3° año en Psiquiatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="DIREC_PROT_INTERNET">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">31/10/2019</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">78957343</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Marbella</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">9065QJS</TAG>.
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">BMW 3 Series</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSLE4KM8S6P110787</TAG>.
+    Informe clínico del paciente:
+    La paciente, <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Paloma Ibáñez Sáez</TAG>, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> de edad, fue atendida en la consulta de Psiquiatría con síntomas de ansiedad y trastorno del estado de ánimo. La paciente presentaba una tez blanca y estaba acompañada de su abuela. Después de realizar una exploración física y una evaluación psicológica, se determinó que la paciente no presentaba ninguna condición médica grave y que sus síntomas podrían estar relacionados con la ansiedad y el estrés.
+    Se le recomendó a la paciente y a su abuela que buscaran ayuda en un centro de salud mental para obtener tratamiento y apoyo. También se les recomendó que realizaran ejercicios de relajación y que practicaran técnicas de manejo del estrés.
+    La paciente fue dada de alta y se le recomendó que volviera a la consulta en una semana para seguir siendo evaluada y para recibir tratamiento.
+    Antecedentes:
+    La paciente no tiene antecedentes médicos previos. Sin embargo, su abuela informó que la paciente había estado experimentando síntomas de ansiedad y trastorno del estado de ánimo durante los últimos meses.
+    Evolución y comentarios:
+    La paciente mejoró significativamente después de recibir tratamiento y apoyo. Su abuela informó que la paciente estaba más calmada y que su estado de ánimo había mejorado.
+    Remitido por:
+    La paciente fue remitida por su abuela, quien se preocupaba por la salud mental de su nieta. La <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. María Begoña Hernández Medina</TAG>, <TAG TYPE="PROFESION">residente de 3° año en Psiquiatría</TAG>, atendió a la paciente y le proporcionó tratamiento y apoyo.
+  </TEXT>
+</MEDDOCAN>

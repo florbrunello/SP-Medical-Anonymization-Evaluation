@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Saúl</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Flores Castillo</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2784563</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">28 73457802 36</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Catedral, 23</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Murcia</TAG>.
+    CP: <TAG TYPE="TERRITORIO">30120</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/02/1990</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">24 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">27/06/2014</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Álvaro</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernández García</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">30 30 25501</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">24 años</TAG> de edad que sufre una severa lesión por aplastamiento en miembro superior izquierdo. Tras una atención inicial, el paciente presenta exposición de la placa de osteosíntesis en el tercio distal del radio y trombosis de las anastomosis de revascularización radial y cubital a nivel del carpo. La ausencia de flujo reverso en la arteria interósea posterior fue constatada mediante Doppler de Ultrasonidos.
+    Tras el desbridamiento se procedió a realizar un bypass radio-cubital con injerto de vena safena para revascularización del miembro. Como medio de cobertura del material de osteosíntesis y la anastomosis distal del by-pass se planteó un colgajo en hélice de perforante interósea posterior de 15x7,5 cm en la cara dorsal del antebrazo. La perfornte cutánea se halló 4 cm proximal a la articulación distal.
+    Una vez que el colgajo pudo ser pivotado en los vasos perforantes cutáneos de la arteria interósea posterior se procedió a su rotación 90 grados por el borde cubital del antebrazo hasta alcanzar la cara volar del carpo. La zona donante se cubrió con un injerto de piel parcial.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Álvaro</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernández García</TAG> <TAG TYPE="CALLE">C/ Mariano Estrada Lorca</TAG> nº <TAG TYPE="NUMERO_TELEFONO">15</TAG>, <TAG TYPE="TERRITORIO">Portal 2, Piso 1ºD. El Palmar</TAG>. <TAG TYPE="TERRITORIO">30120</TAG> <TAG TYPE="TERRITORIO">Murcia</TAG>, <TAG TYPE="PAIS">España</TAG>. E-mail: <TAG TYPE="CORREO_ELECTRONICO">alvaro.fernandez@telefonica.net</TAG>.
+  </TEXT>
+</MEDDOCAN>

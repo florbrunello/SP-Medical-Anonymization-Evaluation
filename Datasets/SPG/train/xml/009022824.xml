@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Jordi Iglesias Luque
+DNI: 12736578Y
+Fecha de nacimiento: 10/02/1982
+Género: Varón
+Domicilio: Calle del León 86, 10R
+Ciudad: Bormujos, Álava, Pais Vasco
+Código postal: 01979
+Email: jordi.iglesias_luque@ioba.med.uva.es
+Teléfono fijo: +34 945 45 21 27
+FAX: +34 945 34 34 53
+NHC: 4901525
+NASS: 368777851983
+Condición de riesgo: Cirujano
+
+Datos asistenciales.
+Médico: Dr. Adolfo Cortés Herrero. NC 922681098. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 59510986
+Hospital: Hospital Universitario Príncipe de Asturias
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 43 años de edad, acompañado de su esposa. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.126.21, con dirección MAC 24:3F:C1:ED:B6:81. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Jordi" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Iglesias Luque" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="12736578Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="10/02/1982" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="143" text="Calle del León 86, 10R" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="160" text="Bormujos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="167" text="Álava" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="179" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="01979" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="244" text="jordi.iglesias_luque@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 945 45 21 27" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 945 34 34 53" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="304" end="311" text="4901525" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="318" end="330" text="368777851983" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="352" end="360" text="Cirujano" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="395" end="416" text="Adolfo Cortés Herrero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="421" end="430" text="922681098" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="432" end="472" text="Residente de 3° año en Gastroenterología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="474" end="567" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="569" end="598" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="600" end="605" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="607" end="613" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="615" end="621" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="641" end="651" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="662" end="670" text="59510986" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="681" end="724" text="Hospital Universitario Príncipe de Asturias" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="768" end="788" text="ascendencia asiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="792" end="799" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="826" end="832" text="esposa" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="940" end="957" text="24:3F:C1:ED:B6:81" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

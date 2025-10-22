@@ -1,0 +1,39 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 36	Gregorio Galan Conde
+T2	ID_SUJETO_ASISTENCIA 70 82	85295202R
+T3	FECHAS 104 114	17/05/1949
+T4	SEXO_SUJETO_ASISTENCIA 136 137	Hombre
+T5	CALLE 158 174	Calle de los Embajadores 83
+T6	TERRITORIO 196 204	Vigo, Galicia
+T7	TERRITORIO 206 212	36208
+T8	CORREO_ELECTRONICO 240 262	gregoriogalan@ioba.med.uva.es
+T9	NUMERO_TELEFONO 264 286	+34 987 43 54 89
+T10	NUMERO_TELEFONO 288 310	+34 687 71 72 96
+T11	ID_SUJETO_ASISTENCIA 312 326	1493995
+T12	ID_SUJETO_ASISTENCIA 328 342	468043486571
+T13	PROFESION 364 368	Médico
+T14	NOMBRE_PERSONAL_SANITARIO 378 406	Dra. Clara Plaza Carrillo
+T15	ID_TITULACION_PERSONAL_SANITARIO 408 419	554548869
+T16	PROFESION 420 424	Residente de 4° año en Medicina Interna
+T17	INSTITUCION 428 446	Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)
+T18	CALLE 448 466	Avenida Monforte de Lemos 3-5
+T19	TERRITORIO 468 476	28029
+T20	PAIS 478 484	España
+T21	FECHAS 488 498	05/05/1981
+T22	ID_CONTACTO_ASISTENCIAL 520 528	98057893
+T23	HOSPITAL 530 558	Hospital Universitario Virgen del Rocío
+T24	INFORME_CLINICO 560 586	Paciente con antecedentes de abuso de sustancias, con 31 años de edad, que acude al servicio de urgencias con síntomas de intoxicación aguda.
+T25	EDAD_SUJETO_ASISTENCIA 588 596	31 años
+T26	TIPO_SINTOMA 608 614	intoxicación aguda
+T27	TEMPERATURA 616 622	38,5 C
+T28	TENSION_ARTERIAL 624 634	120/80 mmHg
+T29	FRECUENCIA_CARDIACA 636 646	80 lpm
+T30	CONCIENCIA 648 654	consciente, orientado
+T31	ESTADO_NUTRICION 656 662	buen estado de nutrición e hidratación
+T32	EXPLORACION_FISICA 664 674	Tª 38,5 C; T.A: 120/80 mmHg; Fc: 80 lpm
+T33	HEMOGRAFIA 676 686	Hb 14,2 g/dl; leucocitos 12.000/mm3 (neutrófilos 60%)
+T34	COAGULACION 688 698	TQ 90%; TTPA 25,5 seg
+T35	BIOQUIMICA 700 710	Glucosa 100 mg/dl; urea 20 mg/dl; creatinina 1,0 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 15 U/l; GPT 25 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl
+T36	ORINA 712 722	sedimento normal
+T37	ANTECEDENTES 724 734	El paciente tiene antecedentes de abuso de sustancias, con historial de consumo de drogas ilegales
+T38	EVOLUCION 736 746	El paciente ha mostrado una buena evolución en el servicio de urgencias, con mejora de los síntomas de intoxicación aguda
+T39	REMISION 748 758	El paciente ha sido remitido a la Unidad de Salud Mental para seguir su tratamiento y seguimiento

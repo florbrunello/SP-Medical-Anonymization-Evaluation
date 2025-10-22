@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rosario</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mesa López</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">88991962V</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/07/1995</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Alcalá 53, 10R</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Fuenlabrada, León, Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">24544</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariarosario1962@uca.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 987 20 64 20</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 987 41 84 73</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3415139</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">468043486571</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente menor</TAG>.
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Verónica</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Acosta Paredes</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">030192747</TAG>. <TAG TYPE="PROFESION">Residente de 5° año en Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">13/07/2010</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Aranjuez</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="DIETA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> de edad, acompañado de su hermana. Presenta una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">convulsiones parciales</TAG> desde hace 2 semanas, con exacerbación en los últimos 3 días. La familia reporta que el paciente ha estado bien hasta que comenzó a presentar convulsiones en la noche del 10 de julio, con una frecuencia de 2-3 por noche. El paciente no tiene antecedentes médicos relevantes y no toma ningún medicamento.
+    La exploración física revela un paciente consciente y orientado, con una temperatura de <TAG TYPE="MEDICION_FISICA">36,8°C</TAG>, tensión arterial de <TAG TYPE="MEDICION_FISICA">100/60 mmHg</TAG>, frecuencia cardíaca de <TAG TYPE="MEDICION_FISICA">90 lpm</TAG> y frecuencia respiratoria de <TAG TYPE="MEDICION_FISICA">18 lpm</TAG>. No se observan signos de irritación ni de convulsiones en el momento de la evaluación.
+    Los análisis de laboratorio muestran un hemograma normal, con una cuenta de leucocitos de <TAG TYPE="MEDICION_FISICA">8.500/mm3</TAG>. El electroencefalograma (EEG) muestra una actividad anormal en el lóbulo temporal izquierdo, con una frecuencia de <TAG TYPE="MEDICION_FISICA">3-4 Hz</TAG>.
+    El diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">epilepsia parcial temporal izquierda</TAG> se basa en la historia clínica y los resultados del EEG. Se recomienda un tratamiento con medicamentos antiepilépticos, como la carbamazepina, para controlar las convulsiones y prevenir futuras exacerbaciones.
+    Antecedentes:
+    El paciente tiene una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">convulsiones parciales</TAG> desde hace 2 semanas, con exacerbación en los últimos 3 días.
+    Evolución y comentarios:
+    El paciente ha estado bien hasta que comenzó a presentar convulsiones en la noche del 10 de julio. La familia reporta que el paciente ha estado bien hasta ese momento.
+    Remitido por:
+    El paciente fue remitido por su médico de cabecera, quien se refirió a la consulta de Neurología por sospecha de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">epilepsia</TAG>.
+  </TEXT>
+</MEDDOCAN>

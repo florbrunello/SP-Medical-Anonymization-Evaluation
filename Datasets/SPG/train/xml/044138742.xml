@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Eva Vera Mateos
+DNI: 28293149K
+Fecha de nacimiento: 10/05/2009
+Género: Femenino
+Domicilio: Calle de Recoletos 46, 3Z
+Ciudad: Huelva, Alicante, Comunidad Valenciana
+Código postal: 03974
+Email: eva.veramateos@yahoo.com
+Teléfono fijo: +34 965 02 90 31
+Teléfono móvil: +34 665 78 34 76
+NHC: 8825808
+NASS: 837542254864
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dra. Gema Miguel Serra. NC 781768489. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/09/2011
+Episodio: 89953718
+Hospital: Hospital Universitario Fundación Alcorcón
+
+Informe clínico del paciente:
+Paciente musulman de 2 años de edad, acompañado de su madre. Se registró una sesión de huella dactilar, el código obtenido para revisarla es CA455TVE477. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Eva" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="43" text="Vera Mateos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="49" end="58" text="28293149K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="80" end="90" text="10/05/2009" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="99" end="107" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="144" text="Calle de Recoletos 46, 3Z" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="159" text="Huelva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="169" text="Alicante" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="191" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="03974" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="244" text="eva.veramateos@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 965 02 90 31" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="293" end="309" text="+34 665 78 34 76" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="315" end="322" text="8825808" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="329" end="341" text="837542254864" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="363" end="373" text="Paramédico" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="648" end="658" text="08/09/2011" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="669" end="677" text="89953718" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="688" end="729" text="Hospital Universitario Fundación Alcorcón" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="770" end="778" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="782" end="788" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="815" end="820" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="902" end="913" text="CA455TVE477" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

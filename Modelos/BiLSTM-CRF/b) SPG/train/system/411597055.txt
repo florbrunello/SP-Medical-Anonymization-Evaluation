@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Luis Vila Moreno
+DNI: 92140837P
+Fecha de nacimiento: 15/11/1956
+Género: Hombre
+Domicilio: Calle de Ibiza 76
+Ciudad: Getafe, Asturias, Asturias
+Código postal: 33470
+Email: moreno@us.es
+Teléfono fijo: +34 984 12 17 21
+Teléfono móvil: +34 784 68 45 23
+NHC: 8727143
+NASS: 760365730924
+Condición de riesgo: Carpintero
+
+Datos asistenciales.
+Médico: Dr. Juan Antonio Márquez Núñez. NC 731105091. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/03/1957
+Episodio: 43431578
+Hospital: Complejo Hospitalario Universitario de Cartagena
+Matrícula del coche: 1238QMH
+Modelo: Subaru Outback
+VIN: VSF2R97OJAA147734
+
+Informe clínico del paciente:
+Paciente no fumador de 3 meses de edad, acompañado de su madre. 

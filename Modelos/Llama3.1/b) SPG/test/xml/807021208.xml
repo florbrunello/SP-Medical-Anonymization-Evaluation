@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juana</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rico Parra</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">77500501T</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/05/2004</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de los Jardines 26, 7K</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Vigo</TAG>, <TAG TYPE="TERRITORIO">Guadalajara</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">19013</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">rico1351@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 949 05 26 97</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 649 85 61 54</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1216704</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Línea de Producción</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Julio Menendez Aranda</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">617614489</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Epidemiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/05/2004</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">41158901</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Reina Sofía de Córdoba</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7812TRC</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ram 1500</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSR18G70O4P571933</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">comunidades vulnerables</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0 meses</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se registró una consulta virtual desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP (en red interna)</TAG> <TAG TYPE="NUMERO_TELEFONO">192.168.96.26</TAG>, con <TAG TYPE="IDENTIF_BIOMETRICOS">dirección MAC</TAG> <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">63:47:28:47:6A:74</TAG>. Se realizó un <TAG TYPE="URL_WEB">expediente con URL</TAG> <TAG TYPE="URL_WEB">http://example-research.net//69359096Y</TAG>.
+  </TEXT>
+</MEDDOCAN>

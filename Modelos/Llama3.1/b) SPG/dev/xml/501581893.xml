@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Marcos</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mendoza</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">39865397A</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/12/1926</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Recoletos 73</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Getafe</TAG>, <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">14596</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">josemarcos.mendoza30@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 957 56 60 34</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 757 14 33 74</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0795164</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Sanitización</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rocío Macias Moreno</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">370676387</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Oftalmóloga Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">15/04/1967</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">13776605</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Puerto Real</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">discapacitado</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> de edad. Se registró una sesión de <TAG TYPE="PROFESION">escaneo retiniano</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">DI316KXV512</TAG>.
+  </TEXT>
+</MEDDOCAN>

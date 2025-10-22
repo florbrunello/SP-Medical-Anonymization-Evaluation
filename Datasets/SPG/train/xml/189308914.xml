@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ana Belén Blazquez Avila
+DNI: 47035716A
+Fecha de nacimiento: 10/06/1958
+Género: Femenino
+Domicilio: Calle de Alcalá 37, 10S
+Ciudad: Torrejón de Ardoz, Guipúzcoa, Pais Vasco
+Código postal: 20009
+Email: anabelen_blazquez-avila@ual.es
+Teléfono fijo: +34 943 23 81 30
+Teléfono móvil: +34 743 45 18 58
+NHC: 1307284
+Condición de riesgo: Científico de Investigación
+
+Datos asistenciales.
+Médico: Dr. Diego Salazar Ruiz. NC 989169741. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/03/1959
+Episodio: 06897462
+Centro de salud: Centro de Salud Centro
+Matrícula del coche: 3738DYS
+Modelo: Tesla Model 3
+VIN: VSJKATURBSZ112461
+
+Informe clínico del paciente:
+Paciente transeúnte de 9 meses de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Ana Belén" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="52" text="Blazquez Avila" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="47035716A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="10/06/1958" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="116" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="151" text="Calle de Alcalá 37, 10S" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="177" text="Torrejón de Ardoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="179" end="188" text="Guipúzcoa" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="190" end="200" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="216" end="221" text="20009" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="229" end="259" text="anabelen_blazquez-avila@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="275" end="291" text="+34 943 23 81 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="308" end="324" text="+34 743 45 18 58" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="330" end="337" text="1307284" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="359" end="386" text="Científico de Investigación" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="421" end="439" text="Diego Salazar Ruiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="444" end="453" text="989169741" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="455" end="510" text="Gastroenterólogo Especialista en Enfermedades Hepáticas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="512" end="605" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="607" end="636" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="638" end="643" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="645" end="651" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="653" end="659" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="679" end="689" text="12/03/1959" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="700" end="708" text="06897462" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="726" end="748" text="Centro de Salud Centro" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="770" end="777" text="3738DYS" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="805" end="822" text="VSJKATURBSZ112461" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="863" end="873" text="transeúnte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="877" end="884" text="9 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="911" end="917" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

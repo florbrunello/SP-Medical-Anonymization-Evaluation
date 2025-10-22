@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Escobar Valero
+DNI: 97265330D
+Fecha de nacimiento: 29/10/2023
+Género: Masculino
+Domicilio: Calle de Lope de Vega 18
+Ciudad: MelillaHuesca, Formentera, Islas Baleares
+Código postal: 07126
+Email: mmroGpzAKAG625@aol.com
+Teléfono fijo: +34 971 35 91 94
+Teléfono móvil: +34 671 77 93 97
+NHC: 1135662
+NASS: 778620930046
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dra. Olga Roca Rico. NC 883091011. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 88040058
+Centro de salud: Centro de Salud Alcalá de Henares
+Matrícula del coche: 6614YZB
+Modelo: Ford Mustang
+VIN: VSY2NA3RMSN440643
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de un año de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Juan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="47" text="Escobar Valero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="97265330D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="29/10/2023" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="112" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="148" text="Calle de Lope de Vega 18" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="170" text="MelillaHuesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="182" text="Formentera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="184" end="198" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="214" end="219" text="07126" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="227" end="249" text="mmroGpzAKAG625@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="265" end="281" text="+34 971 35 91 94" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="298" end="314" text="+34 671 77 93 97" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="320" end="327" text="1135662" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="334" end="346" text="778620930046" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="368" end="389" text="Trabajador de Almacén" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="654" end="664" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="675" end="683" text="88040058" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="701" end="734" text="Centro de Salud Alcalá de Henares" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="756" end="763" text="6614YZB" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="790" end="807" text="VSY2NA3RMSN440643" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="851" end="880" text="ascendencia del medio oriente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="884" end="890" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="917" end="922" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

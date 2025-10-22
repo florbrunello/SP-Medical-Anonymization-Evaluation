@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Noemí</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Torres Moya</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">67122042S</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/12/1928</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de San Millán 96</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Orense</TAG>, <TAG TYPE="TERRITORIO">Huesca</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">22805</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">cxfdfKV2r@outlook.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 974 87 60 51</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 974 21 41 97</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8040830</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">990810779099</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Laboratorio</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ángela Calderon De la Fuente</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">851914093</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/06/1937</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Delicias</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia indígena americana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de escaneo retiniano</TAG>, el <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">código obtenido para revisarla</TAG> es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">ZD521ICA370</TAG>.
+  </TEXT>
+</MEDDOCAN>

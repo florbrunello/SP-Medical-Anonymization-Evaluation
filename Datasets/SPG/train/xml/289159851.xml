@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Iñigo Pérez Benítez
+DNI: 49607783A
+Fecha de nacimiento: 15/11/2010
+Género: Masculino
+Domicilio: Calle del Prado 92
+Ciudad: Castellón de la Plana, Zaragoza, Aragón
+Código postal: 50535
+Email: inigo.perez1615@ub.edu
+Teléfono fijo: +34 976 45 31 68
+Teléfono móvil: +34 676 68 49 45
+NHC: 5804036
+Condición de riesgo: Limpiador
+
+Datos asistenciales.
+Médico: Dra. Luisa Domínguez Franco. NC 690303241. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/04/2015
+Hospital: Complejo Hospitalario Torrecárdenas
+
+Informe clínico del paciente:
+Paciente vegano de 4 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Iñigo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Pérez Benítez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="49607783A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="15/11/2010" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="112" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="142" text="Calle del Prado 92" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="172" text="Castellón de la Plana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="174" end="182" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="184" end="190" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="50535" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="241" text="inigo.perez1615@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 976 45 31 68" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="290" end="306" text="+34 676 68 49 45" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="312" end="319" text="5804036" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="341" end="350" text="Limpiador" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="624" end="634" text="11/04/2015" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="645" end="680" text="Complejo Hospitalario Torrecárdenas" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="721" end="727" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="731" end="737" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="764" end="771" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

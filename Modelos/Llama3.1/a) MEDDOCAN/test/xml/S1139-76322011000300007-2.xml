@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Salvador Castañeda</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3245806</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Av/ Herrera Oria, 83</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28030</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">20/02/2013</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">01/03/2016</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">del Rosario</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Luzardo</TAG>  NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 96028</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">tres años</TAG> de edad, traído a Urgencias por haber presentado en la hora previa dos episodios de un minuto de duración aproximadamente, consistentes en desconexión ambiental, mirada perdida e hipertonía generalizada; ambos episodios cedieron solos. Dos días antes había comenzado con diarrea y vómitos, no había presentado fiebre. No tenía antecedentes personales de interés. Entre sus antecedentes familiares destacaba únicamente un hermano de seis años que había presentado dos crisis febriles.
+    En la exploración física no presentaba datos de deshidratación ni alteraciones neurológicas. Se realizaron hemograma, bioquímica y gasometría venosa, que fueron normales.
+    Permaneció en observación durante 20 horas sin presentar nuevas crisis y buena tolerancia a la hidratación oral. En el coprocultivo se detectó <TAG TYPE="OTRO_NUMERO_IDENTIF">rotavirus</TAG>. Seguimiento posterior sin presentar nuevas crisis y con desarrollo psicomotor normal.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">del Rosario</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Luzardo</TAG> <TAG TYPE="CORREO_ELECTRONICO">saragarlu@telefonica.net</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Silvia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rubio Muñoz</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">24947341T</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/03/2017</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Cabeza del Rey Don Pedro 54</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ibiza</TAG>, <TAG TYPE="TERRITORIO">Pontevedra</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">36994</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">silvia@hotmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 986 65 39 39</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 786 76 45 53</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7773946</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">796945566293</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Microbiólogo</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco José Benítez Giménez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">334420812</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Principal en Optometría Clínica</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">16/10/2018</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">70962413</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Torrejón de Ardoz</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">usuario de drogas</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se registró una sesión de <TAG TYPE="PROFESION">escaneo retiniano</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">BV972FGC831</TAG>.
+  </TEXT>
+</MEDDOCAN>

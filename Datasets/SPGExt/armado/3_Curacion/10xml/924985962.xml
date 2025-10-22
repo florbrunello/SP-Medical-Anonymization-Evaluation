@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carmen Herrero Giménez</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">35217769P</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/04/1995</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Génova 17</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Onda</TAG>, <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">38531</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">carmen-herrerogimenez@isciii.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 922 16 91 07</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 722 30 03 94</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4885945</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">416217339812</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Repartidor</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Sandra Durán Cruz</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">935795080</TAG>. <TAG TYPE="PROFESION">Cardióloga</TAG> de <TAG TYPE="CENTRO_SALUD">Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/09/2007</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">41726908</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Barajas</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2295HKW</TAG>.
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Chrysler Pacifica</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSXS4NUVUXH483591</TAG>.
+    Informe clínico del paciente:
+    Paciente usuario de drogas de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">12 años</TAG> de edad, acompañado de su hermana, presenta un cuadro de intoxicación aguda por sustancias psicoactivas. La exploración física revela: Tª <TAG TYPE="FECHAS">38,5 C</TAG>; T.A: <TAG TYPE="FECHAS">110/70 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">12,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">15.200/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">80%</TAG>); plaquetas <TAG TYPE="FECHAS">220.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">40 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">85%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">120 mg/dl</TAG>; urea <TAG TYPE="FECHAS">30 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,0 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,7 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">15 U/l</TAG>; GPT <TAG TYPE="FECHAS">25 U/l</TAG>; GGT <TAG TYPE="FECHAS">35 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">140 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Rx tórax, Ecografía abdominal, TAC craneal) para evaluar posibles complicaciones. El paciente es estabilizado con tratamiento sintomático (antitérmicos, antiinflamatorios, reposo) y se le administra un tratamiento de desintoxicación con carbón activado y Naloxona.
+    Antecedentes:
+    El paciente tiene antecedentes de uso de drogas desde los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 años</TAG> de edad. Ha sido atendido en varias ocasiones por intoxicaciones agudas y ha sido tratado en la unidad de cuidados intensivos en dos ocasiones anteriores.
+    Evolución y comentarios:
+    El paciente ha mostrado una buena respuesta al tratamiento de desintoxicación y se encuentra estable en la unidad. Se le han realizado pruebas de imagen que no han evidenciado complicaciones. Se le seguirá tratando en la unidad de cuidados intensivos hasta que se asegure su estabilidad y se pueda trasladar a la unidad de psiquiatría para su evaluación y tratamiento.
+    Remitido por:
+    El paciente ha sido remitido por el <TAG TYPE="CENTRO_SALUD">Centro de Salud Barajas</TAG>, donde fue atendido en la unidad de emergencias.
+  </TEXT>
+</MEDDOCAN>

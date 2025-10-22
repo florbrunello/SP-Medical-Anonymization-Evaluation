@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Álvaro Pérez Maldonado
+DNI: 13972104H
+Fecha de nacimiento: 11/04/1940
+Género: M
+Domicilio: Calle del Oso 30, 9Y
+Ciudad: Pamplona, Cádiz, Andalucía
+Código postal: 11046
+Email: maldonado1853@salud.madrid.org
+Teléfono fijo: +34 956 98 53 37
+FAX: +34 956 50 42 64
+NHC: 5854132
+NASS: 999189511341
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dra. María Victoria Pacheco Heredia. NC 556664537. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 27/11/1974
+Episodio: 03784482
+Hospital: Hospital GaldaKao - Usansolo
+Matrícula del coche: 6191QLM
+Modelo: BMW 3 Series
+VIN: VSFU7U0LF9Y927708
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 34 años de edad, acompañado de su amiga. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Álvaro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Pérez Maldonado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="13972104H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="11/04/1940" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="139" text="Calle del Oso 30, 9Y" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="156" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="163" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="174" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="11046" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="233" text="maldonado1853@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 956 98 53 37" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="271" end="287" text="+34 956 50 42 64" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="293" end="300" text="5854132" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="307" end="319" text="999189511341" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="341" end="347" text="Minero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="605" end="615" text="27/11/1974" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="626" end="634" text="03784482" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="645" end="673" text="Hospital GaldaKao - Usansolo" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="695" end="702" text="6191QLM" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="729" end="746" text="VSFU7U0LF9Y927708" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="790" end="823" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="827" end="834" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="861" end="866" text="amiga" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

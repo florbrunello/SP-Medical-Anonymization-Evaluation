@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ángeles Jiménez Santana
+DNI: 65717278E
+Fecha de nacimiento: 23/01/1937
+Género: Femenino
+Domicilio: Calle del Fúcar 46, 9E
+Ciudad: Orense, Burgos, Castilla y León
+Código postal: 09208
+Email: angeles-jimenez-santana@ciberer.es
+Teléfono fijo: +34 947 52 20 46
+Teléfono móvil: +34 647 01 48 11
+NHC: 9820945
+NASS: 289443978027
+Condición de riesgo: Trabajador de Minería
+
+Datos asistenciales.
+Médico: Dr. Pedro José Durán Heredia. NC 076994564. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/01/1940
+Centro de salud: Centro de Salud Móstoles
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 2 años de edad, acompañado de su madre. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es BG179SBD402. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Ángeles" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="51" text="Jiménez Santana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="65717278E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="23/01/1937" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="115" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="127" end="149" text="Calle del Fúcar 46, 9E" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="164" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="172" text="Burgos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="189" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="09208" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="252" text="angeles-jimenez-santana@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="268" end="284" text="+34 947 52 20 46" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="301" end="317" text="+34 647 01 48 11" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="323" end="330" text="9820945" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="337" end="349" text="289443978027" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="371" end="392" text="Trabajador de Minería" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="427" end="451" text="Pedro José Durán Heredia" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="456" end="465" text="076994564" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="467" end="506" text="Investigador Clínico en Síndromes Raros" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="508" end="583" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="585" end="614" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="616" end="621" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="623" end="629" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="631" end="637" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="657" end="667" text="13/01/1940" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="685" end="709" text="Centro de Salud Móstoles" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="753" end="779" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="783" end="789" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="816" end="821" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="905" end="916" text="BG179SBD402" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

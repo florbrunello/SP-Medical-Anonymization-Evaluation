@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Pedro Salazar Castro
+DNI: 27991347W
+Fecha de nacimiento: 20/03/1993
+Género: Hombre
+Domicilio: Calle de Alberto Aguilera 63
+Ciudad: Denia, Lugo, Galicia
+Código postal: 27076
+Email: salazar.castro@gmail.com
+Teléfono fijo: +34 982 06 30 04
+Teléfono móvil: +34 682 48 11 63
+NHC: 8602543
+NASS: 190331065052
+
+Datos asistenciales.
+Médico: Dra. Ángela Ríos Bermudez. NC 563147770. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/02/2012
+Episodio: 72881943
+Hospital: Complejo Asistencial Universitario de León
+Matrícula del coche: 7598XQW
+Modelo: Subaru Outback
+VIN: VSO4BRMEQ7M539769
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 18 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.116.255, con dirección MAC 25:9E:0E:75:1A:47. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Juan Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="53" text="Salazar Castro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="27991347W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="20/03/1993" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="115" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="127" end="155" text="Calle de Alberto Aguilera 63" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="164" end="169" text="Denia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="175" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="184" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="27076" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="237" text="salazar.castro@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 982 06 30 04" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="286" end="302" text="+34 682 48 11 63" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="308" end="315" text="8602543" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="322" end="334" text="190331065052" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="612" end="622" text="01/02/2012" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="633" end="641" text="72881943" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="652" end="694" text="Complejo Asistencial Universitario de León" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="716" end="723" text="7598XQW" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="752" end="769" text="VSO4BRMEQ7M539769" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="813" end="837" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="841" end="848" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="965" end="982" text="25:9E:0E:75:1A:47" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

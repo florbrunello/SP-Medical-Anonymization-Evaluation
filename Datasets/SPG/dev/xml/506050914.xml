@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Eva Castillo Rico
+DNI: 78467456N
+Fecha de nacimiento: 22/04/2002
+Género: Femenino
+Domicilio: Calle de las Infantas 71
+Ciudad: Santa Cruz de Tenerife, Ciudad Real, Castilla-La Mancha
+Código postal: 13311
+Email: QCY0BKQo4u@ioba.med.uva.es
+Teléfono fijo: +34 926 08 28 71
+Teléfono móvil: +34 726 44 52 29
+NHC: 7997999
+
+Datos asistenciales.
+Médico: Dr. Bruno Hurtado Carrillo. NC 188839464. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/07/2018
+Episodio: 73035580
+Hospital: Hospital Universitario de Cabueñes
+
+Informe clínico del paciente:
+Paciente vegetariano de 16 años de edad, acompañado de su nuera. Se realizó un expediente con URL http://example-medical.edu//70509686R. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Eva" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="45" text="Castillo Rico" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="78467456N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="22/04/2002" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="109" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="145" text="Calle de las Infantas 71" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="176" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="178" end="189" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="191" end="209" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="225" end="230" text="13311" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="238" end="264" text="QCY0BKQo4u@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="280" end="296" text="+34 926 08 28 71" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="313" end="329" text="+34 726 44 52 29" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="335" end="342" text="7997999" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="377" end="399" text="Bruno Hurtado Carrillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="404" end="413" text="188839464" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="415" end="449" text="Residente de 3° año en Psiquiatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="451" end="521" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="523" end="552" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="554" end="559" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="561" end="567" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="569" end="575" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="595" end="605" text="25/07/2018" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="616" end="624" text="73035580" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="635" end="669" text="Hospital Universitario de Cabueñes" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="710" end="721" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="725" end="732" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="759" end="764" text="nuera" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="799" end="821" text="http://example-medical" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

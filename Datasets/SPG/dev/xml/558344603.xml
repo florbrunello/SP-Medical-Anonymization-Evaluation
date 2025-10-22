@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Belén Santiago Alarcon
+DNI: 89517814C
+Fecha de nacimiento: 03/01/1953
+Género: Mujer
+Domicilio: Calle del Oso 27
+Ciudad: Reus, Huelva, Andalucía
+Código postal: 21655
+Email: belen.santiago_alarcon1858@uhu.es
+Teléfono fijo: +34 959 93 79 81
+Teléfono móvil: +34 659 61 15 69
+NHC: 5261034
+Condición de riesgo: Dentista
+
+Datos asistenciales.
+Médico: Dr. José Izquierdo Martínez. NC 147971091. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/12/2022
+Episodio: 76771820
+Centro de salud: Centro de Salud Getafe
+
+Informe clínico del paciente:
+Paciente refugiado de 69 años de edad, acompañado de su pareja. Se realizó un expediente con URL http://example-radiology.edu//88393720B. Se registró una sesión de firma biométrica, el código obtenido para revisarla es TB087GGI381. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Belén" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="50" text="Santiago Alarcon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="89517814C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="03/01/1953" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="139" text="Calle del Oso 27" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="152" text="Reus" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="154" end="160" text="Huelva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="162" end="171" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="187" end="192" text="21655" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="200" end="233" text="belen.santiago_alarcon1858@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 959 93 79 81" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 659 61 15 69" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="304" end="311" text="5261034" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="333" end="341" text="Dentista" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="376" end="399" text="José Izquierdo Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="404" end="413" text="147971091" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="415" end="454" text="Investigador Clínico en Síndromes Raros" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="456" end="531" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="533" end="562" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="564" end="569" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="571" end="577" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="579" end="585" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="605" end="615" text="01/12/2022" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="626" end="634" text="76771820" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="652" end="674" text="Centro de Salud Getafe" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="715" end="724" text="refugiado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="728" end="735" text="69 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="762" end="768" text="pareja" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="803" end="827" text="http://example-radiology" TYPE="URL_WEB" comment=""/>
+        <ID id="T31" start="925" end="936" text="TB087GGI381" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

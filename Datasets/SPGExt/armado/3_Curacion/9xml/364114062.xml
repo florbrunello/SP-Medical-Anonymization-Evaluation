@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Héctor Heredia Bravo</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">29162507W</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">20/06/1976</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Fortuny 11</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Zafra, Málaga, Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">29627</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">heredia_bravo1022@protonmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 07 23 71</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 651 31 04 93</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2309171</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Operador de Máquina</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Ignacio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ibáñez Miranda</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">129817593</TAG>. Psiquiatra Especialista en Trastornos de Ansiedad. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">30/11/2009</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">33626802</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Puerta de Hierro Majadahonda</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG> de edad, acompañado de su compañero de estudio. El paciente ha presentado problemas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estrés</TAG> durante los últimos 6 meses, incluyendo síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad generalizada</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sudores</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tremblores</TAG> y dificultad para dormir. El paciente ha recibido tratamiento con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">medicamentos antipsicóticos</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiolíticos</TAG>, así como <TAG TYPE="OTROS_SUJETO_ASISTENCIA">terapia cognitivo-conductual (TCC)</TAG>. El paciente ha presentado una buena respuesta al tratamiento y ha estado recibiendo seguimiento regular con el equipo de psiquiatría.
+  </TEXT>
+</MEDDOCAN>

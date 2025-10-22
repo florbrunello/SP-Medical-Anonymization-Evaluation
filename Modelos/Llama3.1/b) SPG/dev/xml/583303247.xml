@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Raúl</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Camacho</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Esteban</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">87700378K</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">13/07/1995</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle del Barquillo 30</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Linares</TAG>, <TAG TYPE="TERRITORIO">Huesca</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">22720</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">raul_camacho@udc.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 974 44 89 84</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 774 10 04 10</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4785868</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">286259437360</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Granjero</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jorge Rojas Serrano</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">799502651</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neurólogo Investigador en Trastornos Cognitivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">26/07/2008</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">30208735</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Lugo</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>.
+  </TEXT>
+</MEDDOCAN>

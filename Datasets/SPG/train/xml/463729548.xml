@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Manuel Jesús Roca Gracia
+DNI: 38680588Q
+Fecha de nacimiento: 25/04/2018
+Género: M
+Domicilio: Calle de Villalar 70
+Ciudad: Dos Hermanas, La Rioja, La Rioja
+Código postal: 26842
+Email: manueljesus.gracia@ucm.es
+Teléfono fijo: +34 941 18 87 45
+Teléfono móvil: +34 741 33 13 93
+NHC: 0561912
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dra. Josefa Ortega Rivera. NC 966271212. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 05/08/2018
+Hospital: Hospital Universitario 12 de Octubre
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 3 meses de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="Manuel Jesús" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="52" text="Roca Gracia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="38680588Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="25/04/2018" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="141" text="Calle de Villalar 70" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="162" text="Dos Hermanas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="172" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="182" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="26842" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="236" text="manueljesus.gracia@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 941 18 87 45" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="285" end="301" text="+34 741 33 13 93" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="307" end="314" text="0561912" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="336" end="354" text="Ingeniero de Minas" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="605" end="615" text="05/08/2018" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="626" end="662" text="Hospital Universitario 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="706" end="730" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="734" end="741" text="3 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="768" end="774" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

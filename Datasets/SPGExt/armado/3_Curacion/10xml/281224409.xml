@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Francisco Manuel Lozano Fernández</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">63132533V</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/11/1992</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Paseo de la Castellana 56, 6Y</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">San Sebastián</TAG>, <TAG TYPE="TERRITORIO">Badajoz</TAG>, <TAG TYPE="TERRITORIO">Extremadura</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">06181</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jZyzn@ual.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 924 88 28 12</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 624 60 45 25</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3081701</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">364254061250</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Discapacitado</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Óscar Montoya Pascual</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">694860818</TAG>. <TAG TYPE="PROFESION">Neuropsicólogo Clínico Investigador</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">05/05/2009</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">39858779</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Carabanchel</TAG>.
+    Informe clínico del paciente:
+    Paciente discapacitado de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">16 años</TAG> de edad, con antecedentes de lesión cerebral en la infancia. Presenta dificultades en la comunicación verbal y motora, con una capacidad de movilidad limitada. La exploración física revela una postura corporal anormal, con una reducción en la amplitud de movimiento de las extremidades. La evaluación neurológica muestra una disminución en la función cognitiva, con dificultades en la atención y la memoria.
+    Los datos analíticos muestran una anormalidad en la electroencefalografía, con una actividad anormal en la corteza cerebral. La ecografía cerebral muestra una atrofia en la región temporal, con una reducción en la masa cerebral.
+    El tratamiento se centra en la rehabilitación física y terapia ocupacional, con el objetivo de mejorar la función motora y la capacidad de comunicación. Se han prescrito medicamentos para controlar los síntomas de la discapacidad y mejorar la calidad de vida del paciente.
+    La evolución del paciente ha sido estable, con una mejora lenta pero constante en la función motora y la capacidad de comunicación. Se han realizado revisiones periódicas para ajustar el tratamiento y evaluar la progresión del paciente.
+    Antecedentes:
+    El paciente tiene antecedentes de lesión cerebral en la infancia, con una historia de convulsiones y dificultades en la comunicación verbal y motora. La exploración física y la evaluación neurológica han mostrado una disminución en la función cognitiva y una reducción en la amplitud de movimiento de las extremidades.
+    Evolución y comentarios:
+    La evolución del paciente ha sido estable, con una mejora lenta pero constante en la función motora y la capacidad de comunicación. Se han realizado revisiones periódicas para ajustar el tratamiento y evaluar la progresión del paciente. Es importante seguir monitoreando el paciente y ajustar el tratamiento según sea necesario para asegurar una mejora óptima en la función motora y la calidad de vida.
+    Remitido por:
+    El paciente ha sido remitido al Centro de Salud Carabanchel por la unidad de rehabilitación del hospital. El objetivo del tratamiento es mejorar la función motora y la capacidad de comunicación del paciente, y asegurar una mejora óptima en la calidad de vida.
+  </TEXT>
+</MEDDOCAN>

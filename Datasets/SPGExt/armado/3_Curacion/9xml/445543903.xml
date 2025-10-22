@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Unai</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Campos Herrero</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">60878200Y</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/02/1926</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Primavera 71</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Lleida</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">18079</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">herrero1783@ual.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 96 82 84</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 758 42 77 06</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2440562</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">60878200Y</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Anciano</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. María Dolores</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bueno Palacios</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">656563223</TAG>. <TAG TYPE="PROFESION">Residente de 5° año en Neurología</TAG>.
+    Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). <TAG TYPE="INSTITUCION">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/04/2021</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="HOSPITAL">Hospital Universitario de Basurto</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7562CMR</TAG>.
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Tesla Model 3</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSUM4ETBKPF075576</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia nórdica o escandinava</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">95 años</TAG> de edad, acompañado de su hija, presenta un cuadro de <TAG TYPE="OTRO_NUMERO_IDENTIF">demencia leve</TAG> con pérdida de memoria y disminución de la función cognitiva. El paciente ha estado experimentando dificultades para recordar eventos recientes y ha mostrado una disminución en la capacidad para realizar tareas diarias.
+    La exploración física revela una presencia de signos de envejecimiento, incluyendo un declive en la función muscular y una disminución en la movilidad. El paciente también presenta una disminución en la función sensorial, incluyendo una disminución en la audición y la visión.
+    Los datos analíticos muestran un resultado de hemograma normal, con una cuenta de leucocitos de 7.500/mm3 y una cuenta de plaquetas de 250.000/mm3. La bioquímica muestra un resultado de glucosa de 120 mg/dl y un resultado de urea de 30 mg/dl.
+    Se han solicitado pruebas de imagen, incluyendo una resonancia magnética cerebral y una ecografía abdominal, para evaluar la presencia de cualquier patología subyacente. El paciente está actualmente en tratamiento con un régimen de medicamentos para manejar los síntomas de la demencia.
+    Evolución y comentarios:
+    El paciente ha estado recibiendo tratamiento durante las últimas semanas y ha mostrado una ligera mejoría en la función cognitiva. Sin embargo, el paciente sigue presentando dificultades para recordar eventos recientes y ha mostrado una disminución en la capacidad para realizar tareas diarias.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. María Dolores</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bueno Palacios</TAG>.
+    <TAG TYPE="PROFESION">Residente de 5° año en Neurología</TAG>
+    <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>
+    <TAG TYPE="INSTITUCION">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

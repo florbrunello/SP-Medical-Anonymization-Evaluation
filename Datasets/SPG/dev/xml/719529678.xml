@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Elisa Franco Serrano
+DNI: 43913349R
+Fecha de nacimiento: 29/11/1929
+Género: M
+Domicilio: Calle de Espoz y Mina 16, 8W
+Ciudad: Xirivella, Zaragoza, Aragón
+Código postal: 50261
+Email: elisa.franco_serrano@hotmail.com
+Teléfono fijo: +34 976 93 92 73
+Teléfono móvil: +34 776 76 70 13
+NHC: 3411810
+
+Datos asistenciales.
+Médico: Dra. Rosa Mateo Beltran. NC 767505831. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/03/1940
+Episodio: 40863095
+Centro de salud: Centro de Salud Coslada
+
+Informe clínico del paciente:
+Paciente exfumador de 10 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Elisa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Franco Serrano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="43913349R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="29/11/1929" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="145" text="Calle de Espoz y Mina 16, 8W" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="163" text="Xirivella" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="173" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="181" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="50261" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="242" text="elisa.franco_serrano@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="258" end="274" text="+34 976 93 92 73" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="291" end="307" text="+34 776 76 70 13" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="313" end="320" text="3411810" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="572" end="582" text="19/03/1940" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="593" end="601" text="40863095" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="619" end="642" text="Centro de Salud Coslada" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T18" start="683" end="692" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="696" end="703" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="730" end="735" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

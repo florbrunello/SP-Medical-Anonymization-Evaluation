@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan Pedro</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ortiz Paredes</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">42455576Z</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/11/2012</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Reina 85, 6G</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Bormujos</TAG>, <TAG TYPE="TERRITORIO">Pontevedra</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">36174</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">juanpedro_ortiz_paredes1775@hotmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 986 66 78 18</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 786 29 43 49</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8454326</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">226369242351</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente pediátrico</TAG>.
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cristina</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Delgado Calvo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">254752321</TAG>. <TAG TYPE="PROFESION">Cardióloga de Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">05/04/2023</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">16230002</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Tetuán</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="ASCENDENCIA_ETNICA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>, quien refiere una <TAG TYPE="OTRO_NUMERO_IDENTIF">visión borrosa</TAG> en ambos ojos desde hace unos días. El paciente no tiene antecedentes médicos relevantes. Se realizó una exploración física, que reveló una <TAG TYPE="OTRO_NUMERO_IDENTIF">visión borrosa</TAG> en ambos ojos, sin signos de dolor o sensibilidad.
+    Se solicitó una exploración oftalmológica, que incluyó una <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">escaneo retiniano</TAG>. El resultado de la exploración fue normal, sin signos de patología oculares. El <TAG TYPE="DIREC_PROT_INTERNET">código obtenido</TAG> para revisar la <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">escaneo</TAG> es <TAG TYPE="DIREC_PROT_INTERNET">SE856NFI236</TAG>.
+    El paciente se encuentra en buen estado general, sin signos de dolor o malestar. Se le recomendó un <TAG TYPE="OTRO_NUMERO_IDENTIF">seguimiento</TAG> en el <TAG TYPE="CENTRO_SALUD">Servicio de Oftalmología</TAG> para evaluar la evolución de la <TAG TYPE="OTRO_NUMERO_IDENTIF">visión</TAG>.
+    Antecedentes:
+    El paciente no tiene antecedentes médicos relevantes.
+    Evolución y comentarios:
+    El paciente se encuentra en buen estado general, sin signos de dolor o malestar. Se le recomendó un <TAG TYPE="OTRO_NUMERO_IDENTIF">seguimiento</TAG> en el <TAG TYPE="CENTRO_SALUD">Servicio de Oftalmología</TAG> para evaluar la evolución de la <TAG TYPE="OTRO_NUMERO_IDENTIF">visión</TAG>.
+    Remitido por:
+    Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cristina</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Delgado Calvo</TAG>, <TAG TYPE="PROFESION">Cardióloga de Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

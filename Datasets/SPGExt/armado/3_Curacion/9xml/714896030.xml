@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gabriel Jiménez Del Rio</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">76037367B</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/05/2001</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Juan Bravo 33</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Avilés, Zaragoza, Aragón</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">50991</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ftTDo5zL9lP@ciberned.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 976 96 84 56</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 676 71 89 72</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5947193</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">990621096333</TAG>.
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Químico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Eric Merino Aguilera</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 243357145</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/12/2020</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Santiago</TAG>.
+    Informe clínico del paciente:
+    Paciente exfumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">19 años</TAG> de edad, acompañado de su compañero de trabajo, con antecedentes de exposición a sustancias químicas en su lugar de trabajo. Presenta síntomas de irritación en los ojos y la piel, así como problemas respiratorios. La exploración física revela: Tª <TAG TYPE="OTRO_NUMERO_IDENTIF">37,2 C</TAG>; T.A: <TAG TYPE="OTRO_NUMERO_IDENTIF">120/80 mmHg</TAG>; Fc: <TAG TYPE="OTRO_NUMERO_IDENTIF">20 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="OTRO_NUMERO_IDENTIF">14,5 g/dl</TAG>; leucocitos <TAG TYPE="OTRO_NUMERO_IDENTIF">10.500/mm3</TAG> (neutrófilos <TAG TYPE="OTRO_NUMERO_IDENTIF">60%</TAG>); plaquetas <TAG TYPE="OTRO_NUMERO_IDENTIF">250.000/mm3</TAG>. VSG: <TAG TYPE="OTRO_NUMERO_IDENTIF">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="OTRO_NUMERO_IDENTIF">95%</TAG>; TTPA <TAG TYPE="OTRO_NUMERO_IDENTIF">22,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="OTRO_NUMERO_IDENTIF">110 mg/dl</TAG>; urea <TAG TYPE="OTRO_NUMERO_IDENTIF">20 mg/dl</TAG>; creatinina <TAG TYPE="OTRO_NUMERO_IDENTIF">0,8 mg/dl</TAG>; sodio <TAG TYPE="OTRO_NUMERO_IDENTIF">140 mEq/l</TAG>; potasio <TAG TYPE="OTRO_NUMERO_IDENTIF">4,2 mEq/l</TAG>; GOT <TAG TYPE="OTRO_NUMERO_IDENTIF">12 U/l</TAG>; GPT <TAG TYPE="OTRO_NUMERO_IDENTIF">20 U/l</TAG>; GGT <TAG TYPE="OTRO_NUMERO_IDENTIF">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="OTRO_NUMERO_IDENTIF">120 U/l</TAG>; calcio <TAG TYPE="OTRO_NUMERO_IDENTIF">9,2 mg/dl</TAG>. Orina: sedimento normal.
+    Con el diagnóstico de irritación química de la piel y los ojos, se instaura tratamiento sintomático (antihistamínicos, antiinflamatorios, reposo y protección de la piel y los ojos) así como tratamiento de apoyo (hidratación, oxígeno suplementario). El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio con seguimiento en consultas sucesivas.
+    Antecedentes:
+    El paciente tiene antecedentes de exposición a sustancias químicas en su lugar de trabajo, lo que ha llevado a la irritación de la piel y los ojos. También tiene antecedentes de problemas respiratorios en el pasado.
+    Evolución y comentarios:
+    El paciente ha mejorado significativamente de su cuadro tras la aplicación del tratamiento sintomático y de apoyo. Se ha establecido un seguimiento en consultas sucesivas para controlar la evolución del paciente.
+    Remitido por:
+    El paciente fue remitido por su compañero de trabajo, quien se encontraba en el lugar de trabajo en el momento de la exposición a las sustancias químicas.
+  </TEXT>
+</MEDDOCAN>

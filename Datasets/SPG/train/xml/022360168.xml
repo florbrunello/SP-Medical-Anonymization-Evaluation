@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Margarita Aguilar Mateo
+DNI: 70225091L
+Fecha de nacimiento: 13/07/2005
+Género: Femenino
+Domicilio: Calle de la Fe 67, 7N
+Ciudad: Puertollano, Cádiz, Andalucía
+Código postal: 11659
+Email: margarita.aguilar@uca.es
+Teléfono fijo: +34 956 18 25 72
+Teléfono móvil: +34 656 03 33 96
+NHC: 0237449
+NASS: 247267488122
+
+Datos asistenciales.
+Médico: Dr. Miguel Sáez Andres. NC 057073843. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/04/2023
+Centro de salud: Centro de Salud Leganés
+
+Informe clínico del paciente:
+Paciente musulman de 17 años de edad, acompañado de su conviviente. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es BL740UYE528. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Margarita" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="51" text="Aguilar Mateo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="70225091L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="13/07/2005" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="115" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="127" end="148" text="Calle de la Fe 67, 7N" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="168" text="Puertollano" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="175" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="186" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="11659" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="239" text="margarita.aguilar@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 956 18 25 72" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 656 03 33 96" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="0237449" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="324" end="336" text="247267488122" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="371" end="389" text="Miguel Sáez Andres" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="394" end="403" text="057073843" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="405" end="437" text="Residente de 2° año en Pediatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="439" end="514" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="516" end="545" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="547" end="552" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="554" end="560" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="562" end="568" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="588" end="598" text="11/04/2023" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="616" end="639" text="Centro de Salud Leganés" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="680" end="688" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="692" end="699" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="726" end="737" text="conviviente" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T29" start="821" end="832" text="BL740UYE528" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

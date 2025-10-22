@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ramón Rico Fuentes
+DNI: 10038516M
+Fecha de nacimiento: 28/12/1925
+Género: V
+Domicilio: Calle de Leganitos 18
+Ciudad: Aranda de Duero, Granada, Andalucía
+Código postal: 18323
+Email: ramon.fuentes@aol.com
+Teléfono fijo: +34 958 03 45 54
+Teléfono móvil: +34 758 43 52 30
+NHC: 2862825
+NASS: 695790762527
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dr. Juan Manuel De la Fuente Galan. NC 506534521. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 16/10/1990
+Episodio: 85205657
+Centro de salud: Centro de Salud Latina
+
+Informe clínico del paciente:
+Paciente vegetariano de 64 años de edad, acompañado de su hermano. Se realizó un expediente con URL http://example-dermatology.org//32743001U. El servidor para envío de información desde cual el usuario se comunica es smtp://example-dermatology.org. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es IX581WSE739. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Ramón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="46" text="Rico Fuentes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="10038516M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="28/12/1925" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="136" text="Calle de Leganitos 18" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="160" text="Aranda de Duero" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="169" text="Granada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="180" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="18323" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="230" text="ramon.fuentes@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="246" end="262" text="+34 958 03 45 54" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="279" end="295" text="+34 758 43 52 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="301" end="308" text="2862825" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="315" end="327" text="695790762527" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="349" end="355" text="Minero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="390" end="420" text="Juan Manuel De la Fuente Galan" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="425" end="434" text="506534521" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="436" end="474" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="476" end="543" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="545" end="572" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="574" end="579" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="581" end="588" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="590" end="596" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="616" end="626" text="16/10/1990" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="637" end="645" text="85205657" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="663" end="685" text="Centro de Salud Latina" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="726" end="737" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="741" end="748" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="775" end="782" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="817" end="843" text="http://example-dermatology" TYPE="URL_WEB" comment=""/>
+        <OTHER id="T32" start="935" end="961" text="smtp://example-dermatology" TYPE="URL_WEB" comment=""/>
+        <ID id="T33" start="1053" end="1064" text="IX581WSE739" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

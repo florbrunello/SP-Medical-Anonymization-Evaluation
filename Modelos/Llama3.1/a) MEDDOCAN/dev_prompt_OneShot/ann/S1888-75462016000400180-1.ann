@@ -1,0 +1,65 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 41	Ernesto David
+T2	NOMBRE_SUJETO_ASISTENCIA 54 65	Bazán Pérez
+T3	ID_SUJETO_ASISTENCIA 72 84	045645634/38
+T4	ID_ASEGURAMIENTO 91 106	92-91-90-8443-1
+T5	CALLE 119 142	Paseo de la Reforma 476
+T6	LOCALIDAD 144 150	Juárez
+T7	TERRITORIO 174 195	Ciudad de México CDMX
+T8	TERRITORIO 201 206	06600
+T9	FECHAS 250 260	19/10/1961
+T10	PAIS 184 190	México
+T11	EDAD_SUJETO_ASISTENCIA 282 289	53 años
+T12	SEXO_SUJETO_ASISTENCIA 68 69	H
+T13	FECHAS 317 327	02/11/2014
+T14	PROFESION 339 348	Urgencias
+T15	ID_CONTACTO_ASISTENCIAL 361 369	10541765
+T16	NOMBRE_PERSONAL_SANITARIO 380 387	Rodrigo
+T17	NOMBRE_PERSONAL_SANITARIO 388 402	Menéndez Arzac
+T18	EDAD_SUJETO_ASISTENCIA 447 454	53 años
+T19	OTROS_SUJETO_ASISTENCIA 656 739	fractura de tercio medio de clavícula derecha y fractura de arcos costales derechos
+T20	OTROS_SUJETO_ASISTENCIA 754 784	accidente con caída en calzada
+T21	CALLE 684 693	clavícula
+T22	CALLE 932 953	pared costal derechas
+T23	CALLE 1009 1033	miembro superior derecho
+T24	OTROS_SUJETO_ASISTENCIA 1134 1185	fractura de arcos costales derechos cuarto y quinto
+T25	OTROS_SUJETO_ASISTENCIA 1203 1226	hemotórax ni neumotórax
+T26	OTROS_SUJETO_ASISTENCIA 1230 1299	fractura de tercio medio de la clavícula derecha con tercer fragmento
+T27	PROFESION 1318 1348	tomografía axial computarizada
+T28	FECHAS 1350 1355	a, 1b
+T29	PROFESION 1384 1393	analgesia
+T30	PROFESION 1395 1427	antiinflamatorios no esteroideos
+T31	OTRO_NUMERO_IDENTIF 1444 1459	vendaje en ocho
+T32	OTROS_SUJETO_ASISTENCIA 1528 1635	edematización del miembro superior derecho sin pérdida de sensibilidad y con pulsos periféricos conservados
+T33	OTROS_SUJETO_ASISTENCIA 1775 1831	murmullo vesicular conservado en ambos campos pulmonares
+T34	OTROS_SUJETO_ASISTENCIA 1837 1878	estertores ni otros hallazgos patológicos
+T35	PROFESION 1883 1895	espirometría
+T36	PROFESION 1900 1918	electrocardiograma
+T37	PROFESION 1924 1938	ecocardiograma
+T38	PROFESION 1959 1978	analítica sanguínea
+T39	PROFESION 2007 2011	CHCM
+T40	PROFESION 2022 2033	neutrófilos
+T41	PROFESION 2041 2051	linfocitos
+T42	PROFESION 2059 2070	eosinófilos
+T43	PROFESION 2077 2088	fibrinógeno
+T44	PROFESION 2099 2102	GGT
+T45	PROFESION 2111 2119	D-Dímero
+T46	PROFESION 2144 2162	eco-Doppler venoso
+T47	OTROS_SUJETO_ASISTENCIA 2174 2231	trombosis venosa de las venas axilar, cefálica y basílica
+T48	OTROS_SUJETO_ASISTENCIA 2236 2327	compresión de la rama cubital del nervio cutáneo braquial medial a nivel del hiato basílico
+T49	FECHAS 2329 2334	a, 2b
+T50	OTRO_NUMERO_IDENTIF 2353 2368	vendaje en ocho
+T51	OTRO_NUMERO_IDENTIF 2373 2393	cabestrillo sencillo
+T52	PROFESION 2431 2455	rehabilitación funcional
+T53	PROFESION 2470 2503	tratamiento con Tinzapaina sódica
+T54	PROFESION 2518 2530	radiografías
+T55	PROFESION 2533 2555	utrasonografía-Doppler
+T56	OTROS_SUJETO_ASISTENCIA 2605 2626	fractura de clavícula
+T57	OTROS_SUJETO_ASISTENCIA 2663 2680	venas trombosadas
+T58	NOMBRE_PERSONAL_SANITARIO 2696 2699	Dr.
+T59	NOMBRE_PERSONAL_SANITARIO 380 402	Rodrigo Menéndez Arzac
+T60	INSTITUCION 2724 2753	Hospital Ángeles de las Lomas
+T61	CALLE 2755 2797	Consultorio 510 Vialidad de la barranca 22
+T62	LOCALIDAD 2799 2839	Colonia Valle de las palmas Huixquilucan
+T63	TERRITORIO 2841 2857	Estado de México
+T64	PAIS 268 274	México
+T65	CORREO_ELECTRONICO 2874 2901	rodrigomenendez@hotmail.com

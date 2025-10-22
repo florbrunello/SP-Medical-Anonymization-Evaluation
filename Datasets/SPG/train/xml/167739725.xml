@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gemma Blanco Moya
+DNI: 81614838M
+Fecha de nacimiento: 27/01/1991
+Género: Mujer
+Domicilio: Calle del Doctor Esquerdo 63
+Ciudad: Ciudad Real, Lérida, Cataluña
+Código postal: 25074
+Email: gemma_moya1244@hotmail.com
+Teléfono fijo: +34 973 05 34 75
+Teléfono móvil: +34 673 45 65 28
+NHC: 3343733
+NASS: 820617554126
+Condición de riesgo: Montador
+
+Datos asistenciales.
+Médico: Dra. María Mar Galan Rojas. NC 943761383. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/05/2006
+Episodio: 52394705
+Hospital: Hospital Universitario Fundació Jiménez Díaz
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 15 años de edad, acompañado de su hermana. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es HQ756PDI502. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Gemma" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="45" text="Blanco Moya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="81614838M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="27/01/1991" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="106" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="146" text="Calle del Doctor Esquerdo 63" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="166" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="174" text="Lérida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="184" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="25074" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="239" text="gemma_moya1244@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 973 05 34 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 673 45 65 28" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="3343733" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="324" end="336" text="820617554126" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="358" end="366" text="Montador" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="637" end="647" text="03/05/2006" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="658" end="666" text="52394705" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="677" end="721" text="Hospital Universitario Fundació Jiménez Díaz" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="765" end="789" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="793" end="800" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="827" end="834" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="917" end="928" text="HQ756PDI502" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mercedes Rico Acosta</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">29899424E</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/01/1972</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de las Yeserías 76, 7K</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">San Pedro del Pinatar, Ibiza, Islas Baleares</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">07110</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mercedes-acosta@gmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 12 79 55</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 671 26 75 65</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9936105</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">233773981514</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Limpiador</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Susana</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bernal Palacios</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">125859519</TAG>. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/07/1995</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">26464917</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Valdemoro</TAG>.
+    Informe clínico del paciente:
+    Paciente de ascendencia asiática de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">23 años</TAG> de edad, con antecedentes de ansiedad generalizada y depresión mayor, que se presenta en el servicio con síntomas de agorafobia y pánico. La exploración física revela: Tª <TAG TYPE="FECHAS">37,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">13,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">8.500/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>); plaquetas <TAG TYPE="FECHAS">180.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">20 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">90%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">90 mg/dl</TAG>; urea <TAG TYPE="FECHAS">20 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">0,8 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">140 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">4,2 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">15 U/l</TAG>; GPT <TAG TYPE="FECHAS">20 U/l</TAG>; GGT <TAG TYPE="FECHAS">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">120 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Con el diagnóstico de ansiedad generalizada y depresión mayor, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación testicular) así como tratamiento psicológico: terapia cognitivo-conductual y terapia de aceptación y compromiso. El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde continúa con la terapia psicológica.
+  </TEXT>
+</MEDDOCAN>

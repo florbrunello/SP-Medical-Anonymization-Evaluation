@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Julio</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aparicio</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Romero</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">49749584D</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">21/11/2011</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Juan Bravo 6</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Girona</TAG>, <TAG TYPE="TERRITORIO">Zaragoza</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">50888</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">julio-aparicio-romero@isciii.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 976 33 45 19</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 976 30 82 24</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0513208</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">063584925819</TAG>
+  Condición de riesgo: 
+            </TEXT>
+  <TEXT>
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Blanca Heredia Martín</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">973973092</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuróloga Investigadora en Trastornos Cognitivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">02/02/2020</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital General Universitario Reina Sofía</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2237WBG</TAG>
+  Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Mercedes-Benz C-Class</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSQ61DIY04X605067</TAG>
+            </TEXT>
+  <TEXT>
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia oceánica</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermana</TAG>.
+            </TEXT>
+  </MEDDOCAN>

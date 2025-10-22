@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Anna Aparicio González
+DNI: 29995111Y
+Fecha de nacimiento: 22/11/1951
+Género: F
+Domicilio: Calle del Duque de Alba 64, 10M
+Ciudad: Xirivella, Alicante, Comunidad Valenciana
+Código postal: 03008
+Email: anna_aparicio@imibic.org
+Teléfono fijo: +34 965 60 03 36
+Teléfono móvil: +34 765 81 02 37
+NHC: 0934024
+NASS: 489787858858
+Condición de riesgo: Trabajador Agrícola
+
+Datos asistenciales.
+Médico: Dr. Luis Rueda Galan. NC 578012991. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/03/1965
+Episodio: 06206948
+Centro de salud: Centro de Salud Málaga Oeste
+
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 13 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Anna" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="50" text="Aparicio González" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="29995111Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="22/11/1951" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="150" text="Calle del Duque de Alba 64, 10M" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="168" text="Xirivella" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="178" text="Alicante" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="180" end="200" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="216" end="221" text="03008" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="229" end="253" text="anna_aparicio@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="269" end="285" text="+34 965 60 03 36" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="302" end="318" text="+34 765 81 02 37" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="324" end="331" text="0934024" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="338" end="350" text="489787858858" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="372" end="391" text="Trabajador Agrícola" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="426" end="442" text="Luis Rueda Galan" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="447" end="456" text="578012991" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="458" end="493" text="Neuropsicólogo Clínico Investigador" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="495" end="565" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="567" end="596" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="598" end="603" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="605" end="611" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="613" end="619" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="639" end="649" text="15/03/1965" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="660" end="668" text="06206948" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="686" end="714" text="Centro de Salud Málaga Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="758" end="788" text="ascendencia africana del norte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="792" end="799" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="826" end="831" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Belén Guillen Moya
+DNI: 75262918H
+Fecha de nacimiento: 05/05/1950
+Género: M
+Domicilio: Calle del León 60
+Ciudad: Segovia, Lérida, Cataluña
+Código postal: 25878
+Email: guillen-moya@udc.es
+Teléfono fijo: +34 973 28 31 56
+Teléfono móvil: +34 773 14 10 71
+NHC: 7781864
+NASS: 130916004266
+
+Datos asistenciales.
+Médico: Dr. Rafael Casado Abad. NC 582853156. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/10/1964
+Episodio: 41112836
+Hospital: Hospital Universitario de la Princesa
+Matrícula del coche: 0574SYQ
+Modelo: Kia Sorento
+VIN: VSE1I6E2MSF241298
+
+Informe clínico del paciente:
+Paciente vegetariano de 14 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-medical.edu//55104839X. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Belén" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="46" text="Guillen Moya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="75262918H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="05/05/1950" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="132" text="Calle del León 60" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="141" end="148" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="150" end="156" text="Lérida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="158" end="166" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="182" end="187" text="25878" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="195" end="214" text="guillen-moya@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="230" end="246" text="+34 973 28 31 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="263" end="279" text="+34 773 14 10 71" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="285" end="292" text="7781864" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="299" end="311" text="130916004266" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="346" end="364" text="Rafael Casado Abad" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="369" end="378" text="582853156" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="380" end="419" text="Investigador Clínico en Síndromes Raros" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="421" end="496" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="498" end="527" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="529" end="534" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="536" end="542" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="544" end="550" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="570" end="580" text="09/10/1964" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="591" end="599" text="41112836" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="610" end="647" text="Hospital Universitario de la Princesa" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="669" end="676" text="0574SYQ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="702" end="719" text="VSE1I6E2MSF241298" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="760" end="771" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="775" end="782" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="809" end="814" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="849" end="871" text="http://example-medical" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

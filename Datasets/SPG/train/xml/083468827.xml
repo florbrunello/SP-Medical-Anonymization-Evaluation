@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sebastián Espinosa Flores
+DNI: 75812855W
+Fecha de nacimiento: 29/04/1969
+Género: H
+Domicilio: Calle de Arenal 3
+Ciudad: Ciudad autónoma de Melilla, Melilla, 
+Código postal: 51940
+Email: sebastian.espinosa-flores@ioba.med.uva.es
+Teléfono fijo: +34 951 17 35 28
+Teléfono móvil: +34 651 62 85 28
+NHC: 8846957
+NASS: 797769606499
+Condición de riesgo: Trabajador Industrial
+
+Datos asistenciales.
+Médico: Dra. Carla Román Marti. NC 694260634. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/03/2008
+Hospital: Complejo Asistencial Universitario de León
+
+Informe clínico del paciente:
+Paciente no fumador de 38 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Sebastián" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="53" text="Espinosa Flores" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="75812855W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="29/04/1969" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="139" text="Calle de Arenal 3" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="174" text="Ciudad autónoma de Melilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="176" end="184" text="Melilla," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="201" end="206" text="51940" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="214" end="255" text="sebastian.espinosa-flores@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="271" end="287" text="+34 951 17 35 28" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="304" end="320" text="+34 651 62 85 28" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T13" start="326" end="333" text="8846957" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="340" end="352" text="797769606499" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T15" start="374" end="395" text="Trabajador Industrial" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="665" end="675" text="02/03/2008" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="686" end="728" text="Complejo Asistencial Universitario de León" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="769" end="779" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="783" end="790" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="817" end="822" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

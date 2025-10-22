@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan Carlos Calderon Gómez</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">29774752X</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">29/07/2012</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Lavapiés 61</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ponferrada, Granada, Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">18275</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">N5x7mdl@uca.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 51 14 19</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 958 64 02 27</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8612959</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">774768361297</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Sanitización</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alejandro Camacho López</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">980563421</TAG>. Especialista en <TAG TYPE="PROFESION">Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/01/2014</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">90011215</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Collado Villalba</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año</TAG> de edad, acompañado de su abuela, que refiere <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolores abdominales</TAG> de localización variable en el último mes y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG> en la última semana. Antes de comenzar el cuadro estuvo en un parque infantil, donde jugó con otros niños y comió una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">barra de chocolate</TAG>.
+    La exploración física revela: Tª <TAG TYPE="OTROS_SUJETO_ASISTENCIA">37,5 C</TAG>; T.A: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">105/70 mmHg</TAG>; Fc: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración ni fiebre. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="OTROS_SUJETO_ASISTENCIA">12,5 g/dl</TAG>; leucocitos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">12.000/mm3</TAG> (neutrófilos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">60%</TAG>); plaquetas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">250.000/ mm3</TAG>. VSG: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="OTROS_SUJETO_ASISTENCIA">95%</TAG>; TTPA <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">110 mg/dl</TAG>; urea <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25 mg/dl</TAG>; creatinina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">0,8 mg/dl</TAG>; sodio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">138 mEq/l</TAG>; potasio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3,5 mEq/l</TAG>; GOT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">12 U/l</TAG>; GPT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 U/l</TAG>; GGT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120 U/l</TAG>; calcio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Durante el ingreso se solicitan Hemocultivos: negativos para bacterias y virus. Las pruebas de imagen solicitadas (Ecografía abdominal, TAC craneal) no evidencian patología significativa.
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gastroenteritis viral</TAG> se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">antitérmicos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antiinflamatorios</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG> y elevación de la cama) así como tratamiento de rehidratación oral. El paciente mejora significativamente de su cuadro tras 48 horas de ingreso, decidiéndose el alta a su domicilio.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alergia</TAG> a los <TAG TYPE="OTROS_SUJETO_ASISTENCIA">huevos</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">leche</TAG>. Ha recibido <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vacunas</TAG> completas de rutina.
+    Evolución y comentarios:
+    El paciente ha evolucionado de manera satisfactoria durante su estancia en el hospital. Ha recibido tratamiento adecuado y ha mejorado significativamente de su cuadro.
+    Remitido por:
+    El paciente ha sido remitido a su domicilio con instrucciones de seguimiento y control de su evolución.
+  </TEXT>
+</MEDDOCAN>

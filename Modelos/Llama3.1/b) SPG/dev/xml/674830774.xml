@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Emilio</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cruz</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Márquez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">70987230F</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/04/1954</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Lope de Vega 100, 4A</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ermua</TAG>, <TAG TYPE="TERRITORIO">Ibiza</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07893</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">emilio-cruz_marquez1861@outlook.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 46 60 30</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 771 27 73 95</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8045983</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">660160835764</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pedro José Muñoz López</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">854017271</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Gastroenterólogo Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/12/2023</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">70862538</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Norte</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia europea oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">69 años</TAG> de edad. Se realizó un expediente con <TAG TYPE="URL_WEB">http://example-dermatology.org//70509686R</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Patricia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Herrera Benito</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">67558794C</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/09/1945</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Sombrerete 81, 8O</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Novelda</TAG>, <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">14882</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">benito@ual.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 957 54 50 25</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 657 60 19 86</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7939157</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">894065347089</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Policía</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Vicente Soto Camacho</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">166077240</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardiólogo Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/06/1999</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitari de Bellvitge</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">53 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">nuera</TAG>. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-neurology.com</TAG>
+  </TEXT>
+</MEDDOCAN>

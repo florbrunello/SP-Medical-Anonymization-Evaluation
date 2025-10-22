@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Albert Maldonado Cano
+DNI: 86233990K
+Fecha de nacimiento: 25/08/1993
+Género: Varón
+Domicilio: Calle de Fortuny 94, 8H
+Ciudad: Cádiz, Sevilla, Andalucía
+Código postal: 41967
+Email: albert_cano@salud.madrid.org
+Teléfono fijo: +34 954 20 21 40
+Teléfono móvil: +34 654 87 38 06
+NHC: 5502094
+NASS: 781524440092
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dra. Remedios García Ortega. NC 950473460. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/05/2006
+Episodio: 51704632
+Centro de salud: Centro de Salud Villaverde
+Matrícula del coche: 6786DRI
+Modelo: Mazda CX-5
+VIN: VSRKDZOS7YZ214569
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 12 años de edad, acompañado de su padre. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es QY038QEM992. Se registró una sesión de firma biométrica, el código obtenido para revisarla es CX945EAT992. 

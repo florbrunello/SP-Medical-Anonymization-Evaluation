@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Borja</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Montero Conde</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">39582688X</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/08/1997</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Segovia 7, 6O</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ponferrada</TAG>, <TAG TYPE="TERRITORIO">Cuenca</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">16517</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">borja_montero@ub.edu</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 969 96 76 85</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 669 99 84 50</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5054082</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José María Molina Montero</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">271273529</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Principal en Optometría Clínica</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">29/04/2011</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">50737352</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Fuenlabrada</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermana</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VZ320NMT837</TAG>.
+  </TEXT>
+</MEDDOCAN>

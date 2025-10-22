@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santiago Serra</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">De la Fuente</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">31798218M</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/01/1993</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Toledo 94</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Béjar</TAG>, <TAG TYPE="TERRITORIO">Orense</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">32138</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">delafuente605@ucm.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 988 51 94 37</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 988 75 07 21</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5457401</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">795881939769</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Maquinaria Pesada</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Esteban Gallego Gutiérrez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">295539489</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/09/2002</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">94084297</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Ciudad Lineal</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>.
+    El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-labs.com</TAG>
+  </TEXT>
+</MEDDOCAN>

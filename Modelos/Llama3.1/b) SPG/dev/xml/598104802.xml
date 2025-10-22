@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ignacio</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cortés Silva</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">12596676J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/08/2003</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Arganzuela 38</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Vigo</TAG>, <TAG TYPE="TERRITORIO">Valencia</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">46176</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">cortes-silva@protonmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 960 92 30 66</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 960 96 32 85</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8667250</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">235931208140</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Sanitización</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ainhoa Román Camacho</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">154396748</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuropsicóloga Clínica Investigadora</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">07/07/2004</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Ronda</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">9864HXS</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Tesla Model 3</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSM3QFDQ3ED115676</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 meses</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>.
+  </TEXT>
+</MEDDOCAN>

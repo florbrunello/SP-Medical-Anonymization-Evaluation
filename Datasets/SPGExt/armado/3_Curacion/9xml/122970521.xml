@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Francisco Diez Mora</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">99791026Y</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/10/1990</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Preciados 20</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Elche</TAG>, <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">34018</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">diez@ciberisciii.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 29 39 42</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 679 80 32 57</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3667185</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">468043486571</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Migrante</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Carla Merino López</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">464408193</TAG>. <TAG TYPE="PROFESION">Cardióloga</TAG> de <TAG TYPE="CENTRO_SALUD">Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">23/10/2004</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">58309279</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitari i Politècnic La Fe</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Francisco Diez Mora</TAG>, <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">migrante</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> de edad, acompañado de su abuela, que refiere <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal crónico</TAG> desde hace <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3 meses</TAG>, con episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diarrea</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG>. La exploración física revela: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Tª 37,5 C</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">T.A: 120/80 mmHg</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Fc: 90 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración abdominal se aprecia una masa en el epigastrio, no dolorosa a la palpación, con pérdida del límite hepático y transiluminación negativa.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hemograma</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hb 12,5 g/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">leucocitos 10.500/mm3</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">neutrófilos 60%</TAG>); <TAG TYPE="OTROS_SUJETO_ASISTENCIA">plaquetas 250.000/mm3</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">VSG</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 mm 1ª hora</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Coagulación</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TQ 90%</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TTPA 25,5 seg</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Bioquímica</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Glucosa 100 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urea 25 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina 1,0 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sodio 135 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">potasio 3,8 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GOT 15 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GPT 20 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GGT 35 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fosfatasa alcalina 140 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">calcio 8,5 mg/dl</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Orina</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sedimento normal</TAG>.
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hepatitis viral B</TAG> se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">antitérmicos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antiinflamatorios</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">elevación de la cama</TAG>) así como tratamiento antiviral específico: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Entecavir 0,5 mg vía oral cada 24 horas</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">durante 6 meses</TAG>). El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde completará la pauta de tratamiento antiviral.
+    Evolución y comentarios:
+    El paciente ha cumplido con la pauta de tratamiento antiviral durante <TAG TYPE="OTROS_SUJETO_ASISTENCIA">6 meses</TAG>, sin presentar <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">signos de recaída</TAG>. En revisiones sucesivas en consultas se constató la completa remisión del cuadro.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Carla Merino López</TAG>, <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cardióloga</TAG> de <TAG TYPE="CENTRO_SALUD">Unidad de Cuidados Intensivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

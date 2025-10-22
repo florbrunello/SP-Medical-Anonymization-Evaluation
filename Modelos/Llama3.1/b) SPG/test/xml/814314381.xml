@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alba</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cortés Escobar</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">48657005E</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/09/1939</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Ibiza 53</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Castellón de la Plana</TAG>, <TAG TYPE="TERRITORIO">Valencia</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">46951</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">alba-cortes@outlook.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 960 30 33 00</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 760 51 09 81</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0020769</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">899751223815</TAG>
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">consumidor de alcohol</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Amparo Márquez Menendez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">959403633</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/08/2023</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Majadahonda</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">83 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermana</TAG>.
+    Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP</TAG> (<TAG TYPE="DIREC_PROT_INTERNET">192.168.48.139</TAG>), con <TAG TYPE="DIREC_PROT_INTERNET">dirección MAC</TAG> (<TAG TYPE="DIREC_PROT_INTERNET">6E:9B:A0:8D:46:A7</TAG>). Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de escaneo del iris</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código obtenido</TAG> para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">ZC117XEU973</TAG>.
+  </TEXT>
+</MEDDOCAN>

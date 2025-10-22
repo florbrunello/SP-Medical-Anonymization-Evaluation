@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ricardo Mendoza Simon</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">88478353K</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/11/1965</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de los Jardines 58</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Elche, Sevilla, Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">41897</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ricardo_mendoza@icloud.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 05 27 71</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 954 36 45 14</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6055689</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">973922950955</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Germán Escobar Redondo</TAG> NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">436393321</TAG>. Residente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3° año</TAG> en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">14/03/2017</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Norte</TAG>
+    Informe clínico del paciente:
+    El paciente, un hombre de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">51 años</TAG>, fue ingresado en el hospital con síntomas de dolor abdominal crónico y pérdida de peso. La exploración física reveló un abdomen blando y depresible, sin masas ni megalias. La exploración neurológica no mostró signos meníngeos ni datos de focalidad. Los análisis de sangre mostraron una hiperbilirrubinemia leve y una elevación de la enzima hepática alanina aminotransferasa (ALT).
+    Se solicitó una exploración de imagen para evaluar la posible causa de los síntomas del paciente. La ecografía abdominal mostró un hígado de tamaño normal con una leve hiperecogenicidad en la zona de la corteza hepática. La exploración de la vía biliar no mostró obstrucciones ni dilataciones.
+    Con el diagnóstico de hepatitis crónica leve, se instauró un tratamiento con medicamentos antiinflamatorios y hepatoprotectores. El paciente fue seguido de cerca y se realizaron análisis de sangre periódicos para evaluar la respuesta al tratamiento.
+    La evolución del paciente fue favorable, con una disminución de los síntomas y una mejora en los análisis de sangre. El paciente fue dado de alta del hospital y se le recomendó seguir un régimen de vida saludable y evitar el consumo de alcohol y medicamentos hepatotóxicos.
+    </TEXT>
+</MEDDOCAN>

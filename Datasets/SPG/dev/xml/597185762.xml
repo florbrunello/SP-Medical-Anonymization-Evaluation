@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Adam Blanco Guzman
+DNI: 76036725J
+Fecha de nacimiento: 18/07/1941
+Género: Hombre
+Domicilio: Calle de Embajadores 63
+Ciudad: Castellón de la Plana, Vizcaya, Pais Vasco
+Código postal: 48394
+Email: blanco.guzman1867@hotmail.com
+Teléfono fijo: +34 946 49 34 70
+Teléfono móvil: +34 746 97 84 22
+NHC: 9928716
+NASS: 949853681759
+Condición de riesgo: Técnico de Radiología
+
+Datos asistenciales.
+Médico: Dra. Mercedes Prieto Cabrera. NC 976855769. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/07/1988
+Hospital: Hospital Clínic Universitario San Cecilio
+
+Informe clínico del paciente:
+Paciente de ascendencia australiana de 46 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Adam" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="46" text="Blanco Guzman" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="76036725J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="18/07/1941" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="108" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="143" text="Calle de Embajadores 63" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="173" text="Castellón de la Plana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="175" end="182" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="184" end="194" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="48394" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="252" text="blanco.guzman1867@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="268" end="284" text="+34 946 49 34 70" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="301" end="317" text="+34 746 97 84 22" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="323" end="330" text="9928716" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="337" end="349" text="949853681759" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="371" end="392" text="Técnico de Radiología" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="676" end="686" text="03/07/1988" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="697" end="738" text="Hospital Clínic Universitario San Cecilio" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="782" end="805" text="ascendencia australiana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="809" end="816" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

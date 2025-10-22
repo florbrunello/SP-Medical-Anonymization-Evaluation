@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mohammed</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marín Rojas</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">37086932F</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">20/09/2004</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Lope de Vega 62, 5W</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Córdoba, Madrid, Madrid</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">28594</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">marin@gmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 912 75 16 40</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 915 50 54 14</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3975707</TAG>.
+    NASS: <TAG TYPE="ID_SUJETO_ASISTENCIA">37086932F</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Estudiante universitario</TAG>.
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Paz</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jurado Beltran</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">573629885</TAG>. <TAG TYPE="PROFESION">Investigadora Principal en Optometría Clínica</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">92918996</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de A Coruña</TAG>.
+    Informe clínico del paciente:
+    Paciente no fumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> de edad, sin antecedentes médicos relevantes, que acude al servicio de emergencias con síntomas de dolor abdominal crónico y pérdida de apetito durante las últimas semanas. El paciente informa que ha estado experimentando dificultades para digerir alimentos y ha perdido aproximadamente 5 kg en las últimas 2 semanas.
+    La exploración física revela: Tª <TAG TYPE="FECHAS">37,2 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración abdominal se aprecia dolor en el epigastrio, sin masas ni megalias.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">14,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">8.500/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">110 mg/dl</TAG>; urea <TAG TYPE="FECHAS">20 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,0 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">140 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">4,2 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">20 U/l</TAG>; GPT <TAG TYPE="FECHAS">30 U/l</TAG>; GGT <TAG TYPE="FECHAS">40 U/l</TAG>.
+    Se solicitan pruebas de imagen (Ecografía abdominal y TAC abdominal) para evaluar la causa del dolor abdominal. El diagnóstico se realizará una vez se obtengan los resultados de las pruebas.
+    Antecedentes:
+    El paciente informa que ha estado tomando medicamentos para la ansiedad y la depresión durante los últimos 6 meses, pero no ha notado ningún efecto secundario. El paciente también informa que ha estado bebiendo alcohol en exceso durante las últimas semanas.
+    Evolución y comentarios:
+    El paciente se encuentra en observación en la unidad de cuidados intensivos. Se le han administrado analgésicos para controlar el dolor y se le está evaluando la necesidad de hospitalización.
+    Remitido por:
+    El paciente fue remitido por el servicio de emergencias del hospital.
+  </TEXT>
+</MEDDOCAN>

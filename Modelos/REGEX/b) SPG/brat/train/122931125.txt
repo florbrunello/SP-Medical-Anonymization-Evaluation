@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Antonia Vicente Marcos
+DNI: 44876949Q
+Fecha de nacimiento: 08/11/1925
+Género: Mujer
+Domicilio: Calle de Mesón de Paredes 32, 1W
+Ciudad: Pamplona, Ciudad Real, Castilla-La Mancha
+Código postal: 13507
+Email: antonia-marcos1886@ciberer.es
+Teléfono fijo: +34 926 74 30 11
+Teléfono móvil: +34 726 45 73 27
+NHC: 7617992
+NASS: 860866347794
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dr. Antonio José Hurtado Cuesta. NC 049265131. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/11/2009
+Hospital: Hospital Universitario La Paz
+Matrícula del coche: 2505HXN
+Modelo: Toyota RAV4
+VIN: VSJK4RZ123X922226
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 84 años de edad, acompañado de su hermana. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es JU615FWK451. Se registró una sesión de firma biométrica, el código obtenido para revisarla es TK089NQF430. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es XA170LCE499. 

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Alfonso Rey Pastor
+DNI: 55754234A
+Fecha de nacimiento: 26/11/1955
+Género: H
+Domicilio: Calle Gran Vía 88
+Ciudad: San Fernando, Sevilla, Andalucía
+Código postal: 41054
+Email: rey@ciberehd.org
+Teléfono fijo: +34 954 15 99 83
+Teléfono móvil: +34 654 57 84 93
+NHC: 2222137
+NASS: 500936180267
+Condición de riesgo: Trabajador de Minería
+
+Datos asistenciales.
+Médico: Dr. Manuel Santamaria Pardo. NC 365173132. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/08/2006
+Episodio: 17412942
+Hospital: Hospital Universitari Vall d'Hebron
+
+Informe clínico del paciente:
+Paciente de tez blanca de 50 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Alfonso" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="46" text="Rey Pastor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="55754234A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="26/11/1955" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="132" text="Calle Gran Vía 88" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="141" end="153" text="San Fernando" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="162" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="173" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="189" end="194" text="41054" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="202" end="218" text="rey@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="234" end="250" text="+34 954 15 99 83" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="267" end="283" text="+34 654 57 84 93" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="289" end="296" text="2222137" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="303" end="315" text="500936180267" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="337" end="358" text="Trabajador de Minería" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="393" end="416" text="Manuel Santamaria Pardo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="421" end="430" text="365173132" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="432" end="471" text="Investigador Clínico en Síndromes Raros" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="473" end="548" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="550" end="579" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="581" end="586" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="588" end="594" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="596" end="602" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="622" end="632" text="24/08/2006" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="643" end="651" text="17412942" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="662" end="697" text="Hospital Universitari Vall d'Hebron" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="741" end="751" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="755" end="762" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

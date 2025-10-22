@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Imanol</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gijon Rubio</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9567092</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">89 56724677 40</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Plaza de Roma, 95, 4 B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Terrasa</TAG>.
+    CP: <TAG TYPE="TERRITORIO">08210</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/08/1951</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">62 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/12/2014</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pablo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">March López</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">08 08 57991</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">62 años</TAG> con diabetes mellitus tipo 2 de larga evolución secundaria a pancreatitis crónica calcificada con tendencia a hipoglucemias debidas a la administración de insulina rápida, múltiples ingresos por cuadros infecciosos urinarios y deterioro funcional.
+    Al ingreso padecía de abandono de la higiene personal con descontrol de los hábitos de eliminación, malnutrición, insuficiencia renal crónica, cetoacidosis diabética y una úlcera sacra grado III.
+    El cultivo del exudado de la úlcera mostró que era positivo para <TAG TYPE="OTRO_NUMERO_IDENTIF">PAMR</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">Staphylococcus aureus resistente a meticilina (SARM)</TAG> y el antibiograma mostró que la <TAG TYPE="OTRO_NUMERO_IDENTIF">PAMR</TAG> era sensible únicamente a <TAG TYPE="OTRO_NUMERO_IDENTIF">colistina (CMI &lt; 2)</TAG> e intermedio a <TAG TYPE="OTRO_NUMERO_IDENTIF">amikacina (CMI = 16)</TAG>. El <TAG TYPE="OTRO_NUMERO_IDENTIF">SARM</TAG> era sensible a <TAG TYPE="OTRO_NUMERO_IDENTIF">cotrimoxazol (CMI &lt; 1/19)</TAG> e intermedio a <TAG TYPE="OTRO_NUMERO_IDENTIF">clindamicina (CMI = 1,9)</TAG>.
+    Se inició tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">crema de colistina 0,1%</TAG> con una aplicación diaria en la cura y se administró <TAG TYPE="OTRO_NUMERO_IDENTIF">cotrimoxazol 800/160 mg oral cada doce horas</TAG> para el tratamiento del <TAG TYPE="OTRO_NUMERO_IDENTIF">SARM</TAG>. Tras un mes de tratamiento, se observó una evolución clínica favorable de la úlcera, con crecimiento de bordes y tejido de granulación, lo cual no se había observado previamente al tratamiento tópico.
+    El paciente falleció debido a insuficiencia renal crónica agudizada por sepsis urinaria, motivo por el que no se pudo disponer de un cultivo posterior al tratamiento.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pablo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">March López</TAG> Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">pmarch@mutuaterrassa.es</TAG> Correo postal: <TAG TYPE="CALLE">Servicio de Farmacia. Hospital Universitari Mutua Terrassa. Plaza Dr. Robert, 5.</TAG> <TAG TYPE="TERRITORIO">080221</TAG> <TAG TYPE="TERRITORIO">Terrassa</TAG> (<TAG TYPE="TERRITORIO">Barcelona</TAG>). <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

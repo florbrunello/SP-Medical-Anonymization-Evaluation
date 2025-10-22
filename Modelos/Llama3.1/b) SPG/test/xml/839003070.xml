@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Martina</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Valero Otero</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">43713674N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/12/1981</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Nuncio 18</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Estepa</TAG>, <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">34625</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">martinavalero@us.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 56 86 33</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 779 75 54 11</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7055862</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">690502960027</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador Agrícola</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alberto Diez Costa</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">671640038</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/12/2003</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">34307941</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Cartagena</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hija</TAG>.
+  </TEXT>
+</MEDDOCAN>

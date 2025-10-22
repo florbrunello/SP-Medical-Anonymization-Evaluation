@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ana López Ramírez
+DNI: 64592470Y
+Fecha de nacimiento: 25/01/1940
+Género: Mujer
+Domicilio: Calle Mayor 18
+Ciudad: Tarragona, Navarra, Navarra
+Código postal: 31178
+Email: ana.lopez.ramirez@ciberned.es
+Teléfono fijo: +34 948 58 33 10
+FAX: +34 948 56 61 44
+NHC: 6193176
+Condición de riesgo: Pintor de Construcción
+
+Datos asistenciales.
+Médico: Dr. Adolfo Abad Vargas. NC 199791373. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/01/2015
+Episodio: 03821479
+Hospital: Hospital Universitario Doctor Peset
+
+Informe clínico del paciente:
+Paciente discapacitado de 74 años de edad, acompañado de su marido. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.49.135, con dirección MAC 14:0C:2A:31:87:30. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Ana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="45" text="López Ramírez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="64592470Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="25/01/1940" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="106" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="132" text="Calle Mayor 18" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="141" end="150" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="152" end="159" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="161" end="168" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="184" end="189" text="31178" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="197" end="226" text="ana.lopez.ramirez@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="242" end="258" text="+34 948 58 33 10" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="264" end="280" text="+34 948 56 61 44" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="286" end="293" text="6193176" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="315" end="337" text="Pintor de Construcción" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="372" end="390" text="Adolfo Abad Vargas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="395" end="404" text="199791373" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="406" end="440" text="Residente de 4° año en Cardiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="442" end="528" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="530" end="559" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="561" end="566" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="568" end="574" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="576" end="582" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="602" end="612" text="20/01/2015" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="623" end="631" text="03821479" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="642" end="677" text="Hospital Universitario Doctor Peset" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="718" end="731" text="discapacitado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="735" end="742" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="769" end="775" text="marido" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="883" end="900" text="14:0C:2A:31:87:30" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

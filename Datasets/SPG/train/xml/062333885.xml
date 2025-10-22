@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Pol Parra Arias
+DNI: 61166326B
+Fecha de nacimiento: 03/02/1975
+Género: Hombre
+Domicilio: Calle de O'Donnell 63, 1Y
+Ciudad: Alcoy, Valladolid, Castilla y León
+Código postal: 47624
+Email: pol-arias@aol.com
+Teléfono fijo: +34 983 32 70 63
+FAX: +34 983 86 28 68
+NHC: 9949327
+NASS: 422942487051
+Condición de riesgo: Operador de Máquina
+
+Datos asistenciales.
+Médico: Dr. Albert Jurado Prieto. NC 728144220. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/12/1990
+Episodio: 74996528
+Centro de salud: Centro de Salud Benalmádena
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena centroamericana de 15 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Pol" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="43" text="Parra Arias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="49" end="58" text="61166326B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="80" end="90" text="03/02/1975" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="99" end="105" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="142" text="Calle de O'Donnell 63, 1Y" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="156" text="Alcoy" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="168" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="185" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="47624" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="231" text="pol-arias@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 983 32 70 63" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="269" end="285" text="+34 983 86 28 68" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="291" end="298" text="9949327" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="305" end="317" text="422942487051" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="339" end="358" text="Operador de Máquina" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="393" end="413" text="Albert Jurado Prieto" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="418" end="427" text="728144220" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="429" end="478" text="Psiquiatra Especialista en Trastornos de Ansiedad" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="480" end="550" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="552" end="581" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="583" end="588" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="590" end="596" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="598" end="604" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="624" end="634" text="25/12/1990" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="645" end="653" text="74996528" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="671" end="698" text="Centro de Salud Benalmádena" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="742" end="778" text="ascendencia indígena centroamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="782" end="789" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="816" end="821" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

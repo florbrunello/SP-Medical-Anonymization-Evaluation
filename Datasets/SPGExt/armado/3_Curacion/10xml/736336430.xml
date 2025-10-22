@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Elena Moya López</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">64442651D</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/11/1958</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del León 93, 6A</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Teruel</TAG>, <TAG TYPE="TERRITORIO">Álava</TAG>, <TAG TYPE="PAIS">Pais Vasco</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">01982</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">lopez@ciberisciii.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 945 16 69 51</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 745 51 16 25</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2645536</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">144063284518</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Microbiólogo</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Victoria Macias Espinosa</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">464152117</TAG>. Residente de 3° año en <TAG TYPE="PROFESION">Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">04/07/2020</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">17389152</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuencarral</TAG>.
+    Informe clínico del paciente:
+    La paciente, una mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">61 años</TAG> de edad de ascendencia asiática del sudeste, acudió al centro de salud con síntomas de dolor abdominal crónico y pérdida de peso. Según su nuera, la paciente había estado experimentando estos síntomas durante varias semanas, con una mayor intensidad en los últimos días. La paciente también informó de una leve fiebre y náuseas.
+    La exploración física reveló un abdomen distendido y doloroso en la región epigástrica. La paciente estaba en buen estado de nutrición y hidratación, pero presentaba una ligera taquicardia y hipertensión. La exploración neurológica y la exploración urológica no revelaron ninguna anormalidad.
+    Los análisis de laboratorio mostraron una elevación de la enzima hepática alanina aminotransferasa (ALT) y una disminución de la albúmina sérica. La orina fue normal.
+    Con base en estos hallazgos, se realizó una ecografía abdominal que mostró una hinchazón en la región hepática y una posible obstrucción intestinal. Se solicitó una resonancia magnética (RM) para obtener más información sobre la causa de la obstrucción.
+    El diagnóstico diferencial incluyó una posible enfermedad inflamatoria intestinal, una obstrucción intestinal mecánica o una enfermedad hepática subyacente.
+    Se inició el tratamiento con medicamentos antiinflamatorios y se recomendó una dieta blanda y líquida. Se programó una cita para realizar una colonoscopia para evaluar la presencia de cualquier lesión en el intestino delgado.
+    La paciente se encuentra actualmente en observación en el centro de salud, con un seguimiento regular de su condición y una evaluación continua de su tratamiento.
+    Evolución y comentarios:
+    La paciente ha estado bajo tratamiento durante varias semanas y ha presentado una mejoría moderada en sus síntomas. Sin embargo, todavía experimenta dolor abdominal y pérdida de peso. Se requiere una evaluación más detallada de su condición para determinar la causa subyacente de sus síntomas.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Victoria Macias Espinosa</TAG>, <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Residente de 3° año en</TAG> <TAG TYPE="PROFESION">Gastroenterología</TAG>, <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>.
+  </TEXT>
+</MEDDOCAN>

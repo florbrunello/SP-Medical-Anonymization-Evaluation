@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Valentina Castillo Soto
+DNI: 50053392X
+Fecha de nacimiento: 09/09/1992
+Género: M
+Domicilio: Calle de Zurbano 49, 7I
+Ciudad: Motril, Salamanca, Castilla y León
+Código postal: 37625
+Email: castillo.soto@uhu.es
+Teléfono fijo: +34 923 62 95 87
+Teléfono móvil: +34 623 18 79 00
+NHC: 9317766
+NASS: 985745350223
+
+Datos asistenciales.
+Médico: Dra. Ana Belén Bernal Pacheco. NC 485984833. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/09/1997
+Episodio: 06213630
+Centro de salud: Centro de Salud Latina
+
+Informe clínico del paciente:
+Paciente no fumador de 5 años de edad, acompañado de su abuela. Se realizó un expediente con URL http://example-therapy.org//21947427K. Se registró una sesión de firma biométrica, el código obtenido para revisarla es ZF374OUP828. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Valentina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="51" text="Castillo Soto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="50053392X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="09/09/1992" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="143" text="Calle de Zurbano 49, 7I" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="158" text="Motril" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="169" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="186" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="37625" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="235" text="castillo.soto@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 923 62 95 87" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 623 18 79 00" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="9317766" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="985745350223" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="608" end="618" text="15/09/1997" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="629" end="637" text="06213630" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="655" end="677" text="Centro de Salud Latina" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="718" end="728" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="732" end="738" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="765" end="771" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="806" end="828" text="http://example-therapy" TYPE="URL_WEB" comment=""/>
+        <ID id="T23" start="926" end="937" text="ZF374OUP828" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

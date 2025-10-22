@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Cristian López Hernández
+DNI: 13325255K
+Fecha de nacimiento: 25/11/1953
+Género: Masculino
+Domicilio: Calle de Argumosa 82, 1K
+Ciudad: Socuéllamos, Burgos, Castilla y León
+Código postal: 09745
+Email: cristian.lopez_hernandez@ciberehd.org
+Teléfono fijo: +34 947 70 70 36
+Teléfono móvil: +34 747 71 07 61
+NHC: 5149381
+NASS: 335611819465
+Condición de riesgo: Trabajador de Servicios de Limpieza
+
+Datos asistenciales.
+Médico: Dr. Joel Pastor Álvarez. NC 709208683. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/04/2024
+Centro de salud: Centro de Salud Barajas
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 70 años de edad, acompañado de su pareja. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es FJ245BHG369. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Cristian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="52" text="López Hernández" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="13325255K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="25/11/1953" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="117" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="129" end="153" text="Calle de Argumosa 82, 1K" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="162" end="173" text="Socuéllamos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="175" end="181" text="Burgos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="183" end="198" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="214" end="219" text="09745" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="227" end="264" text="cristian.lopez_hernandez@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="280" end="296" text="+34 947 70 70 36" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="313" end="329" text="+34 747 71 07 61" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="335" end="342" text="5149381" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="349" end="361" text="335611819465" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="383" end="418" text="Trabajador de Servicios de Limpieza" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="453" end="472" text="Joel Pastor Álvarez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="477" end="486" text="709208683" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="488" end="527" text="Residente de 4° año en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="529" end="613" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="615" end="644" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="646" end="651" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="653" end="659" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="661" end="667" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="687" end="697" text="01/04/2024" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="715" end="738" text="Centro de Salud Barajas" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="782" end="806" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="810" end="817" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="844" end="850" text="pareja" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="938" end="949" text="FJ245BHG369" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

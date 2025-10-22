@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Francisco Javier</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Garrido Espinosa</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">55259502R</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/08/1972</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Preciados 72</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Navalcarnero</TAG>, <TAG TYPE="TERRITORIO">Castellón</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">12278</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">franciscojavier@ciberned.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 964 10 44 29</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 664 30 28 42</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4590508</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Granjero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodrigo Otero Esteban</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">635897860</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">22/11/2022</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">36558576</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Getafe</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia indígena sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">50 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tía</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de firma biométrica</TAG>, el <TAG TYPE="IDENTIF_BIOMETRICOS">código obtenido</TAG> para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">XQ405GZH024</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Miguel Ángel Casado León
+DNI: 36903710A
+Fecha de nacimiento: 15/12/2002
+Género: M
+Domicilio: Calle del León 51
+Ciudad: Móstoles, Pontevedra, Galicia
+Código postal: 36217
+Email: casadoleon@us.es
+Teléfono fijo: +34 986 87 14 50
+FAX: +34 986 32 69 33
+NHC: 0495727
+NASS: 750200213961
+Condición de riesgo: Guardia de Seguridad
+
+Datos asistenciales.
+Médico: Dra. Marina Alonso Calderon. NC 750120652. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/12/2013
+Hospital: Hospital Clínic Universitario Virgen de la Arrixaca
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 11 años de edad, acompañado de su tía. Se registró una sesión de huella dactilar, el código obtenido para revisarla es NK440LYO308. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="Miguel Ángel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="52" text="Casado León" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="36903710A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="15/12/2002" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="138" text="Calle del León 51" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="155" text="Móstoles" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="167" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="176" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="192" end="197" text="36217" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="205" end="221" text="casadoleon@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="237" end="253" text="+34 986 87 14 50" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="259" end="275" text="+34 986 32 69 33" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="281" end="288" text="0495727" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="295" end="307" text="750200213961" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="329" end="349" text="Guardia de Seguridad" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="623" end="633" text="25/12/2013" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="644" end="695" text="Hospital Clínic Universitario Virgen de la Arrixaca" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="739" end="772" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="776" end="783" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="810" end="813" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T22" start="895" end="906" text="NK440LYO308" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Eugenio Sierra Ruiz
+DNI: 29497162F
+Fecha de nacimiento: 18/01/1941
+Género: V
+Domicilio: Calle de las Huertas 57, 7G
+Ciudad: Jaén, Región de Murcia, Región de Murcia
+Código postal: 30385
+Email: aoJhX1654@ciberned.es
+Teléfono fijo: +34 968 56 69 34
+Teléfono móvil: +34 768 46 23 36
+NHC: 0455525
+NASS: 797252876011
+Condición de riesgo: Trabajador de Mantenimiento
+
+Datos asistenciales.
+Médico: Dr. Christian Cano Núñez. NC 890267392. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 31/10/1981
+Episodio: 09933578
+Centro de salud: Centro de Salud San Sebastián de los Reyes
+
+Informe clínico del paciente:
+Paciente musulman de 40 años de edad, acompañado de su nuera. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.115.115, con dirección MAC 26:99:69:D3:C1:C7. Se realizó un expediente con URL http://example-therapy.org//48700477D. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Eugenio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="47" text="Sierra Ruiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="29497162F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="18/01/1941" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="143" text="Calle de las Huertas 57, 7G" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="156" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="174" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="192" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="208" end="213" text="30385" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="221" end="242" text="aoJhX1654@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="258" end="274" text="+34 968 56 69 34" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="291" end="307" text="+34 768 46 23 36" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="313" end="320" text="0455525" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="327" end="339" text="797252876011" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="361" end="388" text="Trabajador de Mantenimiento" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="423" end="443" text="Christian Cano Núñez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="448" end="457" text="890267392" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="459" end="514" text="Gastroenterólogo Especialista en Enfermedades Hepáticas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="516" end="609" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="611" end="640" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="642" end="647" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="649" end="655" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="657" end="663" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="683" end="693" text="31/10/1981" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="704" end="712" text="09933578" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="730" end="772" text="Centro de Salud San Sebastián de los Reyes" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="813" end="821" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="825" end="832" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="859" end="864" text="nuera" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="973" end="990" text="26:99:69:D3:C1:C7" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <OTHER id="T32" start="1025" end="1047" text="http://example-therapy" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

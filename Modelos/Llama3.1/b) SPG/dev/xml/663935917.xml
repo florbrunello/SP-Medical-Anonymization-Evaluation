@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Valentín</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Beltran Padilla</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">17199268Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/08/1996</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle Gran Vía 13, 8D</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Tarragona</TAG>, <TAG TYPE="TERRITORIO">Sevilla</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">41865</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">valentin.beltran-padilla520@ioba.med.uva.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 52 92 04</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 754 34 04 48</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9951096</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">755065481723</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Laboratorio</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Josep Carmona Román</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">165971978</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/09/2023</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">79365274</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Coslada</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">exfumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">27 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

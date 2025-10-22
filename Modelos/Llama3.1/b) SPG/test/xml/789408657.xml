@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Dolores</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Hidalgo Gutiérrez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">90651037X</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/10/1943</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Ibiza 40, 9T</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="TERRITORIO">Huesca</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">22555</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariadolores-hidalgo-gutierrez@aol.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 974 69 75 63</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 774 53 07 05</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6473668</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">352019362960</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Electricista</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dolores Morales Escobar</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">457698268</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/11/1980</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">16664377</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Barcelona</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">4638SUV</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Volkswagen Golf</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSNWKYCHY0Y711479</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">compañera de trabajo</TAG>. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">NR652HFJ165</TAG>.
+  </TEXT>
+</MEDDOCAN>

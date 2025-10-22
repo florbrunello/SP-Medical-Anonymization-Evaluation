@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Santiago Moreno Mora
+DNI: 87597589L
+Fecha de nacimiento: 26/02/1982
+Género: Masculino
+Domicilio: Calle de Lavapiés 42, 5H
+Ciudad: Novelda, Región de Murcia, Región de Murcia
+Código postal: 30957
+Email: MEICMnSDz@ciberned.es
+Teléfono fijo: +34 968 62 32 49
+Teléfono móvil: +34 768 33 18 16
+NHC: 2848305
+NASS: 050859055515
+
+Datos asistenciales.
+Médico: Dr. Rodrigo Pereira Moya. NC 187336568. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/10/1987
+Episodio: 66400062
+Hospital: Hospital Universitario de Basurto
+
+Informe clínico del paciente:
+Paciente de tez blanca de 5 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-healthcare.net//39715002T. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Santiago" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="48" text="Moreno Mora" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="87597589L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="26/02/1982" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="113" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="149" text="Calle de Lavapiés 42, 5H" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="165" text="Novelda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="183" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="185" end="201" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="217" end="222" text="30957" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="230" end="251" text="MEICMnSDz@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="267" end="283" text="+34 968 62 32 49" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="300" end="316" text="+34 768 33 18 16" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="322" end="329" text="2848305" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="336" end="348" text="050859055515" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="383" end="403" text="Rodrigo Pereira Moya" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="408" end="417" text="187336568" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="419" end="451" text="Residente de 2° año en Pediatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="453" end="528" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="530" end="559" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="561" end="566" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="568" end="574" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="576" end="582" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="602" end="612" text="13/10/1987" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="623" end="631" text="66400062" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="642" end="675" text="Hospital Universitario de Basurto" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="719" end="729" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="733" end="739" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="766" end="771" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="806" end="831" text="http://example-healthcare" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

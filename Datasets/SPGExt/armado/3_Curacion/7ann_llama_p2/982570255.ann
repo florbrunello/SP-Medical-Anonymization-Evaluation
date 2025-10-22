@@ -1,0 +1,42 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 0 15	Adam Simon Villanueva
+T2	ID_SUJETO_ASISTENCIA 54 68	42817526J
+T3	FECHAS 104 114	06/11/1992
+T4	SEXO_SUJETO_ASISTENCIA 134 135	M
+T5	CALLE 161 171	Calle de Santa Ana 99
+T6	TERRITORIO 183 200	Torrelodones, Vizcaya, Pais Vasco
+T7	TERRITORIO 210 216	48999
+T8	CORREO_ELECTRONICO 243 266	adamvillanueva278@uhu.es
+T9	NUMERO_TELEFONO 284 302	+34 946 76 82 09
+T10	NUMERO_TELEFONO 314 334	+34 646 98 90 78
+T11	ID_SUJETO_ASISTENCIA 356 370	2523300
+T12	ID_SUJETO_ASISTENCIAL 384 400	022204004785
+T13	PROFESION 433 445	Médico
+T14	NOMBRE_PERSONAL_SANITARIO 457 491	Dra. Gema Hurtado Merino
+T15	ID_TITULACION_PERSONAL_SANITARIO 502 513	871218741
+T16	NOMBRE_INSTITUCIONAL 535 555	Investigadora Principal en Optometría Clínica
+T17	NOMBRE_INSTITUCIONAL 566 587	Instituto Universitario de Oftalmobiología Aplicada (IOBA)
+T18	CALLE 619 634	Avenida Ramón y Cajal, 7
+T19	TERRITORIO 646 652	47011
+T20	PAIS 664 670	España
+T21	FECHAS 683 693	17/11/2024
+T22	ID_EPISODIO 715 725	55960149
+T23	HOSPITAL 737 762	Hospital Universitario Severo Ochoa
+T24	IDENTIF_VEHICULOS_NRSERIE_PLACAS 785 804	0773CHG
+T25	MODELO_VEHICULO 826 834	Tesla Model 3
+T26	IDENTIF_VEHICULOS_NRSERIE 846 860	VSTD3QYPF9I684069
+T27	NOMBRE_SUJETO_ASISTENCIA 883 904	Paciente vegano
+T28	EDAD_SUJETO_ASISTENCIA 926 935	32 años de edad
+T29	NOMBRE_PERSONAL_SANITARIO 947 981	acompañado de su madre
+T30	NOMBRE_PERSONAL_SANITARIO 1012 1046	quien refiere que su hijo ha presentado una serie de síntomas en los últimos días, incluyendo dolor de cabeza, mareos y visión borrosa
+T31	HISTORIA_MEDICA 1061 1083	historia de alergia a los alimentos y ha sido vegano durante varios años
+T32	TEMPERATURA 1094 1103	37,5 C
+T33	PRESION_SANGUINEA 1114 1123	120/80 mmHg
+T34	FRECUENCIA_CARDIACA 1144 1153	80 lpm
+T35	FC 1164 1173	consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación
+T36	EXPLORACION_FISICA 1194 1223	no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos
+T37	AUSCULTACION_CARDIACA 1244 1273	rítmica, sin soplos, roces ni extratonos
+T38	AUSCULTACION_PULMONAR 1304 1329	con conservación del murmullo vesicular
+T39	EXPLORACION_ABDOMINAL 1330 1351	blando, depresible, sin masas ni megalias
+T40	EXPLORACION_NEUROLOGICA 1362 1391	no se detectan signos meníngeos ni datos de focalidad
+T41	EXTREMIDADES 1422 1443	sin varices ni edemas
+T42	PULSOS_PERIFERICOS 

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Elena</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rivera Martinez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7809456</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">84 29487573 93</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Finisterra, 18</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28029</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/10/1951</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">62 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">14/04/2014</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tristán</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dellavedova</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ramos</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 20357</TAG>.
+    Informe clínico del paciente: Paciente de sexo femenino, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">62 años</TAG>, diabética mal controlada, obesa, con antecedentes de litiasis coraliforme izquierda no resuelta. Consulta por fiebre y lumbalgia izquierda de 7 días de evolución, con micosis oral y franco deterioro del estado general. Presenta leucocitosis con marcada neutrofilia, hiperglucemia con cetoacidosis y cifras elevadas de urea y creatinina. Al examen físico, presenta abdomen blando, con dolor a nivel de flanco izquierdo y puño percusión renal izquierda positiva. Se realiza ecografía abdominal y radiografía directa de abdomen que orientan al diagnóstico al identificar aire en la fosa renal izquierda. La TAC abdómino-pelviana evidencia aire en el riñón izquierdo y tejidos perirrenales, que infiltra la pared abdominal. Por el rápido deterioro de su estado general, se realiza drenaje de fosa renal por lumbotomía, para evitar contaminación de cavidad peritoneal, evacuando el gas y debridando tejido necrótico. Tras una mejoría inicial, reaparecen signos de sepsis, siendo necesario realizar nefrectomía simple una semana más tarde. Buena evolución postoperatoria, a los 14 días nueva sepsis de origen respiratorio. Comienza con secreción purulenta a través de la herida, se le realiza "toilette", pero fallece a las 48 hs. por disfunción orgánica múltiple con neumonía nosocomial.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tristán</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dellavedova</TAG>. Email: <TAG TYPE="CORREO_ELECTRONICO">trisdellavedova@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

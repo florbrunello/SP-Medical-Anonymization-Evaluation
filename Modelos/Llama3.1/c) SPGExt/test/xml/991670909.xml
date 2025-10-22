@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Elena</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santamaria Rivero</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">15014925L</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/06/2013</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Piamonte 44</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ermua</TAG>, <TAG TYPE="TERRITORIO">Valencia</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">46476</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariaelena1883@ciberehd.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 960 03 43 65</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 660 90 63 71</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5389336</TAG>.
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Elisa</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Vázquez Abad</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">101519064</TAG>. <TAG TYPE="PROFESION">Investigadora Principal en Optometría Clínica</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/04/2024</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">50556880</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Virgen Macarena</TAG>.
+    Informe clínico del paciente:
+    Paciente consumidor de alcohol de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 años</TAG> de edad, acompañado de su abuela. Presenta un cuadro de confusión y desorientación, con alteraciones en la conciencia y la coordinación motora. La exploración física revela signos de intoxicación aguda, con vómitos y diarrea. La temperatura corporal es de <TAG TYPE="FECHAS">37,5°C</TAG>, y la frecuencia cardíaca es de <TAG TYPE="FECHAS">120 latidos por minuto</TAG>. La paciente se encuentra en un estado de alerta reducida, con dificultades para comunicarse.
+    La historia clínica del paciente indica que ha consumido una cantidad significativa de alcohol en las últimas horas, lo que ha llevado a su actual estado de intoxicación. La paciente tiene antecedentes de consumo de alcohol en el pasado, pero nunca había llegado a este punto de intoxicación.
+    La evolución del paciente es incierta, ya que depende de la cantidad de alcohol consumido y la rapidez con la que se inicie el tratamiento. Se requiere un seguimiento estrecho para evitar complicaciones y asegurar la recuperación del paciente.
+    Antecedentes:
+    La paciente tiene antecedentes de consumo de alcohol en el pasado, pero nunca había llegado a este punto de intoxicación. Su abuela informa que la paciente ha estado bebiendo alcohol en las últimas semanas, pero nunca había consumido tanta cantidad en un solo período.
+    Evolución y comentarios:
+    La paciente se encuentra en un estado de alerta reducida, con dificultades para comunicarse. La exploración física revela signos de intoxicación aguda, con vómitos y diarrea. La temperatura corporal es de <TAG TYPE="FECHAS">37,5°C</TAG>, y la frecuencia cardíaca es de <TAG TYPE="FECHAS">120 latidos por minuto</TAG>.
+    Remitido por:
+    El paciente fue remitido por su abuela, quien informa que la paciente ha estado bebiendo alcohol en las últimas semanas y que nunca había consumido tanta cantidad en un solo período. La abuela solicita atención médica inmediata para su nieta.
+  </TEXT>
+</MEDDOCAN>

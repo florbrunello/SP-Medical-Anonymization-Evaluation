@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Mohamed Exposito Blanco
+DNI: 34623741R
+Fecha de nacimiento: 08/04/1930
+Género: H
+Domicilio: Calle de la Virgen de los Peligros 67
+Ciudad: Córdoba, Guipúzcoa, Pais Vasco
+Código postal: 20937
+Email: mohamed-exposito.blanco@yahoo.com
+Teléfono fijo: +34 943 23 78 92
+Teléfono móvil: +34 643 64 07 21
+NHC: 9773855
+NASS: 752165222294
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dra. María Victoria Alonso Castaño. NC 472742352. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 08/06/1969
+Episodio: 57793749
+Centro de salud: Centro de Salud Valdemoro
+
+Informe clínico del paciente:
+Paciente de tez blanca de 39 años de edad. El servidor para envío de información desde cual el usuario se comunica es smtp://example-ophthalmology.net. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Mohamed" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="51" text="Exposito Blanco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="34623741R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="08/04/1930" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="157" text="Calle de la Virgen de los Peligros 67" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="166" end="173" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="175" end="184" text="Guipúzcoa" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="186" end="196" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="212" end="217" text="20937" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="225" end="258" text="mohamed-exposito.blanco@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="274" end="290" text="+34 943 23 78 92" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="307" end="323" text="+34 643 64 07 21" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="329" end="336" text="9773855" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="343" end="355" text="752165222294" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="377" end="383" text="Minero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="647" end="657" text="08/06/1969" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="668" end="676" text="57793749" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="694" end="719" text="Centro de Salud Valdemoro" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="763" end="773" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="777" end="784" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="869" end="897" text="smtp://example-ophthalmology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

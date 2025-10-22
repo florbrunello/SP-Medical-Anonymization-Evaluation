@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: David Giménez Rivas
+DNI: 91842494K
+Fecha de nacimiento: 18/05/1981
+Género: V
+Domicilio: Calle del Olivar 87
+Ciudad: San Pedro del Pinatar, Alicante, Comunidad Valenciana
+Código postal: 03882
+Email: david-rivas240@uhu.es
+Teléfono fijo: +34 965 79 47 73
+Teléfono móvil: +34 665 21 17 42
+NHC: 7560035
+
+Datos asistenciales.
+Médico: Dr. Ignacio Herrera Izquierdo. NC 560673233. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 31/10/1991
+Episodio: 99650052
+Hospital: Complejo Hospitalario Universitario de Lugo
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena americana de 10 años de edad, acompañado de su abuelo. 

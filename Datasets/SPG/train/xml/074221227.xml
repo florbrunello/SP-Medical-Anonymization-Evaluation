@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rebeca Miguel Gallego
+DNI: 63116393T
+Fecha de nacimiento: 23/05/1931
+Género: Mujer
+Domicilio: Calle de los Jardines 63
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52076
+Email: rebeca.gallego@ucm.es
+Teléfono fijo: +34 956 45 98 95
+Teléfono móvil: +34 756 94 94 29
+NHC: 1308614
+NASS: 159849869885
+Condición de riesgo: Conductor de Camión
+
+Datos asistenciales.
+Médico: Dra. Laia Mora Blazquez. NC 889514124. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/05/1998
+Episodio: 55830169
+Hospital: Hospital Universitario de Fuenlabrada
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 67 años de edad, acompañado de su padre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.158.179, con dirección MAC C2:DC:65:68:94:73. Se realizó un expediente con URL http://example-cardiology.com//10205126J. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Rebeca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Miguel Gallego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="63116393T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="23/05/1931" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="110" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="146" text="Calle de los Jardines 63" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="179" text="Ciudad autónoma de Ceuta" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="181" end="187" text="Ceuta," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="204" end="209" text="52076" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="217" end="238" text="rebeca.gallego@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="254" end="270" text="+34 956 45 98 95" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="287" end="303" text="+34 756 94 94 29" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T13" start="309" end="316" text="1308614" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="323" end="335" text="159849869885" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T15" start="357" end="376" text="Conductor de Camión" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="642" end="652" text="26/05/1998" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="663" end="671" text="55830169" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="682" end="719" text="Hospital Universitario de Fuenlabrada" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="760" end="777" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="781" end="788" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="815" end="820" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="929" end="946" text="C2:DC:65:68:94:73" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <OTHER id="T23" start="981" end="1006" text="http://example-cardiology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carlota</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Román Montero</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">13136389P</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">22/02/1997</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Engracia 78, 8F</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Eibar</TAG>, <TAG TYPE="TERRITORIO">Zaragoza</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">50432</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">roman.montero1521@ciberehd.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 976 93 67 75</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 976 41 58 29</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2491975</TAG>.
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Trabajador de Almacén</TAG>.
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carlota</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Prieto Cortés</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">165682659</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">13/12/2012</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">82255973</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Oeste</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="ASCENDENCIA_ETNICA">ascendencia del medio oriente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15 años</TAG> de edad, acompañado de su hermana, que acude al servicio de urgencias con síntomas de dolor abdominal crónico y fiebre recurrente durante los últimos 6 meses. El paciente reporta haber experimentado pérdida de peso, fatiga y pesadez en el estómago.
+    La exploración física revela: temperatura <TAG TYPE="MEDICION">38,5°C</TAG>, presión arterial <TAG TYPE="MEDICION">120/80 mmHg</TAG>, frecuencia cardíaca <TAG TYPE="MEDICION">100 lpm</TAG>, respiratoria <TAG TYPE="MEDICION">20 lpm</TAG>. El paciente se encuentra consciente, orientado y con buen estado de nutrición e hidratación. La exploración abdominal revela dolor en el epigastrio y hipocondrio derecho, con tendencia a irradiarse hacia la espalda.
+    Los datos analíticos muestran los siguientes resultados: hemograma normal, bioquímica con elevación de la enzima hepática alanina aminotransferasa (ALT) a <TAG TYPE="MEDICION">120 U/l</TAG>, glucosa <TAG TYPE="MEDICION">90 mg/dl</TAG>, urea <TAG TYPE="MEDICION">20 mg/dl</TAG>, creatinina <TAG TYPE="MEDICION">0,8 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen, incluyendo radiografía de tórax, ecografía abdominal y ultrasonografía de hígado y páncreas. Las pruebas de imagen revelan una lesión en el hígado de <TAG TYPE="MEDICION">2,5 cm</TAG> de diámetro, con signos de inflamación y necrosis.
+    Con el diagnóstico de <TAG TYPE="DIAGNOSTICO">hepatitis autoinmune</TAG>, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios) y tratamiento específico con esteroides orales (prednisolona <TAG TYPE="MEDICION">1 mg/kg/día</TAG>). El paciente mejora significativamente de su cuadro tras una semana de tratamiento, con disminución de la fiebre y dolor abdominal.
+    Antecedentes:
+    El paciente tiene antecedentes de enfermedades gastrointestinales, incluyendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gastroenteritis viral</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedad inflamatoria intestinal (EII)</TAG>. El paciente también tiene antecedentes de <TAG TYPE="OTRO_NUMERO_IDENTIF">alergia a ciertos alimentos</TAG>, incluyendo <TAG TYPE="OTRO_NUMERO_IDENTIF">leche</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">huevos</TAG>.
+    Evolución y comentarios:
+    El paciente se encuentra en evolución estable, con mejoría significativa de su cuadro después del tratamiento. El paciente ha sido educado sobre la importancia de seguir el tratamiento y realizar cambios en su estilo de vida para prevenir futuras complicaciones.
+    Remitido por:
+    El paciente ha sido remitido al servicio de gastroenterología para seguimiento y tratamiento continuo.
+  </TEXT>
+</MEDDOCAN>

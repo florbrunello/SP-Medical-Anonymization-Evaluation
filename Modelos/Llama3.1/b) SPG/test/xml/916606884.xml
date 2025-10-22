@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Antonio</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Prieto Giménez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">41169184N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/10/1948</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Cabeza del Rey Don Pedro 39</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad autónoma de Ceuta</TAG>, <TAG TYPE="TERRITORIO">Ceuta</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">52782</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">joseantonioprieto697@ciberer.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 37 39 64</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 956 91 68 92</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6733704</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Paramédico</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alejandro Navarro Ramos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">136832138</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuropsicólogo Clínico Investigador</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/01/1963</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">50786388</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Basurto</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

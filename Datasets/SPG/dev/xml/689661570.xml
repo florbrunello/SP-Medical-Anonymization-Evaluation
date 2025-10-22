@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Nerea Moreno Mateos
+DNI: 85377708Y
+Fecha de nacimiento: 07/02/1946
+Género: Mujer
+Domicilio: Calle del Doctor Esquerdo 91, 1Y
+Ciudad: Xàtiva, Almería, Andalucía
+Código postal: 04792
+Email: nerea@isciii.es
+Teléfono fijo: +34 950 25 25 67
+Teléfono móvil: +34 650 37 63 96
+NHC: 0047320
+NASS: 356096115453
+Condición de riesgo: Limpiador
+
+Datos asistenciales.
+Médico: Dra. María Cristina Galvez Hidalgo. NC 261726611. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/01/1953
+Episodio: 04886371
+Hospital: Hospital Universitario Fundació Jiménez Díaz
+Matrícula del coche: 4137GZK
+Modelo: Honda Civic
+VIN: VSVIQVWY8BY760590
+
+Informe clínico del paciente:
+Paciente de ascendencia oceánica de 6 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-dermatology.org//83288308Z. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Nerea" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Moreno Mateos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="85377708Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="07/02/1946" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="108" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="152" text="Calle del Doctor Esquerdo 91, 1Y" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="161" end="167" text="Xàtiva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="176" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="187" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="04792" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="231" text="nerea@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 950 25 25 67" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 650 37 63 96" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="0047320" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="316" end="328" text="356096115453" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="350" end="359" text="Limpiador" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="649" end="659" text="19/01/1953" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="670" end="678" text="04886371" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="689" end="733" text="Hospital Universitario Fundació Jiménez Díaz" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="755" end="762" text="4137GZK" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="788" end="805" text="VSVIQVWY8BY760590" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="849" end="869" text="ascendencia oceánica" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="873" end="879" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="906" end="911" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T25" start="946" end="972" text="http://example-dermatology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

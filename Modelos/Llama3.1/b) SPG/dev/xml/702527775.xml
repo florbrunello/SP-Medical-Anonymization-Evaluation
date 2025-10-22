@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ana María</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gil Giménez</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">18704936W</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">13/03/1982</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de la Princesa 13, 4S</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Navalcarnero</TAG>, <TAG TYPE="TERRITORIO">Barcelona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">08608</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">anamaria_gimenez@aol.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 932 74 94 66</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 638 76 57 54</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5098535</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">709334190551</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Operador de Maquinaria Pesada</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Elisa Martín Escudero</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">226475831</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Psiquiatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">14/07/2023</TAG>
+  Episodio: <TAG TYPE="OTRO_NUMERO_IDENTIF">01895115</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Rey Juan Carlos de Mostoles</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">8090SAR</TAG>
+  Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Honda CR-V</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSQM6ICM9MS302307</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">41 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">compañero de estudio</TAG>.
+  </TEXT>
+</MEDDOCAN>

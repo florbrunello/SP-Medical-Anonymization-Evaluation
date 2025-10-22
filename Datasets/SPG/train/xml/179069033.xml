@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Concepción Gallego Merino
+DNI: 61504390K
+Fecha de nacimiento: 27/01/1997
+Género: Femenino
+Domicilio: Calle de la Luna 17
+Ciudad: Ponferrada, Zaragoza, Aragón
+Código postal: 50825
+Email: concepcion_gallego-merino@icloud.com
+Teléfono fijo: +34 976 84 77 41
+Teléfono móvil: +34 676 96 17 39
+NHC: 3288121
+NASS: 547887290156
+Condición de riesgo: Técnico de Cuidados Auxiliares de Enfermería
+
+Datos asistenciales.
+Médico: Dr. Gabriel Ortega Marín. NC 258477363. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/11/2004
+Episodio: 97225966
+Centro de salud: Centro de Salud Móstoles
+
+Informe clínico del paciente:
+Paciente no fumador de 7 años de edad, acompañado de su hermano. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Concepción" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="53" text="Gallego Merino" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="61504390K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="27/01/1997" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="117" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="129" end="148" text="Calle de la Luna 17" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="167" text="Ponferrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="177" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="185" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="50825" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="250" text="concepcion_gallego-merino@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="266" end="282" text="+34 976 84 77 41" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="299" end="315" text="+34 676 96 17 39" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="321" end="328" text="3288121" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="335" end="347" text="547887290156" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="369" end="413" text="Técnico de Cuidados Auxiliares de Enfermería" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="448" end="468" text="Gabriel Ortega Marín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="473" end="482" text="258477363" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="484" end="518" text="Residente de 4° año en Cardiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="520" end="606" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="608" end="637" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="639" end="644" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="646" end="652" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="654" end="660" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="680" end="690" text="24/11/2004" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="701" end="709" text="97225966" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="727" end="751" text="Centro de Salud Móstoles" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="792" end="802" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="806" end="812" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="839" end="846" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

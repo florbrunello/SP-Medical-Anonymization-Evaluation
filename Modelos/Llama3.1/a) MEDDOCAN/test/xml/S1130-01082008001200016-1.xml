@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sergio</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Elizondo Castro</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7843905</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">73 45673045 64</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Avda. Julio Palacios, 23</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28046</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/05/1968</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">29/07/2014</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cristina</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Vega Cabrera</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 24127</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG> que refiere estreñimiento y dolor en hemiabdomen superior de 7 días de evolución. La tomografía computerizada (TC) abdominal mostró una masa de 11 x 12 x 7 cm dependiente del colon descendente por lo que se realizó una hemicolectomía izquierda. La anatomía patológica mostró un tumor de células fusiformes con baja actividad mitótica que, tras el examen ultraestructural e inmunohistoquímico (IHQ), fue diagnóstico de GANT. A los 5 meses presentó una recidiva doble situada en la transcavidad de los epiplones y adyacente a la pared del ciego la cual fue resecada completamente. Se realizó tratamiento adyuvante con imatinib 400 mg al día vía oral. Tras 24 meses de seguimiento no se han registrado recidivas ni metástasis.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.  Cristina</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Vega Cabrera</TAG>, <TAG TYPE="CENTRO_SALUD">Unidad de Nefrología</TAG>, <TAG TYPE="HOSPITAL">Hospital Universitario La Paz</TAG>, <TAG TYPE="INSTITUCION">IdiPAZ</TAG>, <TAG TYPE="CALLE">Paseo de la Castellana, 261</TAG>, <TAG TYPE="TERRITORIO" >28046</TAG> <TAG TYPE="TERRITORIO" >Madrid</TAG> <TAG TYPE="CORREO_ELECTRONICO">mcvega.hulp@salud.madrid.org</TAG> <TAG TYPE="CORREO_ELECTRONICO">dracristina90@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

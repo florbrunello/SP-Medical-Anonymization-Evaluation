@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carlos Bravo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Beltran</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">13941417J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/03/1998</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Doctor Esquerdo 70, 4O</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Dos Hermanas</TAG>, <TAG TYPE="TERRITORIO">Albacete</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">02071</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">carlos-bravo1110@h12o.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 967 37 48 22</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 667 47 10 37</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8525068</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">934362071997</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de la Construcción</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Iker Herrero Suárez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">408060809</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Gastroenterólogo Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/11/1998</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">34974687</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Móstoles</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 meses</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuelo</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Rosario</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gómez Molina</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">37664039K</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/05/1960</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Letras 78</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">San Sebastián</TAG>, <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">34745</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariarosario_gomez.molina1138@imibic.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 45 42 55</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 779 00 19 51</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3850769</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">473477488614</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Cirujano</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Albert Avila Palacios</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">508286995</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/05/1977</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Cartagena</TAG>
+    <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3659UKI</TAG></TAG>
+    <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">Modelo: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">Tesla Model 3</TAG></TAG>
+    <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSLUUJTOK4Y967293</TAG></TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">17 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">amiga</TAG>.
+  </TEXT>
+</MEDDOCAN>

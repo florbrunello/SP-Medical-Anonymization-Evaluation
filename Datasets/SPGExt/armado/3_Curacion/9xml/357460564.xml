@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Eugenio Sierra Ruiz</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">29497162F</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">18/01/1941</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Huertas 57, 7G</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Jaén</TAG>, <TAG TYPE="TERRITORIO">Región de Murcia</TAG>, <TAG TYPE="TERRITORIO">Región de Murcia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">30385</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">aoJhX1654@ciberned.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 968 56 69 34</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 768 46 23 36</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0455525</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">797252876011</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Mantenimiento</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Christian Cano Núñez</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 890267392</TAG>. <TAG TYPE="PROFESION">Gastroenterólogo Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">31/10/1981</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">09933578</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud San Sebastián de los Reyes</TAG>
+    Antecedentes:
+    El paciente es un hombre de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> de edad, que acude a la consulta con una queja de dolor abdominal crónico. El paciente tiene una historia de antecedentes familiares de enfermedades hepáticas y digestivas.
+    Evolución y comentarios:
+    El paciente se encuentra en buen estado de salud general, sin signos de enfermedad crónica. El paciente tiene una presión arterial de <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">120/80 mmHg</TAG> y una frecuencia cardíaca de <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">70 latidos por minuto</TAG>.
+    Informe clínico del paciente:
+    El paciente acude a la consulta con una queja de dolor abdominal crónico. El paciente describe el dolor como un dolor agudo en el epigastrio, que se irradia a la espalda y a la región lumbar. El paciente también describe una sensación de malestar en el estómago después de comer. El paciente tiene una historia de antecedentes familiares de enfermedades hepáticas y digestivas.
+    La exploración física revela:
+    - Presión arterial: <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">120/80 mmHg</TAG>
+    - Frecuencia cardíaca: <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">70 latidos por minuto</TAG>
+    - Temperatura corporal: <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">36,5°C</TAG>
+    - Peso corporal: <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">70 kg</TAG>
+    - Altura corporal: <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">170 cm</TAG>
+    Se realizan los siguientes análisis:
+    - Hemograma: Hb <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">14,5 g/dl</TAG>; leucocitos <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">7.500/mm3</TAG>; plaquetas <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">250.000/mm3</TAG>
+    - Bioquímica: Glucosa <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">90 mg/dl</TAG>; urea <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">15 mg/dl</TAG>; creatinina <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">0,8 mg/dl</TAG>; sodio <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">140 mEq/l</TAG>; potasio <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">4,2 mEq/l</TAG>; GOT <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">20 U/l</TAG>; GPT <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">15 U/l</TAG>; GGT <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">100 U/l</TAG>; calcio <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">9,5 mg/dl</TAG>
+    - Orina: sedimento normal
+    El paciente se somete a una exploración digestiva con una endoscopia, que revela:
+    - Una úlcera péptica en el duodeno
+    - Una inflamación de la mucosa gástrica
+    El paciente se somete a un tratamiento con medicamentos antiácidos y antihistamínicos, y se le recomienda una dieta baja en grasas y ácidos. El paciente se somete a una revisión en 2 semanas, y se le solicita que regrese a la consulta en caso de que los síntomas persistan o empeoren.
+    Remitido por:
+    El paciente se remite a la consulta de gastroenterología del hospital para una evaluación más exhaustiva de su condición.
+  </TEXT>
+</MEDDOCAN>

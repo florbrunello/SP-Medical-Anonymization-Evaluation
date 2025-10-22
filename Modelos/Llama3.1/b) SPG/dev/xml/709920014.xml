@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Elvira</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Caballero Aranda</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">78765721J</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">02/05/1987</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Velázquez 40, 8E</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Ciudad autónoma de Ceuta</TAG>, <TAG TYPE="TERRITORIO">Ceuta</TAG>, 
+  Código postal: <TAG TYPE="TERRITORIO">52479</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">elvira-caballero@yahoo.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 45 81 11</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 656 98 22 29</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9419549</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">677193997607</TAG>
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Josefa Lorenzo Montoya</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">098958079</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Insuficiencia Cardíaca</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">11/04/2023</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">79617729</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital General Universitario Morales Meseguer</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">4927SFV</TAG>
+  Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Ford Mustang</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSCSZ3K4VFS313964</TAG>
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática occidental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">35 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">vecino</TAG>.
+  </TEXT>
+</MEDDOCAN>

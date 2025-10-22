@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Arturo Marcos Ramos
+DNI: 62826618W
+Fecha de nacimiento: 28/07/1975
+Género: Masculino
+Domicilio: Calle de Áncora 65, 1V
+Ciudad: Orense, Barcelona, Cataluña
+Código postal: 08034
+Email: arturo.ramos@aol.com
+Teléfono fijo: +34 939 40 27 60
+FAX: +34 931 61 41 68
+NHC: 1361726
+Condición de riesgo: Limpiador
+
+Datos asistenciales.
+Médico: Dra. Natalia Méndez Mesa. NC 615594360. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/12/1976
+Episodio: 75291213
+Centro de salud: Centro de Salud Boadilla del Monte
+Matrícula del coche: 4775NFN
+Modelo: Toyota RAV4
+VIN: VSN824GLV5O101241
+
+Informe clínico del paciente:
+Paciente no fumador de un año de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Arturo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Marcos Ramos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="62826618W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="28/07/1975" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="112" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="146" text="Calle de Áncora 65, 1V" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="161" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="172" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="182" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="08034" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="231" text="arturo.ramos@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 939 40 27 60" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="269" end="285" text="+34 931 61 41 68" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="291" end="298" text="1361726" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="320" end="329" text="Limpiador" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="591" end="601" text="13/12/1976" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="612" end="620" text="75291213" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="638" end="672" text="Centro de Salud Boadilla del Monte" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="694" end="701" text="4775NFN" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="727" end="744" text="VSN824GLV5O101241" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="785" end="795" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="799" end="805" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="832" end="838" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

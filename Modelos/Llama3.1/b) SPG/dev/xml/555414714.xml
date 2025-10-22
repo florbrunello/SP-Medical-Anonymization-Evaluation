@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carmen</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Molina Moya</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">32394984J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/09/1937</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Nuncio 65</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Badajoz</TAG>, <TAG TYPE="TERRITORIO">Ibiza</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07348</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">molina@aol.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 31 52 79</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 771 95 36 93</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2047307</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">487865797753</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Policía</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Salvador Acosta Del Rio</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">909240104</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/11/1952</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">35267235</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Basurto</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2040GZI</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Chevrolet Silverado</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSU32KFPR4E956186</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">musulman</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una consulta virtual desde la dirección IP <TAG TYPE="DIREC_PROT_INTERNET">192.168.47.2</TAG> (en red interna), con dirección MAC <TAG TYPE="IDENTIF_BIOMETRICOS">84:DA:F3:61:4C:B6</TAG>. Se registró una sesión de huella dactilar, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">BR790ELE017</TAG>. Se registró una sesión de firma biométrica, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">GD386GGU806</TAG>.
+  </TEXT>
+</MEDDOCAN>

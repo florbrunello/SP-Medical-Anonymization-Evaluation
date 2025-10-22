@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Albert</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gallardo Morales</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">71685675B</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">22/01/2015</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Huertas 38</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Elda</TAG>, <TAG TYPE="TERRITORIO">Almería</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">04128</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">albert@icloud.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 950 08 77 00</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 650 22 32 03</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5361605</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Soldador</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Miguel Ángel Hernández Martínez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">391860682</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">15/09/2019</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">77629754</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Virgen Macarena</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se registró una <TAG TYPE="IDENTIF_BIOMETRICOS">sesión de firma biométrica</TAG>, el <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">código obtenido</TAG> para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">HP833MDV379</TAG>.
+  </TEXT>
+</MEDDOCAN>

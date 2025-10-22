@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Enrique Castro Mesa
+DNI: 71004193L
+Fecha de nacimiento: 01/04/1934
+Género: Varón
+Domicilio: Calle de las Yeserías 2
+Ciudad: Avilés, Albacete, Castilla-La Mancha
+Código postal: 02658
+Email: enrique@hotmail.com
+Teléfono fijo: +34 967 30 41 59
+Teléfono móvil: +34 767 60 08 39
+NHC: 7761402
+NASS: 277065263078
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dr. Albert Montero Blazquez. NC 757824267. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 19/08/1999
+Centro de salud: Centro de Salud Torrejón de Ardoz
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 65 años de edad. Se registró una sesión de huella dactilar, el código obtenido para revisarla es LQ942HJY065. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Enrique" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="47" text="Castro Mesa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="71004193L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="01/04/1934" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="108" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="143" text="Calle de las Yeserías 2" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="158" text="Avilés" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="168" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="188" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="02658" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="236" text="enrique@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 967 30 41 59" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="285" end="301" text="+34 767 60 08 39" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="307" end="314" text="7761402" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="321" end="333" text="277065263078" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="355" end="361" text="Minero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="396" end="419" text="Albert Montero Blazquez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="424" end="433" text="757824267" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="435" end="479" text="Investigador Principal en Optometría Clínica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="481" end="539" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="541" end="565" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="567" end="572" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="574" end="584" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="586" end="592" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="612" end="622" text="19/08/1999" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="640" end="673" text="Centro de Salud Torrejón de Ardoz" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="717" end="746" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="750" end="757" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T29" start="847" end="858" text="LQ942HJY065" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

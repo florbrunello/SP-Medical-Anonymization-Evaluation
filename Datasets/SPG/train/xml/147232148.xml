@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Montserrat Exposito Carrillo
+DNI: 61221950K
+Fecha de nacimiento: 01/02/1966
+Género: F
+Domicilio: Calle del Pez 18
+Ciudad: Vilanova i la Geltrú, Formentera, Islas Baleares
+Código postal: 07782
+Email: TWoM7@gmail.com
+Teléfono fijo: +34 971 72 27 07
+Teléfono móvil: +34 771 06 93 57
+NHC: 1103139
+Condición de riesgo: Inspector de Seguridad Minera
+
+Datos asistenciales.
+Médico: Dr. Salvador Cruz Franco. NC 324187869. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/08/2018
+Hospital: Hospital Universitario de Gran Canaria Dr. Negrín
+Matrícula del coche: 4948ECN
+Modelo: Hyundai Elantra
+VIN: VSXPT7ZVLKJ094539
+
+Informe clínico del paciente:
+Paciente fumador de 52 años de edad, acompañado de su nuera. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.150.220, con dirección MAC A5:CC:3B:7D:47:12. Se realizó un expediente con URL http://example-labs.com//83680731M. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es HD601CZS340. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Montserrat" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="56" text="Exposito Carrillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="62" end="71" text="61221950K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="93" end="103" text="01/02/1966" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="112" end="113" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="141" text="Calle del Pez 18" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="170" text="Vilanova i la Geltrú" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="182" text="Formentera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="184" end="198" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="214" end="219" text="07782" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="227" end="242" text="TWoM7@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="258" end="274" text="+34 971 72 27 07" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="291" end="307" text="+34 771 06 93 57" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="313" end="320" text="1103139" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="342" end="371" text="Inspector de Seguridad Minera" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="406" end="426" text="Salvador Cruz Franco" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="431" end="440" text="324187869" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="442" end="486" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="488" end="574" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="576" end="605" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="607" end="612" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="614" end="620" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="622" end="628" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="648" end="658" text="19/08/2018" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="669" end="718" text="Hospital Universitario de Gran Canaria Dr. Negrín" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="740" end="747" text="4948ECN" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="777" end="794" text="VSXPT7ZVLKJ094539" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="835" end="842" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="846" end="853" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="880" end="885" text="nuera" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="994" end="1011" text="A5:CC:3B:7D:47:12" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <OTHER id="T32" start="1046" end="1065" text="http://example-labs" TYPE="URL_WEB" comment=""/>
+        <ID id="T33" start="1164" end="1175" text="HD601CZS340" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

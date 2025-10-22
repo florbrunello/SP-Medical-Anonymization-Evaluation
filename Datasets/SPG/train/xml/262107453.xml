@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ramón Zamora Hidalgo
+DNI: 92178984K
+Fecha de nacimiento: 30/05/1980
+Género: M
+Domicilio: Calle de Moratín 71
+Ciudad: Burgos, Burgos, Castilla y León
+Código postal: 09835
+Email: ramon.zamora_hidalgo@ub.edu
+Teléfono fijo: +34 947 48 36 94
+Teléfono móvil: +34 747 93 21 04
+NHC: 8907567
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dra. Raquel Martínez Prieto. NC 369379964. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 15/04/1993
+Episodio: 99656307
+Centro de salud: Centro de Salud Arganzuela
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 12 años de edad, acompañado de su abuelo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Ramón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Zamora Hidalgo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="92178984K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="30/05/1980" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="136" text="Calle de Moratín 71" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="151" text="Burgos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="159" text="Burgos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="161" end="176" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="192" end="197" text="09835" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="205" end="232" text="ramon.zamora_hidalgo@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 947 48 36 94" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 747 93 21 04" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="8907567" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="332" end="350" text="Ingeniero de Minas" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="592" end="602" text="15/04/1993" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="613" end="621" text="99656307" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="639" end="665" text="Centro de Salud Arganzuela" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="709" end="737" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="741" end="748" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="775" end="781" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

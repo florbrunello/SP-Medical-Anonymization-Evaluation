@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sebastián Mesa Robles
+DNI: 67828581V
+Fecha de nacimiento: 19/05/2008
+Género: Varón
+Domicilio: Calle de Atocha 57
+Ciudad: Plasencia, Lérida, Cataluña
+Código postal: 25262
+Email: sebastianmesarobles@isciii.es
+Teléfono fijo: +34 973 14 04 62
+FAX: +34 973 58 73 76
+NHC: 4925653
+NASS: 886643780014
+Condición de riesgo: Trabajador Agrícola
+
+Datos asistenciales.
+Médico: Dra. María Concepción Padilla Montes. NC 349394405. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/10/2021
+Episodio: 98183598
+Centro de salud: Centro de Salud Valdemoro
+
+Informe clínico del paciente:
+Paciente de tez blanca de 13 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.204.227, con dirección MAC 0D:C8:C1:AC:D7:58. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es LC076KYG016. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Sebastián" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="49" text="Mesa Robles" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="67828581V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="19/05/2008" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="110" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="140" text="Calle de Atocha 57" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="158" text="Plasencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="166" text="Lérida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="176" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="192" end="197" text="25262" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="205" end="234" text="sebastianmesarobles@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 973 14 04 62" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="272" end="288" text="+34 973 58 73 76" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="294" end="301" text="4925653" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="308" end="320" text="886643780014" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="342" end="361" text="Trabajador Agrícola" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="640" end="650" text="17/10/2021" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="661" end="669" text="98183598" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="687" end="712" text="Centro de Salud Valdemoro" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="756" end="766" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="770" end="777" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="804" end="809" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="918" end="935" text="0D:C8:C1:AC:D7:58" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <ID id="T24" start="1019" end="1030" text="LC076KYG016" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

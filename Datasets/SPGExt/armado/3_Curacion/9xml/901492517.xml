@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ahmed Plaza Soriano</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">72724831G</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/03/2025</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Cabeza 93</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Majadahonda, Santa Cruz de Tenerife, Canarias</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">38570</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">plaza537@udc.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 922 54 27 37</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 722 41 51 43</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2469293</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">127004945971</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador Industrial</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alberto Vega Rueda</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">111416120</TAG>. <TAG TYPE="PROFESION">Endocrinólogo Especialista en Diabetes</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Barcelona</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7841EQU</TAG>.
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Ram 1500</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSTT7R59QPF102164</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia australiana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0 meses</TAG> de edad, acompañado de su abuela. Presenta un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipoglucemia severa</TAG>, con niveles de glucosa en sangre inferiores a <TAG TYPE="NUMERO_BENEF_PLAN_SALUD">30 mg/dl</TAG>. La paciente ha sido ingresada en la unidad de cuidados intensivos para recibir tratamiento de reanimación y estabilización.
+    La exploración física revela: Tª <TAG TYPE="OTRO_NUMERO_IDENTIF">36,5 C</TAG>; T.A: <TAG TYPE="OTRO_NUMERO_IDENTIF">90/60 mmHg</TAG>; Fc: <TAG TYPE="OTRO_NUMERO_IDENTIF">120 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="OTRO_NUMERO_IDENTIF">18,5 g/dl</TAG>; leucocitos <TAG TYPE="OTRO_NUMERO_IDENTIF">10.500/mm3</TAG> (neutrófilos <TAG TYPE="OTRO_NUMERO_IDENTIF">60%</TAG>); plaquetas <TAG TYPE="OTRO_NUMERO_IDENTIF">250.000/ mm3</TAG>. VSG: <TAG TYPE="OTRO_NUMERO_IDENTIF">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="OTRO_NUMERO_IDENTIF">90%</TAG>; TTPA <TAG TYPE="OTRO_NUMERO_IDENTIF">20,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="OTRO_NUMERO_IDENTIF">20 mg/dl</TAG>; urea <TAG TYPE="OTRO_NUMERO_IDENTIF">25 mg/dl</TAG>; creatinina <TAG TYPE="OTRO_NUMERO_IDENTIF">0,8 mg/dl</TAG>; sodio <TAG TYPE="OTRO_NUMERO_IDENTIF">135 mEq/l</TAG>; potasio <TAG TYPE="OTRO_NUMERO_IDENTIF">3,8 mEq/l</TAG>; GOT <TAG TYPE="OTRO_NUMERO_IDENTIF">15 U/l</TAG>; GPT <TAG TYPE="OTRO_NUMERO_IDENTIF">25 U/l</TAG>; GGT <TAG TYPE="OTRO_NUMERO_IDENTIF">35 U/l</TAG>; fosfatasa alcalina <TAG TYPE="OTRO_NUMERO_IDENTIF">140 U/l</TAG>; calcio <TAG TYPE="OTRO_NUMERO_IDENTIF">8,2 mg/dl</TAG>. Orina: sedimento normal.
+    Durante el ingreso se solicitan pruebas de imagen (Ecografía abdominal, TAC craneal, Ecocardiograma transtorácico) y pruebas de laboratorio (Hemocultivos, Serologías específicas para infecciones). Los resultados de estas pruebas no han sido obtenidos todavía.
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipoglucemia severa</TAG> se instaura tratamiento de reanimación y estabilización, incluyendo la administración de glucosa en vía intravenosa y la monitorización de los niveles de glucosa en sangre. El paciente se encuentra en estado estable y se espera que se recupere completamente con el tratamiento adecuado.
+    Evolución y comentarios:
+    La evolución del paciente ha sido favorable, con una recuperación completa de los niveles de glucosa en sangre y una estabilización del estado clínico. Se han realizado pruebas de imagen y laboratorio para determinar la causa subyacente de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipoglucemia severa</TAG>, pero los resultados no han sido obtenidos todavía.
+    Remitido por:
+    Se remite al paciente a la unidad
+  </TEXT>
+</MEDDOCAN>

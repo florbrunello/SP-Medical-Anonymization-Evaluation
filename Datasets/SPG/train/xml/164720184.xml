@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Antonia Casas Mateo
+DNI: 47149759N
+Fecha de nacimiento: 11/07/1927
+Género: F
+Domicilio: Calle del Marqués de Cubas 13
+Ciudad: Onda, Castellón, Comunidad Valenciana
+Código postal: 12957
+Email: mariaantonia.casas@salud.madrid.org
+Teléfono fijo: +34 964 94 51 95
+Teléfono móvil: +34 664 62 04 65
+NHC: 6156516
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dra. María Inmaculada Del Rio Varela. NC 605569325. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/01/1978
+Episodio: 73305374
+Hospital: Complejo Hospitalario Universitario de A Coruña
+
+Informe clínico del paciente:
+Paciente fumador de 50 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Antonia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="53" text="Casas Mateo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="47149759N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="11/07/1927" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="151" text="Calle del Marqués de Cubas 13" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="164" text="Onda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="175" text="Castellón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="197" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="12957" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="261" text="mariaantonia.casas@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="277" end="293" text="+34 964 94 51 95" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="310" end="326" text="+34 664 62 04 65" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="332" end="339" text="6156516" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="361" end="367" text="Minero" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="651" end="661" text="18/01/1978" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="672" end="680" text="73305374" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="691" end="738" text="Complejo Hospitalario Universitario de A Coruña" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="779" end="786" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="790" end="797" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

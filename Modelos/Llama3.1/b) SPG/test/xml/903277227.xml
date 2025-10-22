@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Christian Valero</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Durán</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">83644176F</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">28/06/1975</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Don Ramón de la Cruz 60</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Parla</TAG>, <TAG TYPE="TERRITORIO">Huelva</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">21524</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">valero.duran@ual.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 959 87 52 07</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 659 40 85 64</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2214465</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">717844049728</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Operador de Maquinaria Pesada</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Luz Méndez León</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">718631569</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">20/04/2007</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">02171681</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Basurto</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6292RRG</TAG>
+  Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Subaru Outback</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSFTUHWXLMK513538</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">31 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

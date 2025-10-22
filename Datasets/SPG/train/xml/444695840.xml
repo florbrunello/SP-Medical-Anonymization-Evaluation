@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Manuel Moreno García
+DNI: 35138053X
+Fecha de nacimiento: 19/07/1958
+Género: Masculino
+Domicilio: Calle del Nuncio 52, 5M
+Ciudad: Alcoy, Gerona, Cataluña
+Código postal: 17008
+Email: moreno@ub.edu
+Teléfono fijo: +34 972 64 29 71
+FAX: +34 972 55 02 70
+NHC: 6555964
+NASS: 797991203074
+Condición de riesgo: Conductor de Camión
+
+Datos asistenciales.
+Médico: Dr. Ángel Ortega Castillo. NC 546281382. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/12/1966
+Episodio: 88839978
+Hospital: Hospital Clínic Universitario de Valencia
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 8 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.165.16, con dirección MAC 47:4C:2A:A9:29:20. Se realizó un expediente con URL http://example-medical.edu//66859195M. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es PI193EMY064. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Moreno García" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="35138053X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="19/07/1958" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="113" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="148" text="Calle del Nuncio 52, 5M" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="162" text="Alcoy" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="170" text="Gerona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="180" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="17008" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="222" text="moreno@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="238" end="254" text="+34 972 64 29 71" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="260" end="276" text="+34 972 55 02 70" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="282" end="289" text="6555964" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="296" end="308" text="797991203074" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="330" end="349" text="Conductor de Camión" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="384" end="405" text="Ángel Ortega Castillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="410" end="419" text="546281382" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="421" end="452" text="Especialista en Genética Médica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="454" end="529" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="531" end="560" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="562" end="567" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="569" end="575" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="577" end="583" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="603" end="613" text="14/12/1966" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="624" end="632" text="88839978" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="643" end="684" text="Hospital Clínic Universitario de Valencia" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="728" end="754" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="758" end="764" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="791" end="796" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="904" end="921" text="47:4C:2A:A9:29:20" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <OTHER id="T32" start="956" end="978" text="http://example-medical" TYPE="URL_WEB" comment=""/>
+        <ID id="T33" start="1076" end="1087" text="PI193EMY064" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

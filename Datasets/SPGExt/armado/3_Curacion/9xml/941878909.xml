@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Purificación Benítez Espinosa</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">96065800K</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/04/1995</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Ferraz 5</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">San Vicente del Raspeig</TAG>, <TAG TYPE="TERRITORIO">La Coruña</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">15273</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">benitez1817@ual.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 981 24 69 30</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 781 12 45 71</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1142139</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Farmacéutico</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ángel Ortega Estevez</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 725003716</TAG>. <TAG TYPE="PROFESION">Residente</TAG> de <TAG TYPE="PROFESION">4° año</TAG> en <TAG TYPE="PROFESION">Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/10/1999</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital General de Villalba</TAG>
+    Informe clínico del paciente:
+    El paciente es un menor de edad que ha sido llevado al hospital por sus padres debido a una posible intoxicación por alcohol. Según los padres, el paciente ha estado bebiendo alcohol en la última semana, lo que ha causado problemas de salud. El paciente presenta síntomas de intoxicación, incluyendo vómitos, diarrea y problemas de coordinación.
+    La exploración física revela que el paciente tiene una temperatura corporal elevada, 38,5°C, y una frecuencia cardíaca acelerada, 120 latidos por minuto. El paciente también presenta signos de deshidratación, incluyendo boca seca y ojos secos.
+    Los análisis de sangre muestran que el paciente tiene niveles elevados de alcohol en la sangre, 150 mg/dl, y niveles bajos de glucosa, 60 mg/dl. El paciente también presenta un aumento en la creatinina, 1,2 mg/dl.
+    El tratamiento consiste en la administración de líquidos intravenosos para rehidratar al paciente, y la administración de medicamentos para controlar los síntomas de la intoxicación. El paciente también necesita ser monitoreado estrechamente para asegurarse de que no haya complicaciones.
+    La evolución del paciente es incierta en este momento, ya que depende de la gravedad de la intoxicación y la respuesta del paciente al tratamiento. Es importante que el paciente sea monitoreado estrechamente y que se le brinde el tratamiento adecuado para evitar complicaciones.
+    Antecedentes:
+    El paciente no tiene antecedentes médicos relevantes.
+    Evolución y comentarios:
+    El paciente ha estado mejorando lentamente desde que se inició el tratamiento. Sin embargo, aún está en una etapa crítica y necesita ser monitoreado estrechamente.
+    Remitido por:
+    El paciente ha sido remitido a la unidad de cuidados intensivos para ser monitoreado estrechamente y recibir el tratamiento adecuado.
+  </TEXT>
+</MEDDOCAN>

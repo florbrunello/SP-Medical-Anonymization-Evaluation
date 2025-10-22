@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vicente</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lopez Requena</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7436834</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">78 63457846 04</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. Nicaragua, 45, 1 D.</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Valencia</TAG>.
+    CP: <TAG TYPE="TERRITORIO">46021</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">29/06/1963</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">50 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">18/08/2013</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Delgado Oliva</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">46 46 25700</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">50 años</TAG> con antecedente de fijación en la columna lumbar por hernias discales, que presenta litiasis coraliforme en pelvis renal derecha escasamente radiopaca, con dilatación pielocalicial y retraso de la eliminación en la UIV. Se procede a administrar un tratamiento alcalinizante con citrato potásico (Acalka) a dosis de un comprimido cada 8 horas durante 3 meses y a la colocación de un catéter doble J derecho. Posteriormente se programan tres sesiones de litotricia extracorpórea con ondas de choque y se solicita UIV tras el tratamiento objetivando una anulación funcional de la unidad renal afecta a pesar de la colocación de catéter doble J.
+    Para valorar el estado funcional del riñón derecho se realiza un renograma isotópico y gammagrafía renal con escasa captación isotópica del riñón derecho y curva plana y obstructiva tras la administración del diurético en el renograma. La función renal total del riñón derecho es del <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9%</TAG>.
+    Se realiza una ureteroscopia derecha con anestesia para intentar filiar el origen de la anulación renal apreciando durante el procedimiento una estenosis ureteral lumbar e ilíaca de gran longitud (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">8-10 cm</TAG>) sin litiasis apreciable. Se asciende guía estándar (Cordis, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">150 cm</TAG> de largo y <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0,90 mm</TAG> de ancho con un revestimiento de politetrafluoroetileno) hasta riñón y se dilata repetidamente con balón neumático de alta presión (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">18 atmósferas</TAG>) sin conseguir resolver la estenosis ureteral, dado que durante las dilataciones la guía de trabajo es arrastrada con el balón hasta una posición más distal se decide colocar además una guía de seguridad y se procede a ascenderla hasta la pelvis renal para evitar su desplazamiento. Una vez finalizados los intentos de dilatación ureteral se decide la colocación de un catéter doble J que asciende sin problemas por la guía de trabajo. Sin embargo al intentar retirar dicha guía se observa que el bucle intrapiélico ha formado un nudo que impide retirarla.
+    En este momento se le plantean al paciente dos opciones terapéuticas: abordaje percutáneo para extracción del bucle o nefrectomía, dada la escasa funcionalidad del riñón derecho y la estenosis ureteral de gran longitud y difícil resolución con medidas conservadoras.
+    El paciente adoptó por la segunda opción realizando nefrectomía derecha si incidencias operatorias significativas, y estando el paciente asintomático en sus sucesivas visitas a consulta externa.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Delgado Oliva</TAG>. <TAG TYPE="CALLE">Avda. del Puerto, 1-8º puerta 14</TAG> - <TAG TYPE="TERRITORIO">46021</TAG> <TAG TYPE="TERRITORIO">Valencia</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">frandelgol@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

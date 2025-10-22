@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Adriana Delgado Moya
+DNI: 83337772D
+Fecha de nacimiento: 06/04/1945
+Género: F
+Domicilio: Calle de Narváez 66
+Ciudad: Marbella, Vizcaya, Pais Vasco
+Código postal: 48264
+Email: adriana.delgado_moya@ioba.med.uva.es
+Teléfono fijo: +34 946 93 01 61
+Teléfono móvil: +34 746 91 17 36
+NHC: 2303366
+NASS: 899564006818
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dra. Rebeca León Cuesta. NC 307412386. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 23/07/2015
+Episodio: 32053920
+Hospital: Hospital Universitario La Paz
+Matrícula del coche: 5744GIJ
+Modelo: Jeep Wrangler
+VIN: VSQ28EHFXFP133724
+
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 70 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Adriana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Delgado Moya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="83337772D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="06/04/1945" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="136" text="Calle de Narváez 66" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="153" text="Marbella" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="162" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="174" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="48264" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="239" text="adriana.delgado_moya@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 946 93 01 61" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 746 91 17 36" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="2303366" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="324" end="336" text="899564006818" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="358" end="364" text="Médico" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="610" end="620" text="23/07/2015" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="631" end="639" text="32053920" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="650" end="679" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="701" end="708" text="5744GIJ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="736" end="753" text="VSQ28EHFXFP133724" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="797" end="820" text="comunidades vulnerables" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="824" end="831" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

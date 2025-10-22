@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santiago</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Moreno Mora</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">87597589L</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/02/1982</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Lavapiés 42, 5H</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Novelda</TAG>, <TAG TYPE="TERRITORIO">Región de Murcia</TAG>, <TAG TYPE="TERRITORIO">Región de Murcia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">30957</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">MEICMnSDz@ciberned.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 968 62 32 49</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 768 33 18 16</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2848305</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">050859055515</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente pediátrico</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodrigo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pereira Moya</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">187336568</TAG>. Residente de <TAG TYPE="PROFESION">2° año</TAG> en <TAG TYPE="PROFESION">Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">13/10/1987</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">66400062</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Basurto</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTRO">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años</TAG> de edad, acompañado de su madre. Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">URL</TAG> <TAG TYPE="URL_WEB">http://example-healthcare.net//39715002T</TAG>.
+    Antecedentes:
+    El paciente tiene antecedentes de alergia a ciertos <TAG TYPE="OTRO">alimentos</TAG> y <TAG TYPE="OTRO">medicamentos</TAG>. Ha tenido episodios de <TAG TYPE="OTRO">asma</TAG> en el pasado y actualmente está bajo tratamiento con <TAG TYPE="OTRO">inhaladores</TAG>.
+    Evolución y comentarios:
+    El paciente se encuentra en una condición <TAG TYPE="OTRO">estable</TAG> y sin síntomas. Se le han realizado <TAG TYPE="OTRO">pruebas de laboratorio</TAG> y <TAG TYPE="OTRO">análisis de imágenes</TAG> para evaluar su condición médica.
+    Remitido por:
+    El paciente fue remitido por su <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">médico de cabecera</TAG>, quien sospechó una <TAG TYPE="OTRO">infección respiratoria</TAG>.
+    Fecha de ingreso:
+    <TAG TYPE="FECHAS">13/10/1987</TAG>
+    Centro de salud de ingreso:
+    <TAG TYPE="HOSPITAL">Hospital Universitario de Basurto</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Roberto Carlos</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Macias Ocampos</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8343735</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">89 25765897 68</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Viento, 15 </TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Majadahonda</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28220</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/04/1959</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">58 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">04/07/2017</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Ascensión</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Maestre Naranj</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 08 65495</TAG>.
+    Historia del paciente: Se presenta el caso clínico de un médico especialista en <TAG TYPE="PROFESION">microbiología</TAG>, con muchos años de experiencia, que se inocula accidentalmente, cuando realiza el antibiograma por el método <TAG TYPE="PROFESION">BACTEC MGIT 960</TAG>, de una cepa pura de <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mycobacterium tuberculosis</TAG>, aislada de una muestra de esputo procedente de un paciente ambulante de origen <TAG TYPE="TERRITORIO">español</TAG>; pinchándose en la cara lateral externa de la falange distal del dedo índice, atravesando el guante con la aguja contaminada.
+    En el momento de la inoculación realiza tratamiento inmediato de la herida (lavado con agua y jabón), comunicándolo más tarde al Servicio de Prevención de Riesgos Laborales (SPRL) donde se registra la inoculación como accidente de trabajo.
+    En el SPRL se revisa la historia medico-laboral de la trabajadora accidentada y se observa como dato de interés que tiene un Mantoux previo positivo; se solicita analítica y serologías para <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">VHC</TAG>, <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">VIH</TAG> y anticuerpos postvacunales cuantificados de <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">hepatitis B</TAG>; así mismo se informa a la trabajadora que ante cualquier signo o síntoma compatible con <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">tuberculosis</TAG> o con problemas en el lugar de la inoculación consultará al SPRL.
+    A las tres semanas aparece en el lugar de la inoculación una pápula eritematosa, levemente dolorosa a la presión que va creciendo hasta alcanzar un tamaño 1,5-2 cm., sin adenopatías axilares, ni clínica general. (Imagen 3)
+    Al observar la trabajadora que la lesión no mejora, realiza consulta informal al Servicio de <TAG TYPE="PROFESION">Cirugía Plástica</TAG>, desde este Servicio se solicita biopsia y exéresis de la lesión. Siendo los resultados anatomo-patológicos de <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">dermatitis granulomatosa</TAG>, con necrosis ocasional, muy sugestivo de <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">dermatitis tuberculosa</TAG>. (Imagen 4)
+    Imagen 4. Anatomía patológica: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">dermatitis granulomatosa</TAG>, sugestiva de <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">dermatitis tuberculosa</TAG>.
+    En el estudio microbiológico se observan dudosos bacilos ácido alcohol resistentes, y al cultivarse en <TAG TYPE="PROFESION">BACTEC MGIT 960</TAG> se confirma el crecimiento de <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mycobacterium tuberculosis</TAG>. Posteriormente se estudiaron ambos aislamientos (de la fuente y del trabajador accidentado), por <TAG TYPE="PROFESION">MIRU</TAG> (Mycobacterial interspersed repetitive units) confirmándose la identidad de ambas cepas. (Imagen 5)
+    Imagen 5. Estudio Microbiológico
+    Se confirma el Diagnóstico de <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Tuberculosis Cutánea</TAG> y se derivada a la trabajadora al Servicio de <TAG TYPE="PROFESION">Medicina Interna</TAG>, donde después de ser valorada inicia tratamiento antituberculoso con <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">rifampicina</TAG> 600 mgr., 250 mgr. de <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">isoniazida</TAG> y 1500 mgr. de <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">pirazinamida</TAG> en ayunas durante dos meses, continuando 4 meses mas con <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">rifampicina</TAG> 600 mgr e <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">isoniazida</TAG> 300 mgr al día. Desde este servicio además se realiza el seguimiento de la paciente con analíticas mensuales en las que no se detectan alteraciones, se observa una buena tolerancia a la medicación, y es dada de alta médica a los 7 meses del inicio del tratamiento.
+    El SPRL realiza la comunicación de <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Enfermedad Profesional</TAG> según el RD 1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de enfermedades profesionales en el sistema de la Seguridad Social y se establecen criterios para su notificación y registro.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Ascensión Maestre Naranj</TAG>. Servicio de Prevención Área 6 CAM. Hospital Universitario Puerta de Hierro Majadahonda. (Madrid). España Tfno. 670.97.10.26 E-mail: <TAG TYPE="CORREO_ELECTRONICO">Mmaestre.hpth@salud.madrid.org</TAG>
+  </TEXT>
+</MEDDOCAN>

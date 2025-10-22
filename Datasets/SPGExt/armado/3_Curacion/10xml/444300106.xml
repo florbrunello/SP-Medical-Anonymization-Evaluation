@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Antonio Alonso Abad</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">27994587E</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">25/10/1993</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Ayala 53, 1P</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Parla, Asturias, Asturias</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">33731</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">antonio-alonso.abad@isciii.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 984 91 33 68</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 684 26 82 91</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8455738</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">687832388326</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Técnico de Radiología</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Emma Conde Galvez</TAG>. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">NC 360294729</TAG>. <TAG TYPE="PROFESION">Investigadora Clínica en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/10/2012</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">21857099</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital GaldaKao - Usansolo</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/10/2012</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Hospital GaldaKao - Usansolo</TAG>.
+    Informe clínico del paciente:
+    El paciente, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">19 años</TAG> de edad, presentó síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal crónico</TAG> y pérdida de peso en los últimos meses. Su historia clínica incluye una antecedente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gastroesofagitis erosiva</TAG> tratada con medicamentos antiinflamatorios no esteroideos (AINE). En el examen físico, se observó una abdomen protuberante, con dolor en la región epigástrica y pérdida de apetito. Los análisis de laboratorio mostraron anemia leve y elevación de la enzima alanina aminotransferasa (ALT). Se solicitó una ecografía abdominal que reveló un tumor de 5 cm en el hígado. El paciente fue remitido a la Unidad de Cirugía Hepática para evaluación y tratamiento.
+    Antecedentes:
+    El paciente tiene una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gastroesofagitis erosiva</TAG> tratada con AINE.
+    Evolución y comentarios:
+    El paciente fue ingresado en la Unidad de Cirugía Hepática para evaluación y tratamiento del tumor hepático. Se realizaron pruebas de imagen y análisis de laboratorio para determinar la naturaleza y el tamaño del tumor. El paciente fue evaluado por un equipo de especialistas en cirugía hepática y se determinó que el tumor era inoperable. Se inició el tratamiento con quimioterapia y radioterapia para controlar el crecimiento del tumor.
+    Remitido por:
+    La <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Emma Conde Galvez</TAG>, <TAG TYPE="PROFESION">Investigadora Clínica en Medicina Interna</TAG>, remitió al paciente a la Unidad de Cirugía Hepática para evaluación y tratamiento del tumor hepático.
+  </TEXT>
+</MEDDOCAN>

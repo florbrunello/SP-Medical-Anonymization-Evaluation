@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Catalina Benito Suárez
+DNI: 38924386Z
+Fecha de nacimiento: 01/03/2010
+Género: M
+Domicilio: Calle de la Libertad 16
+Ciudad: Pamplona, Córdoba, Andalucía
+Código postal: 14203
+Email: suarez@ucm.es
+Teléfono fijo: +34 957 92 85 42
+Teléfono móvil: +34 757 92 10 14
+NHC: 4539996
+NASS: 021045942390
+Condición de riesgo: Técnico de Cuidados Auxiliares de Enfermería
+
+Datos asistenciales.
+Médico: Dr. Gonzalo Bravo Montes. NC 284746877. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/12/2024
+Episodio: 73319130
+Hospital: Complejo Hospitalario Universitario de Santiago
+
+Informe clínico del paciente:
+Paciente de tez blanca de 14 años de edad, acompañado de su abuela. Se realizó un expediente con URL http://example-biotech.com//58989623R. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Catalina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="50" text="Benito Suárez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="38924386Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="01/03/2010" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="142" text="Calle de la Libertad 16" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="159" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="168" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="179" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="14203" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="221" text="suarez@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="237" end="253" text="+34 957 92 85 42" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="270" end="286" text="+34 757 92 10 14" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="292" end="299" text="4539996" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="306" end="318" text="021045942390" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="340" end="384" text="Técnico de Cuidados Auxiliares de Enfermería" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="419" end="439" text="Gonzalo Bravo Montes" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="444" end="453" text="284746877" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="455" end="502" text="Investigador Clínico en Enfermedades Digestivas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="504" end="597" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="599" end="628" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="630" end="635" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="637" end="643" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="645" end="651" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="671" end="681" text="04/12/2024" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="692" end="700" text="73319130" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="711" end="758" text="Complejo Hospitalario Universitario de Santiago" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="802" end="812" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="816" end="823" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="850" end="856" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="891" end="913" text="http://example-biotech" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

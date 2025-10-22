@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rocío Quintana Herrero
+DNI: 41039958T
+Fecha de nacimiento: 19/10/1927
+Género: Femenino
+Domicilio: Calle de las Tres Cruces 36, 6T
+Ciudad: San Pedro del Pinatar, Las Palmas, Canarias
+Código postal: 35407
+Email: rocio@ciberned.es
+Teléfono fijo: +34 928 01 46 09
+Teléfono móvil: +34 728 60 74 60
+NHC: 5232862
+NASS: 596963554171
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dra. Manuela Vicente Pérez. NC 360023498. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/06/2015
+Episodio: 37888089
+Centro de salud: Centro de Salud Alhaurín de la Torre
+
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 87 años de edad. Se registró una sesión de huella dactilar, el código obtenido para revisarla es ST865NDJ969. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es QM122TEK093. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Rocío" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="50" text="Quintana Herrero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="41039958T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="19/10/1927" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="114" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="157" text="Calle de las Tres Cruces 36, 6T" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="166" end="187" text="San Pedro del Pinatar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="189" end="199" text="Las Palmas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="201" end="209" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="225" end="230" text="35407" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="238" end="255" text="rocio@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="271" end="287" text="+34 928 01 46 09" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="304" end="320" text="+34 728 60 74 60" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="326" end="333" text="5232862" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="340" end="352" text="596963554171" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="374" end="384" text="Paramédico" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="655" end="665" text="12/06/2015" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="676" end="684" text="37888089" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="702" end="738" text="Centro de Salud Alhaurín de la Torre" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="782" end="799" text="ascendencia árabe" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="803" end="810" text="87 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T22" start="900" end="911" text="ST865NDJ969" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T23" start="995" end="1006" text="QM122TEK093" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

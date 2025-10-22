@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Luisa</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Navarro Rivas</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">24391338E</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/06/1967</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Villalar 16</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Teruel</TAG>, <TAG TYPE="TERRITORIO">Lérida</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">25130</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">navarro_rivas510@ub.edu</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 973 56 08 00</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 673 26 24 39</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9164877</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">375871867500</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador Agrícola</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Rosario Vázquez Paredes</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">170773224</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/05/2013</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">82560013</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Regional Universitario de Málaga</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">45 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">prima</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP</TAG> (<TAG TYPE="TERRITORIO">192.168.43.207</TAG>), con <TAG TYPE="IDENTIF_BIOMETRICOS">dirección MAC</TAG> (<TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">86:88:59:20:0F:6B</TAG>). Se registró una <TAG TYPE="IDENTIF_BIOMETRICOS">sesión de firma biométrica</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código obtenido</TAG> para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">FL482KDV547</TAG>.
+  </TEXT>
+</MEDDOCAN>

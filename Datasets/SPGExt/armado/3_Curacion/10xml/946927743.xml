@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Moisés</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Hidalgo Vicente</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">66965330W</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">22/03/1961</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Sagasta 48</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Alcobendas, Formentera, Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07658</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">moises@ciberisciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 15 54 14</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 771 95 00 56</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0642538</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">468043486571</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Soldado</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Santiago</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Roldan Arroyo</TAG>
+    NC: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">664323484</TAG>
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/10/2000</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Delicias</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">39 años</TAG> de edad, acompañado de su hermana, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dislipemia</TAG>. Presenta un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia renal crónica</TAG> en estadio 3, con niveles de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina</TAG> de 2,5 mg/dl y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urea</TAG> de 120 mg/dl. La exploración física revela un paciente con apariencia general de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">mal estado de salud</TAG>, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">edema periférico</TAG> y ausencia de pulsos en las extremidades inferiores. La presión arterial es de 180/100 mmHg.
+    La evolución clínica ha sido marcada por episodios recurrentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fiebre</TAG>, que se han asociado con la presencia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bacterias resistentes a la penicilina</TAG> en la orina. Se han realizado varias pruebas diagnósticas, incluyendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hemocultivos</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">serologías</TAG>, que han demostrado la presencia de una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infección por Escherichia coli resistentes a la penicilina</TAG>.
+    El tratamiento ha consistido en la administración de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antibióticos de amplio espectro</TAG>, incluyendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ceftriaxona</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gentamicina</TAG>, así como la realización de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dialisis</TAG> para eliminar los productos de desecho del metabolismo renal. El paciente ha mostrado una respuesta favorable al tratamiento, con una reducción significativa de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urea</TAG> en la sangre.
+    La pronóstico es reservado, debido a la gravedad de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia renal crónica</TAG> y la presencia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infecciones recurrentes</TAG>. Es importante realizar un seguimiento estrecho del paciente para evitar complicaciones y mejorar la calidad de vida.
+    Evolución y comentarios:
+    El paciente ha estado en el hospital durante 14 días, durante los cuales ha recibido tratamiento intensivo para controlar la infección y la insuficiencia renal crónica. La evolución ha sido generalmente favorable, aunque se han producido algunos episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fiebre</TAG>. Se ha realizado una serie de pruebas diagnósticas para determinar la causa subyacente de la infección y la insuficiencia renal crónica.
+    Remitido por:
+    El paciente ha sido remitido a la <TAG TYPE="PROFESION">unidad de nefrología</TAG> para continuar con el tratamiento y el seguimiento. Se le ha recomendado realizar un seguimiento estrecho para evitar complicaciones y mejorar la calidad de vida.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mara</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Castañeda Ojeda</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">706143</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av, villa de vallecas 86, 1A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28009</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/05/2006</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">12 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">20/05/2018</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rubén</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernández</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García-Guilarte</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 76151</TAG>.
+    Historia del paciente: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">12 años</TAG> de edad, que refiere haber sufrido absceso facial izquierdo de origen dentario. La clínica predominante en el momento de nuestra valoración fue de imposibilidad para la apertura bucal. El hallazgo más significativo en la TAC y en la Resonancia Magnética Nuclear (RMN) fue la ausencia de glándula parótida izquierda y la deformidad mandibular con fusión de sus pared posterior al maxilar superior y apófisis pterigoidea izquierda, con el consiguiente desplazamiento anterior de los cóndilos mandibulares por displasia severa de la articulación témporomandibular.
+    Dada la situación clínica descrita, se requirió traqueotomía para proceder a la liberación extrarticular de la anquilosis máxilo-mandibular, extracción de piezas dentarias afectadas y cobertura con colgajo estándar de mucosa. En el postoperatorio inmediato se realizó fijación de la apertura bucal en 2 cm mediante cuña retromolar.
+    En el momento actual la paciente mantiene una apertura bucomandibular de 2,4 cm lo cual permite una alimentación sólida por boca. La confirmación de esta entidad se realizó mediante estudio anatomopatológico que informó de cambios compatibles con osteomielitis crónica.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rubén</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernández</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García-Guilarte</TAG> <TAG TYPE="CALLE">C/ Pedro Rico, 19 - 10o D</TAG> <TAG TYPE="TERRITORIO" >28029</TAG> <TAG TYPE="TERRITORIO" >Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>. e-mail: <TAG TYPE="CORREO_ELECTRONICO">rubenfergar@gmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

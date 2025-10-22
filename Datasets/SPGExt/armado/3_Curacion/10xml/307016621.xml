@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Noelia Mateos Ferrer</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">93357358J</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/02/1931</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Espíritu Santo 33, 2K</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Albacete, Granada, Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">18949</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mateos@gmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 26 87 28</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 758 56 65 01</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2258839</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paramédico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Ricardo Zamora Contreras</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 203904717</TAG>. <TAG TYPE="PROFESION">Residente de 5° año en Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="HOSPITAL">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">13/07/2006</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Hospital Universitario Severo Ochoa</TAG>.
+    Informe clínico del paciente:
+    Paciente vegano de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">75 años</TAG> de edad, acompañado de su marido. Presenta antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedad cardiovascular</TAG>. Se le realizó un estudio de exploración para valorar la presencia de complicaciones o comorbilidades asociadas con sus condiciones subyacentes.
+    La exploración física revela: <TAG TYPE="FECHAS">Tª 37,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 80 lpm</TAG>. Se encuentra consciente, orientado, sin signos de dolor o malestar. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="FECHAS">Hemograma: Hb 12,5 g/dl</TAG>; <TAG TYPE="FECHAS">leucocitos 8.500/mm3 (neutrófilos 60%)</TAG>; <TAG TYPE="FECHAS">plaquetas 200.000/mm3</TAG>. <TAG TYPE="FECHAS">VSG: 30 mm 1ª hora</TAG>. <TAG TYPE="FECHAS">Coagulación: TQ 95%</TAG>; <TAG TYPE="FECHAS">TTPA 25,8 seg</TAG>. <TAG TYPE="FECHAS">Bioquímica: Glucosa 120 mg/dl</TAG>; <TAG TYPE="FECHAS">urea 20 mg/dl</TAG>; <TAG TYPE="FECHAS">creatinina 0,8 mg/dl</TAG>; <TAG TYPE="FECHAS">sodio 135 mEq/l</TAG>; <TAG TYPE="FECHAS">potasio 3,5 mEq/l</TAG>; <TAG TYPE="FECHAS">GOT 15 U/l</TAG>; <TAG TYPE="FECHAS">GPT 25 U/l</TAG>; <TAG TYPE="FECHAS">GGT 30 U/l</TAG>; <TAG TYPE="FECHAS">fosfatasa alcalina 120 U/l</TAG>; <TAG TYPE="FECHAS">calcio 8,5 mg/dl</TAG>. <TAG TYPE="FECHAS">Orina: sedimento normal</TAG>.
+    Se decidió el alta del paciente con recomendaciones de seguimiento regular para valorar la evolución de sus condiciones subyacentes y ajustar el tratamiento según sea necesario.
+    </TEXT>
+  </MEDDOCAN>

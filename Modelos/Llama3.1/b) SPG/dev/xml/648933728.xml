@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rosario</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rivero Benítez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">21052561V</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/11/1977</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Embajadores 40, 4M</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Yecla</TAG>, <TAG TYPE="TERRITORIO">Castellón</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">12658</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">rosario.rivero@outlook.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 964 36 00 47</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 664 42 41 11</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5527675</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">756897632588</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Dolores Giménez Palacios</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">704212904</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Psiquiatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/01/1986</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">30371624</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Centro</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">9073AZI</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Chevrolet Silverado</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSFXFHM012Q184880</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia gitana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuelo</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de escaneo retiniano</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código obtenido para revisarla</TAG> es <TAG TYPE="OTRO_NUMERO_IDENTIF">DJ327ULQ386</TAG>.
+  </TEXT>
+</MEDDOCAN>

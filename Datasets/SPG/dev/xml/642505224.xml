@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Manuel Jesús Escudero Rivero
+DNI: 16970780T
+Fecha de nacimiento: 04/03/2020
+Género: Masculino
+Domicilio: Calle del Fúcar 48
+Ciudad: Jaén, Vizcaya, Pais Vasco
+Código postal: 48592
+Email: escudero.rivero@ub.edu
+Teléfono fijo: +34 946 56 32 36
+FAX: +34 946 46 47 68
+NHC: 1960195
+Condición de riesgo: Técnico de Radiología
+
+Datos asistenciales.
+Médico: Dr. Leo Sáez Robles. NC 655312885. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 27/03/2021
+Episodio: 13492216
+Centro de salud: Centro de Salud Fuengirola
+Matrícula del coche: 2777DIJ
+Modelo: Mercedes-Benz C-Class
+VIN: VSNT0EOLAAG691753
+
+Informe clínico del paciente:
+Paciente de tez blanca de un año de edad, acompañado de su tía. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="Manuel Jesús" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="56" text="Escudero Rivero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="62" end="71" text="16970780T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="93" end="103" text="04/03/2020" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="112" end="121" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="133" end="151" text="Calle del Fúcar 48" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="164" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="173" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="185" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="48592" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="236" text="escudero.rivero@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 946 56 32 36" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 946 46 47 68" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="296" end="303" text="1960195" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="325" end="346" text="Técnico de Radiología" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="381" end="396" text="Leo Sáez Robles" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="401" end="410" text="655312885" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="412" end="452" text="Investigador Clínico en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="454" end="521" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="523" end="550" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="552" end="557" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="559" end="566" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="568" end="574" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="594" end="604" text="27/03/2021" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="615" end="623" text="13492216" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="641" end="667" text="Centro de Salud Fuengirola" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="689" end="696" text="2777DIJ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="732" end="749" text="VSNT0EOLAAG691753" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="793" end="803" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="807" end="813" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="840" end="843" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

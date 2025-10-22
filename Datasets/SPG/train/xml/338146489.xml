@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Vicente Hidalgo Parra
+DNI: 74710515Y
+Fecha de nacimiento: 06/05/1935
+Género: V
+Domicilio: Calle de la Fe 90
+Ciudad: Málaga, Orense, Galicia
+Código postal: 32788
+Email: vicente.hidalgo770@imibic.org
+Teléfono fijo: +34 988 85 10 15
+Teléfono móvil: +34 788 99 23 87
+NHC: 7036102
+NASS: 007481585651
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dr. David Castillo Conde. NC 955564393. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 07/03/2000
+Episodio: 16687748
+Centro de salud: Centro de Salud Centro
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática del sudeste de 64 años de edad, acompañado de su pareja. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Vicente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="49" text="Hidalgo Parra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="74710515Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="06/05/1935" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="135" text="Calle de la Fe 90" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="144" end="150" text="Málaga" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="152" end="158" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="160" end="167" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="183" end="188" text="32788" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="196" end="225" text="vicente.hidalgo770@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 988 85 10 15" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 788 99 23 87" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="296" end="303" text="7036102" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="310" end="322" text="007481585651" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="344" end="365" text="Trabajador de Almacén" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="400" end="420" text="David Castillo Conde" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="425" end="434" text="955564393" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="436" end="476" text="Investigador Clínico en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="478" end="545" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="547" end="574" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="576" end="581" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="583" end="590" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="592" end="598" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="618" end="628" text="07/03/2000" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="639" end="647" text="16687748" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="665" end="687" text="Centro de Salud Centro" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="731" end="763" text="ascendencia asiática del sudeste" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="767" end="774" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="801" end="807" text="pareja" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

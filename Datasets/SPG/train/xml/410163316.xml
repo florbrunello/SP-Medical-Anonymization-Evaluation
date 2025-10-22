@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Luisa Aguilera Castro
+DNI: 22440786P
+Fecha de nacimiento: 24/06/1928
+Género: F
+Domicilio: Calle de Atocha 84, 5P
+Ciudad: Dos Hermanas, Zamora, Castilla y León
+Código postal: 49345
+Email: castro@outlook.com
+Teléfono fijo: +34 980 32 94 58
+Teléfono móvil: +34 680 99 37 78
+NHC: 9365602
+NASS: 500393395625
+
+Datos asistenciales.
+Médico: Dra. Lourdes Sáez Ferrer. NC 502039575. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/1950
+Episodio: 63993131
+Hospital: Hospital Universitario Ramón y Cajal
+
+Informe clínico del paciente:
+Paciente de tez blanca de 21 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="María Luisa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="55" text="Aguilera Castro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="22440786P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="24/06/1928" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="112" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="146" text="Calle de Atocha 84, 5P" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="167" text="Dos Hermanas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="175" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="192" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="208" end="213" text="49345" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="221" end="239" text="castro@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 980 32 94 58" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 680 99 37 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="9365602" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="324" end="336" text="500393395625" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="598" end="608" text="09/03/1950" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="619" end="627" text="63993131" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="638" end="674" text="Hospital Universitario Ramón y Cajal" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="718" end="728" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="732" end="739" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="766" end="771" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

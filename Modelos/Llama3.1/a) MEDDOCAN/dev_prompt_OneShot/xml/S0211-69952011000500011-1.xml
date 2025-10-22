@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pilar</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marinez Rodriguez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">784123665</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">89 19924674 01</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Méjico, 16</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Guadalajara</TAG>.
+    CP: <TAG TYPE="TERRITORIO">19002</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/12/1949</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">68 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA"></TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">16/10/2017</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Nefrología</TAG>.
+    Episodio: <TAG TYPE="OTROS_SUJETO_ASISTENCIA"></TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gabriel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">de Arriba</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">19 19 87465</TAG>.
+    Motivo de ingreso: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Dolores óseos</TAG>.
+    Antecedentes: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión, diabetes mellitus tipo 2, artrosis generalizada, insuficiencia cardíaca congestiva en estadio II de la NYHA y fibrilación auricular crónica</TAG>.
+    Historia Actual: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mujer de 68 años, estaba siendo tratada con metformina (850 mg/8 horas), glipizida (5 mg/día), lercanidipino (10 mg/día), lisinopril-hidroclorotiazida (20/12,5 mg/día), acenocumarol y, ocasionalmente, ibuprofeno</TAG>. Dos días antes del ingreso por aumento de dolores óseos recibe <TAG TYPE="OTRO_NUMERO_IDENTIF">ibuprofeno (600 mg/8 horas)</TAG>, comenzando posteriormente con deterioro general, vómitos y disminución del nivel de conciencia.
+    En urgencias estaba hipotensa y mal prefundida en coma (Glasgow 6/15) y en la analítica se objetivó <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina plasmática de 1,79 mg/dl, glucemia de 215 mg/dl y tiempo de protrombina del 7%</TAG>. La gasometría arterial tenía un pH de 7,03 con bicarbonato de 10 mEq/l y un ácido láctico plasmático de 14 mmol/l. La radiografía de tórax reveló un infiltrado en la base izquierda.
+    Evolución y comentarios: Fue trasladada a la unidad de cuidados intensivos (UCI) y se le realizó intubación orotraqueal con ventilación mecánica y administración de fármacos vasoactivos y antibióticos. Se indicó punción lumbar, cuyo resultado fue compatible con meningitis neumocócica. Se realizó hemodiálisis con baño de bicarbonato teniendo posteriormente una mejoría analítica con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina (Cr) plasmática de 1,2 mg/dl y bicarbonato sérico de 22 mEq/l</TAG>. No obstante, la paciente permaneció en coma, con EEG con ondas de bajo voltaje, falleciendo a las 72 horas del ingreso.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Gabriel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">de Arriba</TAG>, <TAG TYPE="PROFESION">Sección de Nefrología</TAG>, <TAG TYPE="HOSPITAL">Hospital Universitario de Guadalajara</TAG>. <TAG TYPE="INSTITUCION">Departamento de Medicina</TAG>. <TAG TYPE="INSTITUCION">Universidad de Alcalá</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">garribad@senefro.org</TAG>.
+  </TEXT>
+</MEDDOCAN>

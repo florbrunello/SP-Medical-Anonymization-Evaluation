@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iván</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Román</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ramos</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">30731563K</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/05/2003</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Marqués de Urquijo 49</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcorcón</TAG>, <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">34739</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ivan.roman.ramos@isciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 61 27 18</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 779 92 42 89</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5830940</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">017320320723</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Enfermera</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Irene Ibáñez Estevez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">741571056</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Insuficiencia Cardíaca</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Arganzuela</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">21 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

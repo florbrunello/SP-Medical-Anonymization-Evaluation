@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Roberto Heredia Robles
+DNI: 66156683N
+Fecha de nacimiento: 13/03/1972
+Género: Varón
+Domicilio: Calle de Atocha 36, 4A
+Ciudad: Móstoles, Alicante, Comunidad Valenciana
+Código postal: 03076
+Email: roberto.robles906@ucm.es
+Teléfono fijo: +34 965 84 66 58
+Teléfono móvil: +34 665 07 36 67
+NHC: 9861072
+NASS: 406198355720
+Condición de riesgo: Trabajador de Sanitización
+
+Datos asistenciales.
+Médico: Dra. Carolina Vega Varela. NC 614111473. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/06/1992
+Centro de salud: Centro de Salud Torrejón de Ardoz
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 20 años de edad. Se registró una sesión de firma biométrica, el código obtenido para revisarla es LN853WJE350. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Roberto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Heredia Robles" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="66156683N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="13/03/1972" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="145" text="Calle de Atocha 36, 4A" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="162" text="Móstoles" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="172" text="Alicante" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="194" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="03076" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="247" text="roberto.robles906@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="263" end="279" text="+34 965 84 66 58" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="296" end="312" text="+34 665 07 36 67" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="318" end="325" text="9861072" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="332" end="344" text="406198355720" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="366" end="392" text="Trabajador de Sanitización" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="673" end="683" text="30/06/1992" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="701" end="734" text="Centro de Salud Torrejón de Ardoz" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="778" end="798" text="ascendencia asiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="802" end="809" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T21" start="900" end="911" text="LN853WJE350" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

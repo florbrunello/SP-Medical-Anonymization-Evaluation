@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Antonio Garrido Herrero
+DNI: 24162582R
+Fecha de nacimiento: 06/04/1957
+Género: Hombre
+Domicilio: Calle de Claudio Coello 69, 1O
+Ciudad: Cuenca, Salamanca, Castilla y León
+Código postal: 37246
+Email: herrero@outlook.com
+Teléfono fijo: +34 923 80 06 30
+Teléfono móvil: +34 723 69 10 52
+NHC: 0598377
+
+Datos asistenciales.
+Médico: Dra. María Rosa Quintana Salas. NC 811862937. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/10/1975
+Episodio: 67722903
+Centro de salud: Centro de Salud Benalmádena
+
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 18 años de edad, acompañado de su prima. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es KM421BUF288. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="José Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="56" text="Garrido Herrero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="62" end="71" text="24162582R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="93" end="103" text="06/04/1957" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="112" end="118" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="130" end="160" text="Calle de Claudio Coello 69, 1O" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="169" end="175" text="Cuenca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="177" end="186" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="188" end="203" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="219" end="224" text="37246" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="232" end="251" text="herrero@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="267" end="283" text="+34 923 80 06 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="300" end="316" text="+34 723 69 10 52" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="322" end="329" text="0598377" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="615" end="625" text="27/10/1975" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="636" end="644" text="67722903" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="662" end="689" text="Centro de Salud Benalmádena" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T18" start="733" end="763" text="ascendencia africana del norte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="767" end="774" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="801" end="806" text="prima" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T21" start="894" end="905" text="KM421BUF288" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

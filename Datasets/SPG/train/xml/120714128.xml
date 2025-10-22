@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Antonio José Alarcon Arroyo
+DNI: 32405541J
+Fecha de nacimiento: 09/07/1958
+Género: M
+Domicilio: Calle de las Tres Cruces 72
+Ciudad: Avilés, Albacete, Castilla-La Mancha
+Código postal: 02918
+Email: alarcon_arroyo@ub.edu
+Teléfono fijo: +34 967 15 58 99
+Teléfono móvil: +34 667 45 51 82
+NHC: 9386488
+NASS: 380906084685
+Condición de riesgo: Químico
+
+Datos asistenciales.
+Médico: Dr. Diego Román Torres. NC 437964909. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/03/1982
+Episodio: 14753961
+Centro de salud: Centro de Salud Aranjuez
+
+Informe clínico del paciente:
+Paciente de ascendencia centroasiática de 23 años de edad. Se realizó un expediente con URL http://example-labs.com//50515210P. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="Antonio José" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="55" text="Alarcon Arroyo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="32405541J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="09/07/1958" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="112" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="151" text="Calle de las Tres Cruces 72" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="166" text="Avilés" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="176" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="196" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="212" end="217" text="02918" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="225" end="246" text="alarcon_arroyo@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="262" end="278" text="+34 967 15 58 99" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="295" end="311" text="+34 667 45 51 82" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="317" end="324" text="9386488" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="331" end="343" text="380906084685" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="365" end="372" text="Químico" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="407" end="425" text="Diego Román Torres" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="430" end="439" text="437964909" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="441" end="496" text="Gastroenterólogo Especialista en Enfermedades Hepáticas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="498" end="591" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="593" end="622" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="624" end="629" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="631" end="637" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="639" end="645" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="665" end="675" text="08/03/1982" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="686" end="694" text="14753961" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="712" end="736" text="Centro de Salud Aranjuez" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="780" end="806" text="ascendencia centroasiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="810" end="817" text="23 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="860" end="879" text="http://example-labs" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

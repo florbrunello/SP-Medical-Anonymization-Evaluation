@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Julia Maldonado Rivas
+DNI: 27757422X
+Fecha de nacimiento: 04/06/1961
+Género: Femenino
+Domicilio: Calle de Segovia 95, 2I
+Ciudad: Logroño, Málaga, Andalucía
+Código postal: 29087
+Email: maldonado@uhu.es
+Teléfono fijo: +34 951 38 40 69
+Teléfono móvil: +34 651 52 11 09
+NHC: 7061568
+NASS: 059745517821
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dra. Rosa Lorenzo Villar. NC 285954486. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/07/1968
+Episodio: 51858572
+Hospital: Hospital Universitario Río Hortega
+
+Informe clínico del paciente:
+Paciente no fumador de 7 años de edad, acompañado de su tía. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Julia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="49" text="Maldonado Rivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="27757422X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="04/06/1961" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="113" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="148" text="Calle de Segovia 95, 2I" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="164" text="Logroño" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="172" text="Málaga" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="183" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="199" end="204" text="29087" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="212" end="228" text="maldonado@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="244" end="260" text="+34 951 38 40 69" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="277" end="293" text="+34 651 52 11 09" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="299" end="306" text="7061568" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="313" end="325" text="059745517821" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="347" end="355" text="Granjero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="609" end="619" text="22/07/1968" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="630" end="638" text="51858572" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="649" end="683" text="Hospital Universitario Río Hortega" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="724" end="734" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="738" end="744" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="771" end="774" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

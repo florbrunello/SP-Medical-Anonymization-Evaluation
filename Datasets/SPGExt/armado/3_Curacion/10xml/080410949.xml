@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ana María</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rojas Caballero</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">57047228Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/04/2024</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Virgen de los Peligros 14</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Pamplona</TAG>, <TAG TYPE="TERRITORIO">Álava</TAG>, <TAG TYPE="PAIS">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">01034</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">anamaria@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 945 73 66 05</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 645 27 53 88</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4896901</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">591032655975</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Bombero</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Iker</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Herrera Lozano</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">865404999</TAG>. Investigador Principal en <TAG TYPE="PROFESION">Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">95851590</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Asistencial Universitario de León</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática occidental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 meses de edad</TAG>, acompañado de su hermana. La madre informa que el paciente ha presentado episodios de vómitos y diarrea durante las últimas 48 horas, con aumento de temperatura corporal a <TAG TYPE="OTROS_SUJETO_ASISTENCIA">38,5°C</TAG>. El paciente también ha presentado irritabilidad y dificultad para conciliar el sueño.
+    Antecedentes:
+    El paciente tiene un antecedente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alergia a la leche de vaca</TAG>, por lo que se ha cambiado a una dieta de leche de cabra. La madre informa que el paciente ha estado tomando un medicamento para la alergia desde que tenía <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 meses de edad</TAG>.
+    Evolución y comentarios:
+    El paciente ha sido evaluado por un <TAG TYPE="PROFESION">pediatra</TAG> y se ha realizado una exploración física completa. Se han encontrado signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infección respiratoria</TAG>, con tos y dificultad para respirar. El paciente también presenta signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">deshidratación</TAG>, con boca seca y ojos hundidos.
+    Remitido por:
+    El paciente ha sido remitido por su <TAG TYPE="PROFESION">pediatra</TAG>, quien ha solicitado una evaluación más detallada debido a la gravedad de los síntomas.
+  </TEXT>
+</MEDDOCAN>

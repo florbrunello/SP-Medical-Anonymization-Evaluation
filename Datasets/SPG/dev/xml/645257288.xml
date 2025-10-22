@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Begoña Ríos Gómez
+DNI: 47180237S
+Fecha de nacimiento: 27/08/2018
+Género: Femenino
+Domicilio: Calle de las Tres Cruces 27
+Ciudad: Telde, León, Castilla y León
+Código postal: 24474
+Email: brMom@h12o.es
+Teléfono fijo: +34 987 93 86 79
+Teléfono móvil: +34 787 48 84 84
+NHC: 2835379
+NASS: 400350531122
+Condición de riesgo: Cirujano
+
+Datos asistenciales.
+Médico: Dra. Ángeles Calderon Giménez. NC 843628670. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/10/2024
+Episodio: 73604999
+Hospital: Complejo Hospitalario Universitario de Santiago
+Matrícula del coche: 2997SWP
+Modelo: Ram 1500
+VIN: VSI8HT0MW7J533608
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena centroamericana de 6 años de edad, acompañado de su tío. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Begoña" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="45" text="Ríos Gómez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="47180237S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="27/08/2018" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="109" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="148" text="Calle de las Tres Cruces 27" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="162" text="Telde" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="168" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="185" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="24474" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="227" text="brMom@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="243" end="259" text="+34 987 93 86 79" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="276" end="292" text="+34 787 48 84 84" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="298" end="305" text="2835379" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="312" end="324" text="400350531122" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="346" end="354" text="Cirujano" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="639" end="649" text="25/10/2024" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="660" end="668" text="73604999" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="679" end="726" text="Complejo Hospitalario Universitario de Santiago" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="748" end="755" text="2997SWP" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="778" end="795" text="VSI8HT0MW7J533608" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="839" end="875" text="ascendencia indígena centroamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="879" end="885" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="912" end="915" text="tío" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

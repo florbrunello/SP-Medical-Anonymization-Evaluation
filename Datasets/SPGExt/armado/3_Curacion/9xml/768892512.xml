@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Dolores Alarcon Izquierdo</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">73785749R</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/02/1954</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Virgen de los Peligros 50</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Benidorm, Badajoz, Extremadura</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">06942</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">TTSvsG1299@uca.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 924 42 67 09</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 624 21 87 84</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6554981</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">463842492342</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente de alto riesgo cardiovascular</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. José Carlos Rivas Soto</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 465819833</TAG>. <TAG TYPE="PROFESION">Oftalmólogo Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/07/2022</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Este</TAG>.
+    Antecedentes:
+    El paciente refiere una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> controlada con tratamiento farmacológico durante los últimos 5 años. También tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, controlada con dieta y ejercicio. El paciente es <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador activo</TAG> desde los 25 años.
+    Evolución y comentarios:
+    El paciente fue ingresado en el Servicio de Urgencias por un cuadro de dolor de cabeza severo y vómitos durante las últimas 24 horas. La exploración física revela: <TAG TYPE="FECHAS">Tª 38,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 140/90 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 90 lpm</TAG>. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación.
+    Informe clínico del paciente:
+    El paciente, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">68 años</TAG> de edad, presenta un cuadro de dolor de cabeza severo y vómitos durante las últimas 24 horas. La exploración física revela <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="FECHAS">fiebre</TAG>. El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>. El tratamiento farmacológico actual incluye <TAG TYPE="OTROS_SUJETO_ASISTENCIA">amlodipino 5 mg vía oral cada 12 horas</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">metformina 500 mg vía oral cada 12 horas</TAG>.
+    La exploración neurológica revela: el paciente está consciente y orientado, con buen estado de nutrición e hidratación. La exploración visual revela: el paciente tiene visión normal en ambos ojos.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="FECHAS">Hemograma: Hb 13,5 g/dl</TAG>; <TAG TYPE="FECHAS">leucocitos 12.000/mm3 (neutrófilos 70%)</TAG>; <TAG TYPE="FECHAS">plaquetas 250.000/mm3</TAG>. <TAG TYPE="FECHAS">VSG: 30 mm 1ª hora</TAG>. <TAG TYPE="FECHAS">Coagulación: TQ 90%</TAG>; <TAG TYPE="FECHAS">TTPA 25,5 seg</TAG>. <TAG TYPE="FECHAS">Bioquímica: Glucosa 120 mg/dl</TAG>; <TAG TYPE="FECHAS">urea 30 mg/dl</TAG>; <TAG TYPE="FECHAS">creatinina 1,0 mg/dl</TAG>; <TAG TYPE="FECHAS">sodio 135 mEq/l</TAG>; <TAG TYPE="FECHAS">potasio 3,7 mEq/l</TAG>; <TAG TYPE="FECHAS">GOT 15 U/l</TAG>; <TAG TYPE="FECHAS">GPT 25 U/l</TAG>; <TAG TYPE="FECHAS">GGT 35 U/l</TAG>; <TAG TYPE="FECHAS">fosfatasa alcalina 140 U/l</TAG>; <TAG TYPE="FECHAS">calcio 8,5 mg/dl</TAG>. <TAG TYPE="FECHAS">Orina: sedimento normal</TAG>.
+    Durante el ingreso se solicitan pruebas diagnósticas: <TAG TYPE="FECHAS">Ecografía cerebral</TAG>, que revela un coágulo en el territorio cerebral derecho. El paciente es sometido a tratamiento anticoagulante con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">heparina subcutánea</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">aspirina oral</TAG>.
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">trombosis cerebral</TAG> se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">antitérmicos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antiinflamatorios</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG>) así como tratamiento anticoagulante con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">heparina subcutánea</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">aspirina oral</TAG>. El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde continúa con el tratamiento anticoagulante.
+    Remitido por:
+    El paciente fue remitido por el <TAG TYPE="CENTRO_SALUD">Servicio de Urgencias</TAG> del <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Este</TAG>.
+  </TEXT>
+</MEDDOCAN>

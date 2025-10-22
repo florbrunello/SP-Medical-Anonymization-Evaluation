@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Begoña</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Plaza Parra</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">90974139P</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/02/1977</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Jesús y María 30, 8K</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Burgos</TAG>, <TAG TYPE="TERRITORIO">Castellón</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">12314</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariabegona-parra1736@outlook.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 964 33 66 56</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 664 96 34 29</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0773032</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">046816799534</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Raquel Marín Guzman</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">416908202</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Gastroenteróloga Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/04/2005</TAG>
+    Episodio: <TAG TYPE="OTRO_NUMERO_IDENTIF">81671587</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Rey Juan Carlos de Mostoles</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">9323PHQ</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Chevrolet Silverado</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSF53OFE79L627315</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">28 años</TAG> de edad. Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">URL</TAG> <TAG TYPE="URL_WEB">http://example-dermatology.org//99744211O</TAG>.
+  </TEXT>
+</MEDDOCAN>

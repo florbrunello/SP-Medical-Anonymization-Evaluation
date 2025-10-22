@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Claudia Serrano Parra
+DNI: 19248542A
+Fecha de nacimiento: 18/04/2011
+Género: F
+Domicilio: Calle de las Infantas 80
+Ciudad: Puertollano, Castellón, Comunidad Valenciana
+Código postal: 12345
+Email: claudiaserrano.parra1608@ciberned.es
+Teléfono fijo: +34 964 99 39 89
+Teléfono móvil: +34 664 15 05 29
+NHC: 3086676
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dr. Manuel Varela Torres. NC 017352968. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/08/2016
+Episodio: 39989280
+Centro de salud: Centro de Salud Sevilla Oeste
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena americana de 5 años de edad, acompañado de su madre. Se registró una sesión de firma biométrica, el código obtenido para revisarla es KR834DDR636. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Claudia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="49" text="Serrano Parra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="19248542A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="18/04/2011" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="142" text="Calle de las Infantas 80" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="162" text="Puertollano" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="173" text="Castellón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="195" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="211" end="216" text="12345" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="224" end="260" text="claudiaserrano.parra1608@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="276" end="292" text="+34 964 99 39 89" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="309" end="325" text="+34 664 15 05 29" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="331" end="338" text="3086676" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="360" end="391" text="Operador de Maquinaria Agrícola" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="426" end="446" text="Manuel Varela Torres" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="451" end="460" text="017352968" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="462" end="502" text="Especialista en Enfermedades Infecciosas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="504" end="588" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="590" end="619" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="621" end="626" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="628" end="634" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="636" end="642" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="662" end="672" text="05/08/2016" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="683" end="691" text="39989280" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="709" end="738" text="Centro de Salud Sevilla Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="782" end="812" text="ascendencia indígena americana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="816" end="822" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="849" end="854" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="937" end="948" text="KR834DDR636" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

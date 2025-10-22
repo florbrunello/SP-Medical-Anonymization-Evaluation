@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Roberto Plaza Robles
+DNI: 12912085T
+Fecha de nacimiento: 22/04/1952
+Género: Hombre
+Domicilio: Calle del Pez 11
+Ciudad: Pamplona, Menorca, Islas Baleares
+Código postal: 07384
+Email: roberto.robles@isciii.es
+Teléfono fijo: +34 971 13 87 84
+Teléfono móvil: +34 671 79 01 79
+NHC: 8159572
+NASS: 084681040441
+
+Datos asistenciales.
+Médico: Dra. Montserrat Rivero Soler. NC 179854257. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/12/1986
+Episodio: 19887988
+Hospital: Hospital Regional Universitario de Málaga
+
+Informe clínico del paciente:
+Paciente vegano de 34 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Roberto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Plaza Robles" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="12912085T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="22/04/1952" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="110" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="138" text="Calle del Pez 11" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="155" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="164" text="Menorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="180" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="07384" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="233" text="roberto.robles@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 971 13 87 84" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 671 79 01 79" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="304" end="311" text="8159572" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="318" end="330" text="084681040441" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="606" end="616" text="08/12/1986" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="627" end="635" text="19887988" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="646" end="687" text="Hospital Regional Universitario de Málaga" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="728" end="734" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="738" end="745" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="772" end="778" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

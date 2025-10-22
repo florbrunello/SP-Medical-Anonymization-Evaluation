@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Isabel Rodríguez Rubio
+DNI: 65690238F
+Fecha de nacimiento: 16/07/1942
+Género: Mujer
+Domicilio: Calle de la Paz 4, 10Q
+Ciudad: Palencia, Cáceres, Extremadura
+Código postal: 10359
+Email: rodriguez.rubio@ual.es
+Teléfono fijo: +34 927 82 08 82
+Teléfono móvil: +34 627 07 22 24
+NHC: 0006082
+NASS: 229612396800
+
+Datos asistenciales.
+Médico: Dr. Agustín Galvez Varela. NC 222431510. Neurólogo Investigador en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 18/09/1954
+Centro de salud: Centro de Salud Arganzuela
+Matrícula del coche: 3560OAO
+Modelo: Hyundai Elantra
+VIN: VSALP5SP5TS951091
+
+Informe clínico del paciente:
+Paciente de tez blanca de 12 años de edad, acompañado de su abuela. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es LA673SNJ729. 

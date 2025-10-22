@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Christian</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Diaz Menendez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7234623</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">28 27620475 65</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Mateo Inurria, 3, 5, A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28035</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/05/1978</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">38 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/08/2016</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Nefrología</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Borja</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Quiroga</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 56478</TAG>.
+    Historia Actual: Paciente varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">38 años</TAG> de edad sin antecedentes de interés que acude urgencias por cuadro sincopal acompañado de una deposición melénica-rectorrágica.
+    Exploración física: Exploración: consciente y orientado, TA 106/68 mmHg, abdomen blando y depresible, tacto rectal positivo para restos hemáticos.
+    Pruebas complementarias: En la analítica destacaba el Hto de 30%, posteriormente de 23% y una urea de 67 mg/dl. Se le realizó una gastroscopia que resultó normal y una colonoscopia hasta ciego e íleon terminal que informaba de lesiones incipientes angiodisplásicas de colon y recto. Se solicitó una cápsula endoscópica que no halló hallazgos patológicos y posteriormente una gammagrafía con Tc99m-pertecnetato que mostraba la existencia de un área hiperactiva focal en fosa iliaca derecha adyacente a la arteria iliaca derecha sugestivo de la existencia de mucosa gástrica ectópica compatible con divertículo de Meckel en dicha localización. Se decidió intervención bajo anestesia general realizando incisión de Mc Burney, observando un divertículo de Meckel a 60 cm de la válvula ileocecal de base ancha (> 50% de la superficie del diámetro intestinal) y signos inflamatorios. Se realizó resección intestinal, incluyendo el divertículo y anastomosis latero-lateral mecánica más apendicectomía profiláctica.
+    Evolución: El postoperatorio transcurrió sin incidencias y fue dado de alta al 5º día. No precisó tranfusión sanguínea. La anatomía patológica informó de divertículo de Meckel con mucosa gástrica heterotópica.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Borja Quiroga</TAG>. <TAG TYPE="PROFESION">Servicio de Nefrología</TAG> <TAG TYPE="INSTITUCION">Hospital General Universitario Gregorio Marañón</TAG> <TAG TYPE="CALLE">Doctor Esquerdo, 46</TAG>, <TAG TYPE="TERRITORIO">28007</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG> <TAG TYPE="CORREO_ELECTRONICO">borjaqg@gmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ana</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">López Ramírez</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">64592470Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">25/01/1940</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle Mayor 18</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Tarragona</TAG>, <TAG TYPE="TERRITORIO">Navarra</TAG>, <TAG TYPE="TERRITORIO">Navarra</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">31178</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ana.lopez.ramirez@ciberned.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 948 58 33 10</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 948 56 61 44</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6193176</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Pintor de Construcción</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Adolfo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Abad Vargas</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">199791373</TAG>. <TAG TYPE="PROFESION">Residente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4°</TAG> año en <TAG TYPE="PROFESION">Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/01/2015</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">03821479</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Doctor Peset</TAG>
+    Informe clínico del paciente:
+    Paciente discapacitada de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">74 años</TAG> de edad, acompañada de su marido, que acude al servicio de <TAG TYPE="PROFESION">cardiología</TAG> con una historia de dolores torácicos intermitentes durante los últimos 6 meses, sin antecedentes de enfermedades cardiovasculares previas. La exploración física revela una tensión arterial de 140/90 mmHg, con un ritmo cardíaco regular y sin soplos ni roces cardíacos. La electrocardiograma (ECG) muestra un patrón de estrés en el segmento ST del trazado de QRS, con un índice de actividad cardíaca elevado.
+    Se solicitan pruebas complementarias, incluyendo una ecocardiograma transtorácico y una resonancia magnética cardíaca, que revelan una afección cardíaca isquémica en el infarto de miocardio anterior. El paciente es sometido a un tratamiento médico con nitroglicerina y beta-bloqueantes, y se le recomienda un seguimiento regular en el servicio de <TAG TYPE="PROFESION">cardiología</TAG>.
+    Evolución y comentarios:
+    El paciente se encuentra en un estado estable, con una evolución favorable después de la implementación del tratamiento médico. Se le realiza un seguimiento regular para monitorear la progresión de la enfermedad cardíaca y ajustar el tratamiento según sea necesario.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Adolfo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Abad Vargas</TAG>
+    <TAG TYPE="PROFESION">Residente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4°</TAG> año en <TAG TYPE="PROFESION">Cardiología</TAG>
+    <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>
+    <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Mercedes</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ortega Calvo</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">23050129N</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/07/1960</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Espíritu Santo 62, 6S</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Burgos, Álava, Pais Vasco</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">01378</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariamercedes@protonmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 945 69 00 19</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 645 02 69 58</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8371858</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">23050129N</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente de alto riesgo</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Andrés</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Casas Trujillo</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 645628558</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">22/05/2002</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">03919708</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alcalá de Henares</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">41 años</TAG> de edad, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedentes de hipertensión arterial y sobrepeso</TAG>. Presenta un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor torácico irradiado al hombro izquierdo</TAG>, con una duración de <TAG TYPE="FECHAS">2 horas</TAG>. La exploración física revela una tensión arterial de <TAG TYPE="FECHAS">160/100 mmHg</TAG>, con un pulso de <TAG TYPE="FECHAS">120 latidos por minuto</TAG>. Se encuentra consciente, orientado, pero con un estado de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG>. El electrocardiograma (ECG) muestra una alteración en la onda QRS, con una desviación de <TAG TYPE="FECHAS">1 mm</TAG> en el segmento ST. Se solicitan análisis de sangre para determinar los niveles de creatina quinasa (CK) y troponina. 
+    Antecedentes:
+    La paciente tiene <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedentes de hipertensión arterial y sobrepeso</TAG>, con un índice de masa corporal (IMC) de <TAG TYPE="FECHAS">30</TAG>. También tiene <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedentes de diabetes mellitus tipo 2</TAG>, controlada con medicación oral.
+    Evolución y comentarios:
+    La paciente se encuentra en una condición <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estable</TAG>, con una tensión arterial controlada y sin signos de insuficiencia cardíaca. El tratamiento se enfoca en la reducción de la tensión arterial y el control de la diabetes mellitus.
+    Remitido por:
+    Se le remite al paciente al servicio de cardiología para una evaluación más detallada y un plan de tratamiento personalizado.
+  </TEXT>
+</MEDDOCAN>

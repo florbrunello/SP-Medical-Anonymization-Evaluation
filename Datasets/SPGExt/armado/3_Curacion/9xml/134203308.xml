@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jorge Costa Flores</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">22667765T</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/10/1952</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Olivar 18</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ponferrada</TAG>, <TAG TYPE="TERRITORIO">Vizcaya</TAG>, <TAG TYPE="PAIS">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">48908</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jorge.costa@ioba.med.uva.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 946 85 86 81</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 946 91 93 82</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2388056</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">489082345</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Almacén</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Rosa Crespo Montero</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 251711032</TAG>. <TAG TYPE="PROFESION">Investigadora Clínica en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">21/08/1990</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">23353819</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Oeste</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> de edad, que se presenta con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal crónico</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pérdida de peso</TAG> en los últimos meses. El paciente informa que ha estado experimentando <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolores</TAG> en la región epigástrica, acompañados de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">náuseas</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG>. También menciona una sensación de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">plenitud</TAG> después de comer y una disminución de la apetencia.
+    La exploración física revela:
+    - <TAG TYPE="FECHAS">36,8°C</TAG>
+    - <TAG TYPE="FECHAS">120/80 mmHg</TAG>
+    - <TAG TYPE="FECHAS">80 lpm</TAG>
+    - Se encuentra <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consciente</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">orientado</TAG>, sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sudoración</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">taquicardia</TAG>
+    - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Abdomen blando</TAG>, sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">masas</TAG>
+    - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Auscultación cardíaca</TAG> rítmica, sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">soplos</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">roces</TAG>
+    - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Auscultación pulmonar</TAG> con conservación del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">murmurio vesicular</TAG>
+    Los datos analíticos muestran los siguientes resultados:
+    - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hemograma</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hb</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">14,2 g/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">leucocitos</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8.500/mm3</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">neutrófilos</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">60%</TAG>); <TAG TYPE="OTROS_SUJETO_ASISTENCIA">plaquetas</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">250.000/mm3</TAG>
+    - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">VSG</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 mm</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">1ª hora</TAG>
+    - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Coagulación</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TQ</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90%</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TTPA</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">28,5 seg</TAG>
+    - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Bioquímica</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Glucosa</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">110 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urea</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">1,2 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sodio</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">135 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">potasio</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3,8 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GOT</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GPT</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GGT</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">40 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fosfatasa alcalina</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">calcio</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8,5 mg/dl</TAG>
+    - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Orina</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sedimento normal</TAG>
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gastritis crónica</TAG>, se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">antitérmicos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antiinflamatorios</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dieta blanda</TAG>) así como tratamiento farmacológico con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ranitidina</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">150 mg</TAG> vía oral tres veces al día durante <TAG TYPE="OTROS_SUJETO_ASISTENCIA">6 semanas</TAG>. El paciente mejora significativamente de su cuadro tras <TAG TYPE="OTROS_SUJETO_ASISTENCIA">2 semanas</TAG> de tratamiento, decidiéndose el alta a su domicilio.
+  </TEXT>
+</MEDDOCAN>

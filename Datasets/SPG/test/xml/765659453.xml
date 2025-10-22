@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Vicente Montes Castillo
+DNI: 32207898D
+Fecha de nacimiento: 03/05/1946
+Género: Hombre
+Domicilio: Calle de San Millán 53
+Ciudad: Totana, Palencia, Castilla y León
+Código postal: 34302
+Email: montes@hotmail.com
+Teléfono fijo: +34 979 35 08 04
+FAX: +34 979 85 89 02
+NHC: 6970089
+NASS: 298827417817
+Condición de riesgo: Operador de Máquina
+
+Datos asistenciales.
+Médico: Dra. Josefina Marti Pascual. NC 777993629. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/09/2021
+Episodio: 27109507
+Hospital: Hospital Universitario de Crúces
+
+Informe clínico del paciente:
+Paciente fumador de 75 años de edad, acompañado de su marido. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.165.85, con dirección MAC A8:8F:AD:6F:DE:8C. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Vicente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="51" text="Montes Castillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="32207898D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="03/05/1946" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="113" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="147" text="Calle de San Millán 53" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="162" text="Totana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="172" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="189" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="34302" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="236" text="montes@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 979 35 08 04" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 979 85 89 02" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="296" end="303" text="6970089" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="310" end="322" text="298827417817" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="344" end="363" text="Operador de Máquina" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="619" end="629" text="16/09/2021" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="640" end="648" text="27109507" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="659" end="691" text="Hospital Universitario de Crúces" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="732" end="739" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="743" end="750" text="75 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="777" end="783" text="marido" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="891" end="908" text="A8:8F:AD:6F:DE:8C" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

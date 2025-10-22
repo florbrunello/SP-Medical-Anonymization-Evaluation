@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Marco Cruz Montoya
+DNI: 73939619R
+Fecha de nacimiento: 10/03/1965
+Género: Varón
+Domicilio: Calle de Lavapiés 89, 7S
+Ciudad: Fuenlabrada, Lérida, Cataluña
+Código postal: 25518
+Email: marco_montoya384@udc.es
+Teléfono fijo: +34 973 78 69 12
+Teléfono móvil: +34 773 10 38 88
+NHC: 6811910
+NASS: 855348502176
+Condición de riesgo: Científico de Investigación
+
+Datos asistenciales.
+Médico: Dr. Abel Herrera Molina. NC 152115824. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/06/2014
+Episodio: 29371141
+Hospital: Complejo Hospitalario Torrecárdenas
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 49 años de edad, acompañado de su suegro. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Marco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="46" text="Cruz Montoya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="73939619R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="10/03/1965" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="107" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="143" text="Calle de Lavapiés 89, 7S" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="163" text="Fuenlabrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="171" text="Lérida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="181" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="25518" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="233" text="marco_montoya384@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 973 78 69 12" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 773 10 38 88" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="304" end="311" text="6811910" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="318" end="330" text="855348502176" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="352" end="379" text="Científico de Investigación" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="414" end="433" text="Abel Herrera Molina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="438" end="447" text="152115824" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="449" end="483" text="Residente de 3° año en Psiquiatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="485" end="555" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="557" end="586" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="588" end="593" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="595" end="601" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="603" end="609" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="629" end="639" text="03/06/2014" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="650" end="658" text="29371141" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="669" end="704" text="Complejo Hospitalario Torrecárdenas" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="748" end="777" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="781" end="788" text="49 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="815" end="821" text="suegro" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Margarita Velasco Alarcon
+DNI: 54632994J
+Fecha de nacimiento: 29/03/1965
+Género: F
+Domicilio: Calle de la Luna 60
+Ciudad: Girona, Valencia, Comunidad Valenciana
+Código postal: 46378
+Email: velascoalarcon@yahoo.com
+Teléfono fijo: +34 960 25 24 39
+Teléfono móvil: +34 760 65 52 90
+NHC: 8738033
+Condición de riesgo: Trabajador de Línea de Producción
+
+Datos asistenciales.
+Médico: Dr. Santiago Torres Carrasco. NC 123150518. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 27/03/2004
+Episodio: 49256703
+Centro de salud: Centro de Salud Getafe
+Matrícula del coche: 9553PSI
+Modelo: Kia Sorento
+VIN: VSFGLSDYRYO662245
+
+Informe clínico del paciente:
+Paciente judío de 38 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Margarita" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="53" text="Velasco Alarcon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="54632994J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="29/03/1965" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="141" text="Calle de la Luna 60" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="156" text="Girona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="166" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="188" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="46378" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="241" text="velascoalarcon@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 960 25 24 39" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="290" end="306" text="+34 760 65 52 90" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="312" end="319" text="8738033" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="341" end="374" text="Trabajador de Línea de Producción" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="409" end="433" text="Santiago Torres Carrasco" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="438" end="447" text="123150518" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="449" end="484" text="Residente de 3° año en Oftalmología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="486" end="544" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="546" end="570" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="572" end="577" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="579" end="589" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="591" end="597" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="617" end="627" text="27/03/2004" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="638" end="646" text="49256703" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="664" end="686" text="Centro de Salud Getafe" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="708" end="715" text="9553PSI" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="741" end="758" text="VSFGLSDYRYO662245" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="799" end="804" text="judío" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="808" end="815" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

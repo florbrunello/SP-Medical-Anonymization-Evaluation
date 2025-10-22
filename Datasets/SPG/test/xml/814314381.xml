@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Alba Cortés Escobar
+DNI: 48657005E
+Fecha de nacimiento: 30/09/1939
+Género: F
+Domicilio: Calle de Ibiza 53
+Ciudad: Castellón de la Plana, Valencia, Comunidad Valenciana
+Código postal: 46951
+Email: alba-cortes@outlook.com
+Teléfono fijo: +34 960 30 33 00
+Teléfono móvil: +34 760 51 09 81
+NHC: 0020769
+NASS: 899751223815
+
+Datos asistenciales.
+Médico: Dra. Amparo Márquez Menendez. NC 959403633. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/08/2023
+Centro de salud: Centro de Salud Majadahonda
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 83 años de edad, acompañado de su hermana. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.48.139, con dirección MAC 6E:9B:A0:8D:46:A7. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es ZC117XEU973. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Alba" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="47" text="Cortés Escobar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="48657005E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="30/09/1939" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="133" text="Calle de Ibiza 53" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="142" end="163" text="Castellón de la Plana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="173" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="195" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="211" end="216" text="46951" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="224" end="247" text="alba-cortes@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="263" end="279" text="+34 960 30 33 00" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="296" end="312" text="+34 760 51 09 81" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="318" end="325" text="0020769" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="332" end="344" text="899751223815" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="610" end="620" text="28/08/2023" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="638" end="665" text="Centro de Salud Majadahonda" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T18" start="706" end="727" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="731" end="738" text="83 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="765" end="772" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="880" end="897" text="6E:9B:A0:8D:46:A7" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <ID id="T22" start="980" end="991" text="ZC117XEU973" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

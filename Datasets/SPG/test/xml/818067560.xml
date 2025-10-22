@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Héctor Flores Alarcon
+DNI: 26941999Y
+Fecha de nacimiento: 04/01/1985
+Género: H
+Domicilio: Calle de la Ribera 75
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52259
+Email: BDhSlkAX@salud.madrid.org
+Teléfono fijo: +34 956 80 56 58
+Teléfono móvil: +34 756 07 98 58
+NHC: 7203477
+NASS: 963355106495
+Condición de riesgo: Técnico de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. Javier Luque Mendoza. NC 368739438. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/10/2023
+Episodio: 60653003
+Hospital: Hospital General Universitario Morales Meseguer
+Matrícula del coche: 6001RYO
+Modelo: BMW 3 Series
+VIN: VSLB2058BKR316540
+
+Informe clínico del paciente:
+Paciente musulman de 38 años de edad, acompañado de su hija. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Héctor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Flores Alarcon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="26941999Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="04/01/1985" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="139" text="Calle de la Ribera 75" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="172" text="Ciudad autónoma de Ceuta" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="174" end="180" text="Ceuta," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="197" end="202" text="52259" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="210" end="235" text="BDhSlkAX@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="251" end="267" text="+34 956 80 56 58" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="284" end="300" text="+34 756 07 98 58" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T13" start="306" end="313" text="7203477" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="320" end="332" text="963355106495" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T15" start="354" end="376" text="Técnico de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="411" end="431" text="Javier Luque Mendoza" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="436" end="445" text="368739438" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="447" end="484" text="Investigador Clínico en Epidemiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="486" end="570" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="572" end="601" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="603" end="608" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="610" end="616" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="618" end="624" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="644" end="654" text="21/10/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="665" end="673" text="60653003" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="684" end="731" text="Hospital General Universitario Morales Meseguer" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="753" end="760" text="6001RYO" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="787" end="804" text="VSLB2058BKR316540" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="845" end="853" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="857" end="864" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="891" end="895" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

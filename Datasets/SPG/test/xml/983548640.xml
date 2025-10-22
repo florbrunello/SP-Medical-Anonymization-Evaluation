@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Carmen Arias Cuesta
+DNI: 30046810R
+Fecha de nacimiento: 21/05/1999
+Género: Mujer
+Domicilio: Calle de la Ribera 26
+Ciudad: Aranda de Duero, Mallorca, Islas Baleares
+Código postal: 07094
+Email: cuesta@isciii.es
+Teléfono fijo: +34 971 54 92 21
+Teléfono móvil: +34 771 95 43 43
+NHC: 2268486
+NASS: 922106784855
+Condición de riesgo: Limpiador
+
+Datos asistenciales.
+Médico: Dra. Lidia Bermudez Vargas. NC 847350089. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 29/04/2010
+Centro de salud: Centro de Salud Latina
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 10 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="María Carmen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="53" text="Arias Cuesta" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="30046810R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="21/05/1999" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="114" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="147" text="Calle de la Ribera 26" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="171" text="Aranda de Duero" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="173" end="181" text="Mallorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="183" end="197" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="07094" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="242" text="cuesta@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="258" end="274" text="+34 971 54 92 21" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="291" end="307" text="+34 771 95 43 43" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="313" end="320" text="2268486" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="327" end="339" text="922106784855" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="361" end="370" text="Limpiador" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="638" end="648" text="29/04/2010" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="666" end="688" text="Centro de Salud Latina" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="732" end="756" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="760" end="767" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="794" end="799" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

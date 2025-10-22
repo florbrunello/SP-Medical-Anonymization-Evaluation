@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Anna Gracia Peña</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">47850652A</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/08/2011</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Covarrubias 29</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Majadahonda</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">18332</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">gracia_pena@salud.madrid.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 81 89 50</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 658 39 40 75</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5895470</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">154161029637</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Técnico de Laboratorio</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Esteban Gallego Velasco</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 840709416</TAG>. <TAG TYPE="PROFESION">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">29211293</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuenlabrada</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2525YYK</TAG>.
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Chrysler Pacifica</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSCBSKHC3WC292289</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> de edad, de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG>, acompañado de su padre. Se refiere a una sesión de escaneo retiniano realizada en la unidad de oftalmología del hospital. El código obtenido para revisar la sesión es <TAG TYPE="OTRO_NUMERO_IDENTIF">NQ616NVL105</TAG>. El paciente no presenta síntomas ni antecedentes de enfermedades oculares.
+    La exploración física revela:
+    - Presión intraocular: <TAG TYPE="OTRO_NUMERO_IDENTIF">18 mmHg</TAG>
+    - Reflejo pupilar: <TAG TYPE="OTRO_NUMERO_IDENTIF">normal</TAG>
+    - Exploración visual: <TAG TYPE="OTRO_NUMERO_IDENTIF">normal</TAG>
+    Los datos analíticos muestran:
+    - Hemograma: Hb <TAG TYPE="OTRO_NUMERO_IDENTIF">12,5 g/dl</TAG>; leucocitos <TAG TYPE="OTRO_NUMERO_IDENTIF">8.500/mm3</TAG>; plaquetas <TAG TYPE="OTRO_NUMERO_IDENTIF">250</TAG>.
+  </TEXT>
+</MEDDOCAN>

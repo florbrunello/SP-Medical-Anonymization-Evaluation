@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Rosa</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lozano Miranda</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">20350984D</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">16/07/1986</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Amor de Dios 97, 10Q</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad autónoma de Melilla</TAG>, <TAG TYPE="TERRITORIO">Melilla</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">51044</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">miranda@hotmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 03 28 83</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 751 42 88 96</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1250188</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">190324521773</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Vanessa Nieto Conde</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">901605918</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">30/01/2000</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">51306672</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Virgen Macarena</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">4609EQK</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Toyota Corolla</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSKOO3S1INU647944</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">musulman</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermano</TAG>. Se registró una sesión de <TAG TYPE="PROFESION">escaneo retiniano</TAG>, el código obtenido para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">BL762DNM310</TAG>. Se registró una sesión de <TAG TYPE="PROFESION">reconocimiento facial</TAG>, el código obtenido para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">SX439NGY377</TAG>.
+  </TEXT>
+</MEDDOCAN>

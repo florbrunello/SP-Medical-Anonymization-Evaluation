@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marina</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Miguel Serrano</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">22051979Q</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/01/1962</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Barquillo 9</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Yecla</TAG>, <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">13757</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">marinaserrano@icloud.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 05 49 30</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 626 32 84 03</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7017409</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Científico de Investigación</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Clara Ortiz Andres</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">306945233</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">22/05/2002</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Universitario de Valencia</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2397UKN</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Honda Civic</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSDLQLWW8MY475472</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">40 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

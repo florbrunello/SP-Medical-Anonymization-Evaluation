@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Lidia Diez Contreras
+DNI: 99180966K
+Fecha de nacimiento: 08/04/1947
+Género: M
+Domicilio: Calle del Espíritu Santo 15
+Ciudad: Úbeda, Cantabria, Cantabria
+Código postal: 39120
+Email: lidia.diez@uhu.es
+Teléfono fijo: +34 942 03 05 84
+Teléfono móvil: +34 742 68 12 06
+NHC: 7998987
+Condición de riesgo: Conserje
+
+Datos asistenciales.
+Médico: Dra. Natalia Franco Cortés. NC 793389064. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/06/2023
+Episodio: 24192791
+Centro de salud: Centro de Salud Sevilla Norte
+Matrícula del coche: 9191QDC
+Modelo: Kia Sorento
+VIN: VSNXARXDVXK909846
+
+Informe clínico del paciente:
+Paciente vegano de 76 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Lidia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Diez Contreras" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="99180966K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="08/04/1947" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="144" text="Calle del Espíritu Santo 15" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="158" text="Úbeda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="169" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="180" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="39120" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="226" text="lidia.diez@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="242" end="258" text="+34 942 03 05 84" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="275" end="291" text="+34 742 68 12 06" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="297" end="304" text="7998987" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="326" end="334" text="Conserje" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="590" end="600" text="15/06/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="611" end="619" text="24192791" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="637" end="666" text="Centro de Salud Sevilla Norte" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="688" end="695" text="9191QDC" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="721" end="738" text="VSNXARXDVXK909846" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="779" end="785" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="789" end="796" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

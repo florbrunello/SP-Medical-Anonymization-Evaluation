@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Jorge Montero Ramos
+DNI: 78311741F
+Fecha de nacimiento: 26/03/2012
+Género: Masculino
+Domicilio: Calle de Fortuny 23, 2J
+Ciudad: Badajoz, Albacete, Castilla-La Mancha
+Código postal: 02746
+Email: jorge-montero_ramos@outlook.com
+Teléfono fijo: +34 967 96 31 77
+Teléfono móvil: +34 767 12 37 98
+NHC: 9252927
+
+Datos asistenciales.
+Médico: Dr. Manuel Vidal Suárez. NC 685616733. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 30/03/2019
+Episodio: 39810713
+Hospital: Hospital Universitario Príncipe de Asturias
+Matrícula del coche: 0272TPA
+Modelo: Ford Mustang
+VIN: VSIRXR0OOFP929113
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 7 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Jorge" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Montero Ramos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="78311741F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="26/03/2012" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="112" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="147" text="Calle de Fortuny 23, 2J" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="163" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="173" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="193" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="209" end="214" text="02746" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="222" end="253" text="jorge-montero_ramos@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="269" end="285" text="+34 967 96 31 77" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="302" end="318" text="+34 767 12 37 98" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="324" end="331" text="9252927" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="366" end="385" text="Manuel Vidal Suárez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="390" end="399" text="685616733" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="401" end="439" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="441" end="508" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="510" end="537" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="539" end="544" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="546" end="553" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="555" end="561" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="581" end="591" text="30/03/2019" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="602" end="610" text="39810713" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="621" end="664" text="Hospital Universitario Príncipe de Asturias" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="686" end="693" text="0272TPA" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="720" end="737" text="VSIRXR0OOFP929113" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="781" end="807" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="811" end="817" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="844" end="849" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

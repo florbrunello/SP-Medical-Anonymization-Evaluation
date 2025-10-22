@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pilar Bueno Pardo</TAG>.
+  DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">19241529M</TAG>.
+  Fecha de nacimiento: <TAG TYPE="FECHAS">29/02/2008</TAG>.
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+  Domicilio: <TAG TYPE="CALLE">Calle del Olivar 77</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Totana</TAG>, <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>.
+  Código postal: <TAG TYPE="TERRITORIO">13228</TAG>.
+  Email: <TAG TYPE="CORREO_ELECTRONICO">pilar1553@udc.es</TAG>.
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 13 86 21</TAG>.
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 726 41 12 38</TAG>.
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7094330</TAG>.
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">159831726652</TAG>.
+  Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente terminal</TAG>.
+  Datos asistenciales.
+  Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Luis Fernández Jiménez</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 352058152</TAG>. <TAG TYPE="PROFESION">Endocrinólogo Especialista en Diabetes</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">20/03/2016</TAG>.
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Gran Canaria Dr. Negrín</TAG>.
+  Informe clínico del paciente:
+  Paciente terminal de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 años</TAG> de edad, con historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia renal crónica</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes tipo 1</TAG>, acompañado de su abuela. Presenta una condición clínica grave y irreversible, con necesidad de cuidados paliativos intensivos.
+  La exploración física revela: <TAG TYPE="FECHAS">Tª 38,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 90 lpm</TAG>. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+  Los datos analíticos muestran los siguientes resultados: <TAG TYPE="Hemograma">Hemograma</TAG>: <TAG TYPE="Hemograma">Hb 12,5 g/dl</TAG>; <TAG TYPE="Hemograma">leucocitos 15.000/mm3</TAG> (<TAG TYPE="Hemograma">neutrófilos 80%</TAG>); <TAG TYPE="Hemograma">plaquetas 200.000/mm3</TAG>. <TAG TYPE="VSG">VSG: 50 mm 1ª hora</TAG>. <TAG TYPE="Coagulación">Coagulación</TAG>: <TAG TYPE="Coagulación">TQ 80%</TAG>; <TAG TYPE="Coagulación">TTPA 25,5 seg</TAG>. <TAG TYPE="Bioquímica">Bioquímica</TAG>: <TAG TYPE="Bioquímica">Glucosa 250 mg/dl</TAG>; <TAG TYPE="Bioquímica">urea 60 mg/dl</TAG>; <TAG TYPE="Bioquímica">creatinina 2,5 mg/dl</TAG>; <TAG TYPE="Bioquímica">sodio 130 mEq/l</TAG>; <TAG TYPE="Bioquímica">potasio 3,5 mEq/l</TAG>; <TAG TYPE="Bioquímica">GOT 15 U/l</TAG>; <TAG TYPE="Bioquímica">GPT 30 U/l</TAG>; <TAG TYPE="Bioquímica">GGT 40 U/l</TAG>; <TAG TYPE="Bioquímica">fosfatasa alcalina 150 U/l</TAG>; <TAG TYPE="Bioquímica">calcio 8,5 mg/dl</TAG>. <TAG TYPE="Orina">Orina</TAG>: sedimento con presencia de proteínas y hemoglobina.
+  Se han solicitado pruebas de imagen (<TAG TYPE="Ecografía abdominal">Ecografía abdominal</TAG>, <TAG TYPE="TAC craneal">TAC craneal</TAG>, <TAG TYPE="Ecocardiograma transtorácico">Ecocardiograma transtorácico</TAG>) que no han evidenciado patología significativa.
+  Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia renal crónica grave</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes tipo 1 irreversible</TAG>, se ha instaurado tratamiento paliativo intensivo, incluyendo cuidados de soporte vital, control de la glucemia y manejo de la insuficiencia renal.
+  Antecedentes:
+  La paciente tiene una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia renal crónica</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes tipo 1</TAG> desde los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años</TAG> de edad. Ha recibido tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">insulina</TAG> y medicamentos para controlar la glucemia y la presión arterial.
+  Evolución y comentarios:
+  La paciente ha presentado una evolución clínica grave y irreversible, con necesidad de cuidados paliativos intensivos. Se ha mejorado el control de la glucemia y la presión arterial, pero la insuficiencia renal crónica ha progresado rápidamente.
+  Remitido por:
+  El paciente ha sido remitido al <TAG TYPE="PROFESION">Servicio de Pediatría</TAG> del <TAG TYPE="HOSPITAL">Hospital Universitario de Gran Canaria Dr. Negrín</TAG> para recibir cuidados paliativos intensivos y manejo de la insuficiencia renal.
+  </TEXT>
+  </MEDDOCAN>

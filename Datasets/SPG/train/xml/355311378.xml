@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Antonio Estevez Camacho
+DNI: 49866541B
+Fecha de nacimiento: 02/01/1930
+Género: H
+Domicilio: Calle de Santa Ana 98
+Ciudad: Ourense, Cantabria, Cantabria
+Código postal: 39448
+Email: juanantonio-estevez_camacho114@isciii.es
+Teléfono fijo: +34 942 20 44 97
+Teléfono móvil: +34 642 60 85 57
+NHC: 7358386
+NASS: 389682094660
+Condición de riesgo: Inspector de Seguridad Minera
+
+Datos asistenciales.
+Médico: Dra. Carla Rico Rodríguez. NC 936583215. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 05/10/1968
+Episodio: 12260810
+Hospital: Hospital Universitario de Crúces
+Matrícula del coche: 2485QQA
+Modelo: Ram 1500
+VIN: VSWOM362S2I029207
+
+Informe clínico del paciente:
+Paciente de tez blanca de 38 años de edad, acompañado de su nuera. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es SS416UGU667. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="Juan Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="56" text="Estevez Camacho" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="62" end="71" text="49866541B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="93" end="103" text="02/01/1930" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="112" end="113" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="146" text="Calle de Santa Ana 98" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="162" text="Ourense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="173" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="184" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="39448" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="253" text="juanantonio-estevez_camacho114@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="269" end="285" text="+34 942 20 44 97" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="302" end="318" text="+34 642 60 85 57" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="324" end="331" text="7358386" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="338" end="350" text="389682094660" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="372" end="401" text="Inspector de Seguridad Minera" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="649" end="659" text="05/10/1968" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="670" end="678" text="12260810" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="689" end="721" text="Hospital Universitario de Crúces" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="743" end="750" text="2485QQA" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="773" end="790" text="VSWOM362S2I029207" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="834" end="844" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="848" end="855" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="882" end="887" text="nuera" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T25" start="970" end="981" text="SS416UGU667" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

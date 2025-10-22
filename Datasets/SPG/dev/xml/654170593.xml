@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Pedro José Heredia Suárez
+DNI: 13494108P
+Fecha de nacimiento: 09/07/2011
+Género: Masculino
+Domicilio: Calle de la Cabeza del Rey Don Pedro 2
+Ciudad: Majadahonda, Jaén, Andalucía
+Código postal: 23389
+Email: bQaMkI61MiB3lFn@ciberehd.org
+Teléfono fijo: +34 953 50 17 42
+Teléfono móvil: +34 753 87 52 49
+NHC: 9204423
+NASS: 107392032216
+Condición de riesgo: Operador de Máquina
+
+Datos asistenciales.
+Médico: Dr. Álvaro Escudero Serra. NC 964895606. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Centro de salud: Centro de Salud Málaga Sur
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena americana de 13 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Pedro José" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="53" text="Heredia Suárez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="13494108P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="09/07/2011" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="118" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="130" end="168" text="Calle de la Cabeza del Rey Don Pedro 2" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="177" end="188" text="Majadahonda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="190" end="194" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="196" end="205" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="221" end="226" text="23389" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="234" end="262" text="bQaMkI61MiB3lFn@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="278" end="294" text="+34 953 50 17 42" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="311" end="327" text="+34 753 87 52 49" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="333" end="340" text="9204423" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="347" end="359" text="107392032216" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="381" end="400" text="Operador de Máquina" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="435" end="456" text="Álvaro Escudero Serra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="461" end="470" text="964895606" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="472" end="516" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="518" end="604" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="606" end="635" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="637" end="642" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="644" end="650" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="652" end="658" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="678" end="688" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="706" end="732" text="Centro de Salud Málaga Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="776" end="806" text="ascendencia indígena americana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="810" end="817" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="844" end="849" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

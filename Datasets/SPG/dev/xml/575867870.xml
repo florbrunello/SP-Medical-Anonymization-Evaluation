@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Eric Campos Gallego
+DNI: 82705462S
+Fecha de nacimiento: 05/01/1944
+Género: V
+Domicilio: Calle del Gobernador 75
+Ciudad: Fuenlabrada, Segovia, Castilla y León
+Código postal: 40945
+Email: eric@hotmail.com
+Teléfono fijo: +34 921 27 59 44
+Teléfono móvil: +34 621 40 54 65
+NHC: 6510634
+NASS: 415241973104
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dr. Domingo Márquez Aguilera. NC 817309519. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/06/1978
+Centro de salud: Centro de Salud Villaverde
+Matrícula del coche: 0911BWX
+Modelo: Kia Sorento
+VIN: VSWA2QOS28H772436
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 34 años de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es YR911YSE425. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Eric" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="47" text="Campos Gallego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="82705462S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="05/01/1944" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="139" text="Calle del Gobernador 75" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="159" text="Fuenlabrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="168" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="185" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="40945" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="230" text="eric@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="246" end="262" text="+34 921 27 59 44" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="279" end="295" text="+34 621 40 54 65" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="301" end="308" text="6510634" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="315" end="327" text="415241973104" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="349" end="356" text="Bombero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="391" end="415" text="Domingo Márquez Aguilera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="420" end="429" text="817309519" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="431" end="471" text="Residente de 3° año en Gastroenterología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="473" end="566" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="568" end="597" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="599" end="604" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="606" end="612" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="614" end="620" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="640" end="650" text="24/06/1978" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="668" end="694" text="Centro de Salud Villaverde" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="716" end="723" text="0911BWX" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="749" end="766" text="VSWA2QOS28H772436" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="807" end="824" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="828" end="835" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="927" end="938" text="YR911YSE425" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Miguel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Arias Jiménez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">45454108J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/12/1927</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Paz 73</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Benidorm</TAG>, <TAG TYPE="TERRITORIO">La Coruña</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">15164</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">josemiguel.arias.jimenez@hotmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 981 75 09 56</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 781 42 82 76</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0428605</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Técnico de Radiología</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Raquel Santos Rico</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">691570170</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuróloga Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/03/1933</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">79312672</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Cartagena</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Carmen</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Guillen Herrera</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">75793684J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/07/1934</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de los Jardines 30</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Vitoria</TAG>, <TAG TYPE="TERRITORIO">Ibiza</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07455</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariacarmen-guillenherrera@ciberned.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 32 73 49</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 971 57 97 33</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8711915</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">183186581038</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Albañil</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Marina Bravo Pereira</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">476321335</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardióloga Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">12/02/1941</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">58296715</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Sur</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5069GNF</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Toyota RAV4</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSBTT6QCQKN042228</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>.
+  </TEXT>
+</MEDDOCAN>

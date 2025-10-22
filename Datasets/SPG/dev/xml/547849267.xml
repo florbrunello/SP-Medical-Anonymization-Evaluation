@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Jonathan Núñez Bravo
+DNI: 10666347M
+Fecha de nacimiento: 05/10/1945
+Género: V
+Domicilio: Calle del Olivar 100
+Ciudad: Lleida, Granada, Andalucía
+Código postal: 18059
+Email: jonathan_nunez1561@yahoo.com
+Teléfono fijo: +34 958 73 01 83
+Teléfono móvil: +34 658 36 65 01
+NHC: 2273655
+NASS: 550828374750
+
+Datos asistenciales.
+Médico: Dra. Estefanía Sáez Carrillo. NC 181901319. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 17/11/2000
+Episodio: 70356928
+Centro de salud: Centro de Salud Vicálvaro
+
+Informe clínico del paciente:
+Paciente vegetariano de 55 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Jonathan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="48" text="Núñez Bravo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="10666347M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="05/10/1945" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="137" text="Calle del Olivar 100" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="152" text="Lleida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="154" end="161" text="Granada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="163" end="172" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="188" end="193" text="18059" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="201" end="229" text="jonathan_nunez1561@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="245" end="261" text="+34 958 73 01 83" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 658 36 65 01" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="300" end="307" text="2273655" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="314" end="326" text="550828374750" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="579" end="589" text="17/11/2000" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="600" end="608" text="70356928" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="626" end="651" text="Centro de Salud Vicálvaro" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="692" end="703" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="707" end="714" text="55 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

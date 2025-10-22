@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sergio</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Hidalgo Peñate</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3968703</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">31 28743659 90</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. San Fermin 19</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Pamplona</TAG>.
+    CP: <TAG TYPE="TERRITORIO">31965</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/04/1970</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">43 Años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/12/2014</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Wenceslao</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Torre Buxalleu</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">43 años</TAG>, previamente sano y asintomático, que acude al servicio de <TAG TYPE="PROFESION">Cirugía Torácica</TAG> al objeto de completar el estudio de una tumoración de <TAG TYPE="TERRITORIO">mediastino medio</TAG> identificada en un estudio rutinario.
+    En el estudio faringo-esofágico, tras la administración de contraste baritado, se aprecia una estenosis de unos <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 cm</TAG> de longitud en el <TAG TYPE="TERRITORIO">tercio medio</TAG> del <TAG TYPE="HOSPITAL">esófago</TAG> de contornos bien definidos y que reduce la luz esofágica en un <TAG TYPE="EDAD_SUJETO_ASISTENCIA">50%</TAG>. Estos hallazgos son compatibles con un proceso compresivo extrínseco.
+    Se efectúa <TAG TYPE="PROFESION">videotoracoscopia</TAG> derecha por tres vías. Se identifica la presencia de una tumoración en <TAG TYPE="TERRITORIO">mediastino medio</TAG> a nivel de la <TAG TYPE="HOSPITAL">vena ácigos</TAG> (cefálica a dicha vena), móvil, dura, sin adherencias a las estructuras anexas. Se inicia la disección efectuando apertura de la <TAG TYPE="HOSPITAL">pleura mediastínica</TAG> y separando la tumoración de lo que parecen fibras musculares del <TAG TYPE="HOSPITAL">esófago</TAG> (esto último se realiza mediante gancho de <TAG TYPE="PROFESION">videotoracoscopia</TAG> y bisturí eléctrico). De esta manera se enuclea la tumoración que mide aproximadamente unos <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 cm</TAG> de diámetro. En su borde profundo se identifica la <TAG TYPE="HOSPITAL">mucosa esofágica</TAG> en la que se efectúa comprobación de la estanqueidad de la misma.
+    La evolución postoperatoria transcurrió sin incidencias, siendo dado de alta al paciente a las <TAG TYPE="EDAD_SUJETO_ASISTENCIA">48 horas</TAG>. En la revisión realizada a los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 meses</TAG> de la cirugía, el paciente se encontraba asintomático realizando una vida totalmente normal, sin disfagia ni clínica de reflujo gastroesofágico, afebril y con pruebas de función respiratorias normales.
+    El informe anatomopatológico del fragmento fue diagnosticado como <TAG TYPE="PROFESION">leiomioma esofágico</TAG>. Macroscópicamente presentaba un tamaño de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 cm</TAG>, forma irregular, superficie polilobulada, y con una cierta tendencia a formar remolinos. Al microscopio, se observa la tumoración constituida por haces de fibras musculares lisas fuertemente positivas con anti-actina, de disposición multidireccional, sin atipias celulares ni mitosis. De vez en cuando aparece material amorfo hialino, en forma de gotas irregularmente distribuidas.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Wenceslao</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Torre Buxalleu</TAG> <TAG TYPE="INSTITUCION">Departamento de <TAG TYPE="PROFESION">Cirugía Torácica</TAG> Clínica <TAG TYPE="INSTITUCION">Universidad de Navarra</TAG> <TAG TYPE="CALLE">Avenida Pío XII, 36</TAG> <TAG TYPE="TERRITORIO">31008</TAG> <TAG TYPE="TERRITORIO">Pamplona</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">wtorre@unav.es</TAG>
+  </TEXT>
+</MEDDOCAN>

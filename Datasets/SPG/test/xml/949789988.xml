@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Amparo Merino Bernal
+DNI: 93290369T
+Fecha de nacimiento: 12/02/1975
+Género: F
+Domicilio: Calle de Áncora 40
+Ciudad: Almería, Castellón, Comunidad Valenciana
+Código postal: 12563
+Email: amparo-merinobernal@icloud.com
+Teléfono fijo: +34 964 84 29 78
+Teléfono móvil: +34 764 50 23 74
+NHC: 5327041
+NASS: 429967772356
+Condición de riesgo: Químico
+
+Datos asistenciales.
+Médico: Dr. Nicolás Lara Quintana. NC 228305251. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 03/05/1994
+Episodio: 99479617
+Centro de salud: Centro de Salud Chamartín
+
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 19 años de edad, acompañado de su suegra. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Amparo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Merino Bernal" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="93290369T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="12/02/1975" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="135" text="Calle de Áncora 40" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="144" end="151" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="162" text="Castellón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="184" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="12563" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="243" text="amparo-merinobernal@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 964 84 29 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="292" end="308" text="+34 764 50 23 74" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="314" end="321" text="5327041" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="328" end="340" text="429967772356" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="362" end="369" text="Químico" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="404" end="425" text="Nicolás Lara Quintana" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="430" end="439" text="228305251" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="441" end="479" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="481" end="548" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="550" end="577" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="579" end="584" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="586" end="593" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="595" end="601" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="621" end="631" text="03/05/1994" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="642" end="650" text="99479617" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="668" end="693" text="Centro de Salud Chamartín" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="737" end="767" text="ascendencia africana del norte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="771" end="778" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="805" end="811" text="suegra" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

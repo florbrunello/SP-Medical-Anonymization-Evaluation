@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aitana</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Delgado Granada</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5787684</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Mercado 1, 2 D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Benidorm</TAG>.
+    CP: <TAG TYPE="TERRITORIO">03698</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/05/2005</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">01/09/2009</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bernat</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">de Pablo Márquez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">03 03 78784</TAG>.
+    Informe clínico del paciente: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">cuatro años</TAG> de edad, nacida en <TAG TYPE="PAIS">Mali</TAG> y adoptada a los seis meses de edad, sin antecedentes patológicos significativos e inmunizaciones correctas. Consultó por la aparición de lesiones cutáneas papulosas y placas numulares costrosas con tendencia a confluir en la cara anterior del muslo derecho. Inicialmente se prescribió ácido fusídico tópico, sin mejoría clínica y con la aparición de lesiones similares en el tronco, la raíz de las extremidades y en la cara. No tenía afectación palmoplantar ni de mucosas. Las lesiones no eran pruriginosas.
+    Al reinterrogar y explorar de nuevo a la paciente, destacó una lesión aislada en dorso del pie derecho, de morfología oval, hiperpigmentada con collarete descamativo perimarginal, que había precedido al resto de lesiones y que se orientó como placa heraldo. El diagnóstico final fue de <TAG TYPE="OTRO_NUMERO_IDENTIF">pitirasis rosada de Gibert</TAG> en una paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">raza negra</TAG>, se inició tratamiento sintomático con buena evolución.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bernat</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">de Pablo Márquez</TAG>. <TAG TYPE="HOSPITAL">Hospital General Universitario de Alicante</TAG>. <TAG TYPE="CALLE">C/ Pintor Baeza, 11</TAG>, <TAG TYPE="TERRITORIO">03010</TAG> <TAG TYPE="TERRITORIO">Alicante</TAG>. Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">bernatdepablo@gmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

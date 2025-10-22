@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Elisa Martín Torres
+DNI: 41183274A
+Fecha de nacimiento: 15/07/1945
+Género: Mujer
+Domicilio: Calle de Villalar 53
+Ciudad: Torrelodones, Segovia, Castilla y León
+Código postal: 40604
+Email: martin_torres@aol.com
+Teléfono fijo: +34 921 26 41 49
+Teléfono móvil: +34 721 02 72 77
+NHC: 3679866
+
+Datos asistenciales.
+Médico: Dr. Andrés Blazquez Franco. NC 233796730. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 29/11/1988
+Episodio: 08311479
+Centro de salud: Centro de Salud Marbella
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 43 años de edad, acompañado de su pareja. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.92.22, con dirección MAC 97:63:16:C6:2D:CC. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Elisa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Martín Torres" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="41183274A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="15/07/1945" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="108" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="140" text="Calle de Villalar 53" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="161" text="Torrelodones" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="170" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="187" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="40604" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="237" text="martin_torres@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 921 26 41 49" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="286" end="302" text="+34 721 02 72 77" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="308" end="315" text="3679866" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="350" end="372" text="Andrés Blazquez Franco" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="377" end="386" text="233796730" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="388" end="426" text="Endocrinólogo Especialista en Diabetes" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="428" end="495" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="497" end="524" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="526" end="531" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="533" end="540" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="542" end="548" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="568" end="578" text="29/11/1988" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="589" end="597" text="08311479" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="615" end="639" text="Centro de Salud Marbella" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="683" end="709" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="713" end="720" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="747" end="753" text="pareja" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="860" end="877" text="97:63:16:C6:2D:CC" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

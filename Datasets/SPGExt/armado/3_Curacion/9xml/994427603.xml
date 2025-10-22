@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Silvia Carrasco López</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">73772873M</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/02/1947</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Bravo Murillo 69</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">San Vicente del Raspeig, Madrid, Madrid</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">28907</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">silvia.carrasco195@gmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 913 43 68 26</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 615 72 09 54</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5151310</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">021771724443</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Alta educación</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Remedios Casas Martínez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">002225764</TAG>. Residente de <TAG TYPE="PROFESION">3° año</TAG> en <TAG TYPE="PROFESION">Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/07/2006</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">03975462</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Oeste</TAG>.
+    Antecedentes:
+    El paciente es un exfumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">59 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> controlada con medicación y una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG> controlada con dieta y medicación oral.
+    Evolución y comentarios:
+    El paciente se presentó en la consulta con una queja de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">visión borrosa</TAG> en el ojo derecho durante los últimos días. La exploración física reveló una tensión intraocular normal y una visión de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20/20</TAG> en el ojo izquierdo. La exploración oftalmológica del ojo derecho mostró un aumento de la presión intraocular y una retina con signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">edema macular</TAG>.
+    Informe clínico del paciente:
+    El paciente fue sometido a una exploración oftalmológica completa, que incluyó una escaneo retiniano. El resultado de la exploración mostró un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">edema macular</TAG> asociado con una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">retinopatía diabética</TAG>. El paciente fue tratado con un tratamiento conservador, incluyendo medicación para reducir la presión intraocular y un seguimiento regular para monitorear la evolución de la enfermedad.
+    Remitido por:
+    El paciente fue remitido a la unidad de <TAG TYPE="PROFESION">oftalmología</TAG> para un seguimiento y tratamiento más intensivo. Se le indicó que regrese a la consulta en una semana para una revisión de la evolución de la enfermedad.
+  </TEXT>
+</MEDDOCAN>

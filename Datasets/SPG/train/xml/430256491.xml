@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Beatriz Varela Rodríguez
+DNI: 28284086C
+Fecha de nacimiento: 06/02/1974
+Género: Mujer
+Domicilio: Calle de Jesús y María 84
+Ciudad: Yecla, Cáceres, Extremadura
+Código postal: 10858
+Email: beatriz-varela@salud.madrid.org
+Teléfono fijo: +34 927 13 32 51
+Teléfono móvil: +34 727 17 63 98
+NHC: 1856616
+NASS: 350880015193
+
+Datos asistenciales.
+Médico: Dra. María Paz De la Fuente Zamora. NC 135763615. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/06/2011
+Centro de salud: Centro de Salud Puente de Vallecas
+Matrícula del coche: 9743UXK
+Modelo: Tesla Model 3
+VIN: VSYZFE0G1JI377192
+
+Informe clínico del paciente:
+Paciente de tez blanca de 37 años de edad, acompañado de su suegra. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Beatriz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="52" text="Varela Rodríguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="28284086C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="06/02/1974" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="113" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="150" text="Calle de Jesús y María 84" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="164" text="Yecla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="173" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="186" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="10858" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="246" text="beatriz-varela@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="262" end="278" text="+34 927 13 32 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="295" end="311" text="+34 727 17 63 98" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="317" end="324" text="1856616" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="331" end="343" text="350880015193" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="624" end="634" text="11/06/2011" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="652" end="686" text="Centro de Salud Puente de Vallecas" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T18" start="708" end="715" text="9743UXK" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="743" end="760" text="VSYZFE0G1JI377192" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="804" end="814" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="818" end="825" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="852" end="858" text="suegra" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Belén Santiago Alarcon
+DNI: 89517814C
+Fecha de nacimiento: 03/01/1953
+Género: Mujer
+Domicilio: Calle del Oso 27
+Ciudad: Reus, Huelva, Andalucía
+Código postal: 21655
+Email: belen.santiago_alarcon1858@uhu.es
+Teléfono fijo: +34 959 93 79 81
+Teléfono móvil: +34 659 61 15 69
+NHC: 5261034
+Condición de riesgo: Dentista
+
+Datos asistenciales.
+Médico: Dr. José Izquierdo Martínez. NC 147971091. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/12/2022
+Episodio: 76771820
+Centro de salud: Centro de Salud Getafe
+
+Informe clínico del paciente:
+Paciente refugiado de 69 años de edad, acompañado de su pareja. Se realizó un expediente con URL http://example-radiology.edu//88393720B. Se registró una sesión de firma biométrica, el código obtenido para revisarla es TB087GGI381. 

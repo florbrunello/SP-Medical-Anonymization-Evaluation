@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Elena</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Martín Cortés</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">93490778X</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/10/1944</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Valverde 59, 6W</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Xirivella</TAG>, <TAG TYPE="TERRITORIO">Málaga</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">29829</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">KBFihfmA539@uca.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 63 31 86</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 951 01 17 78</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3313637</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">226018659881</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente con antecedentes familiares de enfermedades raras</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Noemí</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Aguilar Menendez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">336742481</TAG>. <TAG TYPE="PROFESION">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Cargo: <TAG TYPE="PROFESION">Especialista en Genética Médica</TAG>.
+    Dirección: <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/05/1964</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="HOSPITAL">Hospital Universitario Fundació Jiménez Díaz</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">78 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedad cardiovascular</TAG>, que se presenta con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas de dolor torácico agudo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dificultad para respirar</TAG>. La exploración física revela <TAG TYPE="OTROS_SUJETO_ASISTENCIA">taquicardia</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">roncus respiratorios</TAG>. Los análisis de sangre muestran <TAG TYPE="OTROS_SUJETO_ASISTENCIA">elevación de la creatinina</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urea</TAG>. Se solicitan pruebas de imagen, incluyendo una <TAG TYPE="FECHAS">ecografía cardíaca</TAG> y una <TAG TYPE="FECHAS">radiografía de tórax</TAG>, que revelan un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infarto de miocardio</TAG> y una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">neumonía</TAG>. Se instaura tratamiento con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">analgésicos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antiinflamatorios</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antibióticos</TAG>, y se realiza una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">aspiración de líquido pleural</TAG>. El paciente se encuentra estable y se le prescribe un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">seguimiento en el servicio de cardiología</TAG>.
+    Antecedentes:
+    El paciente tiene un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedente de infarto de miocardio</TAG> en el año <TAG TYPE="FECHAS">2010</TAG> y una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedad cardiovascular</TAG> en curso.
+    Evolución y comentarios:
+    El paciente se encuentra en una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">evolución estable</TAG> y se le prescribe un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">seguimiento en el servicio de cardiología</TAG>. Se le recomienda una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dieta baja en sodio</TAG> y una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">actividad física regular</TAG>.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Noemí</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Aguilar Menendez</TAG>. <TAG TYPE="PROFESION">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>.
+  </TEXT>
+</MEDDOCAN>

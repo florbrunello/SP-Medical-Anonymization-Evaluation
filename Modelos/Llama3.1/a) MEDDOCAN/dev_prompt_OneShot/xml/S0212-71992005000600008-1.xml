@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Luis</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Miguel Reiz</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7834631</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">78 34560871 46</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Arnaiz, 4, 3 A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Las palmas</TAG>.
+    CP: <TAG TYPE="TERRITORIO">35002</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/08/1942</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">71 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">10/11/2013</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Saturnino</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Suárez Ortega</TAG>.
+    NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">35 35 14203</TAG>.
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">71 años</TAG>, que ingresó en el servicio de Medicina Interna para estudio de síndrome constitucional. En el curso de los 6 meses anteriores había experimentado deterioro progresivo manifestado por astenia, anorexia, pérdida de unos 20 kg de peso e incapacidad para la deambulación. 
+    Antecedentes: Entre los antecedentes personales destacaba haber sido fumador y bebedor importante hasta 23 años antes y presentar diabetes mellitus tipo 2 y prostatismo de aproximadamente 5 años de evolución.
+    Exploración física: A la exploración física se encontró un paciente que impresionaba de enfermedad crónica y bradipsíquico, con palidez de piel y mucosas y disminución generalizada de fuerza en las 4 extremidades. No adenopatías. Crepitantes en la base pulmonar izquierda. Dolor a la percusión de la columna vertebral, más intenso a los niveles cervical y dorsal. Abdomen blando y depresible, doloroso a la palpación en hipocondrio derecho y zona periumbilical, donde se aprecia a la inspección y se palpa un nódulo de consistencia dura, fijo a planos profundos y de aproximadamente 3 x 3 cm, cubierto de piel de características normales. No visceromegalias. Tacto rectal con una próstata discretamente aumentada de tamaño, sin irregularidades, siendo el resto de la exploración física normal.
+    Pruebas complementarias:  De la analítica destaca: ALT: 47 U/l; GGT: 259 U/l; Fosfatasas alcalinas: 277 U/l; Uratos 2,29 mg/dl. Moderada leucocitosis y trombocitosis. VSG 41 mm a la 1ª hora. Resto del protocolo general que incluye TSH dentro de la normalidad. Ferritina: 515 ng/ml; ausencia de componente M en el proteinograma; alfafetoproteína normal; PSA: 11,5 ng/ml (valores normales de 0,4 a 4); Antígeno carcinoembrionario: 221 ng/ml (valores normales hasta 5); y Ca 19,9 de 188 U/ml (valores normales hasta 37). No se realizó uricosuria de 24 horas.
+    La PAAF del nódulo periumbilical demostró la presencia de células malignas sugestivas de adenocarcinoma y tras ello se procedió a la búsqueda del tumor primario con: Radiografía de tórax que mostró un infiltrado alveolar en el lóbulo inferior izquierdo; ecografía abdominal: poco valorable por distensión aérea abdominal, si bien se aprecia el nódulo periumbilical. La gammagrafía ósea objetivó múltiples acúmulos hipercaptantes en esqueleto axial y periférico. La TAC tóraco-abdominal reveló la existencia de un nódulo de 1,4 x 1,6 cm en lóbulo superior derecho, que contacta con la pleura visceral, que parecía engrosada y con lesiones líticas en el arco costal posterior. Metástasis líticas a nivel de columna dorsal y esternón. Mínimo derrame pleural bilateral. Múltiples lesiones focales hepáticas en segmento III con patrón vascular compatibles con hemangiomas. Lesión de 1,1 cm en segmento IV probablemente metastásica. Nódulo de 1,4 cm en glándula suprarrenal izquierda sugestiva de adenoma. Lesión hipodensa en cola del páncreas de 1,7 x 1 cm posiblemente en relación con tumor primario. Implantes tumorales en partes blandas, una de ellas a nivel periumbilical, compatible con nódulo de la hermana María José Miguel Reiz, y otra en músculo iliaco derecho, con infiltración ósea metastásica en pelvis, sacro y vértebras lumbares.
+    Evolución: Tras la realización de las técnicas de imagen referidas, que no definen un claro origen de su carcinomatosis, a las 2 semanas de estancia hospitalaria se traslada a la unidad de Medicina Paliativa, donde fallece.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Saturnino</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Suárez Ortega</TAG>. <TAG TYPE="CALLE">Urb. El Arco, 16. La Atalaya</TAG>. <TAG TYPE="TERRITORIO">35307 Santa Brígida</TAG>. <TAG TYPE="TERRITORIO">Las Palmas</TAG>. E-mail: <TAG TYPE="CORREO_ELECTRONICO">drsuarez@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

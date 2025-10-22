@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Paz Castillo Miguel</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">63403201K</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">29/05/1994</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Zurbano 87</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcalá de Henares, Barcelona, Cataluña</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">08696</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariapazmiguel@udc.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 930 68 90 43</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 932 91 73 20</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7789560</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">468043486571</TAG>.
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Farmacéutico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Patricia Iglesias Carrillo</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 528756794</TAG>. <TAG TYPE="PROFESION">Neuróloga Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="PAIS">Madrid. España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/11/1999</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">51356633</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Este</TAG>.
+    Informe clínico del paciente:
+    Paciente vegano de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años de edad</TAG>, acompañado de su hermana. Presenta una historia de salud previa de hipersensibilidad a los alimentos de origen animal, por lo que su dieta es estrictamente vegetariana. En las últimas semanas ha presentado síntomas de fatiga crónica, pérdida de apetito y cambios en su estado de ánimo.
+    La exploración física revela: Tª <TAG TYPE="FECHAS">36,5 C</TAG>; T.A: <TAG TYPE="FECHAS">90/60 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">80 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración ni fiebre. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">12,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">8.500/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>); plaquetas <TAG TYPE="FECHAS">200.000/ mm3</TAG>. VSG: <TAG TYPE="FECHAS">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">95%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">90 mg/dl</TAG>; urea <TAG TYPE="FECHAS">20 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">0,8 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,8 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">15 U/l</TAG>; GPT <TAG TYPE="FECHAS">20 U/l</TAG>; GGT <TAG TYPE="FECHAS">25 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">120 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía abdominal y TAC craneal) que no evidencian patología significativa. Con el diagnóstico de fatiga crónica y cambios en el estado de ánimo se instaura tratamiento sintomático (reposo, hidratación y dieta equilibrada) y seguimiento regular en el Centro de Salud.
+    Antecedentes:
+    La paciente tiene una historia de salud previa de hipersensibilidad a los alimentos de origen animal, por lo que su dieta es estrictamente vegetariana.
+    Evolución y comentarios:
+    La paciente ha presentado una buena respuesta al tratamiento sintomático y ha mejorado significativamente en sus síntomas. Se le recomienda seguir con la dieta vegetariana y realizar seguimiento regular en el Centro de Salud.
+    Remitido por:
+    Se le remite al paciente a su médico de cabecera para seguir con el seguimiento y tratamiento.
+  </TEXT>
+</MEDDOCAN>

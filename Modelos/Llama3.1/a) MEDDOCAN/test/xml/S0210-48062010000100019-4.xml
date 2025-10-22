@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Antonia</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pinchete Trigo</TAG>.
+    CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc-214130</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">28 13465656 52</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle de la villa de marin 6, 3 E</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28029</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">214130</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/11/1942</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">74 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">28/05/2017</TAG>.
+    Especialidad: <TAG TYPE="PROFESION">.</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ángel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García Escudero</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 46158</TAG>.
+    Historia Actual: Paciente mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">74 años</TAG>, ingresada previamente en varias ocasiones con diagnósticos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bronquiectasias</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">neumonitis peribronquiectásicas</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">anemia severa multifactorial</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia renal crónica</TAG>, signos endoscópicos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gastritis crónica difusa</TAG>, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">factor reumatoide</TAG> positivo. Como consecuencia de una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">caída casual</TAG> presentó <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fractura del húmero izquierdo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cadera del mismo lado</TAG>. Durante su ingreso en <TAG TYPE="CENTRO_SALUD">Traumatología</TAG> presentó un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematuria macróscopica</TAG> (postsondaje), <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipotensión</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">febrícula</TAG>, empeoramiento de la función renal, que obligó a su traslado a la <TAG TYPE="CENTRO_SALUD">Unidad de Cuidados Intensivos</TAG>, donde falleció con los diagnósticos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">neumonía evolucionada a absceso pulmonar</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematuria fulminante</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sepsis por pseudomonas</TAG> e <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia renal aguda</TAG> (<TAG TYPE="FECHAS">13/07/2004</TAG>). Previamente, como consecuencia de la presencia de un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">coágulo vesical</TAG> que ocupaba toda su luz, se practicó <TAG TYPE="OTROS_SUJETO_ASISTENCIA">drenaje endoscópico</TAG> con observación de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pared vesical denudada e inflamada</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sangrado en sábana</TAG> sin patología tumoral, tomando <TAG TYPE="OTROS_SUJETO_ASISTENCIA">biopsias múltiples</TAG>. El diagnóstico anatomopatológico reveló <TAG TYPE="OTROS_SUJETO_ASISTENCIA">amiloidosis vesical (AA)</TAG> con depósitos de material amiloide, fundamentalmente perivascular, pero también estromal.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ángel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García Escudero</TAG>. <TAG TYPE="HOSPITAL">Hospital Universitario La Paz</TAG> <TAG TYPE="CALLE">Paseo de la Castellana, 261</TAG>, <TAG TYPE="TERRITORIO">28046</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="CORREO_ELECTRONICO">agareslo@telefonica.net</TAG>.
+  </TEXT>
+</MEDDOCAN>

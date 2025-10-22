@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ángeles</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Camacho Bueno</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">68673248D</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/08/1940</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Doctor Esquerdo 90</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad autónoma de Melilla</TAG>, <TAG TYPE="TERRITORIO">Melilla</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">51953</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">angeles.bueno@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 16 49 44</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 751 30 88 68</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4995356</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">680517827981</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Soldador</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Raúl Andres Casas</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">016217881</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Principal en Optometría Clínica</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/12/1962</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Ramón y Cajal</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gabriel Durán Macias
+DNI: 48363802T
+Fecha de nacimiento: 17/06/1957
+Género: Varón
+Domicilio: Calle de la Libertad 75, 1A
+Ciudad: Alcorcón, Mallorca, Islas Baleares
+Código postal: 07346
+Email: gabriel-macias@aol.com
+Teléfono fijo: +34 971 48 50 81
+Teléfono móvil: +34 671 10 66 10
+NHC: 1406879
+NASS: 067888539336
+Condición de riesgo: Trabajador de Servicios de Limpieza
+
+Datos asistenciales.
+Médico: Dr. Alfredo Acosta Suárez. NC 669548085. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/10/2001
+Episodio: 87952920
+Hospital: Hospital Universitario Nuestra Señora de Candelaria
+
+Informe clínico del paciente:
+Paciente vegano de 44 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Gabriel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Durán Macias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="48363802T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="17/06/1957" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="148" text="Calle de la Libertad 75, 1A" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="165" text="Alcorcón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="175" text="Mallorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="191" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="07346" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="242" text="gabriel-macias@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="258" end="274" text="+34 971 48 50 81" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="291" end="307" text="+34 671 10 66 10" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="313" end="320" text="1406879" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="327" end="339" text="067888539336" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="361" end="396" text="Trabajador de Servicios de Limpieza" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="431" end="452" text="Alfredo Acosta Suárez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="457" end="466" text="669548085" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="468" end="507" text="Investigador Clínico en Síndromes Raros" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="509" end="584" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="586" end="615" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="617" end="622" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="624" end="630" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="632" end="638" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="658" end="668" text="01/10/2001" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="679" end="687" text="87952920" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="698" end="749" text="Hospital Universitario Nuestra Señora de Candelaria" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="790" end="796" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="800" end="807" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

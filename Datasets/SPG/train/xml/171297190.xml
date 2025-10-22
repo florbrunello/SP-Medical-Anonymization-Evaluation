@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Fernando Ramos Aparicio
+DNI: 40355552M
+Fecha de nacimiento: 24/12/1944
+Género: H
+Domicilio: Calle de Ayala 11, 9Z
+Ciudad: Alcobendas, Lugo, Galicia
+Código postal: 27509
+Email: fernando_ramos.aparicio@aol.com
+Teléfono fijo: +34 982 28 28 31
+Teléfono móvil: +34 782 83 38 28
+NHC: 4312446
+NASS: 658329405182
+Condición de riesgo: Técnico de Cuidados Auxiliares de Enfermería
+
+Datos asistenciales.
+Médico: Dra. Begoña Esteban Santos. NC 099495346. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/02/1963
+Episodio: 35425939
+Centro de salud: Centro de Salud Arganda del Rey
+Matrícula del coche: 4503YJD
+Modelo: BMW 3 Series
+VIN: VSQZNR8X7HU520915
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena americana de 18 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.146.157, con dirección MAC E8:26:BD:F8:CB:9B. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Fernando" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="51" text="Ramos Aparicio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="40355552M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="24/12/1944" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="141" text="Calle de Ayala 11, 9Z" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="160" text="Alcobendas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="166" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="175" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="27509" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="235" text="fernando_ramos.aparicio@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 982 28 28 31" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 782 83 38 28" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="4312446" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="658329405182" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="354" end="398" text="Técnico de Cuidados Auxiliares de Enfermería" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="671" end="681" text="05/02/1963" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="692" end="700" text="35425939" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="718" end="749" text="Centro de Salud Arganda del Rey" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="771" end="778" text="4503YJD" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="805" end="822" text="VSQZNR8X7HU520915" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="866" end="896" text="ascendencia indígena americana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="900" end="907" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="1024" end="1041" text="E8:26:BD:F8:CB:9B" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

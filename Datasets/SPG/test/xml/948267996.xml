@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Silvia Rubio Muñoz
+DNI: 24947341T
+Fecha de nacimiento: 30/03/2017
+Género: Femenino
+Domicilio: Calle de la Cabeza del Rey Don Pedro 54
+Ciudad: Ibiza, Pontevedra, Galicia
+Código postal: 36994
+Email: silvia@hotmail.com
+Teléfono fijo: +34 986 65 39 39
+Teléfono móvil: +34 786 76 45 53
+NHC: 7773946
+NASS: 796945566293
+Condición de riesgo: Microbiólogo
+
+Datos asistenciales.
+Médico: Dr. Francisco José Benítez Giménez. NC 334420812. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 16/10/2018
+Episodio: 70962413
+Centro de salud: Centro de Salud Torrejón de Ardoz
+
+Informe clínico del paciente:
+Paciente usuario de drogas de un año de edad, acompañado de su padre. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es BV972FGC831. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Silvia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="46" text="Rubio Muñoz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="24947341T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="30/03/2017" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="110" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="161" text="Calle de la Cabeza del Rey Don Pedro 54" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="170" end="175" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="177" end="187" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="189" end="196" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="212" end="217" text="36994" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="225" end="243" text="silvia@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 986 65 39 39" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="292" end="308" text="+34 786 76 45 53" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="314" end="321" text="7773946" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="328" end="340" text="796945566293" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="362" end="374" text="Microbiólogo" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="409" end="439" text="Francisco José Benítez Giménez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="444" end="453" text="334420812" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="455" end="499" text="Investigador Principal en Optometría Clínica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="501" end="559" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="561" end="585" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="587" end="592" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="594" end="604" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="606" end="612" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="632" end="642" text="16/10/2018" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="653" end="661" text="70962413" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="679" end="712" text="Centro de Salud Torrejón de Ardoz" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="753" end="770" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="774" end="780" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="807" end="812" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="896" end="907" text="BV972FGC831" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

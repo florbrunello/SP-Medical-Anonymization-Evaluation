@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Esteban</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Velasco Camacho</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">90200434T</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/05/1972</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Carmen 32</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Plasencia</TAG>, <TAG TYPE="TERRITORIO">Cáceres</TAG>, <TAG TYPE="TERRITORIO">Extremadura</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">10578</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">velasco@ciberehd.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 927 74 62 08</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 627 58 74 30</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9451673</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Inmaculada Pardo Macias</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">001271083</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/05/1991</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">57156656</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Carabanchel</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">musulman</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">19 años</TAG> de edad. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">NI617NBJ441</TAG>. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">RM866AHF526</TAG>.
+  </TEXT>
+</MEDDOCAN>

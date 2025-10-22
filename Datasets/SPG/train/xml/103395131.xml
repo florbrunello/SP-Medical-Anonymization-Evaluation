@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Moisés Roldan Garrido
+DNI: 33227471S
+Fecha de nacimiento: 19/05/2014
+Género: Masculino
+Domicilio: Calle de Miguel Ángel 56
+Ciudad: Lugo, Zaragoza, Aragón
+Código postal: 50421
+Email: moises-garrido597@outlook.com
+Teléfono fijo: +34 976 63 75 65
+Teléfono móvil: +34 676 97 05 11
+NHC: 8942157
+NASS: 657247003376
+Condición de riesgo: Albañil
+
+Datos asistenciales.
+Médico: Dr. Aarón Heredia Vega. NC 257510987. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 60101238
+Hospital: Hospital General de Villalba
+Matrícula del coche: 2336QHI
+Modelo: Ford F-150
+VIN: VSTVQHE119N916394
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 10 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Moisés" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Roldan Garrido" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="33227471S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="19/05/2014" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="114" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="150" text="Calle de Miguel Ángel 56" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="163" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="173" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="181" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="50421" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="239" text="moises-garrido597@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 976 63 75 65" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 676 97 05 11" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="8942157" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="324" end="336" text="657247003376" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="358" end="365" text="Albañil" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="400" end="418" text="Aarón Heredia Vega" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="423" end="432" text="257510987" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="434" end="465" text="Residente de 5° año en Urología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="467" end="539" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="541" end="564" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="566" end="571" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="573" end="579" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="581" end="587" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="607" end="617" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="628" end="636" text="60101238" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="647" end="675" text="Hospital General de Villalba" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="697" end="704" text="2336QHI" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="729" end="746" text="VSTVQHE119N916394" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="787" end="804" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="808" end="815" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="842" end="847" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

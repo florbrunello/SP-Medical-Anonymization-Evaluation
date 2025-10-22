@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Blanca Martínez Pacheco
+DNI: 79445033C
+Fecha de nacimiento: 23/08/1973
+Género: M
+Domicilio: Calle de Lope de Rueda 43
+Ciudad: Ourense, Teruel, Aragón
+Código postal: 44019
+Email: martinez@uhu.es
+Teléfono fijo: +34 978 44 08 65
+Teléfono móvil: +34 678 85 73 40
+NHC: 7635509
+NASS: 790094565203
+
+Datos asistenciales.
+Médico: Dr. Mikel Santos Menendez. NC 070103686. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 24/02/1990
+Episodio: 92546992
+Hospital: Complejo Hospitalario Torrecárdenas
+
+Informe clínico del paciente:
+Paciente fumador de 16 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Blanca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="51" text="Martínez Pacheco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="79445033C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="23/08/1973" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="145" text="Calle de Lope de Rueda 43" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="161" text="Ourense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="169" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="177" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="193" end="198" text="44019" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="206" end="221" text="martinez@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="237" end="253" text="+34 978 44 08 65" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="270" end="286" text="+34 678 85 73 40" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="292" end="299" text="7635509" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="306" end="318" text="790094565203" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="353" end="374" text="Mikel Santos Menendez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="379" end="388" text="070103686" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="390" end="433" text="Cardiólogo de Unidad de Cuidados Intensivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="435" end="507" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="509" end="532" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="534" end="539" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="541" end="547" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="549" end="555" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="575" end="585" text="24/02/1990" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="596" end="604" text="92546992" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="615" end="650" text="Complejo Hospitalario Torrecárdenas" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="691" end="698" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="702" end="709" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="736" end="741" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

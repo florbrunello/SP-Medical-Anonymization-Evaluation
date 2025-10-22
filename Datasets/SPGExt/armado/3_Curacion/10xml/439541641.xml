@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jordi Casas Valero</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">37851433B</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/09/2020</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Embajadores 51, 5G</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Lugo</TAG>, <TAG TYPE="TERRITORIO">Sevilla</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">41636</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jordi_casasvalero1197@ciberer.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 97 39 78</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 754 64 22 97</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2617444</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">588082091600</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Víctima de desastre</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Luisa Torres Cano</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 374111573</TAG>. <TAG TYPE="PROFESION">Investigadora Clínica en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">30/06/2024</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">34517898</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Delicias</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">30/06/2024</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Centro de Salud Delicias</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">víctima de desastre</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años</TAG> de edad, acompañado de su madre. Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">URL http://example-medical.edu//34171781Y</TAG>.
+    Antecedentes:
+    - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Historia previa de exposición a sustancias tóxicas</TAG>.
+    - Fue trasladado a la unidad de cuidados intensivos para monitoreo y tratamiento.
+    Evolución y comentarios:
+    - El paciente ha mostrado signos de mejoría en los últimos días, pero sigue requiriendo atención médica especializada.
+    - Se han realizado pruebas adicionales para determinar la gravedad de la exposición y el daño causado.
+    Remitido por:
+    - Se le remitió a un especialista en <TAG TYPE="PROFESION">toxicología</TAG> para una evaluación más detallada y tratamiento adecuado.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Miriam Díaz Blazquez
+DNI: 15981460W
+Fecha de nacimiento: 17/04/1956
+Género: Femenino
+Domicilio: Calle del Barquillo 80
+Ciudad: Jaén, Cuenca, Castilla-La Mancha
+Código postal: 16869
+Email: miriamblazquez1430@ciberned.es
+Teléfono fijo: +34 969 81 26 40
+Teléfono móvil: +34 769 73 26 76
+NHC: 2107237
+NASS: 757836977747
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dra. Eva Cuesta Castaño. NC 979200839. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 31/01/2013
+Episodio: 43975207
+Centro de salud: Centro de Salud Tetuán
+Matrícula del coche: 6131HSB
+Modelo: Chrysler Pacifica
+VIN: VSKCYF76S7F734369
+
+Informe clínico del paciente:
+Paciente transeúnte de 56 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Miriam" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Díaz Blazquez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="15981460W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="17/04/1956" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="112" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="146" text="Calle del Barquillo 80" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="159" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="167" text="Cuenca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="187" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="16869" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="246" text="miriamblazquez1430@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="262" end="278" text="+34 969 81 26 40" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="295" end="311" text="+34 769 73 26 76" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="317" end="324" text="2107237" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="331" end="343" text="757836977747" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="365" end="383" text="Ingeniero de Minas" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="662" end="672" text="31/01/2013" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="683" end="691" text="43975207" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="709" end="731" text="Centro de Salud Tetuán" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="753" end="760" text="6131HSB" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="792" end="809" text="VSKCYF76S7F734369" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="850" end="860" text="transeúnte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="864" end="871" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="898" end="903" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

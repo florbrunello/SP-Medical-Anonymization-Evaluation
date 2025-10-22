@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gonzalo Pastor De la Fuente
+DNI: 40943681R
+Fecha de nacimiento: 19/12/2001
+Género: H
+Domicilio: Calle de Toledo 49, 7H
+Ciudad: Palma, Sevilla, Andalucía
+Código postal: 41885
+Email: pastor@gmail.com
+Teléfono fijo: +34 954 32 95 21
+Teléfono móvil: +34 654 80 16 30
+NHC: 6914724
+NASS: 695838959008
+Condición de riesgo: Trabajador de Residuos Sólidos
+
+Datos asistenciales.
+Médico: Dr. Josep Aguilar Serrano. NC 180078156. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/03/2020
+Episodio: 22870578
+Centro de salud: Centro de Salud Móstoles
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 18 años de edad, acompañado de su hija. El servidor para envío de información desde cual el usuario se comunica es smtp://example-cardiology.com. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Gonzalo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="55" text="Pastor De la Fuente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="40943681R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="19/12/2001" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="112" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="146" text="Calle de Toledo 49, 7H" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="160" text="Palma" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="169" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="180" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="41885" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="225" text="pastor@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="241" end="257" text="+34 954 32 95 21" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 654 80 16 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="296" end="303" text="6914724" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="310" end="322" text="695838959008" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="344" end="374" text="Trabajador de Residuos Sólidos" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="409" end="430" text="Josep Aguilar Serrano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="435" end="444" text="180078156" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="446" end="481" text="Neurólogo Especialista en Alzheimer" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="483" end="572" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="574" end="603" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="605" end="610" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="612" end="618" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="620" end="626" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="646" end="656" text="01/03/2020" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="667" end="675" text="22870578" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="693" end="717" text="Centro de Salud Móstoles" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="761" end="782" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="786" end="793" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="820" end="824" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="901" end="926" text="smtp://example-cardiology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

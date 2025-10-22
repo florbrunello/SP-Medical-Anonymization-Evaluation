@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jonathan Serra León</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">54297832F</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/07/1994</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Serrano 34</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Fuenlabrada, Lugo, Galicia</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">27619</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jonathan.serra-leon@ioba.med.uva.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 982 10 59 74</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 782 47 86 52</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2440356</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">407441728374</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Operador de Maquinaria Pesada</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. José Manuel Vila Blazquez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">856346707</TAG>. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/02/2015</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">68759125</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Collado Villalba</TAG>.
+    Informe clínico del paciente:
+    Paciente consumidor de alcohol de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> de edad, acompañado de su hijo. Presenta una historia de abuso de sustancias desde los 16 años, con un consumo regular de alcohol y ocasional de drogas ilegales. En las últimas semanas, ha presentado una mayor frecuencia y cantidad de consumo de alcohol, lo que ha llevado a una situación de descompensación en su vida diaria.
+    La exploración física revela: Tª <TAG TYPE="OTROS_SUJETO_ASISTENCIA">37,5 C</TAG>; T.A: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120/80 mmHg</TAG>; Fc: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">80 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="OTROS_SUJETO_ASISTENCIA">14,2 g/dl</TAG>; leucocitos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">12.000/mm3</TAG> (neutrófilos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">70%</TAG>); plaquetas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">250.000/ mm3</TAG>. VSG: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 mm 1ª hora</TAG>. Coagulación: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TQ 90%</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TTPA 25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">110 mg/dl</TAG>; urea <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25 mg/dl</TAG>; creatinina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">1,0 mg/dl</TAG>; sodio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">135 mEq/l</TAG>; potasio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3,5 mEq/l</TAG>; GOT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">12 U/l</TAG>; GPT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 U/l</TAG>; GGT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120 U/l</TAG>; calcio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Con el diagnóstico de abuso de sustancias y descompensación alcohólica se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación testicular) así como tratamiento de rehabilitación y apoyo psicológico. El paciente se encuentra en la unidad de observación para seguir su evolución y recibir el tratamiento adecuado.
+    Antecedentes:
+    El paciente tiene una historia de abuso de sustancias desde los 16 años, con un consumo regular de alcohol y ocasional de drogas ilegales. En las últimas semanas, ha presentado una mayor frecuencia y cantidad de consumo de alcohol, lo que ha llevado a una situación de descompensación en su vida diaria.
+    Evolución y comentarios:
+    El paciente se encuentra en la unidad de observación para seguir su evolución y recibir el tratamiento adecuado. Se le ha proporcionado tratamiento sintomático y tratamiento de rehabilitación y apoyo psicológico. Se le realizarán análisis de sangre y orina para evaluar su estado de salud y determinar el curso de la
+  </TEXT>
+</MEDDOCAN>

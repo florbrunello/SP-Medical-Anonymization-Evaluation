@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: María Begoña Plaza Parra
+DNI: 90974139P
+Fecha de nacimiento: 27/02/1977
+Género: M
+Domicilio: Calle de Jesús y María 30, 8K
+Ciudad: Burgos, Castellón, Comunidad Valenciana
+Código postal: 12314
+Email: mariabegona-parra1736@outlook.com
+Teléfono fijo: +34 964 33 66 56
+Teléfono móvil: +34 664 96 34 29
+NHC: 0773032
+NASS: 046816799534
+
+Datos asistenciales.
+Médico: Dra. Raquel Marín Guzman. NC 416908202. Gastroenteróloga Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/04/2005
+Episodio: 81671587
+Hospital: Hospital Universitario Rey Juan Carlos de Mostoles
+Matrícula del coche: 9323PHQ
+Modelo: Chevrolet Silverado
+VIN: VSF53OFE79L627315
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 28 años de edad. Se realizó un expediente con URL http://example-dermatology.org//99744211O. 

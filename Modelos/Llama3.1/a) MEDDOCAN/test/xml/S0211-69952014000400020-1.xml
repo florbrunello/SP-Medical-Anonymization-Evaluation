@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sandra</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ducret</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7361802</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">78 78364507 12</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle General Ramirez, 14</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">El Ejido</TAG>, <TAG TYPE="TERRITORIO">Almeria</TAG>.
+    CP: <TAG TYPE="TERRITORIO">04700</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/09/1946</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">Bulgaria</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">67 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">31/07/2014</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Nefrología</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Eugenia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Palacios Gómez</TAG>  NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">04 04 45112</TAG>.
+    Informe clínico del paciente: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">67 años</TAG>, natural de <TAG TYPE="PAIS">Bulgaria</TAG>, hipertensa, diabética, obesa, dislipémica y con enfermedad renal crónica (ERC) posiblemente secundaria a diabetes y/o nefroangiosclerosis, en HD desde enero de 2008. Ámbito socioeconómico bajo, convivencia con animales y mala higiene personal.
+    Se realiza fístula arteriovenosa (FAV) humerocefálica izquierda, con evolución tórpida, realizando HD por CVC transitorio (múltiples retiradas y nuevas canalizaciones por infecciones de puerta de entrada del catéter [PEC]).
+    Ingresa por cuadro de fiebre y escalofríos tras diálisis, compatible con bacteriemia, con hemocultivos positivos a Staphylococcus (St.) aureus. Asocia infección en PEC, por lo que se retira el catéter, que se cultiva, creciendo AX, junto con St. aureus y Enterococcus faecalis. Con tratamiento combinado para los tres gérmenes desaparece el cuadro infeccioso clínica y bacteriológicamente.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Eugenia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Palacios Gómez</TAG>, <TAG TYPE="PROFESION">Unidad de Nefrología</TAG>, <TAG TYPE="HOSPITAL">Hospital de Poniente</TAG>, <TAG TYPE="CALLE">Carretera de Almerimar, S/N</TAG>, <TAG TYPE="TERRITORIO">04700</TAG>, <TAG TYPE="TERRITORIO">El Ejido</TAG>, <TAG TYPE="TERRITORIO">Almería</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">eugeniapgomez@gmail.com</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">mariaeugenia.palacios@ephpo.es</TAG>
+  </TEXT>
+</MEDDOCAN>

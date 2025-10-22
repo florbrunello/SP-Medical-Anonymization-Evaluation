@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Luis Diez Márquez
+DNI: 34386394Z
+Fecha de nacimiento: 30/12/2015
+Género: V
+Domicilio: Calle del Doctor Esquerdo 99, 2S
+Ciudad: Alcalá de Henares, Palencia, Castilla y León
+Código postal: 34096
+Email: joseluis-diez@gmail.com
+Teléfono fijo: +34 979 26 43 47
+Teléfono móvil: +34 779 55 65 38
+NHC: 7431681
+Condición de riesgo: Microbiólogo
+
+Datos asistenciales.
+Médico: Dra. María Esther Abad Roca. NC 985246279. Gastroenteróloga Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/08/2019
+Episodio: 38066367
+Centro de salud: Centro de Salud Majadahonda
+
+Informe clínico del paciente:
+Paciente terminal de 3 años de edad, acompañado de su padre. Se realizó un expediente con URL http://example-healthcare.net//58277333N. Se registró una sesión de huella dactilar, el código obtenido para revisarla es PO702GVF671. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="José Luis" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="50" text="Diez Márquez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="34386394Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="30/12/2015" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="151" text="Calle del Doctor Esquerdo 99, 2S" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="177" text="Alcalá de Henares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="179" end="187" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="189" end="204" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="220" end="225" text="34096" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="233" end="256" text="joseluis-diez@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="272" end="288" text="+34 979 26 43 47" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="305" end="321" text="+34 779 55 65 38" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="327" end="334" text="7431681" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="356" end="368" text="Microbiólogo" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="666" end="676" text="18/08/2019" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="687" end="695" text="38066367" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="713" end="740" text="Centro de Salud Majadahonda" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="781" end="789" text="terminal" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="793" end="799" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="826" end="831" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="866" end="891" text="http://example-healthcare" TYPE="URL_WEB" comment=""/>
+        <ID id="T23" start="988" end="999" text="PO702GVF671" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

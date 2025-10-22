@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Albert Gallardo Morales
+DNI: 71685675B
+Fecha de nacimiento: 22/01/2015
+Género: Varón
+Domicilio: Calle de las Huertas 38
+Ciudad: Elda, Almería, Andalucía
+Código postal: 04128
+Email: albert@icloud.com
+Teléfono fijo: +34 950 08 77 00
+Teléfono móvil: +34 650 22 32 03
+NHC: 5361605
+Condición de riesgo: Soldador
+
+Datos asistenciales.
+Médico: Dr. Miguel Ángel Hernández Martínez. NC 391860682. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 15/09/2019
+Episodio: 77629754
+Hospital: Hospital Universitario Virgen Macarena
+
+Informe clínico del paciente:
+Paciente vegetariano de 4 años de edad, acompañado de su padre. Se registró una sesión de firma biométrica, el código obtenido para revisarla es HP833MDV379. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Albert" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="51" text="Gallardo Morales" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="71685675B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="22/01/2015" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="112" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="147" text="Calle de las Huertas 38" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="160" text="Elda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="169" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="180" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="04128" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="226" text="albert@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="242" end="258" text="+34 950 08 77 00" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="275" end="291" text="+34 650 22 32 03" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="297" end="304" text="5361605" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="326" end="334" text="Soldador" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="369" end="400" text="Miguel Ángel Hernández Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="405" end="414" text="391860682" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="416" end="453" text="Residente de 4° año en Endocrinología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="455" end="522" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="524" end="551" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="553" end="558" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="560" end="567" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="569" end="575" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="595" end="605" text="15/09/2019" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="616" end="624" text="77629754" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="635" end="673" text="Hospital Universitario Virgen Macarena" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="714" end="725" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="729" end="735" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="762" end="767" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="850" end="861" text="HP833MDV379" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

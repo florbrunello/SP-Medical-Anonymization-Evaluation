@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Esther Rivas Gil
+DNI: 26065198B
+Fecha de nacimiento: 17/06/1985
+Género: M
+Domicilio: Calle del Marqués de Cubas 59, 8P
+Ciudad: Zamora, Gerona, Cataluña
+Código postal: 17600
+Email: esther.rivas1644@ioba.med.uva.es
+Teléfono fijo: +34 972 47 16 27
+Teléfono móvil: +34 672 13 09 56
+NHC: 1704273
+NASS: 579304414904
+Condición de riesgo: Trabajador de Minería
+
+Datos asistenciales.
+Médico: Dr. Izan Herrero Ruiz. NC 415740039. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/09/1991
+Episodio: 12429291
+Centro de salud: Centro de Salud Arganzuela
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 6 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Esther" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="44" text="Rivas Gil" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="26065198B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="17/06/1985" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="101" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="113" end="146" text="Calle del Marqués de Cubas 59, 8P" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="161" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="169" text="Gerona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="179" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="17600" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="240" text="esther.rivas1644@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 972 47 16 27" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="289" end="305" text="+34 672 13 09 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="311" end="318" text="1704273" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="325" end="337" text="579304414904" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="359" end="380" text="Trabajador de Minería" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="415" end="432" text="Izan Herrero Ruiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="437" end="446" text="415740039" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="448" end="485" text="Investigador Clínico en Epidemiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="487" end="571" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="573" end="602" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="604" end="609" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="611" end="617" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="619" end="625" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="645" end="655" text="03/09/1991" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="666" end="674" text="12429291" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="692" end="718" text="Centro de Salud Arganzuela" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="762" end="786" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="790" end="796" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="823" end="829" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

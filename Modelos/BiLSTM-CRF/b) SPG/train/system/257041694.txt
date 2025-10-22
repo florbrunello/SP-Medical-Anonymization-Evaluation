@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Jordi Ibáñez Morales
+DNI: 86102234D
+Fecha de nacimiento: 29/07/1993
+Género: V
+Domicilio: Calle de Lope de Vega 11
+Ciudad: León, Formentera, Islas Baleares
+Código postal: 07265
+Email: jordimorales1533@icloud.com
+Teléfono fijo: +34 971 07 66 52
+Teléfono móvil: +34 671 21 97 55
+NHC: 3708367
+
+Datos asistenciales.
+Médico: Dra. María Begoña Pérez Acosta. NC 220016898. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/05/2000
+Episodio: 41959122
+Centro de salud: Centro de Salud Chamartín
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 6 años de edad, acompañado de su abuela. Se registró una sesión de huella dactilar, el código obtenido para revisarla es CA090KHU688. 

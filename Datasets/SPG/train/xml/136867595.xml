@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Miguel Gallardo Vila
+DNI: 76429192P
+Fecha de nacimiento: 10/10/2021
+Género: Masculino
+Domicilio: Calle de Mesón de Paredes 92
+Ciudad: Liria, Toledo, Castilla-La Mancha
+Código postal: 45276
+Email: miguel120@uhu.es
+Teléfono fijo: +34 925 57 38 86
+Teléfono móvil: +34 725 12 50 48
+NHC: 3632758
+NASS: 289634902295
+
+Datos asistenciales.
+Médico: Dr. Mariano Santos Calderon. NC 599173532. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/06/2024
+Hospital: Hospital Universitario Rey Juan Carlos de Mostoles
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 2 años de edad, acompañado de su abuela. Se registró una sesión de firma biométrica, el código obtenido para revisarla es PM068PBS530. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Gallardo Vila" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="76429192P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="10/10/2021" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="113" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="153" text="Calle de Mesón de Paredes 92" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="162" end="167" text="Liria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="175" text="Toledo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="195" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="211" end="216" text="45276" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="224" end="240" text="miguel120@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 925 57 38 86" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="289" end="305" text="+34 725 12 50 48" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="311" end="318" text="3632758" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="325" end="337" text="289634902295" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="372" end="395" text="Mariano Santos Calderon" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="400" end="409" text="599173532" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="411" end="455" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="457" end="543" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="545" end="574" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="576" end="581" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="583" end="589" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="591" end="597" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="617" end="627" text="28/06/2024" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="638" end="688" text="Hospital Universitario Rey Juan Carlos de Mostoles" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="729" end="750" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="754" end="760" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="787" end="793" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T29" start="876" end="887" text="PM068PBS530" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Lourdes Ortega Cuesta
+DNI: 71283389H
+Fecha de nacimiento: 10/07/2014
+Género: Femenino
+Domicilio: Calle de los Embajadores 63
+Ciudad: Huelva, Pontevedra, Galicia
+Código postal: 36248
+Email: ortega@salud.madrid.org
+Teléfono fijo: +34 986 54 20 56
+Teléfono móvil: +34 686 43 64 15
+NHC: 9546332
+NASS: 279111334371
+Condición de riesgo: Repartidor
+
+Datos asistenciales.
+Médico: Dr. José María Bernal Mateos. NC 111178657. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 26/09/2016
+Episodio: 26745386
+Hospital: Hospital Universitario Puerta de Hierro Majadahonda
+
+Informe clínico del paciente:
+Paciente de ascendencia centroasiática de 2 años de edad, acompañado de su padre. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es EG790YID194. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es OO405GMD889. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Lourdes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="49" text="Ortega Cuesta" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="71283389H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="10/07/2014" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="113" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="152" text="Calle de los Embajadores 63" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="161" end="167" text="Huelva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="179" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="181" end="188" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="36248" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="240" text="ortega@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 986 54 20 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="289" end="305" text="+34 686 43 64 15" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="311" end="318" text="9546332" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="325" end="337" text="279111334371" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="359" end="369" text="Repartidor" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="404" end="428" text="José María Bernal Mateos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="433" end="442" text="111178657" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="444" end="484" text="Investigador Clínico en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="486" end="553" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="555" end="582" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="584" end="589" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="591" end="598" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="600" end="606" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="626" end="636" text="26/09/2016" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="647" end="655" text="26745386" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="666" end="717" text="Hospital Universitario Puerta de Hierro Majadahonda" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="761" end="787" text="ascendencia centroasiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="791" end="797" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="824" end="829" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="913" end="924" text="EG790YID194" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T32" start="1012" end="1023" text="OO405GMD889" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

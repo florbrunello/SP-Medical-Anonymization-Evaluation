@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Vicente Vera Romero
+DNI: 76456608P
+Fecha de nacimiento: 13/08/1933
+Género: Hombre
+Domicilio: Calle de la Fe 99, 6B
+Ciudad: Avilés, Menorca, Islas Baleares
+Código postal: 07331
+Email: romero@ioba.med.uva.es
+Teléfono fijo: +34 971 33 74 37
+Teléfono móvil: +34 671 68 47 73
+NHC: 5616323
+
+Datos asistenciales.
+Médico: Dr. Gregorio Arias Silva. NC 308448324. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 26/10/1948
+Episodio: 88562061
+Centro de salud: Centro de Salud Torrejón de Ardoz
+Matrícula del coche: 8090YUN
+Modelo: Tesla Model 3
+VIN: VSNYO18QQAB843237
+
+Informe clínico del paciente:
+Paciente de tez blanca de 15 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Vicente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="47" text="Vera Romero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="76456608P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="13/08/1933" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="109" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="142" text="Calle de la Fe 99, 6B" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="157" text="Avilés" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="166" text="Menorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="182" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="07331" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="233" text="romero@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 971 33 74 37" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 671 68 47 73" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="304" end="311" text="5616323" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="346" end="366" text="Gregorio Arias Silva" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="371" end="380" text="308448324" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="382" end="425" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="427" end="485" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="487" end="511" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="513" end="518" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="520" end="530" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="532" end="538" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="558" end="568" text="26/10/1948" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="579" end="587" text="88562061" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="605" end="638" text="Centro de Salud Torrejón de Ardoz" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T26" start="660" end="667" text="8090YUN" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="695" end="712" text="VSNYO18QQAB843237" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="756" end="766" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="770" end="777" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="804" end="811" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

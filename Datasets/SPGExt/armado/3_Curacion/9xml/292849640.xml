@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan Pedro Conde Díaz</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">10954845Z</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">25/02/1990</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Magdalena 59, 7I</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Lorca, Madrid, Madrid</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">28684</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">juanpedro-diaz@udc.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 915 66 73 80</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 916 23 04 79</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8338072</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">462819483468</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Guardia de Seguridad</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. José Luis Macias Galan</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">773757028</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">13/06/2000</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Príncipe de Asturias</TAG>
+    Informe clínico del paciente:
+    Paciente discapacitado de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 años</TAG> de edad, acompañado de su padre, que presenta un cuadro de dificultad para caminar y mantener el equilibrio debido a una lesión cerebral en la infancia. La exploración física revela una marcha atáxica, con tendencia a caer hacia un lado, y una debilidad en las extremidades inferiores. Los datos analíticos muestran una hipocalcemia leve y una hipomagnesemia moderada.
+    La evolución clínica ha sido marcada por episodios de convulsiones y dificultad para controlar los movimientos, especialmente durante las actividades físicas. El paciente también presenta una dificultad para comunicarse, con un lenguaje limitado y una comprensión reducida.
+    Se han realizado pruebas diagnósticas, incluyendo una resonancia magnética cerebral, que ha mostrado una lesión en el lóbulo frontal izquierdo, con una disminución en la función motora y una alteración en la estructura del cerebro. El tratamiento ha consistido en un plan de rehabilitación física y terapia ocupacional, con el objetivo de mejorar la función motora y la autonomía del paciente.
+    La pronóstico es reservado, ya que la lesión cerebral en la infancia ha tenido un impacto significativo en el desarrollo y la función del paciente. Sin embargo, con un tratamiento adecuado y un apoyo continuo, se espera que el paciente pueda mejorar su calidad de vida y alcanzar un mayor nivel de independencia.
+    Antecedentes:
+    El paciente tiene un antecedente de lesión cerebral en la infancia, que ha tenido un impacto significativo en su desarrollo y función. La lesión ocurrió durante un accidente doméstico, cuando el paciente tenía <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años</TAG> de edad.
+    Evolución y comentarios:
+    La evolución clínica del paciente ha sido marcada por episodios de convulsiones y dificultad para controlar los movimientos, especialmente durante las actividades físicas. El paciente también presenta una dificultad para comunicarse, con un lenguaje limitado y una comprensión reducida.
+    Remitido por:
+    El paciente fue remitido por su padre, quien se quejaba de la dificultad del paciente para caminar y mantener el equilibrio.
+  </TEXT>
+</MEDDOCAN>

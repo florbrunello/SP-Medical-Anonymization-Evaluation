@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aitor</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">García Pereira</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">93474320C</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/04/1979</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Isabel 29</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Langreo</TAG>, <TAG TYPE="TERRITORIO">Valladolid</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">47084</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">garcia_pereira@uhu.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 983 35 68 86</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 783 38 67 90</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8104420</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">506721243107</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Esther Maldonado Núñez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">175583630</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">04/03/2003</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">39759106</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Parla</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1026USA</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Mercedes-Benz C-Class</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSAB6KA0W9U457432</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia del medio oriente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">23 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tía</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">escaneo retiniano</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">LW779VZP635</TAG>.
+  </TEXT>
+</MEDDOCAN>

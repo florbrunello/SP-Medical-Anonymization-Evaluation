@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ignacio</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rico Pedroza</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5467980</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. Beniarda, 13</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Valencia</TAG>.
+    CP: <TAG TYPE="TERRITORIO">46271</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/02/1970</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">28/05/2016</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ignacio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rubio Tortosa</TAG> Servicio  NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">46 28 52938</TAG>.
+    Informe clínico del paciente: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG> que consultó por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor a nivel de hipogastrio</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">eyaculación dolorosa</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hemospermia</TAG> y sensación de peso a nivel testicular atribuido hasta entonces a <TAG TYPE="OTROS_SUJETO_ASISTENCIA">varicocele derecho</TAG> ya conocido desde hacía un año. Entre sus antecedentes personales destacaba un episodio de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">prostatitis aguda</TAG> un año antes de la consulta.
+    A la exploración física el paciente presentaba buen estado general, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">varicocele derecho</TAG> y no se palpaban masas a nivel de ambos testículos. El tacto rectal mostraba una próstata irregular, ligeramente aumentada de tamaño con zonas induradas y algo dolorosa a la exploración.
+    Se solicitó <TAG TYPE="PROFESION">ecografía urológica integral</TAG> que mostró una imagen nodular hipoecoica en testículo derecho con hipervascularización circundante y un quiste simple en testículo izquierdo.
+    En la <TAG TYPE="PROFESION">TAC abdómino-pélvica</TAG> se objetivaban a nivel hepático varias imágenes que podían corresponder con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">metástasis</TAG> o <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hemangiomas</TAG>. En <TAG TYPE="PROFESION">RMN</TAG> realizada posteriormente nos confirman que se trata de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hemangiomas</TAG>. La <TAG TYPE="PROFESION">Rx de tórax</TAG> no presentaba alteraciones.
+    Los marcadores tumorales y el <TAG TYPE="PROFESION">PSA</TAG> presentaban unos valores dentro de la normalidad. <TAG TYPE="PROFESION">Alfa-feto-proteína</TAG>: 6 ng/ml, <TAG TYPE="PROFESION">beta-HCG</TAG>: 0.1 ng/ml, <TAG TYPE="PROFESION">PSA</TAG>: 1.5 ng/ml.
+    Ante todos estos hallazgos, se decidió llevar a cabo una <TAG TYPE="PROFESION">orquiectomía radical inguinal derecha</TAG>. La pieza, macroscópicamente, presentaba una formación nodular de idéntica coloración a la de la pulpa testicular de 2,5 x 1,8 x 1,5 cm en el polo superior del testículo. El informe <TAG TYPE="PROFESION">histopatológico</TAG> era de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumor de células de Leydig</TAG> difuso que infiltraba espacios perineurales, canales vasculares capsulares adyacentes y músculo liso; moderada atípia y escasas mitosis.
+    Tras 10 años de controles evolutivos, el paciente se encuentra asintomático, no se han objetivado <TAG TYPE="OTROS_SUJETO_ASISTENCIA">metástasis</TAG> y los marcadores tumorales han permanecido negativos.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ignacio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rubio Tortosa</TAG> <TAG TYPE="PROFESION">Servicio de Urología</TAG> <TAG TYPE="INSTITUCION">Hospital Dr. Peset</TAG> <TAG TYPE="CALLE">Avda. Gaspar Aguilar, 90</TAG> <TAG TYPE="TERRITORIO">46017</TAG> <TAG TYPE="TERRITORIO">Valencia</TAG>. (<TAG TYPE="PAIS">España</TAG>) e-mail: <TAG TYPE="CORREO_ELECTRONICO">nachorutor@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

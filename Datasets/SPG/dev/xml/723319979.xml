@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Antonio Prieto De la Fuente
+DNI: 83723615G
+Fecha de nacimiento: 09/06/1940
+Género: V
+Domicilio: Calle del Amparo 52
+Ciudad: Ciudad autónoma de Melilla, Melilla, 
+Código postal: 51073
+Email: delafuente@icloud.com
+Teléfono fijo: +34 951 25 46 52
+Teléfono móvil: +34 651 49 74 64
+NHC: 2053236
+NASS: 475203107872
+Condición de riesgo: Policía
+
+Datos asistenciales.
+Médico: Dra. Irene Arias Blazquez. NC 352267669. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/04/1995
+Hospital: Hospital Universitari i Politècnic La Fe
+Matrícula del coche: 6691ZOC
+Modelo: Chevrolet Silverado
+VIN: VSNTFVCOARZ349039
+
+Informe clínico del paciente:
+Paciente no fumador de 54 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="55" text="Prieto De la Fuente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="83723615G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="09/06/1940" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="112" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="143" text="Calle del Amparo 52" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="178" text="Ciudad autónoma de Melilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="180" end="188" text="Melilla," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="205" end="210" text="51073" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="218" end="239" text="delafuente@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="255" end="271" text="+34 951 25 46 52" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="288" end="304" text="+34 651 49 74 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T13" start="310" end="317" text="2053236" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="324" end="336" text="475203107872" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T15" start="358" end="365" text="Policía" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="646" end="656" text="17/04/1995" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="667" end="707" text="Hospital Universitari i Politècnic La Fe" TYPE="HOSPITAL" comment=""/>
+        <ID id="T18" start="729" end="736" text="6691ZOC" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="770" end="787" text="VSNTFVCOARZ349039" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="828" end="838" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="842" end="849" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

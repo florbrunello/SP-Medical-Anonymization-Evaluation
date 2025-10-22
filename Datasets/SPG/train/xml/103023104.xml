@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Víctor Manuel Sáez Exposito
+DNI: 98170470F
+Fecha de nacimiento: 29/08/2022
+Género: Hombre
+Domicilio: Calle de Narváez 45, 3C
+Ciudad: Toledo, Alicante, Comunidad Valenciana
+Código postal: 03843
+Email: victormanuel.saezexposito@ub.edu
+Teléfono fijo: +34 965 01 98 47
+Teléfono móvil: +34 665 19 29 46
+NHC: 2075482
+NASS: 717244878982
+
+Datos asistenciales.
+Médico: Dr. Adam García Pardo. NC 322410932. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/11/2023
+Episodio: 02337003
+Centro de salud: Centro de Salud Conde de Casal
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena centroamericana de un año de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.171.157, con dirección MAC 5B:2D:48:C4:E7:36. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="Víctor Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="55" text="Sáez Exposito" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="98170470F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="29/08/2022" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="117" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="129" end="152" text="Calle de Narváez 45, 3C" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="161" end="167" text="Toledo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="177" text="Alicante" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="199" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="215" end="220" text="03843" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="228" end="260" text="victormanuel.saezexposito@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="276" end="292" text="+34 965 01 98 47" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="309" end="325" text="+34 665 19 29 46" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="331" end="338" text="2075482" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="345" end="357" text="717244878982" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="392" end="409" text="Adam García Pardo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="414" end="423" text="322410932" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="425" end="460" text="Neuropsicólogo Clínico Investigador" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="462" end="532" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="534" end="563" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="565" end="570" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="572" end="578" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="580" end="586" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="606" end="616" text="09/11/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="627" end="635" text="02337003" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="653" end="683" text="Centro de Salud Conde de Casal" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="727" end="763" text="ascendencia indígena centroamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="767" end="773" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="800" end="805" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="914" end="931" text="5B:2D:48:C4:E7:36" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

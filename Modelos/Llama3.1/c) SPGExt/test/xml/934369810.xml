@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Encarnación</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Galán Santos</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">99079498Y</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/02/2009</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Bailén 8</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Navalcarnero</TAG>.
+    Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">45520</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">santos1107@ual.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 915 59 36 33</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 660 11 22 79</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8986842</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">022153253208</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Estudiante de Educación Secundaria</TAG>.
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco Manuel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pardo Carmona</TAG>.
+    N.C.: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">569098428</TAG>.
+    Cargo: <TAG TYPE="PROFESION">Gastroenterólogo Especialista en Enfermedades Hepáticas</TAG>.
+    <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>.
+    <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/03/2023</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Este</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="DESCRIPCION_FISICA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> de edad, acompañado de su abuela, que refiere <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolores abdominales</TAG> de localización variable en el último mes, con episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diarrea</TAG>. La paciente tiene una historia previa de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gastroenteritis viral</TAG>, pero en la última semana ha presentado un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">mal absorción de nutrientes</TAG>, con pérdida de peso y debilidad general.
+    La exploración física revela: <TAG TYPE="TEMPERATURA">Tª 37,5 C</TAG>; <TAG TYPE="TENSION_ARTERIAL">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FRECUENCIA_CARDIACA">Fc: 90 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración ni fiebre, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="HEMOGLOBINA">Hb 12,5 g/dl</TAG>; <TAG TYPE="LEUCOCITOS">leucocitos 10.200/mm3 (neutrófilos 60%)</TAG>; <TAG TYPE="PLAQUETAS">plaquetas 250.000/mm3</TAG>. <TAG TYPE="VSG">VSG: 20 mm 1ª hora</TAG>. <TAG TYPE="COAGULACION">Coagulación: TQ 95%; TTPA 25,5 seg</TAG>. <TAG TYPE="BIOQUIMICA">Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl</TAG>. <TAG TYPE="ORINA">Orina: sedimento normal</TAG>.
+    Durante el ingreso se solicitan pruebas de imagen (<TAG TYPE="ECOGRAFIA">Ecografía abdominal</TAG> y <TAG TYPE="TAC">TAC abdominal</TAG>) que no evidencian patología significativa. Con el diagnóstico de <TAG TYPE="DIAGNOSTICO">gastroenteritis viral aguda</TAG> se instaura tratamiento sintomático (<TAG TYPE="ANTITÉRMICOS">antitérmicos</TAG>, <TAG TYPE="ANTIINFLAMATORIOS">antiinflamatorios</TAG>, <TAG TYPE="REPOS">reposo</TAG> y <TAG TYPE="ELEVACION_CAMA">elevación de la cama</TAG>) y tratamiento de rehidratación oral.
+    Evolución y comentarios:
+    El paciente ha estado en observación en la unidad de cuidados intensivos durante <TAG TYPE="TIEMPO">3 días</TAG>, sin presentar complicaciones ni signos de deterioro clínico. La paciente ha mejorado significativamente de su cuadro, con reducción de los síntomas gastrointestinales y recuperación de la función digestiva. Se ha decidido el alta a su domicilio, donde continuará el tratamiento de rehidratación oral y se realizarán revisiones sucesivas en consultas para controlar la evolución.
+    Remitido por:
+    Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco Manuel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pardo Carmona</TAG>.
+    <TAG TYPE="PROFESION">Gastroenterólogo Especialista en Enfermedades Hepáticas</TAG>.
+  </TEXT>
+</MEDDOCAN>

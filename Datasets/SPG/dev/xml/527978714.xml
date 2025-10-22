@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Lorenzo Pardo Méndez
+DNI: 65391849C
+Fecha de nacimiento: 11/02/1933
+Género: H
+Domicilio: Calle de Preciados 94, 2T
+Ciudad: Huelva, Sevilla, Andalucía
+Código postal: 41612
+Email: lorenzo-pardo@uhu.es
+Teléfono fijo: +34 954 54 63 16
+Teléfono móvil: +34 754 12 03 78
+NHC: 1388996
+
+Datos asistenciales.
+Médico: Dra. Eva Gil Cortés. NC 639483564. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/10/2021
+Episodio: 66469927
+Centro de salud: Centro de Salud Sevilla Sur
+Matrícula del coche: 3735ZMP
+Modelo: Chevrolet Silverado
+VIN: VSX96T8K8EO124135
+
+Informe clínico del paciente:
+Paciente discapacitado de 88 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Lorenzo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Pardo Méndez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="65391849C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="11/02/1933" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="142" text="Calle de Preciados 94, 2T" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="157" text="Huelva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="166" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="177" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="193" end="198" text="41612" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="206" end="226" text="lorenzo-pardo@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="242" end="258" text="+34 954 54 63 16" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="275" end="291" text="+34 754 12 03 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="297" end="304" text="1388996" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="571" end="581" text="01/10/2021" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="592" end="600" text="66469927" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="618" end="645" text="Centro de Salud Sevilla Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T18" start="667" end="674" text="3735ZMP" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="708" end="725" text="VSX96T8K8EO124135" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="766" end="779" text="discapacitado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="783" end="790" text="88 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="817" end="822" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

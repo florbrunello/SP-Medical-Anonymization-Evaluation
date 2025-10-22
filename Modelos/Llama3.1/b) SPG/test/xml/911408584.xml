@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Montserrat</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gutiérrez Santana</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">23409083M</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/09/1938</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Lavapiés 79, 5H</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Eibar</TAG>, <TAG TYPE="TERRITORIO">Cádiz</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">11635</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">montserrat.gutierrez_santana@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 42 51 35</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 756 51 39 21</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2323672</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">656753115845</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Miguel Silva Moreno</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">547913387</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/12/1971</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">62649737</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Torrecárdenas</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6068XCZ</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Chevrolet Silverado</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSUN5AFD4VY915884</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">vecina</TAG>.
+  </TEXT>
+</MEDDOCAN>

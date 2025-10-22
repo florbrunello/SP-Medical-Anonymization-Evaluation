@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Estela</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alvarez Gamez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7846987</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">74 57806576 15</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ La Masó, 3</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Pamplona</TAG>.
+    CP: <TAG TYPE="TERRITORIO">31008</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/05/1959</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">56 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/07/2015</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ramón</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Saiz Mendiguren</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">31 31 25890</TAG>.
+    Informe clínico del paciente: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">56 años</TAG> con retraso mental moderado congénito, dislipemia e hipotiroidismo, que acude a la consulta por estreñimiento progresivo, aumento del perímetro abdominal y pérdida de 8 kg de peso en los últimos 4 meses. En la exploración física destaca la palpación de una masa hipogástrica central, dura, mal delimitada, de aproximadamente 10 x 8 cm. Las determinaciones analíticas, incluidos reactantes de fase aguda y marcadores tumorales digestivos y ginecológicos, así como la ecografía ginecológica, son normales. Se realiza TAC abdominopélvico objetivándose una dilatación gigante del recto y el colon izquierdo, ocupados en toda la luz por restos fecales compactados, que produce desplazamiento de todos los órganos abdominales e hidronefrosis bilateral sin insuficiencia renal asociada. La colonoscopia hasta ciego con biopsias y la RMN pélvica son normales. Se realiza manometría anorrectal que demuestra conservación del reflejo rectoanal inhibitorio. Se inicia tratamiento con polietilenglicol oral y enemas de lactulosa, con notable mejoría clínica y actualmente sigue terapia de mantenimiento con lactulosa oral a dosis altas con ganancia ponderal y una deposición cada 24-48 horas.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ramón</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Saiz Mendiguren</TAG> <TAG TYPE="HOSPITAL">Servicio de Radiología Clínica Universidad de Navarra</TAG> <TAG TYPE="CALLE">Avda. Pío XII No 36</TAG> <TAG TYPE="TERRITORIO" >31008</TAG> <TAG TYPE="TERRITORIO" >Pamplona</TAG>, <TAG TYPE="PAIS">España</TAG> e-mail: <TAG TYPE="CORREO_ELECTRONICO">saiz.ramon@gmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aarón</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Bermúdez Aguilar</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">82585725Q</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/06/1935</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Bailén 83, 10O</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">San Fernando, Mallorca, Islas Baleares</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">07835</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">aaron@icloud.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 07 03 48</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 671 37 13 20</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5770514</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">919300362146</TAG>.
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Trabajador de Laboratorio</TAG>.
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Christian</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Márquez Ortiz</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">391733277</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">14/05/1984</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Severo Ochoa</TAG>.
+    Informe clínico del paciente:
+    Paciente vegano de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">48 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dislipidemia</TAG>, que acude al <TAG TYPE="CENTRO_SALUD">Servicio de Endocrinología</TAG> con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fatiga</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pérdida de peso</TAG> en los últimos meses. La exploración física revela: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Tª 37,2 C</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">T.A: 120/80 mmHg</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Fc: 80 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hemograma: Hb 14,5 g/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">leucocitos 7.500/mm3 (neutrófilos 55%)</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">plaquetas 250.000/mm3</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">VSG: 20 mm 1ª hora</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Coagulación: TQ 90%</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TTPA 25,5 seg</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Bioquímica: Glucosa 110 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urea 20 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina 1,0 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sodio 140 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">potasio 4,0 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GOT 20 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GPT 30 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GGT 25 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fosfatasa alcalina 100 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">calcio 9,5 mg/dl</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Orina: sedimento normal</TAG>.
+    Se solicitan pruebas de imagen (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ecografía abdominal</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TAC craneal</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ecocardiograma transtorácico</TAG>) que no evidencian patología significativa. Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipotireoidismo</TAG> se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">elevación de la temperatura corporal</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">suplementos de hierro</TAG>) así como tratamiento hormonal específico: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">L-Tiroidina 100 mcg vía oral cada mañana</TAG> (durante 6 semanas) y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Levo-Tiroidina 50 mcg vía oral cada mañana</TAG> (durante 3 semanas). El paciente mejora significativamente de su cuadro tras una semana de tratamiento, decidiéndose el alta a su domicilio donde completará la pauta de tratamiento.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dislipidemia</TAG>, por lo que se le ha recomendado una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dieta baja en grasas y sal</TAG>, así como un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estilo de vida activo</TAG>.
+    Evolución y comentarios:
+    El paciente ha mostrado una buena evolución durante el tratamiento, con una reducción significativa de los síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fatiga</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pérdida de peso</TAG>. Se le ha recomendado una revisión en el <TAG TYPE="CENTRO_SALUD">Servicio de Endocrinología</TAG> en 6 semanas para evaluar la respuesta al tratamiento.
+    Remitido por:
+    Se le ha remitido al paciente una <TAG TYPE="OTRO_NUMERO_IDENTIF">hoja de instrucciones</TAG> para el
+  </TEXT>
+</MEDDOCAN>

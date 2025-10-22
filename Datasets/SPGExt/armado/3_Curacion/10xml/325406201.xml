@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Paloma</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Conde Heredia</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">83322106Y</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/02/2017</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Alcalá 65, 9M</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Castellón de la Plana</TAG>, <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">37745</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">paloma-conde-heredia1171@yahoo.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 48 84 25</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 723 93 98 51</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2975416</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">864763116185</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Granjero</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Moisés</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Costa Guillen</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 023117161</TAG>. <TAG TYPE="PROFESION">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/04/2020</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Severo Ochoa</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Moisés</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Costa Guillen</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 023117161</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/04/2020</TAG> y <TAG TYPE="HOSPITAL">Centro de salud de ingreso</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="HOSPITAL">Hospital Universitario Severo Ochoa</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="TEJIDO">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años</TAG> de edad, acompañado de su madre, con antecedentes de una infección respiratoria aguda en la infancia. Presenta síntomas de <TAG TYPE="SINTOMA">tos seca</TAG> y <TAG TYPE="SINTOMA">fiebre leve</TAG> durante los últimos 3 días, con una temperatura máxima de <TAG TYPE="MEDIDA">38,5°C</TAG>. La exploración física revela signos de <TAG TYPE="SINTOMA">congestión nasal</TAG> y <TAG TYPE="SINTOMA">estornudos frecuentes</TAG>. El paciente tiene una buena condición general y no presenta signos de complicaciones graves.
+    La exploración complementaria incluyó un análisis de sangre, que mostró un aumento leve de la cuenta de leucocitos. Se solicitó una radiografía de tórax, que no evidenció patología significativa.
+    Con el diagnóstico de infección respiratoria aguda leve, se instauró tratamiento sintomático con antitérmicos y antibióticos orales. El paciente se encuentra en observación en la sala de pediatría y se le indica reposo y hidratación adecuada.
+    Antecedentes:
+    El paciente tiene un antecedente de infección respiratoria aguda en la infancia, que fue tratada con éxito en el <TAG TYPE="HOSPITAL">Hospital Universitario Severo Ochoa</TAG>.
+    Evolución y comentarios:
+    El paciente se encuentra en observación en la sala de pediatría y se le indica reposo y hidratación adecuada. Se le realizarán revisiones periódicas para evaluar la evolución de la infección.
+    Remitido por:
+    El paciente fue remitido por su madre, quien expresó preocupación por la salud del niño debido a los síntomas de <TAG TYPE="SINTOMA">tos seca</TAG> y <TAG TYPE="SINTOMA">fiebre leve</TAG>.
+  </TEXT>
+</MEDDOCAN>

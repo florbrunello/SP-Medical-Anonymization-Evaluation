@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Olga Alarcon Bueno</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">75633197C</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/07/1950</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Atocha 6</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Zaragoza</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">18088</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">olga.alarcon_bueno@imibic.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 39 71 97</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 658 87 55 69</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8010147</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">165671214855</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Granjero</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Emilio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jiménez Álvarez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">372766746</TAG>. <TAG TYPE="PROFESION">Residente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4° año</TAG> en <TAG TYPE="PROFESION">Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/11/2009</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Móstoles</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">59 años</TAG> de edad, acompañado de su amiga. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">UI869GAC294</TAG>.
+  </TEXT>
+</MEDDOCAN>

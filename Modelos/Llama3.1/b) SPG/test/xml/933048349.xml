@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Roberto</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Plaza Robles</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">12912085T</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">22/04/1952</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Pez 11</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Pamplona</TAG>, <TAG TYPE="TERRITORIO">Menorca</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07384</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">roberto.robles@isciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 13 87 84</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 671 79 01 79</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8159572</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">084681040441</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Montserrat Rivero Soler</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">179854257</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/12/1986</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">19887988</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Regional Universitario de Málaga</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">34 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>.
+  </TEXT>
+</MEDDOCAN>

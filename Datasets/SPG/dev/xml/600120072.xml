@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Paula Villanueva Alarcon
+DNI: 91983871V
+Fecha de nacimiento: 29/06/1990
+Género: Femenino
+Domicilio: Calle de Génova 88, 3Q
+Ciudad: Liria, Cuenca, Castilla-La Mancha
+Código postal: 16353
+Email: paula-villanueva.alarcon@us.es
+Teléfono fijo: +34 969 45 04 11
+Teléfono móvil: +34 769 35 02 55
+NHC: 4933945
+NASS: 735119812856
+Condición de riesgo: Ama de casa
+
+Datos asistenciales.
+Médico: Dr. Bruno Crespo Varela. NC 125085404. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/04/1998
+Episodio: 18893742
+Hospital: Complejo Hospitalario Universitario de Lugo
+
+Informe clínico del paciente:
+Paciente de ascendencia centroasiática de 7 años de edad, acompañado de su hermano. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es QQ707PXQ775. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Paula" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="52" text="Villanueva Alarcon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="91983871V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="29/06/1990" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="116" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="150" text="Calle de Génova 88, 3Q" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="164" text="Liria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="172" text="Cuenca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="192" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="208" end="213" text="16353" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="221" end="251" text="paula-villanueva.alarcon@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="267" end="283" text="+34 969 45 04 11" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="300" end="316" text="+34 769 35 02 55" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="322" end="329" text="4933945" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="336" end="348" text="735119812856" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="370" end="381" text="Ama de casa" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="416" end="435" text="Bruno Crespo Varela" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="440" end="449" text="125085404" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="451" end="498" text="Investigador Clínico en Enfermedades Digestivas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="500" end="593" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="595" end="624" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="626" end="631" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="633" end="639" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="641" end="647" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="667" end="677" text="04/04/1998" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="688" end="696" text="18893742" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="707" end="750" text="Complejo Hospitalario Universitario de Lugo" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="794" end="820" text="ascendencia centroasiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="824" end="830" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="857" end="864" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="947" end="958" text="QQ707PXQ775" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

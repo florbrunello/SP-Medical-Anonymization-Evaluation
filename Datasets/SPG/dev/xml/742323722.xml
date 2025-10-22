@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Isabel María Bermudez Sierra
+DNI: 42313288G
+Fecha de nacimiento: 31/12/2006
+Género: F
+Domicilio: Calle de Arenal 49, 4I
+Ciudad: Torrelodones, Guadalajara, Castilla-La Mancha
+Código postal: 19847
+Email: isabelmaria.bermudezsierra@ciberehd.org
+Teléfono fijo: +34 949 97 95 64
+Teléfono móvil: +34 649 40 05 45
+NHC: 2928861
+NASS: 986119120462
+Condición de riesgo: Trabajador Industrial
+
+Datos asistenciales.
+Médico: Dr. Manuel Jesús Castro Montoya. NC 920509304. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 21/06/2014
+Centro de salud: Centro de Salud Chamartín
+Matrícula del coche: 7551FFC
+Modelo: BMW 3 Series
+VIN: VSPO0F68YRO188736
+
+Informe clínico del paciente:
+Paciente vegetariano de 7 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="Isabel María" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="56" text="Bermudez Sierra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="62" end="71" text="42313288G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="93" end="103" text="31/12/2006" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="112" end="113" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="147" text="Calle de Arenal 49, 4I" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="168" text="Torrelodones" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="181" text="Guadalajara" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="183" end="201" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="217" end="222" text="19847" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="230" end="269" text="isabelmaria.bermudezsierra@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="285" end="301" text="+34 949 97 95 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="318" end="334" text="+34 649 40 05 45" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="340" end="347" text="2928861" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="354" end="366" text="986119120462" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="388" end="409" text="Trabajador Industrial" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="444" end="471" text="Manuel Jesús Castro Montoya" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="476" end="485" text="920509304" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="487" end="518" text="Residente de 5° año en Urología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="520" end="592" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="594" end="617" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="619" end="624" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="626" end="632" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="634" end="640" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="660" end="670" text="21/06/2014" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="688" end="713" text="Centro de Salud Chamartín" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="735" end="742" text="7551FFC" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="769" end="786" text="VSPO0F68YRO188736" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="827" end="838" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="842" end="848" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="875" end="880" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

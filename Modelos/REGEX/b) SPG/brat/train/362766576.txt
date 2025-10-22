@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Alfonso Rey Pastor
+DNI: 55754234A
+Fecha de nacimiento: 26/11/1955
+Género: H
+Domicilio: Calle Gran Vía 88
+Ciudad: San Fernando, Sevilla, Andalucía
+Código postal: 41054
+Email: rey@ciberehd.org
+Teléfono fijo: +34 954 15 99 83
+Teléfono móvil: +34 654 57 84 93
+NHC: 2222137
+NASS: 500936180267
+Condición de riesgo: Trabajador de Minería
+
+Datos asistenciales.
+Médico: Dr. Manuel Santamaria Pardo. NC 365173132. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/08/2006
+Episodio: 17412942
+Hospital: Hospital Universitari Vall d'Hebron
+
+Informe clínico del paciente:
+Paciente de tez blanca de 50 años de edad. 

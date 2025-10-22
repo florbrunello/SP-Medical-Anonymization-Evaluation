@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Lidia Pereira Gómez
+DNI: 80041155M
+Fecha de nacimiento: 01/12/2009
+Género: F
+Domicilio: Calle de las Letras 27
+Ciudad: Salamanca, Málaga, Andalucía
+Código postal: 29643
+Email: gomez@ual.es
+Teléfono fijo: +34 951 57 97 03
+Teléfono móvil: +34 751 54 99 61
+NHC: 2962762
+NASS: 827048366047
+
+Datos asistenciales.
+Médico: Dra. Isabel Bermudez Fuentes. NC 825776977. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 11/04/2015
+Episodio: 10235935
+Hospital: Hospital Universitario Río Hortega
+
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 5 años de edad, acompañado de su madre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. Se registró una sesión de firma biométrica, el código obtenido para revisarla es PP617QOV487. 

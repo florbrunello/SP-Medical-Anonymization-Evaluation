@@ -1,0 +1,34 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 32	Marina González Trujillo
+T2	NUMERO_DOCUMENTO_NACIONAL 43 62	85822367Y
+T3	FECHAS 85 95	08/06/1965
+T4	SEXO_SUJETO_ASISTENCIA 115 116	Mujer
+T5	CALLE 137 157	Calle de las Huertas 81, 9H
+T6	TERRITORIO 169 175	Teruel, Castilla y León
+T7	TERRITORIO 179 185	24956
+T8	CORREO_ELECTRONICO 213 235	marina.gonzalez.trujillo2013@imibic.org
+T9	NUMERO_TELEFONO 251 265	+34 987 32 09 07
+T10	NUMERO_TELEFONO 275 289	+34 787 51 31 78
+T11	ID_SUJETO_ASISTENCIA 301 310	9870448
+T12	ID_SUJETO_ASISTENCIA 322 331	105468731253
+T13	CATEGORIA_OCUPACIONAL 357 366	Granjero
+T14	NOMBRE_PERSONAL_SANITARIO 380 404	Dr. David Santana Andres
+T15	ID_TITULACION_PERSONAL_SANITARIO 425 436	731795254
+T16	PROFESION 447 457	Residente de 3° año en Gastroenterología
+T17	INSTITUCION 466 486	Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)
+T18	DIREC_PROT_INTERNET 489 514	Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+T19	FECHAS 527 537	27/03/2008
+T20	HOSPITAL 559 588	Hospital Clínic San Carlos
+T21	EDAD_SUJETO_ASISTENCIA 599 607	42 años
+T22	TERRITORIO 611 617	Africa
+T23	CONDICION_SALUD 621 629	Dolor abdominal crónico y pérdida de peso
+T24	TEMPERATURA_CORPORA 643 648	37,5 C
+T25	PRESION_SANGUINEA 651 663	120/80 mmHg
+T26	FRECUENCIA_CARDIACA 675 680	90 lpm
+T27	RESULTADOS_ANALITICOS 691 707	Hb 13,2 g/dl; leucocitos 8.500/mm3 (neutrófilos 55%); plaquetas 180.000/ mm3
+T28	RESULTADOS_ANALITICOS 719 737	VSG: 20 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,8 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 25 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 120 U/l; calcio 9,5 mg/dl
+T29	ORINA 759 768	sedimento normal
+T30	IMAGENES_MEDICAS 781 794	tumor hepático de aproximadamente 5 cm de diámetro, sin signos de metástasis
+T31	DIAGNOSTICO_MEDICO 805 819	tumor hepático primario
+T32	TRATAMIENTO_MEDICO 831 845	cirugía hepática y quimioterapia
+T33	EVOLUCION_PACIENTE 857 874	buena respuesta al tratamiento y buena prognosis
+T34	REMISION 887 895	Dr. David Santana Andres, Residente de 3° año en Gastroenterología

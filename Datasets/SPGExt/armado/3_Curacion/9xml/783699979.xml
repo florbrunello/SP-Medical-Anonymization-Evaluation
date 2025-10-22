@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Encarnación</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Esteban Crespo</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">83183308J</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">12/01/1989</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de las Letras 41</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Xirivella</TAG>, <TAG TYPE="TERRITORIO">Albacete</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">02642</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">encarnacion.esteban-crespo@ual.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 967 92 15 24</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 767 19 03 57</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5609530</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">816576854659</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Estudiante universitaria</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alejandra</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cruz Durán</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 748617204</TAG>. <TAG TYPE="PROFESION">Cardióloga Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">13/10/2004</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">90017727</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Conde de Casal</TAG>.
+    Informe clínico del paciente:
+    La paciente, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15 años</TAG> de edad, se refirió a la consulta con una queja de dolor en el pecho, que se había iniciado 2 días antes y se había agravado en las últimas 24 horas. La paciente es <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estudiante universitaria</TAG> y no tiene antecedentes médicos relevantes. La exploración física revela: Tª <TAG TYPE="FECHAS">37,2 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">18 lpm</TAG>. Se encuentra consciente, orientada, sin sudoración ni fiebre. En la exploración cardíaca se aprecia un ritmo cardíaco regular, sin soplos ni roces. La paciente se queja de dolor en el pecho, localizado en la región epigástrica, que se agravaba con la inspiración. La ecocardiografía realizada en la consulta muestra una dilatación del ventrículo izquierdo y una disminución de la función sistólica.
+    Se solicitan pruebas complementarias, incluyendo una electrocardiografía, una ecocardiografía de alta resolución y una resonancia magnética cardíaca. Los resultados de estas pruebas muestran una cardiomiopatía hipertrófica, con una dilatación del ventrículo izquierdo y una disminución de la función sistólica.
+    Se instaura un tratamiento con medicamentos para reducir la frecuencia cardíaca y mejorar la función cardíaca. La paciente se mantiene en observación en la unidad de cuidados intensivos para monitorear su estado y ajustar el tratamiento según sea necesario.
+    Evolución y comentarios:
+    La paciente se mantiene estable en la unidad de cuidados intensivos. Se realiza una ecocardiografía diaria para monitorear la función cardíaca y ajustar el tratamiento según sea necesario. La paciente se muestra cooperativa y atenta a las instrucciones del personal médico.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alejandra</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cruz Durán</TAG>, <TAG TYPE="PROFESION">Cardióloga Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    </TEXT>
+</MEDDOCAN>

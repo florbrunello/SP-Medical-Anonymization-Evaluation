@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Javier Montoya Sáez
+DNI: 65900892G
+Fecha de nacimiento: 09/09/1976
+Género: H
+Domicilio: Calle de Hortaleza 10
+Ciudad: Torrelodones, Badajoz, Extremadura
+Código postal: 06991
+Email: saez@gmail.com
+Teléfono fijo: +34 924 58 60 95
+FAX: +34 924 66 77 57
+NHC: 2284164
+NASS: 336455185551
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dr. Luis Miguel Aguilar Molina. NC 198072328. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 22/07/2001
+Episodio: 77012392
+Centro de salud: Centro de Salud San Blas
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 24 años de edad. Se registró una sesión de firma biométrica, el código obtenido para revisarla es QT263JHS094. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Montoya Sáez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="65900892G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="09/09/1976" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="137" text="Calle de Hortaleza 10" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="158" text="Torrelodones" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="167" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="180" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="06991" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="223" text="saez@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="239" end="255" text="+34 924 58 60 95" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="261" end="277" text="+34 924 66 77 57" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="283" end="290" text="2284164" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="297" end="309" text="336455185551" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="331" end="337" text="Médico" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="372" end="398" text="Luis Miguel Aguilar Molina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="403" end="412" text="198072328" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="414" end="457" text="Cardiólogo de Unidad de Cuidados Intensivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="459" end="531" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="533" end="556" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="558" end="563" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="565" end="571" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="573" end="579" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="599" end="609" text="22/07/2001" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="620" end="628" text="77012392" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="646" end="670" text="Centro de Salud San Blas" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="714" end="747" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="751" end="758" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="849" end="860" text="QT263JHS094" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

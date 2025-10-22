@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rosario Rivero Benítez
+DNI: 21052561V
+Fecha de nacimiento: 24/11/1977
+Género: Mujer
+Domicilio: Calle de Embajadores 40, 4M
+Ciudad: Yecla, Castellón, Comunidad Valenciana
+Código postal: 12658
+Email: rosario.rivero@outlook.com
+Teléfono fijo: +34 964 36 00 47
+Teléfono móvil: +34 664 42 41 11
+NHC: 5527675
+NASS: 756897632588
+
+Datos asistenciales.
+Médico: Dra. María Dolores Giménez Palacios. NC 704212904. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/01/1986
+Episodio: 30371624
+Centro de salud: Centro de Salud Centro
+Matrícula del coche: 9073AZI
+Modelo: Chevrolet Silverado
+VIN: VSFXFHM012Q184880
+
+Informe clínico del paciente:
+Paciente de ascendencia gitana de 8 años de edad, acompañado de su abuelo. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es DJ327ULQ386. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Rosario" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Rivero Benítez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="21052561V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="24/11/1977" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="150" text="Calle de Embajadores 40, 4M" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="164" text="Yecla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="175" text="Castellón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="197" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="12658" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="252" text="rosario.rivero@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="268" end="284" text="+34 964 36 00 47" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="301" end="317" text="+34 664 42 41 11" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="323" end="330" text="5527675" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="337" end="349" text="756897632588" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="611" end="621" text="09/01/1986" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="632" end="640" text="30371624" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="658" end="680" text="Centro de Salud Centro" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="702" end="709" text="9073AZI" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="743" end="760" text="VSFXFHM012Q184880" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="804" end="822" text="ascendencia gitana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="826" end="832" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="859" end="865" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T24" start="949" end="960" text="DJ327ULQ386" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

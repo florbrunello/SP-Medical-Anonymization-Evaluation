@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Gerard Santos Ibáñez
+DNI: 67138750W
+Fecha de nacimiento: 02/09/1985
+Género: Hombre
+Domicilio: Calle de la Paz 58
+Ciudad: Cáceres, Formentera, Islas Baleares
+Código postal: 07493
+Email: gerard-santos@outlook.com
+Teléfono fijo: +34 971 04 65 32
+Teléfono móvil: +34 771 59 16 90
+NHC: 8944290
+NASS: 393782043599
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dr. Abel Rojas Bernal. NC 097338198. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 03/07/2014
+Hospital: Hospital Universitario Fundació Jiménez Díaz
+Matrícula del coche: 5587JSP
+Modelo: Honda Civic
+VIN: VSZWKS46AXY417226
+
+Informe clínico del paciente:
+Paciente fumador de 28 años de edad. 

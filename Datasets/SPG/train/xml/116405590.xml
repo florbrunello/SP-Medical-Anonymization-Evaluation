@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Agustín Rivero León
+DNI: 23864598M
+Fecha de nacimiento: 26/07/1926
+Género: H
+Domicilio: Calle Serrano 75
+Ciudad: Ontinyent, Sevilla, Andalucía
+Código postal: 41669
+Email: rivero1546@h12o.es
+Teléfono fijo: +34 954 97 99 54
+FAX: +34 954 52 62 24
+NHC: 8840424
+NASS: 363324620822
+Condición de riesgo: Montador
+
+Datos asistenciales.
+Médico: Dr. Héctor Padilla Ortega. NC 911253016. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/08/1970
+Episodio: 80773396
+Centro de salud: Centro de Salud Tetuán
+Matrícula del coche: 6621SPD
+Modelo: Toyota RAV4
+VIN: VSBLHBNMZ0T804053
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 44 años de edad. Se registró una sesión de huella dactilar, el código obtenido para revisarla es BD344JTB615. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Agustín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="47" text="Rivero León" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="23864598M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="26/07/1926" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="132" text="Calle Serrano 75" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="141" end="150" text="Ontinyent" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="152" end="159" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="161" end="170" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="186" end="191" text="41669" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="199" end="217" text="rivero1546@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="233" end="249" text="+34 954 97 99 54" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="255" end="271" text="+34 954 52 62 24" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="277" end="284" text="8840424" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="291" end="303" text="363324620822" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="325" end="333" text="Montador" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="368" end="389" text="Héctor Padilla Ortega" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="394" end="403" text="911253016" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="405" end="449" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="451" end="537" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="539" end="568" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="570" end="575" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="577" end="583" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="585" end="591" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="611" end="621" text="26/08/1970" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="632" end="640" text="80773396" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="658" end="680" text="Centro de Salud Tetuán" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="702" end="709" text="6621SPD" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="735" end="752" text="VSBLHBNMZ0T804053" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="796" end="825" text="ascendencia del medio oriente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="829" end="836" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T32" start="926" end="937" text="BD344JTB615" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

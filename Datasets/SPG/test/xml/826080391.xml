@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Dolores Castillo Muñoz
+DNI: 87737144X
+Fecha de nacimiento: 30/08/1972
+Género: M
+Domicilio: Calle de San Bernardo 29
+Ciudad: Santa Cruz de Tenerife, La Coruña, Galicia
+Código postal: 15199
+Email: munoz1323@outlook.com
+Teléfono fijo: +34 981 65 24 41
+Teléfono móvil: +34 781 57 09 07
+NHC: 3124223
+Condición de riesgo: Guardia de Seguridad
+
+Datos asistenciales.
+Médico: Dr. Ignacio Ortiz Plaza. NC 567204442. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 24/04/2009
+Episodio: 41706078
+Centro de salud: Centro de Salud San Blas
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 36 años de edad, acompañado de su nuera. Se registró una sesión de huella dactilar, el código obtenido para revisarla es KX035AET811. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Dolores" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Castillo Muñoz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="87737144X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="30/08/1972" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="143" text="Calle de San Bernardo 29" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="174" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="176" end="185" text="La Coruña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="187" end="194" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="15199" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="244" text="munoz1323@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 981 65 24 41" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="293" end="309" text="+34 781 57 09 07" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="315" end="322" text="3124223" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="344" end="364" text="Guardia de Seguridad" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="399" end="418" text="Ignacio Ortiz Plaza" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="423" end="432" text="567204442" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="434" end="465" text="Residente de 5° año en Urología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="467" end="539" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="541" end="564" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="566" end="571" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="573" end="579" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="581" end="587" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="607" end="617" text="24/04/2009" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="628" end="636" text="41706078" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="654" end="678" text="Centro de Salud San Blas" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="719" end="740" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="744" end="751" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="778" end="783" text="nuera" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T30" start="865" end="876" text="KX035AET811" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

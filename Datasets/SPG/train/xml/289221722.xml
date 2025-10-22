@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Paz Galan Vargas
+DNI: 34945412V
+Fecha de nacimiento: 02/07/1934
+Género: M
+Domicilio: Calle de la Cabeza del Rey Don Pedro 91
+Ciudad: Benidorm, Castellón, Comunidad Valenciana
+Código postal: 12748
+Email: mariapaz_galan_vargas@uca.es
+Teléfono fijo: +34 964 42 51 07
+Teléfono móvil: +34 764 88 59 20
+NHC: 2039293
+NASS: 568181697043
+
+Datos asistenciales.
+Médico: Dra. Miriam Campos Crespo. NC 123850296. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/07/1993
+Episodio: 57513897
+Centro de salud: Centro de Salud Carabanchel
+Matrícula del coche: 3066JLT
+Modelo: Tesla Model 3
+VIN: VSL00ON80EL749365
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena centroamericana de 59 años de edad, acompañado de su compañero. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.124.56, con dirección MAC 4E:1A:4F:D6:2E:B3. Se realizó un expediente con URL http://example-neurology.com//84321044D. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="María Paz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="50" text="Galan Vargas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="34945412V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="02/07/1934" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="158" text="Calle de la Cabeza del Rey Don Pedro 91" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="167" end="175" text="Benidorm" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="177" end="186" text="Castellón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="188" end="208" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="224" end="229" text="12748" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="237" end="265" text="mariapaz_galan_vargas@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="281" end="297" text="+34 964 42 51 07" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="314" end="330" text="+34 764 88 59 20" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="336" end="343" text="2039293" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="350" end="362" text="568181697043" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="629" end="639" text="05/07/1993" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="650" end="658" text="57513897" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="676" end="703" text="Centro de Salud Carabanchel" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="725" end="732" text="3066JLT" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="760" end="777" text="VSL00ON80EL749365" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="821" end="857" text="ascendencia indígena centroamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="861" end="868" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="895" end="904" text="compañero" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="1012" end="1029" text="4E:1A:4F:D6:2E:B3" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <OTHER id="T25" start="1064" end="1088" text="http://example-neurology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

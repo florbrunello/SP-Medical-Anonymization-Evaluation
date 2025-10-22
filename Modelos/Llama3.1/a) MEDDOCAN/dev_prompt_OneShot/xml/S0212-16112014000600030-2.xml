@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Miguel</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Inurria Bonilla</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8726589</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">28 94587849 35</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle General Yagüe</TAG> <TAG TYPE="NUMERO_CALLE">28</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Sevilla</TAG>.
+    CP: <TAG TYPE="TERRITORIO">41092</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/03/1967</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">47 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">20/01/2015</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Noelia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gros Herguido</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">41 41 57489</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">47 años</TAG>, que nos remiten desde <TAG TYPE="INSTITUCION">Servicio de Rehabilitación</TAG> en febrero 2011, para valoración de su obesidad.
+    El paciente presentaba como antecedente personal una lesión medular tras accidente laboral en el año <TAG TYPE="FECHAS">2004</TAG>, con fractura vertebral y paraplejia incompleta a nivel de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">L1</TAG>. Fumador de más de 20 cigarros al día y tiene una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> que trata con <TAG TYPE="OTRO_NUMERO_IDENTIF">enalapril 20</TAG>/<TAG TYPE="OTRO_NUMERO_IDENTIF">hidroclorotiazida 12,5</TAG> cada 24 horas y una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertrigliceridemia</TAG> sin tratamiento.
+    En la anamnesis dirigida, refería mucha dificultad para su vida diaria (precisa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">silla de ruedas</TAG> para desplazarse y utiliza la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bipedestación</TAG> para las transferencias). Reconocía tener mucho <TAG TYPE="OTROS_SUJETO_ASISTENCIA">apetito</TAG> y picotear entre horas. Desde el <TAG TYPE="FECHAS">2006</TAG> ha intentado en varias ocasiones perder peso, sin éxito.
+    A la exploración presentaba peso <TAG TYPE="OTRO_NUMERO_IDENTIF">135 kg</TAG> y una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">talla</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">1,72 cm</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">IMC</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">46,62 kg/m2</TAG>. tA <TAG TYPE="OTRO_NUMERO_IDENTIF">145/92</TAG>. En analítica destacaba <TAG TYPE="OTRO_NUMERO_IDENTIF">colesterol</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">222 mg/dl</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">triglicéridos</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">260 mg/DL</TAG> con <TAG TYPE="OTRO_NUMERO_IDENTIF">Colesterol HDL</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">41 mg/dl</TAG>.
+    Tras ser valorado por <TAG TYPE="PROFESION">equipo multidisciplinar</TAG> de nuestro <TAG TYPE="INSTITUCION">hospital</TAG>, y descartar contraindicaciones para la cirugía, su caso fue aprobado y se sometió a un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Bypass gástrico</TAG> en <TAG TYPE="FECHAS">Enero 2014</TAG> por vía <TAG TYPE="OTROS_SUJETO_ASISTENCIA">laparoscópica</TAG>.
+    Un mes después de la cirugía el paciente se encuentra bien, no presentó complicaciones en el postoperatorio inmediato; y niega <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG> en la actualidad. Tiene menos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">apetito</TAG> y toma <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dieta líquida fraccionada</TAG>. Su peso actual es de <TAG TYPE="OTRO_NUMERO_IDENTIF">120 kg</TAG>. Desde el punto de vista de sus cormobilidades, ha dejado el tratamiento <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipotensor</TAG> y el control de <TAG TYPE="OTRO_NUMERO_IDENTIF">TA</TAG> en su domicilio es óptimo (<TAG TYPE="OTRO_NUMERO_IDENTIF">110/90</TAG>). Analíticamente no ha presentado déficit <TAG TYPE="OTRO_NUMERO_IDENTIF">vitamínico</TAG>, con suplementación de un <TAG TYPE="OTRO_NUMERO_IDENTIF">complejo vitamínico</TAG> al día.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Noelia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gros Herguido</TAG>. <TAG TYPE="INSTITUCION">Hospital Universitario Virgen del Rocío</TAG>. <TAG TYPE="TERRITORIO">Sevilla</TAG>. E-mail: <TAG TYPE="CORREO_ELECTRONICO">ngros.h@gmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

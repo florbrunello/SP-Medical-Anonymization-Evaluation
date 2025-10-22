@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Borja Silva Mateos
+DNI: 60347220G
+Fecha de nacimiento: 11/03/2005
+Género: H
+Domicilio: Calle de Ferraz 63
+Ciudad: Santa Cruz de Tenerife, Teruel, Aragón
+Código postal: 44128
+Email: u9kIJ@ual.es
+Teléfono fijo: +34 978 64 47 30
+Teléfono móvil: +34 678 69 16 51
+NHC: 6566985
+Condición de riesgo: Técnico de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. Juan José Márquez Otero. NC 792000217. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 13/04/2021
+Episodio: 76196258
+Hospital: Hospital Universitario La Paz
+Matrícula del coche: 3109HGC
+Modelo: Toyota Corolla
+VIN: VSS174DQ75N979276
+
+Informe clínico del paciente:
+Paciente vegetariano de 16 años de edad, acompañado de su hija. Se registró una sesión de huella dactilar, el código obtenido para revisarla es YO026ZOB747. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Borja" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="46" text="Silva Mateos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="60347220G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="11/03/2005" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="133" text="Calle de Ferraz 63" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="142" end="164" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="172" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="180" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="44128" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="221" text="u9kIJ@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="237" end="253" text="+34 978 64 47 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="270" end="286" text="+34 678 69 16 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="292" end="299" text="6566985" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="321" end="343" text="Técnico de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="378" end="401" text="Juan José Márquez Otero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="406" end="415" text="792000217" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="417" end="454" text="Residente de 4° año en Endocrinología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="456" end="523" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="525" end="552" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="554" end="559" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="561" end="568" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="570" end="576" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="596" end="606" text="13/04/2021" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="617" end="625" text="76196258" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="636" end="665" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="687" end="694" text="3109HGC" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="723" end="740" text="VSS174DQ75N979276" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="781" end="792" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="796" end="803" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="830" end="834" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T32" start="916" end="927" text="YO026ZOB747" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

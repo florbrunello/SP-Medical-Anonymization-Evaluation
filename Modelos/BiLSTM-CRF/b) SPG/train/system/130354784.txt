@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Dolores Hurtado Parra
+DNI: 15111068E
+Fecha de nacimiento: 19/03/1954
+Género: Mujer
+Domicilio: Calle de Santa Ana 57, 9L
+Ciudad: Toledo, Toledo, Castilla-La Mancha
+Código postal: 45301
+Email: doloreshurtado_parra706@ub.edu
+Teléfono fijo: +34 925 20 44 03
+Teléfono móvil: +34 725 76 71 24
+NHC: 7121148
+NASS: 379794454992
+Condición de riesgo: Carpintero
+
+Datos asistenciales.
+Médico: Dra. Anna Del Rio Campos. NC 969229366. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 02/04/2007
+Episodio: 21525924
+Centro de salud: Centro de Salud Torrejón de Ardoz
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 53 años de edad. Se realizó un expediente con URL http://example-clinica.com//80000839Q. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es UC283FZW944. 

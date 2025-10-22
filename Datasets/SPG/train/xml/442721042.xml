@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Julián Vega Ruiz
+DNI: 18551445J
+Fecha de nacimiento: 26/03/1959
+Género: M
+Domicilio: Calle de los Jardines 9, 4U
+Ciudad: San Vicente del Raspeig, Madrid, Madrid
+Código postal: 28025
+Email: julianruiz1796@isciii.es
+Teléfono fijo: +34 912 64 05 85
+Teléfono móvil: +34 615 96 47 37
+NHC: 0547559
+NASS: 470158077604
+
+Datos asistenciales.
+Médico: Dr. Jordi Arias Hurtado. NC 774042125. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/03/1969
+Episodio: 36286060
+Centro de salud: Centro de Salud Aranjuez
+Matrícula del coche: 7024UKW
+Modelo: Ford F-150
+VIN: VSI5XKC39NK399544
+
+Informe clínico del paciente:
+Paciente exfumador de 10 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-clinica.com//69785856J. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Julián" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="44" text="Vega Ruiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="18551445J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="26/03/1959" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="101" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="113" end="140" text="Calle de los Jardines 9, 4U" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="172" text="San Vicente del Raspeig" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="174" end="180" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="182" end="188" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="28025" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="241" text="julianruiz1796@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 912 64 05 85" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="290" end="306" text="+34 615 96 47 37" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="312" end="319" text="0547559" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="326" end="338" text="470158077604" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="373" end="392" text="Jordi Arias Hurtado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="397" end="406" text="774042125" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="408" end="447" text="Investigador Clínico en Síndromes Raros" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="449" end="524" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="526" end="555" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="557" end="562" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="564" end="570" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="572" end="578" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="598" end="608" text="28/03/1969" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="619" end="627" text="36286060" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="645" end="669" text="Centro de Salud Aranjuez" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="691" end="698" text="7024UKW" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="723" end="740" text="VSI5XKC39NK399544" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="781" end="790" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="794" end="801" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="828" end="833" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="868" end="890" text="http://example-clinica" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

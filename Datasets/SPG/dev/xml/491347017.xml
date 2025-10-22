@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Mario Rubio Ríos
+DNI: 59082481N
+Fecha de nacimiento: 09/03/2025
+Género: Varón
+Domicilio: Calle de Menorca 5, 1G
+Ciudad: Badajoz, Barcelona, Cataluña
+Código postal: 08001
+Email: mario-rubio-rios@ciberehd.org
+Teléfono fijo: +34 939 77 94 65
+FAX: +34 931 33 25 72
+NHC: 4522023
+NASS: 467657473313
+
+Datos asistenciales.
+Médico: Dr. Abel Iglesias Fuentes. NC 744759068. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 77947112
+Centro de salud: Centro de Salud Benalmádena
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 0 meses de edad, acompañado de su madre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-research.net. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Mario" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="44" text="Rubio Ríos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="59082481N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="105" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="139" text="Calle de Menorca 5, 1G" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="155" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="166" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="176" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="192" end="197" text="08001" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="205" end="234" text="mario-rubio-rios@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 939 77 94 65" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="272" end="288" text="+34 931 33 25 72" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="294" end="301" text="4522023" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="308" end="320" text="467657473313" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="355" end="376" text="Abel Iglesias Fuentes" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="381" end="390" text="744759068" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="392" end="432" text="Especialista en Enfermedades Infecciosas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="434" end="518" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="520" end="549" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="551" end="556" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="558" end="564" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="566" end="572" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="592" end="602" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="613" end="621" text="77947112" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="639" end="666" text="Centro de Salud Benalmádena" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="710" end="734" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="738" end="745" text="0 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="772" end="777" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="854" end="877" text="smtp://example-research" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mauricio</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pérez Navarro</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8946887</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">94 68716451 52</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Avenida de legazpi 97, 1D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28034</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">12/12/1941</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">76 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">31/03/2018</TAG>.
+    Episodio: <TAG TYPE="ID_SUJETO_ASISTENCIA">5843556</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Manuel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Moreno Villares</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 94138</TAG>.
+    Historia Actual: Se trató de un varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">77 años</TAG> con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fibrilación auricular crónica</TAG> que sufrió una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">isquemia intestinal masiva</TAG> con resección de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">yeyuno, ileon, colon ascendente y mitad de transverso</TAG> realizándose una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">anastomosis yeyuno-cólica</TAG>. Tras una estancia hospitalaria de dos meses se envío a su domicilio con <TAG TYPE="OTRO_NUMERO_IDENTIF">NPD</TAG> siete días a la semana, infundiéndose a lo largo de <TAG TYPE="OTRO_NUMERO_IDENTIF">10 horas</TAG>. Su cuidadora habitual era su esposa de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">72 años</TAG> de edad, afecta de una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedad de Parkinson incipiente</TAG>. Además disponía de una familia cercana muy involucrada.
+    La <TAG TYPE="OTRO_NUMERO_IDENTIF">NPD</TAG> se mantuvo durante <TAG TYPE="OTRO_NUMERO_IDENTIF">11 años</TAG>, siendo suspendida a raíz del deterioro clínico causado por una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">neumonía de la comunidad</TAG>. La duración total fue de <TAG TYPE="OTRO_NUMERO_IDENTIF">3.940 días</TAG>. Durante este periodo tuvo <TAG TYPE="OTRO_NUMERO_IDENTIF">5 infecciones asociadas a catéter</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">1,3 episodios</TAG> por cada <TAG TYPE="OTRO_NUMERO_IDENTIF">1.000 días de NPD</TAG>) y <TAG TYPE="OTRO_NUMERO_IDENTIF">1 salida accidental de catéter</TAG>. Precisó recambiar el catéter en <TAG TYPE="OTRO_NUMERO_IDENTIF">4 ocasiones</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">vida media del catéter</TAG>: <TAG TYPE="OTRO_NUMERO_IDENTIF">788 días</TAG>). Presentó desde los dos años del inicio de la <TAG TYPE="OTRO_NUMERO_IDENTIF">NPD</TAG> una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">esteatosis hepática leve</TAG>, no progresiva. Fue hospitalizado en cuatro ocasiones por complicaciones de la técnica. La situación funcional al inicio de la <TAG TYPE="OTRO_NUMERO_IDENTIF">NPD</TAG> era de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vida activa independiente</TAG> y pasó a <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vida sedentaria pero autónoma</TAG> al final de la misma. Durante los primeros ocho años de <TAG TYPE="OTRO_NUMERO_IDENTIF">NPD</TAG> se desplazaba una o dos veces al año para disfrutar de unos días de vacaciones en la playa.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Manuel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Moreno Villares</TAG>. <TAG TYPE="CALLE">Unidad de Nutrición Clínica</TAG>. <TAG TYPE="HOSPITAL">Hospital 12 de Octubre</TAG>. <TAG TYPE="TERRITORIO">28041</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG>. E-mail: <TAG TYPE="CORREO_ELECTRONICO">jmoreno.hdoc@salud.madrid.org</TAG>.
+  </TEXT>
+</MEDDOCAN>

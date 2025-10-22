@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carlos Montero</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Simon</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">30733127K</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">21/07/1930</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Zurbano 18</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Burgos</TAG>, <TAG TYPE="TERRITORIO">Barcelona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">08865</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">carlosmontero-simon@ucm.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 935 63 66 06</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 637 50 85 77</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9888608</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Ingeniero de Minas</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Antonio Beltran Moreno</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">750548784</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Endocrinólogo Especialista en Diabetes</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">20/12/1949</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Boadilla del Monte</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática del sudeste</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">19 años</TAG> de edad. Se registró una <TAG TYPE="IDENTIF_BIOMETRICOS">sesión de huella dactilar</TAG>, el <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">código obtenido para revisarla</TAG> es <TAG TYPE="OTRO_NUMERO_IDENTIF">XW561PHW980</TAG>.
+  </TEXT>
+</MEDDOCAN>

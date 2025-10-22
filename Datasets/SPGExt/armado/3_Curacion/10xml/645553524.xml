@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jesús Avila Velasco</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">89257628X</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">25/08/1971</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de San Millán 33, 7S</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcalá de Henares</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="TERRITORIO">Comunidad de Madrid</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">28803</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jesusavila.velasco@udc.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 977 46 96 82</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 677 75 05 72</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8997439</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">489275628X</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente con antecedentes de hipertensión</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Pedro</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Aparicio Merino</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 801107528</TAG>. <TAG TYPE="PROFESION">Neurólogo Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">06/01/2015</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alcalá de Henares</TAG>.
+    Informe clínico del paciente:
+    El paciente es un varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">43 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión</TAG>, que acude al servicio de urgencias con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor de cabeza</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">confusión</TAG>. La exploración física revela: <TAG TYPE="FECHAS">Tª 37,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 80 lpm</TAG>. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación. La exploración neurológica muestra signos de disminución de la conciencia, con dificultad para responder a preguntas y seguir órdenes. Se solicitan pruebas de imagen (<TAG TYPE="PROFESION">TAC craneal</TAG>) y análisis de sangre (<TAG TYPE="PROFESION">hemograma</TAG>, <TAG TYPE="PROFESION">bioquímica</TAG>) para evaluar la causa de los síntomas.
+    La <TAG TYPE="PROFESION">TAC craneal</TAG> muestra una lesión cerebral en la región frontal, y los análisis de sangre revelan un aumento de la <TAG TYPE="PROFESION">creatinina</TAG> y una disminución de la <TAG TYPE="PROFESION">glucosa</TAG> en la sangre. Con base en estos resultados, se establece el diagnóstico de <TAG TYPE="PROFESION">accidente cerebrovascular</TAG> (<TAG TYPE="PROFESION">ACV</TAG>) isquémico en la región frontal. Se inicia el tratamiento con <TAG TYPE="PROFESION">trombolíticos</TAG> y se le prescribe al paciente una terapia de rehabilitación para ayudarlo a recuperar la función cerebral perdida.
+    En las siguientes semanas, el paciente muestra una mejora gradual en su estado de conciencia y en la función cerebral. Se le realiza una serie de pruebas neuropsicológicas para evaluar la función cognitiva y la memoria, y se observa una recuperación significativa en estas áreas. El paciente es dado de alta del hospital y se le prescribe una terapia de rehabilitación continua para ayudarlo a mantener la función cerebral recuperada.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tabaquismo</TAG>. Ha tenido varios episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor de cabeza</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">confusión</TAG> en los últimos meses, que se han vuelto más frecuentes y graves en las últimas semanas.
+    Evolución y comentarios:
+    El paciente ha mostrado una buena respuesta al tratamiento y ha logrado una recuperación significativa en su estado de conciencia y función cerebral. Sin embargo, es importante seguir monitorizando su estado y realizar pruebas periódicas para asegurarse de que no haya complicaciones a largo plazo.
+    Remitido por:
+    El paciente ha sido remitido al servicio de <TAG TYPE="PROFESION">neurología</TAG> para seguir su tratamiento y realizar pruebas periódicas para evaluar su progreso.
+  </TEXT>
+</MEDDOCAN>

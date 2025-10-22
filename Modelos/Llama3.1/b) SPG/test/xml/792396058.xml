@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Arturo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mora Prieto</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">33496226S</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">23/11/2015</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de San Bernardo 64, 9J</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">Socuéllamos</TAG>, <TAG TYPE="TERRITORIO">Tarragona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">43534</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">mora@ciberehd.org</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 977 85 30 58</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 777 90 21 93</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7547353</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">932935932855</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Almacén</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Carlos Gutiérrez Ruiz</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">371081132</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Gastroenterólogo Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">25/07/2020</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">71830277</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Conde de Casal</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">judío</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tío</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Mónica Flores Pacheco
+DNI: 96608137H
+Fecha de nacimiento: 28/01/1990
+Género: Mujer
+Domicilio: Calle de Atocha 68, 1V
+Ciudad: Vigo, Alicante, Comunidad Valenciana
+Código postal: 03412
+Email: pacheco@gmail.com
+Teléfono fijo: +34 965 29 07 77
+Teléfono móvil: +34 765 14 53 69
+NHC: 7508405
+NASS: 025005151922
+Condición de riesgo: Ama de casa
+
+Datos asistenciales.
+Médico: Dr. Tomás Santos López. NC 707593008. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/07/2010
+Episodio: 52814061
+Centro de salud: Centro de Salud Moratalaz
+Matrícula del coche: 1380UNU
+Modelo: Chrysler Pacifica
+VIN: VSOE8PUBRAL982751
+
+Informe clínico del paciente:
+Paciente de tez blanca de 20 años de edad, acompañado de su hijo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Mónica" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Flores Pacheco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="96608137H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="28/01/1990" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="110" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="144" text="Calle de Atocha 68, 1V" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="157" text="Vigo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="167" text="Alicante" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="189" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="03412" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="235" text="pacheco@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 965 29 07 77" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 765 14 53 69" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="7508405" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="025005151922" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="354" end="365" text="Ama de casa" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="400" end="418" text="Tomás Santos López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="423" end="432" text="707593008" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="434" end="473" text="Investigador Clínico en Síndromes Raros" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="475" end="550" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="552" end="581" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="583" end="588" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="590" end="596" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="598" end="604" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="624" end="634" text="27/07/2010" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="645" end="653" text="52814061" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="671" end="696" text="Centro de Salud Moratalaz" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="718" end="725" text="1380UNU" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="757" end="774" text="VSOE8PUBRAL982751" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="818" end="828" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="832" end="839" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="866" end="870" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

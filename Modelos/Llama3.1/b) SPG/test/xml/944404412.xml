@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aurora</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Romero Calderon</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">62560371A</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">06/07/1970</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Bravo Murillo 50</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Zamora</TAG>, <TAG TYPE="TERRITORIO">Navarra</TAG>, <TAG TYPE="TERRITORIO">Navarra</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">31837</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">romero.calderon@gmail.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 948 61 52 06</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 948 23 28 07</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5821545</TAG>
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Joaquín Ríos Aparicio</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">892652926</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">26/01/1971</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Gran Canaria Dr. Negrín</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1742QDS</TAG>
+  Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Toyota RAV4</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VST77587KVE251216</TAG>
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 meses</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuelo</TAG>.
+  Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">http://example-pharma.org//55764505E</TAG>. 
+  Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">UQ667MDC769</TAG>. 
+  Se registró una sesión de firma biométrica, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">MI782XWY930</TAG>. 
+  </TEXT>
+</MEDDOCAN>

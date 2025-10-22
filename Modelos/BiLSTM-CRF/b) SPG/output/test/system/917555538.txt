@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Hugo Camacho Benito
+DNI: 77180559B
+Fecha de nacimiento: 31/10/2000
+Género: M
+Domicilio: Calle de Ayala 50
+Ciudad: Ciudad Real, Cádiz, Andalucía
+Código postal: 11784
+Email: hugo.camacho@imibic.org
+Teléfono fijo: +34 956 53 61 96
+Teléfono móvil: +34 656 51 33 84
+NHC: 5318033
+NASS: 836658992799
+Condición de riesgo: Trabajador de Residuos Sólidos
+
+Datos asistenciales.
+Médico: Dra. María Nieves Molina Mateos. NC 037367945. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 17/01/2016
+Episodio: 10510478
+Centro de salud: Centro de Salud Benalmádena
+Matrícula del coche: 2867HHY
+Modelo: Ford F-150
+VIN: VSLJGEACJPL791856
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 15 años de edad, acompañado de su abuela. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. 

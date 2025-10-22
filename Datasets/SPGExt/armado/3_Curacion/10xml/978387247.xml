@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Manuel Jesús Diez Guillen</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">48420507X</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/10/1966</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Almagro 56</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Gandía</TAG>.
+    Provincia: <TAG TYPE="TERRITORIO">Granada</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">18308</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">manueljesusdiezguillen@outlook.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 33 20 00</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 667 89 54 21</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9689873</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">663238575196</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Pintor de Construcción</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lourdes Otero Peña</TAG>.
+    NC: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">311985478</TAG>.
+    Cargo: <TAG TYPE="PROFESION">Neuróloga Investigadora en Trastornos Cognitivos</TAG>.
+    Instituto: <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>.
+    Dirección: <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG> <TAG TYPE="TERRITORIO">28041</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG> <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">14/07/2014</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">14158660</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Asistencial Universitario de León</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1874VAY</TAG>.
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ford Mustang</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSMAC11AYBD405376</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia centroasiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">47 años</TAG> de edad, acompañado de su padre, que acude al servicio de urgencias con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor de cabeza</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG> desde la noche anterior. La exploración física revela: Tª <TAG TYPE="FECHAS">38,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica se detectan signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">meningismo</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">rigidez de cuello</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fotofobia</TAG> y exacerbación de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor de cabeza</TAG>). Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">14,2 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">12.500/mm3</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">neutrófilos</TAG> 80%); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">60 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">95%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">100 mg/dl</TAG>; urea <TAG TYPE="FECHAS">25 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,0 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">140 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,8 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">20 U/l</TAG>; GPT <TAG TYPE="FECHAS">30 U/l</TAG>; GGT <TAG TYPE="FECHAS">40 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">150 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal. Se solicitan pruebas de imagen (<TAG TYPE="FECHAS">Ecografía craneal</TAG>, <TAG TYPE="FECHAS">TAC craneal</TAG>) que revelan una lesión intracraneal en la región frontoparietal. Se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">antitérmicos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antiinflamatorios</TAG>, reposo y elevación de la cabeza) y se realiza una exploración quirúrgica para evacuar la lesión. El paciente se encuentra estable y se le realiza una revisión en la unidad de cuidados intensivos.
+  </TEXT>
+</MEDDOCAN>

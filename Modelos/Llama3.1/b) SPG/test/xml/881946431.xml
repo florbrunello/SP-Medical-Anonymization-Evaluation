@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Tamara</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carrillo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carrasco</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">35024497M</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">13/05/2010</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Génova 12</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Alcoy</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">18227</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">tamara.carrillo1691@uhu.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 88 09 15</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 758 61 13 84</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3955736</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">317278986409</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Soldador</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mohammed Abad Rodríguez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">267669808</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Síndromes Raros</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">31/03/2024</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">48077692</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario 12 de Octubre</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7959VEP</TAG>
+  Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Jeep Wrangler</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSRQ6BH1DRT970496</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">usuario de drogas</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tía</TAG>.
+  </TEXT>
+</MEDDOCAN>

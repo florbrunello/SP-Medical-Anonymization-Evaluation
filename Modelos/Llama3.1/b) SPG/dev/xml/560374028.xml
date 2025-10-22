@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Diana</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Escobar</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Maldonado</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">82227199Z</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/09/1964</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Reina 85</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Parla</TAG>, <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">13257</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">diana.escobar@ciberisciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 55 79 52</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 626 07 50 89</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6256135</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de la Construcción</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Joel Crespo Vidal</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">435846359</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardiólogo Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/10/2001</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitari Vall d'Hebron</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia centroasiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> de edad. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de escaneo del iris</TAG>, el <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">código obtenido para revisarla</TAG> es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">EF374VYY508</TAG>.
+  </TEXT>
+</MEDDOCAN>

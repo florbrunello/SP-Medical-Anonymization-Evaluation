@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Antonio Jesús Navarro Soriano
+DNI: 28956643B
+Fecha de nacimiento: 03/10/2022
+Género: H
+Domicilio: Calle de Lope de Vega 49, 1E
+Ciudad: Hellín, Vizcaya, Pais Vasco
+Código postal: 48360
+Email: antoniojesus-navarro@salud.madrid.org
+Teléfono fijo: +34 946 26 08 56
+Teléfono móvil: +34 646 82 61 97
+NHC: 0753631
+NASS: 722678586904
+Condición de riesgo: Operador de Equipos Mineros
+
+Datos asistenciales.
+Médico: Dra. Sofía Moya Navarro. NC 824962859. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 28059622
+Hospital: Hospital Universitario Rey Juan Carlos de Mostoles
+
+Informe clínico del paciente:
+Paciente no fumador de 2 años de edad, acompañado de su madre. Se registró una sesión de huella dactilar, el código obtenido para revisarla es PG841OUS793. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="Antonio Jesús" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="57" text="Navarro Soriano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="63" end="72" text="28956643B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="94" end="104" text="03/10/2022" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="113" end="114" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="154" text="Calle de Lope de Vega 49, 1E" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="163" end="169" text="Hellín" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="178" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="180" end="190" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="48360" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="256" text="antoniojesus-navarro@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="272" end="288" text="+34 946 26 08 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="305" end="321" text="+34 646 82 61 97" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="327" end="334" text="0753631" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="341" end="353" text="722678586904" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="375" end="402" text="Operador de Equipos Mineros" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="655" end="665" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="676" end="684" text="28059622" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="695" end="745" text="Hospital Universitario Rey Juan Carlos de Mostoles" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="786" end="796" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="800" end="806" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="833" end="838" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="920" end="931" text="PG841OUS793" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

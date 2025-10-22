@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Elisa</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ordoñez Romero</TAG>.
+    <TAG TYPE="ID_SUJETO_ASISTENCIA">41245</TAG>.
+    <TAG TYPE="ID_ASEGURAMIENTO">23 45897614 05</TAG>.
+    <TAG TYPE="CALLE">Paseo de la Castellana 86</TAG> <TAG TYPE="NUMERO">13</TAG> <TAG TYPE="NUMERO">A</TAG>.
+    <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    <TAG TYPE="TERRITORIO">28020</TAG>.
+    Datos asistenciales.
+    <TAG TYPE="FECHAS">12/06/1941</TAG>.
+    <TAG TYPE="PAIS">España</TAG>.
+    <TAG TYPE="EDAD_SUJETO_ASISTENCIA">76 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    <TAG TYPE="FECHAS">11/12/2017</TAG>.
+    <TAG TYPE="PROFESION">Servicio</TAG> <TAG TYPE="PROFESION">Urgencias</TAG>.
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Enrique</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Santos Bueso</TAG> <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 67942</TAG>.
+    Historia Actual:Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">76 años</TAG> de edad que acudió a <TAG TYPE="PROFESION">Urgencias</TAG> por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TCE frontal derecho</TAG> con pérdida de conciencia, producido por una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">caída casual</TAG> en su <TAG TYPE="CALLE">domicilio</TAG>. La paciente refería pérdida de visión por el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ojo derecho</TAG> (OD) al recuperar el nivel de conciencia.
+    Antecedentes:Entre los antecedentes destacaban <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG> en tratamiento con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antidiabéticos orales</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">artrosis</TAG>. No refería otros antecedentes personales ni familiares de interés.
+    Exploración física: En la exploración presentaba una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">herida inciso-contusa</TAG> infraciliar y un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematoma difuso</TAG> fronto-orbitario derechos. La <TAG TYPE="OTROS_SUJETO_ASISTENCIA">agudeza visual</TAG> (AV) era de no percepción de luz con un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">defecto pupilar aferente relativo</TAG> (DPAR) en el OD y de 0,6 en el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ojo izquierdo</TAG>. El polo anterior estaba dentro de la normalidad, así como la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">presión intraocular</TAG> y el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fondo de ojo</TAG>.
+    Resumen de pruebas complementarias: La <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tomografía computarizada</TAG> (TC) de cráneo con cortes orbitarios fue normal y en la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">resonancia magnética nuclear</TAG> (RMN) se apreciaba un aumento de líquido perineural en la vaina del NO derecho.
+    Evolución y comentarios: Ante la persistencia de la sintomatología se realizó una reconstrucción sagital del canal óptico del TC helicoidal, apreciándose <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fractura lineal</TAG> del techo de la órbita derecha que se extendía al ala menor del esfenoides derecho, en la región del CO, con mínimo hundimiento del fragmento lateral que reducía el diámetro interno del CO.
+    Se realizaron <TAG TYPE="OTROS_SUJETO_ASISTENCIA">potenciales visuales evocados</TAG> utilizando estímulo monocular (Medelec® Synergy. Oxford. Instruments, England) con Googles a 2 ciclos por segundo evidenciándose una gran asimetría en la morfología de las respuestas a la estimulación de ambos ojos, sugiriendo ausencia de conducción del estímulo visual en el NO derecho.
+    La paciente fue diagnosticada de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">neuropatía óptica traumática</TAG> (NOT) de mecanismo de producción mixto al tratarse de un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">traumatismo frontal cerrado</TAG> que se transmitió indirectamente hacia el CO y una lesión directa del NO al desplazarse el ala menor del esfenoides en el interior del CO.
+    Se instauró tratamiento con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">megadosis de corticoides</TAG> (1 g de metilprednisolona seguido de 250 mg cada 6 horas durante 48 horas), sin presentar mejoría.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Enrique</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Santos Bueso</TAG> <TAG TYPE="PROFESION">Servicio de Oftalmología</TAG> <TAG TYPE="PROFESION">USIO</TAG> <TAG TYPE="PROFESION">Hospital Clínico San Carlos</TAG> <TAG TYPE="CALLE">Avda. Prof. Martín Lagos</TAG>, <TAG TYPE="NUMERO">s/n</TAG> <TAG TYPE="TERRITORIO">28040</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG> <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">esbueso@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

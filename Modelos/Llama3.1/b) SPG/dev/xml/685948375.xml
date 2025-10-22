@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Antonio</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Prieto Mateos</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">67653152D</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">16/12/1976</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Paz 43</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Puertollano</TAG>, <TAG TYPE="TERRITORIO">Málaga</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">29182</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">joseantonioprieto@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 46 95 54</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 751 86 60 50</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4272810</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Conserje</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ángel Herrero Medina</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">106091407</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Oftalmólogo Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/06/2024</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Río Hortega</TAG>
+    <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0827GXO</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Subaru Outback</TAG>
+    <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSQBW1CS87U297367</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">47 años</TAG> de edad. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">firma biométrica</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">RI853JJV456</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">escaneo del iris</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">LY850BKV362</TAG>.
+  </TEXT>
+</MEDDOCAN>

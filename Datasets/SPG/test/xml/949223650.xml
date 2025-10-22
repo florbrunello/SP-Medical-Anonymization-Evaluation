@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Julio Serra Roca
+DNI: 18977484T
+Fecha de nacimiento: 01/03/1933
+Género: Varón
+Domicilio: Calle de San Ildefonso 10, 6U
+Ciudad: Lugo, Mallorca, Islas Baleares
+Código postal: 07077
+Email: roca824@us.es
+Teléfono fijo: +34 971 34 16 16
+Teléfono móvil: +34 671 64 34 04
+NHC: 3483261
+NASS: 609422373748
+Condición de riesgo: Soldado
+
+Datos asistenciales.
+Médico: Dra. Tamara Rodríguez Marcos. NC 823919033. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/05/2015
+Episodio: 68676292
+Centro de salud: Centro de Salud Sevilla Norte
+
+Informe clínico del paciente:
+Paciente de tez blanca de 82 años de edad, acompañado de su hijo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Julio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="44" text="Serra Roca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="18977484T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="01/03/1933" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="105" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="146" text="Calle de San Ildefonso 10, 6U" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="159" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="169" text="Mallorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="185" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="07077" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="227" text="roca824@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="243" end="259" text="+34 971 34 16 16" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="276" end="292" text="+34 671 64 34 04" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="298" end="305" text="3483261" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="312" end="324" text="609422373748" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="346" end="353" text="Soldado" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="629" end="639" text="24/05/2015" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="650" end="658" text="68676292" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="676" end="705" text="Centro de Salud Sevilla Norte" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="749" end="759" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="763" end="770" text="82 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="797" end="801" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Óscar Beltran Trujillo
+DNI: 73543695E
+Fecha de nacimiento: 01/12/1941
+Género: Masculino
+Domicilio: Calle Gran Vía 65
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52135
+Email: oscar.beltran_trujillo@uca.es
+Teléfono fijo: +34 956 78 51 27
+Teléfono móvil: +34 656 78 40 00
+NHC: 0664225
+NASS: 795699898019
+Condición de riesgo: Conductor de Camión
+
+Datos asistenciales.
+Médico: Dr. Jaume Estevez Vera. NC 801420829. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 25/12/1979
+Hospital: Hospital Regional Universitario de Málaga
+Matrícula del coche: 6235QWR
+Modelo: Audi A4
+VIN: VSE6YXHQMVL979299
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática occidental de 38 años de edad, acompañado de su tía. Se registró una sesión de huella dactilar, el código obtenido para revisarla es LE324ZQX076. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Óscar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="50" text="Beltran Trujillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="73543695E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="01/12/1941" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="115" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="127" end="144" text="Calle Gran Vía 65" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="177" text="Ciudad autónoma de Ceuta" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="179" end="185" text="Ceuta," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="202" end="207" text="52135" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="215" end="244" text="oscar.beltran_trujillo@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="260" end="276" text="+34 956 78 51 27" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="293" end="309" text="+34 656 78 40 00" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T13" start="315" end="322" text="0664225" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="329" end="341" text="795699898019" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T15" start="363" end="382" text="Conductor de Camión" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="417" end="435" text="Jaume Estevez Vera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="440" end="449" text="801420829" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="451" end="494" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="496" end="554" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="556" end="580" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="582" end="587" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="589" end="599" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="601" end="607" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="627" end="637" text="25/12/1979" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="648" end="689" text="Hospital Regional Universitario de Málaga" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="711" end="718" text="6235QWR" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="740" end="757" text="VSE6YXHQMVL979299" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="801" end="832" text="ascendencia asiática occidental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="836" end="843" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="870" end="873" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="955" end="966" text="LE324ZQX076" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

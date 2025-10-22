@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Hugo</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Fernandez Rodriguez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7483590</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle Principe de Asturias, 3, 2, A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Albacete</TAG>.
+    CP: <TAG TYPE="TERRITORIO">02356</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/05/1995</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">15/09/2008</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Emilio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García García</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">02 02 52320</TAG>.
+    Informe clínico del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> sin antecedentes de interés que consultó por cefalea frontal y nicturia en los meses previos. En la exploración presentó talla y peso normales para su edad, ginecomastia bilateral de 2 cm de diámetro, pubarquia y testes de 3 ml. La exploración oftalmológica era normal.
+    La tomografía computarizada (TC) descubrió un proceso expansivo intraselar (emergía desde el interior de la silla turca) con crecimiento supraselar, bien delimitado, de unos <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 cm</TAG> de diámetro máximo, isodenso respecto al parénquima, de aspecto quístico con polo sólido y anillo periférico hipercaptantes tras la inyección de contraste. La resonancia magnética (RM) definió la porción quística supraselar de contenido proteináceo (ligeramente hiperintensa en T1 e hipointensa en T2) y la porción sólida intraselar isointensa a la sustancia gris en ambas secuencias y que realzaba intensamente tras gadolinio. Con el diagnóstico radiológico de craneofaringioma se indicó un tratamiento quirúrgico (no se había determinado el nivel de prolactina), y por abordaje transciliar derecho se realizó una exéresis macroscópicamente completa. La anatomía patológica diagnosticó adenoma hipofisario con inmunohistoquímica positiva para prolactina y cromogranina A.
+    Tras la intervención, el paciente presentó una hemianopsia bitemporal con extensión mayor en el campo visual derecho y panhipopituitarismo, y fue derivado a endocrinología. Los niveles de prolactina tras la intervención eran de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">83 ng/ml</TAG>, sin restos del adenoma en la RM, y se inició tratamiento con cabergolina. La calcemia era normal (<TAG TYPE="EDAD_SUJETO_ASISTENCIA">9,5 y 8,8 mg/dl</TAG>), por lo que no existe sospecha de hiperparatiroidismo ni de otros tumores propios de la neoplasia endocrina múltiple (MEN 1).
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Emilio García García</TAG> <TAG TYPE="CORREO_ELECTRONICO">ggej@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

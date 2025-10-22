@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Maria</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Fariñas Guajardo</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7048598</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">84 76679546 68</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Paseo Maritimo, 63, 1B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Santiago de Compostela</TAG>.
+    CP: <TAG TYPE="TERRITORIO">15205</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/09/1946</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">67 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">10/12/2013</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Urologia</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Daniel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Adolfo Pérez Fentes</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">15 15 98304</TAG>.
+    Informe clínico del paciente: mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">67 años</TAG>, sin antecedentes urológicos de interés, que presenta un cuadro de hematuria macroscópica monosintomática con coágulos de 2 días de evolución. Inicialmente se decide tratamiento conservador con sondaje vesical y circuito de lavado con suero fisiológico. A las 24 horas la paciente está anémica e hipotensa, requiriendo aporte de aminas vasoactivas y politransfusión de concentrados hemáticos. Se realiza TC abdómino-pélvico que informa de la existencia de una vejiga completamente ocupada por un gran coágulo vesical y ureterohidronefrosis bilateral moderada secundaria.
+    Se interviene a la paciente endoscópicamente evacuando aproximadamente 1 litro de coágulos. La mucosa vesical está hiperémica, con sangrado difuso, sin evidencia de lesiones endovesicales. Se procede a la electrocoagulación de varias áreas con sangrado activo. La paciente ingresa en la Unidad de Cuidados Intensivos con intubación orotraqueal y tratamiento de soporte con aminas vasoactivas. Se añade al tratamiento ácido aminocaproico intravenoso. A las 24 horas la vejiga está nuevamente coagulada y la paciente continúa anémica e inestable hemodinámicamente, pese a haber recibido transfusión de 10 concentrados hemáticos.
+    Ante esta situación decidimos realizar nefrostomía percutánea bilateral (NPC) con la doble intención de solventar el problema obstructivo producido por la ocupación vesical e intentar reducir el sangrado a ese nivel.
+    Se realiza nefrostomía percutánea bilateral eco y radiodirigida, bajo anestesia general, en posición de Valdivia, colocando sendos catéteres 8 Ch a través de cáliz inferior, sin incidencias.
+    A las 24 horas de la realización de la NPC bilateral la paciente mejora significativamente, cesando la hematuria y no requiriendo nuevas transfusiones sanguíneas. Dos días después se retiran las aminas vasoactivas y la intubación orotraqueal, siendo dada de alta de la Unidad de Cuidados Intensivos al cuarto día.
+    Una vez superado el cuadro agudo, se programa nueva revisión endoscópica vesical con toma de biopsias. El estudio anátomo-patológico evidenció como única alteración reseñable la presencia de un material eosinófilo dispuesto alrededor de los vasos sanguíneos de la submucosa. Esta sustancia se teñía con la tinción de Rojo Congo adquiriendo color verde manzana bajo la exposición de luz polarizada con birrefringencia, lo que confirmó que se trataba de amiloide. El estudio inmunohistoquímico de la lesión con anticuerpos monoclonales, (clon mc1), específicos frente a la proteína AA del amiloide resultó positiva permitiendo el diagnóstico de Amiloidosis vesical secundaria (Tipo AA). El postoperatorio transcurre sin incidencias, retirándose las nefrostomías a los 20 días y siendo dada de alta al mes.
+    Tras 6 meses de seguimiento, la paciente no ha vuelto a presentar hematuria y está pendiente de estudios para descartar afectación sistémica por la amiloidosis.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Daniel Adolfo Pérez Fentes</TAG>. <TAG TYPE="PROFESION">Servicio de Urología</TAG> <TAG TYPE="INSTITUCION">Complejo Universitario de Santiago de Compostela</TAG>. <TAG TYPE="CALLE">Travesía Choupana s/n</TAG>. <TAG TYPE="TERRITORIO">15706</TAG> <TAG TYPE="TERRITORIO">Santiago de Compostela</TAG>. <TAG TYPE="PAIS">La Coruña (España)</TAG> <TAG TYPE="CORREO_ELECTRONICO">danielfentes@yahoo.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carmen</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Soto Betancourt</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4896750</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">54 79065097 05</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle Fermin Caballero</TAG>, <TAG TYPE="NUMERO_CALLE">23</TAG>, <TAG TYPE="NUMERO_PISO">5 A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28029</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/08/1954</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">61 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">13/09/2015</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Víctor</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Asensio Sánchez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 56994</TAG>.
+    Informe clínico del paciente: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">61 años</TAG> con antecedentes sistémicos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">obesidad</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fallo renal</TAG> con buen control en la actualidad y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG> de <TAG TYPE="FECHAS">7 años</TAG> de evolución en tratamiento con <TAG TYPE="PROFESION">insulina</TAG> desde hace <TAG TYPE="FECHAS">2 años</TAG> y en los últimos <TAG TYPE="FECHAS">3 meses</TAG> se asoció <TAG TYPE="OTRO_NUMERO_IDENTIF">rosiglitiazona 4mg día</TAG> (<TAG TYPE="INSTITUCION">Avandia®</TAG>, <TAG TYPE="INSTITUCION">Glaxosmithkline</TAG>) con lo que se consiguió un buen control glucémico. Como antecedentes oftalmológicos destaca un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">edema macular bilateral difuso</TAG> tratado con <TAG TYPE="PROFESION">láser</TAG> seis meses antes y con visiones máximas de <TAG TYPE="NUMERO">0,3</TAG> en ojo derecho y <TAG TYPE="NUMERO">0,250</TAG> en ojo izquierdo. Acude al servicio de oftalmología refiriendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pérdida de visión severa</TAG> que le impide realizar su trabajo diario en los últimos dos meses. En la exploración sistémica destaca un aumento de peso de <TAG TYPE="NUMERO">7 kilos</TAG> (dato informado por su médico de <TAG TYPE="INSTITUCION">Atención Primaria</TAG>) con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">edemas periféricos</TAG> en las extremidades. La agudeza visual es de <TAG TYPE="NUMERO">0,05</TAG> en ambos ojos. En el fondo de ojo se observa un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">edema macular difuso severo bilateral</TAG>. Debido a la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">retención generalizada de fluidos</TAG> se realizó una exploración sistémica, descartando <TAG TYPE="OTROS_SUJETO_ASISTENCIA">patología renal</TAG> y/o <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cardíaca</TAG> estableciendo la asociación con la <TAG TYPE="OTRO_NUMERO_IDENTIF">rosiglitazona</TAG>. Se retiró este fármaco y a los dos meses la paciente había perdido <TAG TYPE="NUMERO">5kg</TAG> y los <TAG TYPE="OTROS_SUJETO_ASISTENCIA">edemas de las piernas</TAG> habían desaparecido. El <TAG TYPE="OTROS_SUJETO_ASISTENCIA">edema macular</TAG> no disminuyó y la agudeza visual a los tres meses seguía en <TAG TYPE="NUMERO">0,05</TAG> en ambos ojos.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Victor</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Asensio Sánchez</TAG>. Correo Electrónico:  <TAG TYPE="CORREO_ELECTRONICO">victor_asensio@orangemail.es</TAG>
+  </TEXT>
+</MEDDOCAN>

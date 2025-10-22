@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Isabel</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rabago Sandoval</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2609857</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle Costa Rica, 23, 6,B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Cartagena</TAG>.
+    CP: <TAG TYPE="TERRITORIO">30982</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/03/1990</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">28 años</TAG> Sexo:<TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">27/05/2018</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jesús Ignacio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tornero Ruiz</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">30 30 56390</TAG>.
+    Informe clínico del paciente:Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">28 años</TAG> sin antecedentes de interés que consultó por síndrome miccional con polaquiuria de predominio diurno y cierto grado de urgencia sin escapes urinario. El urocultivo resultó negativo por lo que se indicó tratamiento con anticolinérgicos. Ante la falta de respuesta al tratamiento, se realizó cistografía que fué normal y ecografía renovesical en la que se apreciaban imágenes quísticas parapiélicas, algunas de ellas con tabiques internos y vejiga sin lesiones. Con el fin de precisar la naturaleza de dichos quistes se solicitó TAC-abdominal, que informaba de gran quiste parapiélico en riñón derecho sin repercusión sobre la vía y una masa hipodensa suprarrenal derecha. La resonancia magnética demostró normalidad de la glándula suprarrenal y una lesión quística lobulada conteniendo numerosos septos en su interior que rodeaba al riñón derecho; en la celda renal izquierda existía una lesión de características similares pero de menor tamaño. Los hallazgos eran compatibles con linfangioma renal bilateral. Tras tres años de seguimiento la paciente continua con leve síntomatologia miccional en tratamiento, pero no ha presentado síntomas derivados de su lesión renal.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jesús Ignacio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tornero Ruiz</TAG> <TAG TYPE="HOSPITAL">Hospital Virgen de la Arrixaca</TAG> <TAG TYPE="CALLE">Ctra. Madrid-Cartagena s/n</TAG>. <TAG TYPE="TERRITORIO" >30120</TAG> <TAG TYPE="TERRITORIO" >El Palmar</TAG>. <TAG TYPE="PAIS">Murcia</TAG>. <TAG TYPE="PAIS">España</TAG> <TAG TYPE="CORREO_ELECTRONICO">ignaciotorne@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

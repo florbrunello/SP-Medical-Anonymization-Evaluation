@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Manuel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ferrer Rubio</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">55174363P</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/12/1957</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Jesús y María 60, 4G</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Las Palmas de Gran Canaria</TAG>, <TAG TYPE="TERRITORIO">Lugo</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">27497</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ferrerrubio@hotmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 982 28 19 90</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 782 05 85 14</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8286431</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Carpintero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lorenzo Caballero Torres</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">211213734</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Endocrinólogo Especialista en Diabetes</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">25/01/2010</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">11847484</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud San Sebastián de los Reyes</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia gitana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">52 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermano</TAG>.
+  </TEXT>
+</MEDDOCAN>

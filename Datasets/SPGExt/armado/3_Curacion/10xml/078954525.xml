@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Leo Roca Acosta</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">26836105G</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/05/2000</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Tribulete 15</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Liria</TAG>, <TAG TYPE="TERRITORIO">Lugo</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">27195</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">leo_roca1659@icloud.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 982 30 27 05</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 982 79 95 52</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5360199</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">828692478599</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Estudiante de Educación Secundaria</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. José Ignacio Domínguez Mateos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">252690467</TAG>. <TAG TYPE="PROFESION">Residente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5° año</TAG> en <TAG TYPE="PROFESION">Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre</TAG> (<TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Imas12</TAG>). <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">22/07/2014</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">69856048</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Collado Villalba</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5554HHO</TAG>.
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Jeep Wrangler</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSWPZ7I3WEG118766</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> de edad, acompañado de su padre, que refiere dolor abdominal crónico desde hace varias semanas, con picos de intensidad variable y duración de hasta 2 días. El dolor se localiza en la región lumbar y se irradia a la zona inguinal. El paciente también refiere pérdida de apetito y pérdida de peso de aproximadamente 5 kg en las últimas 4 semanas.
+    La exploración física revela: Tª <TAG TYPE="FECHAS">36,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">80 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración ni fiebre. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">13,2 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">9.500/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/ mm3</TAG>. VSG: <TAG TYPE="FECHAS">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">90%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">110 mg/dl</TAG>; urea <TAG TYPE="FECHAS">20 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">0,8 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,5 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">15 U/l</TAG>; GPT <TAG TYPE="FECHAS">20 U/l</TAG>; GGT <TAG TYPE="FECHAS">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">120 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía abdominal, Rx lumbar) que no evidencian patología significativa. Con el diagnóstico de dolor abdominal crónico de causa desconocida se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo) y se programan pruebas complementarias para determinar la causa subyacente del dolor abdominal.
+    </TEXT>
+  </MEDDOCAN>

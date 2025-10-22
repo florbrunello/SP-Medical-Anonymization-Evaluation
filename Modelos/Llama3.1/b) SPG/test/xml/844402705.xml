@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Andrea</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Velasco</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Luna</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">50841418X</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/09/1981</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Tres Cruces 34</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Elda</TAG>, <TAG TYPE="TERRITORIO">Región de Murcia</TAG>, <TAG TYPE="TERRITORIO">Región de Murcia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">30890</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">andreavelasco1481@aol.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 968 97 66 77</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 768 12 29 32</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5579418</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">533558326314</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ama de casa</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carmen Aguilera Sánchez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">807641809</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Insuficiencia Cardíaca</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/10/1996</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">29478406</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Reina Sofía de Córdoba</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

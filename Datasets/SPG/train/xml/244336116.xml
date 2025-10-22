@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rosa Serrano Villar
+DNI: 69809475J
+Fecha de nacimiento: 09/03/2025
+Género: M
+Domicilio: Calle del Pez 55
+Ciudad: Tarragona, Huelva, Andalucía
+Código postal: 21365
+Email: serrano_villar@protonmail.com
+Teléfono fijo: +34 959 51 78 60
+FAX: +34 959 98 87 39
+NHC: 5773564
+NASS: 741503658948
+Condición de riesgo: Operador de Equipos Mineros
+
+Datos asistenciales.
+Médico: Dra. María Lourdes Pardo Paredes. NC 783067499. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 88598240
+Centro de salud: Centro de Salud Latina
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 0 meses de edad, acompañado de su hermano. Se registró una sesión de huella dactilar, el código obtenido para revisarla es JQ967OOR102. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Rosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="47" text="Serrano Villar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="69809475J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="132" text="Calle del Pez 55" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="141" end="150" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="152" end="158" text="Huelva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="160" end="169" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="185" end="190" text="21365" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="198" end="227" text="serrano_villar@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="243" end="259" text="+34 959 51 78 60" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="265" end="281" text="+34 959 98 87 39" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="287" end="294" text="5773564" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="301" end="313" text="741503658948" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="335" end="362" text="Operador de Equipos Mineros" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="617" end="627" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="638" end="646" text="88598240" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="664" end="686" text="Centro de Salud Latina" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="727" end="744" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="748" end="755" text="0 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="782" end="789" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="871" end="882" text="JQ967OOR102" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

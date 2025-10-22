@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Moisés Miguel Ramos</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">19530089F</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/03/2025</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de las Huertas 49, 3F</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Albacete</TAG>, <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">14927</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">moises_miguel_ramos@ual.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 957 21 09 49</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 957 57 51 93</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5181963</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">368744235301</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">No aplica</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. María Lourdes Serra Arias</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">912605371</TAG>. <TAG TYPE="PROFESION">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">89919605</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Málaga Norte</TAG>.
+    Informe clínico del paciente:
+    Paciente no fumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0 meses</TAG> de edad, acompañado de su madre.
+    Antecedentes:
+    No hay antecedentes relevantes.
+    Evolución y comentarios:
+    El paciente fue ingresado en la unidad de pediatría por... (continuación del informe)
+    Remitido por: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">No aplica</TAG>.
+    Exploración física:
+    La exploración física revela... (continuación del informe)
+    Pruebas diagnósticas:
+    Se han realizado las siguientes pruebas diagnósticas:... (continuación del informe)
+    Tratamiento:
+    El tratamiento establecido para el paciente es... (continuación del informe)
+    Pronóstico:
+    El pronóstico del paciente es... (continuación del informe)
+  </TEXT>
+</MEDDOCAN>

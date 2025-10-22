@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Aarón Bermudez Aguilar
+DNI: 82585725Q
+Fecha de nacimiento: 14/06/1935
+Género: H
+Domicilio: Calle de Bailén 83, 10O
+Ciudad: San Fernando, Mallorca, Islas Baleares
+Código postal: 07835
+Email: aaron@icloud.com
+Teléfono fijo: +34 971 07 03 48
+Teléfono móvil: +34 671 37 13 20
+NHC: 5770514
+NASS: 919300362146
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. Christian Márquez Ortiz. NC 391733277. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 14/05/1984
+Hospital: Hospital Universitario Severo Ochoa
+
+Informe clínico del paciente:
+Paciente vegano de 48 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Aarón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="50" text="Bermudez Aguilar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="82585725Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="14/06/1935" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="142" text="Calle de Bailén 83, 10O" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="163" text="San Fernando" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="173" text="Mallorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="189" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="07835" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="234" text="aaron@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 971 07 03 48" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 671 37 13 20" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="5770514" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="919300362146" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="353" end="378" text="Trabajador de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="413" end="436" text="Christian Márquez Ortiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="441" end="450" text="391733277" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="452" end="489" text="Residente de 4° año en Endocrinología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="491" end="558" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="560" end="587" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="589" end="594" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="596" end="603" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="605" end="611" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="631" end="641" text="14/05/1984" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="652" end="687" text="Hospital Universitario Severo Ochoa" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="728" end="734" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="738" end="745" text="48 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

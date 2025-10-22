@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Daniela Reyes Ibáñez
+DNI: 72965697Z
+Fecha de nacimiento: 11/03/1937
+Género: M
+Domicilio: Calle de San Millán 83, 2K
+Ciudad: Girona, Ávila, Castilla y León
+Código postal: 05496
+Email: daniela_ibanez@uhu.es
+Teléfono fijo: +34 920 44 60 50
+Teléfono móvil: +34 720 81 75 53
+NHC: 7860967
+NASS: 765432266363
+
+Datos asistenciales.
+Médico: Dra. Gema Roldan Plaza. NC 159280411. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 08/08/1964
+Episodio: 91578558
+Hospital: Hospital Universitario Virgen Macarena
+Matrícula del coche: 9634IHZ
+Modelo: Chrysler Pacifica
+VIN: VSSM63NV16C723602
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 27 años de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es VJ548YOJ253. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es SZ134CZH253. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Daniela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Reyes Ibáñez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="72965697Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="11/03/1937" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="143" text="Calle de San Millán 83, 2K" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="158" text="Girona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="165" text="Ávila" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="167" end="182" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="05496" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="232" text="daniela_ibanez@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 920 44 60 50" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 720 81 75 53" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="7860967" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="765432266363" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="583" end="593" text="08/08/1964" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="604" end="612" text="91578558" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="623" end="661" text="Hospital Universitario Virgen Macarena" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="683" end="690" text="9634IHZ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="722" end="739" text="VSSM63NV16C723602" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="780" end="801" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="805" end="812" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="904" end="915" text="VJ548YOJ253" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T24" start="998" end="1009" text="SZ134CZH253" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

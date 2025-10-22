@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Eva</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Castillo Rico</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">78467456N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">22/04/2002</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Infantas 71</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG>, <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">13311</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">QCY0BKQo4u@ioba.med.uva.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 08 28 71</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 726 44 52 29</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7997999</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bruno Hurtado Carrillo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">188839464</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Psiquiatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">25/07/2018</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">73035580</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Cabueñes</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">16 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">nuera</TAG>. Se realizó un <TAG TYPE="DIREC_PROT_INTERNET">expediente</TAG> con <TAG TYPE="URL_WEB">http://example-medical.edu//70509686R</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lorenzo Pardo Méndez</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">65391849C</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/02/1933</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Preciados 94, 2T</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Huelva, Sevilla, Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">41612</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">lorenzo-pardo@uhu.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 54 63 16</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 754 12 03 78</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1388996</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">468043486571</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Discapacitado</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Eva</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gil Cortés</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">639483564</TAG>.
+    Cargo: <TAG TYPE="PROFESION">Investigadora Principal en Parkinson</TAG>.
+    Instituto: <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>.
+    Dirección: <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/10/2021</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">66469927</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Sur</TAG>.
+    Informe clínico del paciente:
+    Paciente discapacitado de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">88 años</TAG> de edad, acompañado de su padre, presenta una historia clínica compleja con múltiples comorbilidades. El paciente ha sido ingresado en la unidad de neurología con síntomas de demencia, parkinsonismo y trastornos del movimiento. La exploración física revela una presencia de rigidez y bradicinesia en los miembros inferiores, con una velocidad de marcha reducida. El paciente también presenta una disminución significativa en la capacidad de realizar actividades cotidianas.
+    La evolución clínica ha sido marcada por una progresión gradual de los síntomas, con una mayor dificultad para realizar tareas básicas. El paciente ha requerido asistencia para la alimentación, la higiene personal y la movilidad. La exploración neurológica ha revelado una presencia de signos de degeneración cerebral, con una disminución en la función cognitiva y una pérdida de la coordinación motora.
+    Los resultados de las pruebas diagnósticas han confirmado la presencia de enfermedad de Alzheimer y parkinsonismo. El paciente ha sido tratado con medicamentos para controlar los síntomas, pero su evolución ha sido marcada por una progresión gradual de la enfermedad.
+    En la actualidad, el paciente se encuentra en una etapa avanzada de la enfermedad, con una dependencia significativa para realizar actividades cotidianas. Se requiere un seguimiento estrecho para controlar los síntomas y ajustar el tratamiento según sea necesario.
+    Antecedentes:
+    El paciente tiene una historia de hipertensión arterial, diabetes mellitus tipo 2 y enfermedad cardiovascular. Ha sido tratado con medicamentos para controlar estos trastornos, pero ha presentado una progresión gradual de la enfermedad.
+    Evolución y comentarios:
+    El paciente ha presentado una evolución clínica compleja con múltiples comorbilidades. La enfermedad de Alzheimer y el parkinsonismo han progresado significativamente, lo que ha requerido un ajuste constante del tratamiento. Se requiere un seguimiento estrecho para controlar los síntomas y ajustar el tratamiento según sea necesario.
+    Remitido por:
+    El paciente ha sido remitido por su médico de cabecera, quien ha notado una progresión significativa en la enfermedad. El paciente se encuentra en una etapa avanzada de la enfermedad y requiere un seguimiento estrecho para controlar los síntomas y ajustar el tratamiento según sea necesario.
+  </TEXT>
+</MEDDOCAN>

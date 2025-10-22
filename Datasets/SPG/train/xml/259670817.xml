@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Diego Gracia Galvez
+DNI: 45319613E
+Fecha de nacimiento: 29/01/1931
+Género: Masculino
+Domicilio: Calle de la Princesa 64, 3O
+Ciudad: Majadahonda, Gerona, Cataluña
+Código postal: 17498
+Email: gracia@hotmail.com
+Teléfono fijo: +34 972 31 11 20
+Teléfono móvil: +34 772 42 96 44
+NHC: 2843756
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dra. Andrea Hernández Bernal. NC 923038326. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/04/1991
+Episodio: 57440168
+Centro de salud: Centro de Salud Chamartín
+Matrícula del coche: 7499FWW
+Modelo: Tesla Model 3
+VIN: VSON2AWW9WL676128
+
+Informe clínico del paciente:
+Paciente de tez blanca de 60 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Diego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Gracia Galvez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="45319613E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="29/01/1931" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="112" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="151" text="Calle de la Princesa 64, 3O" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="171" text="Majadahonda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="173" end="179" text="Gerona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="181" end="189" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="17498" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="236" text="gracia@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 972 31 11 20" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="285" end="301" text="+34 772 42 96 44" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="307" end="314" text="2843756" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="336" end="346" text="Paramédico" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="638" end="648" text="24/04/1991" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="659" end="667" text="57440168" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="685" end="710" text="Centro de Salud Chamartín" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="732" end="739" text="7499FWW" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="767" end="784" text="VSON2AWW9WL676128" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="828" end="838" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="842" end="849" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="876" end="881" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

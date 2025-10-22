@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vanessa Conde Izquierdo</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">19164288K</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/05/2006</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Fortuny 10, 1H</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Reus</TAG>, <TAG TYPE="TERRITORIO">Zamora</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">49368</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">vanessa@us.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 980 39 24 95</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 980 27 36 61</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8702080</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">735356562415</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Técnico de Cuidados Auxiliares de Enfermería</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pedro Avila Marcos</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 127048444</TAG>. <TAG TYPE="PROFESION">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">11/07/2023</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Infanta Leonor</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">17 años</TAG> de edad, acompañado de su primo, refiere dolor abdominal crónico desde hace varios meses, con exacerbaciones recientes que lo han llevado a buscar atención médica. El paciente tiene antecedentes de salud de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">obesidad</TAG>, lo que ha llevado a un aumento en la frecuencia de los episodios de dolor abdominal.
+    La exploración física revela: Tª <TAG TYPE="OTROS_SUJETO_ASISTENCIA">37,5 C</TAG>; T.A: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120/80 mmHg</TAG>; Fc: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90 lpm</TAG>. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen tenso, con dolor en la región epigástrica y hipocondrio derecho, sin masas ni megalias.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="OTROS_SUJETO_ASISTENCIA">14,5 g/dl</TAG>; leucocitos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8.500/mm3</TAG> (neutrófilos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">70%</TAG>); plaquetas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">250.000/mm3</TAG>. VSG: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 mm 1ª hora</TAG>. Coagulación: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TQ 90%</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TTPA 25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">110 mg/dl</TAG>; urea <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25 mg/dl</TAG>; creatinina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">1,1 mg/dl</TAG>; sodio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">135 mEq/l</TAG>; potasio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3,8 mEq/l</TAG>; GOT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 U/l</TAG>; GPT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 U/l</TAG>; GGT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">40 U/l</TAG>; fosfatasa alcalina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">140 U/l</TAG>; calcio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Durante el ingreso se solicitan pruebas de imagen (Ecografía abdominal, TAC abdominal) que no evidencian patología significativa, excepto la presencia de un litio en el hipocondrio derecho.
+    Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">litiasis biliar</TAG> se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo) así como tratamiento médico: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ursodiol</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">300 mg</TAG> vía oral cada 8 horas (durante 4 semanas) y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Colestiramina</TAG> <TAG TYPE="OTROS_SUJETO_ASISTENCIA">4 gramos</TAG> vía oral cada 12 horas (durante 2 semanas). El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde completará la pauta de tratamiento médico.
+    Evolución y comentarios:
+    El paciente seguirá bajo seguimiento en el consultorio de gastroenterología para evaluar la respuesta al tratamiento y realizar ajustes en la pauta de medicación si fuera necesario. Se le recomendará una dieta baja en grasas y fibra para ayudar a reducir la sintomatología y prevenir la formación de nuevos litios.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pedro Avila Marcos</TAG>, <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Residente de 3° año en Gastroenterología</TAG>
+  </TEXT>
+</MEDDOCAN>

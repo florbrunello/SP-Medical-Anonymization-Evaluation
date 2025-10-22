@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Patricia Aparicio Carrillo
+DNI: 60941715H
+Fecha de nacimiento: 23/03/2001
+Género: Mujer
+Domicilio: Calle de los Relatores 42
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52230
+Email: apariciocarrillo@aol.com
+Teléfono fijo: +34 956 32 25 96
+FAX: +34 956 51 97 60
+NHC: 3154216
+NASS: 889071580172
+Condición de riesgo: Electricista
+
+Datos asistenciales.
+Médico: Dr. Pau Bernal Parra. NC 772096285. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 09/03/2025
+Hospital: Hospital Universitario 12 de Octubre
+Matrícula del coche: 5656ZDQ
+Modelo: Nissan Altima
+VIN: VSALBDVTB0Y560199
+
+Informe clínico del paciente:
+Paciente de ascendencia caribeña de 23 años de edad, acompañado de su vecina. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es UP286CWM593. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Patricia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="54" text="Aparicio Carrillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="60941715H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="23/03/2001" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="115" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="127" end="152" text="Calle de los Relatores 42" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="161" end="185" text="Ciudad autónoma de Ceuta" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="187" end="193" text="Ceuta," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="210" end="215" text="52230" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="223" end="247" text="apariciocarrillo@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="263" end="279" text="+34 956 32 25 96" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="285" end="301" text="+34 956 51 97 60" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T13" start="307" end="314" text="3154216" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="321" end="333" text="889071580172" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T15" start="355" end="367" text="Electricista" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="402" end="418" text="Pau Bernal Parra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="423" end="432" text="772096285" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="434" end="478" text="Investigador Principal en Optometría Clínica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="480" end="538" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="540" end="564" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="566" end="571" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="573" end="583" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="585" end="591" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="611" end="621" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="632" end="668" text="Hospital Universitario 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="690" end="697" text="5656ZDQ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="725" end="742" text="VSALBDVTB0Y560199" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="786" end="806" text="ascendencia caribeña" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="810" end="817" text="23 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="844" end="850" text="vecina" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="934" end="945" text="UP286CWM593" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

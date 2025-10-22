@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Andrea</TAG>
+    <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pose Diaz</TAG>
+    <TAG TYPE="ID_SUJETO_ASISTENCIA">6509362</TAG>
+    <TAG TYPE="CALLE">Pa. De Los Navegantes 22 3A</TAG>
+    <TAG TYPE="TERRITORIO">Arganda del Rey, Madrid</TAG>
+    <TAG TYPE="TERRITORIO">28500</TAG>
+    <TAG TYPE="FECHAS">27/06/2010</TAG>
+    <TAG TYPE="PAIS">España</TAG>
+    <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 años</TAG>
+    <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    <TAG TYPE="FECHAS">03/07/2013</TAG>
+    <TAG TYPE="PROFESION">Alergología</TAG>
+    <TAG TYPE="ID_CONTACTO_ASISTENCIAL">756937462</TAG>
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Maria Pilar López Sáez</TAG>
+    <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 54112</TAG>
+    <TAG TYPE="TERRITORIO">28500</TAG>
+    <TAG TYPE="TERRITORIO">Arganda del Rey, Madrid</TAG>
+    <TAG TYPE="PAIS">España</TAG>
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Maria Pilar López Sáez</TAG>
+    <TAG TYPE="CORREO_ELECTRONICO">mpilarlopezsaez@yahoo.es</TAG>
+    <TAG TYPE="HOSPITAL">Hospital Universitario del Sureste</TAG>
+    <TAG TYPE="CALLE">Ronda del Sur, 10</TAG>
+    <TAG TYPE="TERRITORIO">28500</TAG>
+    <TAG TYPE="TERRITORIO">Arganda del Rey, Madrid</TAG>
+    <TAG TYPE="PAIS">España</TAG>
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Maria Pilar López Sáez</TAG>
+    <TAG TYPE="CORREO_ELECTRONICO">mpilarlopezsaez@yahoo.es</TAG>
+    Informe clínico del paciente: Niña de tres años de edad, que fue remitida por su pediatra a la consulta de Alergología por presentar, desde hacía un año, episodios recurrentes de lesiones habonosas diseminadas sin angioedema.
+    Los brotes aparecían cada uno o dos meses, solían persistir una semana y a veces se acompañaban de odinofagia.
+    Los padres no relacionaban estos cuadros con ningún posible agente externo desencadenante, entre ellos fármacos o alimentos.
+    Antecedentes: sin antecedentes personales ni familiares de interés
+    Exploración física: En la exploración física realizada durante su primera visita se objetivó una hipertrofia de las amígdalas palatinas, sin otros hallazgos reseñables.
+    Las pruebas cutáneas con una batería estándar de neumoalérgenos habituales de la región (incluidos ácaros del polvo, pólenes, hongos y epitelios de animales), látex, alimentos, panalérgenos vegetales y Anisakis simplex fueron negativas.
+    Resumen de pruebas complementarias: La analítica general realizada (bioquímica, hemograma, velocidad de sedimentación globular, hormonas tiroideas y orina) fue normal, así como las clases de inmunoglobulinas séricas IgA, IgM e IgG.
+    La cifra de IgE total fue de 104,5 UI/ml (valores normales de referencia, 100-120 UI/ml).
+    Los niveles de anticuerpos antiestreptolisina O (ASLO) fueron de 1571 UI/ml (valor de referencia del laboratorio, 0-200 UI/ml).
+    En el examen de heces no se observaron parásitos.
+    Evolución y comentarios: Tras la instauración de tratamiento con penicilina G-benzatina por vía intramuscular durante cuatro meses (una dosis al mes) la niña quedó asintomática, a la vez que se objetivó un descenso progresivo de las cifras del ASLO hasta su normalización.
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Maria Pilar López Sáez</TAG>
+    <TAG TYPE="CORREO_ELECTRONICO">mpilarlopezsaez@yahoo.es</TAG>
+  </TEXT>
+</MEDDOCAN>

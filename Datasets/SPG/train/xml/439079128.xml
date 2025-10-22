@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María José Sierra Domínguez
+DNI: 60414283E
+Fecha de nacimiento: 31/03/2016
+Género: Mujer
+Domicilio: Calle de Villalar 9
+Ciudad: Fuenlabrada, Álava, Pais Vasco
+Código postal: 01473
+Email: mariajose@ciberehd.org
+Teléfono fijo: +34 945 32 30 24
+Teléfono móvil: +34 645 27 67 56
+NHC: 3904854
+NASS: 554674106659
+
+Datos asistenciales.
+Médico: Dra. Catalina Exposito Caballero. NC 082376111. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/07/2023
+Episodio: 88854445
+Centro de salud: Centro de Salud Benalmádena
+
+Informe clínico del paciente:
+Paciente de tez blanca de 7 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-nutrition.net//86943613I. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="María José" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="55" text="Sierra Domínguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="60414283E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="31/03/2016" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="116" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="147" text="Calle de Villalar 9" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="167" text="Fuenlabrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="174" text="Álava" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="186" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="01473" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="237" text="mariajose@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 945 32 30 24" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="286" end="302" text="+34 645 27 67 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="308" end="315" text="3904854" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="322" end="334" text="554674106659" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="612" end="622" text="07/07/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="633" end="641" text="88854445" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="659" end="686" text="Centro de Salud Benalmádena" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="730" end="740" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="744" end="750" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="777" end="782" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="817" end="841" text="http://example-nutrition" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

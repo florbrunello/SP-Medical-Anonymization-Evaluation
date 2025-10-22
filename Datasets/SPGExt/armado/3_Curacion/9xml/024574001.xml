@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Domingo Andres Rueda</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">28516683H</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/01/1925</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Olivar 25, 1T</TAG>, <TAG TYPE="TERRITORIO">Cáceres</TAG>, <TAG TYPE="TERRITORIO">Las Palmas</TAG>, <TAG TYPE="TERRITORIO">35742</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">domingo_andres.rueda890@yahoo.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 928 08 25 88</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 628 90 97 74</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1989491</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">376695209004</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Servicios de Limpieza</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Guillen González</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">433866782</TAG>. Investigadora Clínica en Insuficiencia Cardíaca.
+    Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). <TAG TYPE="INSTITUCION">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/02/1998</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">22838334</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Puerta de Hierro Majadahonda</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">73 años</TAG> de edad, acompañado de su yerno, que se presenta con una serie de síntomas que incluyen dolor en el pecho, dificultad para respirar y fatiga. El paciente tiene una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, y ha sido fumador durante más de 30 años.
+    La exploración física revela:
+    Tª <TAG TYPE="FECHAS">37,5°C</TAG>.
+    TA <TAG TYPE="FECHAS">120/80 mmHg</TAG>.
+    FC <TAG TYPE="FECHAS">90 lpm</TAG>.
+    Se encuentra consciente, orientado, sin sudoración ni signos de distress respiratorio
+    En la exploración cardíaca se aprecia:
+    Soplo cardíaco <TAG TYPE="FECHAS">2/6</TAG> en la región de la quinta intercostal izquierda
+    Auscultación cardíaca rítmica, sin roces ni extratonos
+    La exploración pulmonar revela:
+    Conservación del murmullo vesicular
+    Sin signos de edema pulmonar
+    Los datos analíticos muestran:
+    Hemograma: Hb <TAG TYPE="FECHAS">12,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">10.500/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>)
+    VSG: <TAG TYPE="FECHAS">30 mm 1ª hora</TAG>
+    Coagulación: TQ <TAG TYPE="FECHAS">90%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>
+    Bioquímica: Glucosa <TAG TYPE="FECHAS">140 mg/dl</TAG>; urea <TAG TYPE="FECHAS">25 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,2 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,8 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">20 U/l</TAG>; GPT <TAG TYPE="FECHAS">30 U/l</TAG>; GGT <TAG TYPE="FECHAS">40 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">150 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>
+    Se solicitan pruebas de imagen, incluyendo una ecografía cardíaca y una radiografía de tórax, que no revelan patología significativa.
+    Con el diagnóstico de insuficiencia cardíaca congestiva se instaura tratamiento sintomático (diuréticos, vasodilatadores, nitratos) y tratamiento farmacológico (ACE-inhibidores, betabloqueantes).
+    El paciente se encuentra estable y sin signos de distress respiratorio, y se le prescribe un tratamiento de seguimiento en el hospital.
+    Antecedentes:
+    El paciente tiene una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, y ha sido fumador durante más de 30 años.
+    Evolución y comentarios:
+    El paciente se encuentra estable y sin signos de distress respiratorio, y se le prescribe un tratamiento de seguimiento en el hospital.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Guillen González</TAG>, Investigadora Clínica en Insuficiencia Cardíaca, <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>.
+  </TEXT>
+</MEDDOCAN>

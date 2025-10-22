@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Rosa</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gallardo Padilla</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">15097766Z</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/02/1963</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Luna 74, 10H</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Novelda</TAG>, <TAG TYPE="TERRITORIO">Castellón</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">12215</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariarosa-padilla@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 964 93 13 47</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 764 64 40 20</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7382626</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Plomero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Antonio Bueno Medina</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">049188204</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neurólogo Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/10/2007</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">85206803</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Chamartín</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">musulman</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">44 años</TAG> de edad. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">WV837IKJ493</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">firma biométrica</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">WC404YRH221</TAG>.
+  </TEXT>
+</MEDDOCAN>

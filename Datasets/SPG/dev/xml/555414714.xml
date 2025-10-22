@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Carmen Molina Moya
+DNI: 32394984J
+Fecha de nacimiento: 02/09/1937
+Género: Femenino
+Domicilio: Calle del Nuncio 65
+Ciudad: Badajoz, Ibiza, Islas Baleares
+Código postal: 07348
+Email: molina@aol.com
+Teléfono fijo: +34 971 31 52 79
+Teléfono móvil: +34 771 95 36 93
+NHC: 2047307
+NASS: 487865797753
+Condición de riesgo: Policía
+
+Datos asistenciales.
+Médico: Dr. Salvador Acosta Del Rio. NC 909240104. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 18/11/1952
+Episodio: 35267235
+Hospital: Hospital Universitario de Basurto
+Matrícula del coche: 2040GZI
+Modelo: Chevrolet Silverado
+VIN: VSU32KFPR4E956186
+
+Informe clínico del paciente:
+Paciente musulman de 15 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.47.2, con dirección MAC 84:DA:F3:61:4C:B6. Se registró una sesión de huella dactilar, el código obtenido para revisarla es BR790ELE017. Se registró una sesión de firma biométrica, el código obtenido para revisarla es GD386GGU806. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Carmen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="46" text="Molina Moya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="32394984J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="02/09/1937" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="110" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="141" text="Calle del Nuncio 65" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="157" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="164" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="180" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="07348" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="223" text="molina@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="239" end="255" text="+34 971 31 52 79" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="272" end="288" text="+34 771 95 36 93" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="294" end="301" text="2047307" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="308" end="320" text="487865797753" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="342" end="349" text="Policía" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="384" end="407" text="Salvador Acosta Del Rio" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="412" end="421" text="909240104" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="423" end="454" text="Residente de 5° año en Urología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="456" end="528" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="530" end="553" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="555" end="560" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="562" end="568" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="570" end="576" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="596" end="606" text="18/11/1952" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="617" end="625" text="35267235" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="636" end="669" text="Hospital Universitario de Basurto" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="691" end="698" text="2040GZI" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="732" end="749" text="VSU32KFPR4E956186" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="790" end="798" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="802" end="809" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="836" end="841" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T33" start="947" end="964" text="84:DA:F3:61:4C:B6" TYPE="DIREC_PROT_INTERNET" comment=""/>
+        <ID id="T34" start="1046" end="1057" text="BR790ELE017" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T35" start="1140" end="1151" text="GD386GGU806" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

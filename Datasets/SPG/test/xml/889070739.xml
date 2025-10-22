@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Isaac Roca Sáez
+DNI: 81099461N
+Fecha de nacimiento: 15/03/1936
+Género: V
+Domicilio: Calle del Espíritu Santo 81
+Ciudad: Bormujos, Tarragona, Cataluña
+Código postal: 43169
+Email: isaac-roca@uhu.es
+Teléfono fijo: +34 977 63 20 22
+Teléfono móvil: +34 677 46 24 22
+NHC: 2057513
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dr. Andrés Palacios Delgado. NC 276756877. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/03/1995
+Episodio: 78131187
+Hospital: Hospital General de Villalba
+
+Informe clínico del paciente:
+Paciente víctima de desastre de 59 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Isaac" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="43" text="Roca Sáez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="49" end="58" text="81099461N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="80" end="90" text="15/03/1936" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="99" end="100" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="112" end="139" text="Calle del Espíritu Santo 81" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="156" text="Bormujos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="167" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="177" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="193" end="198" text="43169" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="206" end="223" text="isaac-roca@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="239" end="255" text="+34 977 63 20 22" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="272" end="288" text="+34 677 46 24 22" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="294" end="301" text="2057513" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="323" end="331" text="Granjero" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="366" end="389" text="Andrés Palacios Delgado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="394" end="403" text="276756877" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="405" end="444" text="Investigador Clínico en Síndromes Raros" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="446" end="521" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="523" end="552" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="554" end="559" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="561" end="567" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="569" end="575" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="595" end="605" text="20/03/1995" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="616" end="624" text="78131187" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="635" end="663" text="Hospital General de Villalba" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="704" end="723" text="víctima de desastre" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="727" end="734" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

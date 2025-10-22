@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mercedes Galvez Díaz</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">29218445G</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/09/1955</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Primavera 6, 10E</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ermua</TAG>, <TAG TYPE="TERRITORIO">Ávila</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">05063</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mercedes-galvez376@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 920 96 13 91</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 720 47 41 40</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1025715</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">712861864113</TAG>
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Médico</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jorge Sanz Plaza</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 767551591</TAG>. <TAG TYPE="PROFESION">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/03/1977</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuengirola</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">usuario de drogas</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">21 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumo de sustancias ilegales</TAG> desde la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">adolescencia</TAG>. Presenta <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas de abstinencia</TAG>, incluyendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sudoración</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tremblores</TAG>. La exploración física revela <TAG TYPE="OTROS_SUJETO_ASISTENCIA">signos de desnutrición</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fatiga</TAG>. Los análisis de sangre muestran <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alteraciones</TAG> en los niveles de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">glucosa</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lípidos</TAG>. Se solicitan pruebas adicionales para determinar la gravedad de la situación y establecer un plan de tratamiento adecuado.
+    Antecedentes:
+    El paciente ha sido atendido en varias ocasiones por problemas relacionados con el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumo de drogas</TAG>, incluyendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">episodios de sobredosis</TAG> y problemas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">salud mental</TAG>. Ha recibido tratamiento en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">centros de rehabilitación</TAG> y ha participado en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">programas de apoyo</TAG> para <TAG TYPE="OTROS_SUJETO_ASISTENCIA">usuarios de drogas</TAG>.
+    Evolución y comentarios:
+    El paciente ha mostrado un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">compromiso inicial</TAG> con el tratamiento, pero ha presentado <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dificultades</TAG> para mantener la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">abstinencia</TAG>. Se requiere un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfoque intensivo</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">personalizado</TAG> para ayudarlo a superar sus problemas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">salud</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bienestar</TAG>.
+    Remitido por:
+    El paciente ha sido remitido por su <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">médico de cabecera</TAG>, quien ha notado un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">deterioro</TAG> en su estado de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">salud</TAG> y ha recomendado un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">seguimiento más estrecho</TAG>. Se requiere una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">evaluación más detallada</TAG> para determinar la mejor forma de abordar sus problemas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">salud</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alma Marin Moreno</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marin Moreno</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4567653</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Sangenjo, 29, 3D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28034</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/08/2016</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">1 mes</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">01/10/2016</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Pediatría</TAG>.
+    Episodio:  <TAG TYPE="ID_CONTACTO_ASISTENCIAL">9874565651</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Julia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Morata Alba</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 70726</TAG>.
+    Historia Actual: Niña de un mes y medio de edad que es remitida a la consulta de <TAG TYPE="PROFESION">Pediatría</TAG> por un riñón derecho pélvico y un mechón blanco de pelo en la región frontal.
+    Procede de la primera gestación de una madre sana. Embarazo controlado sin incidencias, con ecografías normales salvo por el riñón derecho pélvico. Parto vaginal, instrumentado a la edad gestacional de 38 semanas. Peso al nacimiento de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">2320 gramos</TAG>, Apgar 10/10. Otoemisiones correctas bilaterales.
+    Antecedentes: Antecedentes familiares: padres de raza blanca, madre sana de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">25 años</TAG>, padre sano de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">36 años</TAG>, salvo manchas acrómicas en el tercio medio de ambos muslos, sin haber sido diagnosticado de ninguna enfermedad. Se desconocen otros antecedentes familiares.
+    Exploración: La paciente está asintomática; su ritmo intestinal y diuresis son normales. En la exploración física presenta un mechón de pelo blanco frontal y una mácula acrómica de forma triangular en la región frontal. No tiene otras lesiones cutáneas. El resto de la exploración es normal, con desarrollo psicomotor hasta el momento normal.
+    Resumen de pruebas complementarias: Se sospecha clínicamente un piebaldismo, pero se solicitan pruebas complementarias para comprobar que no presenta anomalías oftalmológicas ni sordera, que deben estar ausentes para confirmar el diagnóstico clínico de piebaldismo. Con la valoración oftalmológica se descartaron lesiones oculares y se realizaron potenciales evocados auditivos, que fueron normales.
+    En la ecografía abdominal se confirmó la presencia de un riñón derecho pélvico sin otras anomalías.
+    Se solicitó estudio analítico (hemograma y química), que fue normal, y estudio genético para mutación del gen KIT (OMIM 164920) (4q12), que fue negativo. Se detectó una variante en heterocigosis en el gen KIT de significado clínico desconocido [c.2509G>A;(p.Ala837Thr)] (en el padre también resultó negativo).
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Julia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Morata Alba</TAG>. <TAG TYPE="HOSPITAL">Hospital Ramón y Cajal</TAG>. <TAG TYPE="DIREC_PROT_INTERNET">Ctra. De Colmenar Viejo, km. 9,100, 28034 Madrid</TAG>. Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">juliamorataalba@gmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

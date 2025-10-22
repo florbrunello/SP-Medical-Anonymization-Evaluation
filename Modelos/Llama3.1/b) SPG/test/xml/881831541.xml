@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Isabel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Bravo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santos</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">57673279C</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/05/1946</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Barquillo 17, 9Z</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Logroño</TAG>, <TAG TYPE="TERRITORIO">Almería</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">04862</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">isabel.bravo15@imibic.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 950 46 45 70</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 650 89 03 00</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3834940</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Luis</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Avila Bermudez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">120809432</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Principal en Optometría Clínica</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">19/09/1994</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">65586678</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Virgen de la Luz</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">8397JKD</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Chrysler Pacifica</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSXF8KALMJX528743</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">musulman</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">48 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tío</TAG>.
+  </TEXT>
+</MEDDOCAN>

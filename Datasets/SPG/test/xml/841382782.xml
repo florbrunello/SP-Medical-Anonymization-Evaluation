@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Manuela Muñoz Cruz
+DNI: 50779635M
+Fecha de nacimiento: 29/12/1938
+Género: Mujer
+Domicilio: Calle de las Tres Cruces 91
+Ciudad: Córdoba, Ibiza, Islas Baleares
+Código postal: 07903
+Email: munoz470@udc.es
+Teléfono fijo: +34 971 02 77 15
+Teléfono móvil: +34 771 01 61 10
+NHC: 7655388
+NASS: 709942523510
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dr. Mariano Hidalgo Ríos. NC 189749713. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/03/1990
+Episodio: 38668114
+Hospital: Complejo Asistencial Universitario Salamanca
+Matrícula del coche: 2947DNL
+Modelo: BMW 3 Series
+VIN: VSDV3SEI0KK272636
+
+Informe clínico del paciente:
+Paciente no fumador de 51 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Manuela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="46" text="Muñoz Cruz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="50779635M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="29/12/1938" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="107" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="146" text="Calle de las Tres Cruces 91" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="162" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="169" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="185" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="07903" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="229" text="munoz470@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="245" end="261" text="+34 971 02 77 15" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 771 01 61 10" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="300" end="307" text="7655388" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="314" end="326" text="709942523510" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="348" end="366" text="Ingeniero de Minas" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="401" end="421" text="Mariano Hidalgo Ríos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="426" end="435" text="189749713" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="437" end="469" text="Residente de 2° año en Pediatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="471" end="546" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="548" end="577" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="579" end="584" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="586" end="592" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="594" end="600" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="620" end="630" text="28/03/1990" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="641" end="649" text="38668114" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="660" end="704" text="Complejo Asistencial Universitario Salamanca" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="726" end="733" text="2947DNL" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="760" end="777" text="VSDV3SEI0KK272636" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="818" end="828" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="832" end="839" text="51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

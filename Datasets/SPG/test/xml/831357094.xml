@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Noelia Menendez Palacios
+DNI: 51833107P
+Fecha de nacimiento: 08/07/1941
+Género: F
+Domicilio: Calle de la Libertad 52
+Ciudad: León, Soria, Castilla y León
+Código postal: 42249
+Email: noelia.palacios@yahoo.com
+Teléfono fijo: +34 975 85 20 78
+Teléfono móvil: +34 775 65 49 36
+NHC: 2535716
+NASS: 137493900288
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dra. Lara Guillen Salazar. NC 955738227. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/01/1981
+Episodio: 15760719
+Hospital: Hospital Clínic San Carlos
+Matrícula del coche: 8351HKU
+Modelo: Kia Sorento
+VIN: VSKQFOS2UFA605590
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 39 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Noelia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="52" text="Menendez Palacios" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="51833107P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="08/07/1941" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="144" text="Calle de la Libertad 52" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="157" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="164" text="Soria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="181" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="42249" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="235" text="noelia.palacios@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 975 85 20 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 775 65 49 36" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="2535716" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="137493900288" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="354" end="360" text="Médico" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="649" end="659" text="26/01/1981" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="670" end="678" text="15760719" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="689" end="715" text="Hospital Clínic San Carlos" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="737" end="744" text="8351HKU" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="770" end="787" text="VSKQFOS2UFA605590" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="831" end="864" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="868" end="875" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="902" end="907" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

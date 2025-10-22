@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Andrea</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jurado Escudero</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">88589331R</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/08/1966</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Lavapiés 47</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Vitoria</TAG>, <TAG TYPE="TERRITORIO">Málaga</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">29088</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">andrea.juradoescudero@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 60 46 94</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 651 36 48 91</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8832054</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bruno Morales Gutiérrez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">284988211</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Epidemiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/04/1984</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Tetuán</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">17 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">prima</TAG>.
+  </TEXT>
+</MEDDOCAN>

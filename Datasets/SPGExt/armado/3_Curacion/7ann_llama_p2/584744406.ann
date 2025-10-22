@@ -1,0 +1,42 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 0 20	Esperanza Gallardo Alarcon
+T2	ID_SUJETO_ASISTENCIA 25 39	78343474T
+T3	FECHAS 45 53	26/06/1976
+T4	SEXO_SUJETO_ASISTENCIA 56 59	Mujer
+T5	CALLE 63 79	Calle del Gobernador 75
+T6	TERRITORIO 83 97	Novelda, Ávila, Castilla y León
+T7	TERRITORIO 99 106	05692
+T8	CORREO_ELECTRONICO 109 134	esperanza-gallardo@imibic.org
+T9	NUMERO_TELEFONO 137 144	+34 920 14 05 05
+T10	NUMERO_TELEFONO 149 156	+34 720 03 79 26
+T11	ID_SUJETO_ASISTENCIA 162 171	4312593
+T12	ID_SUJETO_ASISTENCIA 175 184	797720770042
+T13	CONDICION_RIESGO 189 208	Trabajador de Almacén
+T14	NOMBRE_PERSONAL_SANITARIO 213 243	Dr. Albert Román Giménez
+T15	ID_TITULACION_PERSONAL_SANITARIO 246 257	817346416
+T16	PROFESION 260 272	Cardiólogo Especialista en Electrofisiología
+T17	INSTITUCION 275 296	Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)
+T18	CALLE 301 313	Avenida Monforte de Lemos 3-5
+T19	TERRITORIO 315 321	28029
+T20	PAIS 323 329	Madrid
+T21	FECHAS 333 343	02/12/1997
+T22	ID_CONTACTO_ASISTENCIAL 347 356	51951487
+T23	NOMBRE_INST_ALUDIDO 359 386	Centro de Salud Málaga Sur
+T24	NOMBRE_PERSONAL_SANITARIO 389 419	Dr. Albert Román Giménez
+T25	ID_TITULACION_PERSONAL_SANITARIO 422 433	817346416
+T26	NOMBRE_SUJETO_ASISTENCIA 437 463	Paciente de ascendencia indígena sudamericana
+T27	EDAD_SUJETO_ASISTENCIA 467 475	21 años
+T28	RELACION_FAMILIAR 479 486	a su padre
+T29	SINTOMAS 490 496	fiebre alta de 39,5°C, con dolor de cabeza y musculares
+T30	ESTADO_PACIENTE 498 505	en un estado de alerta, pero con signos de agotamiento
+T31	CONDICION_PREVIA 507 519	malaria en su infancia
+T32	CONDICION_PREVIA 522 534	infecciones respiratorias frecuentes
+T33	FECES_ZONA_ENDEMICA 537 547	en la región amazónica durante los últimos 6 meses
+T34	MEDICAMENTOS_PREVENTIVOS 550 559	medicamentos antimaláricos preventivos
+T35	SINTOMAS_INFECCION 562 571	síntomas de infección en las últimas 48 horas
+T36	RESULTADOS_DIAGNOSTICO 583 591	prueba de diagnóstico de malaria, que ha resultado positiva
+T37	REMITIDO_POR 594 604	Servicio de Urgencias del Centro de Salud Málaga Sur
+T38	NOMBRE_INST_ALUDIDO 607 636	Centro de Salud Málaga Sur
+T39	EXPLORACION_FISICA 639 648	Tª 39,5°C; T.A: 110/70 mmHg; Fc: 120 lpm
+T40	ESTADO_PACIENTE 651 660	consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación
+T41	EXPLORACION_FISICA 663 672	no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos
+T42	EXPLOR

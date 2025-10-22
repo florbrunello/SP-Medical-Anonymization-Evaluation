@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gloria</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Montoya Esteban</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">89101639F</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/01/1975</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Fúcar 44</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Tarragona</TAG>, <TAG TYPE="TERRITORIO">Ibiza</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">07585</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">VhYRheoIcbld9U@us.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 01 76 34</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 671 38 59 58</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1923476</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador Agrícola</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Álvaro</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Miguel López</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">115073425</TAG>. Residente de <TAG TYPE="PROFESION">3° año</TAG> en <TAG TYPE="PROFESION">Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada</TAG> (<TAG TYPE="ACRONIMO">IOBA</TAG>). <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">05/12/1999</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">44953617</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuengirola</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1821MZL</TAG>.
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Toyota Corolla</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSA7MDCBMYD061518</TAG>.
+    Informe clínico del paciente:
+    Paciente consumidor de alcohol de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">24 años</TAG> de edad, que refiere un cuadro de dolor en la región occipital y visión borrosa en el ojo izquierdo desde hace <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3 días</TAG>. Antecedentes personales relevantes incluyen episodios de ingesta excesiva de alcohol en fiestas y noches de ocio.
+    La exploración física revela: Tª <TAG TYPE="OTROS_SUJETO_ASISTENCIA">36,5 C</TAG>; T.A: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120/80 mmHg</TAG>; Fc: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">80 lpm</TAG>. Se encuentra consciente, orientado, sin signos de intoxicación aguda. En la exploración ocular se aprecia visión borrosa en el ojo izquierdo, con reducción de la agudeza visual en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">2/10</TAG>. La pupila izquierda está dilatada y no reacciona a la luz. La exploración de la región occipital revela dolor en la palpación y reducción de la movilidad cervical.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="OTROS_SUJETO_ASISTENCIA">14,5 g/dl</TAG>; leucocitos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">7.500/mm3</TAG> (neutrófilos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">60%</TAG>); plaquetas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">250.000/mm3</TAG>. VSG: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">10 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90%</TAG>; TTPA <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90 mg/dl</TAG>; urea <TAG TYPE="OTROS_SUJETO_ASISTENCIA">15 mg/dl</TAG>; creatinina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">0,7 mg/dl</TAG>; sodio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">135 mEq/l</TAG>; potasio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">4,2 mEq/l</TAG>; GOT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">12 U/l</TAG>; GPT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 U/l</TAG>; GGT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120 U/l</TAG>; calcio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Durante el ingreso se solicitan pruebas de imagen (<TAG TYPE="PROFESION">Ecografía</TAG> ocular, <TAG TYPE="PROFESION">TAC</TAG> craneal y <TAG TYPE="PROFESION">Rx</TAG> cervical) que no evidencian patología significativa, excepto la <TAG TYPE="PROFESION">Ecografía</TAG> ocular, que muestra una reducción de la agudeza visual en el ojo izquierdo debido a una lesión traumática.
+    Con el diagnóstico de lesión traumática ocular secundaria a ingesta excesiva de alcohol, se instaura tratamiento sintomático (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">antitérmicos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antiinflamatorios</TAG>, reposo y elevación ocular) así como tratamiento conservador (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">ausencia de tratamiento específico</TAG>).
+    Evolución y comentarios:
+    El paciente se encuentra en proceso de recuperación, con mejoría significativa en la visión borrosa en el ojo izquierdo y reducción del dolor en la región occipital. Se le ha informado sobre la importancia de evitar la ingesta excesiva de alcohol y de buscar ayuda médica en caso de episodios de intoxicación aguda.
+    Remitido por:
+    Se le ha remitido al paciente a un especialista en <TAG TYPE="PROFESION">Oftalmología</TAG> para una evaluación más detallada y tratamiento específico. Se le ha informado sobre la necesidad de seguir una dieta equilibrada y evitar actividades físicas que puedan exacerbar la lesión
+  </TEXT>
+</MEDDOCAN>

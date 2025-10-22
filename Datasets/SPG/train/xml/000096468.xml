@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Soledad Moreno Roca
+DNI: 23556552K
+Fecha de nacimiento: 09/01/1941
+Género: Mujer
+Domicilio: Calle de Almagro 80
+Ciudad: Denia, Valencia, Comunidad Valenciana
+Código postal: 46571
+Email: mariasoledad_roca@ucm.es
+Teléfono fijo: +34 960 66 89 48
+Teléfono móvil: +34 660 57 14 97
+NHC: 2409425
+NASS: 468043486571
+Condición de riesgo: Científico de Investigación
+
+Datos asistenciales.
+Médico: Dr. Juan Ramón Benito Vicente. NC 097900390. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/06/1996
+Centro de salud: Centro de Salud Carabanchel
+
+Informe clínico del paciente:
+Paciente sobreviviente de violencia de 55 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Soledad" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="53" text="Moreno Roca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="23556552K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="09/01/1941" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="114" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="145" text="Calle de Almagro 80" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="159" text="Denia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="169" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="191" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="46571" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="244" text="mariasoledad_roca@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 960 66 89 48" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="293" end="309" text="+34 660 57 14 97" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="315" end="322" text="2409425" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="329" end="341" text="468043486571" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="363" end="390" text="Científico de Investigación" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="425" end="450" text="Juan Ramón Benito Vicente" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="455" end="464" text="097900390" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="466" end="503" text="Investigador Clínico en Epidemiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="505" end="589" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="591" end="620" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="622" end="627" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="629" end="635" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="637" end="643" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="663" end="673" text="05/06/1996" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="691" end="718" text="Centro de Salud Carabanchel" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="759" end="785" text="sobreviviente de violencia" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="789" end="796" text="55 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="823" end="828" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

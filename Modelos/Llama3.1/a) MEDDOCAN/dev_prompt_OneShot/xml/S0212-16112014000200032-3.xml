@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alejandro</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gutierrez Ramos</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">69 74381545 11</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Av. San Francisco Javier, 16, 3G</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Sevilla</TAG>.
+    CP: <TAG TYPE="TERRITORIO">41005</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7412596</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/05/1937</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">73 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">15/11/2010</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ignacio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jiménez Varo</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">41 41 03264</TAG>.
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">73 años</TAG> diagnosticado de carcinoma epidermoide infiltrante de orofaringe G1, cT4b cN2, en tratamiento con quimioterapia y radioterapia hasta hacía 3 meses.
+    Presentó disfagia secundaria a la radioterapia tanto a sólidos como a líquidos, con pérdida ponderal de 10 kilogramos (kg) en dos meses. Recibió nutrición enteral a través de SNG durante dos años, y finalmente se programó la realización de GEP. Durante la realización de la endoscopia oral, se produjo sangrado al dilatar una estenosis en porción esofágica superior, por lo que se desistió de proseguir el procedimiento y se recurrió a la GRP, que se llevó a cabo sin incidencias.
+    Remitido por: Dr: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ignacio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jiménez Varo</TAG> <TAG TYPE="HOSPITAL">Hospital Universitario Virgen del Rocío</TAG> <TAG TYPE="CALLE">Reyes Católicos, 19 - 5o</TAG> <TAG TYPE="TERRITORIO" >Sevilla</TAG>, <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">ignaciojimenez85@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

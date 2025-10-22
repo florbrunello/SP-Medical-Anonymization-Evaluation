@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gregorio Pastor</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Benítez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">22696215E</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/02/1955</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Moratín 89</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Castellón de la Plana</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">17663</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">pastor_benitez@ub.edu</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 33 33 93</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 672 59 07 84</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3917466</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">666053686808</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Conductor de Camión</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Noelia Soriano Fuentes</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">502846387</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">18/08/2009</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">57537439</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Puerto Real</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">54 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

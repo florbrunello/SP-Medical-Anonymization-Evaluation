@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cristóbal</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rivas Montes</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">48451016K</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">12/11/2000</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Villalar 94, 7Z</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Xirivella</TAG>, <TAG TYPE="TERRITORIO">Barcelona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">08176</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">cristobal_montes624@h12o.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 932 05 83 71</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 634 87 72 75</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4165420</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">658958795387</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Minero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Moisés Sanz Arias</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">150584238</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Epidemiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/07/2013</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Aluche</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0221JHH</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Mazda CX-5</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSITD7SBX1H834011</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">descendencia africana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">12 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">AK009HNW661</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Eva Castillo Rico</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">78467456N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">22/04/2002</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Infantas 71</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG>, <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">13311</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">QCY0BKQo4u@ioba.med.uva.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 08 28 71</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 726 44 52 29</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7997999</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">78467456N</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Estudiante universitaria</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Bruno</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Hurtado Carrillo</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 188839464</TAG>. <TAG TYPE="PROFESION">Residente de 3° año en Psiquiatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">25/07/2018</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">73035580</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Cabueñes</TAG>
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipersensibilidad a los productos lácteos</TAG>, lo que ha llevado a una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dieta vegetariana</TAG> desde los 10 años de edad.
+    Evolución y comentarios:
+    El paciente ha estado experimentando <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas de ansiedad</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">depresión</TAG> desde hace unos meses, lo que ha afectado su capacidad para realizar actividades cotidianas.
+    Remitido por:
+    Se remitió al paciente desde el <TAG TYPE="CENTRO_SALUD">Servicio de Psicología</TAG> del <TAG TYPE="HOSPITAL">Hospital Universitario de Cabueñes</TAG>.
+    Informe clínico del paciente:
+    El paciente, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">16 años de edad</TAG>, se presenta con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas de ansiedad</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">depresión</TAG>. El paciente ha estado experimentando <TAG TYPE="OTROS_SUJETO_ASISTENCIA">problemas de sueño</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pérdida de apetito</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cambios en su estado de ánimo</TAG>. La exploración física revela: <TAG TYPE="FECHAS">Tª 37,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 80 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Se solicitan análisis de sangre para determinar los niveles de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">serotonina</TAG> y otros neurotransmisores. El tratamiento se centrará en la <TAG TYPE="PROFESION">terapia cognitivo-conductual</TAG> y la <TAG TYPE="PROFESION">medicación antidepresiva</TAG>. Se programará una revisión en 1 semana para evaluar la evolución del paciente.
+  </TEXT>
+</MEDDOCAN>

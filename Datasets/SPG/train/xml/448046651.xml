@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rebeca Redondo Espinosa
+DNI: 91746718V
+Fecha de nacimiento: 31/03/1994
+Género: M
+Domicilio: Calle del Marqués de Urquijo 8
+Ciudad: Palencia, Málaga, Andalucía
+Código postal: 29199
+Email: redondo_espinosa@protonmail.com
+Teléfono fijo: +34 951 15 70 74
+Teléfono móvil: +34 651 46 32 86
+NHC: 3835670
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dr. Pablo Guillen Aguilera. NC 383596067. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/11/2001
+Episodio: 01583532
+Hospital: Complejo Hospitalario Universitario de A Coruña
+
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 7 años de edad, acompañado de su abuelo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Rebeca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="51" text="Redondo Espinosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="91746718V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="31/03/1994" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="150" text="Calle del Marqués de Urquijo 8" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="167" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="175" text="Málaga" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="186" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="29199" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="246" text="redondo_espinosa@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="262" end="278" text="+34 951 15 70 74" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="295" end="311" text="+34 651 46 32 86" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="317" end="324" text="3835670" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="346" end="367" text="Trabajador de Almacén" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="402" end="424" text="Pablo Guillen Aguilera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="429" end="438" text="383596067" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="440" end="472" text="Residente de 2° año en Pediatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="474" end="549" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="551" end="580" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="582" end="587" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="589" end="595" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="597" end="603" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="623" end="633" text="10/11/2001" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="644" end="652" text="01583532" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="663" end="710" text="Complejo Hospitalario Universitario de A Coruña" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="754" end="777" text="comunidades vulnerables" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="781" end="787" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="814" end="820" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

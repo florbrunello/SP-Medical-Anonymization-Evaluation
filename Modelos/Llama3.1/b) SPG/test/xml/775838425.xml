@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Joan</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mesa Blazquez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">82035184A</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/06/1963</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Leganitos 30</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Fuenlabrada</TAG>, <TAG TYPE="TERRITORIO">Ciudad Real</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">13889</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mesa1797@salud.madrid.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 926 29 80 80</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 726 86 77 92</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0798933</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Sanitización</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Abel Morales Rivera</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">688079866</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Neurología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">06/09/2009</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">24969222</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital de Manises</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG> de edad. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">HU346GXF600</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ángela Pastor Maldonado</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">73201532F</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/09/1967</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Velázquez 96</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Vitoria</TAG>, <TAG TYPE="TERRITORIO">Las Palmas</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">35448</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">pastor-maldonado@uca.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 928 27 98 59</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 628 95 32 64</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8771369</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">943400381825</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Sin especificar</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Esperanza Cabrera Quintana</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 198828949</TAG>. <TAG TYPE="PROFESION">Residente de 3° año en Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/04/2018</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">69864230</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Universitario San Cecilio</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia caribeña</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">50 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, se presentó en la consulta con queja de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">visión borrosa</TAG> en ambos ojos durante las últimas semanas. La exploración física revela: <TAG TYPE="FECHAS">Tª 36,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 80 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración oftalmológica se observa una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">miopía</TAG> de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">-2,50 dioptrías</TAG> en ambos ojos, con una visión de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20/20</TAG> en ambos ojos.
+    Se solicita una exploración más detallada, incluyendo una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ecografía de la retina</TAG> y un análisis de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">visión periférica</TAG>. Se le prescribe un tratamiento con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gotas oftálmicas de timolol</TAG> para reducir la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">presión intraocular</TAG> y un seguimiento en 1 semana.
+    Antecedentes:
+    La paciente tiene un antecedente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cirugía de catarata</TAG> en el ojo derecho 5 años atrás, y ha estado tomando medicamentos para la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG> durante varios años.
+    Evolución y comentarios:
+    La paciente se mostró <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cooperativa</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiosa por mejorar su visión</TAG>. Se le proporcionó información sobre la importancia de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">adherencia al tratamiento</TAG> y la necesidad de un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">seguimiento regular</TAG>.
+    Remitido por:
+    Se remite a la paciente al <TAG TYPE="PROFESION">Servicio de Oftalmología</TAG> para un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">seguimiento en 1 semana</TAG>. Se le recuerda la importancia de llevar un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">registro de su tratamiento</TAG> y de presentarse en la consulta con cualquier <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntoma nuevo o inusitado</TAG>.
+  </TEXT>
+</MEDDOCAN>

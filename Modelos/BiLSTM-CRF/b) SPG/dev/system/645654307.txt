@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Montserrat Contreras Carrillo
+DNI: 71457176V
+Fecha de nacimiento: 26/04/2001
+Género: M
+Domicilio: Calle de Lavapiés 12, 5X
+Ciudad: Aranda de Duero, Ciudad Real, Castilla-La Mancha
+Código postal: 13791
+Email: montserrat_contreras@ual.es
+Teléfono fijo: +34 926 32 85 42
+FAX: +34 926 41 68 24
+NHC: 8649924
+NASS: 636730738141
+Condición de riesgo: Trabajador de Línea de Producción
+
+Datos asistenciales.
+Médico: Dr. Juan Pedro Ibáñez Rico. NC 550025198. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/09/2003
+Centro de salud: Centro de Salud Majadahonda
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 2 años de edad, acompañado de su padre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-dermatology.org. Se registró una sesión de huella dactilar, el código obtenido para revisarla es NK353PBK433. Se registró una sesión de firma biométrica, el código obtenido para revisarla es MI243OJQ174. 

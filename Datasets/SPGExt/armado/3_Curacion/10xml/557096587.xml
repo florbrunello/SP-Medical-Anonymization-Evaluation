@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Álvaro Santamaria Miranda</TAG>.
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">33449079H</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">03/09/1994</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Amor de Dios 39, 4T</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">Langreo</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">07733</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">miranda@aol.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 85 92 67</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 660 57 14 97</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2369130</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">678859038469</TAG>
+  Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador Industrial</TAG>
+  Datos asistenciales.
+  Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Rosa</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Iglesias Montero</TAG> NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">081132438</TAG>. Investigadora Clínica en Enfermedades Digestivas. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">11/01/2016</TAG>
+  Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Complejo Hospitalario Universitario de Lugo</TAG>
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">21 años</TAG> de edad, que acude al servicio de urgencias con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal crónico</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pérdida de peso</TAG> durante los últimos tres meses. El paciente tiene antecedentes de una infección por <TAG TYPE="OTRO_NUMERO_IDENTIF">Helicobacter pylori</TAG> en el pasado, y actualmente está tomando medicamentos para controlar la enfermedad.
+  La exploración física revela un abdomen dolorido y distendido, con tendencia a la diarrea. La temperatura corporal es de <TAG TYPE="FECHAS">37,5°C</TAG>, y la frecuencia cardíaca es de <TAG TYPE="FECHAS">110 lpm</TAG>. El paciente está consciente y orientado, pero presenta una apariencia general de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">mal estado de salud</TAG>.
+  Los resultados de los análisis de sangre muestran una anemia leve y una inflamación en el tracto gastrointestinal. La ecografía abdominal revela una enfermedad inflamatoria intestinal, con presencia de úlceras y adhesiones en el intestino delgado.
+  El paciente es diagnosticado con enfermedad inflamatoria intestinal, y se le prescribe un tratamiento con medicamentos antiinflamatorios y antibióticos. Se le recomienda una dieta especial y se le realiza un seguimiento regular para controlar la evolución de la enfermedad.
+  Antecedentes:
+  El paciente tiene antecedentes de infección por <TAG TYPE="OTRO_NUMERO_IDENTIF">Helicobacter pylori</TAG> en el pasado, y actualmente está tomando medicamentos para controlar la enfermedad.
+  Evolución y comentarios:
+  El paciente presenta una evolución favorable al tratamiento, con disminución de los síntomas y mejora en el estado general. Se le realiza un seguimiento regular para controlar la evolución de la enfermedad.
+  Remitido por:
+  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Rosa</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Iglesias Montero</TAG>, Investigadora Clínica en Enfermedades Digestivas.
+  </TEXT>
+  </MEDDOCAN>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aitor</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sierra Manzano</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">60804925D</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/05/2009</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Covarrubias 55, 10B</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad autónoma de Ceuta</TAG>, <TAG TYPE="TERRITORIO">Ceuta</TAG>,
+    Código postal: <TAG TYPE="TERRITORIO">52241</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">aitorsierra_manzano@aol.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 09 68 03</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 756 58 38 98</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7791366</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">132605996404</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Paramédico</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Adriana Román Carrillo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">884723911</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">21/05/2023</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">68840571</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud San Blas</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermana</TAG>. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-research.net</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">firma biométrica</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">WM837VZU514</TAG>.
+  </TEXT>
+</MEDDOCAN>

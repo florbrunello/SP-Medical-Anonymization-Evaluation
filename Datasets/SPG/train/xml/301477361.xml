@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Isaac Paredes Durán
+DNI: 10265455A
+Fecha de nacimiento: 31/10/1961
+Género: H
+Domicilio: Calle del León 63, 8M
+Ciudad: Telde, Álava, Pais Vasco
+Código postal: 01060
+Email: isaac-paredes@gmail.com
+Teléfono fijo: +34 945 02 91 46
+Teléfono móvil: +34 745 51 75 07
+NHC: 7375971
+NASS: 979073765909
+
+Datos asistenciales.
+Médico: Dra. Belén Silva Bueno. NC 050678014. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/06/1992
+Episodio: 27474038
+Hospital: Hospital Universitari Vall d'Hebron
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 30 años de edad, acompañado de su vecina. Se realizó un expediente con URL http://example-clinica.com//29300248X. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Isaac" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Paredes Durán" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="10265455A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="31/10/1961" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="137" text="Calle del León 63, 8M" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="151" text="Telde" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="158" text="Álava" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="160" end="170" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="186" end="191" text="01060" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="199" end="222" text="isaac-paredes@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="238" end="254" text="+34 945 02 91 46" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="271" end="287" text="+34 745 51 75 07" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="293" end="300" text="7375971" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="307" end="319" text="979073765909" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="588" end="598" text="12/06/1992" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="609" end="617" text="27474038" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="628" end="663" text="Hospital Universitari Vall d'Hebron" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="707" end="731" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="735" end="742" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="769" end="775" text="vecina" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="810" end="832" text="http://example-clinica" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

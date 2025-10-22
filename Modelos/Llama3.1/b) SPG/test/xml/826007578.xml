@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aitor</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mateos Domínguez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">82153024Z</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">25/04/1943</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de San Bernardo 14, 5B</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Eibar</TAG>, <TAG TYPE="TERRITORIO">Formentera</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07027</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">aitordominguez@us.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 06 10 99</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 771 88 64 21</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1958861</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">085636893699</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Fabricante</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lourdes Guerrero Jurado</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">004322879</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuróloga Investigadora en Trastornos Cognitivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">09316095</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Barajas</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">81 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

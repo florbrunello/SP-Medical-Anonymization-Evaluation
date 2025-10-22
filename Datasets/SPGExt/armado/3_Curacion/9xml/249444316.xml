@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Esther Rivas Gil</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">26065198B</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/06/1985</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Marqués de Cubas 59, 8P</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Zamora</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">17600</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">esther.rivas1644@ioba.med.uva.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 47 16 27</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 672 13 09 56</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1704273</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">579304414904</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Minería</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Izan Herrero Ruiz</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 415740039</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Epidemiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/09/1991</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">12429291</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Arganzuela</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años</TAG> de edad, acompañado de su abuela. Presenta una temperatura corporal de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">38,5°C</TAG> y muestra signos de infección respiratoria aguda, con tos seca y dificultad para respirar. La exploración física revela ausencia de adenopatías y pulmones normales, pero con signos de inflamación en las vías respiratorias inferiores.
+    La historia clínica indica que el paciente ha estado expuesto a un virus respiratorio en el colegio, y que ha desarrollado síntomas en las últimas 48 horas. El paciente también ha presentado vómitos y diarrea en las últimas 24 horas.
+    Los análisis de laboratorio muestran un aumento en la cuenta de leucocitos y un nivel elevado de proteína C-reactiva, lo que sugiere una infección activa. La radiografía de tórax muestra signos de infección en los pulmones.
+    Se ha iniciado el tratamiento con antibióticos y se está administrando oxígeno para ayudar al paciente a respirar. El paciente está siendo monitoreado de cerca y se están realizando análisis de laboratorio regulares para evaluar la respuesta al tratamiento.
+    Evolución y comentarios:
+    El paciente ha mostrado una mejoría significativa en los primeros 24 horas de tratamiento, con una reducción en la temperatura corporal y una mejoría en los síntomas respiratorios. Sin embargo, sigue siendo necesario un seguimiento estrecho para asegurarse de que la infección no se agrave.
+    Remitido por:
+    El paciente ha sido remitido al servicio de Pediatría para su seguimiento y tratamiento continuo. Se recomienda que se realicen análisis de laboratorio regulares y se monitoree la evolución del paciente para asegurarse de que la infección no se agrave.
+  </TEXT>
+</MEDDOCAN>

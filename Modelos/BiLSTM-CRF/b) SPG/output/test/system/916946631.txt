@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Adolfo Rivas Miranda
+DNI: 12371790K
+Fecha de nacimiento: 04/12/1930
+Género: Varón
+Domicilio: Calle del Doctor Esquerdo 36
+Ciudad: Burgos, Zaragoza, Aragón
+Código postal: 50194
+Email: adolfo@h12o.es
+Teléfono fijo: +34 976 92 86 89
+Teléfono móvil: +34 676 53 51 91
+NHC: 1114695
+Condición de riesgo: Trabajador de Sanitización
+
+Datos asistenciales.
+Médico: Dra. Ana Isabel Gracia Aranda. NC 524284575. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 21/04/2010
+Episodio: 42600945
+Hospital: Hospital Universitario Rey Juan Carlos de Mostoles
+Matrícula del coche: 7518RJM
+Modelo: BMW 3 Series
+VIN: VSSJH9RVYVR579168
+
+Informe clínico del paciente:
+Paciente de tez blanca de 79 años de edad, acompañado de su hija. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es BR500QXS297. 

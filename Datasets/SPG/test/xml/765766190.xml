@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Oliver Torres Conde
+DNI: 95895085N
+Fecha de nacimiento: 29/09/1929
+Género: Varón
+Domicilio: Calle de la Magdalena 85, 7G
+Ciudad: Úbeda, Asturias, Asturias
+Código postal: 33751
+Email: torres@ucm.es
+Teléfono fijo: +34 984 51 93 75
+Teléfono móvil: +34 784 63 13 56
+NHC: 3190168
+Condición de riesgo: Electricista
+
+Datos asistenciales.
+Médico: Dr. Jon Pérez Soto. NC 858584876. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 27/11/1979
+Episodio: 51163929
+Hospital: Hospital Regional Universitario de Málaga
+
+Informe clínico del paciente:
+Paciente vegano de 50 años de edad, acompañado de su compañero de trabajo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Oliver" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Torres Conde" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="95895085N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="29/09/1929" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="108" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="148" text="Calle de la Magdalena 85, 7G" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="162" text="Úbeda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="172" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="182" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="33751" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="224" text="torres@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="240" end="256" text="+34 984 51 93 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="273" end="289" text="+34 784 63 13 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="295" end="302" text="3190168" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="324" end="336" text="Electricista" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="371" end="385" text="Jon Pérez Soto" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="390" end="399" text="858584876" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="401" end="444" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="446" end="504" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="506" end="530" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="532" end="537" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="539" end="549" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="551" end="557" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="577" end="587" text="27/11/1979" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="598" end="606" text="51163929" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="617" end="658" text="Hospital Regional Universitario de Málaga" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="699" end="705" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="709" end="716" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="743" end="752" text="compañero" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

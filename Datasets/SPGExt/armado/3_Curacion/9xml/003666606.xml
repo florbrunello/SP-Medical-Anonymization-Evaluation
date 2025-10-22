@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Manuela</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Morales Cabrera</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">67539363R</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/01/1989</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Embajadores 61, 6X</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Elda</TAG>, <TAG TYPE="TERRITORIO">Teruel</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">44075</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">manuela@uca.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 978 49 11 69</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 678 44 45 86</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6194951</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">46753498675</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Estudiante universitaria</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Susana Carmona Rey</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">610597653</TAG>. <TAG TYPE="PROFESION">Investigadora Clínica en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">50535453</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Valdemoro</TAG>.
+    Cargo del médico: <TAG TYPE="PROFESION">Investigadora Clínica en Medicina Interna</TAG>.
+    Dirección del médico: <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="SEXO_SUJETO_ASISTENCIA">judío</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">36 años</TAG> de edad, acompañado de su amigo, que refiere dolor abdominal crónico y pérdida de peso en los últimos meses. La exploración física revela: Tª <TAG TYPE="FECHAS">37,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">80 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración ni alteraciones respiratorias. En cabeza y cuello no se palpan adenopatías ni bocio. En la exploración abdominal se aprecia un aumento de la barriga, sin dolor a la palpación. La orina es de color amarillo claro y la heces son normales.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">12,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">8.000/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">90%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">90 mg/dl</TAG>; urea <TAG TYPE="FECHAS">20 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,2 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">4,0 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">15 U/l</TAG>; GPT <TAG TYPE="FECHAS">20 U/l</TAG>; GGT <TAG TYPE="FECHAS">25 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">100 U/l</TAG>; calcio <TAG TYPE="FECHAS">9,0 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía abdominal y TAC abdominal) que no evidencian patología significativa. Con el diagnóstico de enfermedad inflamatoria intestinal se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y dieta especial) y tratamiento farmacológico específico: <TAG TYPE="OTRO_NUMERO_IDENTIF">Mesalazina 2 gramos</TAG> vía oral cada 8 horas (durante 6 semanas). El paciente mejora significativamente de su cuadro tras una semana de tratamiento, decidiéndose el alta a su domicilio donde continuará con el tratamiento.
+    Antecedentes:
+    La paciente tiene antecedentes de enfermedades alérgicas y asma bronquial.
+    Evolución y comentarios:
+    La paciente evoluciona bien en el tratamiento y se realiza una revisión en consultas para controlar la evolución del cuadro.
+    Remitido por:
+    Remitido por: el <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Pérez García</TAG>, <TAG TYPE="PROFESION">médico de cabecera</TAG> de la paciente.
+  </TEXT>
+</MEDDOCAN>

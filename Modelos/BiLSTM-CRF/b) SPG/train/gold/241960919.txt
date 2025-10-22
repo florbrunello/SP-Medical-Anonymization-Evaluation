@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Omar Redondo López
+DNI: 59101862G
+Fecha de nacimiento: 24/08/1953
+Género: V
+Domicilio: Calle de Recoletos 85, 1W
+Ciudad: Ontinyent, Cantabria, Cantabria
+Código postal: 39186
+Email: omar@ual.es
+Teléfono fijo: +34 942 71 15 48
+Teléfono móvil: +34 742 59 31 72
+NHC: 2447895
+NASS: 827897174431
+Condición de riesgo: Fabricante
+
+Datos asistenciales.
+Médico: Dr. Christian Pérez Lozano. NC 711557722. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 31/08/2015
+Episodio: 75739897
+Centro de salud: Centro de Salud Aluche
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 62 años de edad. Se realizó un expediente con URL http://example-healthcare.net//63326176N. 

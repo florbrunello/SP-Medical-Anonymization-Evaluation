@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Javier Núñez Alarcon
+DNI: 32897460P
+Fecha de nacimiento: 23/04/2008
+Género: V
+Domicilio: Calle del Prado 92, 2Q
+Ciudad: San Sebastián, Burgos, Castilla y León
+Código postal: 09353
+Email: alarcon770@isciii.es
+Teléfono fijo: +34 947 12 26 63
+Teléfono móvil: +34 747 30 77 09
+NHC: 9255323
+NASS: 697406939885
+Condición de riesgo: Policía
+
+Datos asistenciales.
+Médico: Dr. Eric Valero Millan. NC 033551388. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/07/2008
+Episodio: 65935482
+Centro de salud: Centro de Salud Málaga Oeste
+
+Informe clínico del paciente:
+Paciente exfumador de 2 meses de edad, acompañado de su madre. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es FZ253TPZ757. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="José Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="53" text="Núñez Alarcon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="32897460P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="23/04/2008" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="144" text="Calle del Prado 92, 2Q" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="166" text="San Sebastián" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="174" text="Burgos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="191" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="207" end="212" text="09353" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="220" end="240" text="alarcon770@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 947 12 26 63" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="289" end="305" text="+34 747 30 77 09" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="311" end="318" text="9255323" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="325" end="337" text="697406939885" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="359" end="366" text="Policía" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="401" end="419" text="Eric Valero Millan" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="424" end="433" text="033551388" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="435" end="470" text="Neurólogo Especialista en Alzheimer" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="472" end="561" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="563" end="592" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="594" end="599" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="601" end="607" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="609" end="615" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="635" end="645" text="17/07/2008" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="656" end="664" text="65935482" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="682" end="710" text="Centro de Salud Málaga Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="751" end="760" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="764" end="771" text="2 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="798" end="803" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="886" end="897" text="FZ253TPZ757" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

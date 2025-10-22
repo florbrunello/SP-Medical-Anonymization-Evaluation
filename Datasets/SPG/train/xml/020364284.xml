@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Christian Prieto Luque
+DNI: 88007140D
+Fecha de nacimiento: 08/03/1960
+Género: V
+Domicilio: Calle de Juan Bravo 4, 8C
+Ciudad: Avilés, Toledo, Castilla-La Mancha
+Código postal: 45565
+Email: christianprieto@yahoo.com
+Teléfono fijo: +34 925 08 95 03
+Teléfono móvil: +34 725 67 21 13
+NHC: 3898396
+NASS: 745841070339
+Condición de riesgo: Farmacéutico
+
+Datos asistenciales.
+Médico: Dr. Mohammed Mora Gracia. NC 105847190. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/07/1991
+Hospital: Complejo Hospitalario Universitario de Santiago
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 31 años de edad, acompañado de su hija. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Christian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="50" text="Prieto Luque" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="88007140D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="08/03/1960" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="144" text="Calle de Juan Bravo 4, 8C" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="159" text="Avilés" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="167" text="Toledo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="187" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="45565" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="241" text="christianprieto@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 925 08 95 03" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="290" end="306" text="+34 725 67 21 13" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="312" end="319" text="3898396" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="326" end="338" text="745841070339" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="360" end="372" text="Farmacéutico" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="407" end="427" text="Mohammed Mora Gracia" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="432" end="441" text="105847190" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="443" end="476" text="Residente de 5° año en Neurología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="478" end="567" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="569" end="598" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="600" end="605" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="607" end="613" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="615" end="621" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="641" end="651" text="24/07/1991" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="662" end="709" text="Complejo Hospitalario Universitario de Santiago" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="750" end="767" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="771" end="778" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="805" end="809" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

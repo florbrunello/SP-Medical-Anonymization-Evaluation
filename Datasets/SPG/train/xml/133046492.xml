@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Olga Casas Marti
+DNI: 48899703R
+Fecha de nacimiento: 23/03/1932
+Género: M
+Domicilio: Calle de los Jardines 37, 2O
+Ciudad: MelillaHuesca, Palencia, Castilla y León
+Código postal: 34840
+Email: casas@protonmail.com
+Teléfono fijo: +34 979 36 21 85
+Teléfono móvil: +34 779 14 92 15
+NHC: 8723100
+NASS: 886386115438
+Condición de riesgo: Trabajador Agrícola
+
+Datos asistenciales.
+Médico: Dr. Bruno Fernández Pascual. NC 695209757. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/03/1987
+Centro de salud: Centro de Salud Sevilla Oeste
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 54 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Olga" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="44" text="Casas Marti" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="48899703R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="23/03/1932" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="101" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="113" end="141" text="Calle de los Jardines 37, 2O" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="163" text="MelillaHuesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="173" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="190" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="34840" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="239" text="casas@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 979 36 21 85" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 779 14 92 15" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="8723100" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="324" end="336" text="886386115438" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="358" end="377" text="Trabajador Agrícola" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="412" end="435" text="Bruno Fernández Pascual" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="440" end="449" text="695209757" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="451" end="506" text="Gastroenterólogo Especialista en Enfermedades Hepáticas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="508" end="601" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="603" end="632" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="634" end="639" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="641" end="647" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="649" end="655" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="675" end="685" text="01/03/1987" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="703" end="732" text="Centro de Salud Sevilla Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="776" end="796" text="ascendencia asiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="800" end="807" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="834" end="841" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

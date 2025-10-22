@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ángel Casas Montoya
+DNI: 16965594N
+Fecha de nacimiento: 27/10/1984
+Género: Hombre
+Domicilio: Calle del Fúcar 85, 6D
+Ciudad: Liria, Granada, Andalucía
+Código postal: 18463
+Email: angelcasas_montoya@isciii.es
+Teléfono fijo: +34 958 55 08 22
+Teléfono móvil: +34 658 89 68 61
+NHC: 9360936
+
+Datos asistenciales.
+Médico: Dr. Enrique Márquez Durán. NC 203039696. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/04/2010
+Hospital: Complejo Hospitalario Torrecárdenas
+Matrícula del coche: 4247NXL
+Modelo: Honda CR-V
+VIN: VSK0F9RXU5P083901
+
+Informe clínico del paciente:
+Paciente vegetariano de 25 años de edad, acompañado de su amiga. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.56.194, con dirección MAC 38:05:13:99:A7:27. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Ángel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Casas Montoya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="16965594N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="27/10/1984" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="109" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="143" text="Calle del Fúcar 85, 6D" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="157" text="Liria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="166" text="Granada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="177" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="193" end="198" text="18463" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="206" end="234" text="angelcasas_montoya@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 958 55 08 22" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 658 89 68 61" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="9360936" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="347" end="368" text="Enrique Márquez Durán" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="373" end="382" text="203039696" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="384" end="421" text="Investigador Clínico en Epidemiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="423" end="507" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="509" end="538" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="540" end="545" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="547" end="553" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="555" end="561" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="581" end="591" text="27/04/2010" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T24" start="602" end="637" text="Complejo Hospitalario Torrecárdenas" TYPE="HOSPITAL" comment=""/>
+        <ID id="T25" start="659" end="666" text="4247NXL" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T26" start="691" end="708" text="VSK0F9RXU5P083901" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T27" start="749" end="760" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="764" end="771" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="798" end="803" text="amiga" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="911" end="928" text="38:05:13:99:A7:27" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

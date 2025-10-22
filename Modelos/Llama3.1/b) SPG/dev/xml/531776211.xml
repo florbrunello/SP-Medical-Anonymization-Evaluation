@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jesús</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Escudero Ruiz</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">57282215W</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/04/1986</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Amor de Dios 60</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Aranda de Duero</TAG>, <TAG TYPE="TERRITORIO">Las Palmas</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">35749</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">escudero137@ucm.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 928 97 05 72</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 628 76 38 32</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7848698</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">902606212871</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Residuos Sólidos</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Noa Redondo Hernández</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">638635451</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuropsicóloga Clínica Investigadora</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">16/09/2011</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">16363420</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Sur</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">25 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

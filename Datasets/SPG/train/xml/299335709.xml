@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ismael Sáez Varela
+DNI: 74952430F
+Fecha de nacimiento: 02/08/2007
+Género: V
+Domicilio: Calle de Santa Isabel 28
+Ciudad: Eibar, Ávila, Castilla y León
+Código postal: 05747
+Email: ismael.saez1633@us.es
+Teléfono fijo: +34 920 36 36 79
+Teléfono móvil: +34 620 03 44 05
+NHC: 9551728
+NASS: 920473268484
+Condición de riesgo: Operador de Equipos Mineros
+
+Datos asistenciales.
+Médico: Dra. Rosario Arias Tomas. NC 062390705. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/09/2016
+Episodio: 48208249
+Centro de salud: Centro de Salud Tetuán
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 9 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Ismael" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="46" text="Sáez Varela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="74952430F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="02/08/2007" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="139" text="Calle de Santa Isabel 28" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="153" text="Eibar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="160" text="Ávila" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="162" end="177" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="193" end="198" text="05747" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="206" end="227" text="ismael.saez1633@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="243" end="259" text="+34 920 36 36 79" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="276" end="292" text="+34 620 03 44 05" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="298" end="305" text="9551728" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="312" end="324" text="920473268484" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="346" end="373" text="Operador de Equipos Mineros" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="653" end="663" text="22/09/2016" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="674" end="682" text="48208249" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="700" end="722" text="Centro de Salud Tetuán" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="763" end="780" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="784" end="790" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="817" end="823" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

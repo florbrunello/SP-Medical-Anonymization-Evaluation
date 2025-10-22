@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Adrián Ferrer Miguel
+DNI: 95774421Y
+Fecha de nacimiento: 03/06/2010
+Género: Varón
+Domicilio: Calle de Ibiza 4
+Ciudad: Ferrol, Sevilla, Andalucía
+Código postal: 41895
+Email: ferrermiguel@us.es
+Teléfono fijo: +34 954 94 89 68
+Teléfono móvil: +34 754 59 21 45
+NHC: 8869801
+Condición de riesgo: Pintor de Construcción
+
+Datos asistenciales.
+Médico: Dra. Laura Ibáñez Sáez. NC 449210002. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/03/2016
+Episodio: 10718127
+Hospital: Hospital Universitario Virgen Macarena
+
+Informe clínico del paciente:
+Paciente de ascendencia caribeña de 5 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Adrián" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Ferrer Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="95774421Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="03/06/2010" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="137" text="Calle de Ibiza 4" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="152" text="Ferrol" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="154" end="161" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="163" end="172" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="188" end="193" text="41895" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="201" end="219" text="ferrermiguel@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="235" end="251" text="+34 954 94 89 68" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="268" end="284" text="+34 754 59 21 45" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="290" end="297" text="8869801" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="319" end="341" text="Pintor de Construcción" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="593" end="603" text="16/03/2016" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="614" end="622" text="10718127" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="633" end="671" text="Hospital Universitario Virgen Macarena" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="715" end="735" text="ascendencia caribeña" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="739" end="745" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="772" end="778" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

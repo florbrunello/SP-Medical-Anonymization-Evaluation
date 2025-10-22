@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Christian Moreno Domínguez</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">90334302P</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/04/1999</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Hortaleza 38</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG>, <TAG TYPE="TERRITORIO">Ávila</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">05493</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">christianmoreno_dominguez@udc.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 920 78 34 54</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 720 62 73 33</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3842147</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">782004284226</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Estudiante universitario</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Catalina Crespo Márquez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">686111100</TAG>. Residente de 5° año en Urología. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/08/2023</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">11111546</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Marqués de Valdecilla</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Sofía García Ramos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">987654321</TAG>. Jefa de Servicio de Urología. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTRO_NUMERO_IDENTIF">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">24 años</TAG> de edad, acompañado de su sobrina, refiere dolor abdominal crónico de localización variable en el último mes, con picos de intensidad en las últimas 48 horas. Antes de comenzar el cuadro estuvo en un viaje de fin de semana a la isla de La Palma, donde ingirió agua embotellada y frutas frescas. Entre los comensales aparecieron varios casos de gastroenteritis.
+    La exploración física revela: Tª <TAG TYPE="FECHAS">37,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">80 lpm</TAG>. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">14,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">8.000/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/ mm3</TAG>. VSG: <TAG TYPE="FECHAS">20 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">90%</TAG>; TTPA <TAG TYPE="FECHAS">20,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">100 mg/dl</TAG>; urea <TAG TYPE="FECHAS">20 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,0 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">140 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,8 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">15 U/l</TAG>; GPT <TAG TYPE="FECHAS">20 U/l</TAG>; GGT <TAG TYPE="FECHAS">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">120 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Durante el ingreso se solicitan Pruebas de imagen (Ecografía abdominal) que no evidencian patología significativa.
+    Con el diagnóstico de gastroenteritis aguda se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y hidratación) y tratamiento de soporte (electrolitos y líquidos). El paciente mejora significativamente de su cuadro tras 48 horas de ingreso, decidiéndose el alta a su domicilio.
+    Antecedentes:
+    El paciente tiene antecedentes de alergia a los antibióticos de la penicilina.
+  </TEXT>
+</MEDDOCAN>

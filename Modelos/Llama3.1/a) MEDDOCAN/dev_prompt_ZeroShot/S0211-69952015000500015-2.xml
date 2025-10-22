@@ -1,0 +1,53 @@
+```xml
+<informe_clinico>
+  <texto start="1" end="13" text="Nombre: Pedro." TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="14" end="30" text="Apellidos: Pineda Rivera." TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="31" end="38" text="NHC: 7348056." TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="39" end="62" text="NASS: 74 35613653 01." TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+  <texto start="63" end="77" text="Domicilio: C/ Los Cantos, 29, 5 A." TYPE="DIREC_PROT_INTERNET" comment=""/>
+  <texto start="78" end="96" text="Localidad/ Provincia: El Ejido." TYPE="LOCALIDAD" comment=""/>
+  <texto start="97" end="105" text="CP: 04700." TYPE="CP" comment=""/>
+  <texto start="106" end="116" text="Fecha de nacimiento: 18/06/1964." TYPE="FECHAS" comment=""/>
+  <texto start="117" end="123" text="País de nacimiento: España." TYPE="PAIS" comment=""/>
+  <texto start="124" end="128" text="Edad: 51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="129" end="130" text="Sexo: M." TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="131" end="140" text="Fecha de Ingreso: 20/12/2016." TYPE="FECHAS" comment=""/>
+  <texto start="141" end="164" text="Médico: María Adoración Martín Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+  <texto start="165" end="173" text="NºCol: 04 04 58930." TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+  <texto start="174" end="200" text="Informe clínico del paciente: Varón de 51 años." TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="201" end="207" text="ERCA de etiología no filiada" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="208" end="213" text="hipertenso" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="214" end="220" text="y en hemodiálisis desde 2005" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="221" end="230" text="con primer trasplante renal inmediatamente fallido" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="231" end="242" text="por trombosis arterial no inmunológica en octubre de 2007" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="243" end="246" text="recibiendo en dicho ingreso" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="247" end="252" text="transfusión de 2 unidades de hematíes" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="253" end="262" text="Aumento esporádico de transaminasas en 2009" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="263" end="274" text="hasta hacerse persistente desde diciembre de 2010" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="275" end="283" text="cifra máxima 28/40 UI/l GOT/GPT" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="284" end="294" text="Se diagnostica VHC oculto" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="295" end="304" text="14.700 copias/µg RNA total en CMSP" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="305" end="313" text="PCR y serología viral" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="314" end="321" text="al resto de pacientes de la unidad" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="322" end="327" text="así como al personal sanitario" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="328" end="333" text="sin detectar nuevos casos de infección clásica" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="334" end="337" text="por el VHC" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="338" end="344" text="Recibe segundo trasplante renal en octubre de 2013" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="345" end="354" text="tratándose con timoglobulina" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="355" end="363" text="tacrolimus" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="364" end="373" text="micofenolato" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="374" end="381" text="y corticoides" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="382" end="390" text="Tras 17 meses del trasplante" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="391" end="396" text="la carga viral en CMSP" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="397" end="405" text="se halla indetectable" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="406" end="412" text="y persisten negativos" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="413" end="418" text="el RNA por ultracentrifugación en suero" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="419" end="426" text="y el anticuerpo anti-VHC core de alta sensibilidad" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+  <texto start="427" end="439" text="Responsable clínico: Dra. María Adoración Martín Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+  <texto start="440" end="450" text="Unidad de Nefrología" TYPE="INSTITUCION" comment=""/>
+  <texto start="451" end="463" text="Hospital de Poniente" TYPE="HOSPITAL" comment=""/>
+  <texto start="464" end="474" text="Ctra. Málaga n.o 119" TYPE="CALLE" comment=""/>
+  <texto start="475" end="483" text="04700, El Ejido, Almería, España" TYPE="TERRITORIO" comment=""/>
+  <texto start="484" end="493" text="doritamg@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+</informe_clinico>
+```

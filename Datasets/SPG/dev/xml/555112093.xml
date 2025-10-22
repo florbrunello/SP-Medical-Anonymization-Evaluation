@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Noemí Conde Moreno
+DNI: 12357137L
+Fecha de nacimiento: 12/09/1929
+Género: F
+Domicilio: Calle de Hortaleza 22
+Ciudad: Onda, Huelva, Andalucía
+Código postal: 21182
+Email: noemi_conde_moreno@protonmail.com
+Teléfono fijo: +34 959 68 45 63
+Teléfono móvil: +34 759 60 80 65
+NHC: 5556520
+NASS: 843789375515
+
+Datos asistenciales.
+Médico: Dr. Miguel Ángel Macias Calderon. NC 612749958. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 18/11/2007
+Centro de salud: Centro de Salud Torrejón de Ardoz
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 78 años de edad, acompañado de su pareja. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es WY341IXC574. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Noemí" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="46" text="Conde Moreno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="12357137L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="12/09/1929" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="136" text="Calle de Hortaleza 22" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="149" text="Onda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="151" end="157" text="Huelva" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="159" end="168" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="184" end="189" text="21182" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="197" end="230" text="noemi_conde_moreno@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="246" end="262" text="+34 959 68 45 63" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="279" end="295" text="+34 759 60 80 65" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="301" end="308" text="5556520" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="315" end="327" text="843789375515" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="362" end="390" text="Miguel Ángel Macias Calderon" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="395" end="404" text="612749958" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="406" end="449" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="451" end="509" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="511" end="535" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="537" end="542" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="544" end="554" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="556" end="562" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="582" end="592" text="18/11/2007" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="610" end="643" text="Centro de Salud Torrejón de Ardoz" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="687" end="708" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="712" end="719" text="78 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="746" end="752" text="pareja" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T29" start="836" end="847" text="WY341IXC574" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

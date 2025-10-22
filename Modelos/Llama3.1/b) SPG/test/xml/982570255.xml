@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Adam Simon</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Villanueva</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">42817526J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/11/1992</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Ana 99</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Torrelodones</TAG>, <TAG TYPE="TERRITORIO">Vizcaya</TAG>, <TAG TYPE="TERRITORIO">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">48999</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">adamvillanueva278@uhu.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 946 76 82 09</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 646 98 90 78</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2523300</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">022204004785</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Médico</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gema Hurtado Merino</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">871218741</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Principal en Optometría Clínica</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/11/1999</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">55960149</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Severo Ochoa</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0773CHG</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Tesla Model 3</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSTD3QYPF9I684069</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">7 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+  </TEXT>
+</MEDDOCAN>

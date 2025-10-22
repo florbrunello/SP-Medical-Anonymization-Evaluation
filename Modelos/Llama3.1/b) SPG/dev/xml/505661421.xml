@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Omar</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gracia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Galvez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">38237823R</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">01/09/1972</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Embajadores</TAG> <TAG TYPE="NUMERO">29</TAG>, <TAG TYPE="TERRITORIO">3V</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Orense</TAG>, <TAG TYPE="TERRITORIO">Toledo</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">45576</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">omar.gracia@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 925 33 64 44</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 725 87 37 06</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0335175</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">104057180999</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Farmacéutico</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Antonio José</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Campos</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Trujillo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">095641884</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">16/09/1983</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">04988365</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Torrecárdenas</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia árabe</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">11 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de firma biométrica</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código obtenido</TAG> para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">GF745JGN223</TAG>.
+  </TEXT>
+</MEDDOCAN>

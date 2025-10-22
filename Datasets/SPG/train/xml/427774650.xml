@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Christian Martínez Ibáñez
+DNI: 40381585W
+Fecha de nacimiento: 21/11/1950
+Género: Varón
+Domicilio: Calle de la Magdalena 53
+Ciudad: Almería, Ávila, Castilla y León
+Código postal: 05082
+Email: ibanez@ciberned.es
+Teléfono fijo: +34 920 45 76 39
+FAX: +34 920 11 16 28
+NHC: 5882098
+NASS: 546811202275
+
+Datos asistenciales.
+Médico: Dr. Iñigo Soriano Hidalgo. NC 310388793. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/01/1986
+Episodio: 33783419
+Centro de salud: Centro de Salud Benalmádena
+
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 35 años de edad, acompañado de su compañero. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Christian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="53" text="Martínez Ibáñez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="40381585W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="21/11/1950" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="114" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="150" text="Calle de la Magdalena 53" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="166" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="173" text="Ávila" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="190" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="05082" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="237" text="ibanez@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="253" end="269" text="+34 920 45 76 39" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="275" end="291" text="+34 920 11 16 28" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="297" end="304" text="5882098" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="311" end="323" text="546811202275" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="358" end="379" text="Iñigo Soriano Hidalgo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="384" end="393" text="310388793" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="395" end="428" text="Residente de 5° año en Neurología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="430" end="519" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="521" end="550" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="552" end="557" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="559" end="565" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="567" end="573" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="593" end="603" text="09/01/1986" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="614" end="622" text="33783419" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="640" end="667" text="Centro de Salud Benalmádena" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="711" end="728" text="ascendencia árabe" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="732" end="739" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="766" end="775" text="compañero" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

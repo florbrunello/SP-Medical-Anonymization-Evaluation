@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Luz Conde Carrillo
+DNI: 88099852P
+Fecha de nacimiento: 06/03/1973
+Género: Mujer
+Domicilio: Calle de Santa Ana 9, 10N
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52630
+Email: IulYmW0Z3lZExK4@ciberisciii.es
+Teléfono fijo: +34 956 66 28 82
+FAX: +34 956 41 06 84
+NHC: 3418229
+NASS: 266167109904
+
+Datos asistenciales.
+Médico: Dr. Marcos Blanco Marti. NC 050179597. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/08/1999
+Hospital: Hospital Universitario Marqués de Valdecilla
+
+Informe clínico del paciente:
+Paciente de ascendencia caribeña de 26 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="María Luz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="52" text="Conde Carrillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="88099852P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="06/03/1973" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="113" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="150" text="Calle de Santa Ana 9, 10N" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="183" text="Ciudad autónoma de Ceuta" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="185" end="191" text="Ceuta," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="208" end="213" text="52630" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="221" end="251" text="IulYmW0Z3lZExK4@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="267" end="283" text="+34 956 66 28 82" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="289" end="305" text="+34 956 41 06 84" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T13" start="311" end="318" text="3418229" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="325" end="337" text="266167109904" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T15" start="372" end="391" text="Marcos Blanco Marti" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="396" end="405" text="050179597" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="407" end="446" text="Investigador Clínico en Síndromes Raros" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="448" end="523" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="525" end="554" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="556" end="561" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="563" end="569" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="571" end="577" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="597" end="607" text="12/08/1999" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T24" start="618" end="662" text="Hospital Universitario Marqués de Valdecilla" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T25" start="706" end="726" text="ascendencia caribeña" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T26" start="730" end="737" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

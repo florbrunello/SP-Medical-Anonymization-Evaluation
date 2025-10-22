@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gloria</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">García León</TAG>.
+  DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">49255460V</TAG>.
+  Fecha de nacimiento: <TAG TYPE="FECHAS">22/07/1969</TAG>.
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+  Domicilio: <TAG TYPE="CALLE">Calle de Bailén 25</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Segovia</TAG>, <TAG TYPE="TERRITORIO">La Coruña</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>.
+  Código postal: <TAG TYPE="TERRITORIO">15700</TAG>.
+  Email: <TAG TYPE="CORREO_ELECTRONICO">gloria1967@isciii.es</TAG>.
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 981 59 36 89</TAG>.
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 681 28 28 42</TAG>.
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2908176</TAG>.
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">448636078138</TAG>.
+  Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Operador de Maquinaria Pesada</TAG>.
+  Datos asistenciales.
+  Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Carlos</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Casas Sierra</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">885418136</TAG>. <TAG TYPE="PROFESION">Endocrinólogo</TAG> <TAG TYPE="PROFESION">Especialista en Diabetes</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba</TAG> (<TAG TYPE="INSTITUCION">IMIBIC</TAG>). <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">22/01/2002</TAG>.
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">15972942</TAG>.
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Gran Canaria Dr. Negrín</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">10/03/2023</TAG>.
+  Centro de salud de ingreso: <TAG TYPE="HOSPITAL">Hospital Universitario de Gran Canaria Dr. Negrín</TAG>.
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="SEXO_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">32 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipotiroidismo subclínico</TAG>, que acude al servicio de urgencias con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fatiga</TAG>, pérdida de peso y aumento de la frecuencia cardíaca. Presenta un nivel de <TAG TYPE="FECHAS">TSH</TAG> elevado en la exploración inicial, lo que sugiere un posible <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipotiroidismo subclínico</TAG>. La exploración física revela un estado de ánimo alterado, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nerviosismo</TAG>, y un aumento de la frecuencia cardíaca. La paciente también presenta un nivel de glucosa en sangre elevado, lo que sugiere una posible <TAG TYPE="OTROS_SUJETO_ASISTENCIA">resistencia a la insulina</TAG>.
+  La paciente tiene un historial de consumo de <TAG TYPE="OTRO_NUMERO_IDENTIF">suplementos de hierro</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">vitamina B12</TAG>, lo que podría estar relacionado con su <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipotiroidismo subclínico</TAG>. La exploración de laboratorio muestra un nivel de <TAG TYPE="FECHAS">TSH</TAG> elevado, un nivel de <TAG TYPE="FECHAS">T4</TAG> disminuido y un nivel de <TAG TYPE="FECHAS">T3</TAG> disminuido. La paciente también presenta un nivel de glucosa en sangre elevado y un nivel de <TAG TYPE="FECHAS">insulina</TAG> disminuido.
+  Se decide realizar una exploración de imagen con <TAG TYPE="PROFESION">resonancia magnética</TAG> de la glándula tiroides para evaluar la presencia de cualquier patología. La exploración de imagen muestra una glándula tiroides hipoplásica con una función reducida. Se decide iniciar el tratamiento con <TAG TYPE="PROFESION">levo-tiroido</TAG> para tratar el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipotiroidismo subclínico</TAG> y se le prescribe a la paciente un régimen de seguimiento para monitorear su función tiroidea y su estado de salud general.
+  La paciente se encuentra en una condición estable y se le indica que siga un régimen de seguimiento para monitorear su función tiroidea y su estado de salud general. Se le aconseja que siga un régimen de vida saludable, incluyendo una <TAG TYPE="OTRO_NUMERO_IDENTIF">dieta equilibrada</TAG> y un estilo de vida activo, para ayudar a controlar su <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipotiroidismo subclínico</TAG>.
+  Antecedentes:
+  - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hipotiroidismo subclínico</TAG>
+  - <TAG TYPE="OTRO_NUMERO_IDENTIF">Consumo de suplementos de hierro</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">vitamina B12</TAG>
+  - <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Resistencia a la insulina</TAG>
+  Evolución y comentarios:
+  La paciente se encuentra en una condición estable y se le indica que siga un régimen de seguimiento para monitorear su función tiroidea y su estado de salud general.
+  Remitido por:
+  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Carlos</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Casas Sierra</TAG>, <TAG TYPE="PROFESION">Endocrinólogo</TAG> <TAG TYPE="PROFESION">Especialista en Diabetes</TAG>, <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba</TAG> (<TAG TYPE="INSTITUCION">IMIBIC</TAG>). 
+  </TEXT>
+</MEDDOCAN>

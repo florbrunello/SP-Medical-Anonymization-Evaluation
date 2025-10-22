@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vanessa</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">García Rivera</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">20135609Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/03/2013</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Doctor Esquerdo 22, 4K</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Pamplona</TAG>, <TAG TYPE="TERRITORIO">Sevilla</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">41124</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">rivera@ucm.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 01 61 00</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 754 85 13 71</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6752665</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">797158886456</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>.
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Daniela Andres Martín</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">533675861</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuropsicóloga Clínica Investigadora</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">25/12/2015</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">06085604</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuenlabrada</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7897KJV</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mazda CX-5</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSIU777H7FV957341</TAG>
+    
+    Informe clínico del paciente:
+    Se registró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP (en red interna) 192.168.165.255</TAG>, con <TAG TYPE="IDENTIF_BIOMETRICOS">dirección MAC AB:50:03:38:31:FD</TAG>.
+  </TEXT>
+</MEDDOCAN>

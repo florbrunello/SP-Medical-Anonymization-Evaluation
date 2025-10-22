@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Martina Zamora García
+DNI: 35777377A
+Fecha de nacimiento: 14/03/1990
+Género: Femenino
+Domicilio: Calle de Áncora 36
+Ciudad: Santa Cruz de Tenerife, Las Palmas, Canarias
+Código postal: 35584
+Email: martinagarcia@h12o.es
+Teléfono fijo: +34 928 54 34 04
+Teléfono móvil: +34 628 87 90 14
+NHC: 5725125
+NASS: 865056415356
+
+Datos asistenciales.
+Médico: Dr. Jorge Vega Guerra. NC 716948734. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/12/2009
+Episodio: 12902898
+Hospital: Hospital Clínic Universitario San Cecilio
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática occidental de 19 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Martina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="49" text="Zamora García" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="35777377A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="14/03/1990" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="113" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="143" text="Calle de Áncora 36" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="174" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="176" end="186" text="Las Palmas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="188" end="196" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="212" end="217" text="35584" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="225" end="246" text="martinagarcia@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="262" end="278" text="+34 928 54 34 04" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="295" end="311" text="+34 628 87 90 14" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="317" end="324" text="5725125" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="331" end="343" text="865056415356" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="378" end="395" text="Jorge Vega Guerra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="400" end="409" text="716948734" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="411" end="451" text="Especialista en Enfermedades Infecciosas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="453" end="537" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="539" end="568" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="570" end="575" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="577" end="583" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="585" end="591" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="611" end="621" text="22/12/2009" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="632" end="640" text="12902898" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="651" end="692" text="Hospital Clínic Universitario San Cecilio" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="736" end="767" text="ascendencia asiática occidental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="771" end="778" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="805" end="810" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

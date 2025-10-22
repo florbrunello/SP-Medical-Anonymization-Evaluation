@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Alejandro Mendoza Galvez
+DNI: 61787147Q
+Fecha de nacimiento: 04/12/1958
+Género: H
+Domicilio: Calle de la Luna 65
+Ciudad: Palma, Ibiza, Islas Baleares
+Código postal: 07533
+Email: alejandro@ciberned.es
+Teléfono fijo: +34 971 59 71 11
+Teléfono móvil: +34 671 86 66 04
+NHC: 8587216
+NASS: 368106130992
+Condición de riesgo: Soldador
+
+Datos asistenciales.
+Médico: Dr. Omar Guerrero Maldonado. NC 298972407. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/09/1966
+Episodio: 07261286
+Centro de salud: Centro de Salud Aranjuez
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 7 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Alejandro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="52" text="Mendoza Galvez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="61787147Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="04/12/1958" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="109" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="140" text="Calle de la Luna 65" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="154" text="Palma" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="161" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="163" end="177" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="193" end="198" text="07533" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="206" end="227" text="alejandro@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="243" end="259" text="+34 971 59 71 11" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="276" end="292" text="+34 671 86 66 04" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="298" end="305" text="8587216" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="312" end="324" text="368106130992" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="346" end="354" text="Soldador" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="389" end="412" text="Omar Guerrero Maldonado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="417" end="426" text="298972407" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="428" end="472" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="474" end="560" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="562" end="591" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="593" end="598" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="600" end="606" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="608" end="614" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="634" end="644" text="18/09/1966" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="655" end="663" text="07261286" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="681" end="705" text="Centro de Salud Aranjuez" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="749" end="782" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="786" end="792" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="819" end="825" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

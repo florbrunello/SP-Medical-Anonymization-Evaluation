@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Arturo Mora Prieto
+DNI: 33496226S
+Fecha de nacimiento: 23/11/2015
+Género: M
+Domicilio: Calle de San Bernardo 64, 9J
+Ciudad: Socuéllamos, Tarragona, Cataluña
+Código postal: 43534
+Email: mora@ciberehd.org
+Teléfono fijo: +34 977 85 30 58
+Teléfono móvil: +34 777 90 21 93
+NHC: 7547353
+NASS: 932935932855
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dr. José Carlos Gutiérrez Ruiz. NC 371081132. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/07/2020
+Episodio: 71830277
+Centro de salud: Centro de Salud Conde de Casal
+
+Informe clínico del paciente:
+Paciente judío de 4 años de edad, acompañado de su tío. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Arturo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="46" text="Mora Prieto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="33496226S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="23/11/2015" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="143" text="Calle de San Bernardo 64, 9J" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="163" text="Socuéllamos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="174" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="176" end="184" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="43534" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="230" text="mora@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="246" end="262" text="+34 977 85 30 58" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="279" end="295" text="+34 777 90 21 93" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="301" end="308" text="7547353" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="315" end="327" text="932935932855" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="349" end="370" text="Trabajador de Almacén" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="405" end="431" text="José Carlos Gutiérrez Ruiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="436" end="445" text="371081132" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="447" end="502" text="Gastroenterólogo Especialista en Enfermedades Hepáticas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="504" end="597" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="599" end="628" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="630" end="635" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="637" end="643" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="645" end="651" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="671" end="681" text="25/07/2020" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="692" end="700" text="71830277" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="718" end="748" text="Centro de Salud Conde de Casal" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="789" end="794" text="judío" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="798" end="804" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="831" end="834" text="tío" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

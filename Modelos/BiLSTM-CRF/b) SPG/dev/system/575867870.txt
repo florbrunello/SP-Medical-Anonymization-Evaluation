@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Eric Campos Gallego
+DNI: 82705462S
+Fecha de nacimiento: 05/01/1944
+Género: V
+Domicilio: Calle del Gobernador 75
+Ciudad: Fuenlabrada, Segovia, Castilla y León
+Código postal: 40945
+Email: eric@hotmail.com
+Teléfono fijo: +34 921 27 59 44
+Teléfono móvil: +34 621 40 54 65
+NHC: 6510634
+NASS: 415241973104
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dr. Domingo Márquez Aguilera. NC 817309519. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/06/1978
+Centro de salud: Centro de Salud Villaverde
+Matrícula del coche: 0911BWX
+Modelo: Kia Sorento
+VIN: VSWA2QOS28H772436
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 34 años de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es YR911YSE425. 

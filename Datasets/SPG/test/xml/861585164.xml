@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sandra Castaño Sanz
+DNI: 13327974A
+Fecha de nacimiento: 06/06/1970
+Género: F
+Domicilio: Calle del Marqués de Urquijo 84
+Ciudad: Zamora, Almería, Andalucía
+Código postal: 04585
+Email: sandra@ciberehd.org
+Teléfono fijo: +34 950 55 38 62
+Teléfono móvil: +34 750 65 86 38
+NHC: 2020981
+NASS: 752275243070
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dra. Ana Belén Montoya Lara. NC 730681417. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/12/2008
+Hospital: Hospital Clínic Universitario de Valencia
+
+Informe clínico del paciente:
+Paciente no fumador de 38 años de edad, acompañado de su hija. El servidor para envío de información desde cual el usuario se comunica es smtp://example-healthcare.net. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Sandra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Castaño Sanz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="13327974A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="06/06/1970" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="147" text="Calle del Marqués de Urquijo 84" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="162" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="171" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="182" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="04585" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="230" text="sandra@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="246" end="262" text="+34 950 55 38 62" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="279" end="295" text="+34 750 65 86 38" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="301" end="308" text="2020981" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="315" end="327" text="752275243070" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="349" end="370" text="Trabajador de Almacén" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="653" end="663" text="30/12/2008" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="674" end="715" text="Hospital Clínic Universitario de Valencia" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="756" end="766" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="770" end="777" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="804" end="808" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="885" end="910" text="smtp://example-healthcare" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

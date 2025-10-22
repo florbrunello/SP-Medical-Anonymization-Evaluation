@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">David Exposito</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Serra</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">18252205A</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">16/06/1952</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Génova 8</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Langreo</TAG>, <TAG TYPE="TERRITORIO">Valencia</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">46963</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">davidexpositoserra@udc.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 960 96 00 88</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 760 73 35 67</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8314150</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">852566557466</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Minero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco José Quintana Aguilera</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">978605374</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Cardiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">22157272</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Getafe</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">judío</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">72 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

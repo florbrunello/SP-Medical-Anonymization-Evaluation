@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ainhoa Luque Diez
+DNI: 18636390L
+Fecha de nacimiento: 19/09/1992
+Género: F
+Domicilio: Calle de Zurbano 67, 8T
+Ciudad: Parla, Valencia, Comunidad Valenciana
+Código postal: 46325
+Email: diez@h12o.es
+Teléfono fijo: +34 960 82 31 87
+Teléfono móvil: +34 660 38 13 50
+NHC: 6244191
+Condición de riesgo: Conserje
+
+Datos asistenciales.
+Médico: Dr. Jonathan Calvo Montes. NC 446433817. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/11/2013
+Hospital: Hospital Universitario Virgen Macarena
+Matrícula del coche: 8220IRU
+Modelo: Honda CR-V
+VIN: VSQP7BKVAXE566422
+
+Informe clínico del paciente:
+Paciente judío de 21 años de edad, acompañado de su compañero de trabajo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Ainhoa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="45" text="Luque Diez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="18636390L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="19/09/1992" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="137" text="Calle de Zurbano 67, 8T" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="151" text="Parla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="161" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="163" end="183" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="199" end="204" text="46325" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="212" end="224" text="diez@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="240" end="256" text="+34 960 82 31 87" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="273" end="289" text="+34 660 38 13 50" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="295" end="302" text="6244191" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="324" end="332" text="Conserje" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="367" end="388" text="Jonathan Calvo Montes" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="393" end="402" text="446433817" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="404" end="443" text="Investigador Clínico en Síndromes Raros" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="445" end="520" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="522" end="551" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="553" end="558" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="560" end="566" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="568" end="574" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="594" end="604" text="07/11/2013" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="615" end="653" text="Hospital Universitario Virgen Macarena" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="675" end="682" text="8220IRU" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="707" end="724" text="VSQP7BKVAXE566422" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="765" end="770" text="judío" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="774" end="781" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="808" end="817" text="compañero" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

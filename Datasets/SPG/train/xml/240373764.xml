@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Antonio Padilla Ferrer
+DNI: 43905648M
+Fecha de nacimiento: 04/03/1943
+Género: M
+Domicilio: Calle Gran Vía 17
+Ciudad: Salamanca, Cantabria, Cantabria
+Código postal: 39236
+Email: joseantonio.padilla1839@isciii.es
+Teléfono fijo: +34 942 57 40 49
+Teléfono móvil: +34 742 51 13 84
+NHC: 7853339
+NASS: 565658909229
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dr. Jesús Izquierdo Pereira. NC 454642290. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/10/2004
+Episodio: 21116872
+Centro de salud: Centro de Salud Latina
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 61 años de edad, acompañado de su conviviente. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.235.91, con dirección MAC D3:3C:77:DC:ED:B8. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="40" text="José Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="41" end="55" text="Padilla Ferrer" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="43905648M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="04/03/1943" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="112" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="141" text="Calle Gran Vía 17" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="159" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="170" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="181" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="39236" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="243" text="joseantonio.padilla1839@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 942 57 40 49" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="292" end="308" text="+34 742 51 13 84" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="314" end="321" text="7853339" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="328" end="340" text="565658909229" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="362" end="368" text="Minero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="403" end="426" text="Jesús Izquierdo Pereira" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="431" end="440" text="454642290" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="442" end="486" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="488" end="574" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="576" end="605" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="607" end="612" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="614" end="620" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="622" end="628" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="648" end="658" text="18/10/2004" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="669" end="677" text="21116872" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="695" end="717" text="Centro de Salud Latina" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="761" end="790" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="794" end="801" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="828" end="839" text="conviviente" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="947" end="964" text="D3:3C:77:DC:ED:B8" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

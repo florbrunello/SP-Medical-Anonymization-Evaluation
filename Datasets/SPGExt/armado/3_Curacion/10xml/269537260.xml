@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ismael Cortés Simon</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">29240673Z</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/05/2018</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Alameda 31</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Getafe, Cuenca, Castilla-La Mancha</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">16284</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ismael_simon@icloud.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 969 83 15 82</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 769 40 40 72</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2913636</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">673172698156</TAG>.
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Dentista</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pedro Acosta Zamora</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">772348257</TAG>. <TAG TYPE="PROFESION">Gastroenterólogo</TAG> <TAG TYPE="PROFESION">Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">21/02/2024</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Regional Universitario de Málaga</TAG>.
+    Informe clínico del paciente:
+    El paciente fue ingresado en la unidad de gastroenterología por presentar una serie de síntomas que incluyen <TAG TYPE="OTRO_NUMERO_IDENTIF">diarrea crónica</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">pérdida de peso</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">falta de apetito</TAG>. El paciente tiene una historia de consumo de alimentos no pasteurizados y ha viajado recientemente a un país en vías de desarrollo. La exploración física revela un estado general de <TAG TYPE="OTRO_NUMERO_IDENTIF">malnutrición</TAG>, con un peso inferior al esperado para su edad. Los análisis de sangre muestran una <TAG TYPE="OTRO_NUMERO_IDENTIF">anemia moderada</TAG> y un aumento en las enzimas hepáticas. Se solicitan pruebas adicionales para determinar la causa subyacente de los síntomas, incluyendo una <TAG TYPE="PROFESION">biopsia intestinal</TAG> y un análisis de heces para detectar la presencia de parásitos.
+    La evolución del paciente ha sido estable, con una mejora en los síntomas después de la administración de antibióticos y un régimen de dieta especial. Se continua con la exploración diagnóstica para determinar la causa exacta de los síntomas y planificar el tratamiento adecuado.
+    La exploración física revela:
+    - <TAG TYPE="OTRO_NUMERO_IDENTIF">Temperatura</TAG>: 36,8°C
+    - <TAG TYPE="OTRO_NUMERO_IDENTIF">Presión arterial</TAG>: 110/60 mmHg
+    - <TAG TYPE="OTRO_NUMERO_IDENTIF">Frecuencia cardíaca</TAG>: 100 lpm
+    - <TAG TYPE="OTRO_NUMERO_IDENTIF">Estado general</TAG>: <TAG TYPE="OTRO_NUMERO_IDENTIF">malnutrición</TAG>
+    - <TAG TYPE="OTRO_NUMERO_IDENTIF">Exploración abdominal</TAG>: no se palpan adenopatías ni bocio
+    - <TAG TYPE="OTRO_NUMERO_IDENTIF">Exploración pulmonar</TAG>: conservación del murmullo vesicular
+    Los análisis de sangre muestran:
+    - <TAG TYPE="OTRO_NUMERO_IDENTIF">Hemograma</TAG>: Hb 10,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 70%)
+    - <TAG TYPE="OTRO_NUMERO_IDENTIF">Enzimas hepáticas</TAG>: ALT 120 U/l; AST 150 U/l
+    - <TAG TYPE="OTRO_NUMERO_IDENTIF">Análisis de heces</TAG>: positivo para la presencia de parásitos
+    Se solicitan pruebas adicionales para determinar la causa exacta de los síntomas y planificar el tratamiento adecuado.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Nora</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vidal Vázquez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2756876</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">98 10567859 06</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Ororbia, 8</TAG>, <TAG TYPE="TERRITORIO">4 Der</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Pamplona, Navarra</TAG>.
+    CP: <TAG TYPE="TERRITORIO">31015</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">29/06/1949</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">67 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">14/10/2013</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Cirugia oral y maxilofacial</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">94565643</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Daniel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pastor Zuazaga</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">31 31 57905</TAG>.
+    Informe clínico del paciente: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">67 años</TAG> de edad, fumadora de <TAG TYPE="OTRO_NUMERO_IDENTIF">6 cigarrillos/día</TAG>. Diagnosticada previamente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Cáncer de mama</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">T2 N0 M0</TAG>) tratado mediante <TAG TYPE="PROFESION">cirugía</TAG> asociada a <TAG TYPE="PROFESION">quimioterapia</TAG> y <TAG TYPE="PROFESION">radioterapia</TAG>. Debido a la progresión metastásica del carcinoma de mama se inició el tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">bisfosfonatos</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">pamidronato a dosis de 90 mg e.v. 20 ciclos</TAG>). Tras los primeros 9 ciclos de pamidronato es cuando la paciente es remitida a nuestra consulta de <TAG TYPE="PROFESION">Cirugía Oral y Maxilofacial</TAG> por parte de su <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">oncólogo</TAG> por sensación de <TAG TYPE="OTRO_NUMERO_IDENTIF">quemazón</TAG> y dolor gingival difuso con gingivorragias habituales, presentando una lesión ulcerosa de <TAG TYPE="OTRO_NUMERO_IDENTIF">5 mm de diámetro</TAG> en el borde lateral de hemilengua derecha muy dolorosa.
+    Se indicó la exodoncia del molar asociado con la lesión por decúbito lingual y de otros cuatro dientes sin viabilidad, apareciendo aproximadamente un mes tras cada exodoncia una lesión por exposición ósea en el lugar de las extracciones. Se realizaron desbridamientos limitados de las necrosis óseas complementados con <TAG TYPE="PROFESION">antibioterapia</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">amoxicilina-clavulánico</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">claritromicina</TAG>) y gel de <TAG TYPE="OTRO_NUMERO_IDENTIF">clorhexidina</TAG>. La evolución fue favorable en todas las zonas salvo la del molar mandibular, en la que la exposición del hueso perpetuaba el decúbito lingual, requiriendo una segunda ostectomía más agresiva. A pesar de no desaparecer completamente esta exposición se logró un correcto control del dolor de la paciente al desaparecer la lesión lingual. 
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Daniel Pastor Zuazaga</TAG> <TAG TYPE="PROFESION">Servicio de Cirugía Oral y Maxilofacial</TAG> <TAG TYPE="INSTITUCION">Hospital Virgen del Camino</TAG> - <TAG TYPE="TERRITORIO">Pamplona (Navarra)</TAG> <TAG TYPE="CALLE">C/ Irunlarrea 4</TAG> C.P.: <TAG TYPE="TERRITORIO">31008</TAG> Teléfono: <TAG TYPE="NUMERO_TELEFONO">848 429400</TAG> - Fax: <TAG TYPE="NUMERO_FAX">848 429924</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">dapazu@hotmail.com</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">jgaratec@cfnavarra.es</TAG>
+  </TEXT>
+</MEDDOCAN>

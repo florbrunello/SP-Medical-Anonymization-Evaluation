@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Guillermo</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pelaez Sanchez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">87054367</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Costa Rixa, 24, 3, D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Valencia</TAG>.
+    CP: <TAG TYPE="TERRITORIO">46022</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">20/09/2005</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">12 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">03/05/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Maria</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mercedes</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mingarro</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Castillo</TAG>. NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">46 28 69810</TAG>.
+    Informe clínico del paciente: paciente varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">12 años</TAG> de edad fruto de un parto a término con uso de fórceps por dilatación estacionaria. El Apgar y resto de exploraciones postparto fueron normales. Se indicó reposo durante el último trimestre de embarazo por amenaza de parto. Durante el periodo postnatal presentó retraso en el desarrollo psicomotor. A los 3 años presentó crisis de ausencias sin crisis epilépticas posteriores ni necesidad de tratamiento. Actualmente presenta retraso mental moderado, dificultades en el aprendizaje, alteraciones conductuales severas en el espectro del autismo, déficit en el control de esfínteres y trastorno de hiperactividad con déficit de atención, tratado primero con metilfenidato sin mejoría y, posteriormente y hasta la actualidad, con antioxidantes y mejoría del trastorno. Además presenta ansiedad social y fobias extremas a ruidos y animales, hipersensibilidad a sonidos, texturas y ciertos alimentos, así como dificultades en la masticación y vómitos secundarios, hipotonía generalizada, articulaciones laxas, pies valgos que han precisado intervención quirúrgica, y una importante alteración del sueño tratada con melatonina. No presenta alteraciones cardiológicas, ni disautonómicas, ni rasgos faciales característicos.
+    El paciente posee un hermano mayor sano, pero tiene un primo segundo por la rama materna de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG> de edad diagnosticado a los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> de SXF tras estudio genético. En aquel momento toda la rama familiar materna fue estudiada genéticamente y se comunicó oralmente, sin informe escrito, que tanto la madre del paciente caso como las hermanas de ésta eran portadoras sanas. Esta condición no fue suficientemente valorada por la familia ante sucesivos hijos sanos de las hermanas y el hermano sano del paciente caso. La madre del paciente caso no recibió consejo genético ni indicaciones de diagnóstico prenatal en ninguno de sus dos embarazos. Únicamente y a petición de la misma se realizó análisis genético en el periodo postnatal en ambos casos. El paciente requiere revisiones constantes cada 6 meses en nuestro centro de salud, debera llamar para pedir cita al teléfono <TAG TYPE="NUMERO_TELEFONO">912 53 25 20</TAG>
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Maria</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mercedes</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mingarro</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Castillo</TAG>. <TAG TYPE="CALLE">C/ Santos Justo y Pastor 144, P. 9, Esc. B.</TAG> <TAG TYPE="TERRITORIO">C.P. 46022</TAG> - <TAG TYPE="TERRITORIO">Valencia</TAG> (<TAG TYPE="PAIS">España</TAG>). Correo electrónico: <TAG TYPE="CORREO_ELECTRONICO">merchemingarro@yahoo.es</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Arturo Cano</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santamaria</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">80011889H</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/02/1971</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de O'Donnell 80</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Reus</TAG>, <TAG TYPE="TERRITORIO">Valencia</TAG>, <TAG TYPE="TERRITORIO">Comunidad Valenciana</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">46881</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">cano1239@ioba.med.uva.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 960 88 42 39</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 960 89 07 40</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9292476</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">800269240928</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Sanitización</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">José Ángel Alarcon Gallardo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">999328171</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Oftalmólogo Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/12/2012</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Nuestra Señora de Candelaria</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6094RPA</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Mercedes-Benz C-Class</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSTLTJ9ZI2D761491</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">41 años</TAG> de edad. Se registró una consulta virtual desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">192.168.142.107</TAG>, con <TAG TYPE="IDENTIF_BIOMETRICOS">dirección MAC</TAG> <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">76:1B:E9:17:0E:06</TAG>.
+  </TEXT>
+</MEDDOCAN>

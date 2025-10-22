@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Iñigo Salas Escobar
+DNI: 97746584B
+Fecha de nacimiento: 26/02/1990
+Género: H
+Domicilio: Calle de la Fe 85
+Ciudad: Fuenlabrada, Gerona, Cataluña
+Código postal: 17588
+Email: salas-escobar@imibic.org
+Teléfono fijo: +34 972 96 66 31
+Teléfono móvil: +34 672 22 06 86
+NHC: 1182930
+NASS: 498914918497
+Condición de riesgo: Trabajador de Sanitización
+
+Datos asistenciales.
+Médico: Dr. Enrique Vila Villar. NC 218427771. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 19/04/2007
+Centro de salud: Centro de Salud Málaga Sur
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 17 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Iñigo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Salas Escobar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="97746584B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="26/02/1990" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="133" text="Calle de la Fe 85" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="142" end="153" text="Fuenlabrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="161" text="Gerona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="163" end="171" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="187" end="192" text="17588" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="200" end="224" text="salas-escobar@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="240" end="256" text="+34 972 96 66 31" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="273" end="289" text="+34 672 22 06 86" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="295" end="302" text="1182930" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="309" end="321" text="498914918497" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="343" end="369" text="Trabajador de Sanitización" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="404" end="423" text="Enrique Vila Villar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="428" end="437" text="218427771" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="439" end="479" text="Investigador Clínico en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="481" end="548" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="550" end="577" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="579" end="584" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="586" end="593" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="595" end="601" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="621" end="631" text="19/04/2007" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="649" end="675" text="Centro de Salud Málaga Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="719" end="740" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="744" end="751" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

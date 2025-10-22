@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Antonio Cortés Avila</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">43124076L</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/11/1977</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Leganitos 61, 10A</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Elche</TAG>, <TAG TYPE="TERRITORIO">Vizcaya</TAG>, <TAG TYPE="TERRITORIO">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">48223</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">antonio@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 946 55 30 85</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 746 25 36 72</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4443649</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Pau Pérez Mateos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">000577307</TAG>. <TAG TYPE="PROFESION">Residente</TAG> de <TAG TYPE="PROFESION">3° año</TAG> en <TAG TYPE="PROFESION">Psiquiatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">12/08/2014</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">30223028</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Central de Asturias</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTRO_NUMERO_IDENTIF">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">36 años</TAG> de edad, acompañado de su prima, presenta síntomas de <TAG TYPE="OTRO_NUMERO_IDENTIF">ansiedad</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">estrés crónico</TAG>. La exploración física revela: <TAG TYPE="FECHAS">Tª 36,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 80 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de <TAG TYPE="OTRO_NUMERO_IDENTIF">nutrición</TAG> e <TAG TYPE="OTRO_NUMERO_IDENTIF">hidratación</TAG>. En cabeza y cuello no se palpan adenopatías, ni <TAG TYPE="OTRO_NUMERO_IDENTIF">bocio</TAG> ni <TAG TYPE="OTRO_NUMERO_IDENTIF">ingurgitación de vena yugular</TAG>, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del <TAG TYPE="OTRO_NUMERO_IDENTIF">murmurio vesicular</TAG>. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: <TAG TYPE="FECHAS">Hb 14,2 g/dl</TAG>; <TAG TYPE="FECHAS">leucocitos 7.500/mm3 (neutrófilos 55%)</TAG>; <TAG TYPE="FECHAS">plaquetas 180.000/ mm3</TAG>. VSG: <TAG TYPE="FECHAS">10 mm 1ª hora</TAG>. Coagulación: <TAG TYPE="FECHAS">TQ 90%</TAG>; <TAG TYPE="FECHAS">TTPA 20,5 seg</TAG>. Bioquímica: <TAG TYPE="FECHAS">Glucosa 90 mg/dl</TAG>; <TAG TYPE="FECHAS">urea 15 mg/dl</TAG>; <TAG TYPE="FECHAS">creatinina 0,8 mg/dl</TAG>; <TAG TYPE="FECHAS">sodio 138 mEq/l</TAG>; <TAG TYPE="FECHAS">potasio 4,2 mEq/l</TAG>; <TAG TYPE="FECHAS">GOT 18 U/l</TAG>; <TAG TYPE="FECHAS">GPT 22 U/l</TAG>; <TAG TYPE="FECHAS">GGT 30 U/l</TAG>; <TAG TYPE="FECHAS">fosfatasa alcalina 120 U/l</TAG>; <TAG TYPE="FECHAS">calcio 9,5 mg/dl</TAG>. Orina: <TAG TYPE="FECHAS">sedimento normal</TAG>.
+    Se solicitan pruebas de imagen (<TAG TYPE="FECHAS">TAC craneal</TAG>, <TAG TYPE="FECHAS">Ecografía abdominal</TAG>) para evaluar la posible causa de los síntomas. El paciente se encuentra bajo tratamiento con <TAG TYPE="PROFESION">antidepresivos</TAG> y <TAG TYPE="PROFESION">ansiolíticos</TAG> para controlar la <TAG TYPE="OTRO_NUMERO_IDENTIF">ansiedad</TAG> y el <TAG TYPE="OTRO_NUMERO_IDENTIF">estrés</TAG>.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTRO_NUMERO_IDENTIF">depresión mayor</TAG> en el pasado, pero ha estado en remisión durante los últimos 5 años. Ha sido tratado con <TAG TYPE="PROFESION">terapia cognitivo-conductual</TAG> y <TAG TYPE="PROFESION">medicación antidepresiva</TAG>.
+    Evolución y comentarios:
+    El paciente ha estado bajo seguimiento durante las últimas semanas y ha mostrado una respuesta favorable al tratamiento. Sin embargo, se requiere un seguimiento más estrecho para asegurarse de que los síntomas no se vuelvan a presentar.
+    Remitido por:
+    El paciente ha sido remitido a su médico de cabecera para seguir su tratamiento y controlar sus síntomas. Se le recomienda seguir tomando los medicamentos prescritos y realizar una revisión en el hospital en 6 semanas.
+    </TEXT>
+  </MEDDOCAN>

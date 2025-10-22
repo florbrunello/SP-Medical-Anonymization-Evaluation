@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Álvaro Serra Espinosa
+DNI: 99577919V
+Fecha de nacimiento: 22/09/1994
+Género: V
+Domicilio: Calle de Tribulete 52
+Ciudad: Totana, Mallorca, Islas Baleares
+Código postal: 07638
+Email: alvaroserra_espinosa@ual.es
+Teléfono fijo: +34 971 82 69 94
+FAX: +34 971 77 30 55
+NHC: 1732720
+
+Datos asistenciales.
+Médico: Dr. Pau Méndez Iglesias. NC 277757626. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/07/2011
+Episodio: 63373365
+Hospital: Hospital Universitario Puerto Real
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena americana de 16 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.92.64, con dirección MAC B1:6B:96:12:E9:F4. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Álvaro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Serra Espinosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="99577919V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="22/09/1994" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="139" text="Calle de Tribulete 52" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="154" text="Totana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="164" text="Mallorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="180" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="07638" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="236" text="alvaroserra_espinosa@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 971 82 69 94" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="274" end="290" text="+34 971 77 30 55" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="296" end="303" text="1732720" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="338" end="357" text="Pau Méndez Iglesias" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="362" end="371" text="277757626" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="373" end="407" text="Residente de 3° año en Psiquiatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="409" end="479" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="481" end="510" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="512" end="517" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="519" end="525" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="527" end="533" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="553" end="563" text="12/07/2011" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="574" end="582" text="63373365" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="593" end="627" text="Hospital Universitario Puerto Real" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="671" end="701" text="ascendencia indígena americana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="705" end="712" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="827" end="844" text="B1:6B:96:12:E9:F4" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

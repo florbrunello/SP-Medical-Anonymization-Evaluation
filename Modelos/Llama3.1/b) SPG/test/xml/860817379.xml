@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lourdes</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Calvo Salazar</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">13373257E</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/02/1989</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Engracia 23</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Torrejón de Ardoz</TAG>, <TAG TYPE="TERRITORIO">Palencia</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">34724</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">calvo-salazar@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 32 35 35</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 679 49 83 25</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6865149</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">541913463049</TAG>
+    Condición de riesgo: (vacío)
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alicia Merino Roldan</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">388469637</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/07/2019</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">34719899</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alcorcón</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia africana del norte</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carolina</TAG>.
+  Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Fernandez Toledo</TAG>.
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4578123</TAG>.
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">29 85647856 45</TAG>.
+  Domicilio:  <TAG TYPE="CALLE">Calle Julio Vidal 19</TAG>.
+  Localidad/ Provincia: <TAG TYPE="TERRITORIO">Alcalá de Henares</TAG>.
+  CP: <TAG TYPE="TERRITORIO">28002</TAG>.
+  Datos asistenciales.
+  Fecha de nacimiento: <TAG TYPE="FECHAS">24/01/1995</TAG>.
+  País: <TAG TYPE="PAIS">España</TAG>.
+  Edad:  <TAG TYPE="EDAD_SUJETO_ASISTENCIA">23 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+  Fecha de Ingreso: <TAG TYPE="FECHAS">15/04/2018</TAG>.
+  Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Antonio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lemos Aguilar</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 56425</TAG>.
+  Informe clínico del Paciente: Paciente de sexo <TAG TYPE="SEXO_SUJETO_ASISTENCIA">femenino</TAG>, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">23 años</TAG> de edad, no fumadora, sin antecedentes médico-quirúrgicos de relevancia ni alergias medicamentosas conocidas. Acudió a la consulta a causa de un aumento de volumen en la encía vestibular inferior, adyacente a orificio mentoniano izquierdo, de 2 meses de evolución, con crecimiento activo. No fue relacionado con causas traumáticas. Al examen clínico, se advirtió un nódulo de 0,5 cm de diámetro, de consistencia fibroelástica a la palpación, de coloración similar a la de la mucosa normal, parcialmente adherido a planos profundos e indoloro. En el estudio radiológico, no se observaron particularidades en la zona de la lesión.
+  Bajo anestesia local, se realizó una biopsia escisional de la lesión. El estudio anatomopatológico reveló una proliferación de células fusiformes dispuestas en fascículos cortos arremolinados, con abundantes estructuras vasculares de apariencia mixomatosa, con aislados depósitos de colágeno y focos de infiltrado linfocitario con hematíes extravasados. Se efectuaron, asimismo, estudios inmunohistoquímicos que resultaron positivos para vimentina y actina muscular lisa y negativos para alk-protein 1, beta catenina, CD 34, desmina, S-100. La expresión de Ki67 fue de 5 a 6% de núcleos marcados. Este cuadro se corresponde con el diagnóstico de fascitis nodular. Se realizó un seguimiento de 18 meses, sin observarse recidiva.
+  Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Antonio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lemos Aguilar</TAG> <TAG TYPE="CENTRO_SALUD">Centro de Salud Puerta de Madrid</TAG> <TAG TYPE="CALLE">Avda. del Ejército, 61</TAG> <TAG TYPE="TERRITORIO">C.P. 28002</TAG> <TAG TYPE="TERRITORIO">Alcalá de Henares</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG> <TAG TYPE="PAIS">España</TAG> <TAG TYPE="CORREO_ELECTRONICO">antonio.aguilar@salud.madrid.org</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Andrés Izquierdo Zamora</TAG>.
+  DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">67126682D</TAG>.
+  Fecha de nacimiento: <TAG TYPE="FECHAS">24/08/1945</TAG>.
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>.
+  Domicilio: <TAG TYPE="CALLE">Calle de Argumosa 84</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Las Palmas de Gran Canaria</TAG>, <TAG TYPE="TERRITORIO">Toledo</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>.
+  Código postal: <TAG TYPE="TERRITORIO">45483</TAG>.
+  Email: <TAG TYPE="CORREO_ELECTRONICO">izquierdozamora@icloud.com</TAG>.
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 925 35 77 52</TAG>.
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 625 34 06 09</TAG>.
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1024049</TAG>.
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">430234555469</TAG>.
+  Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Almacén</TAG>.
+  Datos asistenciales.
+  Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Juan Pedro</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Caballero Gil</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">059032635</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">22/09/2002</TAG>.
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Severo Ochoa</TAG>.
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">3770LAN</TAG>.
+  Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Chrysler Pacifica</TAG>.
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSG4QEE5V7G997312</TAG>.
+  </TEXT>
+  </MEDDOCAN>

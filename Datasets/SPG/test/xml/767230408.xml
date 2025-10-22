@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Lourdes Guerrero Garrido
+DNI: 13227582Y
+Fecha de nacimiento: 09/11/1925
+Género: Femenino
+Domicilio: Calle de Zurbano 49
+Ciudad: Estepa, Soria, Castilla y León
+Código postal: 42751
+Email: EVWk5ViRfm@yahoo.com
+Teléfono fijo: +34 975 60 80 15
+FAX: +34 975 62 36 42
+NHC: 6562709
+NASS: 612701882373
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dr. Juan Manuel Vila Salas. NC 941848986. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/09/1991
+Episodio: 56464832
+Centro de salud: Centro de Salud Sevilla Sur
+
+Informe clínico del paciente:
+Paciente no fumador de 65 años de edad, acompañado de su hermano. El servidor para envío de información desde cual el usuario se comunica es smtp://example-pharma.org. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es ZJ083MBN644. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Lourdes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="52" text="Guerrero Garrido" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="13227582Y" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="09/11/1925" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="116" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="147" text="Calle de Zurbano 49" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="162" text="Estepa" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="169" text="Soria" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="186" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="42751" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="235" text="EVWk5ViRfm@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 975 60 80 15" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="273" end="289" text="+34 975 62 36 42" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="295" end="302" text="6562709" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="309" end="321" text="612701882373" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="343" end="349" text="Minero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="384" end="406" text="Juan Manuel Vila Salas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="411" end="420" text="941848986" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="422" end="466" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="468" end="554" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="556" end="585" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="587" end="592" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="594" end="600" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="602" end="608" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="628" end="638" text="20/09/1991" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="649" end="657" text="56464832" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="675" end="702" text="Centro de Salud Sevilla Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="743" end="753" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="757" end="764" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="791" end="798" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="875" end="896" text="smtp://example-pharma" TYPE="URL_WEB" comment=""/>
+        <ID id="T32" start="983" end="994" text="ZJ083MBN644" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Pau Villanueva Tomas
+DNI: 51014269Q
+Fecha de nacimiento: 08/04/1925
+Género: Varón
+Domicilio: Calle del Pez 80, 1W
+Ciudad: Jaca, Alicante, Comunidad Valenciana
+Código postal: 03495
+Email: villanueva@uhu.es
+Teléfono fijo: +34 965 84 73 44
+Teléfono móvil: +34 665 77 39 56
+NHC: 3766419
+NASS: 302999196906
+
+Datos asistenciales.
+Médico: Dr. Lorenzo Vila Ramos. NC 915303711. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/02/1928
+Centro de salud: Centro de Salud Marbella
+Matrícula del coche: 6112GGV
+Modelo: Ford F-150
+VIN: VSPMKPO4N4F654112
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 2 años de edad, acompañado de su abuelo. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es DM715WCZ896. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Pau" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="48" text="Villanueva Tomas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="51014269Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="08/04/1925" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="141" text="Calle del Pez 80, 1W" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="154" text="Jaca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="164" text="Alicante" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="186" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="03495" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="232" text="villanueva@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 965 84 73 44" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 665 77 39 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="3766419" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="302999196906" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="364" end="382" text="Lorenzo Vila Ramos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="387" end="396" text="915303711" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="398" end="429" text="Especialista en Genética Médica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="431" end="506" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="508" end="537" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="539" end="544" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="546" end="552" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="554" end="560" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="580" end="590" text="08/02/1928" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="608" end="632" text="Centro de Salud Marbella" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T26" start="654" end="661" text="6112GGV" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="686" end="703" text="VSPMKPO4N4F654112" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="747" end="776" text="ascendencia del medio oriente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="780" end="786" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="813" end="819" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="902" end="913" text="DM715WCZ896" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Antonella</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Guido Suarez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">96147325</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. Paseo Colón 255 - 1er Piso Contrafrente</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Buenos Aires</TAG>.
+    CP: <TAG TYPE="TERRITORIO">B1827</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/04/1987</TAG>.
+    País: <TAG TYPE="PAIS">Argentina</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">29 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">27/07/2016</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Luis Roberto</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">León</TAG>.
+    Motivo de ingreso: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">29 años</TAG> ingresa para hemodiálisis a los <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25 años</TAG>. Tres años después de la hemodiálisis presenta hiperparatiroidismo secundario (HPTS) severo con PTH i >1.000 pg/ml, con dolor óseo, astenia, prurito e hipotensión arterial sintomática persistente. No presenta calcificaciones arteriales ni ecocardiográficas.
+    Historia Actual y pruebas complementarias: Se realiza ecografía de paratiroides sin visualización y centelleo con 99Tc y MIBI con aumento difuso de la fijación del lóbulo paratiroideo inferior izquierdo y derecho. Realiza tratamiento de su HPTS con quelantes del calcio y discontinuo con calcitriol i.v. por hiperfosfatemia. Se indica paratiroidectomía subtotal considerando la edad de la paciente y su aptitud para el trasplante. Los resultados de las pruebas de laboratorio previas fueron: Hcto 37%, Hb 12,1, Ca 9 mg/dl, P 6 mg/dl, K 5 meq/l. Coagulograma normal. Biopsia de paratiroides: hiperplasia bilateral. Durante la cirugía estuvo hipotensa (TApromedio 90/60). Seis días después de la cirugía presenta pérdida parcial de la visión del OD y total del OI, hipo-Ca moderada e hipotensión sintomática. Laboratorio: Hcto 36%, Hb 12, Ca 6,3 Ca i 0,72l, P 3,5, Mg 1,9. Se corrigen valores de hipo-Ca.
+    Colagenograma y coagulograma normales, y anticardiolipinas, anticoagulante lúpico, ANCAp y c y serología para toxoplasmosis y sífilis negativas.
+    Se realiza consulta con neurología: presenta hemianopsia nasal derecha y visión con bulto del ojo izquierdo. Pupilas discóricas en OD 3 mm, OI 4 mm. Consulta con oftalmología: AV con visión cuenta dedos a 50 cm en OI y dismuncion moderada de la visión en OD.
+    Midriasis areactiva en OI, reactiva en OD. Fondo de ojo: retina aplicada, mácula normal y papila congestiva con incipiente edema (OI y D). PO 10/10 mmHg. RMN de cerebro y bulbo normal. Potenciales evocados visuales en OD y OI de mediana amplitud y latencias centrales prolongadas compatibles con compromisos de la vía óptica de grado moderado, compatible con neuropatía óptica. Agudeza visual: 0,5 en OI, 0,8 en OD. Campimetría: fuera de límites normales para el OD con alteración de la sensibilidad relativa y restricción de la mancha ciega (aumentada). En OI hay una reducción total de la sensibilidad.
+    En el fondo de ojo a los 2 meses se detectó atrofia casi total del nervio óptico derecho con dilatación y tortuosidad venosa y atrofia total de nervio óptico izquierdo.
+    Diagnóstico: IRC secundaria a GEFS
+    Tratamiento: Como tratamiento se indican corticoides (prednisona) a dosis de 1 mg/kg/día durante 30 días.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Luis Roberto</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">León</TAG>, <TAG TYPE="HOSPITAL">DIAVERUM</TAG>. <TAG TYPE="INSTITUCION">CERER, S.A.</TAG>, <TAG TYPE="TERRITORIO">San Justo</TAG>. <TAG TYPE="TERRITORIO">Buenos Aires</TAG>. <TAG TYPE="PAIS">Argentina</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">lleon@intramed.net.ar</TAG>.
+  </TEXT>
+</MEDDOCAN>

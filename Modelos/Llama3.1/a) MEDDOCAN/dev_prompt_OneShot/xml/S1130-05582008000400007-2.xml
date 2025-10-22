@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gloria</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cruz Castro</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">36908274/85</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">416 Paseo de Martí</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">La Habana</TAG>.
+    CP: <TAG TYPE="TERRITORIO">85100</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/06/2017</TAG>.
+    País: <TAG TYPE="PAIS">Cuba</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">11 meses</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">29/05/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Manuel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Estrada Sarmiento</TAG>.
+    Informe Médico: Paciente femenina que al nacimiento presentó mancha azulada en la región nasoorbitaria derecha, la cual creció rápidamente durante el siguiente mes.
+    Cuando fue vista por nosotros a la edad de 6 meses, presentaba una masa pedunculada de 4 cm, que interesaba el surco nasoorbitario y dorso nasal, la niña había adquirido el hábito de mirarse la lesión y presentaba estrabismo.
+    Cinco días más tarde se comenzó a tratar con inyecciones de Betametazona 4 mg intralesional, luego de 4 sesiones a intervalos de cuatro semanas, se realizo la exéresis del hemangioma fibrosado, utilizándose una incisión supracilial.
+    La evolución postoperatoria fue sastifactoria.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Manuel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Estrada Sarmiento</TAG>. <TAG TYPE="CALLE">Máximo Gómez 6/ Maceo y Canducha Figueredo</TAG>. <TAG TYPE="TERRITORIO" >85100</TAG> <TAG TYPE="TERRITORIO" >Bayamo</TAG>, <TAG TYPE="TERRITORIO" >Granma</TAG>, <TAG TYPE="PAIS">Cuba</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">mesarmiento.grm@infomes.sld.cu</TAG>.
+  </TEXT>
+</MEDDOCAN>

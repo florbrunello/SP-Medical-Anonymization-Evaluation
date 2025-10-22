@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Consuelo Beltran Ortega
+DNI: 25526068R
+Fecha de nacimiento: 04/04/1930
+Género: Mujer
+Domicilio: Calle de Valverde 21, 7E
+Ciudad: Marbella, Madrid, Madrid
+Código postal: 28656
+Email: consuelo-beltran@us.es
+Teléfono fijo: +34 918 15 73 36
+Teléfono móvil: +34 611 87 65 47
+NHC: 4359814
+NASS: 178508371400
+Condición de riesgo: Técnico de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. José María Romero Montero. NC 234703631. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/06/1967
+Hospital: Complejo Hospitalario Universitario de A Coruña
+Matrícula del coche: 3928LRM
+Modelo: Hyundai Elantra
+VIN: VSKWCCHIURH705635
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 37 años de edad, acompañado de su conviviente. El servidor para envío de información desde cual el usuario se comunica es smtp://example-research.net. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Consuelo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="51" text="Beltran Ortega" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="25526068R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="04/04/1930" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="112" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="148" text="Calle de Valverde 21, 7E" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="165" text="Marbella" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="173" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="181" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="28656" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="232" text="consuelo-beltran@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 918 15 73 36" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 611 87 65 47" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="4359814" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="178508371400" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="351" end="373" text="Técnico de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="408" end="433" text="José María Romero Montero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="438" end="447" text="234703631" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="449" end="486" text="Investigador Clínico en Epidemiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="488" end="572" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="574" end="603" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="605" end="610" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="612" end="618" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="620" end="626" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="646" end="656" text="08/06/1967" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="667" end="714" text="Complejo Hospitalario Universitario de A Coruña" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="736" end="743" text="3928LRM" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="773" end="790" text="VSKWCCHIURH705635" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="834" end="863" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="867" end="874" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="901" end="912" text="conviviente" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="989" end="1012" text="smtp://example-research" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Manuela</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Garcia Cano</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6562044</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">59 47811288 96</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. Ramón Pradera, 36</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Valladolid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">47005</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/10/1933</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">80 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">27/05/2014</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Oncología</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">1919796</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ana Rosa</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rubiales</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">47 47 47297</TAG>.
+    Informe clínico del paciente: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">80 años</TAG> que refería la presencia de una tumoración en la mama izquierda desde hacía dieciséis años de la que no había querido consultar por miedo al diagnóstico y a los posibles tratamientos. Aunque refería que al principio el crecimiento había sido lento e indolente, en los dos últimos años había progresado hasta el punto llegar a autoamputar la mama. Había acudido finalmente a la Consulta animada por sus familiares tras presentar dolor dorsal y disnea progresiva, más evidentes en las semanas previas. Presentaba en ese momento adenopatías axilares y supraclaviculares ipsilaterales. En la radiografía de tórax se encontraron signos de derrame pleural y una probable linfangitis carcinomatosa. La gammagrafía ósea mostraba captaciones múltiples. El diagnóstico clínico se confirmó mediante punción de un nódulo que sobresalía sobre el lecho mamario; la citología fue compatible con carcinoma ductal infiltrante. La paciente comenzó tratamiento con tamoxifeno. Dos días después presentó de manera repentina un empeoramiento importante de los dolores dorsales por lo que fue preciso aumentar la analgesia. En las dos semanas siguientes la propia paciente fue retirando los analgésicos hasta llegar a suspenderlos. Tras una elevación transitoria, tanto el CA153 como la fosfatasa alcalina fueron disminuyendo hasta alcanzar niveles normales. Al cabo de seis meses se había obtenido una respuesta completa de las adenopatías si bien persistía un pequeño resto en el lecho mamario; la gammagrafía mostraba una cierta atenuación de las zonas hipercaptantes y se apreciaba una clara mejoría de la afectación pulmonar. La paciente mantuvo la respuesta durante 22 meses. Tras la progresión recibió varias líneas de tratamiento hormonal. Falleció al cabo de 56 meses del diagnóstico.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Ana Rosa Rubiales</TAG> <TAG TYPE="PROFESION">Oncología Médica</TAG> <TAG TYPE="INSTITUCION">Hospital Clínico Universitario</TAG> <TAG TYPE="CALLE">C/ Ramón y Cajal, 3</TAG> E-<TAG TYPE="TERRITORIO">47005</TAG> <TAG TYPE="TERRITORIO">Valladolid</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">asrubiales@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

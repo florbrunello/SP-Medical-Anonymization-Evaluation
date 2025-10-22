@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Noelia Casado Vicente
+DNI: 84153713W
+Fecha de nacimiento: 30/12/1938
+Género: M
+Domicilio: Calle de Juan Bravo 47
+Ciudad: Elda, Asturias, Asturias
+Código postal: 33385
+Email: casado@protonmail.com
+Teléfono fijo: +34 984 94 08 86
+FAX: +34 984 25 36 52
+NHC: 1101372
+NASS: 407455360256
+Condición de riesgo: Montador
+
+Datos asistenciales.
+Médico: Dra. Teresa Lozano Galan. NC 280681795. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 05/08/1997
+Episodio: 78581041
+Hospital: Hospital de Manises
+Matrícula del coche: 5333OFT
+Modelo: Ford F-150
+VIN: VSVM8MMTE3C935393
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 58 años de edad, acompañado de su pareja. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.53.126, con dirección MAC 96:82:C3:25:B6:DB. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Noelia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Casado Vicente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="84153713W" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="30/12/1938" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="140" text="Calle de Juan Bravo 47" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="153" text="Elda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="163" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="173" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="189" end="194" text="33385" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="202" end="223" text="casado@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="239" end="255" text="+34 984 94 08 86" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="261" end="277" text="+34 984 25 36 52" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="283" end="290" text="1101372" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="297" end="309" text="407455360256" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="331" end="339" text="Montador" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="589" end="599" text="05/08/1997" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="610" end="618" text="78581041" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="629" end="648" text="Hospital de Manises" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="670" end="677" text="5333OFT" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="702" end="719" text="VSVM8MMTE3C935393" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="763" end="792" text="ascendencia del medio oriente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="796" end="803" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="830" end="836" text="pareja" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T25" start="944" end="961" text="96:82:C3:25:B6:DB" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

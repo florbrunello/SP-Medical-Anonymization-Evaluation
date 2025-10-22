@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Adam Blanco Guzman</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">76036725J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">18/07/1941</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Embajadores 63</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Castellón de la Plana</TAG>, <TAG TYPE="TERRITORIO">Vizcaya</TAG>, <TAG TYPE="TERRITORIO">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">48394</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">blanco.guzman1867@hotmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 946 49 34 70</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 746 97 84 22</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9928716</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">949853681759</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Técnico de Radiología</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Mercedes</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Prieto Cabrera</TAG> NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">976855769</TAG>. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/07/1988</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Clínic Universitario San Cecilio</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, que se presentó en el servicio de urgencias con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor torácico</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">disnea</TAG>. La exploración física revela: Tª <TAG TYPE="OTROS_SUJETO_ASISTENCIA">37,5 C</TAG>; T.A: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120/80 mmHg</TAG>; Fc: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90 lpm</TAG>. Se encuentra consciente, orientado, sin sudoración ni taquicardia. En la exploración cardíaca se aprecia un ruido de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">soplo cardíaco</TAG> en la región de la base del corazón. Los datos analíticos muestran los siguientes resultados: Hemograma: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hb 14,5 g/dl</TAG>; leucocitos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8.500/mm3</TAG>; plaquetas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">250.000/mm3</TAG>. VSG: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 mm 1ª hora</TAG>. Coagulación: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TQ 95%</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TTPA 25,5 seg</TAG>. Bioquímica: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Glucosa 120 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urea 20 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina 1,2 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sodio 140 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">potasio 4,2 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GOT 25 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GPT 30 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GGT 40 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fosfatasa alcalina 150 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">calcio 9,5 mg/dl</TAG>. Orina: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sedimento normal</TAG>.
+    Se solicitan pruebas de imagen (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ecocardiograma transtorácico</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Angiografía coronaria</TAG>) que revelan una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedad coronaria significativa</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estenosis de 70%</TAG> en la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">arteria descendente anterior</TAG>. Se instaura tratamiento médico con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">aspirina</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">atorvastatina</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nitroglicerina</TAG>, y se programa una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">angioplastia coronaria</TAG> para el día siguiente. El paciente se encuentra estable y sin complicaciones en el momento de la escritura de este informe.
+  </TEXT>
+</MEDDOCAN>

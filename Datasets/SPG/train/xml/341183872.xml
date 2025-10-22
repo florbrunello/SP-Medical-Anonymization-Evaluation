@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rafael Durán Navarro
+DNI: 49027484V
+Fecha de nacimiento: 21/11/1947
+Género: V
+Domicilio: Calle de Ríos Rosas 47
+Ciudad: Burgos, Zamora, Castilla y León
+Código postal: 49537
+Email: rafael_duran-navarro@udc.es
+Teléfono fijo: +34 980 63 32 82
+Teléfono móvil: +34 680 36 02 80
+NHC: 0674259
+NASS: 531398854640
+Condición de riesgo: Soldador
+
+Datos asistenciales.
+Médico: Dra. Emma Montoya Cabrera. NC 329322671. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/09/2013
+Episodio: 65006213
+Centro de salud: Centro de Salud Tetuán
+
+Informe clínico del paciente:
+Paciente transeúnte de 65 años de edad, acompañado de su hermano. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Rafael" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Durán Navarro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="49027484V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="21/11/1947" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="139" text="Calle de Ríos Rosas 47" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="154" text="Burgos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="162" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="179" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="49537" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="235" text="rafael_duran-navarro@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 980 63 32 82" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 680 36 02 80" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="0674259" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="531398854640" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="354" end="362" text="Soldador" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="632" end="642" text="10/09/2013" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="653" end="661" text="65006213" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="679" end="701" text="Centro de Salud Tetuán" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="742" end="752" text="transeúnte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="756" end="763" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="790" end="797" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

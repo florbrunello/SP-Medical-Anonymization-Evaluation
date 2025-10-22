@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carlos</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mendieta Duarte</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">463436</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">45 37678645 63</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle las rosa 56, 6B</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28014</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/12/1943</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">74 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">05/01/2017</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Oftalmologia</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">9848163</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">David</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Díaz Valle</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 94267</TAG>.
+    Historia Actual: Paciente varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">74 años</TAG> consulta por cuadros recurrentes de ojo rojo doloroso en OI, asociados a una pérdida progresiva de visión de varios meses de evolución.
+    Antecedentes: No refiere antecedentes personales sistémicos relevantes. Como antecedentes oftálmicos destaca la exposición accidental a un producto de limpieza <TAG TYPE="OTROS_SUJETO_ASISTENCIA">15 años antes</TAG>.
+    Exploración y pruebas complementarias: En la exploración oftalmológica se objetivó una agudeza visual (AV) de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8/10</TAG> en ojo derecho (OD) y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">1/10</TAG> en ojo izquierdo (OI). En la exploración biomicroscópica destacaba en OI la existencia de un área de aproximadamente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">210º</TAG> de conjuntivalización corneal que afectaba el eje visual, con vascularización superficial e hiperemia mixta. Existía un sector de limbo de aproximadamente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">5 horas</TAG> de extensión que conservaba la arquitectura normal de las empalizadas de Vogt y una ausencia de tinción con colorantes. El resto de la exploración no mostraba hallazgos relevantes.
+    Evolución y comentarios: Con el diagnóstico clínico de IL parcial con afectación del eje visual se practicó una ECS del tejido fibrovascular que invadía la superficie corneal, incluyendo la zona limbar afecta, y respetando el sector de limbo nasal de características normales. En la zona denudada se colocó un injerto de membrana amniótica (MA) que se suturó con el epitelio hacia arriba y posteriormente otro fragmento circular de MA de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">15 mm</TAG> de diámetro que se suturó como parche, con el epitelio hacia abajo. Durante el seguimiento se produjo una reepitelización progresiva con un epitelio de características corneales sobre el injerto de MA que quedó integrado bajo el mismo. A las <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3 semanas</TAG> de la cirugía existía una superficie corneal epitelial lisa y regular y una importante reducción de la hiperemia mixta asociada. La AV del OI mejoró hasta <TAG TYPE="OTROS_SUJETO_ASISTENCIA">4/10</TAG>. Con un seguimiento de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8 meses</TAG> no se han observado recidivas.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">David</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Díaz Valle</TAG>. <TAG TYPE="INSTITUCION">Unidad de Superficie e Inflamación Ocular Hospital Clínico Universitario San Carlos</TAG> <TAG TYPE="CALLE">C/. Martín Lagos, s/n</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG> <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">daviddiazvalle@yahoo.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

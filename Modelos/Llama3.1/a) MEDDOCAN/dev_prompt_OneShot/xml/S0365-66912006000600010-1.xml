@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iris</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Barrios Morente</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7634893</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">89 34573646 98</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av/ Puertollano, 9, 3 A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Valladolid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">47001</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/09/1998</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">16 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/08/2013</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Víctor Asensio Sánchez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">47 47 58970</TAG>.
+    Historia Actual:  <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Mujer de 16 años</TAG> remitida a la consulta de oftalmología por un cuadro de dificultad visual, «como una parte del encerado que no veo, especialmente desde hace 3 semanas». Su madre refiere que «ha pasado de ser una niña activa a estar enlentecida, con dificultad para pensar, hablar y ahora ve mal». Desde los 7 años presenta crisis epilépticas de difícil control. Su tratamiento era <TAG TYPE="PROFESION">carbamazepina</TAG>, <TAG TYPE="PROFESION">hidantoína</TAG> y desde hacía 3 meses <TAG TYPE="PROFESION">Topamax</TAG> 125 mg al día. La última exploración oftalmológica realizada un año antes fue normal. 
+    Exploración: En la exploración realizada la agudeza visual (AV) espontánea era de 1 en ambos ojos, con una biomicroscopía anterior normal. Las pupilas eran isocóricas y normorreactivas. 
+    Pruebas complementarias: El estudio fundoscópico no presenta alteraciones. En la campimetría computerizada se aprecia una hemianopsia homónima izquierda no congruente. El test de colores no presentaba alteraciones en ningún ojo. Una resonancia magnética nuclear (RMN) cerebral con gadolinio fue normal así como una RMN por difusión. El resto de la exploración neurológica fue normal. 
+    Evolución: Ante la sospecha de un fenómeno tóxico por <TAG TYPE="PROFESION">Topamax</TAG> se suspendió de forma progresiva, con mejoría subjetiva del paciente y recuperación parcial del campo visual.
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Víctor Asensio Sánchez</TAG> <TAG TYPE="HOSPITAL">Hospital General</TAG> <TAG TYPE="INSTITUCION">Servicio Castellano-Leonés de Salud</TAG> <TAG TYPE="CENTRO_SALUD">Servicio de Oftalmología</TAG> <TAG TYPE="TERRITORIO">Medina del Campo (Valladolid)</TAG> <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">vasensio@hmdc.sacyl.es</TAG>
+  </TEXT>
+</MEDDOCAN>

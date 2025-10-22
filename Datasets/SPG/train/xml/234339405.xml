@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Carlos Moreno Montoya
+DNI: 78257715P
+Fecha de nacimiento: 22/12/1988
+Género: V
+Domicilio: Calle de Santa Ana 78, 4Q
+Ciudad: San Vicente del Raspeig, Santa Cruz de Tenerife, Canarias
+Código postal: 38521
+Email: josecarlos-moreno_montoya@icloud.com
+Teléfono fijo: +34 922 42 45 88
+Teléfono móvil: +34 722 30 39 79
+NHC: 7340935
+NASS: 941618160094
+
+Datos asistenciales.
+Médico: Dr. Francisco Miguel Carrasco. NC 150245218. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 27/10/2019
+Centro de salud: Centro de Salud Conde de Casal
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 30 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="José Carlos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="54" text="Moreno Montoya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="78257715P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="22/12/1988" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="111" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="148" text="Calle de Santa Ana 78, 4Q" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="180" text="San Vicente del Raspeig" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="182" end="204" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="206" end="214" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="230" end="235" text="38521" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="243" end="279" text="josecarlos-moreno_montoya@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="295" end="311" text="+34 922 42 45 88" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="328" end="344" text="+34 722 30 39 79" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="350" end="357" text="7340935" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="364" end="376" text="941618160094" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="411" end="436" text="Francisco Miguel Carrasco" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="441" end="450" text="150245218" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="452" end="487" text="Residente de 3° año en Oftalmología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="489" end="547" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="549" end="573" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="575" end="580" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="582" end="592" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="594" end="600" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="620" end="630" text="27/10/2019" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="648" end="678" text="Centro de Salud Conde de Casal" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="722" end="751" text="ascendencia del medio oriente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="755" end="762" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="789" end="794" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">César Moya Hurtado</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">42068616Y</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/10/1979</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Cabeza del Rey Don Pedro 90</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcázar de San Juan</TAG>, <TAG TYPE="TERRITORIO">Jaén</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">23077</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">cesar_hurtado1977@hotmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 953 12 89 68</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 953 37 93 34</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1157242</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">255992061292</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Químico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Aitana</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Nieto Cuesta</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">307154728</TAG>. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">12/02/1989</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">16206801</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Moratalaz</TAG>.
+    Informe clínico del paciente:
+    Paciente con antecedentes de abuso de sustancias, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> de edad, que acude con su abuelo al servicio de urgencias con síntomas de envenenamiento por consumo de sustancias tóxicas. La exploración física revela: temperatura corporal <TAG TYPE="FECHAS">38,5°C</TAG>, frecuencia cardíaca <TAG TYPE="FECHAS">120 lpm</TAG>, presión arterial <TAG TYPE="FECHAS">120/80 mmHg</TAG>, y respiración <TAG TYPE="FECHAS">24 lpm</TAG>. El paciente está consciente y orientado, pero presenta signos de agitación y confusión.
+    La exploración física complementaria muestra signos de envenenamiento por sustancias tóxicas, con aumento de la frecuencia cardíaca y respiratoria, y disminución de la presión arterial. El paciente también presenta signos de agitación y confusión, con movimientos involuntarios y alteraciones de la conciencia.
+    Se solicitan análisis de sangre para determinar la presencia de sustancias tóxicas en el organismo del paciente. Los resultados de los análisis muestran la presencia de sustancias tóxicas en la sangre del paciente, lo que confirma el diagnóstico de envenenamiento por consumo de sustancias tóxicas.
+    El tratamiento se centra en la eliminación de las sustancias tóxicas del organismo del paciente, mediante la administración de medicamentos que estimulen la función renal y la eliminación de las sustancias tóxicas a través de la orina. El paciente también recibe tratamiento para controlar los síntomas de envenenamiento, como la fiebre, la agitación y la confusión.
+    La evolución del paciente es favorable, con una disminución de los síntomas de envenenamiento y una mejora en la función renal. El paciente es monitoreado de cerca para asegurarse de que no haya complicaciones y se le proporciona tratamiento para controlar los síntomas de envenenamiento.
+    Antecedentes:
+    El paciente tiene antecedentes de abuso de sustancias, con un historial de consumo de drogas ilegales. El paciente también tiene antecedentes de problemas de salud mental, incluyendo depresión y ansiedad.
+    Evolución y comentarios:
+    La evolución del paciente es favorable, con una disminución de los síntomas de envenenamiento y una mejora en la función renal. El paciente es monitoreado de cerca para asegurarse de que no haya complicaciones y se le proporciona tratamiento para controlar los síntomas de envenenamiento.
+    Remitido por:
+    El paciente fue remitido por el servicio de urgencias del hospital. El paciente fue evaluado y tratado en el servicio de urgencias, y luego fue trasladado a la unidad de cuidados intensivos para recibir tratamiento más avanzado.
+  </TEXT>
+</MEDDOCAN>

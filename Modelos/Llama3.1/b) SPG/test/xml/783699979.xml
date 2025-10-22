@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Encarnación</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Esteban Crespo</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">83183308J</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">12/01/1989</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de las Letras 41</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Xirivella</TAG>, <TAG TYPE="TERRITORIO">Albacete</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">02642</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">encarnacion.esteban-crespo@ual.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 967 92 15 24</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 767 19 03 57</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5609530</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">816576854659</TAG>
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Alejandra Cruz Durán</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">748617204</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Cardióloga Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">13/10/2004</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">90017727</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Conde de Casal</TAG>
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática occidental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">firma biométrica</TAG>, el <TAG TYPE="IDENTIF_BIOMETRICOS">código obtenido</TAG> para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VK415YSQ252</TAG>.
+  </TEXT>
+</MEDDOCAN>

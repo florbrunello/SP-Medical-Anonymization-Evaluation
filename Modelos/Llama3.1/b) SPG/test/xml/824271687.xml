@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Antonia</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vázquez Aparicio</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">90799702A</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">29/07/2020</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Don Ramón de la Cruz 40, 6P</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad autónoma de Melilla</TAG>, <TAG TYPE="TERRITORIO">Melilla</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">51737</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariaantonia.vazquez_aparicio1461@uca.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 55 19 78</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 651 84 18 91</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7575995</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">243342363049</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Roberto Moya Silva</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">517564913</TAG>. <TAG TYPE="PROFESION">Gastroenterólogo Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/10/2024</TAG>
+    Episodio: <TAG TYPE="OTRO_NUMERO_IDENTIF">48065133</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Aranjuez</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática occidental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de huella dactilar</TAG>, el <TAG TYPE="IDENTIF_BIOMETRICOS">código obtenido para revisarla</TAG> es <TAG TYPE="IDENTIF_BIOMETRICOS">KR282FRG961</TAG>.
+  </TEXT>
+</MEDDOCAN>

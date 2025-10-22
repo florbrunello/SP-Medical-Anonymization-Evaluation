@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Tamara</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aguilera</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Montoya</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">18621797P</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">18/04/2016</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Cabeza 61, 6I</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Socuéllamos</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">28558</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">tamara.aguilera@ciberehd.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 913 32 67 80</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 717 65 46 83</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1443721</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">133525641120</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Limpiador</TAG>.
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Anna</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Acosta Millan</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">230581808</TAG>. <TAG TYPE="PROFESION">Investigadora Clínica en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">05/09/2016</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">20749193</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Móstoles</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia árabe</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 meses</TAG> de edad, acompañado de su madre.
+    Antecedentes:
+    La paciente presenta antecedentes de salud normal, sin ninguna condición médica preexistente.
+    Evolución y comentarios:
+    La paciente fue ingresada en el hospital debido a una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infección respiratoria aguda</TAG>. La exploración física revela temperatura de <TAG TYPE="FECHAS">38,5°C</TAG>, frecuencia cardíaca de <TAG TYPE="FECHAS">160 bpm</TAG> y frecuencia respiratoria de <TAG TYPE="FECHAS">40 cts/min</TAG>. La paciente se encuentra consciente y orientada, pero presenta signos de malestar.
+    Exploración física:
+    La exploración física revela:
+    <TAG TYPE="FECHAS">Temperatura de 38,5°C</TAG>
+    <TAG TYPE="FECHAS">Frecuencia cardíaca de 160 bpm</TAG>
+    <TAG TYPE="FECHAS">Frecuencia respiratoria de 40 cts/min</TAG>
+    <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Conscientemente y orientada</TAG>
+    <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Signos de malestar</TAG>
+    Pruebas diagnósticas:
+    Se han realizado las siguientes pruebas diagnósticas:
+    Hemograma: <TAG TYPE="FECHAS">Leucocitos 15.000/mm3</TAG> (<TAG TYPE="FECHAS">neutrófilos 80%</TAG>)
+    VSG: <TAG TYPE="FECHAS">10 mm 1ª hora</TAG>
+    Coagulación: <TAG TYPE="FECHAS">TQ 90%</TAG>
+    Bioquímica: <TAG TYPE="FECHAS">Glucosa 120 mg/dl</TAG>; <TAG TYPE="FECHAS">urea 30 mg/dl</TAG>; <TAG TYPE="FECHAS">creatinina 1,2 mg/dl</TAG>
+    Tratamiento:
+    Se ha iniciado tratamiento con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antibióticos</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antipiréticos</TAG>. La paciente se encuentra en observación en la unidad de cuidados intensivos.
+    Pronóstico:
+    El pronóstico es <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bueno</TAG>, pero la paciente requiere seguimiento estrecho para evitar complicaciones.
+    Remitido por:
+    Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Anna</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Acosta Millan</TAG>, <TAG TYPE="PROFESION">Investigadora Clínica en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>.
+  </TEXT>
+</MEDDOCAN>

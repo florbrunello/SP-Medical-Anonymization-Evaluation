@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Paula Vega Alonso
+DNI: 99910406Q
+Fecha de nacimiento: 21/02/2008
+Género: F
+Domicilio: Calle de la Virgen de los Peligros 91
+Ciudad: Ourense, Pontevedra, Galicia
+Código postal: 36356
+Email: paula_alonso1871@outlook.com
+Teléfono fijo: +34 986 57 04 86
+Teléfono móvil: +34 686 50 38 79
+NHC: 6650484
+NASS: 811332906242
+Condición de riesgo: Operador de Equipos Mineros
+
+Datos asistenciales.
+Médico: Dra. Estefanía Salas Miranda. NC 789302571. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 11/05/2014
+Centro de salud: Centro de Salud Benalmádena
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena centroamericana de 6 años de edad, acompañado de su hermano. Se registró una sesión de firma biométrica, el código obtenido para revisarla es FN615OXD913. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es BK007EIY250. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Paula" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="45" text="Vega Alonso" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="99910406Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="21/02/2008" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="151" text="Calle de la Virgen de los Peligros 91" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="160" end="167" text="Ourense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="179" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="181" end="188" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="36356" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="245" text="paula_alonso1871@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="261" end="277" text="+34 986 57 04 86" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="294" end="310" text="+34 686 50 38 79" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="316" end="323" text="6650484" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="330" end="342" text="811332906242" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="364" end="391" text="Operador de Equipos Mineros" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="634" end="644" text="11/05/2014" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="662" end="689" text="Centro de Salud Benalmádena" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="733" end="769" text="ascendencia indígena centroamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="773" end="779" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="806" end="813" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T22" start="896" end="907" text="FN615OXD913" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T23" start="990" end="1001" text="BK007EIY250" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iván Del</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rio Nieto</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">37849396K</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/02/1936</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Preciados 98, 3O</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Avilés</TAG>, <TAG TYPE="TERRITORIO">Sevilla</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">41513</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">delrio@ciberer.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 54 08 94</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 654 97 09 53</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8121932</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">313901742858</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Maquinaria Agrícola</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Isabel Gracia Ramos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">560192406</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/06/1988</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Virgen Macarena</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6413KRW</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Chevrolet Silverado</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSRHHFXXRLN213965</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">52 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

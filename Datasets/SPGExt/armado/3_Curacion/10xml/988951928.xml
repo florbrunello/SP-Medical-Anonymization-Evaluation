@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carlota</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Robles Rivera</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">11905245P</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/10/2012</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Piamonte 3</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Torrelodones</TAG>, <TAG TYPE="TERRITORIO">Sevilla</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">41727</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">carlota.robles@imibic.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 59 99 15</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 754 14 33 61</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0662313</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Albañil</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jonathan Salas Salas</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">412288762</TAG>. <TAG TYPE="PROFESION">Investigador Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/05/2022</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">25795548</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alhaurín de la Torre</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="DESCRIPCION_FISICA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> de edad, acompañado de su padre, refiere <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor en el abdomen inferior izquierdo</TAG> desde ayer por la noche, que empeora con la tos y la respiración profunda. Antecedentes personales de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sobredosis de medicamentos</TAG> en el pasado, por lo que se le administra un tratamiento de desintoxicación. En la exploración física se observa una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">temperatura</TAG> de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">38,5°C</TAG>, frecuencia cardíaca de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120 latidos por minuto</TAG> y frecuencia respiratoria de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 respiraciones por minuto</TAG>. Se encuentra consciente y orientado, pero con signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor en el abdomen</TAG>. Los análisis de sangre muestran una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">elevación de la creatinina</TAG> y una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">disminución de la hemoglobina</TAG>. Se solicitan estudios de imagen para evaluar la causa del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal</TAG> y la posible presencia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">complicaciones renales</TAG>.
+    Evolución y comentarios:
+    El paciente se encuentra <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estable</TAG> en la unidad de cuidados intensivos, con monitorización continua de la función renal y la condición clínica general. Se le administra un tratamiento de soporte para la función renal y se le prescribe un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antibiótico</TAG> para prevenir infecciones. Se realizarán revisiones periódicas para evaluar la evolución del paciente y ajustar el tratamiento según sea necesario.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jonathan Salas Salas</TAG>. <TAG TYPE="PROFESION">Investigador Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

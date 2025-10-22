@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Valeria</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vinuesa Gallardo</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1487633</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. Marconi, 9</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28030</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/11/2011</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 días</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">23/11/2011</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ignacio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Aníbal</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Capdevilla</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28</TAG>.
+    Informe clínico del paciente: Paciente neonato de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 días</TAG> de edad, sexo femenino, pretérmino de 36 semanas y peso elevado (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">3.600 gr.</TAG>), que sufre asfixia periparto con encefalopatía neonatal moderada-grave. Debido a la asfixia periparto, se le realiza en el hospital comarcal de origen tratamiento con hipotermia sistémica aplicando sistema <TAG TYPE="OTRO_NUMERO_IDENTIF">CritiCool</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">MTRE, Mennen Medical Corp, EE.UU.</TAG>). A los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 días</TAG> de ingreso se le traslada a la Unidad de Vigilancia Pediátrica del Hospital <TAG TYPE="INSTITUCION">12 de Octubre</TAG>. Durante su estancia en esta unidad se pasa interconsulta al Servicio de <TAG TYPE="PROFESION">Cirugía Plástica</TAG> por lesión cutánea dorsal de aparición precoz. En la valoración observamos una tumoración en espalda, en línea media, de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">11x13x4 cm</TAG>, parcialmente fluctuante, con escara negruzca central de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">5 cm</TAG> de diámetro aproximadamente.
+    Solicitamos ecografía de partes blandas para intentar establecer el diagnóstico, que informa de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">necrosis grasa licuefactiva</TAG>. Realizamos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">2 punciones</TAG> para evacuar el contenido sin obtener éxito, por lo que decidimos realizar desbridamiento quirúrgico y aplicación de terapia de vacío (<TAG TYPE="OTRO_NUMERO_IDENTIF">Renasys</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">Smith&Nephew</TAG>, <TAG TYPE="PAIS">Londres</TAG>, <TAG TYPE="PAIS">Reino Unido</TAG>), al <TAG TYPE="EDAD_SUJETO_ASISTENCIA">11er día</TAG> de ingreso. La terapia fue dispuesta a una presión de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">100 mmHg</TAG>, realizando ciclos continuos y cambios de apósitos cada <TAG TYPE="OTROS_SUJETO_ASISTENCIA">72 horas</TAG>.
+    La paciente fue intervenida quirúrgicamente tras <TAG TYPE="EDAD_SUJETO_ASISTENCIA">21 días</TAG> de tratamiento con terapia de vacío, presentando en el momento de la cirugía una herida de buen aspecto, con un fondo con presencia de tejido de granulación y sin exudado. Se procedió al avance de los tejidos, quedando una zona central cruenta de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">1 cm2</TAG>. La paciente permaneció ingresada en el Servicio de <TAG TYPE="PROFESION">Neonatología</TAG> de nuestro hospital y finalmente fue dada de alta a los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 días</TAG> de postoperatorio, con una edad de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">45 días</TAG> de vida.
+    Tras <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 meses</TAG> de evolución la paciente presenta una herida estable, sin dolor, que le permite llevar una vida normal, contabilizando <TAG TYPE="OTROS_SUJETO_ASISTENCIA">2 puntos</TAG> en base a la <TAG TYPE="OTRO_NUMERO_IDENTIF">Escala de Cicatrización de Vancouver</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">Vancouver Scar Scale</TAG>).
+    Responsable clínico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ignacio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Aníbal</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Capdevilla</TAG> <TAG TYPE="PROFESION">Servicio de Cirugía Plástica</TAG> <TAG TYPE="INSTITUCION">Hospital Nuestra Señora del Rosario</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="PAIS">España</TAG> <TAG TYPE="CORREO_ELECTRONICO">igcapdevila@gmail.com</TAG>
+    </TEXT>
+</MEDDOCAN>

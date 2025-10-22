@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Aurora Romero Calderon
+DNI: 62560371A
+Fecha de nacimiento: 06/07/1970
+Género: F
+Domicilio: Calle de Bravo Murillo 50
+Ciudad: Zamora, Navarra, Navarra
+Código postal: 31837
+Email: romero.calderon@gmail.com
+Teléfono fijo: +34 948 61 52 06
+FAX: +34 948 23 28 07
+NHC: 5821545
+
+Datos asistenciales.
+Médico: Dr. Joaquín Ríos Aparicio. NC 892652926. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/01/1971
+Hospital: Hospital Universitario de Gran Canaria Dr. Negrín
+Matrícula del coche: 1742QDS
+Modelo: Toyota RAV4
+VIN: VST77587KVE251216
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 6 meses de edad, acompañado de su abuelo. Se realizó un expediente con URL http://example-pharma.org//55764505E. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es UQ667MDC769. Se registró una sesión de firma biométrica, el código obtenido para revisarla es MI782XWY930. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Aurora" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Romero Calderon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="62560371A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="06/07/1970" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="144" text="Calle de Bravo Murillo 50" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="159" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="168" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="177" text="Navarra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="193" end="198" text="31837" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="206" end="231" text="romero.calderon@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 948 61 52 06" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="269" end="285" text="+34 948 23 28 07" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="291" end="298" text="5821545" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="333" end="354" text="Joaquín Ríos Aparicio" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="359" end="368" text="892652926" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="370" end="417" text="Investigador Clínico en Enfermedades Digestivas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="419" end="512" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="514" end="543" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="545" end="550" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="552" end="558" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="560" end="566" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="586" end="596" text="26/01/1971" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T24" start="607" end="656" text="Hospital Universitario de Gran Canaria Dr. Negrín" TYPE="HOSPITAL" comment=""/>
+        <ID id="T25" start="678" end="685" text="1742QDS" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T26" start="711" end="728" text="VST77587KVE251216" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T27" start="769" end="790" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="794" end="801" text="6 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="828" end="834" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="869" end="890" text="http://example-pharma" TYPE="URL_WEB" comment=""/>
+        <ID id="T31" start="989" end="1000" text="UQ667MDC769" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T32" start="1083" end="1094" text="MI782XWY930" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

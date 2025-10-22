@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iván Marti García</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">42445385N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">15/10/1990</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Infantas 9</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Tarragona</TAG>, <TAG TYPE="TERRITORIO">Jaén</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">23858</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ivangarcia@uhu.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 953 22 73 00</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 753 40 12 70</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7347774</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Plomero</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ignacio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Hurtado Segura</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 172377762</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">02/04/2024</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">34211471</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Virgen de la Victoria</TAG>
+    Fecha de ingreso: <TAG TYPE="FECHAS">02/04/2024</TAG>
+    Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Hospital Universitario Virgen de la Victoria</TAG>
+    Informe clínico del paciente:
+    El paciente, <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iván Marti García</TAG>, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG> de edad, fue ingresado en el <TAG TYPE="HOSPITAL">Hospital Universitario Virgen de la Victoria</TAG> con una historia de dolores en la espalda y piernas durante los últimos meses. El paciente es un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">plomero</TAG> que ha estado trabajando en una construcción en la ciudad de <TAG TYPE="TERRITORIO">Tarragona</TAG>.
+    La exploración física revela que el paciente tiene una temperatura corporal de 37,5°C, una frecuencia cardíaca de 80 latidos por minuto y una presión arterial de 120/80 mmHg. El paciente tiene una apariencia general de buena salud, pero presenta dolor en la región lumbar y en las piernas al caminar.
+    Se solicitan pruebas diagnósticas para determinar la causa del dolor. El paciente es sometido a una radiografía de la columna vertebral, que muestra una hernia discal en la región lumbar. También se solicita una ecografía de las piernas, que muestra una inflamación en el tendón de Aquiles.
+    El tratamiento iniciado es el doloroso y antiinflamatorio, así como la fisioterapia para mejorar la movilidad y reducir el dolor. El paciente es seguido de cerca por el equipo médico para determinar la evolución de su condición y ajustar el tratamiento según sea necesario.
+    La evolución clínica del paciente es buena, y el dolor se reduce significativamente después de una semana de tratamiento. El paciente es dado de alta del hospital después de 10 días de ingreso, con instrucciones para seguir con el tratamiento y realizar ejercicios de fisioterapia para mantener la movilidad y reducir el dolor.
+    Antecedentes:
+    El paciente tiene una historia de dolores en la espalda y piernas durante los últimos meses. El paciente es un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">plomero</TAG> que ha estado trabajando en una construcción en la ciudad de <TAG TYPE="TERRITORIO">Tarragona</TAG>.
+    Evolución y comentarios:
+    El paciente tiene una evolución clínica buena, y el dolor se reduce significativamente después de una semana de tratamiento. El paciente es dado de alta del hospital después de 10 días de ingreso, con instrucciones para seguir con el tratamiento y realizar ejercicios de fisioterapia para mantener la movilidad y reducir el dolor.
+    Remitido por:
+    El paciente es remitido a la consulta de <TAG TYPE="PROFESION">Medicina Física y Rehabilitación</TAG> para seguir con el tratamiento y realizar ejercicios de fisioterapia para mantener la movilidad y reducir el dolor.
+  </TEXT>
+</MEDDOCAN>

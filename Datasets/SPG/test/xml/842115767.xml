@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Adam Molina Calderon
+DNI: 46699568T
+Fecha de nacimiento: 25/06/1926
+Género: Varón
+Domicilio: Calle del Gobernador 94, 1Y
+Ciudad: MelillaHuesca, Guipúzcoa, Pais Vasco
+Código postal: 20198
+Email: adammolinacalderon@icloud.com
+Teléfono fijo: +34 943 03 84 54
+Teléfono móvil: +34 643 19 16 26
+NHC: 7925343
+
+Datos asistenciales.
+Médico: Dr. Esteban Andres Santiago. NC 704660312. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/04/1971
+Episodio: 49820763
+Centro de salud: Centro de Salud Málaga Sur
+
+Informe clínico del paciente:
+Paciente exfumador de 44 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Adam" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="48" text="Molina Calderon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="46699568T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="25/06/1926" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="148" text="Calle del Gobernador 94, 1Y" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="170" text="MelillaHuesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="181" text="Guipúzcoa" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="183" end="193" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="209" end="214" text="20198" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="222" end="251" text="adammolinacalderon@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="267" end="283" text="+34 943 03 84 54" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="300" end="316" text="+34 643 19 16 26" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="322" end="329" text="7925343" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="364" end="387" text="Esteban Andres Santiago" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="392" end="401" text="704660312" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="403" end="438" text="Neuropsicólogo Clínico Investigador" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="440" end="510" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="512" end="541" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="543" end="548" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="550" end="556" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="558" end="564" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="584" end="594" text="11/04/1971" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="605" end="613" text="49820763" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="631" end="657" text="Centro de Salud Málaga Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="698" end="707" text="exfumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="711" end="718" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

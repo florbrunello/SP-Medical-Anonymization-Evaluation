@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Montserrat Gutiérrez Santana
+DNI: 23409083M
+Fecha de nacimiento: 17/09/1938
+Género: F
+Domicilio: Calle de Lavapiés 79, 5H
+Ciudad: Eibar, Cádiz, Andalucía
+Código postal: 11635
+Email: montserrat.gutierrez_santana@gmail.com
+Teléfono fijo: +34 956 42 51 35
+Teléfono móvil: +34 756 51 39 21
+NHC: 2323672
+NASS: 656753115845
+
+Datos asistenciales.
+Médico: Dr. Juan Miguel Silva Moreno. NC 547913387. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 20/12/1971
+Episodio: 62649737
+Hospital: Complejo Hospitalario Torrecárdenas
+Matrícula del coche: 6068XCZ
+Modelo: Chevrolet Silverado
+VIN: VSUN5AFD4VY915884
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 33 años de edad, acompañado de su vecina. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Montserrat" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="56" text="Gutiérrez Santana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="62" end="71" text="23409083M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="93" end="103" text="17/09/1938" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="112" end="113" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="149" text="Calle de Lavapiés 79, 5H" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="163" text="Eibar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="170" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="181" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="11635" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="248" text="montserrat.gutierrez_santana@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="264" end="280" text="+34 956 42 51 35" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="297" end="313" text="+34 756 51 39 21" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="319" end="326" text="2323672" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="333" end="345" text="656753115845" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="380" end="404" text="Juan Miguel Silva Moreno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="409" end="418" text="547913387" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="420" end="455" text="Residente de 3° año en Oftalmología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="457" end="515" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="517" end="541" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="543" end="548" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="550" end="560" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="562" end="568" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="588" end="598" text="20/12/1971" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="609" end="617" text="62649737" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="628" end="663" text="Complejo Hospitalario Torrecárdenas" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="685" end="692" text="6068XCZ" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="726" end="743" text="VSUN5AFD4VY915884" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="787" end="813" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="817" end="824" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="851" end="857" text="vecina" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

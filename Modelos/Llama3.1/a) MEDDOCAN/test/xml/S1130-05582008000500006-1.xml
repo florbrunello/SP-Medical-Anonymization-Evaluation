@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marina</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Bordonava Rojas</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">25605435</TAG>.
+    Domicilio: <TAG TYPE="CALLE">San Pablo</TAG>, <TAG TYPE="TERRITORIO">Región Metropolitana</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Santiago</TAG>.
+    CP: <TAG TYPE="TERRITORIO">1457</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">25/01/1994</TAG>.
+    País: <TAG TYPE="PAIS">Chile</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">24 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">30/04/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodrigo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cosmelli Maturana</TAG>.
+    Informe Clinico: paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">24 años</TAG> de edad que consulta al Servicio de Cirugía Maxilofacial del Complejo Hospitalario San José en octubre de 2006, derivado del Servicio de Dermatología del mismo centro con diagnóstico de SMR por presentar aumento de volumen del labio inferior que no ha presentado respuesta al tratamiento con corticoides intralesionales y orales.
+    La paciente relata que este aumento de volumen en el labio inferior data del año 2004, el cual fue biopsiado el mismo año siendo diagnosticado histopatológicamente como una QG asociada a un SMR. El tratamiento inicial consistió en infiltraciones intralesionales realizadas en el servicio de dermatología con betametasona 4 mg y toma de prednisona 0,5 mg sin resultados positivos.
+    En su anamnesis relata antecedentes mórbidos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">epilepsia</TAG> en tratamiento, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">retraso mental leve</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipotiroidismo</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">resistencia a la insulina</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alergia al yodo</TAG>. Los fármacos que utiliza en forma habitual son <TAG TYPE="OTRO_NUMERO_IDENTIF">Levotiroxina 100 mg</TAG> 1 comp/día, <TAG TYPE="OTRO_NUMERO_IDENTIF">Carbamazepina 200 mg</TAG> 1,5 comp/día, <TAG TYPE="OTRO_NUMERO_IDENTIF">Metformina 850 mg</TAG> 1 comp/día.
+    En su examen físico se observa un gran aumento de volumen del labio inferior el cual está evertido, asociada a una lengua depapilada y presencia de surcos transversales en dorso lingual compatible con lengua fisurada así como una discreta <TAG TYPE="OTROS_SUJETO_ASISTENCIA">macroglosia</TAG>.
+    El tratamiento consistió en 3 infiltraciones intralesionales en el labio inferior de 1 ml de <TAG TYPE="OTRO_NUMERO_IDENTIF">Kenacort</TAG>-A 40 mg (<TAG TYPE="OTRO_NUMERO_IDENTIF">Triamcinolona acetónido</TAG>) diluida en 1 ml de <TAG TYPE="OTRO_NUMERO_IDENTIF">lidocaína</TAG> al 2% con el objetivo de controlar el dolor post infiltración, con intervalos de una semana. Se controló a la paciente durante tres meses donde se evidencio una marcada reducción del tamaño del labio inferior pero sin lograr todavía un tamaño estético, por lo tanto se realizó una cuarta infiltración sin observarse mejoras. Luego se programo una <TAG TYPE="OTRO_NUMERO_IDENTIF">queiloplastía</TAG> de reducción del labio inferior bajo anestesia general para mejorar la estética labial de la paciente, con buenos resultados que fueron controlados al mes post operatorio.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodrigo Cosmelli Maturana</TAG>. <TAG TYPE="CALLE">Complejo Hospitalario San José</TAG>, <TAG TYPE="TERRITORIO">Santiago-Chile</TAG> <TAG TYPE="CORREO_ELECTRONICO">rcosmelli@gmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

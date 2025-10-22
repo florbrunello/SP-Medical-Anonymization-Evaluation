@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Francisca Alarcon Mesa
+DNI: 26015492P
+Fecha de nacimiento: 18/12/2013
+Género: Mujer
+Domicilio: Calle de la Princesa 63
+Ciudad: Denia, Lérida, Cataluña
+Código postal: 25531
+Email: francisca.mesa@ciberisciii.es
+Teléfono fijo: +34 973 47 17 41
+Teléfono móvil: +34 773 17 51 09
+NHC: 7616293
+NASS: 528392385873
+Condición de riesgo: Guardia de Seguridad
+
+Datos asistenciales.
+Médico: Dra. María Pilar Marín Quintana. NC 748052311. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 42889402
+Hospital: Hospital Universitario Ramón y Cajal
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 11 años de edad, acompañado de su hermana. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.89.160, con dirección MAC 4B:C9:98:FA:E9:44. 

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Joaquín Palacios Vázquez
+DNI: 36411872C
+Fecha de nacimiento: 15/02/2017
+Género: Hombre
+Domicilio: Calle de Santa Isabel 80
+Ciudad: Vilanova i la Geltrú, Jaén, Andalucía
+Código postal: 23120
+Email: vazquez@ciberehd.org
+Teléfono fijo: +34 953 67 93 03
+Teléfono móvil: +34 653 42 84 48
+NHC: 6504395
+Condición de riesgo: Trabajador de Mantenimiento
+
+Datos asistenciales.
+Médico: Dra. Vanessa Conde Morales. NC 775049553. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/03/2018
+Centro de salud: Centro de Salud Chamartín
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de un año de edad, acompañado de su abuela. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es AN170ALY175. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Joaquín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="52" text="Palacios Vázquez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="36411872C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="15/02/2017" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="114" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="150" text="Calle de Santa Isabel 80" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="179" text="Vilanova i la Geltrú" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="181" end="185" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="187" end="196" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="212" end="217" text="23120" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="225" end="245" text="vazquez@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="261" end="277" text="+34 953 67 93 03" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="294" end="310" text="+34 653 42 84 48" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="316" end="323" text="6504395" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="345" end="372" text="Trabajador de Mantenimiento" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="641" end="651" text="02/03/2018" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="669" end="694" text="Centro de Salud Chamartín" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T18" start="738" end="758" text="ascendencia asiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="762" end="768" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="795" end="801" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T21" start="885" end="896" text="AN170ALY175" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

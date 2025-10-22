@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jesús</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aguilar Herrero</TAG>.
+    CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc-16256424</TAG>.
+    NASS:.
+    Domicilio:  <TAG TYPE="CALLE">Avda. de Europa, 1, 1F</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Ciudad Real</TAG>.
+    CP: <TAG TYPE="TERRITORIO">13005</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">16256424</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/04/2014</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 días de nacido</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">17/04/2014</TAG>.
+    Especialidad: <TAG TYPE="PROFESION">Urgencias</TAG>.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Manuel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernandez Arjona</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">01 13 28065</TAG>.
+    Número de teléfono de la madre: <TAG TYPE="NUMERO_TELEFONO">630 304 365</TAG>.
+    Motivo de ingreso: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">aumento del hemiescroto izquierdo</TAG>.
+    Historia Actual: Recién nacido de tres días de vida, que acude a urgencias con su madre <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">Remedios</TAG> por descubrir un aumento del hemiescroto izquierdo, así como un color violáceo del mismo; <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jesús</TAG> se encontraba bien al nacimiento según los padres, y en las últimas cuatro horas presenta un llanto inconsolable. No presenta fiebre, ni otro dato clínico adicional. 
+    Exploración física: A la exploración encontramos un hemiescroto izquierdo aumentado de tamaño, doloroso a la manipulación, de color rojo vinoso.
+    Pruebas complementarias: Analíticamente el paciente no presenta ninguna alteración en el hemograma, la bioquímica, ni el estudio de coagulación.
+    En la ecografía escrotal encontramos un teste derecho de características normales; el teste izquierdo se encuentra aumentado de tamaño, con irregularidades en su interior, con una zona anecoica que puede sugerir necrosis, rodeado de una zona hiperecoica sugerente de calcificación ; todo ello compatible con torsión testicular evolucionada.
+    Evolución y comentarios: El paciente es sometido a intervención quirúrgica procediéndose a la extirpación del teste izquierdo y a la fijación del derecho, evolucionando favorablemente y encontrándose a los dos años bien y con el teste derecho de tamaño y consistencia normal.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">DR. Manuel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fernandez Arjona</TAG> <TAG TYPE="CALLE">Avenida Fuencaliente, 3</TAG> <TAG TYPE="TERRITORIO" >13005</TAG> <TAG TYPE="TERRITORIO" >Ciudad Real</TAG>. email: <TAG TYPE="CORREO_ELECTRONICO">mfvd@eresmas.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

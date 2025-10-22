@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Dolores Arias Núñez
+DNI: 82223375P
+Fecha de nacimiento: 24/10/1992
+Género: F
+Domicilio: Calle del Fúcar 88
+Ciudad: Burgos, Segovia, Castilla y León
+Código postal: 40891
+Email: arias_nunez@ciberer.es
+Teléfono fijo: +34 921 84 69 36
+Teléfono móvil: +34 721 02 21 68
+NHC: 5133866
+NASS: 160086232644
+Condición de riesgo: Conductor de Camión
+
+Datos asistenciales.
+Médico: Dra. Gema Morales Marín. NC 878802512. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 30/01/1995
+Episodio: 60316922
+Hospital: Hospital Universitario de Cabueñes
+
+Informe clínico del paciente:
+Paciente discapacitado de 2 años de edad, acompañado de su hermano. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Dolores" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="53" text="Arias Núñez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="82223375P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="24/10/1992" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="140" text="Calle del Fúcar 88" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="155" text="Burgos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="164" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="181" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="40891" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="232" text="arias_nunez@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 921 84 69 36" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 721 02 21 68" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="5133866" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="160086232644" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="351" end="370" text="Conductor de Camión" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="613" end="623" text="30/01/1995" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="634" end="642" text="60316922" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="653" end="687" text="Hospital Universitario de Cabueñes" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="728" end="741" text="discapacitado" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="745" end="751" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="778" end="785" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ana María Aguilar Bueno
+DNI: 43170913M
+Fecha de nacimiento: 24/02/1943
+Género: Mujer
+Domicilio: Calle de Fortuny 23, 6R
+Ciudad: Segovia, Región de Murcia, Región de Murcia
+Código postal: 30750
+Email: anamaria-aguilar-bueno627@ciberned.es
+Teléfono fijo: +34 968 96 91 15
+Teléfono móvil: +34 768 97 37 93
+NHC: 2120610
+NASS: 234964303759
+Condición de riesgo: Técnico de Radiología
+
+Datos asistenciales.
+Médico: Dra. Mercedes Ferrer Zamora. NC 883471089. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 22/06/2006
+Episodio: 92572731
+Hospital: Hospital Universitario de Basurto
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 63 años de edad, acompañado de su yerno. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Ana María" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="51" text="Aguilar Bueno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="43170913M" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="24/02/1943" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="112" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="147" text="Calle de Fortuny 23, 6R" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="163" text="Segovia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="181" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="183" end="199" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="215" end="220" text="30750" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="228" end="265" text="anamaria-aguilar-bueno627@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="281" end="297" text="+34 968 96 91 15" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="314" end="330" text="+34 768 97 37 93" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="336" end="343" text="2120610" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="350" end="362" text="234964303759" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="384" end="405" text="Técnico de Radiología" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="658" end="668" text="22/06/2006" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="679" end="687" text="92572731" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="698" end="731" text="Hospital Universitario de Basurto" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="775" end="803" text="ascendencia europea oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="807" end="814" text="63 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="841" end="846" text="yerno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jaume Vicente</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Velasco</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">21380833X</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/03/1955</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Zurbano 21</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Majadahonda</TAG>, <TAG TYPE="TERRITORIO">Málaga</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">29255</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">vicente@icloud.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 83 27 14</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 651 49 78 76</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9030911</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">279492776338</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Equipos Mineros</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Elisa Martínez Pascual</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">951862170</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/03/1970</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">67585100</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Lugo</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermano</TAG>. Se realizó un <TAG TYPE="DIREC_PROT_INTERNET">expediente con URL</TAG> <TAG TYPE="URL_WEB">http://example-biotech.com//32743001U</TAG>.
+  </TEXT>
+</MEDDOCAN>

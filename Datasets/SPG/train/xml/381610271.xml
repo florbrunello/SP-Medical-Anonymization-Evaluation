@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Susana Reyes Santana
+DNI: 94785728Z
+Fecha de nacimiento: 04/08/2015
+Género: F
+Domicilio: Calle de los Embajadores 52
+Ciudad: Lugo, Alicante, Comunidad Valenciana
+Código postal: 03975
+Email: susana.reyes_santana473@imibic.org
+Teléfono fijo: +34 965 76 71 38
+Teléfono móvil: +34 765 14 72 99
+NHC: 7848654
+NASS: 036429054639
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dra. Nuria Izquierdo Del Rio. NC 460988690. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 31/10/2021
+Centro de salud: Centro de Salud Puente de Vallecas
+Matrícula del coche: 8320QQT
+Modelo: Tesla Model 3
+VIN: VSYRO5IAXWG670518
+
+Informe clínico del paciente:
+Paciente no fumador de 6 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Susana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Reyes Santana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="94785728Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="04/08/2015" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="144" text="Calle de los Embajadores 52" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="157" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="167" text="Alicante" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="189" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="03975" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="252" text="susana.reyes_santana473@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="268" end="284" text="+34 965 76 71 38" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="301" end="317" text="+34 765 14 72 99" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="323" end="330" text="7848654" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="337" end="349" text="036429054639" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="371" end="381" text="Paramédico" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="638" end="648" text="31/10/2021" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="666" end="700" text="Centro de Salud Puente de Vallecas" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="722" end="729" text="8320QQT" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="757" end="774" text="VSYRO5IAXWG670518" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="815" end="825" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="829" end="835" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="862" end="868" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

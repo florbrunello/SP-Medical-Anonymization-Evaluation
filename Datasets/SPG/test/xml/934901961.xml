@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Amparo Herrero Miranda
+DNI: 16039260A
+Fecha de nacimiento: 08/07/2012
+Género: Femenino
+Domicilio: Calle de Preciados 6
+Ciudad: Pamplona, Teruel, Aragón
+Código postal: 44854
+Email: herrero@ual.es
+Teléfono fijo: +34 978 62 51 27
+FAX: +34 978 13 10 86
+NHC: 1178363
+Condición de riesgo: Pintor de Construcción
+
+Datos asistenciales.
+Médico: Dr. Fernando Escudero Jiménez. NC 786285688. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 29/09/2013
+Hospital: Hospital Clínic Universitario Virgen de la Arrixaca
+
+Informe clínico del paciente:
+Paciente de ascendencia centroasiática de un año de edad, acompañado de su abuela. Se registró una sesión de huella dactilar, el código obtenido para revisarla es WQ316CYJ513. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Amparo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Herrero Miranda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="16039260A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="08/07/2012" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="114" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="146" text="Calle de Preciados 6" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="163" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="171" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="179" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="44854" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="222" text="herrero@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="238" end="254" text="+34 978 62 51 27" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="260" end="276" text="+34 978 13 10 86" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="282" end="289" text="1178363" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="311" end="333" text="Pintor de Construcción" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="368" end="393" text="Fernando Escudero Jiménez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="398" end="407" text="786285688" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="409" end="452" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="454" end="512" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="514" end="538" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="540" end="545" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="547" end="557" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="559" end="565" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="585" end="595" text="29/09/2013" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="606" end="657" text="Hospital Clínic Universitario Virgen de la Arrixaca" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="701" end="727" text="ascendencia centroasiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="731" end="737" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="764" end="770" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T29" start="852" end="863" text="WQ316CYJ513" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

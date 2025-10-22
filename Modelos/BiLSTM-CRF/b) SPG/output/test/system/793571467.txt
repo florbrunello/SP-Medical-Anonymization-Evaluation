@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Inmaculada Alonso Conde
+DNI: 59788998S
+Fecha de nacimiento: 06/01/1978
+Género: Femenino
+Domicilio: Calle de la Princesa 80
+Ciudad: Alcázar de San Juan, Álava, Pais Vasco
+Código postal: 01172
+Email: alonso_conde376@ual.es
+Teléfono fijo: +34 945 44 48 98
+Teléfono móvil: +34 645 71 82 27
+NHC: 7923683
+NASS: 568814637336
+Condición de riesgo: Operador de Maquinaria Pesada
+
+Datos asistenciales.
+Médico: Dr. Ramón Vila Bernal. NC 147038624. Neurólogo Investigador en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 26/11/2017
+Centro de salud: Centro de Salud Alhaurín de la Torre
+Matrícula del coche: 0804VOI
+Modelo: Chrysler Pacifica
+VIN: VSFR7UE3R1P549617
+
+Informe clínico del paciente:
+Paciente fumador de 39 años de edad. Se realizó un expediente con URL http://example-clinica.com//63711086Z. 

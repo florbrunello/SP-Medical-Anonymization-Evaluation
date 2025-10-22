@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Eric Gómez Miranda</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">42454786Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/07/2011</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle Mayor 52, 1G</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Denia, Granada, Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">18120</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">z0nADoFh@ciberer.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 85 44 29</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 958 35 32 63</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2587788</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">740061735290</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Pintor de Construcción</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Esperanza</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Plaza Espinosa</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">965989298</TAG>. Investigadora Clínica en Epidemiología. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">01/01/2013</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">21132443</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Majadahonda</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año</TAG> de edad, acompañado de su hermano. Se registró una sesión de <TAG TYPE="PROFESION">escaneo retiniano</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">KR005NQB160</TAG>.
+    Antecedentes:
+    El paciente no tiene <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">antecedentes médicos</TAG> relevantes.
+    Evolución y comentarios:
+    El paciente se encuentra en buen <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estado de salud general</TAG>. La sesión de <TAG TYPE="PROFESION">escaneo retiniano</TAG> se realizó sin incidentes.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Esperanza</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Plaza Espinosa</TAG>
+    <TAG TYPE="CENTRO_SALUD">Centro de Salud Majadahonda</TAG>
+    <TAG TYPE="FECHAS">01/01/2013</TAG>
+  </TEXT>
+</MEDDOCAN>

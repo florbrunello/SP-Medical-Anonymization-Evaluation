@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Francisco Nieto Manzano
+DNI: 30768391A
+Fecha de nacimiento: 13/11/1988
+Género: Varón
+Domicilio: Calle de Fuencarral 78, 5A
+Ciudad: Ronda, Menorca, Islas Baleares
+Código postal: 07118
+Email: josefrancisco_nietomanzano@salud.madrid.org
+Teléfono fijo: +34 971 73 76 42
+FAX: +34 971 98 41 31
+NHC: 3548357
+Condición de riesgo: Soldador
+
+Datos asistenciales.
+Médico: Dr. José Ángel Ruiz Andres. NC 039047076. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/06/1990
+Centro de salud: Centro de Salud Vicálvaro
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de un año de edad, acompañado de su abuela. Se realizó un expediente con URL http://example-biotech.com//34171781Y. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="42" text="José Francisco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="43" end="56" text="Nieto Manzano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="62" end="71" text="30768391A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="93" end="103" text="13/11/1988" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="112" end="117" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="129" end="155" text="Calle de Fuencarral 78, 5A" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="164" end="169" text="Ronda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="178" text="Menorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="180" end="194" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="07118" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="266" text="josefrancisco_nietomanzano@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="282" end="298" text="+34 971 73 76 42" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="304" end="320" text="+34 971 98 41 31" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="326" end="333" text="3548357" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="355" end="363" text="Soldador" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="398" end="420" text="José Ángel Ruiz Andres" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="425" end="434" text="039047076" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="436" end="485" text="Psiquiatra Especialista en Trastornos de Ansiedad" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="487" end="557" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="559" end="588" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="590" end="595" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="597" end="603" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="605" end="611" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="631" end="641" text="03/06/1990" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="659" end="684" text="Centro de Salud Vicálvaro" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="728" end="761" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="765" end="771" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="798" end="804" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="839" end="861" text="http://example-biotech" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

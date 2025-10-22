@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Germán Vicente Vila</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">29673536V</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">19/01/1961</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de las Tres Cruces 71, 10Q</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Málaga, Almería, Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">04759</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">german_vicente894@uca.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 950 89 13 48</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 750 95 55 90</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4509703</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">29673536V</TAG>.
+    Condición de riesgo: Paciente con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedentes de hipertensión arterial</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Francisca</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gil Gallardo</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">615872500</TAG>. <TAG TYPE="PROFESION">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Cargo: <TAG TYPE="PROFESION">Jefa de Sección de Psiquiatría del Complejo Hospitalario Universitario de A Coruña</TAG>.
+    Dirección: <TAG TYPE="CALLE">Complejo Hospitalario Universitario de A Coruña, 15006 A Coruña, España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/07/2024</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de A Coruña</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">63 años</TAG> de edad, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedentes de hipertensión arterial</TAG>, que se refirió a la consulta con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">síntomas de ansiedad y estrés</TAG>. El paciente informó que ha estado experimentando un aumento en la frecuencia y la intensidad de sus síntomas en los últimos meses, lo que ha afectado su calidad de vida y su capacidad para realizar actividades diarias. El paciente también informó que ha estado tomando medicamentos para controlar su hipertensión, pero que no ha experimentado ningún cambio en su condición.
+    La exploración física reveló una tensión arterial de 140/90 mmHg, con un pulso de 80 latidos por minuto. El paciente estaba consciente y orientado, pero presentaba signos de ansiedad y estrés, como sudoración y taquicardia.
+    Se solicitaron análisis de sangre para evaluar la función renal y la función hepática, así como un electrocardiograma para evaluar la función cardíaca. Los resultados de los análisis de sangre mostraron una función renal normal, pero una función hepática ligeramente alterada. El electrocardiograma mostró una frecuencia cardíaca normal.
+    El paciente fue diagnosticado con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ansiedad generalizada</TAG> y se le prescribió tratamiento con medicamentos <TAG TYPE="PROFESION">antipsicóticos y ansiolíticos</TAG>. Se le recomendó también realizar <TAG TYPE="PROFESION">terapia cognitivo-conductual</TAG> para ayudarlo a manejar sus síntomas de ansiedad y estrés.
+    Antecedentes:
+    El paciente tiene un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedente de hipertensión arterial</TAG>, que se ha estado controlando con medicamentos. También tiene un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedente de ansiedad generalizada</TAG>, que ha sido tratado con medicamentos y <TAG TYPE="PROFESION">terapia</TAG>.
+    Evolución y comentarios:
+    El paciente ha estado recibiendo tratamiento durante las últimas semanas y ha experimentado una mejoría en sus síntomas de ansiedad y estrés. Sin embargo, todavía presenta signos de ansiedad y estrés, y se le recomienda continuar con el tratamiento y la <TAG TYPE="PROFESION">terapia</TAG>.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Francisca</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gil Gallardo</TAG>, <TAG TYPE="PROFESION">Psiquiatra Especialista en Trastornos de Ansiedad</TAG>, <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>.
+  </TEXT>
+</MEDDOCAN>

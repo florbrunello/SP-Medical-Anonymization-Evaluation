@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carolina</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ordoñez Julve</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3598742</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">84 37283957 33</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Av. de los Pajaros,18</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28006</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">04/7/1952</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">63 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">10/01/2016</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Urgencias</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Ramón</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Torrecilla García-Ripoll</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28</TAG>.
+    Informe clínico del paciente: paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">63 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">anguor pectoris</TAG>, remitida a nuestro servicio desde un hospital de un medio rural. El motivo de la consulta era el hallazgo casual en una ecografía de una masa renal izquierda, no refiriendo la paciente sintomatología alguna. En la analítica de sangre sólo aparecía una discreta <TAG TYPE="OTRO_NUMERO_IDENTIF">eosinofilia</TAG>. Como estudios complementarios se realizaron urografías intravenosas en las que se observó un efecto masa a nivel de flanco izquierdo, de borde liso y bien delimitado, dependiente del polo superior del riñón izquierdo, con compresión extrínseca del sistema pielocalicial, de 16 x 10 cm.. La TAC reveló una masa de 17 x 12 x 19 cm en el polo superior del riñón izquierdo, con zonas quísticas, compatible con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nefroma quístico multilocular</TAG>, sin existir adenopatías. La gammagrafía DMSA mostraba una función renal diferencial del 63% para el riñón derecho y del 37% para el izquierdo.
+    Se realizó una nueva ecografía en la que se aprecia una imagen compatible con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">quiste hidatídico</TAG> de gran tamaño, con estructuras compatibles con vesículas en su interior. La serología hidatídica resultó negativa, por lo que se decidió someter a la paciente a una RMN que tampoco aclaró el diagnóstico de forma definitiva: masa en el polo superior del riñón izquierdo con estructura interna compleja, bien delimitada, sin captación de contraste, con calcificaciones, sospechosa de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">quiste hidatídico renal</TAG> o <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nefroma quístico multilocular</TAG>.
+    En vista de los resultados anteriormente expuestos, el paso siguiente fue la punción ecodirigida de la masa renal, siendo nuevamente negativa la serología para hidatidosis, aunque se obtuvo un líquido de aspecto cristalino.
+    Finalmente la paciente se sometió a intervención quirúrgica en la que se confirmó el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">quiste hidatídico renal</TAG> y se realizó quistectomía parcial del mismo, preparando el campo operatorio mediante compresas bañadas en <TAG TYPE="OTRO_NUMERO_IDENTIF">rivanol</TAG>.
+    La evolución postoperatoria fue favorable, instaurándose tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">albendazol</TAG> 400 mg cada 12 horas durante un mes tras la intervención quirúrgica.
+    En el momento actual la paciente permanece asintomática (se mantiene la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> que ya presentaba antes del diagnóstico) y la serología de control volvió a resultar negativa, persistiendo una mínima <TAG TYPE="OTRO_NUMERO_IDENTIF">eosinofilia</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Ramón</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Torrecilla García-Ripoll</TAG>. <TAG TYPE="CALLE">C/ Manuel Silvela nº 2, 6º A</TAG> <TAG TYPE="TERRITORIO">28014</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG>. (<TAG TYPE="PAIS">España</TAG>) <TAG TYPE="CORREO_ELECTRONICO">juanra8@ozu.es</TAG>
+  </TEXT>
+</MEDDOCAN>

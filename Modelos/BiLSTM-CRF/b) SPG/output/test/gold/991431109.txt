@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: José Ramón Segura Exposito
+DNI: 91227227G
+Fecha de nacimiento: 21/10/1956
+Género: V
+Domicilio: Calle de San Ildefonso 44, 3U
+Ciudad: Ibiza, La Rioja, La Rioja
+Código postal: 26255
+Email: joseramon_exposito@udc.es
+Teléfono fijo: +34 941 17 04 22
+Teléfono móvil: +34 641 49 46 85
+NHC: 7607301
+Condición de riesgo: Ama de casa
+
+Datos asistenciales.
+Médico: Dra. Alba Menendez Vidal. NC 674912935. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 22/07/1964
+Episodio: 96179842
+Centro de salud: Centro de Salud Málaga Sur
+
+Informe clínico del paciente:
+Paciente refugiado de 7 años de edad, acompañado de su abuela. Se realizó un expediente con URL http://example-dermatology.org//50515210P. 

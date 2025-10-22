@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Javier</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Andres</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lozano</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">60333706Z</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/10/1956</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Magdalena 4</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ronda, Santa Cruz de Tenerife, Canarias</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">38247</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">javier-andres694@imibic.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 922 86 16 80</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 722 81 74 41</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7913899</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">722294721197</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Repartidor</TAG>.
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Miguel Ángel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Otero Escobar</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">889745930</TAG>. <TAG TYPE="PROFESION">Neuropsicólogo Clínico Investigador</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">25/06/1996</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Tetuán</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="DESCENDENCIA_ETNICA">descendencia africana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">46 años</TAG> de edad, que acude a consulta por presentar síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor en la región lumbar</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fatiga muscular</TAG> en los últimos meses. La exploración física revela una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">postura corporal anormal</TAG>, con una curvatura lateral derecha notable. La evaluación neurológica muestra una disminución de la fuerza muscular en las piernas, especialmente en la zona de los músculos isquiotibiales.
+    Los resultados de las pruebas de imagen solicitadas (Rx de columna lumbar y TAC craneal) muestran una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hernia de disco</TAG> en la región L4-L5, con presión sobre la raíz nerviosa correspondiente. Se diagnostica una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lesión de disco lumbar</TAG>, con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fatiga muscular</TAG>.
+    Se instaura tratamiento conservador, incluyendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reposo</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fisioterapia</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">medicación antiinflamatoria</TAG>. Se recomienda al paciente realizar <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ejercicios de estiramiento</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fortalecimiento</TAG> de los músculos de la región lumbar, con el objetivo de mejorar la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">postura corporal</TAG> y reducir la presión sobre la raíz nerviosa afectada.
+    Evolución y comentarios:
+    El paciente sigue un tratamiento de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fisioterapia</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">medicación antiinflamatoria</TAG>, con una mejoría notable en los síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fatiga muscular</TAG>. Se recomienda continuar con el tratamiento y realizar revisiones periódicas para evaluar la progresión de la lesión.
+    Remitido por:
+    El paciente ha sido remitido al <TAG TYPE="PROFESION">servicio de ortopedia</TAG> para realizar una evaluación más detallada de la lesión y determinar la necesidad de una intervención quirúrgica.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Enrique Estevez Arroyo
+DNI: 30639711P
+Fecha de nacimiento: 25/05/1992
+Género: H
+Domicilio: Calle de Argumosa 43
+Ciudad: Ponferrada, Las Palmas, Canarias
+Código postal: 35477
+Email: 277ZNv1@ioba.med.uva.es
+Teléfono fijo: +34 928 27 51 12
+Teléfono móvil: +34 628 15 39 00
+NHC: 5429269
+Condición de riesgo: Químico
+
+Datos asistenciales.
+Médico: Dra. Emilia Roca Lozano. NC 408164126. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/05/2006
+Centro de salud: Centro de Salud Sevilla Norte
+
+Informe clínico del paciente:
+Paciente no fumador de 13 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.208.249, con dirección MAC 07:AC:18:28:D1:B2. 

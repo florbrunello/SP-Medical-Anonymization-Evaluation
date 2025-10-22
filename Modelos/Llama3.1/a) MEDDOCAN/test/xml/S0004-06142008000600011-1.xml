@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Víctor</TAG>.
+  Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Nuñez Jimenez</TAG>.
+  CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc-346798</TAG>.
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">74 3141698 12</TAG>.
+  Domicilio: <TAG TYPE="CALLE">Avda. de Federico Soto, 1</TAG>.
+  Localidad/ Provincia: <TAG TYPE="TERRITORIO">Alicante</TAG>.
+  CP: <TAG TYPE="TERRITORIO">03001</TAG>.
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">346798</TAG>.
+  Datos asistenciales.
+  Fecha de nacimiento: <TAG TYPE="FECHAS">28/02/1954</TAG>.
+  País: <TAG TYPE="PAIS">España</TAG>.
+  Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">56</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+  Fecha de Ingreso: <TAG TYPE="FECHAS">07/06/2010</TAG>.
+  Especialidad: <TAG TYPE="PROFESION">.</TAG>.
+  Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Joaquín Ulises Juan Escudero</TAG>   NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">06 03 21395</TAG>.
+  Motivo de ingreso: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">56</TAG> años remitido a nuestro servicio por hallazgo incidental de masa renal de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">5 cm</TAG> de diámetro máximo, mesorrenal izquierda.
+  Antecedentes: Como único antecedente el paciente padece <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hiperuricemia</TAG>, y no refiere haber presentado episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematuria</TAG>.
+  Exploración física y pruebas complementarias:  En el centro donde se diagnosticó se realizó estudio de extensión con radiografía de tórax, hemograma, bioquímica y tomografía computerizada abdomino-pélvica, donde se evidenció <TAG TYPE="OTROS_SUJETO_ASISTENCIA">trombo tumoral</TAG> que se extendía por la vena renal hasta la vena cava retrohepática. Ante este caso se decidió en el centro emisor, colocar filtro en vena cava inferior para evitar la progresión y la embolización de dicho trombo. Posteriormente el paciente fue remitido a nuestro centro para valorar tratamiento quirúrgico, ya que el centro emisor carecía de servicio de cirugía cardiaca.
+  Para completar estudio realizamos urografías por resonancia magnética (Uro-RNM), y estudio angiográfico mediante tomografia computerizada (angio-TC) con cavografía para valorar con la máxima precisión posible el alcance del trombo y la posible infiltración vascular tumoral. En ambas exploraciones se informa de la extensión retrohepática del trombo, la aparente ausencia de infiltración vascular y de adenopatías, así como la presencia de filtro metálico inmediatamente por encima del trombo, responsable de la artefactación de las imágenes.
+  Evolución y comentarios: Con el diagnóstico de neoformación renal estadio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">T3bN0M0</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">trombo tumoral</TAG> nivel II, se decide intervenir, conjuntamente con el servicio de cirugía cardiaca de nuestro centro, realizando esternotomía y laparotomía subcostal izquierda y, previa liberación del ángulo esplénico del colon mediante apertura del retroperitoneo a nivel del mesenterio, nefrectomía radical izquierda permaneciendo la pieza de nefrectomía anclada por la vena renal trombosada. Posteriormente, y bajo circulación extracorpórea con hipotermia profunda y retroperfusión cerebral, se procede a la retirada del filtro por cierre del mismo y tracción bajo control fluoroscópico desde su punto de inserción a nivel yugular, con control por auriculotomía derecha de la posible diseminación a pulmón de pequeños trombos durante la maniobra de retirada, para realizar acto seguido la resección de la vena renal y su ostium por sospecha de infiltración de los mismos y trombectomía por tracción para reparar posteriormente el defecto con un parche de <TAG TYPE="OTRO_NUMERO_IDENTIF">Goretex</TAG>®, precisando por este motivo el paciente anticoagulación con <TAG TYPE="OTRO_NUMERO_IDENTIF">dicumarínicos</TAG> durante 3 meses, hasta la endotelización del injerto sintético. La anatomía patológica revela la existencia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">adenocarcinoma renal</TAG>, grado III de <TAG TYPE="OTRO_NUMERO_IDENTIF">Furhman</TAG> que infiltra la cápsula renal sin sobrepasarla así como la vena renal, no encontrándose infiltrada la vena cava (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">pT3bNoMo</TAG>) con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">trombo de origen exclusivamente tumoral</TAG>.
+  El paciente sigue en revisiones en nuestras consultas hasta que, en el TC de control a los 12 meses se evidencia lesión lítica en lámina posterior de la vértebra L2, tras estudio de extensión con gammagrafía y TC total-body que confirman que se trata de una lesión única, es remitido al servicio de neurocirugía donde es intervenido realizándose resección de dicha lesión. 
+  Actualmente, han transcurrido 20 meses de seguimiento tras la nefretomía, el paciente se encuentra en revisiones por nuestro servicio y el servicio de oncología médica, encontrándose asintomático y sin signos de recidiva
+  Diagnóstico Principal: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">neoformación renal estadio T3bN0M0</TAG>
+  Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Joaquín Ulises Juan Escudero</TAG> <TAG TYPE="CALLE">Plaza Juan Carlos I, Nº 7</TAG> <TAG TYPE="TERRITORIO" >03370</TAG> <TAG TYPE="TERRITORIO" >Redován</TAG>, <TAG TYPE="TERRITORIO" >Alicante</TAG>, <TAG TYPE="PAIS">España</TAG>. <TAG TYPE="CORREO_ELECTRONICO">chimojuan@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

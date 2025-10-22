@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Valentín Román Ramos</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">58386768A</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/08/2013</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Bailén 63</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ronda</TAG>, <TAG TYPE="TERRITORIO">Gerona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">17786</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">roman.ramos620@ub.edu</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 972 63 58 21</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 972 77 83 67</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0797013</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">527968036347</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Inspector de Seguridad Minera</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. María Luz Calvo Padilla</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 437068020</TAG>. <TAG TYPE="PROFESION">Residente de 4° año en Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/09/2017</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">54098690</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Delicias</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">4 años</TAG> de edad, acompañado de su padre, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipotiroidismo congénito</TAG> diagnosticado en la infancia y tratado con <TAG TYPE="OTRO_NUMERO_IDENTIF">levo-tiroxina</TAG> desde entonces. Presenta un cuadro de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipotiroidismo subóptimo</TAG> con niveles de <TAG TYPE="OTRO_NUMERO_IDENTIF">TSH</TAG> ligeramente elevados y <TAG TYPE="OTRO_NUMERO_IDENTIF">T4</TAG> en el límite inferior de la normalidad. La exploración física revela un niño de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">talla y peso</TAG> dentro de la normalidad para su edad, con una apariencia general de buen estado de salud. La exploración neurológica no muestra signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipotiroidismo</TAG>, como <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lentitud en la reacción</TAG> o alteraciones en la coordinación motora. Sin embargo, se observa una ligera <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipotensión arterial</TAG> y una frecuencia cardíaca ligeramente disminuida.
+    Exploración física: y pruebas diagnósticas:
+    La exploración física completa, incluyendo la exploración de la piel, los órganos abdominales y la exploración neurológica, no muestra signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipotiroidismo grave</TAG>. Sin embargo, se observa una ligera <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipotensión arterial</TAG> y una frecuencia cardíaca ligeramente disminuida. Los resultados de las pruebas diagnósticas, incluyendo la dosis de <TAG TYPE="OTRO_NUMERO_IDENTIF">TSH</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">T4</TAG>, muestran niveles ligeramente elevados de <TAG TYPE="OTRO_NUMERO_IDENTIF">TSH</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">T4</TAG> en el límite inferior de la normalidad.
+    Tratamiento: y pronóstico:
+    Se decide aumentar la dosis de <TAG TYPE="OTRO_NUMERO_IDENTIF">levo-tiroxina</TAG> para mejorar los niveles de <TAG TYPE="OTRO_NUMERO_IDENTIF">T4</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">TSH</TAG>. Se solicita una revisión de la dosis de medicación en 6 semanas para evaluar la respuesta al tratamiento. El pronóstico es bueno, con la expectativa de que el paciente mejore con el tratamiento adecuado.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipotiroidismo congénito</TAG> diagnosticado en la infancia y tratado con <TAG TYPE="OTRO_NUMERO_IDENTIF">levo-tiroxina</TAG> desde entonces.
+    Evolución y comentarios:
+    El paciente ha sido seguido en el servicio de <TAG TYPE="PROFESION">Endocrinología</TAG> desde su diagnóstico y ha estado recibiendo tratamiento con <TAG TYPE="OTRO_NUMERO_IDENTIF">levo-tiroxina</TAG>. La exploración física y las pruebas diagnósticas han mostrado niveles ligeramente elevados de <TAG TYPE="OTRO_NUMERO_IDENTIF">TSH</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">T4</TAG> en el límite inferior de la normalidad. Se ha decidido aumentar la dosis de <TAG TYPE="OTRO_NUMERO_IDENTIF">levo-tiroxina</TAG> para mejorar los niveles de <TAG TYPE="OTRO_NUMERO_IDENTIF">T4</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">TSH</TAG>.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. María Luz Calvo Padilla</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Abel Romero Robles
+DNI: 59167563V
+Fecha de nacimiento: 03/10/2023
+Género: Hombre
+Domicilio: Calle del Pez 64, 3A
+Ciudad: Gijón, Vizcaya, Pais Vasco
+Código postal: 48280
+Email: abel-romerorobles@us.es
+Teléfono fijo: +34 946 62 48 52
+FAX: +34 946 14 94 81
+NHC: 6345206
+Condición de riesgo: Trabajador de Residuos Sólidos
+
+Datos asistenciales.
+Médico: Dr. Rodrigo Gil Morales. NC 698709207. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 00159905
+Hospital: Complejo Hospitalario La Mancha Centro
+Matrícula del coche: 4449XYL
+Modelo: Jeep Wrangler
+VIN: VSX6B20XARC092247
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de un año de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Abel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="46" text="Romero Robles" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="59167563V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="03/10/2023" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="108" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="140" text="Calle del Pez 64, 3A" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="154" text="Gijón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="163" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="175" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="48280" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="227" text="abel-romerorobles@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="243" end="259" text="+34 946 62 48 52" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="265" end="281" text="+34 946 14 94 81" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="287" end="294" text="6345206" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="316" end="346" text="Trabajador de Residuos Sólidos" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="381" end="400" text="Rodrigo Gil Morales" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="405" end="414" text="698709207" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="416" end="463" text="Investigador Clínico en Enfermedades Digestivas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="465" end="558" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="560" end="589" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="591" end="596" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="598" end="604" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="606" end="612" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="632" end="642" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="653" end="661" text="00159905" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="672" end="710" text="Complejo Hospitalario La Mancha Centro" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="732" end="739" text="4449XYL" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="767" end="784" text="VSX6B20XARC092247" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="828" end="857" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="861" end="867" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="894" end="901" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

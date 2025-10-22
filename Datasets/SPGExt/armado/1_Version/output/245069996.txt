@@ -1,0 +1,31 @@
+Aquí te dejo un ejemplo de informe clínico del paciente que cumple con los requisitos:
+
+Datos del paciente.
+Nombre: Ismael Álvarez Castro
+DNI: 68586162R
+Fecha de nacimiento: 24/05/2019
+Género: Masculino
+Domicilio: Calle de Leganitos 98, 9U
+Ciudad: Vilanova i la Geltrú, Ibiza, Islas Baleares
+Código postal: 07402
+Email: ismael_alvarez@h12o.es
+Teléfono fijo: +34 971 90 83 14
+FAX: +34 971 00 84 91
+NHC: 1212287
+NASS: 559641889446
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dr. Marcos Paredes Pacheco. NC 086946548. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/03/2020
+Centro de salud: Centro de Salud Fuencarral
+Matrícula del coche: 6863XEU
+Modelo: Audi A4
+VIN: VSP4ZF2I8SR312128
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 10 meses de edad, acompañado de su abuela, presenta una temperatura corporal de 38,5°C, con sudoración y llanto intenso. La exploración física revela un estado de alerta, con buen estado de nutrición y hidratación. La auscultación cardíaca y pulmonar es normal. La exploración abdominal no revela patología significativa. La exploración neurológica no muestra signos de alteración.
+
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 11,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 70%); plaquetas 250.000/mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 120 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 15 U/l; GPT 25 U/l; GGT 35 U/l; fosfatasa alcalina 140 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+
+Se solicitan pruebas de imagen (Ecografía abdominal y TAC craneal) que no evidencian patología significativa. Con el diagnóstico de infección respiratoria aguda se instaura tratamiento sintomático (antitérmicos, antiinflamatorios y oxígeno suplementario) y tratamiento antibiótico específico: Amoxicilina 50 mg/kg vía oral cada 8 horas (durante 5 días) y Ácido acetilsalicílico 10 mg/kg vía oral cada 12 horas (durante 3 días). El paciente mejora significativamente de su cuadro tras 48 horas de tratamiento, decidiéndose el alta a su domicilio con seguimiento en consulta.

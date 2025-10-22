@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Belén Guillen Moya
+DNI: 75262918H
+Fecha de nacimiento: 05/05/1950
+Género: M
+Domicilio: Calle del León 60
+Ciudad: Segovia, Lérida, Cataluña
+Código postal: 25878
+Email: guillen-moya@udc.es
+Teléfono fijo: +34 973 28 31 56
+Teléfono móvil: +34 773 14 10 71
+NHC: 7781864
+NASS: 130916004266
+
+Datos asistenciales.
+Médico: Dr. Rafael Casado Abad. NC 582853156. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/10/1964
+Episodio: 41112836
+Hospital: Hospital Universitario de la Princesa
+Matrícula del coche: 0574SYQ
+Modelo: Kia Sorento
+VIN: VSE1I6E2MSF241298
+
+Informe clínico del paciente:
+Paciente vegetariano de 14 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-medical.edu//55104839X. 

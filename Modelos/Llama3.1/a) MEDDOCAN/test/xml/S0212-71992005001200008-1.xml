@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ramon</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Casado Bierzo</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">164253</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">32 64125896 32</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle Mendez Alvado 46</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Cuenca</TAG>.
+    CP: <TAG TYPE="TERRITORIO">16004</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">01/10/1960</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">57 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">16/12/2017</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Javier</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García-Cano</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">16 16 03844</TAG>.
+    Historia Actual: Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">57 años</TAG> con ingresos hospitalarios repetidos por epigastralgia acompañadas de elevaciones mínimas de la amilasa. El paciente estaba diagnosticado de adenoma prostático. Refería dolor epigástrico y distensión abdominal durante las comidas que le obligaba a interrumpir la ingesta. En tres ocasiones el paciente acudió a Urgencias. Se observó únicamente una leve elevación de la amilasa (<TAG TYPE="NUMERO">155</TAG> UI, normal < <TAG TYPE="NUMERO">100</TAG>). Para intentar llegar a un diagnóstico se realizaron una ecografía abdominal trancutánea, gastroscopia, colonoscopia y TC abdominal. Todas las pruebas fueron normales. Finalmente se realizó una colangiopancreatografía por resonancia magnética (CPRM). En ella sólo se observó que el colédoco y el Wirsung desembocaban separados en la pared duodenal. Inicialmente se interpretó como una variante de la normalidad que puede aparecer hasta casi en un <TAG TYPE="NUMERO">24%</TAG> sujetos normales (<TAG TYPE="OTRO_NUMERO_IDENTIF">1</TAG>). No obstante, ante lo invalidante de los síntomas (el paciente refería epigastralgia casi con todas las comidas) se le propuso realiazar una colangiopancreatografía retrógrada endoscópica (CPRE).
+    Existía una historia de alergia a contrastes yodados, por lo que se realizó una profilaxis con glucocorticoides. En la imagen endoscópica la papila presentaba un aspecto fláccido. Se canuló profundamente la vía biliar y se introdujo una guía de <TAG TYPE="OTRO_NUMERO_IDENTIF">0.025</TAG> pulgadas para asegurar el acceso al colédoco. La introducción del contraste para la colangiopancreatografía se realizó desde el mismo orificio papilar. Durante la inyección la papila presentó una distensión visible en la imagen endoscópica y que apareció como una estructura quística en la colangiografía. El Wirsung también se dibujó durante la inyección de contraste pero se vació inmediatamente por lo que no quedó reflejado en las radiografías. Se realizó el diagnóstico de coledococele y se procedió a seccionarlo mediante una esfinerotomía biliar. El paciente no presentó complicaciones de la intervención endoscópica y el dolor durante la ingesta no ha reaparecido tras dos años de seguimiento.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Javier</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García-Cano</TAG>. <TAG TYPE="CALLE">C/ Federico Mayor Zaragoza, 2, 5A</TAG>, <TAG TYPE="TERRITORIO">16002</TAG> <TAG TYPE="TERRITORIO">Cuenca</TAG>. e-mail: <TAG TYPE="CORREO_ELECTRONICO">j.garcia-cano@terra.es</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sergio Otero Lara
+DNI: 50472535R
+Fecha de nacimiento: 31/07/1939
+Género: H
+Domicilio: Calle de O'Donnell 51
+Ciudad: San Fernando, Gerona, Cataluña
+Código postal: 17881
+Email: lara263@imibic.org
+Teléfono fijo: +34 972 87 39 18
+Teléfono móvil: +34 772 07 13 30
+NHC: 0725098
+NASS: 689902970527
+
+Datos asistenciales.
+Médico: Dr. Sergi Soto Mateos. NC 671603425. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/08/1985
+Episodio: 61250800
+Hospital: Hospital Regional Universitario de Málaga
+
+Informe clínico del paciente:
+Paciente fumador de 46 años de edad, acompañado de su abuelo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Sergio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="45" text="Otero Lara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="50472535R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="31/07/1939" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="135" text="Calle de O'Donnell 51" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="144" end="156" text="San Fernando" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="158" end="164" text="Gerona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="174" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="17881" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="221" text="lara263@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="237" end="253" text="+34 972 87 39 18" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="270" end="286" text="+34 772 07 13 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="292" end="299" text="0725098" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="306" end="318" text="689902970527" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="353" end="370" text="Sergi Soto Mateos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="375" end="384" text="671603425" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="386" end="441" text="Gastroenterólogo Especialista en Enfermedades Hepáticas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="443" end="536" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="538" end="567" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="569" end="574" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="576" end="582" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="584" end="590" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="610" end="620" text="19/08/1985" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="631" end="639" text="61250800" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="650" end="691" text="Hospital Regional Universitario de Málaga" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="732" end="739" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="743" end="750" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="777" end="783" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Félix Serra Pacheco
+DNI: 56493242K
+Fecha de nacimiento: 10/03/1962
+Género: M
+Domicilio: Calle de los Jardines 36
+Ciudad: Socuéllamos, Málaga, Andalucía
+Código postal: 29946
+Email: felix.serra-pacheco@outlook.com
+Teléfono fijo: +34 951 23 52 39
+Teléfono móvil: +34 751 55 81 75
+NHC: 3919658
+NASS: 743699657199
+
+Datos asistenciales.
+Médico: Dra. Sofía Díaz Bravo. NC 427724292. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/09/2008
+Hospital: Complejo Asistencial Universitario de León
+
+Informe clínico del paciente:
+Paciente sobreviviente de violencia de 46 años de edad. Se registró una sesión de huella dactilar, el código obtenido para revisarla es RB281LNO553. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es BU447RED627. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Félix" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Serra Pacheco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="56493242K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="10/03/1962" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="140" text="Calle de los Jardines 36" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="160" text="Socuéllamos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="168" text="Málaga" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="179" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="29946" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="239" text="felix.serra-pacheco@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 951 23 52 39" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="288" end="304" text="+34 751 55 81 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="310" end="317" text="3919658" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="324" end="336" text="743699657199" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="587" end="597" text="30/09/2008" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="608" end="650" text="Complejo Asistencial Universitario de León" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="691" end="717" text="sobreviviente de violencia" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="721" end="728" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T20" start="818" end="829" text="RB281LNO553" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T21" start="912" end="923" text="BU447RED627" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

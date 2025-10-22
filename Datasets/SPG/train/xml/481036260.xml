@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Antonia Méndez Peña
+DNI: 77896492T
+Fecha de nacimiento: 17/01/1990
+Género: M
+Domicilio: Calle del Amparo 35
+Ciudad: León, Menorca, Islas Baleares
+Código postal: 07229
+Email: antonia.mendez.pena@isciii.es
+Teléfono fijo: +34 971 55 91 98
+Teléfono móvil: +34 771 81 14 85
+NHC: 0987808
+NASS: 795646476768
+Condición de riesgo: Soldado
+
+Datos asistenciales.
+Médico: Dr. Sebastián García Bueno. NC 841735623. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 27/12/1995
+Episodio: 39198782
+Hospital: Hospital Universitario Río Hortega
+
+Informe clínico del paciente:
+Paciente sobreviviente de violencia de 5 años de edad, acompañado de su hermana. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es GH138DNT646. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Antonia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="47" text="Méndez Peña" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="77896492T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="17/01/1990" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="135" text="Calle del Amparo 35" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="144" end="148" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="150" end="157" text="Menorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="159" end="173" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="189" end="194" text="07229" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="202" end="231" text="antonia.mendez.pena@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="247" end="263" text="+34 971 55 91 98" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="280" end="296" text="+34 771 81 14 85" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="302" end="309" text="0987808" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="316" end="328" text="795646476768" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="350" end="357" text="Soldado" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="392" end="414" text="Sebastián García Bueno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="419" end="428" text="841735623" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="430" end="474" text="Investigador Principal en Optometría Clínica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="476" end="534" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="536" end="560" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="562" end="567" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="569" end="579" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="581" end="587" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="607" end="617" text="27/12/1995" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="628" end="636" text="39198782" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="647" end="681" text="Hospital Universitario Río Hortega" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T28" start="722" end="748" text="sobreviviente de violencia" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="752" end="758" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="785" end="792" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="875" end="886" text="GH138DNT646" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

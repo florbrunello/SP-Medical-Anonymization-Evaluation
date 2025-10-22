@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Almudena</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cabrera Silva</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">27922421F</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/02/2019</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Miguel Ángel 57</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">San Fernando, Málaga, Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">29181</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">silva1594@uhu.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 00 89 25</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 951 12 69 22</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5584372</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">600756811417</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente pediátrico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Unai Castillo Conde</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">764624338</TAG>. <TAG TYPE="PROFESION">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">06/03/2025</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">95759639</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Delicias</TAG>.
+    Informe clínico del paciente:
+    La paciente <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Almudena Cabrera Silva</TAG>, de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años</TAG> de edad, fue ingresada en el <TAG TYPE="CENTRO_SALUD">Centro de Salud Delicias</TAG> con una queja de dolor abdominal de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3 días</TAG> de evolución. La paciente es <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariana</TAG> y no tiene antecedentes médicos relevantes. La exploración física revela: temperatura <TAG TYPE="OTROS_SUJETO_ASISTENCIA">37,5°C</TAG>, frecuencia cardíaca <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120/min</TAG>, presión arterial <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90/60 mmHg</TAG>. La paciente se encuentra consciente y orientada, con buen estado de nutrición e hidratación. La exploración abdominal revela una masa en la región epigástrica, sin dolor a la palpación.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="OTROS_SUJETO_ASISTENCIA">12,5 g/dl</TAG>; leucocitos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">10.000/mm3</TAG> (neutrófilos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">60%</TAG>); plaquetas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">300.000/mm3</TAG>. VSG: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="OTROS_SUJETO_ASISTENCIA">95%</TAG>; TTPA <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90 mg/dl</TAG>; urea <TAG TYPE="OTROS_SUJETO_ASISTENCIA">15 mg/dl</TAG>; creatinina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">0,8 mg/dl</TAG>; sodio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">135 mEq/l</TAG>; potasio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">4,2 mEq/l</TAG>; GOT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">15 U/l</TAG>; GPT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 U/l</TAG>; GGT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120 U/l</TAG>; calcio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">9,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía abdominal) que revelan una masa en la región epigástrica, sin signos de obstrucción intestinal. Con el diagnóstico de una masa abdominal no especificada, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo) y se realiza una biopsia de la masa para determinar su naturaleza.
+    Evolución y comentarios:
+    La paciente se encuentra en observación en la unidad de hospitalización, con seguimiento regular de su estado clínico. Se realizarán pruebas adicionales para determinar la naturaleza de la masa abdominal y planificar el tratamiento adecuado.
+    Remitido por:
+    <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Unai Castillo Conde</TAG> <TAG TYPE="PROFESION">Residente de 3° año en Gastroenterología</TAG> <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG> <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    </TEXT>
+    </MEDDOCAN>

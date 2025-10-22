@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Miriam Vicente Moya
+DNI: 55803739N
+Fecha de nacimiento: 26/07/1981
+Género: F
+Domicilio: Calle de San Bernardo 95
+Ciudad: Talavera de la Reina, Guipúzcoa, Pais Vasco
+Código postal: 20608
+Email: miriam_moya@aol.com
+Teléfono fijo: +34 943 62 21 90
+Teléfono móvil: +34 643 42 25 82
+NHC: 7065964
+NASS: 406627022260
+
+Datos asistenciales.
+Médico: Dra. Gema Rueda Morales. NC 283965104. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 23/02/1998
+Episodio: 73319279
+Hospital: Complejo Hospitalario Torrecárdenas
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 16 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.92.64, con dirección MAC 78:C5:82:E6:B7:FA. Se realizó un expediente con URL http://example-therapy.org//79390181D. Se registró una sesión de firma biométrica, el código obtenido para revisarla es XD259XXI389. 

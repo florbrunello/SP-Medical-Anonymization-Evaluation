@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Diana</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Cabrera Espinosa</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">61888688N</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">11/03/1946</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle Mayor 6</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Bormujos</TAG>, <TAG TYPE="TERRITORIO">Huesca</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">22626</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">diana@us.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 974 39 99 57</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 974 10 90 58</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3036421</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">765612599532</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Equipos Mineros</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Patricia Camacho Marín</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">736958876</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">25/01/1984</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">32779536</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Río Hortega</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">9283LVH</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Toyota RAV4</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSNIV7U2CVS843264</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se registró una <TAG TYPE="ID_DISPOSITIVOS">sesión de escaneo del iris</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">PF006HMZ076</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Anna Martín Casas
+DNI: 62450313T
+Fecha de nacimiento: 13/04/1947
+Género: F
+Domicilio: Calle de Don Ramón de la Cruz 15
+Ciudad: Zaragoza, Huesca, Aragón
+Código postal: 22850
+Email: casas@gmail.com
+Teléfono fijo: +34 974 22 58 50
+Teléfono móvil: +34 774 23 75 71
+NHC: 2501750
+NASS: 295793488405
+Condición de riesgo: Electricista
+
+Datos asistenciales.
+Médico: Dra. María Rosa Mateo Alonso. NC 191321518. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/06/2018
+Episodio: 12632888
+Centro de salud: Centro de Salud Fuencarral
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 71 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Anna" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="45" text="Martín Casas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="62450313T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="13/04/1947" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="146" text="Calle de Don Ramón de la Cruz 15" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="163" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="171" text="Huesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="179" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="22850" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="223" text="casas@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="239" end="255" text="+34 974 22 58 50" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="272" end="288" text="+34 774 23 75 71" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="294" end="301" text="2501750" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="308" end="320" text="295793488405" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="342" end="354" text="Electricista" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="630" end="640" text="16/06/2018" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="651" end="659" text="12632888" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="677" end="703" text="Centro de Salud Fuencarral" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="747" end="776" text="ascendencia del medio oriente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="780" end="787" text="71 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

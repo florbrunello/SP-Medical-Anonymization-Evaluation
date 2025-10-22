@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Montserrat</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Intxaurrondo</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">368503</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">26 63514095</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Francisco Silvela 7</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28028</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/01/2013</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 días</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">15/01/2013</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Antonio</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Hernández</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 70977</TAG>.
+    Informe clínico del paciente: Recién nacida hembra, con embarazo y parto normales. 
+    En la exploración clínica se apreció una tumoración de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">1 cm</TAG> de diámetro en el introito, dura a la palpación situada ligeramente a la derecha del meato uretral, desplazando este al igual que el introito vaginal. La lesión tenía aspecto quístico de color levemente amarillento. 
+    Con el diagnóstico de sospecha de <TAG TYPE="PROFESION">Ureterocele</TAG> se pidió una ecografía: no hallando ni duplicidad ni dilatación urinaria. 
+    En la ecografía perineal se confirmó la naturaleza quística de la lesión confirmándose el diagnóstico de <TAG TYPE="PROFESION">quiste parauretral de Skene</TAG>. 
+    Se decidió actitud expectante, en el seguimiento del paciente la lesión fue disminuyendo de tamaño, siendo de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 mm</TAG> a las 2 semanas, desapareciendo completamente la tumoración al mes de vida. 
+    No fue descrita ninguna secuela en la paciente.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">A.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Parente Hernández</TAG>. <TAG TYPE="CALLE">C/ Maiquez, 9 - 4º F</TAG> <TAG TYPE="TERRITORIO" >11</TAG> <TAG TYPE="TERRITORIO" >28009</TAG> <TAG TYPE="TERRITORIO" >Madrid</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">parente80@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

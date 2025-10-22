@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Arnau</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Hurtado Morales</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">59803012E</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/02/2017</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Luna 15</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Jaén</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">28884</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">hurtado@uca.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 911 94 18 63</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 613 41 57 20</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0208527</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">635779744366</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de la Construcción</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Domingo Menendez Pacheco</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">879649510</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/05/2019</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Infanta Leonor</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">8714SSR</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Tesla Model 3</TAG>
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSSKSOWHNHL291629</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia caribeña</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>.
+    Se registró una consulta virtual desde la dirección IP <TAG TYPE="DIREC_PROT_INTERNET">192.168.121.224</TAG>, con dirección MAC <TAG TYPE="IDENTIF_BIOMETRICOS">DA:E1:4D:DF:D5:70</TAG>. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="URL_WEB">smtp://example-nutrition.net</TAG>.
+  </TEXT>
+</MEDDOCAN>

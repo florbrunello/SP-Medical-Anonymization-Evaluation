@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">José Antonio</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Garrido Herrero</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">24162582R</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/04/1957</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Claudio Coello 69, 1O</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Cuenca</TAG>, <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">37246</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">herrero@outlook.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 80 06 30</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 723 69 10 52</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0598377</TAG>
+
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Rosa Quintana Salas</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">811862937</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigadora Clínica en Insuficiencia Cardíaca</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">27/10/1975</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">67722903</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Benalmádena</TAG>
+
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia africana del norte</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">18 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">prima</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de reconocimiento facial</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código obtenido</TAG> para revisarla es <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">KM421BUF288</TAG>.
+  </TEXT>
+</MEDDOCAN>

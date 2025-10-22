@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Miguel Santos García
+DNI: 21949455A
+Fecha de nacimiento: 12/06/2009
+Género: V
+Domicilio: Calle de la Fe 90, 8C
+Ciudad: Marbella, Santa Cruz de Tenerife, Canarias
+Código postal: 38626
+Email: josemiguel.santos_garcia367@aol.com
+Teléfono fijo: +34 922 56 23 51
+FAX: +34 922 18 64 77
+NHC: 1566343
+Condición de riesgo: Trabajador Agrícola
+
+Datos asistenciales.
+Médico: Dr. Julián Acosta Andres. NC 309025406. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/05/2010
+Centro de salud: Centro de Salud Sevilla Oeste
+Matrícula del coche: 1862WBB
+Modelo: Toyota RAV4
+VIN: VSMI2RK1XNY413371
+
+Informe clínico del paciente:
+Paciente de tez blanca de 11 meses de edad, acompañado de su padre. Se registró una sesión de huella dactilar, el código obtenido para revisarla es RQ711IUL760. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="José Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="53" text="Santos García" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="21949455A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="12/06/2009" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="143" text="Calle de la Fe 90, 8C" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="160" text="Marbella" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="184" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="186" end="194" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="38626" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="258" text="josemiguel.santos_garcia367@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="274" end="290" text="+34 922 56 23 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="296" end="312" text="+34 922 18 64 77" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="318" end="325" text="1566343" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="347" end="366" text="Trabajador Agrícola" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="401" end="421" text="Julián Acosta Andres" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="426" end="435" text="309025406" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="437" end="469" text="Residente de 2° año en Pediatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="471" end="546" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="548" end="577" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="579" end="584" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="586" end="592" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="594" end="600" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="620" end="630" text="18/05/2010" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="648" end="677" text="Centro de Salud Sevilla Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T26" start="699" end="706" text="1862WBB" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="732" end="749" text="VSMI2RK1XNY413371" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="793" end="803" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="807" end="815" text="11 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="842" end="847" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="929" end="940" text="RQ711IUL760" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

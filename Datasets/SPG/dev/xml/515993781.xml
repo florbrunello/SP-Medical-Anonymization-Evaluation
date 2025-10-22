@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Mercedes Ortega Calvo
+DNI: 23050129N
+Fecha de nacimiento: 27/07/1960
+Género: F
+Domicilio: Calle del Espíritu Santo 62, 6S
+Ciudad: Burgos, Álava, Pais Vasco
+Código postal: 01378
+Email: mariamercedes@protonmail.com
+Teléfono fijo: +34 945 69 00 19
+Teléfono móvil: +34 645 02 69 58
+NHC: 8371858
+
+Datos asistenciales.
+Médico: Dr. Andrés Casas Trujillo. NC 645628558. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/05/2002
+Episodio: 03919708
+Centro de salud: Centro de Salud Alcalá de Henares
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 41 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="42" text="María Mercedes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="43" end="55" text="Ortega Calvo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="23050129N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="27/07/1960" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="112" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="155" text="Calle del Espíritu Santo 62, 6S" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="164" end="170" text="Burgos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="177" text="Álava" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="189" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="01378" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="246" text="mariamercedes@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="262" end="278" text="+34 945 69 00 19" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="295" end="311" text="+34 645 02 69 58" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="317" end="324" text="8371858" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="359" end="380" text="Andrés Casas Trujillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="385" end="394" text="645628558" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="396" end="430" text="Residente de 4° año en Cardiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="432" end="518" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="520" end="549" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="551" end="556" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="558" end="564" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="566" end="572" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="592" end="602" text="22/05/2002" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="613" end="621" text="03919708" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="639" end="672" text="Centro de Salud Alcalá de Henares" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="716" end="740" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="744" end="751" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

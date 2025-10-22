@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Eric Luque Aguilera
+DNI: 93379873B
+Fecha de nacimiento: 19/01/1999
+Género: M
+Domicilio: Calle de Mesón de Paredes 72, 2Q
+Ciudad: Getafe, Córdoba, Andalucía
+Código postal: 14261
+Email: eric_luque@ciberehd.org
+Teléfono fijo: +34 957 92 12 68
+Teléfono móvil: +34 757 50 29 37
+NHC: 3618894
+Condición de riesgo: Soldado
+
+Datos asistenciales.
+Médico: Dra. Adriana Gómez Roca. NC 859054603. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 26/04/2003
+Episodio: 31543612
+Hospital: Hospital Universitario Nuestra Señora de Candelaria
+Matrícula del coche: 6046KDR
+Modelo: Jeep Wrangler
+VIN: VSKPZ0FM9BN792538
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 4 años de edad, acompañado de su tío. Se realizó un expediente con URL http://example-neurology.com//47622754X. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Eric" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="47" text="Luque Aguilera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="93379873B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="19/01/1999" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="148" text="Calle de Mesón de Paredes 72, 2Q" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="163" text="Getafe" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="172" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="183" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="199" end="204" text="14261" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="212" end="235" text="eric_luque@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 957 92 12 68" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 757 50 29 37" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="3618894" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="335" end="342" text="Soldado" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="585" end="595" text="26/04/2003" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="606" end="614" text="31543612" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="625" end="676" text="Hospital Universitario Nuestra Señora de Candelaria" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="698" end="705" text="6046KDR" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="733" end="750" text="VSKPZ0FM9BN792538" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="794" end="827" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="831" end="837" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="864" end="867" text="tío" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="902" end="926" text="http://example-neurology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

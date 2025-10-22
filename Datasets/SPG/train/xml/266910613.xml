@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Antonio Izquierdo Díaz
+DNI: 74308372H
+Fecha de nacimiento: 02/03/2020
+Género: Hombre
+Domicilio: Calle de Villalar 41, 1K
+Ciudad: Ponferrada, Albacete, Castilla-La Mancha
+Código postal: 02602
+Email: antonio.izquierdo@uca.es
+Teléfono fijo: +34 967 85 63 99
+Teléfono móvil: +34 767 74 59 99
+NHC: 5996282
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dr. Rafael Escudero Salazar. NC 405368796. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 15/01/2025
+Centro de salud: Centro de Salud Pozuelo de Alarcón
+Matrícula del coche: 5468RNV
+Modelo: Toyota Corolla
+VIN: VSXINKEQPLY706819
+
+Informe clínico del paciente:
+Paciente no fumador de 4 años de edad, acompañado de su hermana. Se realizó un expediente con URL http://example-radiology.edu//26306889N. El servidor para envío de información desde cual el usuario se comunica es smtp://example-radiology.edu. Se registró una sesión de huella dactilar, el código obtenido para revisarla es XZ227PTE968. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Izquierdo Díaz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="74308372H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="02/03/2020" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="112" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="148" text="Calle de Villalar 41, 1K" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="167" text="Ponferrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="177" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="197" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="02602" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="250" text="antonio.izquierdo@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="266" end="282" text="+34 967 85 63 99" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="299" end="315" text="+34 767 74 59 99" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="321" end="328" text="5996282" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="350" end="356" text="Médico" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="391" end="414" text="Rafael Escudero Salazar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="419" end="428" text="405368796" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="430" end="467" text="Residente de 4° año en Endocrinología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="469" end="536" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="538" end="565" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="567" end="572" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="574" end="581" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="583" end="589" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="609" end="619" text="15/01/2025" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="637" end="671" text="Centro de Salud Pozuelo de Alarcón" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T26" start="693" end="700" text="5468RNV" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="729" end="746" text="VSXINKEQPLY706819" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="787" end="797" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="801" end="807" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="834" end="841" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="876" end="900" text="http://example-radiology" TYPE="URL_WEB" comment=""/>
+        <OTHER id="T32" start="992" end="1016" text="smtp://example-radiology" TYPE="URL_WEB" comment=""/>
+        <ID id="T33" start="1102" end="1113" text="XZ227PTE968" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

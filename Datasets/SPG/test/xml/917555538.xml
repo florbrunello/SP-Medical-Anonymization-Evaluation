@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Hugo Camacho Benito
+DNI: 77180559B
+Fecha de nacimiento: 31/10/2000
+Género: M
+Domicilio: Calle de Ayala 50
+Ciudad: Ciudad Real, Cádiz, Andalucía
+Código postal: 11784
+Email: hugo.camacho@imibic.org
+Teléfono fijo: +34 956 53 61 96
+Teléfono móvil: +34 656 51 33 84
+NHC: 5318033
+NASS: 836658992799
+Condición de riesgo: Trabajador de Residuos Sólidos
+
+Datos asistenciales.
+Médico: Dra. María Nieves Molina Mateos. NC 037367945. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 17/01/2016
+Episodio: 10510478
+Centro de salud: Centro de Salud Benalmádena
+Matrícula del coche: 2867HHY
+Modelo: Ford F-150
+VIN: VSLJGEACJPL791856
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 15 años de edad, acompañado de su abuela. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Hugo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="47" text="Camacho Benito" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="77180559B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="31/10/2000" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="133" text="Calle de Ayala 50" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="142" end="153" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="160" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="162" end="171" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="187" end="192" text="11784" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="200" end="223" text="hugo.camacho@imibic.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="239" end="255" text="+34 956 53 61 96" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="272" end="288" text="+34 656 51 33 84" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="294" end="301" text="5318033" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="308" end="320" text="836658992799" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="342" end="372" text="Trabajador de Residuos Sólidos" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="629" end="639" text="17/01/2016" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="650" end="658" text="10510478" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="676" end="703" text="Centro de Salud Benalmádena" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="725" end="732" text="2867HHY" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="757" end="774" text="VSLJGEACJPL791856" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="815" end="836" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="840" end="847" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="874" end="880" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T25" start="957" end="981" text="smtp://example-nutrition" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

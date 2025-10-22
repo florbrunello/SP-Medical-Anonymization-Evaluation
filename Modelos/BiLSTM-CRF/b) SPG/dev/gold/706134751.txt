@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Vanessa Esteban Rivera
+DNI: 19572750A
+Fecha de nacimiento: 26/01/1925
+Género: F
+Domicilio: Calle de Embajadores 68
+Ciudad: Ontinyent, Asturias, Asturias
+Código postal: 33656
+Email: vanessa.esteban1668@aol.com
+Teléfono fijo: +34 984 87 95 19
+FAX: +34 984 45 53 53
+NHC: 9590469
+
+Datos asistenciales.
+Médico: Dr. Adrián Romero Nieto. NC 276908209. Investigador Clínico en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/02/1952
+Episodio: 18202319
+Hospital: Hospital Universitario Príncipe de Asturias
+
+Informe clínico del paciente:
+Paciente de ascendencia australiana de 27 años de edad, acompañado de su hija. El servidor para envío de información desde cual el usuario se comunica es smtp://example-clinica.com. 

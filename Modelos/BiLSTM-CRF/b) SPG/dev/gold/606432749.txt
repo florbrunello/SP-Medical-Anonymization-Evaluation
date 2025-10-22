@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Vanessa García Rivera
+DNI: 20135609Y
+Fecha de nacimiento: 14/03/2013
+Género: Mujer
+Domicilio: Calle del Doctor Esquerdo 22, 4K
+Ciudad: Pamplona, Sevilla, Andalucía
+Código postal: 41124
+Email: rivera@ucm.es
+Teléfono fijo: +34 954 01 61 00
+Teléfono móvil: +34 754 85 13 71
+NHC: 6752665
+NASS: 797158886456
+
+Datos asistenciales.
+Médico: Dra. Daniela Andres Martín. NC 533675861. Neuropsicóloga Clínica Investigadora. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/12/2015
+Episodio: 06085604
+Centro de salud: Centro de Salud Fuenlabrada
+Matrícula del coche: 7897KJV
+Modelo: Mazda CX-5
+VIN: VSIU777H7FV957341
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 2 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.165.255, con dirección MAC AB:50:03:38:31:FD. 

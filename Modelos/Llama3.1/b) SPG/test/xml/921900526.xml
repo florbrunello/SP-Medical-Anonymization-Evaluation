@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Christian Pascual</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Casas</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">81079343L</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/09/1929</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Hortaleza 11, 5D</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Jerez de la Frontera</TAG>, <TAG TYPE="TERRITORIO">Huelva</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">21836</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">christianpascual_casas@h12o.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 959 96 23 59</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 659 08 56 01</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5742897</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">228655968484</TAG>
+    Condición de riesgo: 
+    <TAG TYPE="OTROS_SUJETO_ASISTENCIA">de ascendencia asiática occidental</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Salvador Vega Rubio</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">588712073</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neurólogo Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/07/1946</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Arganzuela</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">de 16 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermano</TAG>.
+  </TEXT>
+</MEDDOCAN>

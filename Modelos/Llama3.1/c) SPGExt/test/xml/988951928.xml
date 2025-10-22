@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Carlota</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Robles Rivera</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">11905245P</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/10/2012</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Piamonte 3</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Torrelodones</TAG>, <TAG TYPE="TERRITORIO">Sevilla</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">41727</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">carlota.robles@imibic.org</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 954 59 99 15</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 754 14 33 61</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0662313</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Albañil</TAG>.
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jonathan</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Salas Salas</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">412288762</TAG>. <TAG TYPE="PROFESION">Investigador Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">10/05/2022</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">25795548</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alhaurín de la Torre</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="DESCRIPCION_FISICA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> de edad, acompañado de su padre, refiere <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor en el abdomen inferior izquierdo</TAG> desde ayer por la noche, que empeora con la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tos</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">respiración profunda</TAG>. Antecedentes personales de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sobredosis de medicamentos</TAG> en el pasado, por lo que se le administra un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tratamiento de desintoxicación</TAG>. En la exploración física se observa una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">temperatura</TAG> de <TAG TYPE="MEDIDA">38,5°C</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">frecuencia cardíaca</TAG> de <TAG TYPE="MEDIDA">120 latidos por minuto</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">frecuencia respiratoria</TAG> de <TAG TYPE="MEDIDA">30 respiraciones por minuto</TAG>. Se encuentra <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consciente</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">orientado</TAG>, pero con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">signos de dolor en el abdomen</TAG>. Los análisis de sangre muestran una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">elevación de la creatinina</TAG> y una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">disminución de la hemoglobina</TAG>. Se solicitan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estudios de imagen</TAG> para evaluar la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">causa del dolor abdominal</TAG> y la posible presencia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">complicaciones renales</TAG>.
+    Evolución y comentarios:
+    El paciente se encuentra <TAG TYPE="OTROS_SUJETO_ASISTENCIA">estable</TAG> en la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">unidad de cuidados intensivos</TAG>, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">monitorización continua</TAG> de la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">función renal</TAG> y la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">condición clínica general</TAG>. Se le administra un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tratamiento de soporte</TAG> para la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">función renal</TAG> y se le prescribe un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antibiótico</TAG> para prevenir <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infecciones</TAG>. Se realizarán <TAG TYPE="OTROS_SUJETO_ASISTENCIA">revisiones periódicas</TAG> para evaluar la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">evolución del paciente</TAG> y ajustar el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tratamiento</TAG> según sea necesario.
+    Remitido por:
+    Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jonathan</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Salas Salas</TAG>
+    <TAG TYPE="PROFESION">Investigador Principal en Parkinson</TAG>
+    <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>
+    <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+</MEDDOCAN>

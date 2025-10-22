@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Alejandro Santana Crespo
+DNI: 91313101L
+Fecha de nacimiento: 08/08/1934
+Género: Varón
+Domicilio: Calle de Bailén 15
+Ciudad: Eibar, Valladolid, Castilla y León
+Código postal: 47214
+Email: crespo1687@ual.es
+Teléfono fijo: +34 983 03 47 28
+Teléfono móvil: +34 683 71 19 29
+NHC: 8596779
+NASS: 552870307763
+
+Datos asistenciales.
+Médico: Dra. Margarita Lorenzo Álvarez. NC 687201500. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/12/1954
+Episodio: 15877992
+Centro de salud: Centro de Salud Chamartín
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 20 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Alejandro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="52" text="Santana Crespo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="91313101L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="08/08/1934" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="113" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="143" text="Calle de Bailén 15" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="152" end="157" text="Eibar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="159" end="169" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="186" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="47214" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="232" text="crespo1687@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 983 03 47 28" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 683 71 19 29" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="8596779" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="552870307763" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="589" end="599" text="02/12/1954" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="610" end="618" text="15877992" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="636" end="661" text="Centro de Salud Chamartín" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="705" end="729" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="733" end="740" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

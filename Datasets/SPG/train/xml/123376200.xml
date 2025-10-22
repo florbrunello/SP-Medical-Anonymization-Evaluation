@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Ramón Moya Benítez
+DNI: 37874948C
+Fecha de nacimiento: 09/07/1977
+Género: H
+Domicilio: Calle del Gobernador 56, 7V
+Ciudad: Jaca, Las Palmas, Canarias
+Código postal: 35559
+Email: oeRc1WuGQ518@ciberned.es
+Teléfono fijo: +34 928 77 01 96
+Teléfono móvil: +34 628 44 67 48
+NHC: 8430264
+NASS: 720579242410
+Condición de riesgo: Técnico de Cuidados Auxiliares de Enfermería
+
+Datos asistenciales.
+Médico: Dr. Juan Luis Gallego Garrido. NC 140153264. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/11/1994
+Episodio: 95206428
+Centro de salud: Centro de Salud Valdemoro
+
+Informe clínico del paciente:
+Paciente fumador de 17 años de edad, acompañado de su hijo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Juan Ramón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="51" text="Moya Benítez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="37874948C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="09/07/1977" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="147" text="Calle del Gobernador 56, 7V" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="160" text="Jaca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="172" text="Las Palmas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="182" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="35559" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="235" text="oeRc1WuGQ518@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="251" end="267" text="+34 928 77 01 96" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="284" end="300" text="+34 628 44 67 48" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="306" end="313" text="8430264" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="320" end="332" text="720579242410" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="354" end="398" text="Técnico de Cuidados Auxiliares de Enfermería" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="433" end="458" text="Juan Luis Gallego Garrido" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="463" end="472" text="140153264" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="474" end="513" text="Residente de 4° año en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="515" end="599" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="601" end="630" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="632" end="637" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="639" end="645" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="647" end="653" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="673" end="683" text="28/11/1994" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="694" end="702" text="95206428" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="720" end="745" text="Centro de Salud Valdemoro" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="786" end="793" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="797" end="804" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="831" end="835" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

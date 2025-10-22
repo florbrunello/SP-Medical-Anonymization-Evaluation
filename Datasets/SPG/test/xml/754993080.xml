@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Lucía Molina Herrera
+DNI: 23775124R
+Fecha de nacimiento: 04/08/1966
+Género: Mujer
+Domicilio: Calle de Claudio Coello 8
+Ciudad: Plasencia, Santa Cruz de Tenerife, Canarias
+Código postal: 38850
+Email: herrera1716@udc.es
+Teléfono fijo: +34 922 47 02 66
+FAX: +34 922 91 91 55
+NHC: 2087593
+
+Datos asistenciales.
+Médico: Dra. Marta Vargas Velasco. NC 045828636. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/01/1985
+Episodio: 71049761
+Hospital: Hospital de la Santa Creu i Sant Pau
+
+Informe clínico del paciente:
+Paciente judío de 18 años de edad, acompañado de su hija. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Lucía" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Molina Herrera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="23775124R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="04/08/1966" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="109" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="146" text="Calle de Claudio Coello 8" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="164" text="Plasencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="188" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="190" end="198" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="214" end="219" text="38850" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="227" end="245" text="herrera1716@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="261" end="277" text="+34 922 47 02 66" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 922 91 91 55" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="305" end="312" text="2087593" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="585" end="595" text="02/01/1985" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="606" end="614" text="71049761" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="625" end="661" text="Hospital de la Santa Creu i Sant Pau" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="702" end="707" text="judío" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="711" end="718" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="745" end="749" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Alfonso Reyes Conde
+DNI: 27801812X
+Fecha de nacimiento: 04/05/1940
+Género: H
+Domicilio: Calle de la Luna 7, 5J
+Ciudad: Ronda, Región de Murcia, Región de Murcia
+Código postal: 30081
+Email: reyes@uca.es
+Teléfono fijo: +34 968 11 41 84
+Teléfono móvil: +34 668 99 83 05
+NHC: 6425666
+NASS: 453395307165
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dr. Marc Zamora Iglesias. NC 185014445. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/02/2006
+Centro de salud: Centro de Salud Delicias
+Matrícula del coche: 3407OOI
+Modelo: Jeep Wrangler
+VIN: VSNLJV8CHDJ716034
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 65 años de edad, acompañado de su madre. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es VM782JVJ889. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Alfonso" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="47" text="Reyes Conde" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="27801812X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="04/05/1940" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="138" text="Calle de la Luna 7, 5J" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="152" text="Ronda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="154" end="170" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="188" text="Región de Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="30081" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="229" text="reyes@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="245" end="261" text="+34 968 11 41 84" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 668 99 83 05" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="300" end="307" text="6425666" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="314" end="326" text="453395307165" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="348" end="355" text="Bombero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="390" end="410" text="Marc Zamora Iglesias" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="415" end="424" text="185014445" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="426" end="466" text="Residente de 3° año en Gastroenterología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="468" end="561" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="563" end="592" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="594" end="599" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="601" end="607" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="609" end="615" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="635" end="645" text="12/02/2006" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="663" end="687" text="Centro de Salud Delicias" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="709" end="716" text="3407OOI" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="744" end="761" text="VSNLJV8CHDJ716034" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="805" end="834" text="ascendencia del medio oriente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="838" end="845" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="872" end="877" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T32" start="965" end="976" text="VM782JVJ889" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

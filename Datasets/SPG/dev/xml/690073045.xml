@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Rubén Márquez Camacho
+DNI: 92302765Q
+Fecha de nacimiento: 09/07/1952
+Género: M
+Domicilio: Calle de Menorca 45
+Ciudad: Teruel, Córdoba, Andalucía
+Código postal: 14965
+Email: ruben.camacho1035@gmail.com
+Teléfono fijo: +34 957 92 34 38
+FAX: +34 957 04 04 29
+NHC: 2831752
+
+Datos asistenciales.
+Médico: Dra. Carolina Carmona Costa. NC 133281459. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/09/2008
+Episodio: 46605451
+Hospital: Complejo Hospitalario Torrecárdenas
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 56 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Rubén" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="49" text="Márquez Camacho" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="92302765Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="09/07/1952" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="137" text="Calle de Menorca 45" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="152" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="154" end="161" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="163" end="172" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="188" end="193" text="14965" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="201" end="228" text="ruben.camacho1035@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="244" end="260" text="+34 957 92 34 38" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="266" end="282" text="+34 957 04 04 29" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="288" end="295" text="2831752" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="575" end="585" text="25/09/2008" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="596" end="604" text="46605451" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="615" end="650" text="Complejo Hospitalario Torrecárdenas" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="694" end="715" text="descendencia africana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="719" end="726" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="753" end="758" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

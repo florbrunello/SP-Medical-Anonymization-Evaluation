@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jorge Escudero</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Luna</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">76191301Y</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/02/1941</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Oso 25</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Reus</TAG>, <TAG TYPE="TERRITORIO">Menorca</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">07321</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jorgeescudero_luna1198@us.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 33 32 00</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 771 52 91 68</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8334100</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">666895427818</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Electricista</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mariano Valero Galvez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">029419140</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">08/04/2007</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">43526810</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitari i Politècnic La Fe</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">66 años</TAG> de edad. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-neurology.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

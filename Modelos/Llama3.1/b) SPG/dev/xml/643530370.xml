@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Elvira</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Benítez</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Santos</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">85762175M</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/08/1939</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Claudio Coello 81</TAG>, <TAG TYPE="NUMERO">2I</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Girona</TAG>, <TAG TYPE="TERRITORIO">Guadalajara</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">19032</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">tJ23JYLXG3zt@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 949 66 85 18</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 749 05 47 03</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3456729</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Policía</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gregorio Crespo Luque</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">955891984</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Oftalmólogo Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">06/09/1998</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">92238709</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario de Crúces</TAG>
+    
+    Informe clínico del paciente:
+    Paciente exfumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">59 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hija</TAG>.
+  </TEXT>
+</MEDDOCAN>

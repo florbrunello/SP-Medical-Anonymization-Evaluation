@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gloria Romero Esteban
+DNI: 83455036L
+Fecha de nacimiento: 31/08/1946
+Género: Mujer
+Domicilio: Calle de Alberto Aguilera 29
+Ciudad: Talavera de la Reina, Santa Cruz de Tenerife, Canarias
+Código postal: 38638
+Email: gloria.romero@ciberisciii.es
+Teléfono fijo: +34 922 12 41 58
+FAX: +34 922 68 25 28
+NHC: 8813309
+Condición de riesgo: Trabajador Agrícola
+
+Datos asistenciales.
+Médico: Dra. María Josefa Parra Aparicio. NC 571868174. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/02/1988
+Episodio: 05160850
+Hospital: Hospital Universitario Río Hortega
+Matrícula del coche: 9761YSE
+Modelo: Toyota RAV4
+VIN: VSJ9GMHN4WM917177
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 41 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Gloria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Romero Esteban" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="83455036L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="31/08/1946" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="110" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="150" text="Calle de Alberto Aguilera 29" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="159" end="179" text="Talavera de la Reina" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="181" end="203" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="205" end="213" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="229" end="234" text="38638" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="242" end="270" text="gloria.romero@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="286" end="302" text="+34 922 12 41 58" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="308" end="324" text="+34 922 68 25 28" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="330" end="337" text="8813309" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="359" end="378" text="Trabajador Agrícola" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="653" end="663" text="09/02/1988" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="674" end="682" text="05160850" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="693" end="727" text="Hospital Universitario Río Hortega" TYPE="HOSPITAL" comment=""/>
+        <ID id="T19" start="749" end="756" text="9761YSE" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="782" end="799" text="VSJ9GMHN4WM917177" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="840" end="861" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="865" end="872" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

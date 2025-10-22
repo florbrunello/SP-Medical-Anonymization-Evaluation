@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Mohammed Pardo Campos
+DNI: 42077094C
+Fecha de nacimiento: 15/12/1984
+Género: Varón
+Domicilio: Calle del Marqués de Cubas 20, 7B
+Ciudad: Gandía, Granada, Andalucía
+Código postal: 18540
+Email: pardo.campos1370@us.es
+Teléfono fijo: +34 958 44 39 15
+Teléfono móvil: +34 758 71 14 00
+NHC: 3987664
+NASS: 312744005702
+Condición de riesgo: Dentista
+
+Datos asistenciales.
+Médico: Dr. Antonio Santana Flores. NC 934189127. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/08/1991
+Episodio: 52568202
+Hospital: Hospital Universitari de Bellvitge
+Matrícula del coche: 5957SJL
+Modelo: Chevrolet Silverado
+VIN: VSE290IT3VZ794125
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 6 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Mohammed" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="49" text="Pardo Campos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="42077094C" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="15/12/1984" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="110" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="155" text="Calle del Marqués de Cubas 20, 7B" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="164" end="170" text="Gandía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="179" text="Granada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="181" end="190" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="18540" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="241" text="pardo.campos1370@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 958 44 39 15" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="290" end="306" text="+34 758 71 14 00" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="312" end="319" text="3987664" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="326" end="338" text="312744005702" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="360" end="368" text="Dentista" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="403" end="425" text="Antonio Santana Flores" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="430" end="439" text="934189127" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="441" end="480" text="Residente de 4° año en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="482" end="566" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="568" end="597" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="599" end="604" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="606" end="612" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="614" end="620" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="640" end="650" text="26/08/1991" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="661" end="669" text="52568202" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="680" end="714" text="Hospital Universitari de Bellvitge" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="736" end="743" text="5957SJL" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="777" end="794" text="VSE290IT3VZ794125" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="835" end="856" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="860" end="866" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="893" end="898" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

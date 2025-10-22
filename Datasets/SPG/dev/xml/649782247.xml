@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Milagros Domínguez Herrera
+DNI: 43241407G
+Fecha de nacimiento: 15/05/1964
+Género: M
+Domicilio: Calle de Velázquez 93, 1C
+Ciudad: Ciudad Real, Burgos, Castilla y León
+Código postal: 09317
+Email: herrera@udc.es
+Teléfono fijo: +34 947 47 07 63
+Teléfono móvil: +34 647 47 86 33
+NHC: 3301096
+NASS: 486385491196
+Condición de riesgo: Operador de Equipos Mineros
+
+Datos asistenciales.
+Médico: Dra. Rebeca Pastor Arroyo. NC 479182987. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/03/2002
+Episodio: 18087997
+Centro de salud: Centro de Salud Majadahonda
+
+Informe clínico del paciente:
+Paciente de tez blanca de 37 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Milagros" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="54" text="Domínguez Herrera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="43241407G" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="15/05/1964" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="111" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="148" text="Calle de Velázquez 93, 1C" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="168" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="176" text="Burgos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="193" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="209" end="214" text="09317" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="222" end="236" text="herrera@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 947 47 07 63" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="285" end="301" text="+34 647 47 86 33" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="307" end="314" text="3301096" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="321" end="333" text="486385491196" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="355" end="382" text="Operador de Equipos Mineros" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="671" end="681" text="19/03/2002" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="692" end="700" text="18087997" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="718" end="745" text="Centro de Salud Majadahonda" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="789" end="799" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="803" end="810" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

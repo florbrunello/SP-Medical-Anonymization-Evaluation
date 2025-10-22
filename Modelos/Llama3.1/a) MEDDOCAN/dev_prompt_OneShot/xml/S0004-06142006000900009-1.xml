@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gabriel</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Navarro Cabrera</TAG>.
+    CIPA: <TAG TYPE="ID_SUJETO_ASISTENCIA">nhc-272226</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">14-63504522-08</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Sauceda 3. 1A Esquina San Eloy</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Sevilla</TAG>.
+    CP: <TAG TYPE="TERRITORIO">41001</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">272226</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">28/05/1991</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">26</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">31/10/2017</TAG>.
+    Especialidad: <TAG TYPE="PROFESION">Urologia</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rosa</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jiménez</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodríguez</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">41 41 98745</TAG>.
+    Motivo de ingreso: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lesiones en la piel prepucial</TAG>.
+    Antecedentes: Como antecedentes familiares refiere <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">enfermedad de Crohn en un hermano gemelo</TAG>; dentro de sus antecedentes personales destaca una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">enfermedad de Crohn diagnosticada</TAG> seis años antes, que ha cursado con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">brotes de intensidad severa</TAG> durante estos años y que han precisado <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tratamiento con corticoides e inmunosupresores</TAG>. En uno de estos brotes fue necesaria una intervención quirúrgica, en la que se realizó una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">colectomía total e ileostomía</TAG> según técnica de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Brooke</TAG>. El postoperatorio inmediato cursó de manera satisfactoria. En los meses posteriores a la intervención desarrolló una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">rectitis granulomatosa severa</TAG>, tratada con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">deflazacort y enemas rectales de mesalazina</TAG>. El paciente se encuentra también en estudio por el servicio de <TAG TYPE="PROFESION">hematología</TAG> por tiempo parcial de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tromboplastina activada (TTPA)</TAG> persistentemente alargados.
+    Historia Actual:Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">26</TAG> años que es remitido desde las consultas externas del servicio de <TAG TYPE="PROFESION">digestivo</TAG> para valorar unas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lesiones</TAG> que han aparecido en la piel prepucial de un año y medio de evolución, en forma de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">placa eritematosa y ulcerada</TAG>. Había sido tratada con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">corticoides tópicos</TAG> con el diagnóstico de sospecha de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pioderma gangrenoso</TAG>, no evolucionando satisfactoriamente. Además, el paciente refería <TAG TYPE="OTROS_SUJETO_ASISTENCIA">prurito y cierta supuración</TAG>, por lo que se toma muestra para cultivo, en el que aparece <TAG TYPE="OTROS_SUJETO_ASISTENCIA">crecimiento de flora colonizante uretral sin significación patológica</TAG>.
+    Exploración y pruebas complementarias: Se decide realizar una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">circuncisión</TAG>, enviando la piel prepucial al servicio de <TAG TYPE="PROFESION">anatomía patológica</TAG> con el siguiente resultado: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">granuloma no caseificante, con ulceración, propias de la enfermedad de Crohn metastásica</TAG>.
+    Evolución: Tras la extirpación de la lesión no se ha observado recidiva de la misma en un año de seguimiento.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rosa</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jiménez</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodríguez</TAG>. <TAG TYPE="PROFESION">Servicio de Urología</TAG>. 5ª planta. <TAG TYPE="HOSPITAL">Hospital Universitario Virgen del Rocío</TAG>. <TAG TYPE="CALLE">Avda. Manuel Siurot S/N</TAG>. <TAG TYPE="TERRITORIO">E-41013</TAG>. <TAG TYPE="TERRITORIO">Sevilla</TAG>. <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">ros_j_r@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

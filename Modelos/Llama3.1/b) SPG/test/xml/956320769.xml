@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Tomás</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Campos Pascual</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">20869218F</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/09/1945</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del León 41, 3L</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Vigo</TAG>, <TAG TYPE="TERRITORIO">Córdoba</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">14352</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">tomas_campos@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 957 53 13 15</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 657 90 60 99</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7052220</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">548642482143</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Pintor de Construcción</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Laia Robles Ortega</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">770260175</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">04/07/1983</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">43646950</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Puerta de Hierro Majadahonda</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">9048ZWX</TAG>
+    Modelo: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">Ford F-150</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSHDZLUF4WG653694</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">descendencia africana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> de edad. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-dermatology.org</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">reconocimiento facial</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">KB880VDH811</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">firma biométrica</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">ZE563XID468</TAG>.
+  </TEXT>
+</MEDDOCAN>

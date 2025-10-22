@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Esteban</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Morelos Salgado</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">982756</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">78 57654565 02</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Canónigo Manuel Penalva, 2 8A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Alicante</TAG>.
+    CP: <TAG TYPE="TERRITORIO">03002</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/01/1934</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">83 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">07/10/2017</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Nefrología</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Luis</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Picó Vicent</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">03 03 25846</TAG>.
+    Historia del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">83 años</TAG>, con antecedentes de neoplasia de próstata tratada con radioterapia, proctitis rádica actualmente asintomática sin tratamiento, hernia de hiato y ulcus gastroduodenal asintomático en tratamiento de mantenimiento con omeprazol 20 mg/24 h, enfermedad pulmonar obstructiva crónica y neumoconiosis sin tratamiento, tras 40 de evolución.
+    Acudió al servicio de urgencias presentando dolor en hemitórax izquierdo de 24 horas de evolución, continuo, sordo y no pleurítico. Conservaba el apetito, la tolerancia oral y el hábito intestinal diario. No refirió traumatismos previos ni cirugías o estudios invasivos previos. Mantenía un buen estado general, se encontraba apirético y hemodinámicamente estable. Presentó una exploración neurológica, cardiológica y abdominal normales; no se encontraron adenopatías. Se auscultó algún roncus pulmonar aislado bilateral. El electrocardiograma, el hemograma, la fórmula leucocitaria, el estudio de coagulación, la glucemia, el ionograma, las troponinas seriadas y las pruebas de función renal y hepática resultaron normales.
+    La radiografía simple de tórax mostró un patrón retículo-nodular basal bilateral. La radiografía de abdomen mostró neumoperitoneo bilateral, con un segmento de intestino delgado en mesogastrio rectificado en ausencia de obstrucción intestinal.
+    Se practicó tomografía axial computerizada (TAC) tóraco-abdominal de urgencia, que reveló un segmento de intestino delgado con una disección de su pared por gas intramural, presencia de gas en los vasos mesentéricos subsidiarios y la vena porta, y neumoperitoneo bilateral.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Luis</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Picó Vicent</TAG>. <TAG TYPE="PROFESION">Servicio Nefrología</TAG>, <TAG TYPE="HOSPITAL">planta 7 A</TAG> <TAG TYPE="HOSPITAL">Hospital General Universitario de Alicante</TAG> <TAG TYPE="CALLE">Avda Pintor Baeza s/n</TAG> <TAG TYPE="TERRITORIO">03010</TAG> <TAG TYPE="TERRITORIO">Alicante</TAG> <TAG TYPE="CORREO_ELECTRONICO">pico_lui@gva.es</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Espinosa Garriga</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7845633</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">27 65456795 38</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Cobre, 3, 4 C</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28041</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/09/1955</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">59 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">09/12/2014</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cabrera Meirás</TAG>. NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28</TAG>.
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">59 años</TAG> de edad con los antecedentes personales de etilismo crónico y hábito tabáquico de años de evolución, que como complicaciones había presentado un episodio de hemorragia digestiva alta secundaria a analgésicos antiinflamatorios. Como antecedentes urológicos un síndrome prostático de dos años de evolución sin complicaciones secundarias.
+    Acude a urgencias por síndrome febril intermitente de cuatro días de evolución, al que asocia incontinencia urinaria en las últimas 48 horas, junto con disuria y dolor sacro que se irradia a ambos miembros inferiores y que empeora con los movimientos. Se asocia también tenesmo rectal de reciente comienzo.
+    A su llegada a Urgencias se objetiva fiebre de hasta 39ºC, el paciente se encuentra hemodinámicamente estable, confuso, somnoliento y sudoroso.
+    Exploración física: A la exploración física, abdomen globuloso, blando y depresible, no peritonítico. Doloroso a la palpación en área lumbar bilateral a la altura de L5-S1, así como en área hipogástrica y región perineal. No impresiona de globo vesical. La exploración genital es normal, y el tacto rectal volumen I adenomatosa, ligeramente doloroso.
+    Pruebas complementarias: La exploración neurológica muestra disminución de la fuerza en ambos miembros inferiores en su tercio superior y la sensibilidad esta conservada. Los reflejos rotuliano y aquileo están presentes.
+    El paciente presenta en analítica urgente con hemograma y bioquímica: Hemoglobina <TAG TYPE="NUMERO_FISICO">14,2 g/dl</TAG>, Hematocrito <TAG TYPE="NUMERO_FISICO">41,5%</TAG>, Leucocitos <TAG TYPE="NUMERO_FISICO">20,300</TAG> (Neutrófilos <TAG TYPE="NUMERO_FISICO">72,9%</TAG>), Glucosa <TAG TYPE="NUMERO_FISICO">212 mg/dl</TAG>, Creatinina <TAG TYPE="NUMERO_FISICO">1,11 mg/dl</TAG>, Sodio <TAG TYPE="NUMERO_FISICO">135 mEq/l</TAG>, Potasio <TAG TYPE="NUMERO_FISICO">3,8 mEq/l</TAG>, Velocidad sedimentación <TAG TYPE="NUMERO_FISICO">100 mm/h</TAG>. Un análisis de orina con leucocitos negativos, nitritos negativos y sedimento normal. Se completa el análisis con un estudio de coagulación que determina una actividad de protrombina del <TAG TYPE="NUMERO_FISICO">83%</TAG>, un tiempo de cefalina de <TAG TYPE="NUMERO_FISICO">27,2 sg</TAG>, y fibrinógeno de <TAG TYPE="NUMERO_FISICO">574 mg/dl</TAG>.
+    Se solicitó de entrada una TAC abdomino-pélvica urgente que informaba de riñones con múltiples quistes simples y litiasis renal izquierda. No dilatación de la vía urinaria. Próstata aumentada de tamaño, observándose dos lesiones hipodensas en ambos lóbulos laterales de <TAG TYPE="NUMERO_FISICO">3.3 cm</TAG> y <TAG TYPE="NUMERO_FISICO">3 cm</TAG> compatibles con absceso prostático.
+    Se instaura entonces tratamiento antibiótico empírico con Ceftriaxona <TAG TYPE="NUMERO_FISICO">1 g/12 h</TAG>, Ampicilina <TAG TYPE="NUMERO_FISICO">1 g/6h</TAG> y Gentamicina <TAG TYPE="NUMERO_FISICO">240 mg/24 h</TAG>.
+    Con el diagnóstico de absceso prostático decidimos drenaje de la colección bajo control con ECTR y derivación urinaria.
+    En quirófano, se realiza punción lumbar previa a la anestesia intradural. Se observa salida de líquido cefalorraquídeo turbio-amarillento y se envía una muestra a microbiología y bioquímica, se aislaron <TAG TYPE="NUMERO_FISICO">1070</TAG> leucocitos (<TAG TYPE="NUMERO_FISICO">85%</TAG> polimorfonucleares).
+    Por otro lado, se confirma el diagnóstico de absceso prostático en la ECTR, en la que se evidencian, dos colecciones de <TAG TYPE="NUMERO_FISICO">30</TAG> y <TAG TYPE="NUMERO_FISICO">28 mm</TAG> que afectan al lóbulo izquierdo y derecho respectivamente, siendo el resto de la próstata heterogénea sin claras áreas abscesificadas. Mediante punción-drenaje vía perineal evacuamos <TAG TYPE="NUMERO_FISICO">10 cc</TAG> de pus, de las colecciones descritas, dejando colocado una sonda de cistostomía a modo de drenaje. Derivamos la orina mediante cistostomía suprapúbica.
+    Evolución: Del cultivo de las muestras (punción prostática y lumbar) se aisló <TAG TYPE="NOMBRE_ORGANISMO">S. aureus</TAG> oxicilin sensible por lo que iniciamos tratamiento con Cloxacilina <TAG TYPE="NUMERO_FISICO">2 g/24</TAG> y Rifampicina <TAG TYPE="NUMERO_FISICO">300 mg/12h</TAG>, y solicitamos una RMN lumbar urgente que se informó como empiema subdural, sin signos de espondilodiscitis.
+    El control posterior en base a nuevas ECTR se evidencia una franca mejoría, aún así es necesario drenar de nuevo un área hiperecogénica en el lóbulo prostático derecho, se evacuan <TAG TYPE="NUMERO_FISICO">4 cc</TAG> de material purulento. Los controles posteriores no evidenciaron nuevas áreas sospechosas. Se realiza asimismo una ecografía transesofágica, que descarta endocarditis secundaria y una nueva RMN lumbar de control una vez completadas seis semanas de tratamiento antibiótico, que evidenció la total resolución del empiema subdural.
+    Responsable clínico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Francisco</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cabrera Meirás</TAG>. Servicio de Urolgoía. Hospital Universitario <TAG TYPE="HOSPITAL">12 de Octubre</TAG>. <TAG TYPE="CALLE">Avda. de Cordoba s/n</TAG> - <TAG TYPE="TERRITORIO">28041</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG>. Tel.: <TAG TYPE="NUMERO_TELEFONO">913 908 121</TAG> E-mail autor: <TAG TYPE="CORREO_ELECTRONICO">cabdoc@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

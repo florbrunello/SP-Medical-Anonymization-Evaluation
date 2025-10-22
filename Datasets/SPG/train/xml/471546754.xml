@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Inés Izquierdo Vidal
+DNI: 70039507E
+Fecha de nacimiento: 26/09/1951
+Género: Femenino
+Domicilio: Calle de la Cabeza 43, 8Y
+Ciudad: Ciudad Real, Huesca, Aragón
+Código postal: 22264
+Email: ines_izquierdo.vidal486@uca.es
+Teléfono fijo: +34 974 44 73 73
+Teléfono móvil: +34 774 22 58 76
+NHC: 3981278
+NASS: 212507308028
+
+Datos asistenciales.
+Médico: Dra. Olga Paredes Lozano. NC 974220357. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/01/1971
+Hospital: Hospital Universitario Puerta de Hierro Majadahonda
+
+Informe clínico del paciente:
+Paciente vegetariano de 19 años de edad, acompañado de su compañera de trabajo. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es HF888PNJ329. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Inés" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="48" text="Izquierdo Vidal" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="70039507E" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="26/09/1951" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="112" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="149" text="Calle de la Cabeza 43, 8Y" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="169" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="171" end="177" text="Huesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="185" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="22264" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="244" text="ines_izquierdo.vidal486@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="260" end="276" text="+34 974 44 73 73" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="293" end="309" text="+34 774 22 58 76" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="315" end="322" text="3981278" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="329" end="341" text="212507308028" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="608" end="618" text="28/01/1971" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="629" end="680" text="Hospital Universitario Puerta de Hierro Majadahonda" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="721" end="732" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="736" end="743" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="770" end="779" text="compañera" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T21" start="873" end="884" text="HF888PNJ329" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

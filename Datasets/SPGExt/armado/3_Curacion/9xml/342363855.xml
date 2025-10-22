@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marco</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Diez Luna</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">64302995D</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/08/1995</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Piamonte 50</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ferrol</TAG>, <TAG TYPE="TERRITORIO">Álava</TAG>, <TAG TYPE="PAIS">Pais Vasco</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">01770</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">marco-luna638@yahoo.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 945 03 41 99</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 645 04 34 53</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2150291</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">898876918364</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Minería</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mikel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Cano Diez</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 220723937</TAG>. <TAG TYPE="PROFESION">Gastroenterólogo</TAG> <TAG TYPE="PROFESION">Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">22/08/2008</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">10756700</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuenlabrada</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="DESCRIPCION_FISICA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">13 años</TAG> de edad, acompañado de su padre, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">asma</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alergia a los lácteos</TAG>, refiere <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolores abdominales crónicos</TAG> desde hace 6 meses, con episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diarrea</TAG>. La exploración física revela: <TAG TYPE="MEDICION_FISICA">Tª 36,5 C</TAG>; <TAG TYPE="MEDICION_FISICA">T.A: 110/70 mmHg</TAG>; <TAG TYPE="MEDICION_FISICA">Fc: 90 lpm</TAG>. Se encuentra consciente, orientado, sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sudoración</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">taquicardia</TAG>. En cabeza y cuello no se palpan <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">adenopatías</TAG> ni <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">bocio</TAG>. La exploración abdominal revela un <TAG TYPE="DESCRIPCION_FISICA">abdomen blando</TAG>, <TAG TYPE="DESCRIPCION_FISICA">depressible</TAG>, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor en el hígado</TAG> y la <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">vesícula biliar</TAG>. Los datos analíticos muestran los siguientes resultados: <TAG TYPE="ANALITICA">Hemograma: Hb 12,5 g/dl</TAG>; <TAG TYPE="ANALITICA">leucocitos 8.500/mm3 (neutrófilos 60%)</TAG>; <TAG TYPE="ANALITICA">plaquetas 250.000/mm3</TAG>. <TAG TYPE="ANALITICA">Bioquímica: Glucosa 90 mg/dl</TAG>; <TAG TYPE="ANALITICA">urea 20 mg/dl</TAG>; <TAG TYPE="ANALITICA">creatinina 0,8 mg/dl</TAG>; <TAG TYPE="ANALITICA">sodio 140 mEq/l</TAG>; <TAG TYPE="ANALITICA">potasio 4,5 mEq/l</TAG>; <TAG TYPE="ANALITICA">GOT 30 U/l</TAG>; <TAG TYPE="ANALITICA">GPT 40 U/l</TAG>; <TAG TYPE="ANALITICA">GGT 50 U/l</TAG>. Se solicitan pruebas de imagen (<TAG TYPE="EXAMEN_IMAGEN">Ecografía abdominal</TAG>) que revelan una <TAG TYPE="DESCRIPCION_FISICA">hígado aumentado de tamaño</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">áreas de necrosis</TAG>. Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hepatitis crónica</TAG> se instaura tratamiento sintomático (<TAG TYPE="MEDICAMENTO">antitérmicos</TAG>, <TAG TYPE="MEDICAMENTO">antiinflamatorios</TAG>) así como tratamiento específico: <TAG TYPE="MEDICAMENTO">Inhibidores de la proteasa (PPI)</TAG> y medicamentos para reducir la inflamación en el hígado. El paciente mejora significativamente de su cuadro tras 2 semanas de tratamiento, decidiéndose el alta a su domicilio donde continúa con el tratamiento.
+  </TEXT>
+</MEDDOCAN>

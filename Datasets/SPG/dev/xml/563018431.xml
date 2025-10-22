@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Olga Galan Rivera
+DNI: 29742322X
+Fecha de nacimiento: 15/04/2013
+Género: Mujer
+Domicilio: Calle de Fortuny 70, 1K
+Ciudad: Reus, Castellón, Comunidad Valenciana
+Código postal: 12375
+Email: olga781@ucm.es
+Teléfono fijo: +34 964 30 18 51
+Teléfono móvil: +34 664 44 57 35
+NHC: 1717078
+NASS: 042222625275
+
+Datos asistenciales.
+Médico: Dr. Francisco Javier Medina Valero. NC 149341987. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/10/2015
+Centro de salud: Centro de Salud Moratalaz
+Matrícula del coche: 4048OND
+Modelo: Hyundai Elantra
+VIN: VSSZKLPKR9L987148
+
+Informe clínico del paciente:
+Paciente judío de 2 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-research.net//32339937J. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Olga" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="45" text="Galan Rivera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="29742322X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="15/04/2013" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="106" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="141" text="Calle de Fortuny 70, 1K" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="154" text="Reus" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="165" text="Castellón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="167" end="187" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="12375" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="230" text="olga781@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="246" end="262" text="+34 964 30 18 51" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="279" end="295" text="+34 664 44 57 35" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="301" end="308" text="1717078" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="315" end="327" text="042222625275" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="362" end="392" text="Francisco Javier Medina Valero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="397" end="406" text="149341987" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="408" end="455" text="Investigador Clínico en Enfermedades Digestivas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="457" end="550" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="552" end="581" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="583" end="588" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="590" end="596" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="598" end="604" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="624" end="634" text="22/10/2015" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="652" end="677" text="Centro de Salud Moratalaz" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T26" start="699" end="706" text="4048OND" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="736" end="753" text="VSSZKLPKR9L987148" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="794" end="799" text="judío" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="803" end="809" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="836" end="841" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="876" end="899" text="http://example-research" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

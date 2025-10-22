@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Arturo Mora Gómez</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">43685184L</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">31/03/1953</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de las Yeserías 28</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Torrelodones</TAG>, <TAG TYPE="TERRITORIO">La Coruña</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">15278</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">arturo.gomez@aol.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 981 41 34 64</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 681 80 67 44</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0916143</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">968770995254</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Bombero</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. María Josefa Vila Gil</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">218888327</TAG>. <TAG TYPE="PROFESION">Gastroenteróloga</TAG> <TAG TYPE="PROFESION">Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/06/1995</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">91366503</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Móstoles</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia indígena americana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">42 años</TAG> de edad, acompañado de su abuela, que refiere una evolución clínica de 48 horas con dolor abdominal crónico, con irradiación a la espalda y fiebre de 38,5°C. La exploración física revela: Tª 39,2°C; T.A: 110/70 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Antecedentes:
+    El paciente tiene un antecedente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hepatitis A</TAG> en su infancia, y un antecedente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gastroenteritis viral</TAG> en su juventud.
+    Evolución y comentarios:
+    El paciente se encuentra en una evolución clínica estable, con una temperatura corporal elevada y dolor abdominal crónico. Se le ha solicitado una exploración más exhaustiva para determinar la causa subyacente de su enfermedad.
+    Remitido por:
+    El paciente ha sido remitido por su médico de cabecera, quien sospecha una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">infección gastrointestinal</TAG>.
+    Fecha de alta:
+    El paciente se encuentra en una evolución clínica estable y se le ha solicitado una exploración más exhaustiva para determinar la causa subyacente de su enfermedad. Se le ha dado de alta con una cita para una revisión en 48 horas.
+  </TEXT>
+</MEDDOCAN>

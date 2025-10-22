@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Adrián Zamora Paredes</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">94812614J</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">22/01/2000</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Covarrubias 27</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ferrol</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">10645</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">adrian.zamora_paredes540@gmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 927 08 82 41</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 627 76 68 32</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0163773</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">520275660373</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Sin especificar</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Julián Navarro Durán</TAG> NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">755342849</TAG>. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">13/01/2021</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Delicias</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="ASCENDENCIA_ETNICA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 años</TAG> de edad, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedentes de salud no especificados</TAG>, se presenta con un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cuadro clínico no descrito</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">JO431WUE153</TAG>. La exploración física no se menciona en este informe. Se desconoce la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">evolución clínica</TAG> y el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tratamiento aplicado</TAG>.
+    Antecedentes:
+    No se proporcionan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedentes médicos relevantes</TAG>.
+    Evolución y comentarios:
+    No se proporcionan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">comentarios</TAG> sobre la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">evolución clínica</TAG> del paciente.
+    Remitido por:
+    No se proporciona <TAG TYPE="OTROS_SUJETO_ASISTENCIA">información</TAG> sobre quién remitió al paciente al centro de salud.
+  </TEXT>
+</MEDDOCAN>

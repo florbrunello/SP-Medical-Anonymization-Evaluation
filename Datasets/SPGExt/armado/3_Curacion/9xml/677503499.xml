@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ramón Santana Reyes</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">39987299M</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/10/1981</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Narváez 67</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Burgos, Salamanca, Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">37831</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ramonreyes@outlook.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 62 53 45</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 623 25 08 02</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7430505</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">389047982310</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Electricista</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Elvira Núñez Roldan</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 740427200</TAG>. <TAG TYPE="PROFESION">Neuróloga Investigadora en Trastornos Cognitivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="DIREC_PROT_INTERNET">Avenida de Córdoba, s/n. 28041. Madrid. España.</TAG>.
+    Cargo: <TAG TYPE="PROFESION">Investigadora</TAG>.
+    Dirección: <TAG TYPE="DIREC_PROT_INTERNET">Avenida de Córdoba, s/n. 28041. Madrid. España.</TAG>.
+    Fecha de ingreso:
+    Fecha de ingreso: <TAG TYPE="FECHAS">25/11/2024</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">37968557</TAG>.
+    Centro de salud de ingreso:
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Aluche</TAG>.
+    Informe clínico del paciente:
+    Paciente vegetariano de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">43 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dislipemia</TAG>, sin antecedentes de enfermedades cerebrovasculares. Se quejó de dolores de cabeza intensos y frecuentes en la región occipital, acompañados de mareos y vértigos. La exploración física reveló una tensión arterial elevada y un electrocardiograma anormal.
+    La evolución clínica fue marcada por una progresión de los síntomas, con aumento de la frecuencia y gravedad de los dolores de cabeza. Se realizaron pruebas de imagen, incluyendo una resonancia magnética cerebral, que reveló una lesión en el lóbulo occipital derecho.
+    El tratamiento se centró en la reducción de la tensión arterial y la administración de analgésicos para controlar los dolores de cabeza. Se realizó una derivación de la tensión arterial y se recomendó una dieta baja en sodio y grasas.
+    La evolución del paciente ha sido favorable, con reducción de la frecuencia y gravedad de los dolores de cabeza. Se realizaron revisiones periódicas para monitorear la evolución del paciente y ajustar el tratamiento según sea necesario.
+    Antecedentes:
+    El paciente tiene un antecedente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">accidente cerebrovascular</TAG> en el año 2015, que le dejó con una lesión en el lóbulo frontal izquierdo. Ha estado bajo tratamiento con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">anticoagulantes</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antiagregantes plaquetarios</TAG> desde entonces.
+    Evolución y comentarios:
+    El paciente ha estado bajo tratamiento durante seis meses, con una reducción significativa de la frecuencia y gravedad de los dolores de cabeza. Se ha observado una mejora en la función cognitiva y una disminución de la frecuencia de los mareos y vértigos.
+    Remitido por:
+    Se remitió al paciente a su médico de cabecera para continuar con el tratamiento y realizar revisiones periódicas. Se le recomendó una dieta saludable y una actividad física regular para mejorar su calidad de vida.
+  </TEXT>
+</MEDDOCAN>

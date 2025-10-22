@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Borja Montero Conde
+DNI: 39582688X
+Fecha de nacimiento: 07/08/1997
+Género: Varón
+Domicilio: Calle de Segovia 7, 6O
+Ciudad: Ponferrada, Cuenca, Castilla-La Mancha
+Código postal: 16517
+Email: borja_montero@ub.edu
+Teléfono fijo: +34 969 96 76 85
+Teléfono móvil: +34 669 99 84 50
+NHC: 5054082
+
+Datos asistenciales.
+Médico: Dr. José María Molina Montero. NC 271273529. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 29/04/2011
+Episodio: 50737352
+Hospital: Hospital Universitario de Fuenlabrada
+
+Informe clínico del paciente:
+Paciente vegano de 13 años de edad, acompañado de su hermana. Se registró una sesión de huella dactilar, el código obtenido para revisarla es VZ320NMT837. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Borja" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Montero Conde" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="39582688X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="07/08/1997" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="108" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="142" text="Calle de Segovia 7, 6O" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="161" text="Ponferrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="169" text="Cuenca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="171" end="189" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="16517" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="238" text="borja_montero@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 969 96 76 85" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 669 99 84 50" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="5054082" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="351" end="376" text="José María Molina Montero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="381" end="390" text="271273529" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="392" end="436" text="Investigador Principal en Optometría Clínica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="438" end="496" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="498" end="522" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="524" end="529" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="531" end="541" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="543" end="549" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="569" end="579" text="29/04/2011" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="590" end="598" text="50737352" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="609" end="646" text="Hospital Universitario de Fuenlabrada" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="687" end="693" text="vegano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="697" end="704" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="731" end="738" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T29" start="820" end="831" text="VZ320NMT837" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

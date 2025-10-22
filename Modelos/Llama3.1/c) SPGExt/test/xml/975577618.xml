@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Héctor</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Velasco Márquez</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">29760288J</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/02/1934</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Áncora 8</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Getafe</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>, <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">28595</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">marquez937@icloud.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 911 87 81 85</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 916 99 53 46</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3323545</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">305025629221</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Repartidor</TAG>.
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Susana</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pereira Guzman</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">013696516</TAG>. <TAG TYPE="PROFESION">Cardióloga Especialista en Electrofisiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">14/05/1998</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">38076690</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Arganda del Rey</TAG>.
+    Informe clínico del paciente:
+    Paciente consumidor de alcohol de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">64 años</TAG> de edad, acompañado de su esposa. Se registró una sesión de huella dactilar, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">IF361WSE120</TAG>.
+    El paciente presenta una serie de síntomas relacionados con el consumo de alcohol, incluyendo mareos, vértigo y confusión. También ha presentado problemas de memoria y concentración. En la exploración física, se observa una serie de signos de abstinencia, como sudoración, temblores y aumento de la frecuencia cardíaca.
+    Se solicitan pruebas de laboratorio para evaluar la función hepática y la presencia de signos de intoxicación etílica. También se realiza una exploración física detallada para evaluar la presencia de signos de abstinencia y otros problemas de salud relacionados con el consumo de alcohol.
+    El tratamiento incluye la administración de medicamentos para controlar los síntomas de abstinencia y la reducción de la ingesta de alcohol. También se recomienda una terapia de grupo para apoyar al paciente en su proceso de recuperación.
+    La evolución del paciente es complicada debido a su condición de salud y su historial de consumo de alcohol. Es importante que el paciente siga con el tratamiento y la terapia de grupo para mejorar su condición de salud y reducir el riesgo de complicaciones en el futuro.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Manuel</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mendez Montoya</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">19547865</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">26 23457896 12</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Alisos, 19</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Ciudad Real</TAG>.
+    CP: <TAG TYPE="TERRITORIO">13002</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/10/1962</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">54 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">13/12/2016</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">746589123</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jorge</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ortega Carnicer</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">02 13 16485</TAG>.
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">54 años</TAG> que ingresa en el hospital a causa de un episodio de dolor torácico de una hora de duración. El ECG mostró ondas Q junto a E-ST en derivaciones inferiores y D-ST en derivaciones I, aVL y V4-V5. En derivaciones precordiales derechas pudo observarse también una onda J marcada seguida de una D-ST convexa y descendente que finalizaba en una onda T negativa. Con el diagnóstico de IAM inferior recibió tratamiento fibrinolítico con tenecteplasa. Una hora después el ECG, registrado con ligero dolor precordial, reveló ausencia de E-ST inferior, una onda T negativa en aVL y una elevación del punto J > 0,2 mV con E-ST descendente y onda T negativa en derivaciones V1-V2, que sugerían un patrón electrocardiográfico de SB. Cinco horas más tarde el ECG mostró una onda J prominente con E-ST convexa y en silla de montar en derivaciones V1 y V2, respectivamente. También hubo una elevación del punto J asociada con una E-ST y onda T positiva en derivaciones V3-V4. Tres días después del ingreso el ECG reveló un patrón qR inferior junto con una onda T negativa en derivaciones III y aVF, una onda J manifiesta en V1-V2, una E-ST cóncava con onda T positiva en derivaciones V2-V3, y ausencia de onda S en las derivaciones izquierdas. Mientras estuvo ingresado no tuvo arritmias ventriculares. El valor máximo de la creatinquinasa y troponina I fueron <TAG TYPE="OTRO_NUMERO_IDENTIF">1.398 U/l</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">23,2 ng/ml</TAG>, respectivamente. La arteriografía coronaria reveló una estenosis (95%) proximal de la arteria coronaria derecha y se le colocó un stent. Tras ser dado de alta, 6 meses más tarde fue sometido a una prueba de provocación con flecainida (2 mg/kg intravenosamente en 10 minutos) que fue negativa para poder hacer un diagnóstico de SB.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Jorge</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ortega Carnicer</TAG>. <TAG TYPE="CALLE">Los Alisos, 10</TAG>. <TAG TYPE="TERRITORIO">13002</TAG> <TAG TYPE="TERRITORIO">Ciudad Real</TAG>. <TAG TYPE="CORREO_ELECTRONICO">jortegacar@gmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

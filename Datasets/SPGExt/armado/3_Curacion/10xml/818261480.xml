@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Iker Castaño Bravo</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">69933677S</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/07/1941</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Piamonte 4, 1H</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Avilés, Palencia, Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">34825</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">RXqb8mqOC51261@ciberer.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 84 96 79</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 779 67 20 89</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3306320</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">993211738458</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Médico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Francisco José Camacho Molina</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 743511621</TAG>. <TAG TYPE="PROFESION">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">16/09/1957</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">07736258</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario La Mancha Centro</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">7071SOH</TAG>.
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Toyota Corolla</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSNBAY924XZ536621</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia indígena sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">16 años</TAG> de edad, con antecedentes familiares de enfermedades genéticas. Presenta un cuadro clínico caracterizado por una serie de síntomas que incluyen dolores articulares, debilidad muscular y fatiga crónica. La exploración física revela signos de hipotensión, taquicardia y taquipnea. Los resultados de las pruebas diagnósticas muestran alteraciones en los niveles de creatinina y urea en la sangre, así como una disminución en la función renal.
+    Se ha solicitado una serie de pruebas complementarias para confirmar el diagnóstico, incluyendo una biopsia renal y una exploración genética. El paciente está recibiendo tratamiento sintomático para aliviar los síntomas y se está evaluando la posibilidad de un tratamiento más agresivo para tratar la enfermedad subyacente.
+    La evolución clínica del paciente es estable, pero se requiere un seguimiento estrecho para monitorizar la progresión de la enfermedad y ajustar el tratamiento según sea necesario.
+    Evolución y comentarios:
+    El paciente ha estado recibiendo tratamiento durante las últimas semanas y ha mostrado una respuesta favorable a la terapia. Los síntomas han disminuido y la función renal ha mejorado ligeramente. Sin embargo, se requiere un seguimiento continuo para asegurarse de que la enfermedad no se esté progresando.
+    Remitido por:
+    El paciente ha sido remitido por su médico de cabecera, quien ha notado una serie de síntomas que sugieren una enfermedad genética subyacente. El paciente ha sido referido al Servicio de Genética Médica para una evaluación más exhaustiva y un diagnóstico definitivo.
+    Antecedentes:
+    El paciente tiene antecedentes familiares de enfermedades genéticas, incluyendo una tía que sufrió de una enfermedad renal crónica y un primo que fue diagnosticado con una condición similar. El paciente también ha informado de haber experimentado síntomas similares en el pasado, pero no ha sido diagnosticado con anterioridad.
+    Fecha de ingreso:
+    La fecha de ingreso del paciente es el <TAG TYPE="FECHAS">16/09/1957</TAG>.
+    Centro de salud de ingreso:
+    El centro de salud de ingreso del paciente es el <TAG TYPE="HOSPITAL">Complejo Hospitalario La Mancha Centro</TAG>.
+  </TEXT>
+</MEDDOCAN>

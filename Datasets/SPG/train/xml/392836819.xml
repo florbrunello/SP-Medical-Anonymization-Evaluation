@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Álex Romero Cortés
+DNI: 99801064Q
+Fecha de nacimiento: 23/08/1933
+Género: V
+Domicilio: Calle de Claudio Coello 52, 3U
+Ciudad: Puertollano, Castellón, Comunidad Valenciana
+Código postal: 12396
+Email: alex_cortes1250@outlook.com
+Teléfono fijo: +34 964 19 15 52
+Teléfono móvil: +34 664 23 22 13
+NHC: 8228066
+NASS: 627342260660
+Condición de riesgo: Científico de Investigación
+
+Datos asistenciales.
+Médico: Dr. Eric Palacios Álvarez. NC 357223697. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/11/1963
+Episodio: 19704564
+Centro de salud: Centro de Salud Parla
+Matrícula del coche: 8919USN
+Modelo: Chevrolet Silverado
+VIN: VSYGA3YHV8O964594
+
+Informe clínico del paciente:
+Paciente vegetariano de 30 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Álex" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="46" text="Romero Cortés" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="99801064Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="23/08/1933" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="145" text="Calle de Claudio Coello 52, 3U" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="165" text="Puertollano" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="176" text="Castellón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="198" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="214" end="219" text="12396" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="227" end="254" text="alex_cortes1250@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="270" end="286" text="+34 964 19 15 52" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="303" end="319" text="+34 664 23 22 13" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="325" end="332" text="8228066" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="339" end="351" text="627342260660" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="373" end="400" text="Científico de Investigación" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="435" end="456" text="Eric Palacios Álvarez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="461" end="470" text="357223697" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="472" end="506" text="Residente de 3° año en Psiquiatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="508" end="578" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="580" end="609" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="611" end="616" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="618" end="624" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="626" end="632" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="652" end="662" text="26/11/1963" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="673" end="681" text="19704564" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="699" end="720" text="Centro de Salud Parla" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T28" start="742" end="749" text="8919USN" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="783" end="800" text="VSYGA3YHV8O964594" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="841" end="852" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="856" end="863" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

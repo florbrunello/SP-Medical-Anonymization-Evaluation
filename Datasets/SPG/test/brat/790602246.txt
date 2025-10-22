@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: David Exposito Serra
+DNI: 18252205A
+Fecha de nacimiento: 16/06/1952
+Género: V
+Domicilio: Calle de Génova 8
+Ciudad: Langreo, Valencia, Comunidad Valenciana
+Código postal: 46963
+Email: davidexpositoserra@udc.es
+Teléfono fijo: +34 960 96 00 88
+Teléfono móvil: +34 760 73 35 67
+NHC: 8314150
+NASS: 852566557466
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dr. Francisco José Quintana Aguilera. NC 978605374. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 22157272
+Centro de salud: Centro de Salud Getafe
+
+Informe clínico del paciente:
+Paciente judío de 72 años de edad. 

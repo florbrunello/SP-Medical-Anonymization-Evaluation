@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Dolores Conde Rubio
+DNI: 48211597D
+Fecha de nacimiento: 17/06/1973
+Género: M
+Domicilio: Calle Mayor 74
+Ciudad: Móstoles, Vizcaya, Pais Vasco
+Código postal: 48519
+Email: conde-rubio732@hotmail.com
+Teléfono fijo: +34 946 34 09 19
+Teléfono móvil: +34 646 63 40 95
+NHC: 4122925
+Condición de riesgo: Electricista
+
+Datos asistenciales.
+Médico: Dr. Leo Pastor Benítez. NC 388027052. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/07/1990
+Episodio: 37869081
+Hospital: Hospital General de Villalba
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 17 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.51.246, con dirección MAC 60:7C:72:0E:94:F5. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Dolores" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="53" text="Conde Rubio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="48211597D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="17/06/1973" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="136" text="Calle Mayor 74" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="153" text="Móstoles" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="162" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="174" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="190" end="195" text="48519" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="203" end="229" text="conde-rubio732@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="245" end="261" text="+34 946 34 09 19" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 646 63 40 95" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="300" end="307" text="4122925" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="329" end="341" text="Electricista" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="376" end="394" text="Leo Pastor Benítez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="399" end="408" text="388027052" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="410" end="445" text="Investigador Principal en Parkinson" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="447" end="536" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="538" end="567" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="569" end="574" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="576" end="582" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="584" end="590" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="610" end="620" text="05/07/1990" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="631" end="639" text="37869081" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="650" end="678" text="Hospital General de Villalba" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="722" end="742" text="ascendencia asiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="746" end="753" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="869" end="886" text="60:7C:72:0E:94:F5" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

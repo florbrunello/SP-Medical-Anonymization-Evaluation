@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Miriam González Jiménez
+DNI: 75715748R
+Fecha de nacimiento: 11/11/1972
+Género: F
+Domicilio: Calle del Prado 98
+Ciudad: Hellín, León, Castilla y León
+Código postal: 24827
+Email: miriam.gonzalez@ciberned.es
+Teléfono fijo: +34 987 10 00 78
+Teléfono móvil: +34 687 28 37 92
+NHC: 4605245
+NASS: 934991980537
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dr. Isaac Iglesias Diez. NC 666162921. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/11/1987
+Centro de salud: Centro de Salud Boadilla del Monte
+
+Informe clínico del paciente:
+Paciente de tez blanca de 15 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Miriam" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="51" text="González Jiménez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="75715748R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="11/11/1972" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="138" text="Calle del Prado 98" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="153" text="Hellín" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="159" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="161" end="176" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="192" end="197" text="24827" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="205" end="232" text="miriam.gonzalez@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 987 10 00 78" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 687 28 37 92" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="4605245" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="934991980537" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="351" end="357" text="Médico" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="392" end="411" text="Isaac Iglesias Diez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="416" end="425" text="666162921" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="427" end="466" text="Residente de 4° año en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="468" end="552" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="554" end="583" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="585" end="590" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="592" end="598" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="600" end="606" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="626" end="636" text="22/11/1987" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="654" end="688" text="Centro de Salud Boadilla del Monte" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="732" end="742" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="746" end="753" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="780" end="786" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

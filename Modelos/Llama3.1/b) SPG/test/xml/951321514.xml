@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Valentina</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Castillo Soto</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">50053392X</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/09/1992</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Zurbano 49, 7I</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Motril</TAG>, <TAG TYPE="TERRITORIO">Salamanca</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">37625</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">castillo.soto@uhu.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 923 62 95 87</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 623 18 79 00</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9317766</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">985745350223</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ana Belén Bernal Pacheco</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">485984833</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">15/09/1997</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">06213630</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Latina</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>.
+    Se realizó un expediente con <TAG TYPE="URL_WEB">http://example-therapy.org//21947427K</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">firma biométrica</TAG>, el código obtenido para revisarla es <TAG TYPE="OTRO_NUMERO_IDENTIF">ZF374OUP828</TAG>.
+  </TEXT>
+</MEDDOCAN>

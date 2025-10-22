@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Montserrat Medina Álvarez
+DNI: 25428387R
+Fecha de nacimiento: 30/10/1960
+Género: F
+Domicilio: Calle de Narváez 46
+Ciudad: Aranda de Duero, Tarragona, Cataluña
+Código postal: 43751
+Email: montserrat@ual.es
+Teléfono fijo: +34 977 08 23 14
+Teléfono móvil: +34 777 27 97 04
+NHC: 2339853
+NASS: 736329653174
+Condición de riesgo: Albañil
+
+Datos asistenciales.
+Médico: Dra. María Belén Navarro Álvarez. NC 890437001. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 11/06/2018
+Episodio: 82996602
+Hospital: Hospital General de Villalba
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 57 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Montserrat" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="53" text="Medina Álvarez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="25428387R" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="30/10/1960" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="141" text="Calle de Narváez 46" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="165" text="Aranda de Duero" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="176" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="186" text="Cataluña" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="43751" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="232" text="montserrat@ual.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="248" end="264" text="+34 977 08 23 14" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 777 27 97 04" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="303" end="310" text="2339853" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="736329653174" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="351" end="358" text="Albañil" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="622" end="632" text="11/06/2018" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="643" end="651" text="82996602" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="662" end="690" text="Hospital General de Villalba" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="734" end="760" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="764" end="771" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

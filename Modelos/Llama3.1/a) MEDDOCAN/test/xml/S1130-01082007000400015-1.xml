@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Matias</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ramos Ruíz</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">098576</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">26 78956670 23</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Gran Vía, 22 4 D</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28013</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">18/05/1994</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">24 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">03/06/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Iñigo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Úbeda-Pérez de Heredia</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 54985</TAG>.
+    Historia del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">24 años</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal progresivo en fosa iliaca derecha</TAG>, de <TAG TYPE="FECHAS">24 horas de evolución</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fiebre</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pérdida de apetito</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">náuseas sin vómitos</TAG>. Como antecedentes patológicos destacaba una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">atresia cólica del colon descendente</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vólvulo intestinal de delgado</TAG> en el periodo neonatal, practicándose <TAG TYPE="OTROS_SUJETO_ASISTENCIA">desvolvulación intestinal</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">doble abocamiento del colon a pared abdominal</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">colostomía</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fístula mucosa</TAG>). A los <TAG TYPE="FECHAS">1,5 años de vida</TAG> se realizó la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">liberación de ambos cabos cólicos</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">anastomosis término-terminal</TAG>, así como una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">apendicectomía profiláctica</TAG>. En la sala de urgencias el paciente estaba <TAG TYPE="OTROS_SUJETO_ASISTENCIA">febricular</TAG> (<TAG TYPE="FECHAS">37,4 ºC</TAG>). La exploración física reveló <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal</TAG>, en el cuadrante inferior derecho, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">signos de irritación peritoneal</TAG>. La analítica remarcaba una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">leucocitosis</TAG> de <TAG TYPE="FECHAS">19,100/mm3</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">desviación a la izquierda</TAG>. La tomografía computarizada abdominal mostraba <TAG TYPE="OTROS_SUJETO_ASISTENCIA">signos de probable apendicitis del muñón apendicular</TAG>: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">engrosamiento de una estructura tubular</TAG> en la base del ciego, algunas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">burbujas de aire adyacente</TAG> y un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">apendicolito</TAG>. Mediante una incisión de Mc Burney se identificó un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">plastrón pericecal</TAG> sobre un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">muñón apendicular de 1 cm</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">signos de apendicitis gangrenosa</TAG>; se realizó <TAG TYPE="OTROS_SUJETO_ASISTENCIA">resección del resto apendicular</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">doble sutura en bolsa de tabaco</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">lavados</TAG>. Fue tratado con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antibioterapia</TAG> (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">ertapenem</TAG>) y dado de alta al <TAG TYPE="FECHAS">cuarto día</TAG> sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">complicaciones</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Iñigo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Úbeda-Pérez de Heredia</TAG> <TAG TYPE="CORREO_ELECTRONICO">dr.iubedap@gmail.com</TAG>, <TAG TYPE="CORREO_ELECTRONICO">inigo_ubeda@fremap.es</TAG>
+  </TEXT>
+</MEDDOCAN>

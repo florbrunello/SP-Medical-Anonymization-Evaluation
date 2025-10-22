@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Arturo Serrano Miguel
+DNI: 63654102S
+Fecha de nacimiento: 09/05/1996
+Género: M
+Domicilio: Calle del Olivar 28
+Ciudad: Ourense, Ciudad Real, Castilla-La Mancha
+Código postal: 13841
+Email: serranomiguel1591@ciberer.es
+Teléfono fijo: +34 926 44 33 45
+Teléfono móvil: +34 726 62 01 50
+NHC: 6646120
+Condición de riesgo: Carpintero
+
+Datos asistenciales.
+Médico: Dr. Jesús María Valero Caballero. NC 014363286. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/05/2002
+Episodio: 91452515
+Centro de salud: Centro de Salud Fuengirola
+Matrícula del coche: 8463GPW
+Modelo: BMW 3 Series
+VIN: VSADYT62R8O028436
+
+Informe clínico del paciente:
+Paciente vegetariano de 6 años de edad, acompañado de su abuelo. Se realizó un expediente con URL http://example-medical.edu//97951138J. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Arturo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="49" text="Serrano Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="63654102S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="09/05/1996" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="137" text="Calle del Olivar 28" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="146" end="153" text="Ourense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="166" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="186" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="202" end="207" text="13841" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="215" end="243" text="serranomiguel1591@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 926 44 33 45" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="292" end="308" text="+34 726 62 01 50" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="314" end="321" text="6646120" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="343" end="353" text="Carpintero" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="388" end="416" text="Jesús María Valero Caballero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="421" end="430" text="014363286" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="432" end="466" text="Residente de 3° año en Psiquiatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="468" end="538" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="540" end="569" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="571" end="576" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="578" end="584" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="586" end="592" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="612" end="622" text="21/05/2002" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="633" end="641" text="91452515" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="659" end="685" text="Centro de Salud Fuengirola" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="707" end="714" text="8463GPW" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="741" end="758" text="VSADYT62R8O028436" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="799" end="810" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="814" end="820" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="847" end="853" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="888" end="910" text="http://example-medical" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

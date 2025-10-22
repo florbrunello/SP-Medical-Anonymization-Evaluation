@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Esteban</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Medina Calderon</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">45728163T</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/04/1954</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Rollo 60</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Jerez de la Frontera</TAG>, <TAG TYPE="TERRITORIO">La Rioja</TAG>, <TAG TYPE="TERRITORIO">La Rioja</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">26316</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">esteban.calderon@ciberisciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 941 06 36 31</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 641 23 81 26</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2932306</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Bombero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Josefina Hurtado Salazar</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">902530998</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 5° año en Urología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">11/05/2001</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">39226331</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Latina</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0408PVY</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Honda CR-V</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSV4NUJPCEU399393</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">víctima de desastre</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">47 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">nuera</TAG>.
+  </TEXT>
+</MEDDOCAN>

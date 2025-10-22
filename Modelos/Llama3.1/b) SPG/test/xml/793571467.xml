@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Inmaculada</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Alonso Conde</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">59788998S</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/01/1978</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de la Princesa 80</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcázar de San Juan</TAG>, <TAG TYPE="TERRITORIO">Álava</TAG>, <TAG TYPE="TERRITORIO">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">01172</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">alonso_conde376@ual.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 945 44 48 98</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 645 71 82 27</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7923683</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">568814637336</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Maquinaria Pesada</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ramón Vila Bernal</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">147038624</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neurólogo Investigador en Trastornos Cognitivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/11/2017</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Alhaurín de la Torre</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0804VOI</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Chrysler Pacifica</TAG>
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSFR7UE3R1P549617</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">39 años</TAG> de edad. Se realizó un expediente con <TAG TYPE="DIREC_PROT_INTERNET">http://example-clinica.com//63711086Z</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sara Mesa García
+DNI: 54226381V
+Fecha de nacimiento: 06/08/1961
+Género: Mujer
+Domicilio: Calle de la Princesa 55
+Ciudad: Getafe, La Rioja, La Rioja
+Código postal: 26643
+Email: saramesa.garcia@salud.madrid.org
+Teléfono fijo: +34 941 08 11 56
+Teléfono móvil: +34 741 85 34 25
+NHC: 6513464
+Condición de riesgo: Trabajador de Línea de Producción
+
+Datos asistenciales.
+Médico: Dr. Ángel Pastor Hidalgo. NC 708326208. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 28/05/2010
+Episodio: 57216249
+Hospital: Hospital Clínic San Carlos
+Matrícula del coche: 3056NIG
+Modelo: Volkswagen Golf
+VIN: VSD2P57NZSI829272
+
+Informe clínico del paciente:
+Paciente víctima de desastre de 48 años de edad, acompañado de su compañero de trabajo. Se realizó un expediente con URL http://example-therapy.org//50515210P. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Sara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="44" text="Mesa García" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="54226381V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="06/08/1961" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="105" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="140" text="Calle de la Princesa 55" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="155" text="Getafe" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="157" end="165" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="167" end="175" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="26643" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="236" text="saramesa.garcia@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 941 08 11 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="285" end="301" text="+34 741 85 34 25" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="307" end="314" text="6513464" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="336" end="369" text="Trabajador de Línea de Producción" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="404" end="424" text="Ángel Pastor Hidalgo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="429" end="438" text="708326208" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="440" end="471" text="Residente de 5° año en Urología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="473" end="545" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="547" end="570" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="572" end="577" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="579" end="585" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="587" end="593" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="613" end="623" text="28/05/2010" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="634" end="642" text="57216249" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="653" end="679" text="Hospital Clínic San Carlos" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="701" end="708" text="3056NIG" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="738" end="755" text="VSD2P57NZSI829272" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="796" end="815" text="víctima de desastre" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="819" end="826" text="48 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="853" end="862" text="compañero" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="908" end="930" text="http://example-therapy" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

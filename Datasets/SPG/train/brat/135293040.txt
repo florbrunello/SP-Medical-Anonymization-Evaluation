@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Elisa Martín Torres
+DNI: 41183274A
+Fecha de nacimiento: 15/07/1945
+Género: Mujer
+Domicilio: Calle de Villalar 53
+Ciudad: Torrelodones, Segovia, Castilla y León
+Código postal: 40604
+Email: martin_torres@aol.com
+Teléfono fijo: +34 921 26 41 49
+Teléfono móvil: +34 721 02 72 77
+NHC: 3679866
+
+Datos asistenciales.
+Médico: Dr. Andrés Blazquez Franco. NC 233796730. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 29/11/1988
+Episodio: 08311479
+Centro de salud: Centro de Salud Marbella
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 43 años de edad, acompañado de su pareja. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.92.22, con dirección MAC 97:63:16:C6:2D:CC. 

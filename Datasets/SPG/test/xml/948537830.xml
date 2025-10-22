@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Carlota Román Montero
+DNI: 13136389P
+Fecha de nacimiento: 22/02/1997
+Género: M
+Domicilio: Calle de Santa Engracia 78, 8F
+Ciudad: Eibar, Zaragoza, Aragón
+Código postal: 50432
+Email: roman.montero1521@ciberehd.org
+Teléfono fijo: +34 976 93 67 75
+FAX: +34 976 41 58 29
+NHC: 2491975
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dra. Carlota Prieto Cortés. NC 165682659. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/12/2012
+Episodio: 82255973
+Centro de salud: Centro de Salud Sevilla Oeste
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 15 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Carlota" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="49" text="Román Montero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="13136389P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="22/02/1997" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="148" text="Calle de Santa Engracia 78, 8F" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="162" text="Eibar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="164" end="172" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="174" end="180" text="Aragón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="50432" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="239" text="roman.montero1521@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="255" end="271" text="+34 976 93 67 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="277" end="293" text="+34 976 41 58 29" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="299" end="306" text="2491975" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="328" end="349" text="Trabajador de Almacén" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="621" end="631" text="13/12/2012" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="642" end="650" text="82255973" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="668" end="697" text="Centro de Salud Sevilla Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="741" end="770" text="ascendencia del medio oriente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="774" end="781" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="808" end="815" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

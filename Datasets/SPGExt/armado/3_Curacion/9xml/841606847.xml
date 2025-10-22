@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Antonia Trujillo Herrero</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">78363930D</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">20/09/1988</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Reina 8</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Plasencia, Jaén, Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">23159</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">antonia793@uca.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 953 91 32 49</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 753 16 27 62</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1893523</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">586281413414</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paramédico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Clara</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Manzano Cuesta</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">572648352</TAG>. <TAG TYPE="PROFESION">Residente de 3° año en Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">06/10/2002</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Central de Asturias</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="DESCRIPCION_FISICA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14 años</TAG> de edad, acompañado de su hermano, que presenta un cuadro de <TAG TYPE="SINTOMAS">dolor ocular agudo</TAG> en el ojo derecho, con <TAG TYPE="SINTOMAS">fotofobia</TAG> y <TAG TYPE="SINTOMAS">lagrimeo</TAG>. La exploración física revela una <TAG TYPE="SINTOMAS">visión borrosa</TAG> en el ojo afectado, con un <TAG TYPE="SINTOMAS">reflejo pupilar anormal</TAG>. Los análisis de sangre muestran un aumento de la <TAG TYPE="ANALISIS">proteína C-reactiva</TAG> y un leve aumento de la <TAG TYPE="ANALISIS">glóbulina E</TAG>.
+    La ecografía ocular revela un aumento de la <TAG TYPE="ANALISIS">presión intraocular</TAG> en el ojo derecho, con un signo de <TAG TYPE="ANALISIS">edema retiniano</TAG>. La tomografía computarizada de la cabeza no muestra ninguna patología significativa.
+    Con el diagnóstico de <TAG TYPE="DIAGNOSTICO">glaucoma agudo</TAG>, se instaura tratamiento con medicamentos <TAG TYPE="MEDICAMENTO">antiinflamatorios</TAG> y <TAG TYPE="MEDICAMENTO">anti-glaucomatosos</TAG>. El paciente se encuentra estabilizado y se le indica una revisión en 24 horas para evaluar la evolución del cuadro.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="ALERGIA">alergia a la penicilina</TAG> y ha sido sometido a una <TAG TYPE="CIRUGIA">cirugía de cataratas</TAG> en el ojo izquierdo a los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">10 años</TAG> de edad.
+    Evolución y comentarios:
+    El paciente se encuentra estable y se le indica una revisión en 24 horas para evaluar la evolución del cuadro. Se le prescribe un tratamiento con medicamentos <TAG TYPE="MEDICAMENTO">antiinflamatorios</TAG> y <TAG TYPE="MEDICAMENTO">anti-glaucomatosos</TAG>.
+    Remitido por:
+    Se reenvía a la especialidad de <TAG TYPE="ESPECIALIDAD">Oftalmología</TAG> para una evaluación más detallada y un tratamiento más específico.
+  </TEXT>
+</MEDDOCAN>

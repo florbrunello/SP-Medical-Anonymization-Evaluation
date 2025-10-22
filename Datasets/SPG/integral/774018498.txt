@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Sergio Nieto Prieto
+DNI: 43571198K
+Fecha de nacimiento: 04/04/1953
+Género: M
+Domicilio: Calle de la Lechuga 68
+Ciudad: MelillaHuesca, Huesca, Aragón
+Código postal: 22844
+Email: sergio-prieto784@ucm.es
+Teléfono fijo: +34 974 08 37 59
+Teléfono móvil: +34 774 27 56 42
+NHC: 8160259
+NASS: 744758580794
+Condición de riesgo: Farmacéutico
+
+Datos asistenciales.
+Médico: Dr. Vicente Moreno Vega. NC 911394849. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 26/12/1997
+Episodio: 99160056
+Hospital: Complejo Hospitalario Universitario de Cartagena
+Matrícula del coche: 6580DPU
+Modelo: Toyota RAV4
+VIN: VSR03O5J9JV272341
+
+Informe clínico del paciente:
+Paciente no fumador de 44 años de edad, acompañado de su vecino. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.101.189, con dirección MAC 87:B4:9C:24:1B:D0. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es FZ581IVO406. 

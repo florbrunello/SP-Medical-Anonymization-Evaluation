@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juana Trujillo Fuentes
+DNI: 55572552K
+Fecha de nacimiento: 30/09/1990
+Género: M
+Domicilio: Calle de Arganzuela 91
+Ciudad: Aranda de Duero, Palencia, Castilla y León
+Código postal: 34402
+Email: juana-trujillo1694@salud.madrid.org
+Teléfono fijo: +34 979 57 32 11
+Teléfono móvil: +34 679 52 64 45
+NHC: 5902577
+NASS: 946575763139
+Condición de riesgo: Conserje
+
+Datos asistenciales.
+Médico: Dra. Esther Casas Rubio. NC 205427521. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 17/12/2016
+Episodio: 44594063
+Hospital: Hospital Universitario Fundación Alcorcón
+Matrícula del coche: 8973WXW
+Modelo: Toyota Corolla
+VIN: VSJQA499XJA782085
+
+Informe clínico del paciente:
+Paciente de tez blanca de 26 años de edad, acompañado de su amigo. El servidor para envío de información desde cual el usuario se comunica es smtp://example-biotech.com. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Juana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="50" text="Trujillo Fuentes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="55572552K" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="30/09/1990" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="141" text="Calle de Arganzuela 91" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="165" text="Aranda de Duero" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="175" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="192" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="208" end="213" text="34402" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="221" end="256" text="juana-trujillo1694@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="272" end="288" text="+34 979 57 32 11" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="305" end="321" text="+34 679 52 64 45" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="327" end="334" text="5902577" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="341" end="353" text="946575763139" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="375" end="383" text="Conserje" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="636" end="646" text="17/12/2016" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="657" end="665" text="44594063" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="676" end="717" text="Hospital Universitario Fundación Alcorcón" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="739" end="746" text="8973WXW" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="775" end="792" text="VSJQA499XJA782085" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="836" end="846" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="850" end="857" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="884" end="889" text="amigo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T25" start="966" end="988" text="smtp://example-biotech" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

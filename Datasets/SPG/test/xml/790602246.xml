@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: David Exposito Serra
+DNI: 18252205A
+Fecha de nacimiento: 16/06/1952
+Género: V
+Domicilio: Calle de Génova 8
+Ciudad: Langreo, Valencia, Comunidad Valenciana
+Código postal: 46963
+Email: davidexpositoserra@udc.es
+Teléfono fijo: +34 960 96 00 88
+Teléfono móvil: +34 760 73 35 67
+NHC: 8314150
+NASS: 852566557466
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dr. Francisco José Quintana Aguilera. NC 978605374. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 22157272
+Centro de salud: Centro de Salud Getafe
+
+Informe clínico del paciente:
+Paciente judío de 72 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Exposito Serra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="18252205A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="16/06/1952" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="134" text="Calle de Génova 8" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="143" end="150" text="Langreo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="152" end="160" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="162" end="182" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="46963" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="236" text="davidexpositoserra@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 960 96 00 88" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="285" end="301" text="+34 760 73 35 67" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="307" end="314" text="8314150" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="321" end="333" text="852566557466" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="355" end="361" text="Minero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="396" end="428" text="Francisco José Quintana Aguilera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="433" end="442" text="978605374" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="444" end="478" text="Residente de 4° año en Cardiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="480" end="566" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="568" end="597" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="599" end="604" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="606" end="612" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="614" end="620" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="640" end="650" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="661" end="669" text="22157272" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="687" end="709" text="Centro de Salud Getafe" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="750" end="755" text="judío" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="759" end="766" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

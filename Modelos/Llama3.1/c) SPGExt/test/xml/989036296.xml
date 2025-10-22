@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jaume</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vicente</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Velasco</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">21380833X</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">14/03/1955</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Zurbano 21</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Majadahonda</TAG>.
+    Provincia: <TAG TYPE="TERRITORIO">Málaga</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">29255</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">vicente@icloud.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 83 27 14</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 651 49 78 76</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9030911</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">279492776338</TAG>.
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Operador de Equipos Mineros</TAG>.
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Elisa</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Martínez Pascual</TAG>.
+    NC: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">951862170</TAG>.
+    Cargo: <TAG TYPE="PROFESION">Residente de 4° año en Medicina Interna</TAG>.
+    Institución: <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>.
+    Dirección: <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">28/03/2023</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">67585100</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Lugo</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">68 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, que acude al servicio de urgencias con dolor de cabeza severo y vómitos desde hace 24 horas. La exploración física revela: Tª <TAG TYPE="FECHAS">38,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En la exploración neurológica se detectan signos de meningismo.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">14,2 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">12.000/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">70%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">50 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">90%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">110 mg/dl</TAG>; urea <TAG TYPE="FECHAS">25 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,2 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,8 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">20 U/l</TAG>; GPT <TAG TYPE="FECHAS">30 U/l</TAG>; GGT <TAG TYPE="FECHAS">40 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">150 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Rx tórax, Ecografía cerebral, TAC craneal) que muestran un absceso cerebral en la región frontal. Con el diagnóstico de absceso cerebral se instaura tratamiento antibiótico específico y se realiza drenaje del absceso mediante neurocirugía.
+    Antecedentes:
+    El paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, y ha sido tratado con medicamentos orales y dietas hipocalóricas.
+    Evolución y comentarios:
+    El paciente ha mejorado significativamente después del tratamiento antibiótico y la neurocirugía. Se le ha indicado seguir un régimen de tratamiento para prevenir la recurrencia del absceso cerebral.
+    Remitido por:
+    El paciente ha sido remitido a su domicilio con seguimiento médico regular para controlar la evolución del tratamiento y la condición del paciente.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Christian Serrano Macias
+DNI: 42808852X
+Fecha de nacimiento: 22/08/1933
+Género: Masculino
+Domicilio: Calle de San Ildefonso 6, 3R
+Ciudad: Novelda, Madrid, Madrid
+Código postal: 28018
+Email: christian_serrano@us.es
+Teléfono fijo: +34 916 81 56 44
+Teléfono móvil: +34 711 38 76 39
+NHC: 5260808
+NASS: 192503996555
+
+Datos asistenciales.
+Médico: Dra. Carla Herrero Vázquez. NC 276628379. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 13/03/2020
+Hospital: Complejo Hospitalario La Mancha Centro
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 86 años de edad, acompañado de su marido. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Christian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="52" text="Serrano Macias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="42808852X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="22/08/1933" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="117" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="129" end="157" text="Calle de San Ildefonso 6, 3R" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="166" end="173" text="Novelda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="175" end="181" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="183" end="189" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="28018" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="241" text="christian_serrano@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="257" end="273" text="+34 916 81 56 44" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="290" end="306" text="+34 711 38 76 39" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="312" end="319" text="5260808" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="326" end="338" text="192503996555" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="579" end="589" text="13/03/2020" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="600" end="638" text="Complejo Hospitalario La Mancha Centro" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T18" start="682" end="715" text="ascendencia nórdica o escandinava" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="719" end="726" text="86 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="753" end="759" text="marido" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="836" end="860" text="smtp://example-nutrition" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

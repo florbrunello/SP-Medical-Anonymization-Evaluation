@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Casado Casado</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5347986</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">28 23748589 45</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle puente cesures, 16</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28029</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/11/1947</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">67 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/05/2015</TAG>.
+    Médico:  NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28</TAG>.
+    Informe clínico del paciente: Paciente varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">67 años</TAG>, sin antecedentes de interés, que acude a consulta de urología por primera vez, derivado por su médico de atención primaria, por síntomas de prostatismo. En el examen físico se encuentra una próstata de consistencia adenomatosa y de tamaño aumentado (<TAG TYPE="OTROS_SUJETO_ASISTENCIA">III/IV</TAG>). En la ecografia transrectal se observa un parénquima heterogéneo, con calcificaciones aisladas en lóbulo derecho, sin objetivarse imágenes hipoecoicas y con un volumen prostático de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">101,7 c.c.</TAG>. En los análisis, elevación de <TAG TYPE="OTRO_NUMERO_IDENTIF">PSA</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">13,08 ng/ml.</TAG>). Se indica realización de biopsia prostática transrectal.
+    El resultado de la anatomía patológica fue informado como <TAG TYPE="OTRO_NUMERO_IDENTIF">nevus azul prostático</TAG>. Se describe un parénquima prostático con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">inflamación crónica</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">reacción granulomatosa de tipo cuerpo extraño</TAG>, con presencia de <TAG TYPE="OTRO_NUMERO_IDENTIF">gránulos intracitoplásmicos</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">melanocitos fusiformes dendríticos</TAG>. No hay evidencia de malignidad en ninguna de las muestras.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pablo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Garrido Abad</TAG> <TAG TYPE="HOSPITAL">Servicio de Urología Hospital La Princesa</TAG> <TAG TYPE="CALLE">Diego de León</TAG>, <TAG TYPE="TERRITORIO">28006</TAG> <TAG TYPE="TERRITORIO">Madrird</TAG>. (<TAG TYPE="PAIS">España</TAG>). <TAG TYPE="CORREO_ELECTRONICO">pgabad@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

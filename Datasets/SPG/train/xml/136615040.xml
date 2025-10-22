@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Jesús María Blazquez Vargas
+DNI: 69023541N
+Fecha de nacimiento: 17/01/1982
+Género: Masculino
+Domicilio: Calle de la Cabeza 71
+Ciudad: Zamora, La Rioja, La Rioja
+Código postal: 26210
+Email: jesusmariavargas@uca.es
+Teléfono fijo: +34 941 95 12 02
+Teléfono móvil: +34 641 22 67 47
+NHC: 8295544
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dr. Darío Padilla Santiago. NC 498830259. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 11/09/1982
+Episodio: 03454373
+Centro de salud: Centro de Salud Fuencarral
+Matrícula del coche: 8085OUP
+Modelo: Hyundai Elantra
+VIN: VSXRR2ZR0PI620408
+
+Informe clínico del paciente:
+Paciente no fumador de 7 meses de edad, acompañado de su hermano. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es QM217TDV270. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="Jesús María" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="55" text="Blazquez Vargas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="69023541N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="17/01/1982" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="120" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="132" end="153" text="Calle de la Cabeza 71" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="162" end="168" text="Zamora" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="178" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="180" end="188" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="26210" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="240" text="jesusmariavargas@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 941 95 12 02" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="289" end="305" text="+34 641 22 67 47" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="311" end="318" text="8295544" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="340" end="371" text="Operador de Maquinaria Agrícola" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="406" end="428" text="Darío Padilla Santiago" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="433" end="442" text="498830259" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="444" end="481" text="Residente de 4° año en Endocrinología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="483" end="550" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="552" end="579" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="581" end="586" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="588" end="595" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="597" end="603" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="623" end="633" text="11/09/1982" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="644" end="652" text="03454373" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="670" end="696" text="Centro de Salud Fuencarral" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="718" end="725" text="8085OUP" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="755" end="772" text="VSXRR2ZR0PI620408" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="813" end="823" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="827" end="834" text="7 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="861" end="868" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T32" start="952" end="963" text="QM217TDV270" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ignacio</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Baez Martinez</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3456723</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">89 56756794 75</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Pinto, 5</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Las Rozas</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28232</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">05/09/1952</TAG>.
+    País de nacimiento: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">61 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">21/08/2014</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Beatriz</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Aguilera</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 64891</TAG>.
+    Historia Actual: Paciente varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">61 años</TAG> remitido a nuestra consulta por hallazgo ecográfico casual de masa renal tras estudio de epigastralgia.
+    Entre los antecedentes personales destacan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">colelitiasis</TAG> e <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hidrocelectomía derecha</TAG>. En la anamnesis el paciente no refiere <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor en fosas renales</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hematuria</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">episodios de infección urinaria</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">astenia</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">anorexia</TAG> o <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pérdida de peso</TAG>. La exploración física no objetiva <TAG TYPE="OTROS_SUJETO_ASISTENCIA">masas abdominales</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">megalias</TAG>.
+    Pruebas complementarias: La ecografía muestra un nódulo exofítico de 4 x 2 cm de diámetro mayor a nivel del polo superior del riñón derecho que presenta áreas sólidas y quísticas, con zonas vascularizadas (Eco-doppler). Ante el diagnóstico de masa renal compleja se solicita una TC abdomino-pélvica que objetiva la lesión quística compleja a nivel renal, siendo imposible determinar de forma definitiva su naturaleza benigna. Realizamos una RNM abdominal que identifica la masa de 4,2 x 3,3 x 3 cm, hipointensa en las secuencias T1 y marcadamente hiperintensa en las T2, con varios septos lineales en su interior, realce lineal de las paredes del quiste y de los septos internos tras administrar gadolinio, por lo que es diagnóstica de masa quística mínimamente complicada.
+    Evolución: Ante la duda diagnóstica de la TC y los hallazgos ecográficos (quiste renal grado III de Bosniak) decidimos realizar exploración quirúrgica y mediante incisión en el flanco practicamos tumorectomía.
+    La evolución posterior fue satisfactoria y el estudio histológico confirmó la presencia de un <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">carcinoma de células claras renales</TAG>, quístico multilocular, grado I de Fuhrman, con márgenes de resección negativos.
+    En la TC de control a los 6 meses de la intervención podemos observar los cambios postquirúrgicos a nivel de la cortical renal y de la grasa adyacente, sin evidencia de recidiva local. El paciente actualmente está asintomático, siendo revisado cada 6 meses con ecografía y anualmente con TC.
+    Responsable clínico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Beatriz Aguilera</TAG> Servicio de <TAG TYPE="PROFESION">Histopatología</TAG> INTCF-Madrid. <TAG TYPE="CALLE">c/ José Echegaray 4</TAG>. <TAG TYPE="TERRITORIO">28232 Las Rozas</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. E-mail: <TAG TYPE="CORREO_ELECTRONICO">b.aguilera@mju.es</TAG>.
+  </TEXT>
+</MEDDOCAN>

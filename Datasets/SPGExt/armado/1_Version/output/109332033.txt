@@ -1,0 +1,52 @@
+Aquí te presento un ejemplo de informe clínico del paciente con la estructura y contenido solicitados:
+
+Datos del paciente.
+Nombre: Borja Esteban Gil
+DNI: 49280073C
+Fecha de nacimiento: 31/12/1980
+Género: M
+Domicilio: Calle de San Ildefonso 67
+Ciudad: Lleida, Valencia, Comunidad Valenciana
+Código postal: 46453
+Email: gil@yahoo.com
+Teléfono fijo: +34 960 78 21 08
+Teléfono móvil: +34 760 77 03 83
+NHC: 3002822
+NASS: 49280073C4645300000
+Condición de riesgo: Farmacéutico
+
+Datos asistenciales.
+Médico: Dr. Jesús Espinosa Carrillo. NC 596593187. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 31/01/1984
+Episodio: 88455100
+Centro de salud: Centro de Salud Aluche
+
+Informe clínico del paciente:
+
+El paciente es un varón de 3 años de edad, de ascendencia sudamericana, que se presenta en la consulta con su abuela. La madre del paciente no se encuentra presente en este momento.
+
+La exploración física revela:
+- Tª 36,5 C; T.A: 95/60 mmHg; Fc: 22 lpm.
+- El paciente se encuentra consciente, orientado, sin sudoración ni fiebre.
+- En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular.
+- Auscultación cardíaca rítmica, sin soplos, roces ni extratonos.
+- Auscultación pulmonar con conservación del murmullo vesicular.
+- Abdomen blando, depresible, sin masas ni megalias.
+- En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad.
+- Extremidades sin varices ni edemas.
+- Pulsos periféricos presentes y simétricos.
+
+Los datos analíticos muestran los siguientes resultados:
+- Hemograma: Hb 12,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 60%); plaquetas 250.000/mm3.
+- VSG: 30 mm 1ª hora.
+- Coagulación: TQ 90%; TTPA 25,5 seg.
+- Bioquímica: Glucosa 110 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl.
+- Orina: sedimento normal.
+
+El paciente presenta un cuadro de ansiedad generalizada, con síntomas de inquietud, temor y dificultad para relajarse. La abuela del paciente informa que el paciente ha estado presentando estos síntomas durante las últimas semanas, y que se ha vuelto más inquieto y difícil de calmar.
+
+Se solicitan pruebas de imagen (Ecografía abdominal y TAC craneal) para evaluar la presencia de cualquier patología subyacente que pueda estar contribuyendo a los síntomas del paciente.
+
+Se instaura tratamiento con medicamentos antipsicóticos y ansiolíticos, bajo la supervisión del médico tratante. El paciente y su abuela son instruidos en la importancia de la adherencia al tratamiento y la necesidad de seguir con las sesiones de terapia.
+
+El paciente se encuentra estable y sin complicaciones a la fecha de la redacción de este informe. Se programará una revisión en la siguiente semana para evaluar el progreso del paciente y ajustar el tratamiento según sea necesario.

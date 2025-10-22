@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Patricia Herrera Benito
+DNI: 67558794C
+Fecha de nacimiento: 10/09/1945
+Género: Mujer
+Domicilio: Calle del Sombrerete 81, 8O
+Ciudad: Novelda, Córdoba, Andalucía
+Código postal: 14882
+Email: benito@ual.es
+Teléfono fijo: +34 957 54 50 25
+Teléfono móvil: +34 657 60 19 86
+NHC: 7939157
+NASS: 894065347089
+Condición de riesgo: Policía
+
+Datos asistenciales.
+Médico: Dr. Vicente Soto Camacho. NC 166077240. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/06/1999
+Hospital: Hospital Universitari de Bellvitge
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 53 años de edad, acompañado de su nuera. El servidor para envío de información desde cual el usuario se comunica es smtp://example-neurology.com. 

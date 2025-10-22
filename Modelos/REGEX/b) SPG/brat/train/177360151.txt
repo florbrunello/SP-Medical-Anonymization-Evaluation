@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Darío Acosta Rivas
+DNI: 75612471V
+Fecha de nacimiento: 14/04/1965
+Género: V
+Domicilio: Calle del Amparo 49
+Ciudad: San Sebastián, Almería, Andalucía
+Código postal: 04330
+Email: dario_rivas@yahoo.com
+Teléfono fijo: +34 950 54 03 94
+Teléfono móvil: +34 750 24 54 61
+NHC: 9225188
+NASS: 396515970993
+
+Datos asistenciales.
+Médico: Dr. Juan Ramón Medina Herrera. NC 568860154. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/08/2002
+Episodio: 38423231
+Centro de salud: Centro de Salud Barajas
+Matrícula del coche: 2132MWV
+Modelo: Hyundai Elantra
+VIN: VSR06ENZSGR761237
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 37 años de edad. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es NZ228KIA091. 

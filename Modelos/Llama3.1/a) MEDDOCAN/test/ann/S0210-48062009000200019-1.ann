@@ -1,0 +1,35 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 8 13	César
+T2	NOMBRE_SUJETO_ASISTENCIA 26 43	Fernandez Ordoñez
+T3	ID_SUJETO_ASISTENCIA 51 62	nhc-7649551
+T4	ID_ASEGURAMIENTO 70 84	12 97642583 56
+T5	CALLE 98 120	Rúa De San Blas 16, 6E
+T6	TERRITORIO 145 155	Pontevedra
+T7	TERRITORIO 160 165	36143
+T8	ID_SUJETO_ASISTENCIA 55 62	7649551
+T9	FECHAS 223 233	15/12/1942
+T10	PAIS 241 247	España
+T11	EDAD_SUJETO_ASISTENCIA 255 262	74 años
+T12	SEXO_SUJETO_ASISTENCIA 269 274	Varón
+T13	FECHAS 295 305	28/11/2017
+T14	PROFESION 317 326	Urgencias
+T15	NOMBRE_PERSONAL_SANITARIO 336 342	Daniel
+T16	NOMBRE_PERSONAL_SANITARIO 343 355	Pérez Fentes
+T17	ID_TITULACION_PERSONAL_SANITARIO 363 374	36 36 46541
+T18	OTROS_SUJETO_ASISTENCIA 427 476	hipertensión arterial a tratamiento con captopril
+T19	OTROS_SUJETO_ASISTENCIA 478 522	hiperlipemia a tratamiento con atorvastatina
+T20	OTROS_SUJETO_ASISTENCIA 525 567	hiperuricemia a tratamiento con alopurinol
+T21	OTROS_SUJETO_ASISTENCIA 587 717	Varón de 74 años que acude al Servicio de Urgencias con un cuadro de dolor hipogástrico, fiebre y disuria de 48 horas de evolución
+T22	OTROS_SUJETO_ASISTENCIA 779 863	masa palpable, dolorosa, de gran tamaño, que ocupa hipogastrio y ambas fosas ilíacas
+T23	OTROS_SUJETO_ASISTENCIA 931 981	25.930 leucocitos con marcada desviación izquierda
+T24	OTROS_SUJETO_ASISTENCIA 1019 1098	3-5 leucocitos/campo, microhematuria con nitritos positivos en la tira reactiva
+T25	OTROS_SUJETO_ASISTENCIA 1159 1202	absceso en hipogastrio de 15 x 9,2 x 7,3 cm
+T26	OTROS_SUJETO_ASISTENCIA 1416 1486	absceso sobreañadido a proceso neoformativo benigno o maligno del área
+T27	OTROS_SUJETO_ASISTENCIA 1545 1570	quiste de uraco infectado
+T28	OTROS_SUJETO_ASISTENCIA 1738 1890	Leuconostoc spp, Streptococcus intermedius, Clostridium perfringens, Escherichia Coli, Bacteroides ovatus, Corynebacterium spp. y Pseudomonas aeruginosa
+T29	NOMBRE_PERSONAL_SANITARIO 3003 3013	Dr. Daniel
+T30	NOMBRE_PERSONAL_SANITARIO 3014 3026	Pérez Fentes
+T31	HOSPITAL 3027 3083	Hospital Clínico Universitario de Santiago de Compostela
+T32	CALLE 3085 3110	Av. Travesía Choupana s/n
+T33	TERRITORIO 3113 3127	15706 A Coruña
+T34	NUMERO_TELEFONO 3134 3145	981 950 000
+T35	CORREO_ELECTRONICO 3155 3176	danielfentes@yahoo.es

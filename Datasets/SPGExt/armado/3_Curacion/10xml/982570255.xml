@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Adam Simon Villanueva</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">42817526J</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/11/1992</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Santa Ana 99</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Torrelodones, Vizcaya, Pais Vasco</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">48999</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">adamvillanueva278@uhu.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 946 76 82 09</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 646 98 90 78</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2523300</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">022204004785</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Médico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Gema</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Hurtado Merino</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">871218741</TAG>. Investigadora Principal en <TAG TYPE="PROFESION">Optometría Clínica</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/11/2024</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">55960149</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Severo Ochoa</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0773CHG</TAG>.
+    Modelo: <TAG TYPE="OTRO_SUJETO_ASISTENCIA">Tesla Model 3</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSTD3QYPF9I684069</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">32 años</TAG> de edad, acompañado de su madre, quien refiere que su hijo ha presentado una serie de síntomas en los últimos días, incluyendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor de cabeza</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">mareos</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">visión borrosa</TAG>. El paciente tiene una historia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alergia a los alimentos</TAG> y ha sido <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> durante varios años.
+    La exploración física revela: Tª <TAG TYPE="OTROS_SUJETO_ASISTENCIA">37,5 C</TAG>; T.A: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120/80 mmHg</TAG>; Fc: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">80 lpm</TAG>. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="OTROS_SUJETO_ASISTENCIA">14,5 g/dl</TAG>; leucocitos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">8.500/mm3</TAG> (neutrófilos <TAG TYPE="OTROS_SUJETO_ASISTENCIA">70%</TAG>); plaquetas <TAG TYPE="OTROS_SUJETO_ASISTENCIA">250.000/ mm3</TAG>. VSG: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="OTROS_SUJETO_ASISTENCIA">95%</TAG>; TTPA <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25,8 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="OTROS_SUJETO_ASISTENCIA">90 mg/dl</TAG>; urea <TAG TYPE="OTROS_SUJETO_ASISTENCIA">15 mg/dl</TAG>; creatinina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">0,8 mg/dl</TAG>; sodio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">140 mEq/l</TAG>; potasio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">3,5 mEq/l</TAG>; GOT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">12 U/l</TAG>; GPT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">20 U/l</TAG>; GGT <TAG TYPE="OTROS_SUJETO_ASISTENCIA">25 U/l</TAG>; fosfatasa alcalina <TAG TYPE="OTROS_SUJETO_ASISTENCIA">120 U/l</TAG>; calcio <TAG TYPE="OTROS_SUJETO_ASISTENCIA">9,2 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía abdominal, TAC craneal, Ecocardiograma transtorácico) para evaluar la posible causa de los síntomas del paciente. Los resultados de las pruebas muestran una serie de hallazgos que sugieren una posible causa de los síntomas del paciente.
+    Con el diagnóstico de una posible causa
+  </TEXT>
+</MEDDOCAN>

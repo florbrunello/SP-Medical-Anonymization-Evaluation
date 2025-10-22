@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Abel Romero Robles</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">59167563V</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/10/2023</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Pez 64, 3A</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Gijón</TAG>, <TAG TYPE="TERRITORIO">Vizcaya</TAG>, <TAG TYPE="PAIS">Pais Vasco</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">48280</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">abel-romerorobles@us.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 946 62 48 52</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 946 14 94 81</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6345206</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Residuos Sólidos</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Rodrigo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gil Morales</TAG>. <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">NC 698709207</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Enfermedades Digestivas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">00159905</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario La Mancha Centro</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">4449XYL</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Jeep Wrangler</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSX6B20XARC092247</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">un año de edad</TAG>, acompañado de su hermana. El paciente presenta una temperatura corporal de <TAG TYPE="FECHAS">37,5°C</TAG>, pulso de <TAG TYPE="FECHAS">120 bpm</TAG> y respiraciones de <TAG TYPE="FECHAS">24 por minuto</TAG>. El estado general es bueno, sin signos de dolor ni malestar.
+    La exploración física revela un peso de <TAG TYPE="OTRO_NUMERO_IDENTIF">12 kg</TAG> y una talla de <TAG TYPE="OTRO_NUMERO_IDENTIF">90 cm</TAG>. La piel y los ojos están dentro de los límites normales. No se encuentran signos de infección ni inflamación en la zona de la nariz, oídos, garganta ni otras áreas.
+    La exploración neurológica no muestra signos de alteración en la conciencia, orientación ni respuesta a estímulos. La exploración muscular y la reflexología no presentan alteraciones.
+    Se solicitan pruebas de laboratorio para evaluar la función renal y hepática, así como una radiografía de tórax para evaluar la función pulmonar.
+    El diagnóstico inicial es de una infección respiratoria aguda, por lo que se inicia tratamiento con antibióticos y se recomienda reposo y hidratación.
+    Antecedentes:
+    El paciente tiene una historia de alergia a ciertos alimentos, pero no se tiene información sobre la gravedad de esta alergia.
+    Evolución y comentarios:
+    El paciente ha estado recibiendo tratamiento durante las últimas 24 horas y ha mostrado una mejora en su estado general. Sin embargo, se sigue observando una temperatura corporal elevada y se solicitan pruebas adicionales para evaluar la gravedad de la infección.
+    Remitido por:
+    El paciente ha sido remitido por su médico de cabecera, quien ha informado sobre la presencia de síntomas respiratorios agudos y una temperatura corporal elevada.
+  </TEXT>
+</MEDDOCAN>

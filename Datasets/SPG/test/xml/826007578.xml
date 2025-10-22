@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Aitor Mateos Domínguez
+DNI: 82153024Z
+Fecha de nacimiento: 25/04/1943
+Género: Hombre
+Domicilio: Calle de San Bernardo 14, 5B
+Ciudad: Eibar, Formentera, Islas Baleares
+Código postal: 07027
+Email: aitordominguez@us.es
+Teléfono fijo: +34 971 06 10 99
+Teléfono móvil: +34 771 88 64 21
+NHC: 1958861
+NASS: 085636893699
+Condición de riesgo: Fabricante
+
+Datos asistenciales.
+Médico: Dra. Lourdes Guerrero Jurado. NC 004322879. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 09316095
+Centro de salud: Centro de Salud Barajas
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 81 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Aitor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="50" text="Mateos Domínguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="82153024Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="25/04/1943" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="112" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="152" text="Calle de San Bernardo 14, 5B" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="161" end="166" text="Eibar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="178" text="Formentera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="180" end="194" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="210" end="215" text="07027" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="223" end="243" text="aitordominguez@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 971 06 10 99" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="292" end="308" text="+34 771 88 64 21" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="314" end="321" text="1958861" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="328" end="340" text="085636893699" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="362" end="372" text="Fabricante" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="637" end="647" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="658" end="666" text="09316095" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="684" end="707" text="Centro de Salud Barajas" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="751" end="775" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="779" end="786" text="81 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

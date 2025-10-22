@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: José Luis Molina Otero
+DNI: 64499578B
+Fecha de nacimiento: 02/05/1987
+Género: Hombre
+Domicilio: Calle de Jesús y María 3, 6V
+Ciudad: Ontinyent, Guipúzcoa, Pais Vasco
+Código postal: 20189
+Email: molinaotero@outlook.com
+Teléfono fijo: +34 943 31 91 42
+FAX: +34 943 91 39 86
+NHC: 3550748
+NASS: 571131868195
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dr. Cristian Aparicio Alonso. NC 345901682. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 29/01/2009
+Hospital: Hospital Universitario Infanta Leonor
+Matrícula del coche: 2513UCO
+Modelo: Toyota RAV4
+VIN: VSFRXQADSLQ039686
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 21 años de edad, acompañado de su hijo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="José Luis" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="50" text="Molina Otero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="64499578B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="02/05/1987" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="112" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="152" text="Calle de Jesús y María 3, 6V" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="161" end="170" text="Ontinyent" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="181" text="Guipúzcoa" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="183" end="193" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="209" end="214" text="20189" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="222" end="245" text="molinaotero@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="261" end="277" text="+34 943 31 91 42" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 943 91 39 86" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="305" end="312" text="3550748" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="571131868195" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="353" end="359" text="Médico" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="394" end="418" text="Cristian Aparicio Alonso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="423" end="432" text="345901682" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="434" end="468" text="Residente de 3° año en Psiquiatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="470" end="540" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="542" end="571" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="573" end="578" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="580" end="586" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="588" end="594" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="614" end="624" text="29/01/2009" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="635" end="672" text="Hospital Universitario Infanta Leonor" TYPE="HOSPITAL" comment=""/>
+        <ID id="T27" start="694" end="701" text="2513UCO" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="727" end="744" text="VSFRXQADSLQ039686" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="788" end="821" text="ascendencia indígena sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="825" end="832" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="859" end="863" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

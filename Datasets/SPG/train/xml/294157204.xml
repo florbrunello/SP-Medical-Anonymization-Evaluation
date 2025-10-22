@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Almudena Cabrera Ferrer
+DNI: 44509983S
+Fecha de nacimiento: 11/03/1959
+Género: M
+Domicilio: Calle de Bravo Murillo 19, 3V
+Ciudad: Torrejón de Ardoz, Valladolid, Castilla y León
+Código postal: 47765
+Email: almudena-ferrer@protonmail.com
+Teléfono fijo: +34 983 38 02 72
+FAX: +34 983 02 72 25
+NHC: 7770260
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dr. Juan Pedro Paredes Santana. NC 085306562. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/10/1968
+Centro de salud: Centro de Salud Tetuán
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 9 años de edad, acompañado de su hermano. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.116.255, con dirección MAC 9B:DA:92:23:33:BA. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Almudena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="51" text="Cabrera Ferrer" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="44509983S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="11/03/1959" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="149" text="Calle de Bravo Murillo 19, 3V" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="175" text="Torrejón de Ardoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="177" end="187" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="189" end="204" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="220" end="225" text="47765" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="233" end="263" text="almudena-ferrer@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="279" end="295" text="+34 983 38 02 72" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="301" end="317" text="+34 983 02 72 25" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="323" end="330" text="7770260" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="352" end="383" text="Operador de Maquinaria Agrícola" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="418" end="444" text="Juan Pedro Paredes Santana" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="449" end="458" text="085306562" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="460" end="499" text="Residente de 4° año en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="501" end="585" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="587" end="616" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="618" end="623" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="625" end="631" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="633" end="639" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="659" end="669" text="22/10/1968" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="687" end="709" text="Centro de Salud Tetuán" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T26" start="753" end="786" text="ascendencia indígena sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="790" end="796" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="823" end="830" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="939" end="956" text="9B:DA:92:23:33:BA" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

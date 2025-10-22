@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mario</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Rubio Ríos</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">59082481N</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">09/03/2025</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Menorca 5, 1G</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Badajoz</TAG>, <TAG TYPE="TERRITORIO">Barcelona</TAG>, <TAG TYPE="TERRITORIO">Cataluña</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">08001</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">mario-rubio-rios@ciberehd.org</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 939 77 94 65</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 931 33 25 72</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4522023</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">467657473313</TAG>
+  Condición de riesgo: 
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Abel Iglesias Fuentes</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">744759068</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Especialista en Enfermedades Infecciosas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">09/03/2025</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">77947112</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Benalmádena</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia sudamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0 meses</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">madre</TAG>. El servidor para envío de información desde cual el usuario se comunica es <TAG TYPE="DIREC_PROT_INTERNET">smtp://example-research.net</TAG>.
+  </TEXT>
+</MEDDOCAN>

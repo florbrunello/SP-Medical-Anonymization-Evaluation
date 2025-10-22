@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan José Martínez Herrera
+DNI: 56298589V
+Fecha de nacimiento: 26/09/1972
+Género: M
+Domicilio: Calle del Gobernador 41
+Ciudad: Teruel, Almería, Andalucía
+Código postal: 04684
+Email: wzStJm5fErB@ub.edu
+Teléfono fijo: +34 950 48 03 93
+Teléfono móvil: +34 650 95 14 58
+NHC: 1670945
+NASS: 019184534118
+Condición de riesgo: Técnico de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. José Luis Manzano Moya. NC 030582971. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/11/1983
+Episodio: 25525269
+Hospital: Hospital Universitario de Crúces
+Matrícula del coche: 0289DJH
+Modelo: Audi A4
+VIN: VSWZZT5HD0B874763
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 11 años de edad, acompañado de su tía. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es FD665GEN105. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Juan José" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="54" text="Martínez Herrera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="56298589V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="26/09/1972" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="111" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="146" text="Calle del Gobernador 41" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="155" end="161" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="170" text="Almería" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="181" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="197" end="202" text="04684" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="210" end="228" text="wzStJm5fErB@ub.edu" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="244" end="260" text="+34 950 48 03 93" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="277" end="293" text="+34 650 95 14 58" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="299" end="306" text="1670945" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="313" end="325" text="019184534118" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="347" end="369" text="Técnico de Laboratorio" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="404" end="426" text="José Luis Manzano Moya" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="431" end="440" text="030582971" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="442" end="486" text="Cardiólogo Especialista en Electrofisiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="488" end="574" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="576" end="605" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="607" end="612" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="614" end="620" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="622" end="628" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="648" end="658" text="26/11/1983" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="669" end="677" text="25525269" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="688" end="720" text="Hospital Universitario de Crúces" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="742" end="749" text="0289DJH" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="771" end="788" text="VSWZZT5HD0B874763" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="832" end="852" text="ascendencia asiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="856" end="863" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="890" end="893" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T33" start="977" end="988" text="FD665GEN105" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sara</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Garcia Rios</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">724545</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">23 07563478 93</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Carrer de Santa Madrona, 60, 5 Der.</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Badalona</TAG>, <TAG TYPE="TERRITORIO">Barcelona</TAG>.
+    CP: <TAG TYPE="TERRITORIO">08911</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">30/01/1985</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">07/05/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gracia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lara</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">08 24 63891</TAG>.
+    Motivo de ingreso: Mujer de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">33 años</TAG> de edad que consulta por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal</TAG> de dos meses de evolución localizado en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fosa iliaca derecha</TAG> sin otra sintomatología acompañante.
+    Historia Actual: La paciente acudió a varios centros hospitalarios, donde fue dada de alta con pruebas complementarias básicas normales. Acude a urgencias de nuestro hospital ante la persistencia de los síntomas.
+    Evolución y comentarios:Se practica <TAG TYPE="PROFESION">ecografía-doppler</TAG> abdominal, en la que se objetiva en <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fosa iliaca derecha</TAG> un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nódulo</TAG> de un centímetro de diámetro hipervascularizado. La paciente ingresa en nuestro servicio con la presunción diagnóstica de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">endometrioma</TAG> para completar estudios. En la <TAG TYPE="PROFESION">tomografía computarizada</TAG> realizada durante el ingreso se evidencia un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nódulo</TAG> único de 1 x 1,5 cm localizado en el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">apéndice</TAG>.
+    La paciente es intervenida realizándose <TAG TYPE="PROFESION">laparoscopia</TAG> exploradora que identifica el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">apéndice</TAG> sin signos inflamatorios, con el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nódulo</TAG> anteriormente descrito. El examen anatomopatológico de la pieza extraída presenta macroscópicamente un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">nódulo</TAG> de consistencia dura en la punta del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">apéndice</TAG> que se informa como <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tumor de células granulares</TAG>. La lesión se extiende por el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tejido adiposo</TAG> subseroso del <TAG TYPE="OTROS_SUJETO_ASISTENCIA">apéndice</TAG>.
+    Histológicamente, la célula proliferante es de tamaño mediano a grande con un amplio citoplasma y pequeños núcleos con nucléolo patente destacando la presencia de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">gránulos eosinófilos</TAG> en el citoplasma. Las técnicas de <TAG TYPE="PROFESION">inmunohistoquímica</TAG> muestran positividad para la proteína <TAG TYPE="OTRO_NUMERO_IDENTIF">S100</TAG>.
+    Conocido el diagnóstico histológico se realizan <TAG TYPE="PROFESION">endoscopias digestivas</TAG>, alta y baja, que no detectan otras lesiones.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gracia</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">García</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lara</TAG>: <TAG TYPE="CORREO_ELECTRONICO">garla75@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

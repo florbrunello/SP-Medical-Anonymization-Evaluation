@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sergi Sáez Giménez
+DNI: 14170684Q
+Fecha de nacimiento: 05/09/1943
+Género: V
+Domicilio: Calle de Lope de Vega 82
+Ciudad: Torrelodones, Cuenca, Castilla-La Mancha
+Código postal: 16731
+Email: sergi@ciberned.es
+Teléfono fijo: +34 969 86 12 75
+Teléfono móvil: +34 769 66 44 99
+NHC: 1498558
+NASS: 474596728752
+Condición de riesgo: Montador
+
+Datos asistenciales.
+Médico: Dr. Héctor Benítez Rivero. NC 721217676. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/05/1951
+Episodio: 20351026
+Hospital: Hospital Virgen de la Luz
+Matrícula del coche: 1504MMV
+Modelo: Ram 1500
+VIN: VSFZHMO92FB176299
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 7 años de edad, acompañado de su tía. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es LT536FLP920. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Sergi" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="46" text="Sáez Giménez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="14170684Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="05/09/1943" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="139" text="Calle de Lope de Vega 82" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="148" end="160" text="Torrelodones" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="162" end="168" text="Cuenca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="188" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="204" end="209" text="16731" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="217" end="234" text="sergi@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 969 86 12 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 769 66 44 99" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="1498558" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="474596728752" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="353" end="361" text="Montador" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="396" end="417" text="Héctor Benítez Rivero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="422" end="431" text="721217676" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="433" end="473" text="Residente de 3° año en Gastroenterología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="475" end="568" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="570" end="599" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="601" end="606" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="608" end="614" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="616" end="622" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="642" end="652" text="09/05/1951" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="663" end="671" text="20351026" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="682" end="707" text="Hospital Virgen de la Luz" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="729" end="736" text="1504MMV" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="759" end="776" text="VSFZHMO92FB176299" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="820" end="844" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="848" end="854" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="881" end="884" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T33" start="967" end="978" text="LT536FLP920" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

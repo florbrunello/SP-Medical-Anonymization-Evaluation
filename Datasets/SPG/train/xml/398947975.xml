@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Héctor Martínez Gracia
+DNI: 84910706L
+Fecha de nacimiento: 18/11/1962
+Género: M
+Domicilio: Calle de Lope de Vega 62, 10Q
+Ciudad: Murcia, Las Palmas, Canarias
+Código postal: 35928
+Email: hector-gracia@ciberehd.org
+Teléfono fijo: +34 928 65 00 43
+FAX: +34 928 96 02 54
+NHC: 2731976
+NASS: 372742858521
+Condición de riesgo: Conductor de Camión
+
+Datos asistenciales.
+Médico: Dr. Luis Macias Palacios. NC 889378932. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 25/04/1994
+Episodio: 50029337
+Centro de salud: Centro de Salud Sevilla Oeste
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 31 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Héctor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Martínez Gracia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="84910706L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="18/11/1962" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="148" text="Calle de Lope de Vega 62, 10Q" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="163" text="Murcia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="175" text="Las Palmas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="185" text="Canarias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="201" end="206" text="35928" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="214" end="240" text="hector-gracia@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 928 65 00 43" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 928 96 02 54" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="300" end="307" text="2731976" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="314" end="326" text="372742858521" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="348" end="367" text="Conductor de Camión" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="402" end="422" text="Luis Macias Palacios" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="427" end="436" text="889378932" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="438" end="481" text="Oftalmólogo Especialista en Retina y Vítreo" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="483" end="541" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="543" end="567" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="569" end="574" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="576" end="586" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="588" end="594" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="614" end="624" text="25/04/1994" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="635" end="643" text="50029337" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="661" end="690" text="Centro de Salud Sevilla Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="731" end="752" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="756" end="763" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

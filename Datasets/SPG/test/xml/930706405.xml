@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Aitana Marín Segura
+DNI: 14904561D
+Fecha de nacimiento: 10/08/1945
+Género: Mujer
+Domicilio: Calle del Sacramento 98, 8G
+Ciudad: Socuéllamos, Cáceres, Extremadura
+Código postal: 10681
+Email: aitana_marin@ciberned.es
+Teléfono fijo: +34 927 48 79 52
+Teléfono móvil: +34 627 08 03 93
+NHC: 8441946
+NASS: 036842505196
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dra. Lourdes Mendoza Gutiérrez. NC 473971002. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/04/1975
+Episodio: 92644790
+Centro de salud: Centro de Salud Majadahonda
+Matrícula del coche: 0706CQV
+Modelo: Chrysler Pacifica
+VIN: VSY4XYFS3CG484408
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 29 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Aitana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="47" text="Marín Segura" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="14904561D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="10/08/1945" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="108" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="147" text="Calle del Sacramento 98, 8G" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="167" text="Socuéllamos" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="176" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="189" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="10681" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="242" text="aitana_marin@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="258" end="274" text="+34 927 48 79 52" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="291" end="307" text="+34 627 08 03 93" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="313" end="320" text="8441946" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="327" end="339" text="036842505196" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="361" end="392" text="Operador de Maquinaria Agrícola" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="669" end="679" text="19/04/1975" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="690" end="698" text="92644790" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="716" end="743" text="Centro de Salud Majadahonda" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="765" end="772" text="0706CQV" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="804" end="821" text="VSY4XYFS3CG484408" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="865" end="891" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="895" end="902" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

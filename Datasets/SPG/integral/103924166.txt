@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Blanca Andres Ríos
+DNI: 79635393D
+Fecha de nacimiento: 19/02/1939
+Género: F
+Domicilio: Calle de Jesús y María 13
+Ciudad: Xàtiva, Cádiz, Andalucía
+Código postal: 11134
+Email: andres@uca.es
+Teléfono fijo: +34 956 21 10 06
+Teléfono móvil: +34 756 78 55 34
+NHC: 3618497
+NASS: 990352663991
+Condición de riesgo: Trabajador Industrial
+
+Datos asistenciales.
+Médico: Dr. Víctor Castro Mateos. NC 619043421. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 13/06/1978
+Episodio: 17041325
+Hospital: Hospital Universitario Central de Asturias
+Matrícula del coche: 9803ESF
+Modelo: Mazda CX-5
+VIN: VSSACUR0JML811324
+
+Informe clínico del paciente:
+Paciente de tez blanca de 39 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.52.135, con dirección MAC EA:67:CC:CA:D7:76. Se registró una sesión de huella dactilar, el código obtenido para revisarla es ZN647BLW048. 

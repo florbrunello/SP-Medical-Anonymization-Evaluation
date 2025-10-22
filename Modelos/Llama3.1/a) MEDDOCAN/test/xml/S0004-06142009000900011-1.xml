@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sebastian</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Torrejon Garcia</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0265788</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">78 92785623 45</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Paseo de la Castellana, 81, 3, A</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28035</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/07/1961</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">53 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">15/11/2014</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pablo</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Garrido Abad</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28</TAG>.
+    Informe clínico del paciente: Paciente varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">53 años</TAG> de edad que acude a la consulta de urología por <TAG TYPE="OTROS_SUJETO_ASISTENCIA">masa testicular izquierda</TAG>. En la exploración física destaca la palpación de una lesión en polo superior de testículo izquierdo, de consistencia firme y no dolorosa.
+    Se realiza ecografía testicular donde se describe un área de 2 x 2 cms, de ecogenicidad heterogénea, con múltiples zonas quísticas, sugerente de posible neoplasia. Los marcadores tumorales son negativos. Ante la alta sospecha de tumor testicular, decidimos realización de orquiectomía radical izquierda.
+    En el estudio histológico de la pieza quirúrgica, macroscópicamente se describe una tumoración bien delimitada, de 1.8 cms. de diámetro, color amarillento y consistencia pétrea. Microscópicamente se encuentra constituido por escamas córneas y nidos de epitelio escamoso en el que se reconocen las células epiteliales "en sombra". La mayor parte de este material se encuentra calcificado y osificado, observándose alrededor de la lesión, reacción fibrosa que determina la formación de una pseudocápsula que delimita el tumor. En esta pseudocápsula fibrosa se identifican focalmente haces de músculo liso. El parénquima testicular muestra un moderado edema intersticial. El epidídimo y el cordón espermático no presentan alteraciones histológicas relevantes. El diagnóstico anatomo-patológico informa de quiste dermoide testicular (teratoma maduro testicular), variante pseudopilomatrixoma.
+    Tras la orquiectomía se realiza estudio de extensión mediante radiografía de tórax y TAC abdominopélvico, sin evidenciarse extensión sistémica de la enfermedad. Los marcadores tumorales testiculares (alfa-fetoproteína, beta-HCG y LDH) son negativos.
+    El paciente se encuentra asintomático y libre de enfermedad en la actualidad tras 6 meses de seguimiento.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pablo Garrido Abad</TAG>. <TAG TYPE="CALLE">C/ Arcos de la Frontera, 27 - 2oA</TAG> <TAG TYPE="TERRITORIO">28023</TAG> <TAG TYPE="TERRITORIO">Madrid</TAG>. (<TAG TYPE="PAIS">España</TAG>) <TAG TYPE="CORREO_ELECTRONICO">pgabad@hotmail.com</TAG>
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Noelia Guzman Alonso
+DNI: 70159416D
+Fecha de nacimiento: 29/12/1964
+Género: F
+Domicilio: Calle de la Paz 18
+Ciudad: San Vicente del Raspeig, Orense, Galicia
+Código postal: 32240
+Email: noelia.guzman_alonso@outlook.com
+Teléfono fijo: +34 988 79 63 23
+Teléfono móvil: +34 788 93 75 49
+NHC: 9801034
+NASS: 672251539222
+Condición de riesgo: Trabajador de la Construcción
+
+Datos asistenciales.
+Médico: Dra. María Begoña Durán Rico. NC 538936249. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/07/1967
+Centro de salud: Centro de Salud Moratalaz
+Matrícula del coche: 0663SEK
+Modelo: Jeep Wrangler
+VIN: VSS3MDNWYCI606950
+
+Informe clínico del paciente:
+Paciente musulman de 2 años de edad, acompañado de su padre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Noelia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Guzman Alonso" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="70159416D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="29/12/1964" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="135" text="Calle de la Paz 18" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="144" end="167" text="San Vicente del Raspeig" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="175" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="184" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="32240" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="245" text="noelia.guzman_alonso@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="261" end="277" text="+34 988 79 63 23" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="294" end="310" text="+34 788 93 75 49" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="316" end="323" text="9801034" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="330" end="342" text="672251539222" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="364" end="393" text="Trabajador de la Construcción" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="663" end="673" text="20/07/1967" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="691" end="716" text="Centro de Salud Moratalaz" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="738" end="745" text="0663SEK" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="773" end="790" text="VSS3MDNWYCI606950" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="831" end="839" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="843" end="849" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="876" end="881" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

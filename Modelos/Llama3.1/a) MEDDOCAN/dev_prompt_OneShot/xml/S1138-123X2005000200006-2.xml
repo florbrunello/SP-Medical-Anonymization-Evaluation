@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Izan</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Herrero de Pablo</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3847562</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle Miraflores, 34</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Zaragoza</TAG>.
+    CP: <TAG TYPE="TERRITORIO">50232</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">24/12/2009</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">06/06/2018</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Concha</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Germán Bes</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">50 50 98220</TAG>.
+    Informe clínico del paciente: Paciente con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">labio leporino</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fisura palatina bilateral</TAG>. La <TAG TYPE="OTROS_SUJETO_ASISTENCIA">premaxila</TAG> estaba protruida y rotada hacia la derecha, y los <TAG TYPE="OTROS_SUJETO_ASISTENCIA">segmentos laterales</TAG> se habían colapsado. Esta protrusión dificultaba la cirugía labial porque aumentaba la tensión de los <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tejidos blandos</TAG>.
+    Tras la toma de impresiones se diseñó un <TAG TYPE="OTRO_NUMERO_IDENTIF">ECPR</TAG> que se colocó bajo <TAG TYPE="PROFESION">anestesia general</TAG>. Los padres activaban el <TAG TYPE="OTRO_NUMERO_IDENTIF">aparato</TAG> en casa para lograr la expansión y una vez por semana nosotros modificábamos la tensión de las <TAG TYPE="OTRO_NUMERO_IDENTIF">cadenetas</TAG> para lograr la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">retrusión de la premaxila</TAG>.
+    Tras seis semanas la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">premaxila</TAG> se había retruido y los <TAG TYPE="OTROS_SUJETO_ASISTENCIA">segmentos</TAG> estaban alineados con lo que pudo realizarse la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">queiloplastia</TAG> con técnica de <TAG TYPE="OTRO_NUMERO_IDENTIF">Mulliken</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Concha</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Germán Bes</TAG>. <TAG TYPE="INSTITUCION">Facultad de Ciencias de la Salud</TAG>. <TAG TYPE="CALLE">C/ Domingo Miral s/n</TAG>, <TAG TYPE="TERRITORIO">50009</TAG> <TAG TYPE="TERRITORIO">Zaragoza</TAG>, <TAG TYPE="PAIS">España</TAG>. <TAG TYPE="CORREO_ELECTRONICO">cgerman@unizar.es</TAG>
+  </TEXT>
+</MEDDOCAN>

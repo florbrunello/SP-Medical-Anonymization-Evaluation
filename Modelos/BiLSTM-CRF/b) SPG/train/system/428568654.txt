@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Almudena Exposito Vargas
+DNI: 60773601B
+Fecha de nacimiento: 04/11/1968
+Género: M
+Domicilio: Calle de la Magdalena 99
+Ciudad: Las Palmas de Gran Canaria, Formentera, Islas Baleares
+Código postal: 07997
+Email: almudenaexposito-vargas@us.es
+Teléfono fijo: +34 971 49 96 92
+Teléfono móvil: +34 771 52 52 00
+NHC: 3764657
+NASS: 630629370359
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dra. Lara Rivera Miranda. NC 139390896. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/02/1989
+Hospital: Hospital Universitario Río Hortega
+Matrícula del coche: 2667ULJ
+Modelo: Nissan Altima
+VIN: VSYXIXTWOVF008047
+
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 20 años de edad, acompañado de su hijo. El servidor para envío de información desde cual el usuario se comunica es smtp://example-medical.edu. 

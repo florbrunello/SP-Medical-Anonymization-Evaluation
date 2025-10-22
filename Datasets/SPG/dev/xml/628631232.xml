@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Beatriz Mendoza Suárez
+DNI: 24603314F
+Fecha de nacimiento: 24/03/1933
+Género: Mujer
+Domicilio: Calle de la Paz 41, 2Y
+Ciudad: San Fernando, Castellón, Comunidad Valenciana
+Código postal: 12606
+Email: mendozasuarez170@icloud.com
+Teléfono fijo: +34 964 96 77 19
+Teléfono móvil: +34 764 22 85 75
+NHC: 2355451
+NASS: 918584941506
+
+Datos asistenciales.
+Médico: Dra. Purificación Menendez Herrero. NC 142278206. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/08/1943
+Hospital: Hospital Universitario Príncipe de Asturias
+Matrícula del coche: 6918LIY
+Modelo: Jeep Wrangler
+VIN: VSLXDZNZGJP836162
+
+Informe clínico del paciente:
+Paciente migrante de 10 años de edad, acompañado de su padre. Se realizó un expediente con URL http://example-labs.com//53367405Q. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Beatriz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Mendoza Suárez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="24603314F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="24/03/1933" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="145" text="Calle de la Paz 41, 2Y" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="166" text="San Fernando" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="177" text="Castellón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="199" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="215" end="220" text="12606" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="228" end="255" text="mendozasuarez170@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="271" end="287" text="+34 964 96 77 19" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="304" end="320" text="+34 764 22 85 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="326" end="333" text="2355451" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="340" end="352" text="918584941506" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="631" end="641" text="22/08/1943" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T17" start="652" end="695" text="Hospital Universitario Príncipe de Asturias" TYPE="HOSPITAL" comment=""/>
+        <ID id="T18" start="717" end="724" text="6918LIY" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="752" end="769" text="VSLXDZNZGJP836162" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="810" end="818" text="migrante" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="822" end="829" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="856" end="861" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="896" end="915" text="http://example-labs" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

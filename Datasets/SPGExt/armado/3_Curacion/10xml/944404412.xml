@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Aurora</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Romero Calderon</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">62560371A</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">06/07/1970</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Bravo Murillo 50</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Zamora</TAG>, <TAG TYPE="TERRITORIO">Navarra</TAG>, <TAG TYPE="TERRITORIO">Navarra</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">31837</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">romero.calderon@gmail.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 948 61 52 06</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 948 23 28 07</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5821545</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">62560371A</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Consumidor de alcohol</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Joaquín</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ríos Aparicio</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">892652926</TAG>. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/01/1991</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Hospital Universitario de Gran Canaria Dr. Negrín</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1742QDS</TAG>.
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Toyota RAV4</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VST77587KVE251216</TAG>.
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">51 años</TAG> de edad, acompañado de su abuelo. Presenta una evolución clínica de <TAG TYPE="FECHAS">6 meses</TAG> con un consumo moderado de alcohol, sin antecedentes de abuso o dependencia. La exploración física revela: Tª <TAG TYPE="FECHAS">37,2 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">80 lpm</TAG>. Se encuentra consciente, orientado, sin signos de intoxicación o abstinencia. En la exploración neurológica no se detectan signos de alteración del estado de ánimo o del nivel de conciencia. La función hepática y renal se encuentra dentro de los límites normales.
+    La evolución clínica se ha caracterizado por una progresión gradual de la enfermedad, con un aumento en la frecuencia y la intensidad de los episodios de consumo de alcohol. El paciente ha presentado episodios de ansiedad y depresión, sin signos de deterioro cognitivo o de alteración de la personalidad.
+    Se ha solicitado una exploración más exhaustiva para determinar la causa subyacente de la enfermedad y para establecer un diagnóstico preciso. Se han realizado análisis de sangre y orina, así como una exploración física y neurológica detallada. Los resultados de estos análisis no han revelado signos de alteración en la función hepática o renal, ni en la función cognitiva o de la personalidad.
+    El tratamiento se ha centrado en la reducción del consumo de alcohol y en la prevención de episodios de abstinencia. Se ha recomendado al paciente que busque apoyo en un grupo de apoyo para personas con problemas de abuso de sustancias y que se someta a una evaluación psicológica para determinar la causa subyacente de la enfermedad.
+    Antecedentes:
+    El paciente tiene antecedentes de consumo de alcohol desde los <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15 años</TAG> de edad, sin signos de abuso o dependencia. Ha presentado episodios de ansiedad y depresión en varias ocasiones, sin signos de deterioro cognitivo o de alteración de la personalidad.
+    Evolución y comentarios:
+    La evolución clínica se ha caracterizado por una progresión gradual de la enfermedad, con un aumento en la frecuencia y la intensidad de los episodios de consumo de alcohol. El paciente ha presentado episodios de ansiedad y depresión, sin signos de deterioro cognitivo o de alteración de la personalidad.
+    Remitido por:
+    El paciente ha sido remitido a un especialista en psiquiatría para una evaluación más exhaustiva y para establecer un diagnóstico preciso. Se ha recomendado al paciente que busque apoyo en un grupo de apoyo para personas con problemas de abuso de sustancias y que se someta a una evaluación psicológica para determinar la causa subyacente de la enfermedad.
+  </TEXT>
+</MEDDOCAN>

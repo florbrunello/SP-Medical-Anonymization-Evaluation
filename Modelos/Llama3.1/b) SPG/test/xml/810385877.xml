@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan Carlos</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Salazar Alarcon</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">40191732Z</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">18/11/1927</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Don Ramón de la Cruz 85</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Alcorcón</TAG>, <TAG TYPE="TERRITORIO">Jaén</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">23646</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">juancarlossalazar.alarcon@udc.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 953 34 05 60</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 953 22 94 39</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0096186</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Pintor de Construcción</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Joan Domínguez Paredes</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">296553989</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Endocrinología</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="CALLE">Avenida Menéndez Pidal, s/n</TAG>. <TAG TYPE="TERRITORIO">14004</TAG>. <TAG TYPE="TERRITORIO">Córdoba</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">10/01/1985</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">02092314</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Virgen del Rocío</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">descendencia africana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">57 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

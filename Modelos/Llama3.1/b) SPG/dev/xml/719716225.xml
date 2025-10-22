@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ana Isabel</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ferrer Aguilar</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">60795359B</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">12/01/1956</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Segovia 49</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Lugo</TAG>, <TAG TYPE="TERRITORIO">Cuenca</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">16390</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">ferreraguilar@hotmail.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 969 57 64 09</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 669 18 57 43</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9077909</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Plomero</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Soledad Benítez Pereira</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">513471993</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuróloga Investigadora en Trastornos Cognitivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">14/04/2022</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">45709775</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Hospital General Universitario Morales Meseguer</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">66 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Eva Moya Hurtado
+DNI: 32635708L
+Fecha de nacimiento: 09/03/2025
+Género: M
+Domicilio: Calle de Embajadores 82, 7M
+Ciudad: Yecla, León, Castilla y León
+Código postal: 24149
+Email: hurtado@ioba.med.uva.es
+Teléfono fijo: +34 987 91 40 94
+Teléfono móvil: +34 787 74 93 72
+NHC: 9847305
+NASS: 681431689199
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dra. Marta Cruz Roca. NC 235027429. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 44385445
+Hospital: Hospital General de Villalba
+Matrícula del coche: 2586CWV
+Modelo: Toyota RAV4
+VIN: VSSSQ310BJA590687
+
+Informe clínico del paciente:
+Paciente de ascendencia oceánica de 0 meses de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="31" text="Eva" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="32" end="44" text="Moya Hurtado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="32635708L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="101" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="113" end="140" text="Calle de Embajadores 82, 7M" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="149" end="154" text="Yecla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="160" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="162" end="177" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="193" end="198" text="24149" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="206" end="229" text="hurtado@ioba.med.uva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="245" end="261" text="+34 987 91 40 94" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 787 74 93 72" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="300" end="307" text="9847305" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="314" end="326" text="681431689199" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="348" end="379" text="Operador de Maquinaria Agrícola" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="644" end="654" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="665" end="673" text="44385445" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="684" end="712" text="Hospital General de Villalba" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="734" end="741" text="2586CWV" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="767" end="784" text="VSSSQ310BJA590687" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="828" end="848" text="ascendencia oceánica" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="852" end="859" text="0 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="886" end="891" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

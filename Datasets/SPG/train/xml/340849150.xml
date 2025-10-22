@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Vanessa Costa Torres
+DNI: 43083396A
+Fecha de nacimiento: 07/09/1984
+Género: F
+Domicilio: Calle de la Virgen de los Peligros 18
+Ciudad: Béjar, Vizcaya, Pais Vasco
+Código postal: 48298
+Email: vanessa_costa@ciberisciii.es
+Teléfono fijo: +34 946 36 68 30
+Teléfono móvil: +34 646 71 32 29
+NHC: 8512091
+Condición de riesgo: Operador de Maquinaria Pesada
+
+Datos asistenciales.
+Médico: Dr. Emilio Varela Macias. NC 322341602. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 20/11/2017
+Episodio: 10151634
+Centro de salud: Centro de Salud Málaga Este
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena centroamericana de 33 años de edad, acompañado de su amiga. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Vanessa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="48" text="Costa Torres" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="43083396A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="07/09/1984" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="154" text="Calle de la Virgen de los Peligros 18" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="163" end="168" text="Béjar" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="177" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="179" end="189" text="Pais Vasco" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="48298" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="246" text="vanessa_costa@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="262" end="278" text="+34 946 36 68 30" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="295" end="311" text="+34 646 71 32 29" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="317" end="324" text="8512091" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="346" end="375" text="Operador de Maquinaria Pesada" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="410" end="430" text="Emilio Varela Macias" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="435" end="444" text="322341602" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="446" end="486" text="Investigador Clínico en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="488" end="555" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="557" end="584" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="586" end="591" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="593" end="600" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="602" end="608" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="628" end="638" text="20/11/2017" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="649" end="657" text="10151634" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="675" end="702" text="Centro de Salud Málaga Este" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="746" end="782" text="ascendencia indígena centroamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="786" end="793" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="820" end="825" text="amiga" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

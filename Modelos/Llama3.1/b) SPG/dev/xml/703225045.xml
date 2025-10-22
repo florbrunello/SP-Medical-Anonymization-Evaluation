@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Vanessa</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Luque Jiménez</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">92070250P</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">15/01/1984</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de los Jardines 90, 8R</TAG>
+  Ciudad: <TAG TYPE="TERRITORIO">Torrejón de Ardoz</TAG>, <TAG TYPE="TERRITORIO">Burgos</TAG>, <TAG TYPE="TERRITORIO">Castilla y León</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">09360</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">luque@aol.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 947 59 19 18</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 747 79 14 58</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6370536</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">577773094566</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Granjero</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Mercedes Simon Exposito</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">292572102</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuróloga Especialista en Alzheimer</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">03/06/1990</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">82567921</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Moratalaz</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0837YLQ</TAG>
+  Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Honda Civic</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSYKD923E1F469776</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia centroasiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se registró una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP</TAG> <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">192.168.56.45</TAG>, con <TAG TYPE="IDENTIF_BIOMETRICOS">dirección MAC</TAG> <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">39:11:66:17:30:0A</TAG>.
+  </TEXT>
+</MEDDOCAN>

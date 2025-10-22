@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">German</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Romero Martin</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">45764</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">45 78960504 77</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de la Mata, 23</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Cdad. Real</TAG>.
+    CP: <TAG TYPE="TERRITORIO">13004</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">08/09/1980</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">26/11/2017</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Oftalmologia</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carmen</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Ispa Callén</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">13 13 94179</TAG>.
+    Historia del paciente: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37 años</TAG> hipermétrope al que, en una exploración rutinaria, se descubrió una presión intraocular (PIO) de <TAG TYPE="FECHAS">34 mmHg</TAG> en el ojo derecho (OD) y de <TAG TYPE="FECHAS">32 mmHg</TAG> en el ojo izquierdo (OI). La gonioscopía mostró signos de cierre angular en ambos ojos que motivaron la realización de iridotomías bilaterales con láser Nd:YAG. A las dos semanas continuaban signos de cierre angular a pesar de ser permeables las iridotomías y la PIO era de <TAG TYPE="FECHAS">33 mmHg</TAG> (OD) y <TAG TYPE="FECHAS">36 mmHg</TAG> (OI). Se realizó una biomicroscopía ultrasónica (BMU) que permitió detectar una configuración en iris-plateau con cierre angular secundario a múltiples quistes iridociliares. Los quistes presentaban paredes hiperreflectivas delgadas con contenido líquido hiporreflectivo, sugiriendo el diagnóstico de quistes primarios neuroepiteliales.
+    Se decidió tratar el OI mediante iridoplastia con láser argón (tamaño impacto <TAG TYPE="OTRO_NUMERO_IDENTIF">500 µm</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">0,5 segundos</TAG> de exposición y <TAG TYPE="OTRO_NUMERO_IDENTIF">500 mW</TAG> de potencia). Se ofreció la misma actitud para el OD, pero el paciente prefirió un tratamiento conservador con medicación hipotensora (<TAG TYPE="OTRO_NUMERO_IDENTIF">timolol 0,5%</TAG> cada <TAG TYPE="OTRO_NUMERO_IDENTIF">12 horas</TAG>) hasta ver la respuesta al tratamiento láser.
+    Tras la iridoplastia se repitió la BMU mostrando el cambio de configuración de la raíz del iris de convexo a cóncavo, así como la desaparición de los quistes. La PIO se redujo a <TAG TYPE="FECHAS">17 mmHg</TAG> sin necesidad de tratamiento.
+    Al mes se mantuvo una PIO de <TAG TYPE="FECHAS">18 mmHg</TAG> en OI sin medicación y de <TAG TYPE="FECHAS">14 mmHg</TAG> en OD con Timolol. En la BMU se pudo observar la reaparición de los quistes en el ojo tratado con láser, sin llegar a producir un bloqueo angular secundario. Esta situación se mantuvo durante <TAG TYPE="OTRO_NUMERO_IDENTIF">6 meses</TAG>, reapareciendo después la configuración en iris plateau del OI y elevándose la PIO a <TAG TYPE="FECHAS">28 mmHg</TAG>. En este momento, se decidió tratar ese ojo con medicación hipotensora como el derecho, ya que éste mantenía una presión intraocular adecuada (<TAG TYPE="FECHAS">14 mmHg</TAG>). El paciente declinó cualquier otro tratamiento que no fuera médico, ya que toleraba muy bien la medicación y se lograba un adecuado control tensional.
+    Actualmente, tras <TAG TYPE="OTRO_NUMERO_IDENTIF">12 meses</TAG> de seguimiento, el paciente muestra una PIO de <TAG TYPE="FECHAS">14 mmHg</TAG> en ambos ojos con Timolol <TAG TYPE="OTRO_NUMERO_IDENTIF">0,5%</TAG> cada <TAG TYPE="OTRO_NUMERO_IDENTIF">12 horas</TAG>. En la BMU se siguen observando múltiples quistes neuroepiteliales en ambos ojos, sin mostrar incremento en tamaño ni número ni presentar el paciente clínica de cierre angular.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Carmen Ispa Callén</TAG>. <TAG TYPE="CALLE">Complejo Hospitalario La Mancha-Centro Avenida de la Constitución</TAG> <TAG TYPE="TERRITORIO">13600 Alcázar de San Juan</TAG> (<TAG TYPE="TERRITORIO">Ciudad Real</TAG>). <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">flarmed@hotmail.com</TAG>.
+  </TEXT>
+</MEDDOCAN>

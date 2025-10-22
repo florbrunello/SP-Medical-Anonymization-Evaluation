@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Fernando Vicente Heredia</TAG>.
+  DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">82061987B</TAG>.
+  Fecha de nacimiento: <TAG TYPE="FECHAS">31/08/1930</TAG>.
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+  Domicilio: <TAG TYPE="CALLE">Calle de Hortaleza 2</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Torrejón de Ardoz, Albacete, Castilla-La Mancha</TAG>.
+  Código postal: <TAG TYPE="TERRITORIO">02540</TAG>.
+  Email: <TAG TYPE="CORREO_ELECTRONICO">heredia@ciberehd.org</TAG>.
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 967 11 84 90</TAG>.
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 767 43 98 22</TAG>.
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3206590</TAG>.
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">731122485859</TAG>.
+  Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente con antecedentes de enfermedades crónicas</TAG>.
+  Datos asistenciales.
+  Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Matilde</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Miranda Fernández</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">369948541</TAG>. <TAG TYPE="PROFESION">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">15/04/1993</TAG>.
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">23338664</TAG>.
+  Hospital: <TAG TYPE="HOSPITAL">Hospital Universitari de Bellvitge</TAG>.
+  Antecedentes:
+  El paciente tiene antecedentes de enfermedades crónicas, incluyendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>. Ha tenido varios episodios de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca</TAG> y ha sido sometido a varias intervenciones quirúrgicas para tratar sus problemas de salud.
+  Evolución y comentarios:
+  El paciente ha estado bajo tratamiento con medicamentos para controlar sus enfermedades crónicas. Sin embargo, ha presentado recientemente un aumento en la frecuencia de episodios de insuficiencia cardíaca, lo que ha llevado a un aumento en la necesidad de hospitalización.
+  Informe clínico del paciente:
+  El paciente es un varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">62 años</TAG> de edad, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG>, con antecedentes de enfermedades crónicas. Ha presentado un aumento en la frecuencia de episodios de insuficiencia cardíaca y ha sido sometido a varias intervenciones quirúrgicas para tratar sus problemas de salud. El paciente ha estado bajo tratamiento con medicamentos para controlar sus enfermedades crónicas, pero ha sido necesario aumentar la dosis de algunos de ellos para controlar los episodios de insuficiencia cardíaca.
+  La exploración física revela:
+  - Tª <TAG TYPE="OTRO_NUMERO_IDENTIF">37,5 C</TAG>
+  - TA <TAG TYPE="OTRO_NUMERO_IDENTIF">120/80 mmHg</TAG>
+  - FC <TAG TYPE="OTRO_NUMERO_IDENTIF">90 lpm</TAG>
+  - El paciente se encuentra consciente y orientado, pero presenta signos de insuficiencia cardíaca, incluyendo <TAG TYPE="OTROS_SUJETO_ASISTENCIA">disnea</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">edema en las piernas</TAG>.
+  Los datos analíticos muestran:
+  - Hemograma: Hb <TAG TYPE="OTRO_NUMERO_IDENTIF">12,5 g/dl</TAG>; leucocitos <TAG TYPE="OTRO_NUMERO_IDENTIF">10.000/mm3</TAG> (neutrófilos <TAG TYPE="OTRO_NUMERO_IDENTIF">60%</TAG>)
+  - VSG: <TAG TYPE="OTRO_NUMERO_IDENTIF">20 mm 1ª hora</TAG>
+  - Coagulación: TQ <TAG TYPE="OTRO_NUMERO_IDENTIF">80%</TAG>; TTPA <TAG TYPE="OTRO_NUMERO_IDENTIF">25,8 seg</TAG>
+  - Bioquímica: Glucosa <TAG TYPE="OTRO_NUMERO_IDENTIF">120 mg/dl</TAG>; urea <TAG TYPE="OTRO_NUMERO_IDENTIF">30 mg/dl</TAG>; creatinina <TAG TYPE="OTRO_NUMERO_IDENTIF">1,2 mg/dl</TAG>; sodio <TAG TYPE="OTRO_NUMERO_IDENTIF">135 mEq/l</TAG>; potasio <TAG TYPE="OTRO_NUMERO_IDENTIF">3,5 mEq/l</TAG>; GOT <TAG TYPE="OTRO_NUMERO_IDENTIF">20 U/l</TAG>; GPT <TAG TYPE="OTRO_NUMERO_IDENTIF">30 U/l</TAG>; GGT <TAG TYPE="OTRO_NUMERO_IDENTIF">40 U/l</TAG>; fosfatasa alcalina <TAG TYPE="OTRO_NUMERO_IDENTIF">150 U/l</TAG>; calcio <TAG TYPE="OTRO_NUMERO_IDENTIF">8,5 mg/dl</TAG>
+  - Orina: sedimento normal
+  Se han solicitado pruebas de imagen, incluyendo una ecografía cardíaca y una resonancia magnética cardíaca, para evaluar la función cardíaca del paciente y buscar posibles causas de la insuficiencia cardíaca.
+  Con el diagnóstico de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">insuficiencia cardíaca crónica</TAG>, se ha iniciado un tratamiento con medicamentos para controlar los síntomas y prevenir la progresión de la enfermedad. El paciente ha sido sometido a un programa de rehabilitación cardíaca para mejorar su función cardíaca y reducir la frecuencia de episodios de insuficiencia cardíaca.
+  Remitido por:
+  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Matilde</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Miranda Fernández</TAG>. <TAG TYPE="PROFESION">Especialista en Genética Médica</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  </TEXT>
+  </MEDDOCAN>

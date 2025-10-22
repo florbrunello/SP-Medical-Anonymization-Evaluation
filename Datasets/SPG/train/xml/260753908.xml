@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Ángeles Conde Abad
+DNI: 78961514F
+Fecha de nacimiento: 08/07/1983
+Género: Femenino
+Domicilio: Calle de Lope de Rueda 79, 9Q
+Ciudad: Reus, Asturias, Asturias
+Código postal: 33250
+Email: abad@uhu.es
+Teléfono fijo: +34 984 94 51 74
+FAX: +34 984 08 82 44
+NHC: 6030566
+NASS: 904326614689
+Condición de riesgo: Enfermera
+
+Datos asistenciales.
+Médico: Dra. Milagros Castro Castro. NC 861268066. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/04/2022
+Episodio: 10174184
+Hospital: Hospital Universitario Virgen de la Victoria
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 38 años de edad, acompañado de su amigo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Ángeles" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="52" text="Conde Abad" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="78961514F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="08/07/1983" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="116" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="128" end="157" text="Calle de Lope de Rueda 79, 9Q" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="166" end="170" text="Reus" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="180" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="182" end="190" text="Asturias" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="206" end="211" text="33250" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="219" end="230" text="abad@uhu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="246" end="262" text="+34 984 94 51 74" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="268" end="284" text="+34 984 08 82 44" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="290" end="297" text="6030566" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="304" end="316" text="904326614689" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="338" end="347" text="Enfermera" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="612" end="622" text="06/04/2022" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="633" end="641" text="10174184" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="652" end="696" text="Hospital Universitario Virgen de la Victoria" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T20" start="740" end="773" text="ascendencia indígena sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="777" end="784" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="811" end="816" text="amigo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

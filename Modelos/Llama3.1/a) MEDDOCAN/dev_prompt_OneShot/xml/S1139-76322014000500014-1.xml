@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mateo</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Simón Garcia</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7856231</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Av. del Ejército 8, 4 Izq.</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">Arganda del Rey, Madrid</TAG>.
+    CP: <TAG TYPE="TERRITORIO">28500</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/06/2010</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">28/09/2018</TAG>.
+    Servicio: <TAG TYPE="PROFESION">Atencion primaria</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Raquel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Plácido Paias</TAG>  NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">28 28 56324</TAG>.
+    Informe clínico del paciente: Niño de cinco años derivado por su pediatra de <TAG TYPE="PROFESION">Atencion primaria</TAG> para estudio por deformidad craneal frontoparietotemporal derecha que se había hecho más evidente en los últimos meses. Había presentado vómitos ocasionales con los malos olores, de un año de evolución, y cefalea acompañada de sonofobia y fonofobia, de frecuencia variable e intensidad leve que nunca le había despertado por la noche desde los tres años y medio. La exploración neurológica fue normal (incluido el fondo de ojo), excepto la macrocefalia con 55 cm de perímetro cefálico (>percentil 99).
+    El único antecedente familiar significativo es un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">QA frontal izquierdo</TAG> intervenido en el <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuelo paterno</TAG>.
+    Nacido de <TAG TYPE="PROFESION">embarazo controlado</TAG>, con <TAG TYPE="FECHAS">ecografías prenatales</TAG> normales y <TAG TYPE="PROFESION">parto eutócico</TAG> sin complicaciones. No tenía otros <TAG TYPE="OTROS_SUJETO_ASISTENCIA">antecedentes personales de interés</TAG>. El <TAG TYPE="PROFESION">desarrollo psicomotor</TAG> fue normal, con <TAG TYPE="PROFESION">marcha libre</TAG> a los 13 meses, <TAG TYPE="PROFESION">lenguaje y sociabilidad</TAG> adecuada a la edad, y está escolarizado con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dificultades de aprendizaje de la lectoescritura</TAG>.
+    En la <TAG TYPE="PROFESION">TC cranealse</TAG> visualiza un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">QA de gran tamaño</TAG> en la <TAG TYPE="PROFESION">fosa craneal media derecha</TAG> con desplazamiento de la línea media y colapso de las astas ventriculares adyacentes, que se confirma en <TAG TYPE="PROFESION">RM craneal</TAG> mostrando en la región frontoparietotemporal derecha un contenido hipointenso en secuencias de T1 e hiperintensas en T2; que no se modifica tras el contraste con gadolinio.
+    Se deriva a <TAG TYPE="PROFESION">Neurocirugía</TAG>, donde se <TAG TYPE="PROFESION">monitorizan las presiones intracraneales</TAG> con un <TAG TYPE="PROFESION">sensor epidural neumático</TAG>, mediante <TAG TYPE="PROFESION">trépano frontal precoronal</TAG>, encontrando patológicas solo las nocturnas. Ante una <TAG TYPE="PROFESION">hipertensión intracraneal crónica</TAG>, se decide <TAG TYPE="PROFESION">tratamiento con cistocisternostomía</TAG>, comunicando el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">QA</TAG> con la <TAG TYPE="PROFESION">cisterna óptico-carotídea</TAG>, mediante <TAG TYPE="PROFESION">endoscopio angulado 30°</TAG> y un <TAG TYPE="PROFESION">catéter con doble balón de ventriculostomía</TAG>, para favorecer la comunicación de los espacios y la circulación libre del LCR.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Raquel</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Plácido Paias</TAG> Email: <TAG TYPE="CORREO_ELECTRONICO">raquelpaias@gmail.com</TAG> <TAG TYPE="HOSPITAL">Hospital del Sureste</TAG> <TAG TYPE="CALLE">Ronda del Sur, 10</TAG>, <TAG TYPE="TERRITORIO">28500 Arganda del Rey, Madrid</TAG>.
+  </TEXT>
+</MEDDOCAN>

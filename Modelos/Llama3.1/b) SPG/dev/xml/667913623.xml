@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Christian Macias</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lozano</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">34359197A</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">19/06/1934</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Tribulete 72</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Xàtiva</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">18377</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">christian.macias1489@ioba.med.uva.es</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 10 65 68</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 958 84 36 49</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">0476974</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">447919203957</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Trabajador de Servicios de Limpieza</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Milagros Méndez Flores</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">296028946</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">29/11/1956</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">89093563</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Parla</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consumidor de alcohol</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">22 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">compañero de trabajo</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP</TAG> (<TAG TYPE="DIREC_PROT_INTERNET">192.168.198.77</TAG>), con <TAG TYPE="DIREC_PROT_INTERNET">dirección MAC</TAG> (<TAG TYPE="DIREC_PROT_INTERNET">1E:CA:1E:27:4E:18</TAG>).
+  </TEXT>
+</MEDDOCAN>

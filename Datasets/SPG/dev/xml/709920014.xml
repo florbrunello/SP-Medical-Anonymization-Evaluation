@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Elvira Caballero Aranda
+DNI: 78765721J
+Fecha de nacimiento: 02/05/1987
+Género: M
+Domicilio: Calle de Velázquez 40, 8E
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52479
+Email: elvira-caballero@yahoo.com
+Teléfono fijo: +34 956 45 81 11
+Teléfono móvil: +34 656 98 22 29
+NHC: 9419549
+NASS: 677193997607
+
+Datos asistenciales.
+Médico: Dra. María Josefa Lorenzo Montoya. NC 098958079. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/04/2023
+Episodio: 79617729
+Hospital: Hospital General Universitario Morales Meseguer
+Matrícula del coche: 4927SFV
+Modelo: Ford Mustang
+VIN: VSCSZ3K4VFS313964
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática occidental de 35 años de edad, acompañado de su vecino. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Elvira" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="51" text="Caballero Aranda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="78765721J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="02/05/1987" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="145" text="Calle de Velázquez 40, 8E" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="154" end="178" text="Ciudad autónoma de Ceuta" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="180" end="186" text="Ceuta," TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="203" end="208" text="52479" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T10" start="216" end="242" text="elvira-caballero@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T11" start="258" end="274" text="+34 956 45 81 11" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T12" start="291" end="307" text="+34 656 98 22 29" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T13" start="313" end="320" text="9419549" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T14" start="327" end="339" text="677193997607" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T15" start="628" end="638" text="11/04/2023" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="649" end="657" text="79617729" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="668" end="715" text="Hospital General Universitario Morales Meseguer" TYPE="HOSPITAL" comment=""/>
+        <ID id="T18" start="737" end="744" text="4927SFV" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="771" end="788" text="VSCSZ3K4VFS313964" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="832" end="863" text="ascendencia asiática occidental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="867" end="874" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="901" end="907" text="vecino" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

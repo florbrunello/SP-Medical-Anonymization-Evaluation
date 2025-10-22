@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Julio</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Serra Roca</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">18977484T</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">01/03/1933</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de San Ildefonso 10</TAG>, <TAG TYPE="TERRITORIO">6U</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Lugo</TAG>, <TAG TYPE="TERRITORIO">Mallorca</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">07077</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">roca824@us.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 34 16 16</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 671 64 34 04</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3483261</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">609422373748</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Soldado</TAG>.
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tamara</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Rodríguez Marcos</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">823919033</TAG>. <TAG TYPE="PROFESION">Investigadora Principal en Parkinson</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">24/05/2015</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">68676292</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Norte</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTRO_NUMERO_IDENTIF">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">82 años</TAG> de edad, acompañado de su hijo, que refiere <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolores de cabeza</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">mareos</TAG> desde la noche anterior. La exploración física revela: <TAG TYPE="OTRO_NUMERO_IDENTIF">Tª 37,2 C</TAG>; <TAG TYPE="OTRO_NUMERO_IDENTIF">T.A: 140/80 mmHg</TAG>; <TAG TYPE="OTRO_NUMERO_IDENTIF">Fc: 80 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica se detectan signos de <TAG TYPE="OTRO_NUMERO_IDENTIF">hipertensión arterial</TAG> y posible <TAG TYPE="OTRO_NUMERO_IDENTIF">sequedad bucal</TAG>.
+    Los datos analíticos muestran los siguientes resultados: <TAG TYPE="OTRO_NUMERO_IDENTIF">Hemograma</TAG>: <TAG TYPE="OTRO_NUMERO_IDENTIF">Hb 14,5 g/dl</TAG>; <TAG TYPE="OTRO_NUMERO_IDENTIF">leucocitos 8.500/mm3</TAG> (<TAG TYPE="OTRO_NUMERO_IDENTIF">neutrófilos 60%</TAG>); <TAG TYPE="OTRO_NUMERO_IDENTIF">plaquetas 250.000/ mm3</TAG>. <TAG TYPE="OTRO_NUMERO_IDENTIF">VSG</TAG>: <TAG TYPE="OTRO_NUMERO_IDENTIF">30 mm 1ª hora</TAG>. <TAG TYPE="OTRO_NUMERO_IDENTIF">Coagulación</TAG>: <TAG TYPE="OTRO_NUMERO_IDENTIF">TQ 90%</TAG>; <TAG TYPE="OTRO_NUMERO_IDENTIF">TTPA 25,5 seg</TAG>. <TAG TYPE="OTRO_NUMERO_IDENTIF">Bioquímica</TAG>: <TAG TYPE="OTRO_NUMERO_IDENTIF">Glucosa 120 mg/dl</TAG>; <TAG TYPE="OTRO_NUMERO_IDENTIF">urea 20 mg/dl</TAG>; <TAG TYPE="OTRO_NUMERO_IDENTIF">creatinina 1,1 mg/dl</TAG>; <TAG TYPE="OTRO_NUMERO_IDENTIF">sodio 140 mEq/l</TAG>; <TAG TYPE="OTRO_NUMERO_IDENTIF">potasio 3,8 mEq/l</TAG>; <TAG TYPE="OTRO_NUMERO_IDENTIF">GOT 15 U/l</TAG>; <TAG TYPE="OTRO_NUMERO_IDENTIF">GPT 25 U/l</TAG>; <TAG TYPE="OTRO_NUMERO_IDENTIF">GGT 30 U/l</TAG>; <TAG TYPE="OTRO_NUMERO_IDENTIF">fosfatasa alcalina 120 U/l</TAG>; <TAG TYPE="OTRO_NUMERO_IDENTIF">calcio 8,5 mg/dl</TAG>. <TAG TYPE="OTRO_NUMERO_IDENTIF">Orina</TAG>: <TAG TYPE="OTRO_NUMERO_IDENTIF">sedimento normal</TAG>.
+    Se solicitan pruebas de imagen (<TAG TYPE="OTRO_NUMERO_IDENTIF">Rx tórax</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">Ecografía abdominal</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">TAC craneal</TAG>) que no evidencian patología significativa. Se diagnostica <TAG TYPE="OTRO_NUMERO_IDENTIF">hipertensión arterial</TAG> y se instaura tratamiento sintomático (<TAG TYPE="OTRO_NUMERO_IDENTIF">reposo</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">elevación de piernas</TAG>, <TAG TYPE="OTRO_NUMERO_IDENTIF">antihipertensivos orales</TAG>) y se le prescribe un seguimiento en la clínica para controlar su presión arterial. El paciente se encuentra estable y se le permite el alta a su domicilio con recomendaciones de seguimiento médico regular.
+  </TEXT>
+</MEDDOCAN>

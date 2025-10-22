@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Jordi Ibáñez Morales
+DNI: 86102234D
+Fecha de nacimiento: 29/07/1993
+Género: V
+Domicilio: Calle de Lope de Vega 11
+Ciudad: León, Formentera, Islas Baleares
+Código postal: 07265
+Email: jordimorales1533@icloud.com
+Teléfono fijo: +34 971 07 66 52
+Teléfono móvil: +34 671 21 97 55
+NHC: 3708367
+
+Datos asistenciales.
+Médico: Dra. María Begoña Pérez Acosta. NC 220016898. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/05/2000
+Episodio: 41959122
+Centro de salud: Centro de Salud Chamartín
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 6 años de edad, acompañado de su abuela. Se registró una sesión de huella dactilar, el código obtenido para revisarla es CA090KHU688. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Jordi" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="48" text="Ibáñez Morales" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="86102234D" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="29/07/1993" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="141" text="Calle de Lope de Vega 11" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="154" text="León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="166" text="Formentera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="168" end="182" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="07265" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="238" text="jordimorales1533@icloud.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 971 07 66 52" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 671 21 97 55" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="3708367" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="592" end="602" text="20/05/2000" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="613" end="621" text="41959122" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="639" end="664" text="Centro de Salud Chamartín" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T18" start="705" end="726" text="consumidor de alcohol" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="730" end="736" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T20" start="763" end="769" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T21" start="851" end="862" text="CA090KHU688" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

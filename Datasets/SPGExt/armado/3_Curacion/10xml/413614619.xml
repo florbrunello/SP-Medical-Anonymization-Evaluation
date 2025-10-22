@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Pedro José Diez De la Fuente</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">44210508T</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/02/1964</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Velázquez 78</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Totana, Cádiz, Andalucía</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">11077</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">MTi58dF@ub.edu</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 72 54 88</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 756 36 57 47</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8258194</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">685684119754</TAG>.
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Alto</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Esther Escobar Vázquez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">109657318</TAG>. Residente de 5° año en Neurología. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/09/1982</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">49630663</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuenlabrada</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0009BIE</TAG>.
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Subaru Outback</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSOXD8RVIHM397924</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/09/1982</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Centro de Salud Fuenlabrada</TAG>.
+    Informe clínico del paciente:
+    Paciente vegetariano de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">58 años</TAG> de edad, con antecedentes de <TAG TYPE="OTRO_NUMERO_IDENTIF">hipertensión arterial</TAG> y <TAG TYPE="OTRO_NUMERO_IDENTIF">dislipemia</TAG>, acompañado de su esposa. Presenta un cuadro de <TAG TYPE="OTRO_NUMERO_IDENTIF">dolor torácico irradiado a la espalda</TAG>, con exacerbación en la noche y al respirar profundamente. La exploración física revela: Tª <TAG TYPE="EDAD_SUJETO_ASISTENCIA">37,5 C</TAG>; T.A: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">120/80 mmHg</TAG>; Fc: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">90 lpm</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="EDAD_SUJETO_ASISTENCIA">14,2 g/dl</TAG>; leucocitos <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8.200/mm3</TAG> (neutrófilos <TAG TYPE="EDAD_SUJETO_ASISTENCIA">55%</TAG>); plaquetas <TAG TYPE="EDAD_SUJETO_ASISTENCIA">250.000/mm3</TAG>. VSG: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="EDAD_SUJETO_ASISTENCIA">95%</TAG>; TTPA <TAG TYPE="EDAD_SUJETO_ASISTENCIA">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="EDAD_SUJETO_ASISTENCIA">110 mg/dl</TAG>; urea <TAG TYPE="EDAD_SUJETO_ASISTENCIA">25 mg/dl</TAG>; creatinina <TAG TYPE="EDAD_SUJETO_ASISTENCIA">1,0 mg/dl</TAG>; sodio <TAG TYPE="EDAD_SUJETO_ASISTENCIA">137 mEq/l</TAG>; potasio <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3,8 mEq/l</TAG>; GOT <TAG TYPE="EDAD_SUJETO_ASISTENCIA">12 U/l</TAG>; GPT <TAG TYPE="EDAD_SUJETO_ASISTENCIA">20 U/l</TAG>; GGT <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30 U/l</TAG>; fosfatasa alcalina <TAG TYPE="EDAD_SUJETO_ASISTENCIA">130 U/l</TAG>; calcio <TAG TYPE="EDAD_SUJETO_ASISTENCIA">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Con el diagnóstico de <TAG TYPE="OTRO_NUMERO_IDENTIF">angina de pecho</TAG> se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación testicular) así como tratamiento médico específico: Nitroglicerina <TAG TYPE="EDAD_SUJETO_ASISTENCIA">0,5 mg sublingual cada 5 minutos</TAG> (durante <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30 minutos</TAG>), Metoprolol <TAG TYPE="EDAD_SUJETO_ASISTENCIA">50 mg vía oral cada 8 horas</TAG> (durante <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 días</TAG>) y Aspirina <TAG TYPE="EDAD_SUJETO_ASISTENCIA">100 mg vía oral cada 12 horas</TAG> (durante <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 días</TAG>). El paciente mejora significativamente de su cuadro tras <TAG TYPE="EDAD_SUJETO_ASISTENCIA">2 horas</TAG> de ingreso, decidiéndose el alta a su domicilio donde completó la pauta de tratamiento médico. En revisiones sucesivas en consultas se constató la completa remisión del cuadro.
+  </TEXT>
+</MEDDOCAN>

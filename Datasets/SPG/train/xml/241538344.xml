@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Julio Martín Torres
+DNI: 66291026N
+Fecha de nacimiento: 09/09/1955
+Género: M
+Domicilio: Calle de la Lechuga 84
+Ciudad: Teruel, Badajoz, Extremadura
+Código postal: 06489
+Email: martin@us.es
+Teléfono fijo: +34 924 34 20 14
+Teléfono móvil: +34 624 18 92 75
+NHC: 1646640
+Condición de riesgo: Limpiador
+
+Datos asistenciales.
+Médico: Dra. Estefanía Robles Padilla. NC 111370371. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/09/1976
+Episodio: 24767660
+Centro de salud: Centro de Salud Fuencarral
+Matrícula del coche: 2459XPS
+Modelo: Toyota Corolla
+VIN: VSAFV4Q8WWI597329
+
+Informe clínico del paciente:
+Paciente de ascendencia centroasiática de 21 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Julio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Martín Torres" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="66291026N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="09/09/1955" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="104" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="116" end="138" text="Calle de la Lechuga 84" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="153" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="162" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="175" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="191" end="196" text="06489" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="204" end="216" text="martin@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="232" end="248" text="+34 924 34 20 14" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="265" end="281" text="+34 624 18 92 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="287" end="294" text="1646640" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="316" end="325" text="Limpiador" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="596" end="606" text="28/09/1976" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="617" end="625" text="24767660" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="643" end="669" text="Centro de Salud Fuencarral" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="691" end="698" text="2459XPS" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="727" end="744" text="VSAFV4Q8WWI597329" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="788" end="814" text="ascendencia centroasiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="818" end="825" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Juan José Blanco Martín
+DNI: 27635344Q
+Fecha de nacimiento: 09/12/1936
+Género: Varón
+Domicilio: Calle de las Tres Cruces 92, 1K
+Ciudad: Murcia, Cuenca, Castilla-La Mancha
+Código postal: 16247
+Email: martin@yahoo.com
+Teléfono fijo: +34 969 68 78 79
+Teléfono móvil: +34 769 05 97 55
+NHC: 7957598
+NASS: 547375796104
+
+Datos asistenciales.
+Médico: Dra. Francisca Conde Marti. NC 008337001. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 23/06/1972
+Episodio: 30446617
+Hospital: Hospital Universitario Virgen Macarena
+
+Informe clínico del paciente:
+Paciente vegetariano de 35 años de edad. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es WL302HUR769. 

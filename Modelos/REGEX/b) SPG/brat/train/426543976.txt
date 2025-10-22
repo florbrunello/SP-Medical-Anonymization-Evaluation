@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Diana Paredes Díaz
+DNI: 29681330Z
+Fecha de nacimiento: 06/04/1942
+Género: F
+Domicilio: Calle del Prado 90, 7T
+Ciudad: Córdoba, Ibiza, Islas Baleares
+Código postal: 07928
+Email: diana@salud.madrid.org
+Teléfono fijo: +34 971 48 44 72
+Teléfono móvil: +34 771 13 37 87
+NHC: 6614650
+NASS: 478468903825
+
+Datos asistenciales.
+Médico: Dra. Marina Blazquez Montero. NC 331071226. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 31/12/1966
+Episodio: 38108691
+Centro de salud: Centro de Salud San Sebastián de los Reyes
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 24 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.20.30, con dirección MAC D3:3C:77:DC:ED:B8. Se realizó un expediente con URL http://example-healthcare.net//23988539T. Se registró una sesión de huella dactilar, el código obtenido para revisarla es CL799YZH708. 

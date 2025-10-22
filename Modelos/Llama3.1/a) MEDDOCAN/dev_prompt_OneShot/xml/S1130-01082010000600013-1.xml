@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Roberto</TAG>.
+    Apellidos: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ripoll Betanco</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">96278</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">14 75046789 03</TAG>.
+    Domicilio: <TAG TYPE="CALLE">C/ Juana de Vega, 7</TAG>.
+    Localidad/ Provincia: <TAG TYPE="TERRITORIO">A Coruña</TAG>.
+    CP: <TAG TYPE="TERRITORIO">15004</TAG>.
+    Datos asistenciales.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">03/01/1940</TAG>.
+    País: <TAG TYPE="PAIS">España</TAG>.
+    Edad: <TAG TYPE="EDAD_SUJETO_ASISTENCIA">74 años</TAG> Sexo: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>.
+    Fecha de Ingreso: <TAG TYPE="FECHAS">15/11/2014</TAG>.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Eva</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tizón Bouzo</TAG> NºCol: <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">15 15 61893</TAG>.
+    Historia Actual: Varón de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">74 años</TAG> remitido a consulta de Aparato Digestivo por cuadro de 9 meses de evolución de intensa astenia, anorexia y aumento progresivo de la sudoración, con pérdida de 15 kg de peso, asociado a dolor abdominal difuso y distensión abdominal.
+    Antecedentes: cardiopatía isquémica en tratamiento con betabloqueantes, mononitrato de isosorbida, antiagregantes e inhibidores de bomba de protones.
+    Exploración y pruebas complementarias: Analíticamente se apreció anemia ferropénica. Se solicita entre otras pruebas diagnósticas colonoscopia con sedación.
+    Se realiza una primera colonoscopia apreciándose desde recto hasta ciego infinidad de lesiones sesiles de aspecto polipoideo de entre 3-6 mm, más frecuentes en número en colon derecho y que a nivel de válvula ileocecal forman conglomerados, afectando también a íleon terminal. La anatomía patológica de biopsias a distintos niveles fue de colitis inespecífica con hiperplasia folicular linfoide e infiltrado eosinófilo que alcanza el 60% de células inflamatorias.
+    Tras los resultados obtenidos y ante el empeoramiento clínico progresivo del enfermo se decide realizar gastroscopia y repetir colonoscopia para nueva toma de biopsias. Se observan múltiples lesiones polipoideas sesiles de diferentes tamaños (mayor 8-9 mm) en mucosa gástrica y duodenal, irregulares, abullonadas con vascularización marcada, algunas erosionadas en su cúspide, disminuyendo en número conforme se avanza hacia duodeno distal, confirmándose además las lesiones descritas en la colonoscopia previa. El resultado histopatológico de las biopsias gástricas, duodenales y de colon fue de denso infiltrado linfoide difuso en mucosa y submucosa con destrucción glandular y lesión linfoepitelial, con linfocitos de talla pequeña y hábito centrocitoide con positividad para CD 20, ciclina D1, y bcl-2 con un Ki-67 del 30% todo ello compatible con infiltración gástrica, de intestino delgado y colon por linfoma del manto.
+    Evolución y comentarios: Tras los hallazgos endoscópicos el paciente es remitido al servicio de hematología donde se completan estudios, que confirman el diagnóstico definitivo de linfoma no Hodgkin del manto estadio IVB con afectación gástrica y de intestino delgado y grueso.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Eva</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Tizón Bouzo</TAG>. <TAG TYPE="CALLE">Complejo Hospitalario Universitario de Ferrol Avenida de la Residencia, s/n</TAG> <TAG TYPE="TERRITORIO">15405 Ferrol (A Coruña)</TAG> Tel.: <TAG TYPE="NUMERO_TELEFONO">981 33 40 00</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">eva.tizon.bouza@sergas.es</TAG>
+  </TEXT>
+</MEDDOCAN>

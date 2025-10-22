@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Manuel Jesús</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Diez Guillen</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">48420507X</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">13/10/1966</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">V</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de Almagro 56</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Gandía</TAG>, <TAG TYPE="TERRITORIO">Granada</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">18308</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">manueljesusdiezguillen@outlook.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 958 33 20 00</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 958 47 39 63</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">9689873</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">663238575196</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Pintor de Construcción</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Lourdes Otero Peña</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">311985478</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuróloga Investigadora en Trastornos Cognitivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">14/07/2014</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">14158660</TAG>
+  Hospital: <TAG TYPE="HOSPITAL">Complejo Asistencial Universitario de León</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">1874VAY</TAG>
+  Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ford Mustang</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSMAC11AYBD405376</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia centroasiática</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">47 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>.
+  </TEXT>
+</MEDDOCAN>

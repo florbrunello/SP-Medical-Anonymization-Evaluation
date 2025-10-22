@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ainhoa Mora Conde
+DNI: 76595321P
+Fecha de nacimiento: 01/07/1987
+Género: Femenino
+Domicilio: Calle del Doctor Esquerdo 93, 5Z
+Ciudad: Onda, Alicante, Comunidad Valenciana
+Código postal: 03775
+Email: ainhoa@protonmail.com
+Teléfono fijo: +34 965 21 35 48
+Teléfono móvil: +34 665 53 20 43
+NHC: 4482468
+NASS: 912085073820
+
+Datos asistenciales.
+Médico: Dr. Ángel Romero Calvo. NC 502996941. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/03/1994
+Episodio: 14489728
+Hospital: Hospital Clínic San Carlos
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 6 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Ainhoa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="45" text="Mora Conde" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="76595321P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="01/07/1987" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="109" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="121" end="153" text="Calle del Doctor Esquerdo 93, 5Z" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="162" end="166" text="Onda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="168" end="176" text="Alicante" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="198" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="214" end="219" text="03775" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="227" end="248" text="ainhoa@protonmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="264" end="280" text="+34 965 21 35 48" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="297" end="313" text="+34 665 53 20 43" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="319" end="326" text="4482468" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="333" end="345" text="912085073820" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="380" end="398" text="Ángel Romero Calvo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="403" end="412" text="502996941" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="414" end="453" text="Residente de 4° año en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="455" end="539" text="Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="541" end="570" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="572" end="577" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="579" end="585" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="587" end="593" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="613" end="623" text="27/03/1994" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="634" end="642" text="14489728" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="653" end="679" text="Hospital Clínic San Carlos" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T27" start="723" end="752" text="ascendencia del medio oriente" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="756" end="762" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T29" start="789" end="794" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

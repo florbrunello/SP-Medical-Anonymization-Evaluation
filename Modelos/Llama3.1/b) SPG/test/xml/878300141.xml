@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Oliver</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Álvarez Soriano</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">88713137K</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">16/11/2023</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">H</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Embajadores 95, 9W</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Ferrol</TAG>, <TAG TYPE="TERRITORIO">Santa Cruz de Tenerife</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">38391</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">oliversoriano@salud.madrid.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 922 91 99 38</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 622 28 53 39</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3612197</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">250056512827</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Minero</TAG>
+    
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Joaquín Padilla Soto</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">531565227</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Gastroenterólogo Especialista en Enfermedades Hepáticas</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/02/2024</TAG>
+    Episodio: <TAG TYPE="OTRO_NUMERO_IDENTIF">33264803</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Benalmádena</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">5896LBQ</TAG>
+    Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Ford F-150</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSWHK2TG1EE076200</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTRO_NUMERO_IDENTIF">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3 meses</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">padre</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">KV908YMN565</TAG>. Se registró una sesión de <TAG TYPE="IDENTIF_BIOMETRICOS">firma biométrica</TAG>, el código obtenido para revisarla es <TAG TYPE="DIREC_PROT_INTERNET">SH281RRP078</TAG>.
+  </TEXT>
+</MEDDOCAN>

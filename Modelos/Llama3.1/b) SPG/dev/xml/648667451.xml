@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Sergio</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Delgado Lozano</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">54904219E</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">10/07/1980</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle del Barquillo 55, 8Z</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Torrelodones</TAG>, <TAG TYPE="TERRITORIO">Cádiz</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">11836</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">lozano@ciberehd.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 36 74 28</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 756 10 73 98</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">5068354</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">571173577608</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Máquina</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Fátima Delgado Salas</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">404747116</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">26/01/2011</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">06958770</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Infanta Leonor</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">9868GMX</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Volkswagen Golf</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSCCW2E4Z4R977749</TAG>
+    
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia norteamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">30 años</TAG> de edad.
+  </TEXT>
+</MEDDOCAN>

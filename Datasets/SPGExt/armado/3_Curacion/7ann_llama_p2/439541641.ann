@@ -1,0 +1,34 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 32	Jordi Casas Valero
+T2	ID_SUJETO_ASISTENCIA 46 63	37851433B
+T3	FECHAS 79 87	17/09/2020
+T4	SEXO_SUJETO_ASISTENCIA 100 104	Hombre
+T5	CALLE 121 143	Calle de Embajadores 51, 5G
+T6	TERRITORIO 158 162	Lugo
+T7	TERRITORIO 164 168	Sevilla
+T8	TERRITORIO 170 175	Andalucía
+T9	TERRITORIO 179 185	41636
+T10	CORREO_ELECTRONICO 214 244	jordi_casasvalero1197@ciberer.es
+T11	NUMERO_TELEFONO 253 264	+34 954 97 39 78
+T12	NUMERO_TELEFONO 276 288	+34 754 64 22 97
+T13	ID_SUJETO_ASISTENCIA 300 311	2617444
+T14	ID_SUJETO_ASISTENCIA 322 333	588082091600
+T15	CONDICION_RIESGO 346 354	Víctima de desastre
+T16	NOMBRE_PERSONAL_SANITARIO 369 393	Dra. Luisa Torres Cano
+T17	ID_TITULACION_PERSONAL_SANITARIO 414 425	374111573
+T18	PROFESION 436 446	Investigadora Clínica en Enfermedades Digestivas
+T19	INSTITUCION 449 469	Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)
+T20	CALLE 481 503	Avenida Monforte de Lemos 3-5
+T21	TERRITORIO 506 510	28029
+T22	PAIS 512 518	España
+T23	FECHAS 521 531	30/06/2024
+T24	ID_EPISODIO 544 554	34517898
+T25	NOMBRE_ESTABLECIMIENTO 567 592	Centro de Salud Delicias
+T26	FECHAS 595 605	30/06/2024
+T27	NOMBRE_ESTABLECIMIENTO 618 643	Centro de Salud Delicias
+T28	INFORME_CLINICO 666 693	Paciente víctima de desastre de 3 años de edad, acompañado de su madre.
+T29	FECHAS 696 706	https://example-medical.edu//34171781Y
+T30	ANTECEDENTE_MEDICO 720 743	Historia previa de exposición a sustancias tóxicas
+T31	ANTECEDENTE_MEDICO 756 779	Fue trasladado a la unidad de cuidados intensivos para monitoreo y tratamiento
+T32	EVOLUCION 804 822	El paciente ha mostrado signos de mejoría en los últimos días, pero sigue requiriendo atención médica especializada
+T33	ANTECEDENTE_MEDICO 826 849	Se han realizado pruebas adicionales para determinar la gravedad de la exposición y el daño causado
+T34	REMISION 882 894	Se le remitió a un especialista en toxicología para una evaluación más detallada y tratamiento adecuado

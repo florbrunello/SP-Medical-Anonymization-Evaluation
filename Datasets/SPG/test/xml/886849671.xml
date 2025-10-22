@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Miguel Núñez Bernal
+DNI: 95208968P
+Fecha de nacimiento: 02/01/1941
+Género: Hombre
+Domicilio: Calle de Tribulete 15
+Ciudad: Ourense, Valencia, Comunidad Valenciana
+Código postal: 46144
+Email: juanmiguel697@isciii.es
+Teléfono fijo: +34 960 90 77 02
+Teléfono móvil: +34 760 65 55 00
+NHC: 1054552
+
+Datos asistenciales.
+Médico: Dra. Ainhoa Izquierdo Villar. NC 289675053. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/04/1946
+Episodio: 40562384
+Centro de salud: Centro de Salud Collado Villalba
+Matrícula del coche: 6495IOR
+Modelo: Toyota RAV4
+VIN: VSEVV3IEVCR888909
+
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 5 años de edad, acompañado de su hermana. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="39" text="Juan Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="40" end="52" text="Núñez Bernal" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="58" end="67" text="95208968P" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="89" end="99" text="02/01/1941" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="108" end="114" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="126" end="147" text="Calle de Tribulete 15" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="163" text="Ourense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="165" end="173" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="175" end="195" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="211" end="216" text="46144" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="224" end="247" text="juanmiguel697@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="263" end="279" text="+34 960 90 77 02" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="296" end="312" text="+34 760 65 55 00" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="318" end="325" text="1054552" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="583" end="593" text="03/04/1946" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="604" end="612" text="40562384" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="630" end="662" text="Centro de Salud Collado Villalba" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T18" start="684" end="691" text="6495IOR" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="717" end="734" text="VSEVV3IEVCR888909" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="778" end="795" text="ascendencia árabe" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="799" end="805" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="832" end="839" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

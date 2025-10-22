@@ -1,0 +1,31 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 35	Santiago Quintana Montero
+T2	ID_SUJETO_ASISTENCIA 57 67	49364377Y
+T3	FECHAS 92 100	06/02/1986
+T4	SEXO_SUJETO_ASISTENCIA 114 116	Varón
+T5	CALLE 142 153	Calle de San Ildefonso 87, 9V
+T6	TERRITORIO 166 176	Totana
+T7	TERRITORIO 185 191	Mallorca
+T8	TERRITORIO 196 204	Islas Baleares
+T9	TERRITORIO 208 214	07031
+T10	CORREO_ELECTRONICO 229 244	4V7Iix@hotmail.com
+T11	NUMERO_TELEFONO 246 258	+34 971 11 29 05
+T12	NUMERO_TELEFONO 266 280	+34 771 91 89 38
+T13	ID_SUJETO_ASISTENCIA 294 304	4018695
+T14	ID_SUJETO_ASISTENCIA 313 323	763985754183
+T15	CONDICION_RIESGO 345 356	Paciente pediátrico
+T16	NOMBRE_PERSONAL_SANITARIO 373 403	Dr. Asier Conde Ramos
+T17	ID_TITULACION_PERSONAL_SANITARIO 424 435	NC 389097768
+T18	PROFESION 446 453	Residente de 2° año en Pediatría
+T19	NOMBRE_INSTITUCION 464 492	Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)
+T20	CALLE 504 514	Avenida Monforte de Lemos 3-5
+T21	TERRITORIO 526 532	28029
+T22	PAIS 544 550	España
+T23	FECHAS 562 572	01/08/1993
+T24	ID_CONTACTO_ASISTENCIAL 594 603	24485443
+T25	HOSPITAL 616 637	Hospital General de Villalba
+T26	INFORME_CLINICO 659 690	Paciente de ascendencia europea oriental de 7 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.95.250, con dirección MAC D8:93:AD:49:9B:49. El paciente presenta una temperatura corporal de 37,5°C, sin síntomas de infección respiratoria. La exploración física revela un estado general bueno, con buena nutrición y hidratación. La exploración neurológica no muestra signos de alteración.
+T27	ANTECEDENTES 725 736	El paciente tiene una historia de alergia a los alimentos, específicamente a la leche de vaca. Ha tenido episodios de urticaria en el pasado después de consumir productos lácteos.
+T28	EVOLUCION 763 774	El paciente ha estado bien durante los últimos días, sin síntomas de infección. Se le ha recomendado seguir una dieta libre de lácteos para evitar reacciones alérgicas.
+T29	REMITE 790 799	El paciente ha sido remitido por su pediatra de cabecera, quien ha solicitado una evaluación más detallada de su condición alérgica.
+T30	FECHAS 812 822	01/08/1993
+T31	HOSPITAL 844 865	Centro de salud de ingreso: Hospital General de Villalba

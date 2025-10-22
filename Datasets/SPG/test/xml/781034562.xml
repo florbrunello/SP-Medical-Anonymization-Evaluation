@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Isaac Cabrera Palacios
+DNI: 94578701X
+Fecha de nacimiento: 10/08/1967
+Género: V
+Domicilio: Calle de Ferraz 55, 6T
+Ciudad: Plasencia, Formentera, Islas Baleares
+Código postal: 07363
+Email: cabrera395@outlook.com
+Teléfono fijo: +34 971 51 47 64
+Teléfono móvil: +34 671 33 03 02
+NHC: 7670607
+
+Datos asistenciales.
+Médico: Dra. Nuria Garrido Roldan. NC 459688521. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 08/02/1994
+Episodio: 70376857
+Centro de salud: Centro de Salud Coslada
+
+Informe clínico del paciente:
+Paciente fumador de 26 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Isaac" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="50" text="Cabrera Palacios" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="94578701X" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="10/08/1967" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="141" text="Calle de Ferraz 55, 6T" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="159" text="Plasencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="171" text="Formentera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="173" end="187" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="07363" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="238" text="cabrera395@outlook.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="254" end="270" text="+34 971 51 47 64" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="287" end="303" text="+34 671 33 03 02" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="309" end="316" text="7670607" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="564" end="574" text="08/02/1994" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="585" end="593" text="70376857" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="611" end="634" text="Centro de Salud Coslada" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T18" start="675" end="682" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T19" start="686" end="693" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

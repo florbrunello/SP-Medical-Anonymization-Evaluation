@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Francisco López Montes
+DNI: 95394078Z
+Fecha de nacimiento: 02/11/2000
+Género: Hombre
+Domicilio: Calle de Zurbano 20
+Ciudad: Móstoles, Valencia, Comunidad Valenciana
+Código postal: 46168
+Email: juanfrancisco_lopez-montes598@ciberer.es
+Teléfono fijo: +34 960 55 23 87
+Teléfono móvil: +34 760 07 43 67
+NHC: 0197076
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dra. Tamara Peña Pascual. NC 933792130. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/08/2015
+Episodio: 49964098
+Centro de salud: Centro de Salud Alhaurín de la Torre
+Matrícula del coche: 7720NON
+Modelo: Mercedes-Benz C-Class
+VIN: VSA0UIQPCBX767204
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 14 años de edad, acompañado de su madre. Se registró una sesión de firma biométrica, el código obtenido para revisarla es PC150VHK029. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="42" text="Juan Francisco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="43" end="55" text="López Montes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="95394078Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="02/11/2000" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="117" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="129" end="148" text="Calle de Zurbano 20" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="165" text="Móstoles" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="167" end="175" text="Valencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="197" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="46168" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="266" text="juanfrancisco_lopez-montes598@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="282" end="298" text="+34 960 55 23 87" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="315" end="331" text="+34 760 07 43 67" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="337" end="344" text="0197076" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="366" end="374" text="Granjero" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="628" end="638" text="12/08/2015" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="649" end="657" text="49964098" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="675" end="711" text="Centro de Salud Alhaurín de la Torre" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="733" end="740" text="7720NON" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="776" end="793" text="VSA0UIQPCBX767204" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="837" end="863" text="ascendencia norteamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="867" end="874" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="901" end="906" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T24" start="989" end="1000" text="PC150VHK029" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

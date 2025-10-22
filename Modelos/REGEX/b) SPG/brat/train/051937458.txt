@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Irene Rey Jurado
+DNI: 32459096R
+Fecha de nacimiento: 25/10/2022
+Género: Mujer
+Domicilio: Calle del Rollo 74
+Ciudad: Yecla, Asturias, Asturias
+Código postal: 33176
+Email: jurado@icloud.com
+Teléfono fijo: +34 984 30 09 96
+Teléfono móvil: +34 784 19 11 33
+NHC: 4210252
+NASS: 270494222396
+Condición de riesgo: Farmacéutico
+
+Datos asistenciales.
+Médico: Dr. Javier González Galvez. NC 165027252. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 31/12/2024
+Episodio: 00308009
+Hospital: Hospital Universitario Central de Asturias
+Matrícula del coche: 2873NGD
+Modelo: Chrysler Pacifica
+VIN: VSIPZQB9KWD396445
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 2 años de edad, acompañado de su madre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-cardiology.com. 

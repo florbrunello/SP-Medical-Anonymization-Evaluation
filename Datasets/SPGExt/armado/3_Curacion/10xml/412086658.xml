@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Paula Vega Alonso</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">99910406Q</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">21/02/2008</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio:  <TAG TYPE="CALLE">Calle de la Virgen de los Peligros 91</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ourense, Pontevedra, Galicia</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">36356</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">paula_alonso1871@outlook.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 986 57 04 86</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 686 50 38 79</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6650484</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">811332906242</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Operador de Equipos Mineros</TAG>.
+    Datos asistenciales.
+    Médico:  <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Estefanía</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Salas Miranda</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">789302571</TAG>. <TAG TYPE="PROFESION">Residente</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3° año</TAG> en <TAG TYPE="PROFESION">Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">11/05/2014</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Benalmádena</TAG>.
+  </TEXT>
+</MEDDOCAN>

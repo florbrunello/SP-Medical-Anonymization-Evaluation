@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Consuelo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Bernal</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Castillo</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">51053703M</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">29/11/1948</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle del Carmen 1</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Ciudad autónoma de Melilla</TAG>, <TAG TYPE="TERRITORIO">Melilla</TAG>,
+  Código postal: <TAG TYPE="TERRITORIO">51024</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">bernal-castillo@ub.edu</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 20 23 87</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 951 91 96 35</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3401525</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">029613204305</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Policía</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">María Nieves Ramos Cortés</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">076719061</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">12/06/1981</TAG>
+  Episodio: <TAG TYPE="OTRO_NUMERO_IDENTIF">95260304</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Carabanchel</TAG>
+  Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2793TUE</TAG>
+  Modelo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Audi A4</TAG>
+  VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSCRS9OP1FI445400</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">32 años</TAG> de edad. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">PD766JLF710</TAG>.
+  </TEXT>
+</MEDDOCAN>

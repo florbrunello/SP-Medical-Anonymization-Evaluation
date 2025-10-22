@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">María Josefa Delgado Carrillo</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">88557951Q</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">18/02/1944</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Ferraz 21, 4Y</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Santander, Palencia, Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">34444</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">mariajosefadelgado@isciii.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 979 77 70 79</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 979 91 01 85</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8393372</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ama de casa</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Domingo Soriano Gómez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">684531957</TAG>. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">12/05/1945</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">62249413</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Reina Sofía de Córdoba</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">0186OTH</TAG>.
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Honda Civic</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSDZMUCBP9Q855603</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">61 años</TAG> de edad, con antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, refiere una evolución clínica de 3 semanas con dolores de cabeza intensos y frecuentes, acompañados de náuseas y vómitos. La exploración física revela: Tª <TAG TYPE="FECHAS">38,5 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica se detectan signos de alteración del estado de conciencia, con respuesta a estímulos auditivos y visuales, pero sin respuesta a estímulos táctiles. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+    Exploración complementaria:
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">12,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">12.000/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">70%</TAG>); plaquetas <TAG TYPE="FECHAS">200.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">50 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">90%</TAG>; TTPA <TAG TYPE="FECHAS">25,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">150 mg/dl</TAG>; urea <TAG TYPE="FECHAS">30 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,0 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,7 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">20 U/l</TAG>; GPT <TAG TYPE="FECHAS">30 U/l</TAG>; GGT <TAG TYPE="FECHAS">40 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">140 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal. Las pruebas de imagen solicitadas (Rx tórax, Ecografía abdominal, TAC craneal, Ecocardiograma transtorácico) no evidencian patología significativa, excepto la TAC craneal, que muestra un hemorragia intracerebral en el lóbulo frontal izquierdo.
+    Diagnóstico y tratamiento:
+    Con el diagnóstico de hemorragia intracerebral se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la cabeza) así como tratamiento quirúrgico para evacuar la hemorragia. El paciente es llevado a la sala de recuperación y se le realiza un seguimiento constante de su estado clínico.
+  </TEXT>
+</MEDDOCAN>

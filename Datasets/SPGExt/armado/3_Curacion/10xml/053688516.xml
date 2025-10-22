@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Gonzalo Caballero Carrillo</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">88396571G</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">22/01/1932</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Masculino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Ferraz 92</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Móstoles</TAG>, <TAG TYPE="TERRITORIO">Toledo</TAG>, <TAG TYPE="TERRITORIO">Castilla-La Mancha</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">45139</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">caballero_carrillo@us.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 925 53 29 60</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 725 03 32 78</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1029294</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">055361267814</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Operador de Maquinaria Agrícola</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr. Rubén Alonso Rubio</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">809669086</TAG>. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">15/06/1951</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">10814985</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Central de Asturias</TAG>.
+    Informe clínico del paciente:
+    Paciente vegano de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">19 años</TAG> de edad, acompañado de su tío, que refiere una serie de síntomas que comenzaron hace aproximadamente 2 semanas. El paciente describe dolores en el abdomen, particularmente en la región epigástrica, acompañados de náuseas y vómitos. También refiere una pérdida de peso significativa en el último mes, de aproximadamente 10 kg.
+    La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración abdominal se aprecia una masa en la región epigástrica, no pulsátil, con límites bien definidos.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 60%); plaquetas 300.000/ mm3. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 140 mEq/l; potasio 4,5 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l.
+    Con el diagnóstico de pancreatitis aguda se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación abdominal) así como tratamiento médico (antibióticos y suero fisiológico). El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio con seguimiento ambulatorio.
+    Antecedentes:
+    El paciente tiene antecedentes de alergia a ciertos alimentos, incluyendo gluten y lácteos. También tiene antecedentes de episodios de dolor abdominal en el pasado, pero sin diagnóstico establecido.
+    Evolución y comentarios:
+    El paciente ha sido sometido a una serie de pruebas diagnósticas, incluyendo ecografía abdominal, que han confirmado el diagnóstico de pancreatitis aguda. El paciente ha sido tratado con éxito y se espera una recuperación completa.
+    Remitido por:
+    El paciente ha sido remitido por su médico de cabecera, quien ha notificado los síntomas y antecedentes del paciente. El paciente ha sido evaluado y tratado en el Hospital Universitario Central de Asturias.
+  </TEXT>
+</MEDDOCAN>

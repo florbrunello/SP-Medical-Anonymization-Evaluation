@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Begoña Ríos Gómez</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">47180237S</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">27/08/2018</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de las Tres Cruces 27</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Telde, León, Castilla y León</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">24474</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">brMom@h12o.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 987 93 86 79</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 787 48 84 84</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2835379</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">400350531122</TAG>.
+    Condición de riesgo: <TAG TYPE="OTRO_NUMERO_IDENTIF">Cirujano</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Ángeles Calderon Giménez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">843628670</TAG>. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">25/10/2024</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">73604999</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Complejo Hospitalario Universitario de Santiago</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2997SWP</TAG>.
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Ram 1500</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSI8HT0MW7J533608</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia indígena centroamericana</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">6 años</TAG> de edad, acompañado de su tío, que refiere dolor abdominal crónico y diarrea persistente desde hace 2 semanas. El paciente ha presentado pérdida de peso y fatiga en el último mes. La exploración física revela: temperatura <TAG TYPE="FECHAS">37,5°C</TAG>; pulso <TAG TYPE="FECHAS">120/min</TAG>; frecuencia respiratoria <TAG TYPE="FECHAS">24/min</TAG>; presión arterial <TAG TYPE="FECHAS">80/40 mmHg</TAG>. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración abdominal se aprecian signos de peritonitis, con dolor en la región epigástrica y abdomen distendido. Se solicitan análisis de sangre y orina para determinar la causa subyacente del dolor abdominal y la diarrea.
+    Antecedentes:
+    El paciente tiene antecedentes de alergia a ciertos alimentos y ha presentado episodios de asma en el pasado. La familia del paciente tiene antecedentes de enfermedades gastrointestinales.
+    Evolución y comentarios:
+    El paciente ha sido tratado con antibióticos y antiinflamatorios para controlar la infección y el dolor. Se ha solicitado una ecografía abdominal para evaluar la causa subyacente del dolor abdominal y la diarrea.
+    Remitido por:
+    El paciente ha sido remitido por su tío, quien ha informado que el paciente ha estado presentando síntomas desde hace varias semanas y ha buscado atención médica en varias ocasiones.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Olga Exposito Fernández
+DNI: 27071519J
+Fecha de nacimiento: 28/10/2001
+Género: F
+Domicilio: Calle del Barquillo 80
+Ciudad: Alcalá de Henares, Alicante, Comunidad Valenciana
+Código postal: 03320
+Email: olga-expositofernandez863@hotmail.com
+Teléfono fijo: +34 965 75 13 24
+Teléfono móvil: +34 765 65 87 35
+NHC: 5032910
+Condición de riesgo: Trabajador de Servicios de Limpieza
+
+Datos asistenciales.
+Médico: Dr. José Manuel Menendez Miranda. NC 860150820. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/06/2013
+Hospital: Hospital Clínic Barcelona
+Matrícula del coche: 2381FGA
+Modelo: Mazda CX-5
+VIN: VSEPYZYS3CS365044
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 11 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Olga" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="51" text="Exposito Fernández" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="27071519J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="28/10/2001" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="142" text="Calle del Barquillo 80" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="151" end="168" text="Alcalá de Henares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="170" end="178" text="Alicante" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="180" end="200" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="216" end="221" text="03320" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="229" end="266" text="olga-expositofernandez863@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="282" end="298" text="+34 965 75 13 24" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="315" end="331" text="+34 765 65 87 35" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="337" end="344" text="5032910" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="366" end="401" text="Trabajador de Servicios de Limpieza" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="436" end="464" text="José Manuel Menendez Miranda" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="469" end="478" text="860150820" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="480" end="512" text="Residente de 2° año en Pediatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="514" end="589" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="591" end="620" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="622" end="627" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="629" end="635" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="637" end="643" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="663" end="673" text="21/06/2013" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="684" end="709" text="Hospital Clínic Barcelona" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="731" end="738" text="2381FGA" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="763" end="780" text="VSEPYZYS3CS365044" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="824" end="853" text="ascendencia asiática oriental" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="857" end="864" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="891" end="896" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

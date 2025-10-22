@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gregorio Cortés López
+DNI: 40079841H
+Fecha de nacimiento: 21/03/1993
+Género: H
+Domicilio: Calle de Áncora 16
+Ciudad: Ontinyent, Orense, Galicia
+Código postal: 32114
+Email: OKVT9unkBaS@yahoo.com
+Teléfono fijo: +34 988 56 04 32
+Teléfono móvil: +34 688 76 72 77
+NHC: 8846309
+NASS: 423129880313
+Condición de riesgo: Electricista
+
+Datos asistenciales.
+Médico: Dr. Eugenio Bermudez Romero. NC 891550277. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 16/09/1994
+Episodio: 61776107
+Centro de salud: Centro de Salud Puente de Vallecas
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de un año de edad, acompañado de su madre. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es GY403MFB928. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Gregorio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="49" text="Cortés López" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="40079841H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="21/03/1993" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="136" text="Calle de Áncora 16" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="145" end="154" text="Ontinyent" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="162" text="Orense" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="171" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="187" end="192" text="32114" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="200" end="221" text="OKVT9unkBaS@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="237" end="253" text="+34 988 56 04 32" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="270" end="286" text="+34 688 76 72 77" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="292" end="299" text="8846309" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="306" end="318" text="423129880313" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="340" end="352" text="Electricista" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="387" end="410" text="Eugenio Bermudez Romero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="415" end="424" text="891550277" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="426" end="457" text="Residente de 5° año en Urología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="459" end="531" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="533" end="556" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="558" end="563" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="565" end="571" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="573" end="579" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="599" end="609" text="16/09/1994" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="620" end="628" text="61776107" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="646" end="680" text="Centro de Salud Puente de Vallecas" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="724" end="748" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="752" end="758" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="785" end="790" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="873" end="884" text="GY403MFB928" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

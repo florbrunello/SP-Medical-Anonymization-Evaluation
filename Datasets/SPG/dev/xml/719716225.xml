@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Ana Isabel Ferrer Aguilar
+DNI: 60795359B
+Fecha de nacimiento: 12/01/1956
+Género: F
+Domicilio: Calle de Segovia 49
+Ciudad: Lugo, Cuenca, Castilla-La Mancha
+Código postal: 16390
+Email: ferreraguilar@hotmail.com
+Teléfono fijo: +34 969 57 64 09
+Teléfono móvil: +34 669 18 57 43
+NHC: 9077909
+Condición de riesgo: Plomero
+
+Datos asistenciales.
+Médico: Dra. María Soledad Benítez Pereira. NC 513471993. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 14/04/2022
+Episodio: 45709775
+Hospital: Hospital General Universitario Morales Meseguer
+
+Informe clínico del paciente:
+Paciente fumador de 66 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="Ana Isabel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="53" text="Ferrer Aguilar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="60795359B" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="12/01/1956" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="141" text="Calle de Segovia 49" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="154" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="156" end="162" text="Cuenca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="164" end="182" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="198" end="203" text="16390" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="211" end="236" text="ferreraguilar@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="252" end="268" text="+34 969 57 64 09" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="285" end="301" text="+34 669 18 57 43" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="307" end="314" text="9077909" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="336" end="343" text="Plomero" TYPE="PROFESION" comment=""/>
+        <DATE id="T16" start="614" end="624" text="14/04/2022" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="635" end="643" text="45709775" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="654" end="701" text="Hospital General Universitario Morales Meseguer" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T19" start="742" end="749" text="fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="753" end="760" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

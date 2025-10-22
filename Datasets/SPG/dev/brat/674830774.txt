@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Emilio Cruz Márquez
+DNI: 70987230F
+Fecha de nacimiento: 30/04/1954
+Género: Hombre
+Domicilio: Calle de Lope de Vega 100, 4A
+Ciudad: Ermua, Ibiza, Islas Baleares
+Código postal: 07893
+Email: emilio-cruz_marquez1861@outlook.com
+Teléfono fijo: +34 971 46 60 30
+Teléfono móvil: +34 771 27 73 95
+NHC: 8045983
+NASS: 660160835764
+
+Datos asistenciales.
+Médico: Dr. Pedro José Muñoz López. NC 854017271. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/12/2023
+Episodio: 70862538
+Centro de salud: Centro de Salud Málaga Norte
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 69 años de edad. Se realizó un expediente con URL http://example-dermatology.org//70509686R. 

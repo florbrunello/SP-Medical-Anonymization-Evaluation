@@ -1,0 +1,31 @@
+Me parece que hay algo raro en el informe clínico del paciente. El contenido parece más bien corresponder a una sesión de escaneo del iris o una consulta virtual, que a un informe clínico de un paciente. 
+
+Aquí te dejo una versión modificada del informe clínico del paciente, que cumple con los requisitos que mencionaste:
+
+Datos del paciente.
+Nombre: Alba Cortés Escobar
+DNI: 48657005E
+Fecha de nacimiento: 30/09/1939
+Género: F
+Domicilio: Calle de Ibiza 53
+Ciudad: Castellón de la Plana, Valencia, Comunidad Valenciana
+Código postal: 46951
+Email: alba-cortes@outlook.com
+Teléfono fijo: +34 960 30 33 00
+Teléfono móvil: +34 760 51 09 81
+NHC: 0020769
+NASS: 899751223815
+
+Datos asistenciales.
+Médico: Dra. Amparo Márquez Menendez. NC 959403633. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/08/2023
+Centro de salud: Centro de Salud Majadahonda
+
+Informe clínico del paciente:
+Paciente de 83 años de edad, con antecedentes de hipertensión arterial, diabetes mellitus tipo 2 y enfermedad cardiovascular. Presenta una historia clínica de consumo excesivo de alcohol durante los últimos 20 años, lo que ha llevado a una dependencia significativa. En su última visita, presentaba síntomas de envejecimiento, incluyendo pérdida de memoria, confusión y dificultad para realizar tareas diarias.
+
+La exploración física revela: presión arterial 180/100 mmHg, frecuencia cardíaca 90 lpm, temperatura corporal 36,5°C. Se encuentra consciente, orientado, pero con dificultad para recordar eventos recientes. En la exploración neurológica, se observan signos de deterioro cognitivo, incluyendo dificultad para realizar tareas matemáticas y reconocer objetos familiares.
+
+Los análisis de laboratorio muestran: glucosa 150 mg/dl, urea 40 mg/dl, creatinina 1,2 mg/dl, sodio 135 mEq/l, potasio 3,5 mEq/l. Se solicitan pruebas adicionales para evaluar la función hepática y renal.
+
+El tratamiento propuesto incluye la reducción del consumo de alcohol, la implementación de un plan de manejo de la hipertensión y la diabetes, y la realización de terapia cognitiva para mejorar la función cognitiva. Se programará una revisión en un plazo de 6 semanas para evaluar el progreso del paciente.

@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Irene Vicente Martínez
+DNI: 84682971F
+Fecha de nacimiento: 22/09/1961
+Género: M
+Domicilio: Calle del Marqués de Cubas 90
+Ciudad: Ponferrada, Cáceres, Extremadura
+Código postal: 10909
+Email: irene.vicente-martinez@ciberehd.org
+Teléfono fijo: +34 927 63 96 46
+Teléfono móvil: +34 727 37 12 09
+NHC: 7193524
+NASS: 841127167944
+
+Datos asistenciales.
+Médico: Dra. Rebeca Guerrero Hidalgo. NC 588229664. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 23/06/1971
+Episodio: 63360545
+Centro de salud: Centro de Salud Alhaurín de la Torre
+
+Informe clínico del paciente:
+Paciente no fumador de 9 años de edad, acompañado de su tía. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es AJ307XLL441. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Irene" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="50" text="Vicente Martínez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="84682971F" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="22/09/1961" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="148" text="Calle del Marqués de Cubas 90" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="167" text="Ponferrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="169" end="176" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="178" end="189" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="205" end="210" text="10909" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="218" end="253" text="irene.vicente-martinez@ciberehd.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="269" end="285" text="+34 927 63 96 46" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="302" end="318" text="+34 727 37 12 09" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="324" end="331" text="7193524" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="338" end="350" text="841127167944" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <DATE id="T16" start="610" end="620" text="23/06/1971" TYPE="FECHAS" comment=""/>
+        <ID id="T17" start="631" end="639" text="63360545" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T18" start="657" end="693" text="Centro de Salud Alhaurín de la Torre" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T19" start="734" end="744" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T20" start="748" end="754" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T21" start="781" end="784" text="tía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T22" start="868" end="879" text="AJ307XLL441" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

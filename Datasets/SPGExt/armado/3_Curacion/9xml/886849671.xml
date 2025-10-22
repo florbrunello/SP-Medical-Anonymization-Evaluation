@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Juan Miguel Núñez Bernal</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">95208968P</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">02/01/1941</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Hombre</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Tribulete 15</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ourense, Valencia, Comunidad Valenciana</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">46144</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">juanmiguel697@isciii.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 960 90 77 02</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 760 65 55 00</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">1054552</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">95208968P46144</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Sin información disponible</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Ainhoa</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Izquierdo Villar</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">289675053</TAG>. <TAG TYPE="PROFESION">Residente de 2° año en Pediatría</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">03/04/1946</TAG>.
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">40562384</TAG>.
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Collado Villalba</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6495IOR</TAG>.
+    Modelo: <TAG TYPE="OTRO_SUJETO_ASISTENCIA">Toyota RAV4</TAG>.
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSEVV3IEVCR888909</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia árabe</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">5 años</TAG> de edad, acompañado de su hermana.
+  </TEXT>
+</MEDDOCAN>

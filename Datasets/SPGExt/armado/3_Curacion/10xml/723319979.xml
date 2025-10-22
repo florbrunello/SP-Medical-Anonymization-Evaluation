@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Antonio Prieto De la Fuente</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">83723615G</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">09/06/1940</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle del Amparo 52</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ciudad autónoma de Melilla</TAG>, <TAG TYPE="TERRITORIO">Melilla</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">51073</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">delafuente@icloud.com</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 25 46 52</TAG>.
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 651 49 74 64</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">2053236</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">475203107872</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Policía</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra. Irene Arias Blazquez</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">352267669</TAG>. Residente de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">3° año</TAG> en <TAG TYPE="PROFESION">Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/04/1995</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitari i Politècnic La Fe</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">6691ZOC</TAG>.
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Chevrolet Silverado</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSNTFVCOARZ349039</TAG>.
+    Informe clínico del paciente:
+    Paciente no fumador de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">54 años</TAG> de edad, que acude a la consulta con dolor abdominal crónico y pérdida de peso significativa en los últimos meses. El paciente informa que ha tenido episodios de diarrea y vómitos en las últimas semanas, lo que ha llevado a una importante pérdida de peso y debilidad generalizada. El paciente también informa de una sensación de falta de apetito y malestar generalizado.
+    La exploración física revela: Tª <TAG TYPE="FECHAS">37,2 C</TAG>; T.A: <TAG TYPE="FECHAS">120/80 mmHg</TAG>; Fc: <TAG TYPE="FECHAS">90 lpm</TAG>. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen distendido, con dolor en el hipocondrio derecho, sin masas ni megalias.
+    Los datos analíticos muestran los siguientes resultados: Hemograma: Hb <TAG TYPE="FECHAS">12,5 g/dl</TAG>; leucocitos <TAG TYPE="FECHAS">10.500/mm3</TAG> (neutrófilos <TAG TYPE="FECHAS">60%</TAG>); plaquetas <TAG TYPE="FECHAS">250.000/mm3</TAG>. VSG: <TAG TYPE="FECHAS">30 mm 1ª hora</TAG>. Coagulación: TQ <TAG TYPE="FECHAS">85%</TAG>; TTPA <TAG TYPE="FECHAS">22,5 seg</TAG>. Bioquímica: Glucosa <TAG TYPE="FECHAS">110 mg/dl</TAG>; urea <TAG TYPE="FECHAS">25 mg/dl</TAG>; creatinina <TAG TYPE="FECHAS">1,2 mg/dl</TAG>; sodio <TAG TYPE="FECHAS">135 mEq/l</TAG>; potasio <TAG TYPE="FECHAS">3,5 mEq/l</TAG>; GOT <TAG TYPE="FECHAS">20 U/l</TAG>; GPT <TAG TYPE="FECHAS">30 U/l</TAG>; GGT <TAG TYPE="FECHAS">40 U/l</TAG>; fosfatasa alcalina <TAG TYPE="FECHAS">120 U/l</TAG>; calcio <TAG TYPE="FECHAS">8,5 mg/dl</TAG>. Orina: sedimento normal.
+    Se solicitan pruebas de imagen (Ecografía abdominal, TAC abdominal) que revelan una importante dilatación del colon ascendente y transverso, con signos de inflamación y obstrucción. El paciente es sometido a una exploración endoscópica que revela una importante inflamación y ulceración en el colon ascendente y transverso.
+    Con el diagnóstico de colitis ulcerosa, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la cama) así como tratamiento médico específico: Prednisolona <TAG TYPE="FECHAS">40 mg</TAG> vía oral cada <TAG TYPE="FECHAS">12 horas</TAG> (durante <TAG TYPE="FECHAS">4 semanas</TAG>) y Mesalazina <TAG TYPE="FECHAS">2 gramos</TAG> vía oral cada <TAG TYPE="FECHAS">12 horas</TAG> (durante <TAG TYPE="FECHAS">6 semanas</TAG>). El paciente mejora significativamente de su cuadro tras una semana de tratamiento, decidiéndose la prolongación del tratamiento y seguimiento en consulta.
+    </TEXT>
+</MEDDOCAN>

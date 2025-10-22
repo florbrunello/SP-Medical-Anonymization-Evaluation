@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Elisa Sierra Benito
+DNI: 53937204L
+Fecha de nacimiento: 05/06/1976
+Género: Femenino
+Domicilio: Calle de Tribulete 88
+Ciudad: Telde, Pontevedra, Galicia
+Código postal: 36144
+Email: elisasierra_benito@udc.es
+Teléfono fijo: +34 986 82 49 63
+Teléfono móvil: +34 686 47 14 59
+NHC: 8482513
+NASS: 183016099249
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dra. Vanessa Gallardo Mateos. NC 559052399. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/09/2020
+Centro de salud: Centro de Salud Sevilla Oeste
+Matrícula del coche: 7961KWW
+Modelo: Honda Civic
+VIN: VST4R4JL4TU676428
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 44 años de edad, acompañado de su hijo. Se realizó un expediente con URL http://example-biotech.com//22022678D. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Elisa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="47" text="Sierra Benito" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="53" end="62" text="53937204L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="84" end="94" text="05/06/1976" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="103" end="111" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="144" text="Calle de Tribulete 88" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="158" text="Telde" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="160" end="170" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="172" end="179" text="Galicia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="195" end="200" text="36144" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="208" end="233" text="elisasierra_benito@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 986 82 49 63" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 686 47 14 59" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="304" end="311" text="8482513" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="318" end="330" text="183016099249" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="352" end="373" text="Trabajador de Almacén" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="657" end="667" text="05/09/2020" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T18" start="685" end="714" text="Centro de Salud Sevilla Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T19" start="736" end="743" text="7961KWW" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T20" start="769" end="786" text="VST4R4JL4TU676428" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T21" start="830" end="854" text="ascendencia sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T22" start="858" end="865" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="892" end="896" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="931" end="953" text="http://example-biotech" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

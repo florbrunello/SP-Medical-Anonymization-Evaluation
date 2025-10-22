@@ -1,0 +1,34 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 1 20	Carolina Serra Rivas
+T2	NUMERO_DOCUMENTO_IDENTIDAD 26 39	79853076C
+T3	FECHAS 43 51	15/02/1987
+T4	SEXO_SUJETO_ASISTENCIA 54 56	Mujer
+T5	CALLE 67 84	Calle de Lope de Vega 55
+T6	TERRITORIO 86 98	Langreo
+T7	TERRITORIO 100 108	Asturias
+T8	TERRITORIO 110 118	Asturias
+T9	TERRITORIO 120 128	33080
+T10	CORREO_ELECTRONICO 133 158	carolina-serra_rivas@ioba.med.uva.es
+T11	NUMERO_TELEFONO 160 174	+34 984 17 08 94
+T12	NUMERO_TELEFONO 176 192	+34 784 51 80 58
+T13	ID_SUJETO_ASISTENCIA 194 208	9993240
+T14	ID_CONTACTO_ASISTENCIAL 210 223	876543219876
+T15	CONDICION_RIESGO 226 238	Químico
+T16	NOMBRE_PERSONAL_SANITARIO 241 272	Eva María Benito Núñez
+T17	ID_TITULACION_PERSONAL_SANITARIO 273 284	936789898
+T18	PROFESION 286 296	Investigadora Clínica en Síndromes Raros
+T19	INSTITUCION 300 324	Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)
+T20	CALLE 326 345	Avenida Monforte de Lemos 3-5
+T21	TERRITORIO 347 355	28029
+T22	PAIS 357 363	España
+T23	FECHAS 367 377	14/11/2020
+T24	ID_CONTACTO_ASISTENCIAL 380 393	63009641
+T25	NOMBRE_ESTABLECIMIENTO_SALUD 396 423	Centro de Salud Sevilla Norte
+T26	MATRICULA_VEHICULO 425 436	3525FRQ
+T27	MARCA_VEHICULO 438 446	Subaru
+T28	MODELO_VEHICULO 449 461	Outback
+T29	IDENTIF_VEHICULOS_NRSERIE_PLACAS 463 482	VSR4W7PL8VT155931
+T30	FECHAS 484 494	14/11/2020
+T31	NOMBRE_ESTABLECIMIENTO_SALUD 497 524	Centro de Salud Sevilla Norte
+T32	TXT 537 1047	La paciente de 33 años de edad, de ascendencia indígena sudamericana, fue atendida en el Servicio de Urgencias por presentar síntomas de dolor abdominal crónico y pérdida de peso significativa en los últimos 6 meses. La paciente refiere una historia de antecedentes familiares de enfermedades autoinmunes y ha sido sometida a múltiples pruebas diagnósticas sin encontrar una causa subyacente clara para sus síntomas.
+T33	TXT 1048 1331	La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientada, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+T34	TXT 1332 1527	Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 8.500

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Francisco Javier Ramos Simon
+DNI: 35694729V
+Fecha de nacimiento: 08/07/2021
+Género: V
+Domicilio: Calle de la Virgen de los Peligros 58
+Ciudad: Lugo, Alicante, Comunidad Valenciana
+Código postal: 03935
+Email: franciscojavierramos-simon@ucm.es
+Teléfono fijo: +34 965 30 96 71
+Teléfono móvil: +34 665 19 19 14
+NHC: 4546914
+
+Datos asistenciales.
+Médico: Dra. Silvia Soler Soto. NC 787922819. Gastroenteróloga Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/07/2022
+Episodio: 54008497
+Hospital: Hospital Universitari Vall d'Hebron
+Matrícula del coche: 6635CQX
+Modelo: Chevrolet Silverado
+VIN: VSGQP7I0E5S880108
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de un año de edad, acompañado de su madre. Se registró una sesión de huella dactilar, el código obtenido para revisarla es JO431WUE153. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="44" text="Francisco Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="45" end="56" text="Ramos Simon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="62" end="71" text="35694729V" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="93" end="103" text="08/07/2021" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="112" end="113" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="125" end="162" text="Calle de la Virgen de los Peligros 58" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="171" end="175" text="Lugo" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="177" end="185" text="Alicante" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="187" end="207" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="223" end="228" text="03935" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="236" end="269" text="franciscojavierramos-simon@ucm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="285" end="301" text="+34 965 30 96 71" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="318" end="334" text="+34 665 19 19 14" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="340" end="347" text="4546914" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="640" end="650" text="18/07/2022" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="661" end="669" text="54008497" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="680" end="715" text="Hospital Universitari Vall d'Hebron" TYPE="HOSPITAL" comment=""/>
+        <ID id="T18" start="737" end="744" text="6635CQX" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="778" end="795" text="VSGQP7I0E5S880108" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="839" end="859" text="ascendencia asiática" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="863" end="869" text="un año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="896" end="901" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T23" start="983" end="994" text="JO431WUE153" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

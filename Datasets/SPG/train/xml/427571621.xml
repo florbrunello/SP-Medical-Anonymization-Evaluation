@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Natalia Lorenzo Ramírez
+DNI: 58799733A
+Fecha de nacimiento: 24/01/1934
+Género: F
+Domicilio: Calle de Miguel Ángel 57, 4X
+Ciudad: MelillaHuesca, Mallorca, Islas Baleares
+Código postal: 07468
+Email: lorenzo.ramirez@yahoo.com
+Teléfono fijo: +34 971 09 16 75
+Teléfono móvil: +34 671 50 15 16
+NHC: 3072661
+NASS: 165833320920
+Condición de riesgo: Carpintero
+
+Datos asistenciales.
+Médico: Dra. María Concepción Roca Román. NC 413167685. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/04/1956
+Episodio: 61519249
+Centro de salud: Centro de Salud Tetuán
+
+Informe clínico del paciente:
+Paciente vegetariano de 22 años de edad, acompañado de su abuela. El servidor para envío de información desde cual el usuario se comunica es smtp://example-radiology.edu. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Natalia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="51" text="Lorenzo Ramírez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="58799733A" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="24/01/1934" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="148" text="Calle de Miguel Ángel 57, 4X" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="170" text="MelillaHuesca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="180" text="Mallorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="182" end="196" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="212" end="217" text="07468" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="225" end="250" text="lorenzo.ramirez@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="266" end="282" text="+34 971 09 16 75" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="299" end="315" text="+34 671 50 15 16" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="321" end="328" text="3072661" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="335" end="347" text="165833320920" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="369" end="379" text="Carpintero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="653" end="663" text="28/04/1956" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="674" end="682" text="61519249" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="700" end="722" text="Centro de Salud Tetuán" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="763" end="774" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="778" end="785" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="812" end="818" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="895" end="919" text="smtp://example-radiology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

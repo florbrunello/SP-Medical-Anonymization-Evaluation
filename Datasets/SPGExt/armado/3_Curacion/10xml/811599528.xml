@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jonathan Ramos Marti</TAG>.
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">60189827T</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">13/12/1979</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle Serrano 51, 4M</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Talavera de la Reina</TAG>, <TAG TYPE="TERRITORIO">Huesca</TAG>, <TAG TYPE="TERRITORIO">Aragón</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">22505</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">jonathan_marti@isciii.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 974 15 28 75</TAG>
+    FAX: <TAG TYPE="NUMERO_FAX">+34 974 40 50 38</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8351665</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">164985239464</TAG>
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Trabajador de Servicios de Limpieza</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dra.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Verónica Calderon Cortés</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">NC</TAG> <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">822725792</TAG>. <TAG TYPE="PROFESION">Oftalmóloga</TAG> <TAG TYPE="PROFESION">Especialista en Retina y Vítreo</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal, 7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">23/01/2023</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">35189423</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Ramón y Cajal</TAG>
+    Informe clínico del paciente:
+    Paciente víctima de violencia de género de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">43 años</TAG> de edad, acompañado de su tía. Presenta lesiones en la cara y el cuello, con hematoma en la mejilla derecha y dolor en la articulación temporomandibular. Se encuentra en estado de estrés y ansiedad, con dificultad para dormir y concentrarse.
+    Antecedentes:
+    El paciente tiene antecedentes de violencia de género en el pasado, con episodios de agresión física y emocional por parte de su expareja. Ha recibido tratamiento psicológico y terapia de pareja, pero no ha logrado una completa resolución del problema.
+    Evolución y comentarios:
+    El paciente ha sido ingresado en la unidad de cuidados intensivos por un período de 48 horas, donde se le ha proporcionado tratamiento médico y terapéutico para aliviar los síntomas de la violencia. Se le ha ofrecido apoyo emocional y psicológico para ayudarlo a manejar el estrés y la ansiedad. El paciente ha demostrado una buena respuesta al tratamiento y se encuentra en estado estable.
+    Remitido por:
+    El paciente ha sido remitido por el <TAG TYPE="HOSPITAL">Servicio de Urgencias del Hospital Universitario Ramón y Cajal</TAG>, donde se le atendió inicialmente por la violencia de género. Se le ha recomendado seguir tratamiento psicológico y terapia de pareja para abordar los problemas de violencia de género y mejorar la calidad de vida.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Lorenzo Castillo</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Muñoz</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">93797162B</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">25/06/2003</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Varón</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Ibiza 64, 3N</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Gandía</TAG>, <TAG TYPE="TERRITORIO">Las Palmas</TAG>, <TAG TYPE="TERRITORIO">Canarias</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">35580</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">munoz@ual.es</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 928 66 77 43</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 628 14 18 78</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4235663</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">301142157673</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Operador de Máquina</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Aurora Bravo Avila</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">933201473</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 3° año en Gastroenterología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/11/2015</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">51033099</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Ronda</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">migrante</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">12 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">tío</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">huella dactilar</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">MN213LHM952</TAG>. Se registró una sesión de <TAG TYPE="OTRO_NUMERO_IDENTIF">escaneo retiniano</TAG>, el código obtenido para revisarla es <TAG TYPE="IDENTIF_BIOMETRICOS">CZ793KFE576</TAG>.
+  </TEXT>
+</MEDDOCAN>

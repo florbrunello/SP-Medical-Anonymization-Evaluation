@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Concepción Galvez Tomas</TAG>.
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">74575647X</TAG>.
+    Fecha de nacimiento: <TAG TYPE="FECHAS">26/04/2002</TAG>.
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>.
+    Domicilio: <TAG TYPE="CALLE">Calle de Covarrubias 32</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Ontinyent, Santa Cruz de Tenerife, Canarias</TAG>.
+    Código postal: <TAG TYPE="TERRITORIO">38174</TAG>.
+    Email: <TAG TYPE="CORREO_ELECTRONICO">galvez.tomas@h12o.es</TAG>.
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 922 19 31 66</TAG>.
+    FAX: <TAG TYPE="NUMERO_FAX">+34 922 22 88 29</TAG>.
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">4118944</TAG>.
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">301548425604</TAG>.
+    Condición de riesgo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Paciente pediátrico</TAG>.
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pedro José Navarro Roca</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">264393052</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)</TAG>. <TAG TYPE="DIREC_PROT_INTERNET">Avenida Menéndez Pidal, s/n.</TAG> <TAG TYPE="TERRITORIO">14004</TAG> <TAG TYPE="TERRITORIO">Córdoba</TAG> <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">29/12/2011</TAG>.
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Reina Sofía de Córdoba</TAG>.
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2083IMW</TAG>.
+    Modelo: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">Honda CR-V</TAG>.
+    VIN: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">VSZSPEV6E7C122873</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">29/12/2011</TAG>.
+    Centro de salud de ingreso: <TAG TYPE="CENTRO_SALUD">Hospital Universitario Reina Sofía de Córdoba</TAG>.
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">ascendencia asiática oriental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">9 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>, que refiere <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal crónico de varios días</TAG> con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diarrea</TAG>. La exploración física revela: <TAG TYPE="FECHAS">Tª 37,5 C</TAG>; <TAG TYPE="FECHAS">T.A: 120/80 mmHg</TAG>; <TAG TYPE="FECHAS">Fc: 60 lpm</TAG>. Se encuentra <TAG TYPE="OTROS_SUJETO_ASISTENCIA">consciente</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">orientado</TAG>, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">buen estado de nutrición e hidratación</TAG>. En <TAG TYPE="OTROS_SUJETO_ASISTENCIA">cabeza y cuello</TAG> no se palpan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">adenopatías</TAG>, ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">bocio</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ingurgitación de vena yugular</TAG>, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pulsos carotídeos simétricos</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Auscultación cardíaca rítmica</TAG>, sin <TAG TYPE="OTROS_SUJETO_ASISTENCIA">soplos</TAG>, <TAG TYPE="OTROS_SUJETO_ASISTENCIA">roces</TAG> ni <TAG TYPE="OTROS_SUJETO_ASISTENCIA">extratonos</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Auscultación pulmonar con conservación del murmullo vesicular</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Abdomen doloroso en el cuadrante superior derecho</TAG>, con <TAG TYPE="OTROS_SUJETO_ASISTENCIA">signos de peritonealización</TAG>. Los datos analíticos muestran los siguientes resultados: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hemograma: Hb 12,5 g/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">leucocitos 10.000/mm3 (neutrófilos 60%)</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">plaquetas 200.000/ mm3</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">VSG: 10 mm 1ª hora</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Coagulación: TQ 90%</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">TTPA 25,8 seg</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Bioquímica: Glucosa 90 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">urea 20 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">creatinina 0,8 mg/dl</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">sodio 135 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">potasio 3,5 mEq/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GOT 15 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GPT 20 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">GGT 30 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">fosfatasa alcalina 120 U/l</TAG>; <TAG TYPE="OTROS_SUJETO_ASISTENCIA">calcio 8,5 mg/dl</TAG>. <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Orina: sedimento normal</TAG>. Se solicitan <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pruebas de imagen (Ecografía abdominal)</TAG> que revelan una <TAG TYPE="OTROS_SUJETO_ASISTENCIA">colecistitis aguda</TAG>. Con el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diagnóstico de colecistitis aguda</TAG> se instaura <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tratamiento sintomático (antitérmicos, antiinflamatorios, reposo)</TAG> así como <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tratamiento antibiótico específico: Cefalexina 250 mg vía oral cada 6 horas (durante 7 días)</TAG>. El <TAG TYPE="OTROS_SUJETO_ASISTENCIA">paciente mejora significativamente de su cuadro</TAG> tras 3 días de ingreso, decidiéndose el <TAG TYPE="OTROS_SUJETO_ASISTENCIA">alta a su domicilio</TAG> donde completó la <TAG TYPE="OTROS_SUJETO_ASISTENCIA">pauta de tratamiento antibiótico</TAG>.
+    Remitido por: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pedro José Navarro Roca</TAG> <TAG TYPE="CALLE">c/ del Abedul 5-7, 2º dcha</TAG> <TAG TYPE="TERRITORIO" >14004</TAG> <TAG TYPE="TERRITORIO" >Córdoba</TAG>, <TAG TYPE="PAIS">España</TAG> E-mail: <TAG TYPE="CORREO_ELECTRONICO">pnavarro@imibic.org</TAG>.
+  </TEXT>
+</MEDDOCAN>

@@ -1,0 +1,34 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 1 21	Christian Calvo Molina
+T2	ID_SUJETO_ASISTENCIA 24 39	92126748H
+T3	FECHAS 43 53	26/09/1973
+T4	SEXO_SUJETO_ASISTENCIA 56 60	Masculino
+T5	CALLE 63 80	Calle de Bravo Murillo 58
+T6	TERRITORIO 83 93	Orense
+T7	TERRITORIO 95 101	Santa Cruz de Tenerife
+T8	TERRITORIO 103 111	Canarias
+T9	TERRITORIO 113 119	38172
+T10	CORREO_ELECTRONICO 122 144	christian-calvo.molina@ual.es
+T11	NUMERO_TELEFONO 146 158	+34 922 92 46 18
+T12	NUMERO_TELEFONO 160 172	+34 622 90 61 68
+T13	ID_SUJETO_ASISTENCIA 175 182	8179427
+T14	ID_CONTACTO_ASISTENCIAL 185 192	209104432091
+T15	CONDICION_RIESGO 195 213	Estudiante de posgrado
+T16	NOMBRE_PERSONAL_SANITARIO 217 241	Magdalena Ibáñez Arroyo
+T17	ID_TITULACION_PERSONAL_SANITARIO 244 255	428101765
+T18	PROFESION 257 262	Cardióloga
+T19	TERRITORIO 265 271	Unidad de Cuidados Intensivos
+T20	NOMBRE_INSTITUCION 274 294	Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)
+T21	CALLE 307 323	Avenida de Córdoba, s/n
+T22	TERRITORIO 325 331	28041
+T23	TERRITORIO 333 339	Madrid
+T24	TERRITORIO 341 347	España
+T25	FECHAS 349 359	29/12/2011
+T26	ID_EPISODIO 361 369	01691686
+T27	NOMBRE_INSTITUCION 371 393	Hospital Universitario Virgen del Rocío
+T28	IDENTIF_VEHICULOS_NRSERIE_PLACAS 396 406	3245ZMB
+T29	MARCA_VEHICULO 408 414	Mazda
+T30	MODELO_VEHICULO 416 424	CX-5
+T31	IDENTIF_DISPOSITIVOS_NRSERIE 426 436	VSQ401KFPTO158829
+T32	INFORME_CLINICO 439 456	Paciente fumador de 38 años de edad, acompañado de su compañero de estudio, que refiere una serie de síntomas respiratorios, como tos seca y dificultad para respirar, que comenzaron hace unos días. El paciente tiene una historia de hipertensión arterial y colesterol elevado, y actualmente está tomando medicación para controlar estos problemas.
+T33	INFORME_CLINICO 458 479	Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 70%); plaquetas 250.000/mm3. VSG: 15 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 1,2 mg/dl; sodio 140 mEq/l; potasio 4,2 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 120 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+T34	INFORME_CLINICO 480 501	Se solicitan pruebas diagnósticas, incluyendo una radiografía de tórax, una ecografía pulmonar y una tomografía computarizada de tórax, para evaluar la causa de los síntomas respiratorios del paciente.

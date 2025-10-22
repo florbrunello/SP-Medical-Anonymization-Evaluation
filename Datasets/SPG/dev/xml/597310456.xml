@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Sebastián Valero Hernández
+DNI: 45847993T
+Fecha de nacimiento: 11/01/1935
+Género: Masculino
+Domicilio: Calle de la Virgen de los Peligros 19, 9Q
+Ciudad: Lleida, Albacete, Castilla-La Mancha
+Código postal: 02717
+Email: valero@gmail.com
+Teléfono fijo: +34 967 89 41 43
+FAX: +34 967 56 06 18
+NHC: 2003340
+
+Datos asistenciales.
+Médico: Dr. Juan Miguel Ferrer Rodríguez. NC 226876415. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 17/06/1993
+Episodio: 26781920
+Hospital: Complejo Asistencial Universitario de León
+
+Informe clínico del paciente:
+Paciente musulman de 58 años de edad, acompañado de su compañero de trabajo. Se registró una sesión de firma biométrica, el código obtenido para revisarla es OZ666JHG921. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es UE469FMM321. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Sebastián" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="54" text="Valero Hernández" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="60" end="69" text="45847993T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="91" end="101" text="11/01/1935" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="110" end="119" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="131" end="172" text="Calle de la Virgen de los Peligros 19, 9Q" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="181" end="187" text="Lleida" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="189" end="197" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="199" end="217" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="233" end="238" text="02717" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="246" end="262" text="valero@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="278" end="294" text="+34 967 89 41 43" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="300" end="316" text="+34 967 56 06 18" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="322" end="329" text="2003340" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T15" start="364" end="392" text="Juan Miguel Ferrer Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T16" start="397" end="406" text="226876415" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="408" end="448" text="Investigador Clínico en Medicina Interna" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T18" start="450" end="517" text="Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T19" start="519" end="546" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T20" start="548" end="553" text="14004" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T21" start="555" end="562" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="564" end="570" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T23" start="590" end="600" text="17/06/1993" TYPE="FECHAS" comment=""/>
+        <ID id="T24" start="611" end="619" text="26781920" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T25" start="630" end="672" text="Complejo Asistencial Universitario de León" TYPE="HOSPITAL" comment=""/>
+        <OTHER id="T26" start="713" end="721" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T27" start="725" end="732" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T28" start="759" end="768" text="compañero" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T29" start="862" end="873" text="OZ666JHG921" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T30" start="956" end="967" text="UE469FMM321" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

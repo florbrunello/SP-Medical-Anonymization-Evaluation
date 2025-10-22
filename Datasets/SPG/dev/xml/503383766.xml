@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Rosa Gallardo Padilla
+DNI: 15097766Z
+Fecha de nacimiento: 24/02/1963
+Género: M
+Domicilio: Calle de la Luna 74, 10H
+Ciudad: Novelda, Castellón, Comunidad Valenciana
+Código postal: 12215
+Email: mariarosa-padilla@yahoo.com
+Teléfono fijo: +34 964 93 13 47
+Teléfono móvil: +34 764 64 40 20
+NHC: 7382626
+Condición de riesgo: Plomero
+
+Datos asistenciales.
+Médico: Dr. José Antonio Bueno Medina. NC 049188204. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/10/2007
+Episodio: 85206803
+Centro de salud: Centro de Salud Chamartín
+
+Informe clínico del paciente:
+Paciente musulman de 44 años de edad. Se registró una sesión de huella dactilar, el código obtenido para revisarla es WV837IKJ493. Se registró una sesión de firma biométrica, el código obtenido para revisarla es WC404YRH221. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="38" text="María Rosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="39" end="55" text="Gallardo Padilla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="15097766Z" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="24/02/1963" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="112" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="124" end="148" text="Calle de la Luna 74, 10H" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="164" text="Novelda" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="175" text="Castellón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="197" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="12215" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="253" text="mariarosa-padilla@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="269" end="285" text="+34 964 93 13 47" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="302" end="318" text="+34 764 64 40 20" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="324" end="331" text="7382626" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <PROFESSION id="T15" start="353" end="360" text="Plomero" TYPE="PROFESION" comment=""/>
+        <NAME id="T16" start="395" end="420" text="José Antonio Bueno Medina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="425" end="434" text="049188204" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="436" end="471" text="Neurólogo Especialista en Alzheimer" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="473" end="562" text="Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="564" end="593" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="595" end="600" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="602" end="608" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="610" end="616" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="636" end="646" text="24/10/2007" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="657" end="665" text="85206803" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="683" end="708" text="Centro de Salud Chamartín" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="749" end="757" text="musulman" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="761" end="768" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T29" start="858" end="869" text="WV837IKJ493" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T30" start="952" end="963" text="WC404YRH221" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

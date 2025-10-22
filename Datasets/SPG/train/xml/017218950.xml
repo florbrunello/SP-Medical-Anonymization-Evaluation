@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Aurora Rico Moya
+DNI: 98414164Q
+Fecha de nacimiento: 14/05/2000
+Género: F
+Domicilio: Calle de Valverde 86
+Ciudad: Lorca, Valladolid, Castilla y León
+Código postal: 47754
+Email: XDUUBTaBLusV2o17@us.es
+Teléfono fijo: +34 983 31 77 38
+FAX: +34 983 95 95 12
+NHC: 6567818
+NASS: 761658960935
+Condición de riesgo: Microbiólogo
+
+Datos asistenciales.
+Médico: Dra. Vanessa Ferrer Iglesias. NC 391408568. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 20/08/2005
+Episodio: 10812134
+Centro de salud: Centro de Salud Sevilla Este
+
+Informe clínico del paciente:
+Paciente vegetariano de 5 años de edad, acompañado de su abuela. El servidor para envío de información desde cual el usuario se comunica es smtp://example-dermatology.org. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Aurora" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="44" text="Rico Moya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="50" end="59" text="98414164Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="81" end="91" text="14/05/2000" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="100" end="101" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="113" end="133" text="Calle de Valverde 86" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="142" end="147" text="Lorca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="149" end="159" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="161" end="176" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="192" end="197" text="47754" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="205" end="227" text="XDUUBTaBLusV2o17@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="243" end="259" text="+34 983 31 77 38" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="265" end="281" text="+34 983 95 95 12" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="287" end="294" text="6567818" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="301" end="313" text="761658960935" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="335" end="347" text="Microbiólogo" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="595" end="605" text="20/08/2005" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="616" end="624" text="10812134" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="642" end="670" text="Centro de Salud Sevilla Este" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T20" start="711" end="722" text="vegetariano" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="726" end="732" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="759" end="765" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T23" start="842" end="868" text="smtp://example-dermatology" TYPE="URL_WEB" comment=""/>
+    </TAGS>
+</MEDDOCAN>

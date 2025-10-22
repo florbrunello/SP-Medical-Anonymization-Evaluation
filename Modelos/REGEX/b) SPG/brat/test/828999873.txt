@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Aarón Conde Del Rio
+DNI: 80510613X
+Fecha de nacimiento: 08/08/2018
+Género: M
+Domicilio: Calle Gran Vía 43, 5T
+Ciudad: Vilanova i la Geltrú, Ávila, Castilla y León
+Código postal: 05369
+Email: conde_delrio@udc.es
+Teléfono fijo: +34 920 85 32 59
+Teléfono móvil: +34 720 37 90 26
+NHC: 6673406
+NASS: 228797461943
+
+Datos asistenciales.
+Médico: Dra. Blanca Ferrer Villar. NC 959814772. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/05/2023
+Episodio: 43138955
+Hospital: Complejo Hospitalario Universitario de Cartagena
+
+Informe clínico del paciente:
+Paciente vegano de 4 años de edad, acompañado de su abuela. Se realizó un expediente con URL http://example-biotech.com//63326176N. 

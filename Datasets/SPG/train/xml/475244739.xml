@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: María Soledad Merino Sierra
+DNI: 30596870Q
+Fecha de nacimiento: 23/08/1985
+Género: Femenino
+Domicilio: Calle de los Embajadores 71, 9D
+Ciudad: San Fernando, Jaén, Andalucía
+Código postal: 23665
+Email: mariasoledad-merino@ciberisciii.es
+Teléfono fijo: +34 953 54 65 54
+FAX: +34 953 84 96 61
+NHC: 6869713
+NASS: 294349683375
+Condición de riesgo: Químico
+
+Datos asistenciales.
+Médico: Dr. Oliver Aguilera Vidal. NC 420881895. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 29/07/1994
+Episodio: 48218228
+Hospital: Hospital Universitario La Paz
+Matrícula del coche: 2494YYT
+Modelo: Tesla Model 3
+VIN: VSAWN7E4IWC593782
+
+Informe clínico del paciente:
+Paciente transeúnte de 8 años de edad, acompañado de su abuela. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="41" text="María Soledad" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="42" end="55" text="Merino Sierra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="61" end="70" text="30596870Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="92" end="102" text="23/08/1985" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="111" end="119" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="131" end="162" text="Calle de los Embajadores 71, 9D" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="171" end="183" text="San Fernando" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="185" end="189" text="Jaén" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="191" end="200" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="216" end="221" text="23665" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="229" end="263" text="mariasoledad-merino@ciberisciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="279" end="295" text="+34 953 54 65 54" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="301" end="317" text="+34 953 84 96 61" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="323" end="330" text="6869713" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="337" end="349" text="294349683375" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="371" end="378" text="Químico" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="413" end="434" text="Oliver Aguilera Vidal" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="439" end="448" text="420881895" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="450" end="493" text="Cardiólogo de Unidad de Cuidados Intensivos" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="495" end="567" text="Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="569" end="592" text="Avenida de Córdoba, s/n" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="594" end="599" text="28041" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="601" end="607" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="609" end="615" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="635" end="645" text="29/07/1994" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="656" end="664" text="48218228" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="675" end="704" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="726" end="733" text="2494YYT" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="761" end="778" text="VSAWN7E4IWC593782" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="819" end="829" text="transeúnte" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="833" end="839" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="866" end="872" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

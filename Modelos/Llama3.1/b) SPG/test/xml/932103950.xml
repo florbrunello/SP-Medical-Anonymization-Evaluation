@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Ainhoa</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Hernández</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Marcos</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">96484072S</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">17/09/1996</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">F</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de los Embajadores</TAG> <TAG TYPE="NUMERO">6</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Alcázar de San Juan</TAG>, <TAG TYPE="TERRITORIO">Almería</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">04507</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">ainhoahernandez1956@protonmail.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 950 15 52 35</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 650 52 77 98</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6831364</TAG>
+    NASS: <TAG TYPE="ID_ASEGURAMIENTO">992520919214</TAG>
+    Condición de riesgo: 
+    Datos asistenciales.
+    Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Pablo Valero Villanueva</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">327923944</TAG>. <TAG TYPE="PROFESION">Residente de 3° año en Oftalmología</TAG>. <TAG TYPE="INSTITUCION">Instituto Universitario de Oftalmobiología Aplicada (IOBA)</TAG>. <TAG TYPE="CALLE">Avenida Ramón y Cajal</TAG>, <TAG TYPE="NUMERO">7</TAG>. <TAG TYPE="TERRITORIO">47011</TAG>. <TAG TYPE="TERRITORIO">Valladolid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">20/03/2008</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">23214508</TAG>
+    Hospital: <TAG TYPE="HOSPITAL">Hospital Universitario Rey Juan Carlos de Mostoles</TAG>
+    Matrícula del coche: <TAG TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS">2300BXK</TAG>
+    Modelo: <TAG TYPE="OTROS_SUJETO_ASISTENCIA">Hyundai Elantra</TAG>
+    VIN: <TAG TYPE="IDENTIF_DISPOSITIVOS_NRSERIE">VSSTYU63Y6X350583</TAG>
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">no fumador</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">11 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">abuela</TAG>. Se realizó un <TAG TYPE="OTROS_SUJETO_ASISTENCIA">expediente</TAG> con <TAG TYPE="URL_WEB">http://example-research.net//63958658E</TAG>.
+  </TEXT>
+</MEDDOCAN>

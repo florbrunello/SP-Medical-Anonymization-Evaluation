@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Andrea</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Jurado</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Escudero</TAG>
+    DNI: <TAG TYPE="OTRO_NUMERO_IDENTIF">88589331R</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">07/08/1966</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Mujer</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Lavapiés 47</TAG>
+    Ciudad: <TAG TYPE="TERRITORIO">Vitoria</TAG>, <TAG TYPE="TERRITORIO">Málaga</TAG>, <TAG TYPE="TERRITORIO">Andalucía</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">29088</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">andrea.juradoescudero@yahoo.com</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 951 60 46 94</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 651 36 48 91</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">8832054</TAG>
+    Datos asistenciales.
+    Médico: <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Dr.</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Bruno</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Morales</TAG> <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Gutiérrez</TAG>. <TAG TYPE="PROFESION">NC</TAG> <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">284988211</TAG>. <TAG TYPE="PROFESION">Investigador Clínico en Epidemiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">17/04/1984</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Tetuán</TAG>
+    Informe clínico del paciente:
+    Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">tez blanca</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">57 años</TAG> de edad, acompañado de su marido.
+    Antecedentes:
+    La paciente tiene antecedentes de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">hipertensión arterial</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">diabetes mellitus tipo 2</TAG>, controladas con medicación.
+    Evolución y comentarios:
+    La paciente fue internada con síntomas de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">dolor abdominal</TAG> y <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vómitos</TAG>. La exploración física reveló un abdomen distendido y doloroso, con signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">peritonitis</TAG>. Se realizaron pruebas de imagen y análisis de sangre, que mostraron una inflamación intestinal aguda.
+    Remitido por:
+    El paciente fue remitido por su médico de cabecera, quien sospechaba una infección intestinal.
+    Tratamiento: y pronóstico:
+    Se inició tratamiento con antibióticos y antiinflamatorios, y se realizó una exploración quirúrgica para drenar la infección. La paciente está en proceso de recuperación y se espera una buena evolución.
+    Exploración física:
+    La exploración física reveló un abdomen distendido y doloroso, con signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">peritonitis</TAG>. La paciente estaba febril y tenía signos de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">shock</TAG>.
+    Pruebas diagnósticas:
+    Se realizaron pruebas de imagen (Ecografía abdominal y TAC) y análisis de sangre (Hemograma y bioquímica), que mostraron una inflamación intestinal aguda y una infección sistémica.
+    Tratamiento:
+    Se inició tratamiento con antibióticos (Ceftriaxona y Metronidazol) y antiinflamatorios (Ibuprofeno). Se realizó una exploración quirúrgica para drenar la infección.
+    Pronóstico:
+    La paciente está en proceso de recuperación y se espera una buena evolución. Se le realizarán seguimientos regulares para controlar la evolución de la infección y la respuesta al tratamiento.
+  </TEXT>
+</MEDDOCAN>

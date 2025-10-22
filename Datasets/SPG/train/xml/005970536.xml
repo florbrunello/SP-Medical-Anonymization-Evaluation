@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Alfonso Pacheco Rivero
+DNI: 76616791L
+Fecha de nacimiento: 26/05/1937
+Género: H
+Domicilio: Calle de Ferraz 85, 2B
+Ciudad: Fuenlabrada, Ibiza, Islas Baleares
+Código postal: 07936
+Email: pacheco.rivero@udc.es
+Teléfono fijo: +34 971 62 02 09
+Teléfono móvil: +34 671 61 03 42
+NHC: 2511574
+
+Datos asistenciales.
+Médico: Dra. María Nieves De la Fuente Arias. NC 344119272. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/07/2022
+Episodio: 87169677
+Centro de salud: Centro de Salud Puente de Vallecas
+Matrícula del coche: 0140VCT
+Modelo: Toyota RAV4
+VIN: VSXKQILWJKW040559
+
+Informe clínico del paciente:
+Paciente testigo de Jehová de 85 años de edad. El servidor para envío de información desde cual el usuario se comunica es smtp://example-biotech.com. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es LZ015INQ525. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Alfonso" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="50" text="Pacheco Rivero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="76616791L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="26/05/1937" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="107" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="119" end="141" text="Calle de Ferraz 85, 2B" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="150" end="161" text="Fuenlabrada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="163" end="168" text="Ibiza" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="170" end="184" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="200" end="205" text="07936" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="213" end="234" text="pacheco.rivero@udc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 971 62 02 09" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 671 61 03 42" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="2511574" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T15" start="601" end="611" text="20/07/2022" TYPE="FECHAS" comment=""/>
+        <ID id="T16" start="622" end="630" text="87169677" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T17" start="648" end="682" text="Centro de Salud Puente de Vallecas" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T18" start="704" end="711" text="0140VCT" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T19" start="737" end="754" text="VSXKQILWJKW040559" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T20" start="795" end="812" text="testigo de Jehová" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T21" start="816" end="823" text="85 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T22" start="908" end="930" text="smtp://example-biotech" TYPE="URL_WEB" comment=""/>
+        <ID id="T23" start="1018" end="1029" text="LZ015INQ525" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

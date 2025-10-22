@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Christian González Segura
+DNI: 68320247N
+Fecha de nacimiento: 08/03/1975
+Género: V
+Domicilio: Calle de Bailén 30, 9Z
+Ciudad: Teruel, Cuenca, Castilla-La Mancha
+Código postal: 16778
+Email: christiansegura@ciberned.es
+Teléfono fijo: +34 969 76 57 56
+FAX: +34 969 48 55 41
+NHC: 5122642
+NASS: 608601182145
+Condición de riesgo: Soldado
+
+Datos asistenciales.
+Médico: Dr. Francisco Manuel Tomas Valero. NC 252257383. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/11/2015
+Centro de salud: Centro de Salud Málaga Norte
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 40 años de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es EE956NDP934. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es FD924MSR756. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Christian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="53" text="González Segura" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="59" end="68" text="68320247N" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="90" end="100" text="08/03/1975" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="109" end="110" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="122" end="144" text="Calle de Bailén 30, 9Z" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="159" text="Teruel" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="167" text="Cuenca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="187" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="16778" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="243" text="christiansegura@ciberned.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="259" end="275" text="+34 969 76 57 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="281" end="297" text="+34 969 48 55 41" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="303" end="310" text="5122642" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="317" end="329" text="608601182145" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="351" end="358" text="Soldado" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="393" end="422" text="Francisco Manuel Tomas Valero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="427" end="436" text="252257383" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="438" end="472" text="Residente de 3° año en Psiquiatría" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="474" end="544" text="Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="546" end="575" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="577" end="582" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="584" end="590" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="592" end="598" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="618" end="628" text="27/11/2015" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T26" start="646" end="674" text="Centro de Salud Málaga Norte" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T27" start="718" end="751" text="ascendencia indígena sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T28" start="755" end="762" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T29" start="854" end="865" text="EE956NDP934" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+        <ID id="T30" start="953" end="964" text="FD924MSR756" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Iker Castaño Bravo
+DNI: 69933677S
+Fecha de nacimiento: 08/07/1941
+Género: M
+Domicilio: Calle de Piamonte 4, 1H
+Ciudad: Avilés, Palencia, Castilla y León
+Código postal: 34825
+Email: RXqb8mqOC51261@ciberer.es
+Teléfono fijo: +34 979 84 96 79
+Teléfono móvil: +34 779 67 20 89
+NHC: 3306320
+NASS: 993211738458
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dr. Francisco José Camacho Molina. NC 743511621. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/09/1957
+Episodio: 07736258
+Hospital: Complejo Hospitalario La Mancha Centro
+Matrícula del coche: 7071SOH
+Modelo: Toyota Corolla
+VIN: VSNBAY924XZ536621
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 16 años de edad. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="32" text="Iker" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="33" end="46" text="Castaño Bravo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="52" end="61" text="69933677S" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="83" end="93" text="08/07/1941" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="102" end="103" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="115" end="138" text="Calle de Piamonte 4, 1H" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="153" text="Avilés" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="155" end="163" text="Palencia" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="165" end="180" text="Castilla y León" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="34825" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="234" text="RXqb8mqOC51261@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="250" end="266" text="+34 979 84 96 79" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="283" end="299" text="+34 779 67 20 89" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="305" end="312" text="3306320" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="319" end="331" text="993211738458" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="353" end="359" text="Médico" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="394" end="423" text="Francisco José Camacho Molina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="428" end="437" text="743511621" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="439" end="470" text="Especialista en Genética Médica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="472" end="547" text="Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="549" end="578" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="580" end="585" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="587" end="593" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="595" end="601" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="621" end="631" text="16/09/1957" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="642" end="650" text="07736258" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="661" end="699" text="Complejo Hospitalario La Mancha Centro" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="721" end="728" text="7071SOH" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="757" end="774" text="VSNBAY924XZ536621" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="818" end="851" text="ascendencia indígena sudamericana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="855" end="862" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

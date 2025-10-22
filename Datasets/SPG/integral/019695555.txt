@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Natalia Acosta Soto
+DNI: 84286994K
+Fecha de nacimiento: 10/05/1962
+Género: M
+Domicilio: Calle del Marqués de Cubas 11, 10A
+Ciudad: Lorca, Mallorca, Islas Baleares
+Código postal: 07596
+Email: natalia-acostasoto@icloud.com
+Teléfono fijo: +34 971 67 54 63
+Teléfono móvil: +34 771 06 70 90
+NHC: 3676782
+NASS: 781009073118
+Condición de riesgo: Operador de Equipos Mineros
+
+Datos asistenciales.
+Médico: Dr. Carlos Pascual Molina. NC 769320006. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/09/1994
+Episodio: 71188109
+Hospital: Complejo Hospitalario La Mancha Centro
+
+Informe clínico del paciente:
+Paciente transeúnte de 32 años de edad, acompañado de su compañero de trabajo. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.67.200, con dirección MAC 33:93:E6:D1:D7:C2. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es QK180RDQ548. 

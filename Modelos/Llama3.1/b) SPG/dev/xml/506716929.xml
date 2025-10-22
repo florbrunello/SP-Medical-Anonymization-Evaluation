@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Mercedes</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Beltran</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Montoya</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">68322144T</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">22/08/1952</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de los Embajadores 64</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Ciudad autónoma de Ceuta</TAG>, <TAG TYPE="TERRITORIO">Ceuta</TAG>,
+  Código postal: <TAG TYPE="TERRITORIO">52074</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">mercedes.beltran@hotmail.com</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 956 71 07 50</TAG>
+  FAX: <TAG TYPE="NUMERO_FAX">+34 956 80 63 32</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">6347371</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">329354521318</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Técnico de Laboratorio</TAG>
+  
+  Datos asistenciales.
+  Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Amparo Varela Beltran</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">470629422</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Neuróloga Investigadora en Trastornos Cognitivos</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)</TAG>. <TAG TYPE="CALLE">Avenida de Córdoba, s/n</TAG>. <TAG TYPE="TERRITORIO">28041</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">05/03/2009</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">57734972</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Sevilla Este</TAG>
+  
+  Informe clínico del paciente:
+  Paciente de <TAG TYPE="OTROS_SUJETO_ASISTENCIA">ascendencia asiática occidental</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">56 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hijo</TAG>. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">sesión de reconocimiento facial</TAG>, el <TAG TYPE="OTRO_NUMERO_IDENTIF">código obtenido para revisarla</TAG> es <TAG TYPE="OTRO_NUMERO_IDENTIF">KO906ILU647</TAG>.
+  </TEXT>
+</MEDDOCAN>

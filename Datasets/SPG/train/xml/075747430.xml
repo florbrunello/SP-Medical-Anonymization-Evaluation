@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Clara Soto Ferrer
+DNI: 56185062H
+Fecha de nacimiento: 10/12/1975
+Género: F
+Domicilio: Calle de la Luna 55
+Ciudad: Santander, Granada, Andalucía
+Código postal: 18939
+Email: clara-soto1765@uca.es
+Teléfono fijo: +34 958 88 24 20
+Teléfono móvil: +34 658 90 60 43
+NHC: 2190784
+NASS: 728559860263
+Condición de riesgo: Conductor de Camión
+
+Datos asistenciales.
+Médico: Dra. Laia Segura Paredes. NC 937127912. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/02/1989
+Episodio: 21246782
+Centro de salud: Centro de Salud Málaga Oeste
+Matrícula del coche: 4982EAA
+Modelo: Toyota RAV4
+VIN: VSVKX1P0GRP335462
+
+Informe clínico del paciente:
+Paciente de tez blanca de 13 años de edad, acompañado de su madre. Se registró una sesión de huella dactilar, el código obtenido para revisarla es KD556ANT662. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="33" text="Clara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="34" end="45" text="Soto Ferrer" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="51" end="60" text="56185062H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="82" end="92" text="10/12/1975" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="101" end="102" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="114" end="133" text="Calle de la Luna 55" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="142" end="151" text="Santander" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="153" end="160" text="Granada" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="162" end="171" text="Andalucía" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="187" end="192" text="18939" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="200" end="221" text="clara-soto1765@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="237" end="253" text="+34 958 88 24 20" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="270" end="286" text="+34 658 90 60 43" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="292" end="299" text="2190784" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="306" end="318" text="728559860263" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="340" end="359" text="Conductor de Camión" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="630" end="640" text="02/02/1989" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="651" end="659" text="21246782" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="677" end="705" text="Centro de Salud Málaga Oeste" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T20" start="727" end="734" text="4982EAA" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="760" end="777" text="VSVKX1P0GRP335462" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="821" end="831" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="835" end="842" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="869" end="874" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T25" start="956" end="967" text="KD556ANT662" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

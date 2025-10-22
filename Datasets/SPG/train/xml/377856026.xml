@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Valeria Bueno Lorenzo
+DNI: 22620288H
+Fecha de nacimiento: 05/04/1953
+Género: F
+Domicilio: Calle de Hortaleza 98, 10C
+Ciudad: Girona, Cuenca, Castilla-La Mancha
+Código postal: 16666
+Email: lorenzo@isciii.es
+Teléfono fijo: +34 969 63 38 40
+Teléfono móvil: +34 669 39 30 56
+NHC: 7223702
+NASS: 544313694268
+
+Datos asistenciales.
+Médico: Dr. Alejandro Soler González. NC 039011636. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/08/2021
+Hospital: Hospital Universitario Infanta Leonor
+Matrícula del coche: 8411UYA
+Modelo: Hyundai Elantra
+VIN: VSEW182D52I739862
+
+Informe clínico del paciente:
+Paciente de ascendencia oceánica de 68 años de edad, acompañado de su padre. Se registró una sesión de firma biométrica, el código obtenido para revisarla es GX395SZQ676. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="35" text="Valeria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="36" end="49" text="Bueno Lorenzo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="55" end="64" text="22620288H" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="86" end="96" text="05/04/1953" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="105" end="106" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="118" end="144" text="Calle de Hortaleza 98, 10C" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="153" end="159" text="Girona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="161" end="167" text="Cuenca" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="169" end="187" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="203" end="208" text="16666" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="216" end="233" text="lorenzo@isciii.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="249" end="265" text="+34 969 63 38 40" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="282" end="298" text="+34 669 39 30 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="304" end="311" text="7223702" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="318" end="330" text="544313694268" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="365" end="389" text="Alejandro Soler González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="394" end="403" text="039011636" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="405" end="439" text="Residente de 4° año en Cardiología" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="441" end="527" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="529" end="558" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="560" end="565" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="567" end="573" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="575" end="581" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="601" end="611" text="20/08/2021" TYPE="FECHAS" comment=""/>
+        <LOCATION id="T25" start="622" end="659" text="Hospital Universitario Infanta Leonor" TYPE="HOSPITAL" comment=""/>
+        <ID id="T26" start="681" end="688" text="8411UYA" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T27" start="718" end="735" text="VSEW182D52I739862" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T28" start="779" end="799" text="ascendencia oceánica" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="803" end="810" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="837" end="842" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T31" start="925" end="936" text="GX395SZQ676" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Christian Roldan Marti
+DNI: 58673108Q
+Fecha de nacimiento: 21/12/1961
+Género: Masculino
+Domicilio: Calle de Ferraz 6, 2B
+Ciudad: San Sebastián, Formentera, Islas Baleares
+Código postal: 07004
+Email: christian_roldan1030@uca.es
+Teléfono fijo: +34 971 84 93 16
+Teléfono móvil: +34 671 91 60 29
+NHC: 0487138
+NASS: 190211718057
+Condición de riesgo: Carpintero
+
+Datos asistenciales.
+Médico: Dra. Josefa Blazquez Pardo. NC 579742834. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/09/1975
+Episodio: 15959265
+Hospital: Hospital Universitario de Crúces
+Matrícula del coche: 6423BKD
+Modelo: Toyota Corolla
+VIN: VSV6AKEMTVW987441
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 13 años de edad, acompañado de su madre. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="37" text="Christian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="38" end="50" text="Roldan Marti" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="58673108Q" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="21/12/1961" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="115" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="127" end="148" text="Calle de Ferraz 6, 2B" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="157" end="170" text="San Sebastián" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="182" text="Formentera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="184" end="198" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="214" end="219" text="07004" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="227" end="254" text="christian_roldan1030@uca.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="270" end="286" text="+34 971 84 93 16" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="303" end="319" text="+34 671 91 60 29" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="325" end="332" text="0487138" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="339" end="351" text="190211718057" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="373" end="383" text="Carpintero" TYPE="PROFESION" comment=""/>
+        <DATE id="T17" start="647" end="657" text="28/09/1975" TYPE="FECHAS" comment=""/>
+        <ID id="T18" start="668" end="676" text="15959265" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T19" start="687" end="719" text="Hospital Universitario de Crúces" TYPE="HOSPITAL" comment=""/>
+        <ID id="T20" start="741" end="748" text="6423BKD" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T21" start="777" end="794" text="VSV6AKEMTVW987441" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T22" start="835" end="852" text="usuario de drogas" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T23" start="856" end="863" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T24" start="890" end="895" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

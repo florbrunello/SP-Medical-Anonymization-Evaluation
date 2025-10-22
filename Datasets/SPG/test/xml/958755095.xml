@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Carlos Bravo Beltran
+DNI: 13941417J
+Fecha de nacimiento: 27/03/1998
+Género: V
+Domicilio: Calle del Doctor Esquerdo 70, 4O
+Ciudad: Dos Hermanas, Albacete, Castilla-La Mancha
+Código postal: 02071
+Email: carlos-bravo1110@h12o.es
+Teléfono fijo: +34 967 37 48 22
+Teléfono móvil: +34 667 47 10 37
+NHC: 8525068
+NASS: 934362071997
+Condición de riesgo: Trabajador de la Construcción
+
+Datos asistenciales.
+Médico: Dr. Iker Herrero Suárez. NC 408060809. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/11/1998
+Episodio: 34974687
+Centro de salud: Centro de Salud Móstoles
+
+Informe clínico del paciente:
+Paciente no fumador de 7 meses de edad, acompañado de su abuelo. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Carlos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="48" text="Bravo Beltran" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="54" end="63" text="13941417J" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="85" end="95" text="27/03/1998" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="104" end="105" text="V" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="117" end="149" text="Calle del Doctor Esquerdo 70, 4O" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="158" end="170" text="Dos Hermanas" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="172" end="180" text="Albacete" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="182" end="200" text="Castilla-La Mancha" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="216" end="221" text="02071" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="229" end="253" text="carlos-bravo1110@h12o.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="269" end="285" text="+34 967 37 48 22" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="302" end="318" text="+34 667 47 10 37" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="324" end="331" text="8525068" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="338" end="350" text="934362071997" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="372" end="401" text="Trabajador de la Construcción" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="436" end="455" text="Iker Herrero Suárez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="460" end="469" text="408060809" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="471" end="526" text="Gastroenterólogo Especialista en Enfermedades Hepáticas" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="528" end="621" text="Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="623" end="652" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="654" end="659" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="661" end="667" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="669" end="675" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="695" end="705" text="18/11/1998" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="716" end="724" text="34974687" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="742" end="766" text="Centro de Salud Móstoles" TYPE="CENTRO_SALUD" comment=""/>
+        <OTHER id="T28" start="807" end="817" text="no fumador" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T29" start="821" end="828" text="7 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T30" start="855" end="861" text="abuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    </TAGS>
+</MEDDOCAN>

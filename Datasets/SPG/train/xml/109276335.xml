@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gerard Guerrero Martín
+DNI: 77233149T
+Fecha de nacimiento: 13/05/2004
+Género: Varón
+Domicilio: Calle de los Jardines 73
+Ciudad: Pamplona, Castellón, Comunidad Valenciana
+Código postal: 12461
+Email: gerard-martin@ciberer.es
+Teléfono fijo: +34 964 02 47 56
+Teléfono móvil: +34 664 13 00 91
+NHC: 8960907
+NASS: 020318865495
+Condición de riesgo: Carpintero
+
+Datos asistenciales.
+Médico: Dr. Jaime Abad Suárez. NC 560906743. Investigador Clínico en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/08/2006
+Episodio: 71723644
+Hospital: Hospital General Universitario Reina Sofía
+Matrícula del coche: 8134PWM
+Modelo: Ford Mustang
+VIN: VSUHGWA0M7L309599
+
+Informe clínico del paciente:
+Paciente de tez blanca de 2 años de edad, acompañado de su abuela. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.241.158, con dirección MAC 75:24:6D:D9:33:86. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="34" text="Gerard" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="35" end="50" text="Guerrero Martín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="56" end="65" text="77233149T" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="87" end="97" text="13/05/2004" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="106" end="111" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="123" end="147" text="Calle de los Jardines 73" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="156" end="164" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="166" end="175" text="Castellón" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="177" end="197" text="Comunidad Valenciana" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="213" end="218" text="12461" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="226" end="250" text="gerard-martin@ciberer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="266" end="282" text="+34 964 02 47 56" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="299" end="315" text="+34 664 13 00 91" TYPE="NUMERO_TELEFONO" comment=""/>
+        <ID id="T14" start="321" end="328" text="8960907" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="335" end="347" text="020318865495" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <PROFESSION id="T16" start="369" end="379" text="Carpintero" TYPE="PROFESION" comment=""/>
+        <NAME id="T17" start="414" end="431" text="Jaime Abad Suárez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="436" end="445" text="560906743" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T19" start="447" end="493" text="Investigador Clínico en Insuficiencia Cardíaca" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T20" start="495" end="581" text="Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T21" start="583" end="612" text="Avenida Monforte de Lemos 3-5" TYPE="CALLE" comment=""/>
+        <LOCATION id="T22" start="614" end="619" text="28029" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="621" end="627" text="Madrid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T24" start="629" end="635" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T25" start="655" end="665" text="30/08/2006" TYPE="FECHAS" comment=""/>
+        <ID id="T26" start="676" end="684" text="71723644" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T27" start="695" end="737" text="Hospital General Universitario Reina Sofía" TYPE="HOSPITAL" comment=""/>
+        <ID id="T28" start="759" end="766" text="8134PWM" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T29" start="793" end="810" text="VSUHGWA0M7L309599" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T30" start="854" end="864" text="tez blanca" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T31" start="868" end="874" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T32" start="901" end="907" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T33" start="1016" end="1033" text="75:24:6D:D9:33:86" TYPE="DIREC_PROT_INTERNET" comment=""/>
+    </TAGS>
+</MEDDOCAN>

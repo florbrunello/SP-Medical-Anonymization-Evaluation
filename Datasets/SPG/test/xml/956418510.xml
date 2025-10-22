@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<MEDDOCAN>
+    <TEXT><![CDATA[Datos del paciente.
+Nombre: Gregorio Domínguez Sanz
+DNI: 13146313L
+Fecha de nacimiento: 25/11/2024
+Género: M
+Domicilio: Calle de la Paz 18
+Ciudad: Parla, Formentera, Islas Baleares
+Código postal: 07811
+Email: gregorio_dominguez-sanz@aol.com
+Teléfono fijo: +34 971 06 10 12
+FAX: +34 971 66 41 42
+NHC: 8121629
+NASS: 885894042801
+
+Datos asistenciales.
+Médico: Dr. Aarón Segura Alonso. NC 942302062. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 92624595
+Centro de salud: Centro de Salud Málaga Sur
+Matrícula del coche: 1587GBA
+Modelo: BMW 3 Series
+VIN: VSZ6F012EGK988655
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena americana de 3 meses de edad, acompañado de su abuela. Se registró una sesión de firma biométrica, el código obtenido para revisarla es PY034UZU912. ]]></TEXT>
+    <TAGS>
+        <NAME id="T1" start="28" end="36" text="Gregorio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <NAME id="T2" start="37" end="51" text="Domínguez Sanz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T3" start="57" end="66" text="13146313L" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <DATE id="T4" start="88" end="98" text="25/11/2024" TYPE="FECHAS" comment=""/>
+        <OTHER id="T5" start="107" end="108" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+        <LOCATION id="T6" start="120" end="138" text="Calle de la Paz 18" TYPE="CALLE" comment=""/>
+        <LOCATION id="T7" start="147" end="152" text="Parla" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T8" start="154" end="164" text="Formentera" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T9" start="166" end="180" text="Islas Baleares" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T10" start="196" end="201" text="07811" TYPE="TERRITORIO" comment=""/>
+        <CONTACT id="T11" start="209" end="240" text="gregorio_dominguez-sanz@aol.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+        <CONTACT id="T12" start="256" end="272" text="+34 971 06 10 12" TYPE="NUMERO_TELEFONO" comment=""/>
+        <CONTACT id="T13" start="278" end="294" text="+34 971 66 41 42" TYPE="NUMERO_FAX" comment=""/>
+        <ID id="T14" start="300" end="307" text="8121629" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T15" start="314" end="326" text="885894042801" TYPE="ID_ASEGURAMIENTO" comment=""/>
+        <NAME id="T16" start="361" end="380" text="Aarón Segura Alonso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T17" start="385" end="394" text="942302062" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+        <ID id="T18" start="396" end="440" text="Investigador Principal en Optometría Clínica" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+        <LOCATION id="T19" start="442" end="500" text="Instituto Universitario de Oftalmobiología Aplicada (IOBA)" TYPE="INSTITUCION" comment=""/>
+        <LOCATION id="T20" start="502" end="526" text="Avenida Ramón y Cajal, 7" TYPE="CALLE" comment=""/>
+        <LOCATION id="T21" start="528" end="533" text="47011" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T22" start="535" end="545" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+        <LOCATION id="T23" start="547" end="553" text="España" TYPE="PAIS" comment=""/>
+        <DATE id="T24" start="573" end="583" text="09/03/2025" TYPE="FECHAS" comment=""/>
+        <ID id="T25" start="594" end="602" text="92624595" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+        <LOCATION id="T26" start="620" end="646" text="Centro de Salud Málaga Sur" TYPE="CENTRO_SALUD" comment=""/>
+        <ID id="T27" start="668" end="675" text="1587GBA" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <ID id="T28" start="702" end="719" text="VSZ6F012EGK988655" TYPE="IDENTIF_VEHICULOS_NRSERIE_PLACAS" comment=""/>
+        <OTHER id="T29" start="763" end="793" text="ascendencia indígena americana" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+        <AGE id="T30" start="797" end="804" text="3 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+        <OTHER id="T31" start="831" end="837" text="abuela" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+        <ID id="T32" start="920" end="931" text="PY034UZU912" TYPE="IDENTIF_BIOMETRICOS" comment=""/>
+    </TAGS>
+</MEDDOCAN>

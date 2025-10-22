@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+    Datos del paciente.
+    Nombre: <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Blanca</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Reyes</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Robles</TAG>
+    DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">20719097F</TAG>
+    Fecha de nacimiento: <TAG TYPE="FECHAS">23/12/1963</TAG>
+    Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">Femenino</TAG>
+    Domicilio: <TAG TYPE="CALLE">Calle de Ibiza 72</TAG>.
+    Ciudad: <TAG TYPE="TERRITORIO">Onda</TAG>, <TAG TYPE="TERRITORIO">La Coruña</TAG>, <TAG TYPE="TERRITORIO">Galicia</TAG>
+    Código postal: <TAG TYPE="TERRITORIO">15288</TAG>
+    Email: <TAG TYPE="CORREO_ELECTRONICO">reyes-robles@salud.madrid.org</TAG>
+    Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 981 59 68 88</TAG>
+    Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 781 39 84 33</TAG>
+    NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">3912144</TAG>
+    Condición de riesgo: <TAG TYPE="PROFESION">Paramédico</TAG>
+    
+    Datos asistenciales.
+    Médico: Dra. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Inés Soto Benito</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">426355949</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Residente de 4° año en Medicina Interna</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+    Fecha de ingreso: <TAG TYPE="FECHAS">09/10/1987</TAG>
+    Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">83696914</TAG>
+    Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Benalmádena</TAG>
+    
+    Informe clínico del paciente:
+    Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">23 años</TAG> de edad. Se registró una <TAG TYPE="OTRO_NUMERO_IDENTIF">consulta virtual</TAG> desde la <TAG TYPE="DIREC_PROT_INTERNET">dirección IP (en red interna)</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">192.168.130.8</TAG>, con <TAG TYPE="IDENTIF_BIOMETRICOS">dirección MAC</TAG> <TAG TYPE="OTRO_NUMERO_IDENTIF">86:88:59:20:0F:6B</TAG>.
+  </TEXT>
+</MEDDOCAN>

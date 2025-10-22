@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT>
+  Datos del paciente.
+  Nombre:  <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Tamara</TAG> <TAG TYPE="NOMBRE_SUJETO_ASISTENCIA">Castillo Ramírez</TAG>
+  DNI: <TAG TYPE="ID_SUJETO_ASISTENCIA">50875687D</TAG>
+  Fecha de nacimiento: <TAG TYPE="FECHAS">31/10/1976</TAG>
+  Género: <TAG TYPE="SEXO_SUJETO_ASISTENCIA">M</TAG>
+  Domicilio: <TAG TYPE="CALLE">Calle de la Princesa 27</TAG>.
+  Ciudad: <TAG TYPE="TERRITORIO">Ibiza</TAG>, <TAG TYPE="TERRITORIO">Mallorca</TAG>, <TAG TYPE="TERRITORIO">Islas Baleares</TAG>
+  Código postal: <TAG TYPE="TERRITORIO">07238</TAG>
+  Email: <TAG TYPE="CORREO_ELECTRONICO">ramirez@ciberehd.org</TAG>
+  Teléfono fijo: <TAG TYPE="NUMERO_TELEFONO">+34 971 24 57 30</TAG>
+  Teléfono móvil: <TAG TYPE="NUMERO_TELEFONO">+34 671 10 22 65</TAG>
+  NHC: <TAG TYPE="ID_SUJETO_ASISTENCIA">7950440</TAG>
+  NASS: <TAG TYPE="ID_ASEGURAMIENTO">990518549622</TAG>
+  Condición de riesgo: <TAG TYPE="PROFESION">Trabajador Agrícola</TAG>
+  
+  Datos asistenciales.
+  Médico: Dr. <TAG TYPE="NOMBRE_PERSONAL_SANITARIO">Juan Antonio Andres Costa</TAG>. NC <TAG TYPE="ID_TITULACION_PERSONAL_SANITARIO">348426192</TAG>. <TAG TYPE="ID_EMPLEO_PERSONAL_SANITARIO">Investigador Clínico en Epidemiología</TAG>. <TAG TYPE="INSTITUCION">Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC)</TAG>. <TAG TYPE="CALLE">Avenida Monforte de Lemos 3-5</TAG>. <TAG TYPE="TERRITORIO">28029</TAG>. <TAG TYPE="TERRITORIO">Madrid</TAG>. <TAG TYPE="PAIS">España</TAG>.
+  Fecha de ingreso: <TAG TYPE="FECHAS">21/01/1992</TAG>
+  Episodio: <TAG TYPE="ID_CONTACTO_ASISTENCIAL">00460225</TAG>
+  Centro de salud: <TAG TYPE="CENTRO_SALUD">Centro de Salud Tetuán</TAG>
+  
+  Informe clínico del paciente:
+  Paciente <TAG TYPE="OTROS_SUJETO_ASISTENCIA">vegetariano</TAG> de <TAG TYPE="EDAD_SUJETO_ASISTENCIA">15 años</TAG> de edad, acompañado de su <TAG TYPE="FAMILIARES_SUJETO_ASISTENCIA">hermana</TAG>.
+  </TEXT>
+</MEDDOCAN>

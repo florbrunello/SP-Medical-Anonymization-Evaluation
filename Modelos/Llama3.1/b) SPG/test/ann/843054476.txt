@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Gema Castro Ruiz
+DNI: 52899090X
+Fecha de nacimiento: 16/02/1990
+Género: Femenino
+Domicilio: Calle de San Millán 4, 8A
+Ciudad: Alcázar de San Juan, Valladolid, Castilla y León
+Código postal: 47224
+Email: gema464@protonmail.com
+Teléfono fijo: +34 983 19 91 80
+Teléfono móvil: +34 783 03 86 21
+NHC: 8260300
+NASS: 929191855912
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dra. Concepción Soto Merino. NC 809841125. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/11/2012
+Episodio: 00243015
+Hospital: Hospital General Universitario Reina Sofía
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 22 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.255.245, con dirección MAC 16:C2:9D:5A:D9:51. 
