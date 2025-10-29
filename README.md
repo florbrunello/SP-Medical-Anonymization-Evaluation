@@ -60,3 +60,9 @@ Para generar matrices de confusión globales:
 cd Modelos/Scripts
 python3 confusion_matrix_generator_global.py [MODELO] --partition [dev/test/both]
 ```
+
+## Licencia
+
+Este proyecto está licenciado bajo **CC0 1.0 Universal** (Creative Commons Zero) - consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+La licencia CC0 permite el uso, modificación y distribución libre del código sin restricciones, dedicando efectivamente el trabajo al dominio público.
