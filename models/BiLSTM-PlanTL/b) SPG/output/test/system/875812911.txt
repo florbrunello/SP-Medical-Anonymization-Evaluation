@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Moisés Exposito Villar
+DNI: 34803767Y
+Fecha de nacimiento: 09/03/2025
+Género: V
+Domicilio: Calle de Miguel Ángel 42
+Ciudad: Elche, Huesca, Aragón
+Código postal: 22872
+Email: moises752@ciberer.es
+Teléfono fijo: +34 974 28 67 69
+Teléfono móvil: +34 774 07 88 03
+NHC: 9274670
+NASS: 530928979932
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dra. María Jesús Mora Abad. NC 837171611. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 69836455
+Centro de salud: Centro de Salud Collado Villalba
+Matrícula del coche: 1991WNB
+Modelo: Nissan Altima
+VIN: VSKU9WW379G794371
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 0 meses de edad, acompañado de su hermana. Se realizó un expediente con URL http://example-cardiology.com//78533406Y. 

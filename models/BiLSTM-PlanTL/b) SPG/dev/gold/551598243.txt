@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Juan José Martínez Herrera
+DNI: 56298589V
+Fecha de nacimiento: 26/09/1972
+Género: M
+Domicilio: Calle del Gobernador 41
+Ciudad: Teruel, Almería, Andalucía
+Código postal: 04684
+Email: wzStJm5fErB@ub.edu
+Teléfono fijo: +34 950 48 03 93
+Teléfono móvil: +34 650 95 14 58
+NHC: 1670945
+NASS: 019184534118
+Condición de riesgo: Técnico de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. José Luis Manzano Moya. NC 030582971. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/11/1983
+Episodio: 25525269
+Hospital: Hospital Universitario de Crúces
+Matrícula del coche: 0289DJH
+Modelo: Audi A4
+VIN: VSWZZT5HD0B874763
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 11 años de edad, acompañado de su tía. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es FD665GEN105. 

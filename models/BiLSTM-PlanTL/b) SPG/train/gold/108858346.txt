@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Marcos Cabrera Bueno
+DNI: 50746142T
+Fecha de nacimiento: 26/08/2023
+Género: Varón
+Domicilio: Calle del Marqués de Urquijo 40
+Ciudad: Talavera de la Reina, Castellón, Comunidad Valenciana
+Código postal: 12322
+Email: marcos439@isciii.es
+Teléfono fijo: +34 964 35 11 21
+Teléfono móvil: +34 764 47 16 54
+NHC: 8206599
+NASS: 542776313571
+Condición de riesgo: Trabajador de Servicios de Limpieza
+
+Datos asistenciales.
+Médico: Dra. Natalia González Cuesta. NC 800412473. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/08/2024
+Episodio: 46478313
+Centro de salud: Centro de Salud Torrejón de Ardoz
+
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 11 meses de edad, acompañado de su hermano. Se realizó un expediente con URL http://example-pharma.org//35833464W. 

@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Matilde Vázquez Vila
+DNI: 59336718F
+Fecha de nacimiento: 13/09/1969
+Género: M
+Domicilio: Calle de Juan Bravo 39
+Ciudad: Jaca, Salamanca, Castilla y León
+Código postal: 37044
+Email: matilde@ioba.med.uva.es
+Teléfono fijo: +34 923 39 15 18
+Teléfono móvil: +34 723 88 98 45
+NHC: 4327579
+Condición de riesgo: Operador de Maquinaria Pesada
+
+Datos asistenciales.
+Médico: Dra. María Belén Parra Miguel. NC 774983487. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/12/1978
+Episodio: 31366851
+Centro de salud: Centro de Salud Barajas
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 9 años de edad, acompañado de su abuela. Se realizó un expediente con URL http://example-healthcare.net//58989623R. 

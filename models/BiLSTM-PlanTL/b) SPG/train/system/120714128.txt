@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Antonio José Alarcon Arroyo
+DNI: 32405541J
+Fecha de nacimiento: 09/07/1958
+Género: M
+Domicilio: Calle de las Tres Cruces 72
+Ciudad: Avilés, Albacete, Castilla-La Mancha
+Código postal: 02918
+Email: alarcon_arroyo@ub.edu
+Teléfono fijo: +34 967 15 58 99
+Teléfono móvil: +34 667 45 51 82
+NHC: 9386488
+NASS: 380906084685
+Condición de riesgo: Químico
+
+Datos asistenciales.
+Médico: Dr. Diego Román Torres. NC 437964909. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/03/1982
+Episodio: 14753961
+Centro de salud: Centro de Salud Aranjuez
+
+Informe clínico del paciente:
+Paciente de ascendencia centroasiática de 23 años de edad. Se realizó un expediente con URL http://example-labs.com//50515210P. 

@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: José Ramón Varela Rey
+DNI: 81351104N
+Fecha de nacimiento: 11/05/1970
+Género: H
+Domicilio: Calle de Villalar 94
+Ciudad: Xàtiva, Huesca, Aragón
+Código postal: 22721
+Email: joseramon.varela.rey@yahoo.com
+Teléfono fijo: +34 974 14 29 84
+Teléfono móvil: +34 774 24 10 93
+NHC: 8789055
+NASS: 186904932883
+
+Datos asistenciales.
+Médico: Dr. Martín Andres Guerrero. NC 632288904. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/05/1995
+Episodio: 67096685
+Hospital: Hospital Universitario Nuestra Señora de Candelaria
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 25 años de edad, acompañado de su compañera de trabajo. El servidor para envío de información desde cual el usuario se comunica es smtp://example-clinica.com. 

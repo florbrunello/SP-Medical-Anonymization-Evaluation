@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Gregorio Pastor Benítez
+DNI: 22696215E
+Fecha de nacimiento: 11/02/1955
+Género: M
+Domicilio: Calle de Moratín 89
+Ciudad: Castellón de la Plana, Gerona, Cataluña
+Código postal: 17663
+Email: pastor_benitez@ub.edu
+Teléfono fijo: +34 972 33 33 93
+Teléfono móvil: +34 672 59 07 84
+NHC: 3917466
+NASS: 666053686808
+Condición de riesgo: Conductor de Camión
+
+Datos asistenciales.
+Médico: Dra. Noelia Soriano Fuentes. NC 502846387. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/08/2009
+Episodio: 57537439
+Hospital: Hospital Universitario Puerto Real
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 54 años de edad. 

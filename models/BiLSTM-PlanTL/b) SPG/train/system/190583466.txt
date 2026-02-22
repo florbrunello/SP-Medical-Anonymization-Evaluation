@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Eva María Rivero Martín
+DNI: 70571187B
+Fecha de nacimiento: 24/09/1954
+Género: Mujer
+Domicilio: Calle de la Fe 20
+Ciudad: Palma, Albacete, Castilla-La Mancha
+Código postal: 02214
+Email: rivero.martin@uca.es
+Teléfono fijo: +34 967 34 79 48
+Teléfono móvil: +34 767 34 36 33
+NHC: 0192288
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dra. Blanca Guillen Salas. NC 910624190. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 27/10/1970
+Episodio: 83780101
+Hospital: Hospital Universitario Río Hortega
+Matrícula del coche: 4726ITX
+Modelo: Audi A4
+VIN: VSD9KPGR4RO273777
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 16 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-therapy.org//53382622K. Se registró una sesión de huella dactilar, el código obtenido para revisarla es RU518VLT087. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es PF006HMZ076. 

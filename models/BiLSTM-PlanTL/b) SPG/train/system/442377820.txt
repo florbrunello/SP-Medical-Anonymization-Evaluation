@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Ángel Casas Montoya
+DNI: 16965594N
+Fecha de nacimiento: 27/10/1984
+Género: Hombre
+Domicilio: Calle del Fúcar 85, 6D
+Ciudad: Liria, Granada, Andalucía
+Código postal: 18463
+Email: angelcasas_montoya@isciii.es
+Teléfono fijo: +34 958 55 08 22
+Teléfono móvil: +34 658 89 68 61
+NHC: 9360936
+
+Datos asistenciales.
+Médico: Dr. Enrique Márquez Durán. NC 203039696. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/04/2010
+Hospital: Complejo Hospitalario Torrecárdenas
+Matrícula del coche: 4247NXL
+Modelo: Honda CR-V
+VIN: VSK0F9RXU5P083901
+
+Informe clínico del paciente:
+Paciente vegetariano de 25 años de edad, acompañado de su amiga. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.56.194, con dirección MAC 38:05:13:99:A7:27. 

@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Elisa Sierra Benito
+DNI: 53937204L
+Fecha de nacimiento: 05/06/1976
+Género: Femenino
+Domicilio: Calle de Tribulete 88
+Ciudad: Telde, Pontevedra, Galicia
+Código postal: 36144
+Email: elisasierra_benito@udc.es
+Teléfono fijo: +34 986 82 49 63
+Teléfono móvil: +34 686 47 14 59
+NHC: 8482513
+NASS: 183016099249
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dra. Vanessa Gallardo Mateos. NC 559052399. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/09/2020
+Centro de salud: Centro de Salud Sevilla Oeste
+Matrícula del coche: 7961KWW
+Modelo: Honda Civic
+VIN: VST4R4JL4TU676428
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 44 años de edad, acompañado de su hijo. Se realizó un expediente con URL http://example-biotech.com//22022678D. 

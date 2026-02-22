@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Gloria Ibáñez Prieto
+DNI: 14477385N
+Fecha de nacimiento: 17/05/1973
+Género: M
+Domicilio: Calle de Bravo Murillo 20, 9D
+Ciudad: Eibar, Lugo, Galicia
+Código postal: 27258
+Email: prieto473@udc.es
+Teléfono fijo: +34 982 71 61 40
+Teléfono móvil: +34 782 70 39 57
+NHC: 5845263
+NASS: 919955328975
+
+Datos asistenciales.
+Médico: Dra. Rocío Marti Mendoza. NC 114802071. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/06/1995
+Episodio: 28951103
+Hospital: Hospital Universitario de Crúces
+
+Informe clínico del paciente:
+Paciente de tez blanca de 22 años de edad, acompañado de su hijo. Se realizó un expediente con URL http://example-clinica.com//83680731M. El servidor para envío de información desde cual el usuario se comunica es smtp://example-clinica.com. 

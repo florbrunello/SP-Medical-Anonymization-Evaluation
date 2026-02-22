@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Jaume Silva Aguilar
+DNI: 90968973V
+Fecha de nacimiento: 16/02/1954
+Género: M
+Domicilio: Paseo de la Castellana 52
+Ciudad: Puertollano, Palencia, Castilla y León
+Código postal: 34984
+Email: jaume.silvaaguilar1021@aol.com
+Teléfono fijo: +34 979 44 42 40
+FAX: +34 979 58 67 76
+NHC: 4847617
+NASS: 797024170231
+
+Datos asistenciales.
+Médico: Dr. Pablo Bernal Alonso. NC 019210502. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/02/2003
+Episodio: 09813547
+Centro de salud: Centro de Salud Chamartín
+Matrícula del coche: 5625JCE
+Modelo: Toyota Corolla
+VIN: VSBM6YLQ3JB364962
+
+Informe clínico del paciente:
+Paciente vegetariano de 49 años de edad, acompañado de su hija. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es KR477ZHC785. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es NC562GDR448. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es UX389XJG397. 

@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Sergio Delgado Lozano
+DNI: 54904219E
+Fecha de nacimiento: 10/07/1980
+Género: M
+Domicilio: Calle del Barquillo 55, 8Z
+Ciudad: Torrelodones, Cádiz, Andalucía
+Código postal: 11836
+Email: lozano@ciberehd.org
+Teléfono fijo: +34 956 36 74 28
+Teléfono móvil: +34 756 10 73 98
+NHC: 5068354
+NASS: 571173577608
+Condición de riesgo: Operador de Máquina
+
+Datos asistenciales.
+Médico: Dra. Fátima Delgado Salas. NC 404747116. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/01/2011
+Episodio: 06958770
+Hospital: Hospital Universitario Infanta Leonor
+Matrícula del coche: 9868GMX
+Modelo: Volkswagen Golf
+VIN: VSCCW2E4Z4R977749
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 30 años de edad. 

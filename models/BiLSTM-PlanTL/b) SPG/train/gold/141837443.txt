@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Juana Trujillo Fuentes
+DNI: 55572552K
+Fecha de nacimiento: 30/09/1990
+Género: M
+Domicilio: Calle de Arganzuela 91
+Ciudad: Aranda de Duero, Palencia, Castilla y León
+Código postal: 34402
+Email: juana-trujillo1694@salud.madrid.org
+Teléfono fijo: +34 979 57 32 11
+Teléfono móvil: +34 679 52 64 45
+NHC: 5902577
+NASS: 946575763139
+Condición de riesgo: Conserje
+
+Datos asistenciales.
+Médico: Dra. Esther Casas Rubio. NC 205427521. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 17/12/2016
+Episodio: 44594063
+Hospital: Hospital Universitario Fundación Alcorcón
+Matrícula del coche: 8973WXW
+Modelo: Toyota Corolla
+VIN: VSJQA499XJA782085
+
+Informe clínico del paciente:
+Paciente de tez blanca de 26 años de edad, acompañado de su amigo. El servidor para envío de información desde cual el usuario se comunica es smtp://example-biotech.com. 

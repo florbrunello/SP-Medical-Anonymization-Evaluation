@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Víctor Manuel Sáez Exposito
+DNI: 98170470F
+Fecha de nacimiento: 29/08/2022
+Género: Hombre
+Domicilio: Calle de Narváez 45, 3C
+Ciudad: Toledo, Alicante, Comunidad Valenciana
+Código postal: 03843
+Email: victormanuel.saezexposito@ub.edu
+Teléfono fijo: +34 965 01 98 47
+Teléfono móvil: +34 665 19 29 46
+NHC: 2075482
+NASS: 717244878982
+
+Datos asistenciales.
+Médico: Dr. Adam García Pardo. NC 322410932. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/11/2023
+Episodio: 02337003
+Centro de salud: Centro de Salud Conde de Casal
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena centroamericana de un año de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.171.157, con dirección MAC 5B:2D:48:C4:E7:36. 

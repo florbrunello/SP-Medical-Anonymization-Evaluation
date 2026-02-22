@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Omar Marti Montoya
+DNI: 99776476S
+Fecha de nacimiento: 13/04/1979
+Género: V
+Domicilio: Calle de Embajadores 91
+Ciudad: Lleida, La Coruña, Galicia
+Código postal: 15117
+Email: omarmartimontoya@ucm.es
+Teléfono fijo: +34 981 59 05 74
+Teléfono móvil: +34 681 59 22 74
+NHC: 9887514
+NASS: 556483648723
+
+Datos asistenciales.
+Médico: Dra. Remedios Flores Castillo. NC 630937888. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 11/07/1989
+Episodio: 33044365
+Centro de salud: Centro de Salud Carabanchel
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 10 años de edad, acompañado de su abuela. 

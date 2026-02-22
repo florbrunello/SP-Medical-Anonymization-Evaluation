@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Iñigo Pérez Benítez
+DNI: 49607783A
+Fecha de nacimiento: 15/11/2010
+Género: Masculino
+Domicilio: Calle del Prado 92
+Ciudad: Castellón de la Plana, Zaragoza, Aragón
+Código postal: 50535
+Email: inigo.perez1615@ub.edu
+Teléfono fijo: +34 976 45 31 68
+Teléfono móvil: +34 676 68 49 45
+NHC: 5804036
+Condición de riesgo: Limpiador
+
+Datos asistenciales.
+Médico: Dra. Luisa Domínguez Franco. NC 690303241. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/04/2015
+Hospital: Complejo Hospitalario Torrecárdenas
+
+Informe clínico del paciente:
+Paciente vegano de 4 años de edad, acompañado de su hermana. 

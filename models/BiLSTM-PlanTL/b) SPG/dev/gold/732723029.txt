@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Daniel Guillen Conde
+DNI: 37322450M
+Fecha de nacimiento: 03/08/1982
+Género: Hombre
+Domicilio: Calle de la Montera 33, 1C
+Ciudad: Ontinyent, Toledo, Castilla-La Mancha
+Código postal: 45951
+Email: guillen-conde@hotmail.com
+Teléfono fijo: +34 925 10 24 85
+Teléfono móvil: +34 725 46 85 47
+NHC: 4475208
+NASS: 752155447923
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dr. José Luis Méndez Luque. NC 693822811. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 20/01/2016
+Hospital: Hospital Universitario Virgen de la Victoria
+Matrícula del coche: 5137BCR
+Modelo: Tesla Model 3
+VIN: VSUQDP8YVFO988789
+
+Informe clínico del paciente:
+Paciente de ascendencia australiana de 33 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.63.202, con dirección MAC 16:00:4D:A5:B8:27. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es ZI140UZG226. 

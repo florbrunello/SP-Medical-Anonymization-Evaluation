@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Oliver Lozano Blazquez
+DNI: 79550323Q
+Fecha de nacimiento: 14/08/2018
+Género: Hombre
+Domicilio: Calle de la Montera 18, 2B
+Ciudad: Jaén, La Coruña, Galicia
+Código postal: 15817
+Email: blazquez1926@outlook.com
+Teléfono fijo: +34 981 76 44 66
+Teléfono móvil: +34 681 87 97 08
+NHC: 4284144
+
+Datos asistenciales.
+Médico: Dra. Natalia Rubio Herrera. NC 088400645. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/08/2018
+Episodio: 86205138
+Centro de salud: Centro de Salud Collado Villalba
+
+Informe clínico del paciente:
+Paciente no fumador de 0 meses de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.236.177, con dirección MAC 06:85:13:BF:A9:7E. 

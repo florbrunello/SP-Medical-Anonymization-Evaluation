@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Lidia Rivas González
+DNI: 88802317F
+Fecha de nacimiento: 02/05/1961
+Género: F
+Domicilio: Calle del León 67
+Ciudad: Novelda, Asturias, Asturias
+Código postal: 33540
+Email: lidia-gonzalez1871@isciii.es
+Teléfono fijo: +34 984 80 21 37
+Teléfono móvil: +34 784 58 04 96
+NHC: 2232802
+Condición de riesgo: Guardia de Seguridad
+
+Datos asistenciales.
+Médico: Dra. Gloria Hernández Pardo. NC 070138865. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 31/12/2014
+Episodio: 07085845
+Hospital: Complejo Hospitalario Universitario de A Coruña
+
+Informe clínico del paciente:
+Paciente de tez blanca de 53 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.240.15, con dirección MAC 69:B2:31:82:3F:51. 

@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: María Cristina Durán Pacheco
+DNI: 41271818C
+Fecha de nacimiento: 28/07/1999
+Género: Femenino
+Domicilio: Calle de las Huertas 25, 9D
+Ciudad: Eibar, Madrid, Madrid
+Código postal: 28928
+Email: duran_pacheco@ciberehd.org
+Teléfono fijo: +34 912 35 74 19
+FAX: +34 910 16 84 85
+NHC: 3140597
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dra. Sofía Paredes García. NC 181073094. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/06/2016
+Centro de salud: Centro de Salud Málaga Este
+
+Informe clínico del paciente:
+Paciente sobreviviente de violencia de 16 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.124.56, con dirección MAC DA:E1:4D:DF:D5:70. 

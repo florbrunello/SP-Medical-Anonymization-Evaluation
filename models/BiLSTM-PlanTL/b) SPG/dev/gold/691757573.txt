@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Adam Galan Estevez
+DNI: 99454442G
+Fecha de nacimiento: 27/02/1925
+Género: M
+Domicilio: Calle del Sombrerete 87
+Ciudad: Vitoria, Sevilla, Andalucía
+Código postal: 41527
+Email: adam.estevez795@salud.madrid.org
+Teléfono fijo: +34 954 70 45 65
+Teléfono móvil: +34 754 53 40 87
+NHC: 2584498
+NASS: 568296284626
+
+Datos asistenciales.
+Médico: Dra. Almudena Villanueva Menendez. NC 184758622. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/12/1940
+Hospital: Hospital Universitario Virgen del Rocío
+Matrícula del coche: 1909QHD
+Modelo: Jeep Wrangler
+VIN: VSC8MMC8I9Y533268
+
+Informe clínico del paciente:
+Paciente vegetariano de 15 años de edad, acompañado de su abuela. 

@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: María Rosa Lozano Miranda
+DNI: 20350984D
+Fecha de nacimiento: 16/07/1986
+Género: F
+Domicilio: Calle de Amor de Dios 97, 10Q
+Ciudad: Ciudad autónoma de Melilla, Melilla, 
+Código postal: 51044
+Email: miranda@hotmail.com
+Teléfono fijo: +34 951 03 28 83
+Teléfono móvil: +34 751 42 88 96
+NHC: 1250188
+NASS: 190324521773
+
+Datos asistenciales.
+Médico: Dra. Vanessa Nieto Conde. NC 901605918. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/01/2000
+Episodio: 51306672
+Hospital: Hospital Universitario Virgen Macarena
+Matrícula del coche: 4609EQK
+Modelo: Toyota Corolla
+VIN: VSKOO3S1INU647944
+
+Informe clínico del paciente:
+Paciente musulman de 13 años de edad, acompañado de su hermano. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es BL762DNM310. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es SX439NGY377. 

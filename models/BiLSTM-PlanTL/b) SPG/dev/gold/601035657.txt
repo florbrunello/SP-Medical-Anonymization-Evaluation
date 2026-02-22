@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: José Javier Espinosa Reyes
+DNI: 46315440H
+Fecha de nacimiento: 31/12/2006
+Género: Masculino
+Domicilio: Calle del León 41
+Ciudad: Burgos, Valencia, Comunidad Valenciana
+Código postal: 46734
+Email: josejavier-espinosa-reyes@ciberehd.org
+Teléfono fijo: +34 960 17 32 25
+Teléfono móvil: +34 660 61 15 62
+NHC: 0443550
+
+Datos asistenciales.
+Médico: Dr. Antonio Jiménez Quintana. NC 699280028. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/06/2015
+Hospital: Hospital Universitario Virgen del Rocío
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 8 años de edad, acompañado de su hermano. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.68.131, con dirección MAC 25:1E:90:FC:69:85. Se realizó un expediente con URL http://example-ophthalmology.net//29762585R. 

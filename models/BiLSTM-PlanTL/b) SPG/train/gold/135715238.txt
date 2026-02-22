@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Christian Serrano Macias
+DNI: 42808852X
+Fecha de nacimiento: 22/08/1933
+Género: Masculino
+Domicilio: Calle de San Ildefonso 6, 3R
+Ciudad: Novelda, Madrid, Madrid
+Código postal: 28018
+Email: christian_serrano@us.es
+Teléfono fijo: +34 916 81 56 44
+Teléfono móvil: +34 711 38 76 39
+NHC: 5260808
+NASS: 192503996555
+
+Datos asistenciales.
+Médico: Dra. Carla Herrero Vázquez. NC 276628379. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 13/03/2020
+Hospital: Complejo Hospitalario La Mancha Centro
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 86 años de edad, acompañado de su marido. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. 

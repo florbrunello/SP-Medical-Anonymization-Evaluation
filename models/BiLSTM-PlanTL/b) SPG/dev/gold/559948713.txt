@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Ángela Castaño Flores
+DNI: 68359410Y
+Fecha de nacimiento: 28/05/1968
+Género: M
+Domicilio: Calle de la Magdalena 12
+Ciudad: Guadix, Cádiz, Andalucía
+Código postal: 11290
+Email: angela.castano@icloud.com
+Teléfono fijo: +34 956 60 79 41
+Teléfono móvil: +34 656 18 19 00
+NHC: 9176318
+NASS: 949277871491
+Condición de riesgo: Guardia de Seguridad
+
+Datos asistenciales.
+Médico: Dr. Miguel Ángel Fernández Castillo. NC 286279668. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/05/2006
+Episodio: 98400903
+Centro de salud: Centro de Salud Sevilla Oeste
+Matrícula del coche: 4534NQG
+Modelo: Hyundai Elantra
+VIN: VSL7SGYNDFQ503057
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 37 años de edad, acompañado de su suegra. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.152.119, con dirección MAC 1B:8E:58:31:C6:8E. 

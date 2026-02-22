@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Rebeca Miguel Gallego
+DNI: 63116393T
+Fecha de nacimiento: 23/05/1931
+Género: Mujer
+Domicilio: Calle de los Jardines 63
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52076
+Email: rebeca.gallego@ucm.es
+Teléfono fijo: +34 956 45 98 95
+Teléfono móvil: +34 756 94 94 29
+NHC: 1308614
+NASS: 159849869885
+Condición de riesgo: Conductor de Camión
+
+Datos asistenciales.
+Médico: Dra. Laia Mora Blazquez. NC 889514124. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/05/1998
+Episodio: 55830169
+Hospital: Hospital Universitario de Fuenlabrada
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 67 años de edad, acompañado de su padre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.158.179, con dirección MAC C2:DC:65:68:94:73. Se realizó un expediente con URL http://example-cardiology.com//10205126J. 

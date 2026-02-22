@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Adam Simon Villanueva
+DNI: 42817526J
+Fecha de nacimiento: 06/11/1992
+Género: M
+Domicilio: Calle de Santa Ana 99
+Ciudad: Torrelodones, Vizcaya, Pais Vasco
+Código postal: 48999
+Email: adamvillanueva278@uhu.es
+Teléfono fijo: +34 946 76 82 09
+Teléfono móvil: +34 646 98 90 78
+NHC: 2523300
+NASS: 022204004785
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dra. Gema Hurtado Merino. NC 871218741. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 17/11/1999
+Episodio: 55960149
+Hospital: Hospital Universitario Severo Ochoa
+Matrícula del coche: 0773CHG
+Modelo: Tesla Model 3
+VIN: VSTD3QYPF9I684069
+
+Informe clínico del paciente:
+Paciente vegano de 7 años de edad, acompañado de su madre. 

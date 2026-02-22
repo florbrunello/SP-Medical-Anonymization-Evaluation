@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: María Isabel Pascual Domínguez
+DNI: 69010067Q
+Fecha de nacimiento: 25/02/1941
+Género: M
+Domicilio: Calle del Carmen 94
+Ciudad: Murcia, Región de Murcia, Región de Murcia
+Código postal: 30084
+Email: mariaisabel-pascual-dominguez@ciberer.es
+Teléfono fijo: +34 968 75 92 59
+Teléfono móvil: +34 668 81 77 81
+NHC: 7241521
+NASS: 191335786525
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dra. Virginia Pacheco Soto. NC 982066380. Neuropsicóloga Clínica Investigadora. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/12/1994
+Episodio: 37408631
+Hospital: Hospital Universitari i Politècnic La Fe
+Matrícula del coche: 0084DVB
+Modelo: Mazda CX-5
+VIN: VSFL4QE9J8D554897
+
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 53 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.244.117, con dirección MAC CC:00:4F:39:20:38. 

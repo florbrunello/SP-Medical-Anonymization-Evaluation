@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Diana Merino Otero
+DNI: 62547681D
+Fecha de nacimiento: 11/05/2004
+Género: M
+Domicilio: Calle de Villalar 3, 1Q
+Ciudad: Lleida, Vizcaya, Pais Vasco
+Código postal: 48250
+Email: diana@uca.es
+Teléfono fijo: +34 946 89 20 90
+Teléfono móvil: +34 746 68 07 92
+NHC: 1691912
+Condición de riesgo: Técnico de Cuidados Auxiliares de Enfermería
+
+Datos asistenciales.
+Médico: Dr. Iñigo Velasco Castro. NC 777083336. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 23/09/2023
+Episodio: 15498004
+Centro de salud: Centro de Salud Sevilla Sur
+Matrícula del coche: 6557BHL
+Modelo: Toyota RAV4
+VIN: VSSSOKAY14U138368
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 19 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.56.59, con dirección MAC DB:76:A6:44:71:EF. Se registró una sesión de firma biométrica, el código obtenido para revisarla es CM774OBN588. 

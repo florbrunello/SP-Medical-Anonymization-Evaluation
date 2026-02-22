@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Izan Robles Hidalgo
+DNI: 76736599C
+Fecha de nacimiento: 13/02/1955
+Género: M
+Domicilio: Calle de Sagasta 28
+Ciudad: Alcázar de San Juan, Cuenca, Castilla-La Mancha
+Código postal: 16865
+Email: izan-hidalgo@outlook.com
+Teléfono fijo: +34 969 30 05 39
+Teléfono móvil: +34 669 73 49 09
+NHC: 5289287
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dra. Manuela Paredes Fernández. NC 894327136. Gastroenteróloga Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/06/2008
+Episodio: 83473914
+Hospital: Hospital Universitario Puerto Real
+
+Informe clínico del paciente:
+Paciente no fumador de 53 años de edad. El servidor para envío de información desde cual el usuario se comunica es smtp://example-labs.com. Se registró una sesión de firma biométrica, el código obtenido para revisarla es CJ519AXC002. 

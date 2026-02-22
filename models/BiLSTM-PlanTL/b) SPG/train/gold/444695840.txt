@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Manuel Moreno García
+DNI: 35138053X
+Fecha de nacimiento: 19/07/1958
+Género: Masculino
+Domicilio: Calle del Nuncio 52, 5M
+Ciudad: Alcoy, Gerona, Cataluña
+Código postal: 17008
+Email: moreno@ub.edu
+Teléfono fijo: +34 972 64 29 71
+FAX: +34 972 55 02 70
+NHC: 6555964
+NASS: 797991203074
+Condición de riesgo: Conductor de Camión
+
+Datos asistenciales.
+Médico: Dr. Ángel Ortega Castillo. NC 546281382. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/12/1966
+Episodio: 88839978
+Hospital: Hospital Clínic Universitario de Valencia
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 8 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.165.16, con dirección MAC 47:4C:2A:A9:29:20. Se realizó un expediente con URL http://example-medical.edu//66859195M. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es PI193EMY064. 

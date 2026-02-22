@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Carolina Muñoz Calderon
+DNI: 16959821N
+Fecha de nacimiento: 02/07/2023
+Género: F
+Domicilio: Calle de Preciados 51
+Ciudad: San Vicente del Raspeig, Lérida, Cataluña
+Código postal: 25714
+Email: munoz478@isciii.es
+Teléfono fijo: +34 973 16 97 08
+Teléfono móvil: +34 773 86 57 18
+NHC: 2251905
+NASS: 759812444938
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dr. Víctor Paredes Escobar. NC 142636383. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 06/09/2024
+Episodio: 17756245
+Centro de salud: Centro de Salud Alcalá de Henares
+Matrícula del coche: 4694VIL
+Modelo: Kia Sorento
+VIN: VSVVVXA6QAT363400
+
+Informe clínico del paciente:
+Paciente transeúnte de un año de edad, acompañado de su padre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-therapy.org. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es GO489FQI484. 

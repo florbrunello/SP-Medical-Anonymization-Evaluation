@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Fernando Ferrer Giménez
+DNI: 74241135X
+Fecha de nacimiento: 23/07/1983
+Género: M
+Domicilio: Calle de Ríos Rosas 99
+Ciudad: Vigo, Menorca, Islas Baleares
+Código postal: 07339
+Email: fernando_ferrer1402@icloud.com
+Teléfono fijo: +34 971 03 83 05
+Teléfono móvil: +34 671 26 75 03
+NHC: 5238055
+NASS: 227479851621
+Condición de riesgo: Microbiólogo
+
+Datos asistenciales.
+Médico: Dr. Sergi Quintana Silva. NC 693994854. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/05/1998
+Hospital: Hospital Universitario La Paz
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 14 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-neurology.com//75607309O. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es QK710GOM097. 

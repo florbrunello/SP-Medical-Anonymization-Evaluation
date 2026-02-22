@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Marcos Gil Ruiz
+DNI: 48351620P
+Fecha de nacimiento: 23/07/1938
+Género: H
+Domicilio: Calle de Génova 17
+Ciudad: Alcalá de Henares, Segovia, Castilla y León
+Código postal: 40774
+Email: ruiz@ciberned.es
+Teléfono fijo: +34 921 53 16 72
+Teléfono móvil: +34 721 04 60 09
+NHC: 0499026
+NASS: 403898434393
+Condición de riesgo: Ama de casa
+
+Datos asistenciales.
+Médico: Dra. Elisa Santiago Muñoz. NC 477001414. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/12/2015
+Hospital: Complejo Asistencial Universitario de León
+Matrícula del coche: 5674YKX
+Modelo: Tesla Model 3
+VIN: VSO6043KCEI761020
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 77 años de edad. 

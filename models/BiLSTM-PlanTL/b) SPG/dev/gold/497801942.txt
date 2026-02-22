@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Fernando Vicente Heredia
+DNI: 82061987B
+Fecha de nacimiento: 31/08/1930
+Género: Varón
+Domicilio: Calle de Hortaleza 2
+Ciudad: Torrejón de Ardoz, Albacete, Castilla-La Mancha
+Código postal: 02540
+Email: heredia@ciberehd.org
+Teléfono fijo: +34 967 11 84 90
+Teléfono móvil: +34 767 43 98 22
+NHC: 3206590
+NASS: 731122485859
+
+Datos asistenciales.
+Médico: Dra. Matilde Miranda Fernández. NC 369948541. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/04/1993
+Episodio: 23338664
+Hospital: Hospital Universitari de Bellvitge
+
+Informe clínico del paciente:
+Paciente vegano de 62 años de edad. 

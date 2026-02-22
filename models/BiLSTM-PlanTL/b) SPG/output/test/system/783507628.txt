@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Lourdes Lara Hernández
+DNI: 69477373P
+Fecha de nacimiento: 26/03/2024
+Género: Mujer
+Domicilio: Calle de las Letras 17
+Ciudad: Talavera de la Reina, Mallorca, Islas Baleares
+Código postal: 07500
+Email: lourdes_lara@h12o.es
+Teléfono fijo: +34 971 70 74 24
+Teléfono móvil: +34 771 61 19 21
+NHC: 7570173
+NASS: 995732010023
+
+Datos asistenciales.
+Médico: Dr. Marcos Guerra Vila. NC 696788533. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 92954021
+Hospital: Hospital de Manises
+Matrícula del coche: 0415AUE
+Modelo: Jeep Wrangler
+VIN: VSPZ9LG573N233905
+
+Informe clínico del paciente:
+Paciente transeúnte de 11 meses de edad, acompañado de su hermano. Se realizó un expediente con URL http://example-therapy.org//39546191D. Se registró una sesión de firma biométrica, el código obtenido para revisarla es LW779VZP635. 

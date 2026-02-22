@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Belén Caballero Rodríguez
+DNI: 67730231S
+Fecha de nacimiento: 24/08/1963
+Género: Femenino
+Domicilio: Calle de Argumosa 85
+Ciudad: Hellín, Asturias, Asturias
+Código postal: 33929
+Email: belencaballero1150@ioba.med.uva.es
+Teléfono fijo: +34 984 92 89 65
+Teléfono móvil: +34 784 07 03 90
+NHC: 5722229
+Condición de riesgo: Técnico de Laboratorio
+
+Datos asistenciales.
+Médico: Dr. Julio Álvarez Beltran. NC 297966823. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/11/1977
+Episodio: 64547904
+Hospital: Hospital de Manises
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 14 años de edad, acompañado de su abuela. Se realizó un expediente con URL http://example-ophthalmology.net//10111156M. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es ZB222VCS139. 

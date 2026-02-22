@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Mateo Bueno Velasco
+DNI: 63671310L
+Fecha de nacimiento: 09/03/2025
+Género: Masculino
+Domicilio: Calle de la Cabeza del Rey Don Pedro 9, 10Q
+Ciudad: Jerez de la Frontera, Barcelona, Cataluña
+Código postal: 08913
+Email: bueno@us.es
+Teléfono fijo: +34 938 74 59 77
+Teléfono móvil: +34 631 39 59 97
+NHC: 4627725
+NASS: 400761593701
+
+Datos asistenciales.
+Médico: Dra. Belén Abad Martínez. NC 641076377. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 21632119
+Hospital: Hospital Universitario Severo Ochoa
+Matrícula del coche: 9241CFB
+Modelo: Ram 1500
+VIN: VSQQ94LPHTI058952
+
+Informe clínico del paciente:
+Paciente no fumador de 0 meses de edad, acompañado de su tío. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.236.123, con dirección MAC C5:B2:0E:F4:ED:4B. Se registró una sesión de huella dactilar, el código obtenido para revisarla es JZ681SCE857. 

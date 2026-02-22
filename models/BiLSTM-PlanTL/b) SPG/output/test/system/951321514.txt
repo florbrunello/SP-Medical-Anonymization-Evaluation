@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Valentina Castillo Soto
+DNI: 50053392X
+Fecha de nacimiento: 09/09/1992
+Género: M
+Domicilio: Calle de Zurbano 49, 7I
+Ciudad: Motril, Salamanca, Castilla y León
+Código postal: 37625
+Email: castillo.soto@uhu.es
+Teléfono fijo: +34 923 62 95 87
+Teléfono móvil: +34 623 18 79 00
+NHC: 9317766
+NASS: 985745350223
+
+Datos asistenciales.
+Médico: Dra. Ana Belén Bernal Pacheco. NC 485984833. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/09/1997
+Episodio: 06213630
+Centro de salud: Centro de Salud Latina
+
+Informe clínico del paciente:
+Paciente no fumador de 5 años de edad, acompañado de su abuela. Se realizó un expediente con URL http://example-therapy.org//21947427K. Se registró una sesión de firma biométrica, el código obtenido para revisarla es ZF374OUP828. 

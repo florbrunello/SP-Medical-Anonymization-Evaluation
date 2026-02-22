@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Antonio Jesús Ramos Castro
+DNI: 35596181R
+Fecha de nacimiento: 17/04/1939
+Género: H
+Domicilio: Calle de Narváez 95, 8O
+Ciudad: Almería, Málaga, Andalucía
+Código postal: 29072
+Email: castro609@ciberehd.org
+Teléfono fijo: +34 951 71 14 75
+Teléfono móvil: +34 751 03 43 45
+NHC: 2255629
+NASS: 770282201535
+Condición de riesgo: Inspector de Seguridad Minera
+
+Datos asistenciales.
+Médico: Dra. Susana Díaz Paredes. NC 979479479. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 14/07/2000
+Episodio: 82215429
+Hospital: Hospital Universitario Príncipe de Asturias
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 61 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.160.49, con dirección MAC 74:73:8A:51:60:FF. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es RC051XHH304. 

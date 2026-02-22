@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Ramón Bueno Camacho
+DNI: 87643397B
+Fecha de nacimiento: 03/06/1929
+Género: Masculino
+Domicilio: Calle de la Princesa 32
+Ciudad: Cáceres, Soria, Castilla y León
+Código postal: 42761
+Email: bueno@ciberehd.org
+Teléfono fijo: +34 975 01 49 28
+Teléfono móvil: +34 675 14 39 94
+NHC: 4975425
+NASS: 702213765175
+Condición de riesgo: Trabajador de la Construcción
+
+Datos asistenciales.
+Médico: Dra. María Carmen Espinosa Díaz. NC 814090744. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/03/1959
+Episodio: 75585694
+Hospital: Hospital Universitari de Bellvitge
+Matrícula del coche: 3154QQK
+Modelo: Jeep Wrangler
+VIN: VSL1BP9QK1S907516
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 29 años de edad, acompañado de su compañero de trabajo. Se registró una sesión de huella dactilar, el código obtenido para revisarla es UU292TIJ975. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es AX323WLR154. 

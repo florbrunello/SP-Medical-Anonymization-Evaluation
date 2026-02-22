@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Estefanía Serra Martín
+DNI: 94060944Y
+Fecha de nacimiento: 10/03/1950
+Género: M
+Domicilio: Calle de las Yeserías 77
+Ciudad: Cáceres, Almería, Andalucía
+Código postal: 04691
+Email: serra@ciberned.es
+Teléfono fijo: +34 950 44 21 53
+Teléfono móvil: +34 750 63 13 44
+NHC: 8662370
+NASS: 203202554316
+Condición de riesgo: Repartidor
+
+Datos asistenciales.
+Médico: Dr. Juan Trujillo Martín. NC 650227094. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/06/1969
+Episodio: 09781075
+Hospital: Hospital Universitario Rey Juan Carlos de Mostoles
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 19 años de edad, acompañado de su pareja. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.96.26, con dirección MAC F3:51:75:A6:23:C9. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es TA833WBS417. 

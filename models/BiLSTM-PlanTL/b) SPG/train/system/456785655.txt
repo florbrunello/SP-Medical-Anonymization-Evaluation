@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Juan Luis Guerra Soto
+DNI: 56819133W
+Fecha de nacimiento: 01/08/1994
+Género: Varón
+Domicilio: Calle de Mesón de Paredes 79
+Ciudad: Vilanova i la Geltrú, Palencia, Castilla y León
+Código postal: 34677
+Email: juanluis.guerra.soto@ub.edu
+Teléfono fijo: +34 979 89 56 79
+FAX: +34 979 26 61 22
+NHC: 4750654
+NASS: 433491517820
+Condición de riesgo: Químico
+
+Datos asistenciales.
+Médico: Dr. Jesús María Vargas Calvo. NC 521850566. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 29568043
+Centro de salud: Centro de Salud Centro
+Matrícula del coche: 8399ACA
+Modelo: Honda Civic
+VIN: VSZ19T3W76D981883
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 30 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.111.1, con dirección MAC C3:56:36:2E:7A:C1. Se registró una sesión de huella dactilar, el código obtenido para revisarla es PM546FQR103. 

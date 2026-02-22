@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Alejandra Carmona Santana
+DNI: 16992485Q
+Fecha de nacimiento: 18/02/1977
+Género: Mujer
+Domicilio: Calle del Oso 77
+Ciudad: Alcalá de Henares, Córdoba, Andalucía
+Código postal: 14330
+Email: alejandra-santana786@ual.es
+Teléfono fijo: +34 957 18 49 10
+Teléfono móvil: +34 757 75 99 61
+NHC: 0373142
+NASS: 983003994583
+Condición de riesgo: Trabajador Agrícola
+
+Datos asistenciales.
+Médico: Dra. María Esther Moya Rubio. NC 881426651. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/06/1979
+Episodio: 60660480
+Hospital: Complejo Hospitalario Universitario de Cartagena
+
+Informe clínico del paciente:
+Paciente no fumador de 2 años de edad, acompañado de su hermana. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.49.25, con dirección MAC C4:70:29:87:FD:98. Se realizó un expediente con URL http://example-cardiology.com//39715002T. El servidor para envío de información desde cual el usuario se comunica es smtp://example-cardiology.com. 

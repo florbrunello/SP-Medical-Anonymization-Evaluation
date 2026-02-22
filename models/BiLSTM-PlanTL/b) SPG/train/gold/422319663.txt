@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Ahmed Exposito Ríos
+DNI: 24299396B
+Fecha de nacimiento: 27/05/1976
+Género: V
+Domicilio: Calle del Oso 47, 8C
+Ciudad: Zamora, Formentera, Islas Baleares
+Código postal: 07905
+Email: exposito@yahoo.com
+Teléfono fijo: +34 971 81 00 83
+Teléfono móvil: +34 771 91 50 29
+NHC: 5484751
+NASS: 283198057855
+Condición de riesgo: Trabajador de Sanitización
+
+Datos asistenciales.
+Médico: Dra. Juana Diez Tomas. NC 802187150. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/11/2011
+Episodio: 95733000
+Centro de salud: Centro de Salud Fuengirola
+
+Informe clínico del paciente:
+Paciente de tez blanca de 35 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.217.147, con dirección MAC 2A:59:8A:6B:10:09. 

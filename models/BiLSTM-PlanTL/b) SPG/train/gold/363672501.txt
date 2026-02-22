@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: José Ignacio Prieto Ferrer
+DNI: 64022332S
+Fecha de nacimiento: 03/01/2020
+Género: Hombre
+Domicilio: Calle del Doctor Piga 97, 3N
+Ciudad: Pamplona, Soria, Castilla y León
+Código postal: 42195
+Email: joseignacio-prieto.ferrer@ciberer.es
+Teléfono fijo: +34 975 60 35 31
+Teléfono móvil: +34 675 03 67 68
+NHC: 3088225
+NASS: 817379341342
+Condición de riesgo: Operador de Maquinaria Agrícola
+
+Datos asistenciales.
+Médico: Dra. Catalina Ruiz Serrano. NC 989535253. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/10/2021
+Episodio: 76151481
+Hospital: Hospital Universitario Río Hortega
+
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de un año de edad, acompañado de su tío. Se registró una sesión de huella dactilar, el código obtenido para revisarla es BB548HTN415. Se registró una sesión de firma biométrica, el código obtenido para revisarla es JI828EKR156. 

@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Sonia Giménez Mateo
+DNI: 28458568R
+Fecha de nacimiento: 12/10/1979
+Género: F
+Domicilio: Calle de Amor de Dios 28
+Ciudad: Málaga, Región de Murcia, Región de Murcia
+Código postal: 30174
+Email: sonia-mateo@udc.es
+Teléfono fijo: +34 968 81 89 78
+Teléfono móvil: +34 668 04 26 48
+NHC: 3502518
+NASS: 148472849379
+
+Datos asistenciales.
+Médico: Dra. Remedios Torres Gutiérrez. NC 729610890. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 22/01/1987
+Hospital: Hospital Universitario de Basurto
+Matrícula del coche: 4884RKT
+Modelo: Toyota RAV4
+VIN: VSU906M506F437481
+
+Informe clínico del paciente:
+Paciente de ascendencia gitana de 7 años de edad, acompañado de su hermana. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es FZ253TPZ757. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es OS931MNR959. 

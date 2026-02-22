@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Jesús María Martín Estevez
+DNI: 63252975P
+Fecha de nacimiento: 04/01/1927
+Género: V
+Domicilio: Calle de la Reina 68, 8U
+Ciudad: Málaga, Alicante, Comunidad Valenciana
+Código postal: 03944
+Email: martin@gmail.com
+Teléfono fijo: +34 965 85 02 45
+Teléfono móvil: +34 765 37 31 25
+NHC: 9771276
+NASS: 507690967914
+
+Datos asistenciales.
+Médico: Dra. Matilde Sanz Guerrero. NC 309939307. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/09/1994
+Episodio: 53892375
+Centro de salud: Centro de Salud Valdemoro
+
+Informe clínico del paciente:
+Paciente migrante de 67 años de edad, acompañado de su hijo. 

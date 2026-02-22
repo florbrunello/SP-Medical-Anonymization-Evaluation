@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Juan Rico Herrera
+DNI: 47096353N
+Fecha de nacimiento: 08/07/1956
+Género: Hombre
+Domicilio: Calle de Arenal 14
+Ciudad: Alcobendas, Lugo, Galicia
+Código postal: 27406
+Email: juan@uca.es
+Teléfono fijo: +34 982 56 55 80
+FAX: +34 982 25 07 86
+NHC: 7700593
+Condición de riesgo: Conductor de Camión
+
+Datos asistenciales.
+Médico: Dra. Sara Roca Domínguez. NC 909697136. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 44903286
+Hospital: Hospital Universitario Ramón y Cajal
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 68 años de edad, acompañado de su nuera. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es CT453YIQ126. 

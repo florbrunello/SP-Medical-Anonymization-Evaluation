@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Jon Domínguez Cano
+DNI: 59841900V
+Fecha de nacimiento: 23/07/1967
+Género: H
+Domicilio: Calle de Tribulete 29, 10B
+Ciudad: Castellón de la Plana, Burgos, Castilla y León
+Código postal: 09823
+Email: jon.dominguez-cano@ioba.med.uva.es
+Teléfono fijo: +34 947 68 57 68
+FAX: +34 947 58 93 03
+NHC: 7849375
+Condición de riesgo: Trabajador Agrícola
+
+Datos asistenciales.
+Médico: Dr. Juan Pedro Aguilera Paredes. NC 961493260. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 21/09/1977
+Episodio: 61124625
+Centro de salud: Centro de Salud Moratalaz
+Matrícula del coche: 4952YKU
+Modelo: Kia Sorento
+VIN: VSMHJPF5MJG140378
+
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 10 años de edad, acompañado de su tía. Se realizó un expediente con URL http://example-medical.edu//39546191D. 

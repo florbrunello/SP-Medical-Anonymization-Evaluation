@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Mario Rubio Ríos
+DNI: 59082481N
+Fecha de nacimiento: 09/03/2025
+Género: Varón
+Domicilio: Calle de Menorca 5, 1G
+Ciudad: Badajoz, Barcelona, Cataluña
+Código postal: 08001
+Email: mario-rubio-rios@ciberehd.org
+Teléfono fijo: +34 939 77 94 65
+FAX: +34 931 33 25 72
+NHC: 4522023
+NASS: 467657473313
+
+Datos asistenciales.
+Médico: Dr. Abel Iglesias Fuentes. NC 744759068. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 77947112
+Centro de salud: Centro de Salud Benalmádena
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 0 meses de edad, acompañado de su madre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-research.net. 

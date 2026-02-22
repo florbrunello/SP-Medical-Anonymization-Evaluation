@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Laia Cabrera Rivera
+DNI: 56417133L
+Fecha de nacimiento: 31/03/1975
+Género: Mujer
+Domicilio: Calle de Santa Ana 8
+Ciudad: Salamanca, Madrid, Madrid
+Código postal: 28123
+Email: cabrera@isciii.es
+Teléfono fijo: +34 919 57 12 95
+Teléfono móvil: +34 615 40 43 43
+NHC: 9387161
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dr. Jaume Miranda Suárez. NC 985388081. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 10/05/2006
+Episodio: 49649698
+Hospital: Hospital de la Santa Creu i Sant Pau
+
+Informe clínico del paciente:
+Paciente no fumador de 31 años de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es ID349WNG773. 

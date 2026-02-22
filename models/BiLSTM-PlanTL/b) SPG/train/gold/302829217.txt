@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Ramón Rico Fuentes
+DNI: 10038516M
+Fecha de nacimiento: 28/12/1925
+Género: V
+Domicilio: Calle de Leganitos 18
+Ciudad: Aranda de Duero, Granada, Andalucía
+Código postal: 18323
+Email: ramon.fuentes@aol.com
+Teléfono fijo: +34 958 03 45 54
+Teléfono móvil: +34 758 43 52 30
+NHC: 2862825
+NASS: 695790762527
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dr. Juan Manuel De la Fuente Galan. NC 506534521. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 16/10/1990
+Episodio: 85205657
+Centro de salud: Centro de Salud Latina
+
+Informe clínico del paciente:
+Paciente vegetariano de 64 años de edad, acompañado de su hermano. Se realizó un expediente con URL http://example-dermatology.org//32743001U. El servidor para envío de información desde cual el usuario se comunica es smtp://example-dermatology.org. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es IX581WSE739. 

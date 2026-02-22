@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Fernando Ramos Aparicio
+DNI: 40355552M
+Fecha de nacimiento: 24/12/1944
+Género: H
+Domicilio: Calle de Ayala 11, 9Z
+Ciudad: Alcobendas, Lugo, Galicia
+Código postal: 27509
+Email: fernando_ramos.aparicio@aol.com
+Teléfono fijo: +34 982 28 28 31
+Teléfono móvil: +34 782 83 38 28
+NHC: 4312446
+NASS: 658329405182
+Condición de riesgo: Técnico de Cuidados Auxiliares de Enfermería
+
+Datos asistenciales.
+Médico: Dra. Begoña Esteban Santos. NC 099495346. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/02/1963
+Episodio: 35425939
+Centro de salud: Centro de Salud Arganda del Rey
+Matrícula del coche: 4503YJD
+Modelo: BMW 3 Series
+VIN: VSQZNR8X7HU520915
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena americana de 18 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.146.157, con dirección MAC E8:26:BD:F8:CB:9B. 

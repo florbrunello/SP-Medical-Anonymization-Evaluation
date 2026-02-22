@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Lourdes Guerrero Garrido
+DNI: 13227582Y
+Fecha de nacimiento: 09/11/1925
+Género: Femenino
+Domicilio: Calle de Zurbano 49
+Ciudad: Estepa, Soria, Castilla y León
+Código postal: 42751
+Email: EVWk5ViRfm@yahoo.com
+Teléfono fijo: +34 975 60 80 15
+FAX: +34 975 62 36 42
+NHC: 6562709
+NASS: 612701882373
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dr. Juan Manuel Vila Salas. NC 941848986. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/09/1991
+Episodio: 56464832
+Centro de salud: Centro de Salud Sevilla Sur
+
+Informe clínico del paciente:
+Paciente no fumador de 65 años de edad, acompañado de su hermano. El servidor para envío de información desde cual el usuario se comunica es smtp://example-pharma.org. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es ZJ083MBN644. 

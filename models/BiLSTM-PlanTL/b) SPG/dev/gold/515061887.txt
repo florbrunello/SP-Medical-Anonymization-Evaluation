@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Sonia Silva Carmona
+DNI: 72996977Z
+Fecha de nacimiento: 15/04/1937
+Género: F
+Domicilio: Calle de la Luna 47
+Ciudad: Girona, Formentera, Islas Baleares
+Código postal: 07199
+Email: sonia@ual.es
+Teléfono fijo: +34 971 21 37 06
+FAX: +34 971 60 95 91
+NHC: 8792692
+NASS: 259879799941
+
+Datos asistenciales.
+Médico: Dr. Esteban Torres Robles. NC 867441530. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/02/1972
+Episodio: 15117030
+Centro de salud: Centro de Salud Torrejón de Ardoz
+
+Informe clínico del paciente:
+Paciente vegetariano de 34 años de edad, acompañado de su primo. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.152.119, con dirección MAC 49:7B:BB:1B:DF:88. 

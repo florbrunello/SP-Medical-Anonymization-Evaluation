@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Lidia Diez Contreras
+DNI: 99180966K
+Fecha de nacimiento: 08/04/1947
+Género: M
+Domicilio: Calle del Espíritu Santo 15
+Ciudad: Úbeda, Cantabria, Cantabria
+Código postal: 39120
+Email: lidia.diez@uhu.es
+Teléfono fijo: +34 942 03 05 84
+Teléfono móvil: +34 742 68 12 06
+NHC: 7998987
+Condición de riesgo: Conserje
+
+Datos asistenciales.
+Médico: Dra. Natalia Franco Cortés. NC 793389064. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/06/2023
+Episodio: 24192791
+Centro de salud: Centro de Salud Sevilla Norte
+Matrícula del coche: 9191QDC
+Modelo: Kia Sorento
+VIN: VSNXARXDVXK909846
+
+Informe clínico del paciente:
+Paciente vegano de 76 años de edad. 

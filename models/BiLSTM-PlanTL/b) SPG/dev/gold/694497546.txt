@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Pedro Navarro Bermudez
+DNI: 21978273W
+Fecha de nacimiento: 06/11/1938
+Género: Masculino
+Domicilio: Calle de las Salesas 96
+Ciudad: Badajoz, Almería, Andalucía
+Código postal: 04002
+Email: navarrobermudez@ciberer.es
+Teléfono fijo: +34 950 92 96 33
+Teléfono móvil: +34 650 74 46 32
+NHC: 7078521
+NASS: 964300840415
+
+Datos asistenciales.
+Médico: Dra. María Rosario García Reyes. NC 119722038. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 03/07/1991
+Episodio: 89842839
+Hospital: Hospital Regional Universitario de Málaga
+
+Informe clínico del paciente:
+Paciente de ascendencia centroasiática de 52 años de edad, acompañado de su padre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-therapy.org. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es TT063EGM586. 

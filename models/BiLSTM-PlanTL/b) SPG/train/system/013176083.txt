@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Emilio Guillen Ibáñez
+DNI: 18244077V
+Fecha de nacimiento: 12/05/2011
+Género: H
+Domicilio: Calle del Nuncio 29
+Ciudad: San Vicente del Raspeig, Cádiz, Andalucía
+Código postal: 11017
+Email: guillen.ibanez1222@udc.es
+Teléfono fijo: +34 956 21 62 18
+Teléfono móvil: +34 656 26 64 81
+NHC: 5742105
+NASS: 849618049548
+Condición de riesgo: Trabajador Industrial
+
+Datos asistenciales.
+Médico: Dr. Rubén Costa Luque. NC 727535719. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 28/06/2019
+Episodio: 84819580
+Centro de salud: Centro de Salud Arganzuela
+
+Informe clínico del paciente:
+Paciente vegetariano de 8 años de edad, acompañado de su hermana. Se realizó un expediente con URL http://example-medical.edu//53382622K. 

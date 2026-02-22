@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Fernando Valero Mora
+DNI: 59819780T
+Fecha de nacimiento: 24/08/1950
+Género: M
+Domicilio: Calle de las Huertas 93
+Ciudad: Málaga, Zamora, Castilla y León
+Código postal: 49294
+Email: fernando-valero-mora1461@protonmail.com
+Teléfono fijo: +34 980 86 76 93
+Teléfono móvil: +34 780 48 63 11
+NHC: 2807906
+NASS: 122907070769
+Condición de riesgo: Científico de Investigación
+
+Datos asistenciales.
+Médico: Dr. Rodrigo Jurado Montero. NC 180047720. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/10/1975
+Episodio: 38244207
+Hospital: Hospital Universitario Marqués de Valdecilla
+
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 25 años de edad, acompañado de su hija. Se realizó un expediente con URL http://example-biotech.com//10111156M. 

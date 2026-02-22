@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Antonio Prieto De la Fuente
+DNI: 83723615G
+Fecha de nacimiento: 09/06/1940
+Género: V
+Domicilio: Calle del Amparo 52
+Ciudad: Ciudad autónoma de Melilla, Melilla, 
+Código postal: 51073
+Email: delafuente@icloud.com
+Teléfono fijo: +34 951 25 46 52
+Teléfono móvil: +34 651 49 74 64
+NHC: 2053236
+NASS: 475203107872
+Condición de riesgo: Policía
+
+Datos asistenciales.
+Médico: Dra. Irene Arias Blazquez. NC 352267669. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/04/1995
+Hospital: Hospital Universitari i Politècnic La Fe
+Matrícula del coche: 6691ZOC
+Modelo: Chevrolet Silverado
+VIN: VSNTFVCOARZ349039
+
+Informe clínico del paciente:
+Paciente no fumador de 54 años de edad. 

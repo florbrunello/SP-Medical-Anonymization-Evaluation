@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: María Mar Costa Manzano
+DNI: 75413513D
+Fecha de nacimiento: 07/03/2000
+Género: Femenino
+Domicilio: Calle del Sombrerete 60
+Ciudad: Teruel, Menorca, Islas Baleares
+Código postal: 07904
+Email: mariamar-manzano@isciii.es
+Teléfono fijo: +34 971 63 24 27
+Teléfono móvil: +34 771 69 00 64
+NHC: 0175689
+NASS: 341643980550
+Condición de riesgo: Trabajador Industrial
+
+Datos asistenciales.
+Médico: Dra. Laura Franco Cruz. NC 293437641. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/08/2001
+Centro de salud: Centro de Salud Puente de Vallecas
+Matrícula del coche: 1044TQJ
+Modelo: BMW 3 Series
+VIN: VSMD9FBN9MI473706
+
+Informe clínico del paciente:
+Paciente judío de un año de edad, acompañado de su abuela. El servidor para envío de información desde cual el usuario se comunica es smtp://example-dermatology.org. 

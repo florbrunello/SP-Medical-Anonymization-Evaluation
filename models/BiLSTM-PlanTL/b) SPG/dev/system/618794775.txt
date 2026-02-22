@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: María Antonia Pérez Pacheco
+DNI: 49725126T
+Fecha de nacimiento: 18/09/1961
+Género: Femenino
+Domicilio: Calle de la Libertad 2, 6C
+Ciudad: Totana, Cuenca, Castilla-La Mancha
+Código postal: 16253
+Email: mariaantonia-pacheco@ual.es
+Teléfono fijo: +34 969 52 21 44
+Teléfono móvil: +34 669 23 82 81
+NHC: 4822451
+Condición de riesgo: Químico
+
+Datos asistenciales.
+Médico: Dra. Amparo Guillen Martín. NC 453277882. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 23/11/1993
+Episodio: 69056098
+Centro de salud: Centro de Salud Tetuán
+
+Informe clínico del paciente:
+Paciente víctima de violencia de género de 32 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.123.15, con dirección MAC 24:8A:D6:00:4D:1D. 

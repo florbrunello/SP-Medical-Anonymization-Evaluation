@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Vanessa Marcos Paredes
+DNI: 40409494N
+Fecha de nacimiento: 05/04/1929
+Género: F
+Domicilio: Calle de Toledo 32
+Ciudad: Socuéllamos, Albacete, Castilla-La Mancha
+Código postal: 02007
+Email: vanessa-marcosparedes@yahoo.com
+Teléfono fijo: +34 967 79 90 62
+Teléfono móvil: +34 667 60 38 92
+NHC: 8748390
+NASS: 731363117416
+Condición de riesgo: Conserje
+
+Datos asistenciales.
+Médico: Dr. Juan Ramón Estevez Pastor. NC 840883027. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 08/02/1937
+Episodio: 19509512
+Centro de salud: Centro de Salud Fuenlabrada
+
+Informe clínico del paciente:
+Paciente vegano de 7 años de edad, acompañado de su abuela. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.215.154, con dirección MAC 5B:95:8A:61:8B:FD. Se registró una sesión de huella dactilar, el código obtenido para revisarla es KZ184EAA582. 

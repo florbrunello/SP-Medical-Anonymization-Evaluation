@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: José Carlos Ramos Santiago
+DNI: 53486897Y
+Fecha de nacimiento: 20/08/1998
+Género: M
+Domicilio: Calle de Lope de Rueda 72, 9Y
+Ciudad: Estepa, Zamora, Castilla y León
+Código postal: 49130
+Email: jP6P8rcF@uhu.es
+Teléfono fijo: +34 980 48 87 55
+Teléfono móvil: +34 780 83 16 75
+NHC: 5756302
+
+Datos asistenciales.
+Médico: Dra. Lara Salazar Torres. NC 615657724. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/01/2022
+Hospital: Hospital Universitario Puerta de Hierro Majadahonda
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 23 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.142.86, con dirección MAC 15:33:F6:E0:0F:93. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es RT453OKF639. 

@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Manuela Muñoz Cruz
+DNI: 50779635M
+Fecha de nacimiento: 29/12/1938
+Género: Mujer
+Domicilio: Calle de las Tres Cruces 91
+Ciudad: Córdoba, Ibiza, Islas Baleares
+Código postal: 07903
+Email: munoz470@udc.es
+Teléfono fijo: +34 971 02 77 15
+Teléfono móvil: +34 771 01 61 10
+NHC: 7655388
+NASS: 709942523510
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dr. Mariano Hidalgo Ríos. NC 189749713. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/03/1990
+Episodio: 38668114
+Hospital: Complejo Asistencial Universitario Salamanca
+Matrícula del coche: 2947DNL
+Modelo: BMW 3 Series
+VIN: VSDV3SEI0KK272636
+
+Informe clínico del paciente:
+Paciente no fumador de 51 años de edad. 

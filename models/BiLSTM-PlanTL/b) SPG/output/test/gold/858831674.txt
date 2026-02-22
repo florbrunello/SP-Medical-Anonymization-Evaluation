@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Sergio Otero Lara
+DNI: 50472535R
+Fecha de nacimiento: 31/07/1939
+Género: H
+Domicilio: Calle de O'Donnell 51
+Ciudad: San Fernando, Gerona, Cataluña
+Código postal: 17881
+Email: lara263@imibic.org
+Teléfono fijo: +34 972 87 39 18
+Teléfono móvil: +34 772 07 13 30
+NHC: 0725098
+NASS: 689902970527
+
+Datos asistenciales.
+Médico: Dr. Sergi Soto Mateos. NC 671603425. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/08/1985
+Episodio: 61250800
+Hospital: Hospital Regional Universitario de Málaga
+
+Informe clínico del paciente:
+Paciente fumador de 46 años de edad, acompañado de su abuelo. 

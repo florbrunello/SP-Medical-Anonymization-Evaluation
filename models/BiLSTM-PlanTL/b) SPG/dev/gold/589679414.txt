@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: María Antonia Hidalgo Vega
+DNI: 84087005V
+Fecha de nacimiento: 16/10/1983
+Género: Femenino
+Domicilio: Calle de Jesús y María 4, 3R
+Ciudad: Hellín, Zamora, Castilla y León
+Código postal: 49571
+Email: vega@outlook.com
+Teléfono fijo: +34 980 98 56 31
+Teléfono móvil: +34 780 60 23 48
+NHC: 0314534
+NASS: 777404509564
+Condición de riesgo: Limpiador
+
+Datos asistenciales.
+Médico: Dra. Elisa Arias Escobar. NC 415823706. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 07/11/2019
+Episodio: 26481681
+Hospital: Complejo Asistencial Universitario de León
+
+Informe clínico del paciente:
+Paciente de tez blanca de 36 años de edad, acompañado de su marido. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.130.232, con dirección MAC 8B:90:E6:47:61:EB. Se registró una sesión de huella dactilar, el código obtenido para revisarla es JB925YIF257. 

@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Jorge Escudero Luna
+DNI: 76191301Y
+Fecha de nacimiento: 17/02/1941
+Género: H
+Domicilio: Calle del Oso 25
+Ciudad: Reus, Menorca, Islas Baleares
+Código postal: 07321
+Email: jorgeescudero_luna1198@us.es
+Teléfono fijo: +34 971 33 32 00
+Teléfono móvil: +34 771 52 91 68
+NHC: 8334100
+NASS: 666895427818
+Condición de riesgo: Electricista
+
+Datos asistenciales.
+Médico: Dr. Mariano Valero Galvez. NC 029419140. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 08/04/2007
+Episodio: 43526810
+Hospital: Hospital Universitari i Politècnic La Fe
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 66 años de edad. El servidor para envío de información desde cual el usuario se comunica es smtp://example-neurology.com. 

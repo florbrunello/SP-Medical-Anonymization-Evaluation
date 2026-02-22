@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Concepción Manzano Iglesias
+DNI: 82137786W
+Fecha de nacimiento: 21/03/1988
+Género: Femenino
+Domicilio: Calle de San Ildefonso 59
+Ciudad: Salamanca, Ibiza, Islas Baleares
+Código postal: 07182
+Email: concepcion_iglesias@h12o.es
+Teléfono fijo: +34 971 78 00 31
+Teléfono móvil: +34 671 98 03 03
+NHC: 1457357
+Condición de riesgo: Guardia de Seguridad
+
+Datos asistenciales.
+Médico: Dra. Lourdes Franco Rivera. NC 773478692. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/02/2000
+Episodio: 59678016
+Hospital: Hospital Universitari i Politècnic La Fe
+Matrícula del coche: 9456HPR
+Modelo: Mazda CX-5
+VIN: VSCHWE6QN6M984881
+
+Informe clínico del paciente:
+Paciente musulman de 11 años de edad, acompañado de su madre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-hospital.org. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es BK746FVF583. 

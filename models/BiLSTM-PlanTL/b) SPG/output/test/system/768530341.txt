@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Yolanda Redondo Santiago
+DNI: 25511757L
+Fecha de nacimiento: 27/02/1957
+Género: F
+Domicilio: Calle de Áncora 35, 7T
+Ciudad: Murcia, Lérida, Cataluña
+Código postal: 25081
+Email: redondo@ciberned.es
+Teléfono fijo: +34 973 39 10 54
+FAX: +34 973 99 03 94
+NHC: 7134269
+NASS: 395789255976
+
+Datos asistenciales.
+Médico: Dr. José Miguel Vega Caballero. NC 764020996. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/01/1961
+Episodio: 78626246
+Centro de salud: Centro de Salud Collado Villalba
+Matrícula del coche: 2472HHB
+Modelo: Honda CR-V
+VIN: VSEE2E62O2P987203
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 3 años de edad, acompañado de su padre. Se realizó un expediente con URL http://example-hospital.org//52873417M. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es AV032EJV726. 

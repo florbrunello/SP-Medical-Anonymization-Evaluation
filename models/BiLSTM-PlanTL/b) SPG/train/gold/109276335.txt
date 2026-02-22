@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Gerard Guerrero Martín
+DNI: 77233149T
+Fecha de nacimiento: 13/05/2004
+Género: Varón
+Domicilio: Calle de los Jardines 73
+Ciudad: Pamplona, Castellón, Comunidad Valenciana
+Código postal: 12461
+Email: gerard-martin@ciberer.es
+Teléfono fijo: +34 964 02 47 56
+Teléfono móvil: +34 664 13 00 91
+NHC: 8960907
+NASS: 020318865495
+Condición de riesgo: Carpintero
+
+Datos asistenciales.
+Médico: Dr. Jaime Abad Suárez. NC 560906743. Investigador Clínico en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/08/2006
+Episodio: 71723644
+Hospital: Hospital General Universitario Reina Sofía
+Matrícula del coche: 8134PWM
+Modelo: Ford Mustang
+VIN: VSUHGWA0M7L309599
+
+Informe clínico del paciente:
+Paciente de tez blanca de 2 años de edad, acompañado de su abuela. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.241.158, con dirección MAC 75:24:6D:D9:33:86. 

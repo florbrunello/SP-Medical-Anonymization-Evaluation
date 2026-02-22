@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Aitor Costa Marín
+DNI: 42579985Q
+Fecha de nacimiento: 27/05/1981
+Género: Hombre
+Domicilio: Calle de Génova 47, 1R
+Ciudad: Alcobendas, Cantabria, Cantabria
+Código postal: 39594
+Email: aitor.marin@ciberer.es
+Teléfono fijo: +34 942 99 08 23
+Teléfono móvil: +34 742 15 88 28
+NHC: 7700981
+Condición de riesgo: Dentista
+
+Datos asistenciales.
+Médico: Dra. Francisca Márquez Salazar. NC 602271851. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 06/05/2001
+Episodio: 73100677
+Hospital: Hospital General de Villalba
+Matrícula del coche: 1847FVU
+Modelo: Kia Sorento
+VIN: VSOKFWMHT1B962956
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 19 años de edad. 

@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Valentín Robles Román
+DNI: 86355193Z
+Fecha de nacimiento: 26/08/2004
+Género: Hombre
+Domicilio: Calle de Santa Engracia 8, 1H
+Ciudad: Ermua, La Coruña, Galicia
+Código postal: 15985
+Email: valentin.robles@imibic.org
+Teléfono fijo: +34 981 39 48 41
+Teléfono móvil: +34 781 64 08 18
+NHC: 2756584
+NASS: 265236311492
+Condición de riesgo: Trabajador de Servicios de Limpieza
+
+Datos asistenciales.
+Médico: Dra. Purificación Mesa Galan. NC 756222288. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/10/2024
+Hospital: Complejo Asistencial Universitario de León
+Matrícula del coche: 2188CRE
+Modelo: Audi A4
+VIN: VSSX9DYUI9H990969
+
+Informe clínico del paciente:
+Paciente de tez blanca de 20 años de edad. Se realizó un expediente con URL http://example-healthcare.net//34171781Y. 

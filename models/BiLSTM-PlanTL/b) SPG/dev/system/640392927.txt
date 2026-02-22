@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Josefa Mateo Pacheco
+DNI: 52501023G
+Fecha de nacimiento: 14/12/1960
+Género: F
+Domicilio: Calle del Marqués de Urquijo 64
+Ciudad: Zafra, Granada, Andalucía
+Código postal: 18626
+Email: josefapacheco@hotmail.com
+Teléfono fijo: +34 958 88 27 34
+Teléfono móvil: +34 758 35 85 89
+NHC: 8264838
+NASS: 287388926599
+
+Datos asistenciales.
+Médico: Dr. Tomás Prieto Rodríguez. NC 065483615. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 25/05/1966
+Episodio: 37087742
+Centro de salud: Centro de Salud Pozuelo de Alarcón
+Matrícula del coche: 9126ANN
+Modelo: Subaru Outback
+VIN: VSY6BRQ8UHG002434
+
+Informe clínico del paciente:
+Paciente no fumador de 5 años de edad, acompañado de su padre. Se realizó un expediente con URL http://example-radiology.edu//29762585R. 

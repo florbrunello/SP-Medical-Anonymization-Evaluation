@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Sofía Cortés Varela
+DNI: 59387570Y
+Fecha de nacimiento: 14/04/2003
+Género: Mujer
+Domicilio: Calle de San Millán 21
+Ciudad: Palencia, Lugo, Galicia
+Código postal: 27758
+Email: sofia_cortes_varela2022@us.es
+Teléfono fijo: +34 982 45 13 23
+FAX: +34 982 70 65 40
+NHC: 3352522
+
+Datos asistenciales.
+Médico: Dra. Cristina Medina Villanueva. NC 301557185. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/04/2019
+Episodio: 96709797
+Hospital: Complejo Hospitalario Universitario de Santiago
+Matrícula del coche: 5375BLS
+Modelo: Tesla Model 3
+VIN: VSTWZSII0SR051494
+
+Informe clínico del paciente:
+Paciente judío de 15 años de edad, acompañado de su abuela. Se registró una sesión de huella dactilar, el código obtenido para revisarla es GD897ISJ176. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es WJ032MQH115. 

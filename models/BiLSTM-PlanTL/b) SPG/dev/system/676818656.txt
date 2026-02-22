@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Almudena Franco Méndez
+DNI: 46236629M
+Fecha de nacimiento: 15/02/2023
+Género: M
+Domicilio: Calle de Fortuny 90, 5L
+Ciudad: Socuéllamos, Valladolid, Castilla y León
+Código postal: 47101
+Email: UieTEq79@isciii.es
+Teléfono fijo: +34 983 62 65 30
+FAX: +34 983 03 31 54
+NHC: 4703301
+NASS: 847854025508
+Condición de riesgo: Ama de casa
+
+Datos asistenciales.
+Médico: Dr. Lorenzo Peña Álvarez. NC 871034409. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 11417507
+Hospital: Hospital Clínic Barcelona
+
+Informe clínico del paciente:
+Paciente exfumador de 2 años de edad, acompañado de su hermana. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.12.106, con dirección MAC 29:13:30:0D:DC:8F. 

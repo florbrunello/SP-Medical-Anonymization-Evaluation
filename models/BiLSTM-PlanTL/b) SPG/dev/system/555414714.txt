@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Carmen Molina Moya
+DNI: 32394984J
+Fecha de nacimiento: 02/09/1937
+Género: Femenino
+Domicilio: Calle del Nuncio 65
+Ciudad: Badajoz, Ibiza, Islas Baleares
+Código postal: 07348
+Email: molina@aol.com
+Teléfono fijo: +34 971 31 52 79
+Teléfono móvil: +34 771 95 36 93
+NHC: 2047307
+NASS: 487865797753
+Condición de riesgo: Policía
+
+Datos asistenciales.
+Médico: Dr. Salvador Acosta Del Rio. NC 909240104. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 18/11/1952
+Episodio: 35267235
+Hospital: Hospital Universitario de Basurto
+Matrícula del coche: 2040GZI
+Modelo: Chevrolet Silverado
+VIN: VSU32KFPR4E956186
+
+Informe clínico del paciente:
+Paciente musulman de 15 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.47.2, con dirección MAC 84:DA:F3:61:4C:B6. Se registró una sesión de huella dactilar, el código obtenido para revisarla es BR790ELE017. Se registró una sesión de firma biométrica, el código obtenido para revisarla es GD386GGU806. 

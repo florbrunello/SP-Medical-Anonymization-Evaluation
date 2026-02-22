@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: José Luis Diez Márquez
+DNI: 34386394Z
+Fecha de nacimiento: 30/12/2015
+Género: V
+Domicilio: Calle del Doctor Esquerdo 99, 2S
+Ciudad: Alcalá de Henares, Palencia, Castilla y León
+Código postal: 34096
+Email: joseluis-diez@gmail.com
+Teléfono fijo: +34 979 26 43 47
+Teléfono móvil: +34 779 55 65 38
+NHC: 7431681
+Condición de riesgo: Microbiólogo
+
+Datos asistenciales.
+Médico: Dra. María Esther Abad Roca. NC 985246279. Gastroenteróloga Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/08/2019
+Episodio: 38066367
+Centro de salud: Centro de Salud Majadahonda
+
+Informe clínico del paciente:
+Paciente terminal de 3 años de edad, acompañado de su padre. Se realizó un expediente con URL http://example-healthcare.net//58277333N. Se registró una sesión de huella dactilar, el código obtenido para revisarla es PO702GVF671. 

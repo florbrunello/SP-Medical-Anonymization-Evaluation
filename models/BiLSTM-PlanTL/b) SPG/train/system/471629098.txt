@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Adriana Delgado Moya
+DNI: 83337772D
+Fecha de nacimiento: 06/04/1945
+Género: F
+Domicilio: Calle de Narváez 66
+Ciudad: Marbella, Vizcaya, Pais Vasco
+Código postal: 48264
+Email: adriana.delgado_moya@ioba.med.uva.es
+Teléfono fijo: +34 946 93 01 61
+Teléfono móvil: +34 746 91 17 36
+NHC: 2303366
+NASS: 899564006818
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dra. Rebeca León Cuesta. NC 307412386. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 23/07/2015
+Episodio: 32053920
+Hospital: Hospital Universitario La Paz
+Matrícula del coche: 5744GIJ
+Modelo: Jeep Wrangler
+VIN: VSQ28EHFXFP133724
+
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 70 años de edad. 

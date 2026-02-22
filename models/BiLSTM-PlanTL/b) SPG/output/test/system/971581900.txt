@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Encarnación Santos Menendez
+DNI: 43811831M
+Fecha de nacimiento: 15/10/2012
+Género: Femenino
+Domicilio: Calle de la Cabeza del Rey Don Pedro 80, 7E
+Ciudad: Palencia, Segovia, Castilla y León
+Código postal: 40906
+Email: encarnacion-santos@hotmail.com
+Teléfono fijo: +34 921 32 19 29
+Teléfono móvil: +34 621 20 36 92
+NHC: 4081359
+Condición de riesgo: Trabajador Industrial
+
+Datos asistenciales.
+Médico: Dra. María Rosario Andres Rey. NC 728265965. Neuropsicóloga Clínica Investigadora. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/05/2017
+Episodio: 37805974
+Hospital: Hospital Universitario Rey Juan Carlos de Mostoles
+Matrícula del coche: 1900NSM
+Modelo: Nissan Altima
+VIN: VSSCQRPEY4W776709
+
+Informe clínico del paciente:
+Paciente exfumador de 4 años de edad, acompañado de su tía. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es UH260VHM028. 

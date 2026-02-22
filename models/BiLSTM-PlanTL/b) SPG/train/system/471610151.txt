@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: María Rosario Montero Pardo
+DNI: 77434661D
+Fecha de nacimiento: 20/04/1946
+Género: Femenino
+Domicilio: Calle del Carmen 90
+Ciudad: Las Palmas de Gran Canaria, Córdoba, Andalucía
+Código postal: 14927
+Email: mariarosario.monteropardo@ciberisciii.es
+Teléfono fijo: +34 957 60 47 79
+Teléfono móvil: +34 757 43 43 88
+NHC: 7295172
+NASS: 619713134177
+Condición de riesgo: Inspector de Seguridad Minera
+
+Datos asistenciales.
+Médico: Dra. Teresa Lorenzo Rueda. NC 813182012. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/02/2025
+Episodio: 88580299
+Hospital: Complejo Hospitalario Universitario de Lugo
+Matrícula del coche: 8386GOL
+Modelo: Chevrolet Silverado
+VIN: VSUW4T1MRYS042417
+
+Informe clínico del paciente:
+Paciente transeúnte de 78 años de edad, acompañado de su pareja. Se realizó un expediente con URL http://example-healthcare.net//80000839Q. Se registró una sesión de huella dactilar, el código obtenido para revisarla es DV672QWD470. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es FW223OBF813. 

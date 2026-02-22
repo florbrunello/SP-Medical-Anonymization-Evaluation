@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Jorge Costa Flores
+DNI: 22667765T
+Fecha de nacimiento: 24/10/1952
+Género: V
+Domicilio: Calle del Olivar 18
+Ciudad: Ponferrada, Vizcaya, Pais Vasco
+Código postal: 48908
+Email: jorge.costa@ioba.med.uva.es
+Teléfono fijo: +34 946 85 86 81
+FAX: +34 946 91 93 82
+NHC: 2388056
+Condición de riesgo: Trabajador de Almacén
+
+Datos asistenciales.
+Médico: Dra. Rosa Crespo Montero. NC 251711032. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/08/1990
+Episodio: 23353819
+Centro de salud: Centro de Salud Málaga Oeste
+
+Informe clínico del paciente:
+Paciente de tez blanca de 37 años de edad. 

@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: María Carrillo Soto
+DNI: 77601330C
+Fecha de nacimiento: 17/10/2005
+Género: Mujer
+Domicilio: Calle de Santa Engracia 15, 5C
+Ciudad: Cáceres, Cantabria, Cantabria
+Código postal: 39829
+Email: maria@salud.madrid.org
+Teléfono fijo: +34 942 17 84 95
+Teléfono móvil: +34 642 79 49 69
+NHC: 4549694
+NASS: 848643075395
+Condición de riesgo: Médico
+
+Datos asistenciales.
+Médico: Dr. Ángel Galan Guerra. NC 790300883. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/05/2011
+Hospital: Hospital Clínic San Carlos
+Matrícula del coche: 4665ZZB
+Modelo: Subaru Outback
+VIN: VSQS1BLHH3E502468
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena centroamericana de 5 años de edad, acompañado de su hermano. 

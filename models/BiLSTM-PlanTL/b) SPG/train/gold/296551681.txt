@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Elena Martín Cortés
+DNI: 93490778X
+Fecha de nacimiento: 26/10/1944
+Género: Femenino
+Domicilio: Calle de Valverde 59, 6W
+Ciudad: Xirivella, Málaga, Andalucía
+Código postal: 29829
+Email: KBFihfmA539@uca.es
+Teléfono fijo: +34 951 63 31 86
+FAX: +34 951 01 17 78
+NHC: 3313637
+NASS: 226018659881
+
+Datos asistenciales.
+Médico: Dra. Noemí Aguilar Menendez. NC 336742481. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/05/1964
+Hospital: Hospital Universitario Fundació Jiménez Díaz
+Matrícula del coche: 7366OEN
+Modelo: Nissan Altima
+VIN: VSLRU8XSDMK372896
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática occidental de 19 años de edad, acompañado de su abuelo. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.201.72, con dirección MAC 3A:4B:54:EA:3B:AA. 

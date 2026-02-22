@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Rosa Miguel García
+DNI: 49610127R
+Fecha de nacimiento: 28/12/2008
+Género: Mujer
+Domicilio: Calle del León 92
+Ciudad: San Vicente del Raspeig, Vizcaya, Pais Vasco
+Código postal: 48789
+Email: miguel.garcia99@imibic.org
+Teléfono fijo: +34 946 93 38 00
+Teléfono móvil: +34 646 10 50 70
+NHC: 5530958
+NASS: 590962939618
+
+Datos asistenciales.
+Médico: Dra. Pilar Miguel Domínguez. NC 323994005. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Centro de salud: Centro de Salud Barajas
+Matrícula del coche: 6525GXR
+Modelo: Mazda CX-5
+VIN: VSSJWDNC0JT427769
+
+Informe clínico del paciente:
+Paciente no fumador de 16 años de edad. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es IK207LGM450. 

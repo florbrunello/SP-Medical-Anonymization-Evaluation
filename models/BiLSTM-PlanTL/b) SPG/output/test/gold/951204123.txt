@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Claudia Galvez Casado
+DNI: 39682102H
+Fecha de nacimiento: 17/02/1986
+Género: Mujer
+Domicilio: Calle del Sombrerete 73, 3A
+Ciudad: Dos Hermanas, Ibiza, Islas Baleares
+Código postal: 07904
+Email: claudia.casado@ciberned.es
+Teléfono fijo: +34 971 60 38 32
+Teléfono móvil: +34 671 21 04 81
+NHC: 4309849
+Condición de riesgo: Trabajador de Servicios de Limpieza
+
+Datos asistenciales.
+Médico: Dr. Ángel Aparicio Aranda. NC 298631931. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/05/2015
+Hospital: Hospital Universitario de Basurto
+Matrícula del coche: 7752PLO
+Modelo: Toyota Corolla
+VIN: VSJBU9BRGYN774156
+
+Informe clínico del paciente:
+Paciente no fumador de 29 años de edad, acompañado de su padre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.56.59, con dirección MAC 09:E1:71:3B:74:41. 

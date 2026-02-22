@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Oliver Torres Conde
+DNI: 95895085N
+Fecha de nacimiento: 29/09/1929
+Género: Varón
+Domicilio: Calle de la Magdalena 85, 7G
+Ciudad: Úbeda, Asturias, Asturias
+Código postal: 33751
+Email: torres@ucm.es
+Teléfono fijo: +34 984 51 93 75
+Teléfono móvil: +34 784 63 13 56
+NHC: 3190168
+Condición de riesgo: Electricista
+
+Datos asistenciales.
+Médico: Dr. Jon Pérez Soto. NC 858584876. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 27/11/1979
+Episodio: 51163929
+Hospital: Hospital Regional Universitario de Málaga
+
+Informe clínico del paciente:
+Paciente vegano de 50 años de edad, acompañado de su compañero de trabajo. 

@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Tomás Campos Pascual
+DNI: 20869218F
+Fecha de nacimiento: 23/09/1945
+Género: H
+Domicilio: Calle del León 41, 3L
+Ciudad: Vigo, Córdoba, Andalucía
+Código postal: 14352
+Email: tomas_campos@gmail.com
+Teléfono fijo: +34 957 53 13 15
+Teléfono móvil: +34 657 90 60 99
+NHC: 7052220
+NASS: 548642482143
+Condición de riesgo: Pintor de Construcción
+
+Datos asistenciales.
+Médico: Dra. Laia Robles Ortega. NC 770260175. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/07/1983
+Episodio: 43646950
+Hospital: Hospital Universitario Puerta de Hierro Majadahonda
+Matrícula del coche: 9048ZWX
+Modelo: Ford F-150
+VIN: VSHDZLUF4WG653694
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 37 años de edad. El servidor para envío de información desde cual el usuario se comunica es smtp://example-dermatology.org. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es KB880VDH811. Se registró una sesión de firma biométrica, el código obtenido para revisarla es ZE563XID468. 

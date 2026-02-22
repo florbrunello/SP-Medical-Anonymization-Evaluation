@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Javier Guerra González
+DNI: 33723532N
+Fecha de nacimiento: 28/10/1964
+Género: Hombre
+Domicilio: Calle de las Infantas 64
+Ciudad: Xàtiva, Córdoba, Andalucía
+Código postal: 14519
+Email: javiergonzalez1528@h12o.es
+Teléfono fijo: +34 957 38 84 19
+Teléfono móvil: +34 757 33 88 64
+NHC: 3330055
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dr. Álex Rueda Soler. NC 737145463. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 29/09/2015
+Hospital: Hospital Universitario Puerto Real
+Matrícula del coche: 7761EPO
+Modelo: Jeep Wrangler
+VIN: VSAJLDC5OAZ859711
+
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 50 años de edad, acompañado de su hijo. Se realizó un expediente con URL http://example-neurology.com//65390546H. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es AL652TIM595. 

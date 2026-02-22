@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Samuel Morales Heredia
+DNI: 40128624H
+Fecha de nacimiento: 13/01/1957
+Género: Hombre
+Domicilio: Calle del Olivar 22, 4H
+Ciudad: Marbella, Orense, Galicia
+Código postal: 32928
+Email: samuel.heredia1484@ucm.es
+Teléfono fijo: +34 988 24 18 51
+FAX: +34 988 76 59 49
+NHC: 3474864
+NASS: 152738950378
+Condición de riesgo: Trabajador de Sanitización
+
+Datos asistenciales.
+Médico: Dra. María Jesús Otero Miranda. NC 683789015. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 29/12/1992
+Episodio: 77011243
+Hospital: Hospital Clínic Barcelona
+Matrícula del coche: 9268NBW
+Modelo: Kia Sorento
+VIN: VSUDBWB99WL125979
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática del sudeste de 35 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.243.58, con dirección MAC 14:4B:F1:2A:40:CD. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es DU525HLK228. 

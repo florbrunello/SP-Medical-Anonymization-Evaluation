@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: María Pilar Montoya Sanz
+DNI: 43451652Y
+Fecha de nacimiento: 08/01/1991
+Género: M
+Domicilio: Calle del Prado 56
+Ciudad: Elche, Córdoba, Andalucía
+Código postal: 14271
+Email: mariapilarmontoya@hotmail.com
+Teléfono fijo: +34 957 92 55 78
+Teléfono móvil: +34 757 64 39 98
+NHC: 3642620
+NASS: 501257145148
+
+Datos asistenciales.
+Médico: Dra. Adriana Rivero Silva. NC 332917345. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/02/2025
+Episodio: 19005512
+Centro de salud: Centro de Salud Delicias
+Matrícula del coche: 6028IYP
+Modelo: Ford F-150
+VIN: VSC2EGI0KWT780172
+
+Informe clínico del paciente:
+Paciente de tez blanca de 34 años de edad, acompañado de su hija. Se registró una sesión de firma biométrica, el código obtenido para revisarla es ID349WNG773. 

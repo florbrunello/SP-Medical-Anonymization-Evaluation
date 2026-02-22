@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Alfonso Reyes Conde
+DNI: 27801812X
+Fecha de nacimiento: 04/05/1940
+Género: H
+Domicilio: Calle de la Luna 7, 5J
+Ciudad: Ronda, Región de Murcia, Región de Murcia
+Código postal: 30081
+Email: reyes@uca.es
+Teléfono fijo: +34 968 11 41 84
+Teléfono móvil: +34 668 99 83 05
+NHC: 6425666
+NASS: 453395307165
+Condición de riesgo: Bombero
+
+Datos asistenciales.
+Médico: Dr. Marc Zamora Iglesias. NC 185014445. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/02/2006
+Centro de salud: Centro de Salud Delicias
+Matrícula del coche: 3407OOI
+Modelo: Jeep Wrangler
+VIN: VSNLJV8CHDJ716034
+
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 65 años de edad, acompañado de su madre. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es VM782JVJ889. 

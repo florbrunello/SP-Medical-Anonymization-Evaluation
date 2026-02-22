@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Sebastián Mesa Robles
+DNI: 67828581V
+Fecha de nacimiento: 19/05/2008
+Género: Varón
+Domicilio: Calle de Atocha 57
+Ciudad: Plasencia, Lérida, Cataluña
+Código postal: 25262
+Email: sebastianmesarobles@isciii.es
+Teléfono fijo: +34 973 14 04 62
+FAX: +34 973 58 73 76
+NHC: 4925653
+NASS: 886643780014
+Condición de riesgo: Trabajador Agrícola
+
+Datos asistenciales.
+Médico: Dra. María Concepción Padilla Montes. NC 349394405. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/10/2021
+Episodio: 98183598
+Centro de salud: Centro de Salud Valdemoro
+
+Informe clínico del paciente:
+Paciente de tez blanca de 13 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.204.227, con dirección MAC 0D:C8:C1:AC:D7:58. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es LC076KYG016. 

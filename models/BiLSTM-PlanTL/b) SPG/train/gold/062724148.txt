@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Arturo Mendoza Jiménez
+DNI: 55346728B
+Fecha de nacimiento: 24/04/2022
+Género: V
+Domicilio: Calle de Narváez 23
+Ciudad: Teruel, La Rioja, La Rioja
+Código postal: 26357
+Email: arturo-mendoza@h12o.es
+Teléfono fijo: +34 941 15 86 79
+Teléfono móvil: +34 741 37 10 92
+NHC: 6493775
+Condición de riesgo: Trabajador de Minería
+
+Datos asistenciales.
+Médico: Dr. Jonathan Garrido Robles. NC 249977307. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 58356825
+Hospital: Hospital de Manises
+Matrícula del coche: 5713QXA
+Modelo: Chrysler Pacifica
+VIN: VSJBD7BONJD057560
+
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 2 años de edad, acompañado de su madre. Se registró una sesión de huella dactilar, el código obtenido para revisarla es JG155ZML540. Se registró una sesión de firma biométrica, el código obtenido para revisarla es TY863VGD061. 

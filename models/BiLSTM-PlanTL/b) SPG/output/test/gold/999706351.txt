@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Fernando Méndez Diez
+DNI: 51881861W
+Fecha de nacimiento: 15/07/1933
+Género: V
+Domicilio: Calle de Piamonte 89, 2Q
+Ciudad: Totana, Cantabria, Cantabria
+Código postal: 39179
+Email: fernandodiez@yahoo.com
+Teléfono fijo: +34 942 14 64 21
+Teléfono móvil: +34 742 35 80 90
+NHC: 8508366
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dr. César Vega Alonso. NC 585819417. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/03/2022
+Episodio: 58126454
+Centro de salud: Centro de Salud Moratalaz
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 88 años de edad, acompañado de su hijo. El servidor para envío de información desde cual el usuario se comunica es smtp://example-cardiology.com. 

@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Iñigo Ramos Jurado
+DNI: 27512036B
+Fecha de nacimiento: 12/01/2007
+Género: Hombre
+Domicilio: Calle de las Salesas 4, 2G
+Ciudad: Ontinyent, Granada, Andalucía
+Código postal: 18113
+Email: inigo@ucm.es
+Teléfono fijo: +34 958 32 70 33
+Teléfono móvil: +34 758 13 45 36
+NHC: 9282851
+Condición de riesgo: Limpiador
+
+Datos asistenciales.
+Médico: Dr. Víctor Manuel Méndez Luna. NC 568612135. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 20/08/2020
+Episodio: 91492305
+Centro de salud: Centro de Salud Parla
+Matrícula del coche: 4425FEF
+Modelo: Volkswagen Golf
+VIN: VSHEW4ARRDY108957
+
+Informe clínico del paciente:
+Paciente no fumador de 13 años de edad, acompañado de su abuela. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es ZM498SXM621. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es TB542GNC376. Se registró una sesión de firma biométrica, el código obtenido para revisarla es GY403MFB928. 

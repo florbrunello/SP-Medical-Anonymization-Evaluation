@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Gonzalo Pastor De la Fuente
+DNI: 40943681R
+Fecha de nacimiento: 19/12/2001
+Género: H
+Domicilio: Calle de Toledo 49, 7H
+Ciudad: Palma, Sevilla, Andalucía
+Código postal: 41885
+Email: pastor@gmail.com
+Teléfono fijo: +34 954 32 95 21
+Teléfono móvil: +34 654 80 16 30
+NHC: 6914724
+NASS: 695838959008
+Condición de riesgo: Trabajador de Residuos Sólidos
+
+Datos asistenciales.
+Médico: Dr. Josep Aguilar Serrano. NC 180078156. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/03/2020
+Episodio: 22870578
+Centro de salud: Centro de Salud Móstoles
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 18 años de edad, acompañado de su hija. El servidor para envío de información desde cual el usuario se comunica es smtp://example-cardiology.com. 

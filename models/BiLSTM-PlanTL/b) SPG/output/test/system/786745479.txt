@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Cristóbal Rivas Montes
+DNI: 48451016K
+Fecha de nacimiento: 12/11/2000
+Género: V
+Domicilio: Calle de Villalar 94, 7Z
+Ciudad: Xirivella, Barcelona, Cataluña
+Código postal: 08176
+Email: cristobal_montes624@h12o.es
+Teléfono fijo: +34 932 05 83 71
+Teléfono móvil: +34 634 87 72 75
+NHC: 4165420
+NASS: 658958795387
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dr. Moisés Sanz Arias. NC 150584238. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/07/2013
+Centro de salud: Centro de Salud Aluche
+Matrícula del coche: 0221JHH
+Modelo: Mazda CX-5
+VIN: VSITD7SBX1H834011
+
+Informe clínico del paciente:
+Paciente de descendencia africana de 12 años de edad, acompañado de su abuela. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es AK009HNW661. 

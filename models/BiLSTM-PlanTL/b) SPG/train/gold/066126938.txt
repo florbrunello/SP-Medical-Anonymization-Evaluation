@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Daniela Reyes Ibáñez
+DNI: 72965697Z
+Fecha de nacimiento: 11/03/1937
+Género: M
+Domicilio: Calle de San Millán 83, 2K
+Ciudad: Girona, Ávila, Castilla y León
+Código postal: 05496
+Email: daniela_ibanez@uhu.es
+Teléfono fijo: +34 920 44 60 50
+Teléfono móvil: +34 720 81 75 53
+NHC: 7860967
+NASS: 765432266363
+
+Datos asistenciales.
+Médico: Dra. Gema Roldan Plaza. NC 159280411. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 08/08/1964
+Episodio: 91578558
+Hospital: Hospital Universitario Virgen Macarena
+Matrícula del coche: 9634IHZ
+Modelo: Chrysler Pacifica
+VIN: VSSM63NV16C723602
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 27 años de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es VJ548YOJ253. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es SZ134CZH253. 

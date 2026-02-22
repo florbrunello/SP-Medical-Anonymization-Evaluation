@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: María Antonia Casas Mateo
+DNI: 47149759N
+Fecha de nacimiento: 11/07/1927
+Género: F
+Domicilio: Calle del Marqués de Cubas 13
+Ciudad: Onda, Castellón, Comunidad Valenciana
+Código postal: 12957
+Email: mariaantonia.casas@salud.madrid.org
+Teléfono fijo: +34 964 94 51 95
+Teléfono móvil: +34 664 62 04 65
+NHC: 6156516
+Condición de riesgo: Minero
+
+Datos asistenciales.
+Médico: Dra. María Inmaculada Del Rio Varela. NC 605569325. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/01/1978
+Episodio: 73305374
+Hospital: Complejo Hospitalario Universitario de A Coruña
+
+Informe clínico del paciente:
+Paciente fumador de 50 años de edad. 

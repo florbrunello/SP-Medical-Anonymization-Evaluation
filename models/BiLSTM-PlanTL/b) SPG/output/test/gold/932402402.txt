@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Diego Exposito Ramos
+DNI: 68327991M
+Fecha de nacimiento: 04/10/1991
+Género: Masculino
+Domicilio: Calle de la Paz 56
+Ciudad: Eibar, Jaén, Andalucía
+Código postal: 23472
+Email: ramos@salud.madrid.org
+Teléfono fijo: +34 953 72 68 87
+FAX: +34 953 91 11 00
+NHC: 7534458
+NASS: 042584179116
+
+Datos asistenciales.
+Médico: Dra. Lara Zamora Galan. NC 100960630. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/01/1998
+Episodio: 34732654
+Hospital: Hospital Universitario Virgen Macarena
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 6 años de edad, acompañado de su padre. 

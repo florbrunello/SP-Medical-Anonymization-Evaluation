@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Miriam Salas Pacheco
+DNI: 67487556J
+Fecha de nacimiento: 16/09/1936
+Género: F
+Domicilio: Calle del Sombrerete 16
+Ciudad: Badajoz, Ávila, Castilla y León
+Código postal: 05168
+Email: miriam.salas@uca.es
+Teléfono fijo: +34 920 88 95 07
+Teléfono móvil: +34 720 40 83 88
+NHC: 8897932
+Condición de riesgo: Trabajador de Residuos Sólidos
+
+Datos asistenciales.
+Médico: Dr. Mateo Salas Marcos. NC 024027941. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/01/1959
+Hospital: Hospital Clínic Universitario de Valencia
+Matrícula del coche: 1367WLM
+Modelo: Tesla Model 3
+VIN: VSLOQUJPF2N995769
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 22 años de edad. 

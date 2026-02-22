@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Alicia Gil Abad
+DNI: 90243008R
+Fecha de nacimiento: 22/01/1971
+Género: Femenino
+Domicilio: Calle de Valverde 44
+Ciudad: Yecla, Cádiz, Andalucía
+Código postal: 11697
+Email: alicia-abad@ual.es
+Teléfono fijo: +34 956 15 57 57
+Teléfono móvil: +34 656 65 78 01
+NHC: 0062619
+NASS: 192542806646
+Condición de riesgo: Enfermera
+
+Datos asistenciales.
+Médico: Dr. Mohammed Cruz Castaño. NC 352106502. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/03/1975
+Episodio: 13859279
+Hospital: Hospital General Universitario Reina Sofía
+
+Informe clínico del paciente:
+Paciente judío de 4 años de edad, acompañado de su madre. 

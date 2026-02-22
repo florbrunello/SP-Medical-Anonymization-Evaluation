@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Arturo Cano Santamaria
+DNI: 80011889H
+Fecha de nacimiento: 21/02/1971
+Género: M
+Domicilio: Calle de O'Donnell 80
+Ciudad: Reus, Valencia, Comunidad Valenciana
+Código postal: 46881
+Email: cano1239@ioba.med.uva.es
+Teléfono fijo: +34 960 88 42 39
+FAX: +34 960 89 07 40
+NHC: 9292476
+NASS: 800269240928
+Condición de riesgo: Trabajador de Sanitización
+
+Datos asistenciales.
+Médico: Dr. José Ángel Alarcon Gallardo. NC 999328171. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 01/12/2012
+Hospital: Hospital Universitario Nuestra Señora de Candelaria
+Matrícula del coche: 6094RPA
+Modelo: Mercedes-Benz C-Class
+VIN: VSTLTJ9ZI2D761491
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 41 años de edad. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.142.107, con dirección MAC 76:1B:E9:17:0E:06. 

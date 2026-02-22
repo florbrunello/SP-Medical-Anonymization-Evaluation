@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Valeria Franco Ferrer
+DNI: 91389017N
+Fecha de nacimiento: 07/07/1977
+Género: Femenino
+Domicilio: Calle del Barquillo 61, 5E
+Ciudad: Ourense, Vizcaya, Pais Vasco
+Código postal: 48470
+Email: valeria_ferrer@ioba.med.uva.es
+Teléfono fijo: +34 946 46 70 75
+Teléfono móvil: +34 746 61 55 45
+NHC: 2128913
+NASS: 424468977960
+Condición de riesgo: Trabajador de Laboratorio
+
+Datos asistenciales.
+Médico: Dra. Silvia Suárez Simon. NC 112650119. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/12/1981
+Episodio: 49324638
+Hospital: Hospital de Manises
+Matrícula del coche: 7591EQZ
+Modelo: Chrysler Pacifica
+VIN: VSW5IFABE6Q801940
+
+Informe clínico del paciente:
+Paciente no fumador de 4 años de edad, acompañado de su padre. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es XP029HGQ495. 

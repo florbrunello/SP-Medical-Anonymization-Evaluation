@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Mario Guerrero Izquierdo
+DNI: 98320229J
+Fecha de nacimiento: 01/05/1975
+Género: M
+Domicilio: Calle del Olivar 87
+Ciudad: Jaca, Cádiz, Andalucía
+Código postal: 11484
+Email: mario@icloud.com
+Teléfono fijo: +34 956 58 43 38
+Teléfono móvil: +34 756 43 63 90
+NHC: 5893105
+NASS: 703081509183
+
+Datos asistenciales.
+Médico: Dra. María Paz Nieto Álvarez. NC 685516531. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 23/08/1988
+Episodio: 13581874
+Hospital: Hospital Universitari Vall d'Hebron
+
+Informe clínico del paciente:
+Paciente vegetariano de 13 años de edad, acompañado de su madre. 

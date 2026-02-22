@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Vanessa Luque Jiménez
+DNI: 92070250P
+Fecha de nacimiento: 15/01/1984
+Género: M
+Domicilio: Calle de los Jardines 90, 8R
+Ciudad: Torrejón de Ardoz, Burgos, Castilla y León
+Código postal: 09360
+Email: luque@aol.com
+Teléfono fijo: +34 947 59 19 18
+Teléfono móvil: +34 747 79 14 58
+NHC: 6370536
+NASS: 577773094566
+Condición de riesgo: Granjero
+
+Datos asistenciales.
+Médico: Dra. Mercedes Simon Exposito. NC 292572102. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/06/1990
+Episodio: 82567921
+Centro de salud: Centro de Salud Moratalaz
+Matrícula del coche: 0837YLQ
+Modelo: Honda Civic
+VIN: VSYKD923E1F469776
+
+Informe clínico del paciente:
+Paciente de ascendencia centroasiática de 6 años de edad, acompañado de su padre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.56.45, con dirección MAC 39:11:66:17:30:0A. 

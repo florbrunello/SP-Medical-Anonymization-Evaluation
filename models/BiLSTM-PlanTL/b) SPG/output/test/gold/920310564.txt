@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Eduardo Castaño Andres
+DNI: 39993536D
+Fecha de nacimiento: 23/04/1941
+Género: V
+Domicilio: Calle de la Luna 54
+Ciudad: Pamplona, Segovia, Castilla y León
+Código postal: 40102
+Email: castano@gmail.com
+Teléfono fijo: +34 921 47 86 30
+Teléfono móvil: +34 721 20 59 20
+NHC: 9134501
+NASS: 852451625939
+Condición de riesgo: Trabajador de Minería
+
+Datos asistenciales.
+Médico: Dra. Ana Belén Jurado Rueda. NC 268196146. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/10/2001
+Episodio: 59303617
+Centro de salud: Centro de Salud Fuengirola
+
+Informe clínico del paciente:
+Paciente testigo de Jehová de 60 años de edad, acompañado de su conviviente. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.86.138, con dirección MAC 52:C6:F1:D6:B8:7C. El servidor para envío de información desde cual el usuario se comunica es smtp://example-cardiology.com. 

@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Ana María Calvo Peña
+DNI: 87590151X
+Fecha de nacimiento: 17/07/1994
+Género: F
+Domicilio: Calle de la Reina 67, 9I
+Ciudad: Langreo, Formentera, Islas Baleares
+Código postal: 07260
+Email: anamaria.calvo_pena@ioba.med.uva.es
+Teléfono fijo: +34 971 43 68 75
+Teléfono móvil: +34 671 87 72 53
+NHC: 8765757
+Condición de riesgo: Trabajador de Servicios de Limpieza
+
+Datos asistenciales.
+Médico: Dr. Domingo Costa Manzano. NC 978869743. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/11/2006
+Hospital: Hospital de la Santa Creu i Sant Pau
+Matrícula del coche: 6840IAA
+Modelo: Kia Sorento
+VIN: VSMOAPB3ZXL871173
+
+Informe clínico del paciente:
+Paciente judío de 12 años de edad, acompañado de su tío. Se registró una sesión de huella dactilar, el código obtenido para revisarla es EV973SME695. 

@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Josefina Esteban Esteban
+DNI: 31070954R
+Fecha de nacimiento: 11/12/1983
+Género: F
+Domicilio: Calle de Arganzuela 79, 6E
+Ciudad: San Sebastián, Pontevedra, Galicia
+Código postal: 36025
+Email: esteban@ub.edu
+Teléfono fijo: +34 986 49 49 83
+Teléfono móvil: +34 686 69 56 62
+NHC: 4913897
+NASS: 420786258469
+Condición de riesgo: Trabajador de Minería
+
+Datos asistenciales.
+Médico: Dr. Juan Ramón Vera Vargas. NC 733583391. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/02/1987
+Centro de salud: Centro de Salud Arganzuela
+Matrícula del coche: 4223OXA
+Modelo: Subaru Outback
+VIN: VSD0J37JD1V481040
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 3 años de edad, acompañado de su abuela. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.19.12, con dirección MAC A8:7D:68:1C:2E:F1. 

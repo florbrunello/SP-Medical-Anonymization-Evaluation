@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Matilde Rey Álvarez
+DNI: 61612036G
+Fecha de nacimiento: 20/01/1948
+Género: M
+Domicilio: Calle de Santa Isabel 60, 1P
+Ciudad: Cádiz, La Rioja, La Rioja
+Código postal: 26060
+Email: rJTETSFjJaz@gmail.com
+Teléfono fijo: +34 941 29 29 71
+FAX: +34 941 20 27 72
+NHC: 0244389
+
+Datos asistenciales.
+Médico: Dr. Rafael Roca Heredia. NC 846608819. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 09/11/1963
+Episodio: 95358618
+Hospital: Hospital Universitario Virgen Macarena
+Matrícula del coche: 8101EHO
+Modelo: Ford Mustang
+VIN: VSTWKY3A3VO790828
+
+Informe clínico del paciente:
+Paciente vegetariano de 15 años de edad, acompañado de su madre. El servidor para envío de información desde cual el usuario se comunica es smtp://example-therapy.org. 

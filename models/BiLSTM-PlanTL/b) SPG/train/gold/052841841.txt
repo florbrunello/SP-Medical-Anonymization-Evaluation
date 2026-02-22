@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Juan Pedro Conde Marti
+DNI: 76380191C
+Fecha de nacimiento: 04/11/1986
+Género: M
+Domicilio: Calle de Arenal 58
+Ciudad: Ourense, Jaén, Andalucía
+Código postal: 23454
+Email: juanpedro-conde_marti983@gmail.com
+Teléfono fijo: +34 953 48 80 04
+Teléfono móvil: +34 653 20 22 33
+NHC: 4102521
+
+Datos asistenciales.
+Médico: Dr. Eric Aguilar Garrido. NC 847719664. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/10/2013
+Episodio: 22651389
+Hospital: Hospital Universitario de Crúces
+Matrícula del coche: 7666WLC
+Modelo: Hyundai Elantra
+VIN: VSHMMRYRVAT344167
+
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 26 años de edad, acompañado de su hija. Se realizó un expediente con URL http://example-radiology.edu//97660262I. Se registró una sesión de huella dactilar, el código obtenido para revisarla es GN460PFV471. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es LZ015INQ525. 

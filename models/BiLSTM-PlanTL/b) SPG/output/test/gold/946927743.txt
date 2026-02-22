@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Moisés Hidalgo Vicente
+DNI: 66965330W
+Fecha de nacimiento: 22/03/1961
+Género: Varón
+Domicilio: Calle de Sagasta 48
+Ciudad: Alcobendas, Formentera, Islas Baleares
+Código postal: 07658
+Email: moises@ciberisciii.es
+Teléfono fijo: +34 971 15 54 14
+Teléfono móvil: +34 771 95 00 56
+NHC: 0642538
+Condición de riesgo: Soldado
+
+Datos asistenciales.
+Médico: Dr. Santiago Roldan Arroyo. NC 664323484. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 28/10/2000
+Centro de salud: Centro de Salud Delicias
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 39 años de edad, acompañado de su hermana. Se realizó un expediente con URL http://example-hospital.org//24110517O. 

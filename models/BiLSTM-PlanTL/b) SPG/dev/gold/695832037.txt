@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Mohammed Esteban Blazquez
+DNI: 45827020A
+Fecha de nacimiento: 28/10/1928
+Género: Varón
+Domicilio: Calle del Espíritu Santo 13, 2E
+Ciudad: Alcoy, Badajoz, Extremadura
+Código postal: 06216
+Email: blazquez@ioba.med.uva.es
+Teléfono fijo: +34 924 46 03 52
+Teléfono móvil: +34 724 26 22 97
+NHC: 1068319
+NASS: 440018950733
+Condición de riesgo: Albañil
+
+Datos asistenciales.
+Médico: Dra. María Jesús Gómez De la Fuente. NC 804124621. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/11/1948
+Episodio: 95493554
+Hospital: Hospital Universitario Ramón y Cajal
+Matrícula del coche: 6065LPE
+Modelo: Tesla Model 3
+VIN: VSZT4M6LCJR433898
+
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 20 años de edad. Se realizó un expediente con URL http://example-healthcare.net//22022678D. 

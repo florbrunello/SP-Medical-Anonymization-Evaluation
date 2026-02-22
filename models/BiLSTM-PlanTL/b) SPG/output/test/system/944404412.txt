@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Aurora Romero Calderon
+DNI: 62560371A
+Fecha de nacimiento: 06/07/1970
+Género: F
+Domicilio: Calle de Bravo Murillo 50
+Ciudad: Zamora, Navarra, Navarra
+Código postal: 31837
+Email: romero.calderon@gmail.com
+Teléfono fijo: +34 948 61 52 06
+FAX: +34 948 23 28 07
+NHC: 5821545
+
+Datos asistenciales.
+Médico: Dr. Joaquín Ríos Aparicio. NC 892652926. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/01/1971
+Hospital: Hospital Universitario de Gran Canaria Dr. Negrín
+Matrícula del coche: 1742QDS
+Modelo: Toyota RAV4
+VIN: VST77587KVE251216
+
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 6 meses de edad, acompañado de su abuelo. Se realizó un expediente con URL http://example-pharma.org//55764505E. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es UQ667MDC769. Se registró una sesión de firma biométrica, el código obtenido para revisarla es MI782XWY930. 

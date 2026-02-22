@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Domingo Mesa Menendez
+DNI: 82624631Y
+Fecha de nacimiento: 22/09/1931
+Género: Hombre
+Domicilio: Calle de Menorca 25
+Ciudad: Elche, Castellón, Comunidad Valenciana
+Código postal: 12730
+Email: domingo_mesa1476@aol.com
+Teléfono fijo: +34 964 68 13 04
+Teléfono móvil: +34 764 56 02 66
+NHC: 9253720
+NASS: 662653716370
+Condición de riesgo: Operador de Equipos Mineros
+
+Datos asistenciales.
+Médico: Dr. Isaac Bueno Carrillo. NC 826706131. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 15/12/1949
+Centro de salud: Centro de Salud Getafe
+Matrícula del coche: 3322RSM
+Modelo: Chevrolet Silverado
+VIN: VSFX954174T247375
+
+Informe clínico del paciente:
+Paciente vegetariano de 18 años de edad, acompañado de su padre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.232.156, con dirección MAC E4:92:F3:C0:08:18. Se realizó un expediente con URL http://example-dermatology.org//61202038J. El servidor para envío de información desde cual el usuario se comunica es smtp://example-dermatology.org. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es HT701IXE369. 

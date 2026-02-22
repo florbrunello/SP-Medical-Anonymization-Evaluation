@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Roberto Plaza Robles
+DNI: 12912085T
+Fecha de nacimiento: 22/04/1952
+Género: Hombre
+Domicilio: Calle del Pez 11
+Ciudad: Pamplona, Menorca, Islas Baleares
+Código postal: 07384
+Email: roberto.robles@isciii.es
+Teléfono fijo: +34 971 13 87 84
+Teléfono móvil: +34 671 79 01 79
+NHC: 8159572
+NASS: 084681040441
+
+Datos asistenciales.
+Médico: Dra. Montserrat Rivero Soler. NC 179854257. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/12/1986
+Episodio: 19887988
+Hospital: Hospital Regional Universitario de Málaga
+
+Informe clínico del paciente:
+Paciente vegano de 34 años de edad, acompañado de su abuela. 

@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Eugenio Sierra Ruiz
+DNI: 29497162F
+Fecha de nacimiento: 18/01/1941
+Género: V
+Domicilio: Calle de las Huertas 57, 7G
+Ciudad: Jaén, Región de Murcia, Región de Murcia
+Código postal: 30385
+Email: aoJhX1654@ciberned.es
+Teléfono fijo: +34 968 56 69 34
+Teléfono móvil: +34 768 46 23 36
+NHC: 0455525
+NASS: 797252876011
+Condición de riesgo: Trabajador de Mantenimiento
+
+Datos asistenciales.
+Médico: Dr. Christian Cano Núñez. NC 890267392. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 31/10/1981
+Episodio: 09933578
+Centro de salud: Centro de Salud San Sebastián de los Reyes
+
+Informe clínico del paciente:
+Paciente musulman de 40 años de edad, acompañado de su nuera. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.115.115, con dirección MAC 26:99:69:D3:C1:C7. Se realizó un expediente con URL http://example-therapy.org//48700477D. 

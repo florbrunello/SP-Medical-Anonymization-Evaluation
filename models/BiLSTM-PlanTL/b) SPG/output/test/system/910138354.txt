@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Jon Soler Soriano
+DNI: 87049606B
+Fecha de nacimiento: 19/11/1946
+Género: V
+Domicilio: Calle de Velázquez 84
+Ciudad: Plasencia, Albacete, Castilla-La Mancha
+Código postal: 02045
+Email: jon_soriano640@yahoo.com
+Teléfono fijo: +34 967 74 02 97
+Teléfono móvil: +34 667 80 23 80
+NHC: 7491471
+Condición de riesgo: Trabajador de Residuos Sólidos
+
+Datos asistenciales.
+Médico: Dr. Esteban Soriano Luque. NC 574810826. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/06/1973
+Hospital: Complejo Hospitalario Universitario de A Coruña
+Matrícula del coche: 8024YHC
+Modelo: Chevrolet Silverado
+VIN: VSX5YXXXKVG059431
+
+Informe clínico del paciente:
+Paciente víctima de violencia de género de 26 años de edad, acompañado de su hijo. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.37.63, con dirección MAC 68:E7:1C:A4:B0:5E. Se registró una sesión de firma biométrica, el código obtenido para revisarla es PN950POL386. 

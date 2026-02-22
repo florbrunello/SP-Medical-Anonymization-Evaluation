@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Ricardo Mendoza Simon
+DNI: 88478353K
+Fecha de nacimiento: 26/11/1965
+Género: Masculino
+Domicilio: Calle de los Jardines 58
+Ciudad: Elche, Sevilla, Andalucía
+Código postal: 41897
+Email: ricardo_mendoza@icloud.com
+Teléfono fijo: +34 954 05 27 71
+FAX: +34 954 36 45 14
+NHC: 6055689
+NASS: 973922950955
+
+Datos asistenciales.
+Médico: Dr. Germán Escobar Redondo. NC 436393321. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/03/2017
+Centro de salud: Centro de Salud Málaga Norte
+
+Informe clínico del paciente:
+Paciente de tez blanca de 51 años de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es AA571FEO084. 

@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: María Isabel Marti Guerra
+DNI: 24554553Y
+Fecha de nacimiento: 22/04/1994
+Género: Femenino
+Domicilio: Calle de la Montera 33, 9W
+Ciudad: Jaca, Valencia, Comunidad Valenciana
+Código postal: 46658
+Email: marti_guerra@outlook.com
+Teléfono fijo: +34 960 54 19 13
+FAX: +34 960 84 77 59
+NHC: 1979163
+
+Datos asistenciales.
+Médico: Dr. Christian Manzano Alonso. NC 404955459. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 17/12/2022
+Hospital: Complejo Hospitalario Torrecárdenas
+Matrícula del coche: 9725CBQ
+Modelo: Honda CR-V
+VIN: VSSWXO0KOPS137785
+
+Informe clínico del paciente:
+Paciente de tez blanca de 28 años de edad, acompañado de su hijo. El servidor para envío de información desde cual el usuario se comunica es smtp://example-biotech.com. 

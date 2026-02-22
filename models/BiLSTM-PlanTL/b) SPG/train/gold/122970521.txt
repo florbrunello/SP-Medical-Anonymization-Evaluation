@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Francisco Diez Mora
+DNI: 99791026Y
+Fecha de nacimiento: 10/10/1990
+Género: H
+Domicilio: Calle de Preciados 20
+Ciudad: Elche, Palencia, Castilla y León
+Código postal: 34018
+Email: diez@ciberisciii.es
+Teléfono fijo: +34 979 29 39 42
+Teléfono móvil: +34 679 80 32 57
+NHC: 3667185
+
+Datos asistenciales.
+Médico: Dra. Carla Merino López. NC 464408193. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 23/10/2004
+Episodio: 58309279
+Hospital: Hospital Universitari i Politècnic La Fe
+
+Informe clínico del paciente:
+Paciente migrante de 14 años de edad, acompañado de su abuela. 

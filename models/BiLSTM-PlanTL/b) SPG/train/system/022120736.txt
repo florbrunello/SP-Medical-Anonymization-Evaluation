@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Marcos Ferrer Suárez
+DNI: 12918098X
+Fecha de nacimiento: 16/11/2014
+Género: Varón
+Domicilio: Calle de Recoletos 56, 4Z
+Ciudad: Córdoba, Madrid, Madrid
+Código postal: 28555
+Email: ferrer@outlook.com
+Teléfono fijo: +34 912 34 14 15
+Teléfono móvil: +34 711 33 18 36
+NHC: 5325242
+NASS: 655735785738
+
+Datos asistenciales.
+Médico: Dra. María Concepción Lorenzo Castillo. NC 237969957. Gastroenteróloga Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/11/2019
+Hospital: Hospital Universitario Puerto Real
+
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 5 años de edad, acompañado de su tía. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.245.241, con dirección MAC 78:4B:FE:93:6F:69. 

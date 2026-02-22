@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Manuela Morales Cabrera
+DNI: 67539363R
+Fecha de nacimiento: 11/01/1989
+Género: Mujer
+Domicilio: Calle de Embajadores 61, 6X
+Ciudad: Elda, Teruel, Aragón
+Código postal: 44075
+Email: manuela@uca.es
+Teléfono fijo: +34 978 49 11 69
+Teléfono móvil: +34 678 44 45 86
+NHC: 6194951
+
+Datos asistenciales.
+Médico: Dra. Susana Carmona Rey. NC 610597653. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 50535453
+Centro de salud: Centro de Salud Valdemoro
+
+Informe clínico del paciente:
+Paciente judío de 36 años de edad, acompañado de su amigo. 

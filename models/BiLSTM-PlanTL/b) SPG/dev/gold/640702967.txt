@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Antonio Cortés Avila
+DNI: 43124076L
+Fecha de nacimiento: 04/11/1977
+Género: Varón
+Domicilio: Calle de Leganitos 61, 10A
+Ciudad: Elche, Vizcaya, Pais Vasco
+Código postal: 48223
+Email: antonio@gmail.com
+Teléfono fijo: +34 946 55 30 85
+Teléfono móvil: +34 746 25 36 72
+NHC: 4443649
+
+Datos asistenciales.
+Médico: Dr. Pau Pérez Mateos. NC 000577307. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/08/2014
+Episodio: 30223028
+Hospital: Hospital Universitario Central de Asturias
+
+Informe clínico del paciente:
+Paciente de tez blanca de 36 años de edad, acompañado de su prima. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es TQ926REF841. 

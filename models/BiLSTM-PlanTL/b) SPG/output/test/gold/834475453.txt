@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Albert Mesa Varela
+DNI: 17653659D
+Fecha de nacimiento: 22/02/1939
+Género: H
+Domicilio: Calle de la Cabeza 37
+Ciudad: Castellón de la Plana, Córdoba, Andalucía
+Código postal: 14632
+Email: albert@salud.madrid.org
+Teléfono fijo: +34 957 41 99 96
+Teléfono móvil: +34 657 84 23 05
+NHC: 9976322
+Condición de riesgo: Trabajador de Mantenimiento
+
+Datos asistenciales.
+Médico: Dr. Miguel Peña Blazquez. NC 906971153. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/01/2006
+Episodio: 67380414
+Hospital: Hospital Universitario Central de Asturias
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena americana de 66 años de edad, acompañado de su nuera. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.205.188, con dirección MAC B0:86:11:E7:C7:0F. Se registró una sesión de firma biométrica, el código obtenido para revisarla es RI671GQL916. 

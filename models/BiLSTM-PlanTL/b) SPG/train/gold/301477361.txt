@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Isaac Paredes Durán
+DNI: 10265455A
+Fecha de nacimiento: 31/10/1961
+Género: H
+Domicilio: Calle del León 63, 8M
+Ciudad: Telde, Álava, Pais Vasco
+Código postal: 01060
+Email: isaac-paredes@gmail.com
+Teléfono fijo: +34 945 02 91 46
+Teléfono móvil: +34 745 51 75 07
+NHC: 7375971
+NASS: 979073765909
+
+Datos asistenciales.
+Médico: Dra. Belén Silva Bueno. NC 050678014. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/06/1992
+Episodio: 27474038
+Hospital: Hospital Universitari Vall d'Hebron
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 30 años de edad, acompañado de su vecina. Se realizó un expediente con URL http://example-clinica.com//29300248X. 

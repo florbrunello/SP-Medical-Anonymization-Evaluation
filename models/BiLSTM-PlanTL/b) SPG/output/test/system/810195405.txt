@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Joel Robles Andres
+DNI: 97218351L
+Fecha de nacimiento: 01/02/2025
+Género: H
+Domicilio: Calle de Recoletos 58
+Ciudad: Ciudad Real, Huesca, Aragón
+Código postal: 22166
+Email: joel.robles_andres1879@aol.com
+Teléfono fijo: +34 974 10 95 65
+Teléfono móvil: +34 774 26 08 75
+NHC: 7602431
+NASS: 644461386322
+
+Datos asistenciales.
+Médico: Dr. Adolfo Casas Fuentes. NC 404649743. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 76501327
+Hospital: Hospital Universitario de Gran Canaria Dr. Negrín
+Matrícula del coche: 5564ANG
+Modelo: Subaru Outback
+VIN: VSNXZ5PC1AD929981
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena centroamericana de un mes de edad, acompañado de su hermana. Se realizó un expediente con URL http://example-pharma.org//22637297S. 

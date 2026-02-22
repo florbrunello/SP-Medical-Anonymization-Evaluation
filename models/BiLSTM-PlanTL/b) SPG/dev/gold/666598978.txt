@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Salvador Santiago Bermudez
+DNI: 18989163H
+Fecha de nacimiento: 06/10/1973
+Género: M
+Domicilio: Calle de la Reina 26
+Ciudad: Alcalá de Henares, Toledo, Castilla-La Mancha
+Código postal: 45332
+Email: salvadorsantiago@isciii.es
+Teléfono fijo: +34 925 50 46 80
+Teléfono móvil: +34 625 03 60 89
+NHC: 8313635
+Condición de riesgo: Carpintero
+
+Datos asistenciales.
+Médico: Dr. Isaac Rodríguez Gracia. NC 675859254. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 09/01/2025
+Episodio: 13588992
+Hospital: Hospital General Universitario Reina Sofía
+Matrícula del coche: 2160ZMH
+Modelo: Jeep Wrangler
+VIN: VSV6M529X3F183904
+
+Informe clínico del paciente:
+Paciente de tez blanca de 51 años de edad. 

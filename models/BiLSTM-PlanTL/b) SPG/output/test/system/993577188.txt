@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Concepción Sánchez Arias
+DNI: 63635019E
+Fecha de nacimiento: 03/02/1949
+Género: Femenino
+Domicilio: Calle del Nuncio 16
+Ciudad: Guadix, Castellón, Comunidad Valenciana
+Código postal: 12646
+Email: concepcion.sanchez.arias1330@aol.com
+Teléfono fijo: +34 964 68 03 70
+Teléfono móvil: +34 664 54 58 16
+NHC: 2353890
+NASS: 300045530855
+
+Datos asistenciales.
+Médico: Dr. Ricardo Pacheco Rey. NC 158928507. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/02/1962
+Episodio: 21493589
+Centro de salud: Centro de Salud Barajas
+
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 13 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-hospital.org//65390546H. 

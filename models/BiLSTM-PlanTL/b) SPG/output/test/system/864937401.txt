@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Rosario Santos Heredia
+DNI: 83793037N
+Fecha de nacimiento: 18/12/1987
+Género: F
+Domicilio: Calle de las Letras 65
+Ciudad: Linares, Gerona, Cataluña
+Código postal: 17184
+Email: santos_heredia904@protonmail.com
+Teléfono fijo: +34 972 09 83 14
+FAX: +34 972 07 30 56
+NHC: 3654168
+NASS: 759519347678
+
+Datos asistenciales.
+Médico: Dr. Ismael Padilla Ortega. NC 250527915. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/04/1998
+Episodio: 45659177
+Hospital: Hospital Universitario de Gran Canaria Dr. Negrín
+
+Informe clínico del paciente:
+Paciente no fumador de 10 años de edad, acompañado de su tía. El servidor para envío de información desde cual el usuario se comunica es smtp://example-therapy.org. Se registró una sesión de huella dactilar, el código obtenido para revisarla es OD747AON524. 

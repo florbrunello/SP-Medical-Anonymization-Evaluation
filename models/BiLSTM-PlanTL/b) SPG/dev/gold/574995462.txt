@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Valentín Mesa Cruz
+DNI: 37577807Q
+Fecha de nacimiento: 14/12/1950
+Género: M
+Domicilio: Calle del Marqués de Urquijo 48
+Ciudad: Ermua, Córdoba, Andalucía
+Código postal: 14798
+Email: valentin-cruz@ucm.es
+Teléfono fijo: +34 957 00 46 51
+Teléfono móvil: +34 757 35 21 59
+NHC: 8996334
+NASS: 737159522557
+Condición de riesgo: Pintor de Construcción
+
+Datos asistenciales.
+Médico: Dr. Darío Aparicio Aranda. NC 189646969. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/04/2010
+Episodio: 22837416
+Hospital: Hospital Regional Universitario de Málaga
+Matrícula del coche: 4069HLM
+Modelo: Hyundai Elantra
+VIN: VSS8ZH70S6D410478
+
+Informe clínico del paciente:
+Paciente vegetariano de 59 años de edad, acompañado de su tío. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.11.167, con dirección MAC 45:B0:06:2C:79:40. 

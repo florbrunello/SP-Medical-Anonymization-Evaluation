@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: María Luisa Navarro Rivas
+DNI: 24391338E
+Fecha de nacimiento: 07/06/1967
+Género: Femenino
+Domicilio: Calle de Villalar 16
+Ciudad: Teruel, Lérida, Cataluña
+Código postal: 25130
+Email: navarro_rivas510@ub.edu
+Teléfono fijo: +34 973 56 08 00
+Teléfono móvil: +34 673 26 24 39
+NHC: 9164877
+NASS: 375871867500
+Condición de riesgo: Trabajador Agrícola
+
+Datos asistenciales.
+Médico: Dra. María Rosario Vázquez Paredes. NC 170773224. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/05/2013
+Episodio: 82560013
+Hospital: Hospital Regional Universitario de Málaga
+
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 45 años de edad, acompañado de su prima. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.43.207, con dirección MAC 86:88:59:20:0F:6B. Se registró una sesión de firma biométrica, el código obtenido para revisarla es FL482KDV547. 

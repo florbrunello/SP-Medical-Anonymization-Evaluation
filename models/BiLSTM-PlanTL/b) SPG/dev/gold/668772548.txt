@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Sergio Soler Rojas
+DNI: 38955472G
+Fecha de nacimiento: 13/02/1975
+Género: Masculino
+Domicilio: Calle de la Paz 86
+Ciudad: Almería, Las Palmas, Canarias
+Código postal: 35597
+Email: rojas1686@aol.com
+Teléfono fijo: +34 928 78 29 77
+Teléfono móvil: +34 728 03 32 39
+NHC: 5319868
+NASS: 565708605328
+Condición de riesgo: Paramédico
+
+Datos asistenciales.
+Médico: Dr. Aitor Trujillo Herrera. NC 296402008. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/08/1999
+Episodio: 30320878
+Centro de salud: Centro de Salud Alcalá de Henares
+Matrícula del coche: 4058HVR
+Modelo: Jeep Wrangler
+VIN: VSKZ7OL8T8C254077
+
+Informe clínico del paciente:
+Paciente no fumador de 24 años de edad, acompañado de su sobrino. Se realizó un expediente con URL http://example-cardiology.com//83680731M. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es VS074APY827. 

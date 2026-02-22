@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Magdalena Millan Espinosa
+DNI: 59535475K
+Fecha de nacimiento: 27/09/1999
+Género: Femenino
+Domicilio: Calle de las Salesas 95, 3A
+Ciudad: Béjar, Palencia, Castilla y León
+Código postal: 34275
+Email: 5QaQZ4pbcdjXk3T@ucm.es
+Teléfono fijo: +34 979 50 83 48
+Teléfono móvil: +34 679 87 53 37
+NHC: 5241352
+NASS: 922793342052
+Condición de riesgo: Trabajador de Servicios de Limpieza
+
+Datos asistenciales.
+Médico: Dra. Ainhoa Acosta Galan. NC 599520494. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 19/01/2003
+Episodio: 07672608
+Centro de salud: Centro de Salud Arganzuela
+
+Informe clínico del paciente:
+Paciente usuario de drogas de 3 años de edad, acompañado de su abuela. El servidor para envío de información desde cual el usuario se comunica es smtp://example-nutrition.net. 

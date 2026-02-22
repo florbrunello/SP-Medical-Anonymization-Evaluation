@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Diego Herrero Macias
+DNI: 26395951R
+Fecha de nacimiento: 21/12/1952
+Género: V
+Domicilio: Calle de la Luna 12, 9U
+Ciudad: Logroño, Castellón, Comunidad Valenciana
+Código postal: 12769
+Email: herreromacias@ciberned.es
+Teléfono fijo: +34 964 72 10 60
+Teléfono móvil: +34 664 45 41 82
+NHC: 6729870
+NASS: 313959152389
+Condición de riesgo: Ingeniero de Minas
+
+Datos asistenciales.
+Médico: Dr. Rodrigo Luna Martín. NC 492648739. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 29/11/1976
+Episodio: 06898218
+Hospital: Hospital Universitario Virgen Macarena
+
+Informe clínico del paciente:
+Paciente de tez blanca de 23 años de edad. 
