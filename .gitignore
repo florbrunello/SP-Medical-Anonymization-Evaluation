@@ -5,6 +5,7 @@ models/BiLSTM-CRF-Flair/d) CARMEN-I/
 __pycache__/
 .data
 .meta
+.nojekyll
 .data-00000-of-00001
 vocab_embeddings_flair.npz
 vocab_embeddings_spacy.npz
