@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clinical Text Anonymization Poster</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+</head>
+<body>
+    <div id="root"></div>
+    
+    <script type="text/babel">
+        const { useState } = React;
+
+        // Icon components (simplified SVG replacements)
+        const Shield = () => (
+            <svg className="w-8 h-8 text-blue-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
+            </svg>
+        );
+
+        const Activity = () => (
+            <svg className="w-8 h-8 text-blue-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+            </svg>
+        );
+
+        const Database = () => (
+            <svg className="w-6 h-6 text-indigo-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 7v10c0 1.105 2.686 2 6 2s6-.895 6-2V7m0 0c0 1.105-2.686 2-6 2s-6-.895-6-2m0 0c0-1.105 2.686-2 6-2s6 .895 6 2m0 5c0 1.105-2.686 2-6 2s-6-.895-6-2" />
+            </svg>
+        );
+
+        const CheckCircle = () => (
+            <svg className="w-4 h-4 text-emerald-600" fill="currentColor" viewBox="0 0 20 20">
+                <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+            </svg>
+        );
+
+        function App() {
+            return (
+                <div className="min-h-screen bg-slate-200 py-10 px-4 sm:px-10 font-sans text-slate-800 flex justify-center">
+                    <div className="bg-white max-w-7xl w-full shadow-2xl rounded-2xl overflow-hidden border border-slate-300">
+                        
+                        {/* Header Section */}
+                        <header className="bg-gradient-to-r from-blue-900 to-indigo-800 text-white p-10 text-center relative overflow-hidden">
+                            <div className="absolute top-0 left-0 w-full h-full opacity-10" style={{backgroundImage: 'url(https://www.transparenttextures.com/patterns/cubes.png)'}}></div>
+                            <div className="relative z-10">
+                                <div className="flex flex-wrap justify-center mb-6 gap-3">
+                                    <span className="bg-blue-800/50 px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold tracking-wide border border-blue-400/30 uppercase text-center">
+                                        Clinical Text Anonymization
+                                    </span>
+                                    <span className="bg-indigo-800/50 px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold tracking-wide border border-indigo-400/30 uppercase text-center">
+                                        Spanish Clinical NLP
+                                    </span>
+                                    <span className="bg-emerald-800/50 px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold tracking-wide border border-emerald-400/30 uppercase text-center">
+                                        De-identification Methods Comparison
+                                    </span>
+                                </div>
+                                <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
+                                    A Comparative Study of Approaches to Anonymization <br className="hidden md:block" /> of Clinical Free Text in Spanish
+                                </h1>
+                                <p className="text-xl md:text-2xl font-medium text-blue-100 mb-2">
+                                    Florencia Brunello, Serena Villata, Laura Alonso Alemany, Milagro Teruel
+                                </p>
+                                <p className="text-md md:text-lg text-blue-200 font-light mb-6">
+                                    Universidad Nacional de Córdoba &amp; Université Côte d'Azur
+                                </p>
+                                <a href="mailto:florenciabrunello@unc.edu.ar" className="inline-block px-6 py-2 rounded-full bg-white/10 hover:bg-white/20 transition backdrop-blur-sm border border-white/20 text-sm font-medium">
+                                    florenciabrunello@unc.edu.ar
+                                </a>
+                            </div>
+                        </header>
+
+                        {/* Main Content Grid */}
+                        <main className="p-8 md:p-12 grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-10">
+                            
+                            {/* Column 1 */}
+                            <div className="space-y-8">
+                                <section>
+                                    <div className="flex items-center gap-3 mb-4 border-b-2 border-blue-800 pb-2">
+                                        <Shield />
+                                        <h2 className="text-2xl font-bold text-blue-900 uppercase tracking-wide">1. Introduction</h2>
+                                    </div>
+                                    <p className="text-lg leading-relaxed mb-4">
+                                        The anonymization of clinical free-text records is a strict prerequisite for enabling the <strong>secondary use of healthcare data</strong> while preserving patient privacy.
+                                    </p>
+                                    <div className="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg">
+                                        <h3 className="font-bold text-red-800 mb-1">The Problem</h3>
+                                        <p className="text-red-900/80">
+                                            This challenge is particularly acute for <strong>Spanish clinical text</strong>, where annotated resources are scarce and practitioners lack clear empirical guidance on which technological approaches to use.
+                                        </p>
+                                    </div>
+                                </section>
+
+                                <section>
+                                    <div className="flex items-center gap-3 mb-4 border-b-2 border-blue-800 pb-2">
+                                        <Activity />
+                                        <h2 className="text-2xl font-bold text-blue-900 uppercase tracking-wide">2. Objective</h2>
+                                    </div>
+                                    <p className="text-lg leading-relaxed">
+                                        To present a <strong>controlled comparative study</strong> of representative anonymization paradigms for Spanish clinical narratives to determine the most effective approach based on restrictions and capabilities.
+                                    </p>
+                                </section>
+
+                                <section>
+                                    <div className="flex items-center gap-3 mb-4 border-b-2 border-blue-800 pb-2">
+                                        <h2 className="text-2xl font-bold text-blue-900 uppercase tracking-wide">3. Datasets</h2>
+                                    </div>
+                                    <p className="text-sm leading-relaxed mb-4 text-slate-700">
+                                        The main purpose in determining the datasets was to ensure <strong>fair evaluation</strong> of different approaches, avoiding data leakage from public datasets to large pretrained models, and providing a methodology to create datasets tailored to specific deployment contexts.
+                                    </p>
+                                    
+                                    <div className="bg-blue-50 border border-blue-200 p-4 rounded-lg mb-4">
+                                        <h3 className="font-bold text-blue-900 mb-2">Four Datasets Used:</h3>
+                                        <ul className="text-sm space-y-2 text-slate-700">
+                                            <li>• <strong>MEDDOCAN</strong> - 1,000 synthetic clinical cases (since 2019)</li>
+                                            <li>• <strong>CARMEN-I</strong> - 1,697 Spanish clinical narratives (2020-2022)</li>
+                                            <li>• <strong>SPG Dataset</strong> - Synthetic Patient Generator</li>
+                                            <li>• <strong>SPG+LLM</strong> - Extended with Llama 3.1 (448 documents)</li>
+                                        </ul>
+                                    </div>
+
+                                    <div className="bg-slate-50 border border-slate-200 p-4 rounded-lg mb-4">
+                                        <h3 className="font-bold text-slate-900 mb-2 text-sm">PHI Guidelines</h3>
+                                        <p className="text-xs text-slate-600">
+                                            Annotations follow MEDDOCAN Protected Health Information (PHI) guidelines with <strong>28 entity types</strong> covering personal identifiers, healthcare professionals, institutions, locations, dates, contact information, and other sensitive attributes.
+                                        </p>
+                                    </div>
+
+                                    <div className="text-xs space-y-3">
+                                        <div>
+                                            <h4 className="font-bold text-slate-800">MEDDOCAN</h4>
+                                            <p className="text-slate-600">Released in IberLEF 2019. 1,000 synthetic clinical case reports manually curated by medical experts enriched with realistic PHI instances from discharge summaries and medical genetics records.</p>
+                                        </div>
+                                        <div>
+                                            <h4 className="font-bold text-slate-800">CARMEN-I</h4>
+                                            <p className="text-slate-600">Anonymized clinical narratives from Hospital Clínic de Barcelona (March 2020-2022). Comprises: Radiology reports (961), Discharge summaries (573), Transfer reports (154), Exitus reports (5), Clinical course notes (4).</p>
+                                        </div>
+                                        <div>
+                                            <h4 className="font-bold text-slate-800">Synthetic Datasets</h4>
+                                            <p className="text-slate-600">SPG: Open-source module generating fully synthetic Spanish clinical documents. SPG+LLM: Extended using Llama 3.1 for richer linguistic variability while preserving original structure after manual curation.</p>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+
+                            {/* Column 2 */}
+                            <div className="space-y-8">
+                                <section className="bg-indigo-50 border border-indigo-200 p-6 rounded-2xl shadow-sm">
+                                    <h3 className="text-xl font-bold text-indigo-900 mb-3 flex items-center gap-2">
+                                        <Database />
+                                        Contribution: Synthetic Datasets
+                                    </h3>
+                                    <p className="text-indigo-900/80 leading-relaxed text-sm md:text-base">
+                                        To ensure a <strong>fair and contamination-aware evaluation</strong>, particularly given the opacity of pretrained LLMs training data, we introduced a synthetic clinical dataset designed to mirror the structural properties of established benchmarks while avoiding direct overlap.
+                                    </p>
+                                </section>
+
+                                <section>
+                                    <div className="flex items-center gap-3 mb-4 border-b-2 border-indigo-800 pb-2">
+                                        <h2 className="text-2xl font-bold text-indigo-900 uppercase tracking-wide">4. Metrics & Results</h2>
+                                    </div>
+                                    
+                                    <p className="text-sm leading-relaxed mb-3 text-slate-700">
+                                        All approaches were evaluated against <strong>gold standard annotations at the character level</strong>, ensuring fair comparison across different methodologies.
+                                    </p>
+
+                                    <div className="bg-indigo-50 border border-indigo-200 p-4 rounded-lg mb-4">
+                                        <h3 className="font-bold text-indigo-900 mb-3 text-sm">Evaluation Metrics</h3>
+                                        
+                                        <div className="text-xs space-y-3">
+                                            <div>
+                                                <h4 className="font-bold text-slate-800 mb-1">Accuracy & F1-Scores</h4>
+                                                <p className="text-slate-600">
+                                                    Obtained by <strong>macro-averaging</strong> the score for each class, excluding the "O" class (non-entities).
+                                                </p>
+                                            </div>
+                                            
+                                            <div>
+                                                <h4 className="font-bold text-slate-800 mb-1">Confusion Matrices</h4>
+                                                <p className="text-slate-600">
+                                                    Analyzed for <strong>fine-grained analysis</strong> of systematic prediction errors across entity types.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+
+                                <section>
+                                    <div className="flex items-center gap-3 mb-4 border-b-2 border-indigo-800 pb-2">
+                                        <h2 className="text-2xl font-bold text-indigo-900 uppercase tracking-wide">F1 Performance Comparison</h2>
+                                    </div>
+                                    <div className="bg-slate-50 border border-slate-200 p-4 rounded-lg">
+                                        <img src="f1.png" alt="F1 Scores Comparison Chart" className="w-full rounded h-80" />
+                                    </div>
+                                </section>
+
+                                <section>
+                                    <div className="flex items-center gap-3 mb-4 border-b-2 border-indigo-800 pb-2">
+                                        <Database />
+                                        <h2 className="text-2xl font-bold text-indigo-900 uppercase tracking-wide">5. Paradigms Compared</h2>
+                                    </div>
+                                    <div className="grid gap-4">
+                                        <div className="bg-slate-100 p-4 rounded-xl border border-slate-200 flex items-start gap-3">
+                                            <div className="text-slate-500 shrink-0 mt-1">📄</div>
+                                            <div>
+                                                <h3 className="font-bold">Rule-Based Approach</h3>
+                                                <p className="text-sm text-slate-600">The established deterministic baseline.</p>
+                                            </div>
+                                        </div>
+                                        <div className="bg-slate-100 p-4 rounded-xl border border-slate-200 flex items-start gap-3">
+                                            <div className="text-purple-600 shrink-0 mt-1">🧠</div>
+                                            <div>
+                                                <h3 className="font-bold">Large Language Models (LLMs)</h3>
+                                                <p className="text-sm text-slate-600">General-purpose models under prompt-based inference.</p>
+                                            </div>
+                                        </div>
+                                        <div className="bg-slate-100 p-4 rounded-xl border border-slate-200 flex items-start gap-3">
+                                            <div className="text-blue-500 shrink-0 mt-1">💾</div>
+                                            <div>
+                                                <h3 className="font-bold">spaCy (Off-the-shelf)</h3>
+                                                <p className="text-sm text-slate-600">Industrial NLP toolkit approach.</p>
+                                            </div>
+                                        </div>
+                                        <div className="bg-slate-100 p-4 rounded-xl border border-slate-200 flex items-start gap-3">
+                                            <div className="text-green-600 shrink-0 mt-1">⚡</div>
+                                            <div>
+                                                <h3 className="font-bold">Recurrent Neural Networks</h3>
+                                                <p className="text-sm text-slate-600">Trainable neural sequence labeling architectures.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+
+                            {/* Column 3 */}
+                            <div className="space-y-8">
+                                <section>
+                                    <div className="flex items-center gap-3 mb-4 border-b-2 border-emerald-700 pb-2">
+                                        <svg className="w-8 h-8 text-emerald-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+                                        </svg>
+                                        <h2 className="text-2xl font-bold text-emerald-900 uppercase tracking-wide">6. Key Findings</h2>
+                                    </div>
+                                    
+                                    <div className="text-xs space-y-3 mb-4">
+                                        <div className="bg-blue-50 rounded-lg p-4 border border-blue-200">
+                                            <h3 className="font-bold text-blue-900 mb-2">BiLSTM-CRF: Recurrent Neural Networks</h3>
+                                            <p className="text-blue-800 mb-2">
+                                                Fully trained BiLSTM consistently outperforms BiLSTM approaches using pre-trained embeddings across most datasets and document types.
+                                            </p>
+                                            <p className="text-blue-700 text-xs">
+                                                <strong>Performance characteristics:</strong><br/>
+                                                • Trained embeddings on specific datasets improve performance<br/>
+                                                • Pre-trained embeddings underperform on natural data like CARMEN-I<br/>
+                                                • Exception: MEDDOCAN shows similar performance across BiLSTM variants (possible data leakage)<br/>
+                                                • Consistently outperforms REGEX across document types
+                                            </p>
+                                        </div>
+
+                                        <div className="bg-emerald-50 rounded-lg p-4 border border-emerald-200">
+                                            <h3 className="font-bold text-emerald-900 mb-2">spaCy: Industrial NLP Toolkit</h3>
+                                            <p className="text-emerald-800 mb-2">
+                                                Achieves the best F1 scores across all datasets. Superior architecture compared to classic BiLSTM.
+                                            </p>
+                                            <p className="text-emerald-700 text-xs">
+                                                <strong>Architectural advantages:</strong><br/>
+                                                • All components trained from scratch on specific datasets<br/>
+                                                • Constructs complex representation of words and strings beyond classic BiLSTM<br/>
+                                                • Rich representation component transforming different kinds of embeddings<br/>
+                                                • Robust performance on natural, heterogeneous datasets
+                                            </p>
+                                        </div>
+
+                                        <div className="bg-yellow-50 rounded-lg p-4 border border-yellow-200">
+                                            <h3 className="font-bold text-yellow-900 mb-2">LLM (Llama 3.1): Pretrained Models</h3>
+                                            <p className="text-yellow-800 mb-2">
+                                                Generic pretrained LLM shows significant performance variability across different datasets.
+                                            </p>
+                                            <p className="text-yellow-700 text-xs">
+                                                <strong>Performance observations:</strong><br/>
+                                                • High performance on Extended SPG (F1 0.674) - the synthetic dataset created with Llama 3.1<br/>
+                                                • Significantly lower performance on natural CARMEN-I data (F1 0.098)<br/>
+                                                • Performance cannot be extrapolated from synthetic to real-world datasets<br/>
+                                                • Important consideration: circular evaluation patterns when using LLMs on LLM-generated data
+                                            </p>
+                                        </div>
+
+                                        <div className="bg-red-50 rounded-lg p-4 border border-red-200">
+                                            <h3 className="font-bold text-red-900 mb-2">REGEX: Rule-Based Approach</h3>
+                                            <p className="text-red-800 mb-2">
+                                                Learning-based approaches substantially outperform REGEX across all datasets.
+                                            </p>
+                                            <p className="text-red-700 text-xs">
+                                                <strong>Limitations:</strong><br/>
+                                                • Very poor performance on natural data (CARMEN-I: F1 0.001)<br/>
+                                                • Limited coverage and inability to generalize beyond explicit patterns<br/>
+                                                • Requires important adaptation effort for each new domain<br/>
+                                                • Consistent underperformance vs. learning-based approaches across heterogeneous document types
+                                            </p>
+                                        </div>
+                                    </div>
+                                </section>
+
+                                <section>
+                                    <div className="flex items-center gap-3 mb-4 border-b-2 border-emerald-700 pb-2">
+                                        <h2 className="text-2xl font-bold text-emerald-900 uppercase tracking-wide">7. Analysis Results</h2>
+                                    </div>
+                                    <div className="bg-emerald-50 border border-emerald-200 p-4 rounded-lg mb-3">
+                                        <h4 className="font-bold text-emerald-900 mb-2 text-sm">Performance by Dataset:</h4>
+                                        <div className="text-xs space-y-2 text-slate-700">
+                                            <p><strong>SPG (Synthetic):</strong> spaCy achieves 0.880 F1</p>
+                                            <p><strong>Extended SPG:</strong> spaCy F1 0.675 vs Llama 0.674</p>
+                                            <p><strong>MEDDOCAN:</strong> spaCy F1 0.770 (data leakage effects)</p>
+                                            <p><strong>CARMEN-I (Natural):</strong> spaCy F1 0.657, REGEX F1 0.001</p>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                        </main>
+
+                        {/* Footer Section */}
+                        <footer className="bg-slate-900 text-slate-400 p-6 text-center text-sm">
+                            <p>This poster summarizes the findings from the study <i>"A Comparative Study of Approaches to Anonymization of Clinical Free Text in Spanish"</i>.</p>
+                            <div className="flex justify-center items-center gap-4 mt-2 opacity-70">
+                                <span>Universidad Nacional de Córdoba</span>
+                                <span>•</span>
+                                <span>Université Côte d'Azur</span>
+                            </div>
+                        </footer>
+                    </div>
+                </div>
+            );
+        }
+
+        ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+    </script>
+</body>
+</html>
